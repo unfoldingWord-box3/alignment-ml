@@ -12,12 +12,17 @@ import requests
 
 
 def fetchFile(url):
-    print ('fetchFile ' + url)
+    print('fetchFile ' + url)
     data = requests.get(url, allow_redirects=True)
     return data
 
+def getRepoName(bibleType, bookId):
+    fullPath = bibleType + '_' + bookId + '_book'
+    print ('getRepoName ' + fullPath)
+    return fullPath
+
 def getBibleUrl(userUrl, bibleType, bookId, chapter):
-    fullPath = userUrl + '/' + bibleType + '_' + bookId + '_book/raw/branch/master/.apps/translationCore/alignmentData/' + bookId + '/' + chapter + '.json'
+    fullPath = userUrl + '/' + getRepoName(bibleType, bookId) + '/raw/branch/master/.apps/translationCore/alignmentData/' + bookId + '/' + chapter + '.json'
     print ('getBibleUrl ' + fullPath)
     return fullPath
 
@@ -26,7 +31,11 @@ def fetchAlignments(userUrl, bibleType, bookId, chapter):
     data = fetchFile(url)
     return data
 
-def downloadAlignments(userUrl, bibleType, bookId, chapter, outputPath):
-    url = fetchAlignments(userUrl, bibleType, bookId, chapter)
+def downloadFile(url, outputPath):
     data = fetchFile(url)
-    return data
+    text = data.text
+    f = open(outputPath, "w")
+    print ('downloadAlignments ' + outputPath)
+    f.write(text)
+
+
