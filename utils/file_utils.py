@@ -1,3 +1,4 @@
+import os
 import requests
 
 # %load_ext autoreload
@@ -38,4 +39,7 @@ def downloadFile(url, outputPath):
     print ('downloadAlignments ' + outputPath)
     f.write(text)
 
-
+def makeFolder(outputFolder):
+    if not os.path.isdir(outputFolder):
+        print ('makeFolder - creating folder ' + outputFolder)
+        os.mkdir(outputFolder)

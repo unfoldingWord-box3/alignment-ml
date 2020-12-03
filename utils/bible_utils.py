@@ -1492,9 +1492,7 @@ def getBookList(newTestament):
 def downloadChapterAlignments(userUrl, bibleType, bookId, chapter, outputBasePath):
     url = utils.file_utils.getBibleUrl(userUrl, bibleType, bookId, chapter)
     outputFolder = outputBasePath + '/' + utils.file_utils.getRepoName(bibleType, bookId)
-    if not os.path.isdir(outputFolder):
-        print ('downloadChapterAlignments - creating folder ' + outputFolder)
-        os.mkdir(outputFolder)
+    utils.file_utils.makeFolder(outputFolder)
     outputPath = outputFolder + '/' + chapter + '.json'
     if not os.path.isfile(outputPath):
         utils.file_utils.downloadFile(url, outputPath)
@@ -1508,6 +1506,7 @@ def downloadBookAlignments(userUrl, bibleType, bookId, outputBasePath):
         downloadChapterAlignments(userUrl, bibleType, bookId, chapter, outputBasePath)
 
 def downloadTestamentAlignments(userUrl, bibleType, newTestament, outputBasePath):
+    utils.file_utils.makeFolder(outputBasePath)
     books = getBookList(newTestament)
     for bookId in books:
         print('downloadTestamentAlignments downloading book ' + bookId)
