@@ -1,5 +1,7 @@
 import sqlite3
 from sqlite3 import Error
+import utils.file_utils as file
+import utils.bible_utils as bible
 
 def create_connection(path):
     connection = None
@@ -16,7 +18,7 @@ def execute_query(connection, query):
     try:
         cursor.execute(query)
         connection.commit()
-        print("Query executed successfully")
+        # print("Query executed successfully")
     except Error as e:
         print(f"The error '{e}' occurred")
 
@@ -113,7 +115,46 @@ def addMultipleItemsToDatabase(connection, table, db_words):
     execute_query(connection, add_words)
 
 def getRecords(connection, table, filter):
-    select_items = f"SELECT {filter} from {table}"
+    select_items = f"SELECT * FROM {table}"
+    if len(filter):
+        select_items = select_items + f"\nWHERE {filter}"
+    print(f"getRecords:\n{select_items}")
     items = execute_read_query(connection, select_items)
     return items
 
+def deleteWordsForBook(connection, table, bookId):
+    selection = f"book_id = '{bookId}'"
+    deleteBook = f"DELETE FROM {table}\nWHERE {selection};\n"
+    print(f"deleteWordsForBook:\n{deleteBook}")
+    execute_query(connection, deleteBook)
+
+def loadAllWordsFromBookIntoDB(connection, origLangPath, bookId, table):
+    deleteWordsForBook(connection, table, bookId)
+
+    foundNonNumericalVerse = 0
+    chapters = bible.getChaptersForBook(bookId)
+    for chapter in chapters:
+        print(f"{bookId} - Reading chapter {chapter}")
+
+        chapterPath = f"{origLangPath}/{bookId}/{chapter}.json"
+        chapter_dict = file.readJsonFile(chapterPath)
+
+        for verse, verseData in chapter_dict.items():
+            try:
+                verseNum = int(verse) # make sure its a number
+                # print(f"Reading verse {verse}")
+                words = getVerseWordsFromChapter(chapter_dict, verse)
+                db_words = getDbWordsForVerse(words, bookId, chapter, verse)
+
+                # print(f"For {chapter}:{verse} Saving {len(db_words)}")
+
+                addMultipleItemsToDatabase(connection, table, db_words)
+            except:
+                # print(f"Skipping verse {verse}")
+                foundNonNumericalVerse = 1
+
+def loadAllWordsFromTestamentIntoDB(connection, origLangPath, newTestament, table):
+    books = bible.getBookList(newTestament)
+    for book in books:
+        print (f"reading {book}")
+        loadAllWordsFromBookIntoDB(connection, origLangPath, book, table)
