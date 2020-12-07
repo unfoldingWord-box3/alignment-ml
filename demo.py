@@ -12,8 +12,8 @@ CREATE TABLE IF NOT EXISTS word (
   verse TEXT NOT NULL,
   word_num INTEGER,
   word TEXT NOT NULL,
-  occurrance INTEGER,
-  occurrances INTEGER,
+  occurrence INTEGER,
+  occurrences INTEGER,
   strong TEXT,
   lemma TEXT,
   morph TEXT

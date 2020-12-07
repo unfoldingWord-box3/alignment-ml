@@ -4,12 +4,16 @@ import json
 
 def fetchFile(url):
     print('fetchFile ' + url)
-    data = requests.get(url, allow_redirects=True)
+    try:
+        data = requests.get(url, allow_redirects=True)
+    except:
+        print(f"Error loading {url}")
+        data = ''
     return data
 
 def getRepoName(bibleType, bookId):
     fullPath = bibleType + '_' + bookId + '_book'
-    print ('getRepoName ' + fullPath)
+    # print ('getRepoName ' + fullPath)
     return fullPath
 
 def getBibleUrl(userUrl, bibleType, bookId, chapter):
@@ -28,6 +32,17 @@ def downloadFile(url, outputPath):
     f = open(outputPath, "w")
     print ('downloadAlignments ' + outputPath)
     f.write(text)
+
+def downloadJsonFile(url, outputPath):
+    data = fetchFile(url)
+    text = data.text
+    try:
+        dataJson = json.loads(text) # make sure json
+        f = open(outputPath, "w")
+        print ('downloadJsonFile ' + outputPath)
+        f.write(text)
+    except:
+        print (f'downloadJsonFile - file invalid: {url} ')
 
 def readFile(inputPath):
     f = open(inputPath, "r")

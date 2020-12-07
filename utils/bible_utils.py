@@ -1495,7 +1495,7 @@ def downloadChapterAlignments(userUrl, bibleType, bookId, chapter, outputBasePat
     utils.file_utils.makeFolder(outputFolder)
     outputPath = outputFolder + '/' + chapter + '.json'
     if not os.path.isfile(outputPath):
-        utils.file_utils.downloadFile(url, outputPath)
+        utils.file_utils.downloadJsonFile(url, outputPath)
     else:
         print('file already exists, skipping ' + outputPath)
 
@@ -1511,4 +1511,16 @@ def downloadTestamentAlignments(userUrl, bibleType, newTestament, outputBasePath
     for bookId in books:
         print('downloadTestamentAlignments downloading book ' + bookId)
         downloadBookAlignments(userUrl, bibleType, bookId, outputBasePath)
+
+def loadChapterAlignments(inputBasePath, bibleType, bookId, chapter):
+    inputFolder = inputBasePath + '/' + utils.file_utils.getRepoName(bibleType, bookId)
+    inputPath = inputFolder + '/' + chapter + '.json'
+    print(f"loadChapterAlignments - {inputPath}")
+    if os.path.isfile(inputPath):
+        data = utils.file_utils.readJsonFile(inputPath)
+    else:
+        print('file missing ' + inputPath)
+        data = ''
+    return data
+
 
