@@ -1,16 +1,6 @@
 import os
 import requests
-
-# %load_ext autoreload
-# %autoreload 2
-
-# https://git.door43.org/lrsallee/en_ust_2ti_book/raw/branch/master/.apps/translationCore/alignmentData/2ti/1.json
-
-# userUrl = 'https://git.door43.org/lrsallee'
-# bibleType = 'en_ult'
-# bookId = '1ti'
-# chapter = '1'
-
+import json
 
 def fetchFile(url):
     print('fetchFile ' + url)
@@ -39,7 +29,19 @@ def downloadFile(url, outputPath):
     print ('downloadAlignments ' + outputPath)
     f.write(text)
 
+def readFile(inputPath):
+    f = open(inputPath, "r")
+    # print ('readFile ' + inputPath)
+    data = f.read()
+    return data
+
 def makeFolder(outputFolder):
     if not os.path.isdir(outputFolder):
         print ('makeFolder - creating folder ' + outputFolder)
         os.mkdir(outputFolder)
+
+def readJsonFile(inputPath):
+    # print ('readJsonFile ' + inputPath)
+    data = readFile(inputPath)
+    dict = json.loads(data)
+    return dict
