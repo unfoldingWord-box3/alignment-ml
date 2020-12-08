@@ -1,5 +1,5 @@
 import os
-import utils.file_utils
+import utils.file_utils as file
 
 BIBLE_BOOKS = {
     'oldTestament': {
@@ -1490,12 +1490,12 @@ def getBookList(newTestament):
     return outputList
 
 def downloadChapterAlignments(userUrl, bibleType, bookId, chapter, outputBasePath):
-    url = utils.file_utils.getBibleUrl(userUrl, bibleType, bookId, chapter)
-    outputFolder = outputBasePath + '/' + utils.file_utils.getRepoName(bibleType, bookId)
-    utils.file_utils.makeFolder(outputFolder)
+    url = file.getBibleUrl(userUrl, bibleType, bookId, chapter)
+    outputFolder = outputBasePath + '/' + file.getRepoName(bibleType, bookId)
+    file.makeFolder(outputFolder)
     outputPath = outputFolder + '/' + chapter + '.json'
     if not os.path.isfile(outputPath):
-        utils.file_utils.downloadJsonFile(url, outputPath)
+        file.downloadJsonFile(url, outputPath)
     else:
         print('file already exists, skipping ' + outputPath)
 
@@ -1504,20 +1504,22 @@ def downloadBookAlignments(userUrl, bibleType, bookId, outputBasePath):
     for chapter in chapters:
         print('downloadBookAlignments downloading chapter ' + chapter)
         downloadChapterAlignments(userUrl, bibleType, bookId, chapter, outputBasePath)
+    outputFolder = outputBasePath + '/' + file.getRepoName(bibleType, bookId)
+    file.removeEmptyFolder(outputFolder) # don't leave empty folders behind
 
 def downloadTestamentAlignments(userUrl, bibleType, newTestament, outputBasePath):
-    utils.file_utils.makeFolder(outputBasePath)
+    file.makeFolder(outputBasePath)
     books = getBookList(newTestament)
     for bookId in books:
         print('downloadTestamentAlignments downloading book ' + bookId)
         downloadBookAlignments(userUrl, bibleType, bookId, outputBasePath)
 
 def loadChapterAlignments(inputBasePath, bibleType, bookId, chapter):
-    inputFolder = inputBasePath + '/' + utils.file_utils.getRepoName(bibleType, bookId)
+    inputFolder = inputBasePath + '/' + file.getRepoName(bibleType, bookId)
     inputPath = inputFolder + '/' + chapter + '.json'
     print(f"loadChapterAlignments - {inputPath}")
     if os.path.isfile(inputPath):
-        data = utils.file_utils.readJsonFile(inputPath)
+        data = file.readJsonFile(inputPath)
     else:
         print('file missing ' + inputPath)
         data = ''
