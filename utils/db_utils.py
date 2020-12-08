@@ -38,6 +38,22 @@ def execute_read_query(connection, query):
     except Error as e:
         print(f"The error '{e}' occurred")
 
+def execute_read_query_dict(connection, query):
+    connection.row_factory = sqlite3.Row
+    cursor = connection.cursor()
+    result = None
+    try:
+        cursor.execute(query)
+        found = cursor.fetchall()
+        result = []
+        for r in found:
+            row = dict(r)
+            # print(row)
+            result.append(row)
+        return result
+    except Error as e:
+        print(f"The error '{e}' occurred")
+
 create_original_words_table = f"""
 CREATE TABLE IF NOT EXISTS {original_words_table} (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -219,7 +235,7 @@ def fetchRecords(connection, table, filter):
     if len(filter):
         select_items = select_items + f"\nWHERE {filter}"
     # print(f"getRecords:\n{select_items}")
-    items = execute_read_query(connection, select_items)
+    items = execute_read_query_dict(connection, select_items)
     return items
 
 def fetchWordsForVerse(connection, table, bookId, chapter, verse):
@@ -288,6 +304,7 @@ def saveTargetWordsForAlignment(connection, bookId, chapter, verse, alignment, a
         if len(targetIndices) > 0:
             targetIndices = targetIndices + ','
         targetIndices = targetIndices + str(pos)
+    targetIndices = f",{targetIndices}," # wrap to make searching easier
 
     originalIndices = ''
     for wordOL in origLangWords:
@@ -297,10 +314,11 @@ def saveTargetWordsForAlignment(connection, bookId, chapter, verse, alignment, a
         if len(items) > 0:
             if len(originalIndices) > 0:
                 originalIndices = originalIndices + ','
-            pos = str(items[0][0])
+            pos = str(items[0]['id'])
         else:
             pos = '-1'
         originalIndices = originalIndices + pos
+    originalIndices = f",{originalIndices}," # wrap to make searching easier
 
     alignment = {
         'book_id': bookId,
@@ -354,3 +372,88 @@ def getAlignmentsForTestament(connection, newTestament, dataFolder, bibleType):
         else:
             origLangPath = origLangPathHebrew
         saveAlignmentsForBook(connection, book, dataFolder, bibleType, origLangPath)
+
+def findAlignmentForWord(connection, word, searchOriginal):
+    match = str(word['id'])
+    return findAlignmentFor(connection, match, searchOriginal)
+
+def findAlignmentFor(connection, matchStr, searchOriginal):
+    if searchOriginal:
+        table = 'orig_lang_words'
+    else:
+        table = 'target_lang_words'
+
+    search = f"{table} LIKE '%,{matchStr},%'"
+    # print(f"search: {search}")
+    alignments = fetchRecords(connection, alignment_table, search)
+    if len(alignments) > 0:
+        # print(f"found match: {alignments[0]}")
+        return alignments[0]
+    else:
+        print(f"match not found for: {matchStr}")
+        return None
+
+def lookupWords(connection, alignment, getOriginalWords):
+    if getOriginalWords:
+        alignedWords = alignment['orig_lang_words']
+        table = original_words_table
+    else:
+        alignedWords = alignment['target_lang_words']
+        table = target_words_table
+    words = []
+    # print(f"found ID = {foundId}")
+    ids = alignedWords.split(",")
+    for id in ids:
+        if id:
+            found = findWordById(connection, id, table)
+            if found:
+                words.append(found)
+    return words
+
+def combineWordList(words):
+    words_ = []
+    for word in words:
+        words_.append(word['word'])
+    return ' '.join(words_)
+
+def getAlignmentForWord(connection, origWord, searchOriginal):
+    alignment = findAlignmentForWord(connection, origWord, searchOriginal)
+
+    # get original language words
+    alignment['origWords'] = lookupWords(connection, alignment, 1)
+    alignment['origWordsTxt'] = combineWordList(alignment['origWords'])
+
+    # get target language words
+    alignment['targetWords'] = lookupWords(connection, alignment, 0)
+    alignment['targetWordsTxt'] = combineWordList(alignment['targetWords'])
+
+    return alignment
+
+def findWordById(connection, id, table):
+    search = f"id = {str(id)}"
+    items = fetchRecords(connection, table, search)
+    if items:
+        return items[0]
+    print(f"findWordById - {id} not found")
+    return None
+
+def findOriginalLemma(connection, lemma):
+    search = f"lemma = '{lemma}'"
+    words = fetchRecords(connection, original_words_table, search)
+    # print (f"{len(words)} items in search: {search}")
+    return words
+
+def findOriginalWord(connection, word):
+    search = f"word = '{word}'"
+    # print (f"search: {search}")
+    words = fetchRecords(connection, original_words_table, search)
+    print (f"{len(words)} items in search: {search}")
+    return words
+
+def getAlignmentsForWord(connection, words, searchOriginal):
+    alignments = []
+    for word in words:
+        alignment = getAlignmentForWord(connection, word, searchOriginal)
+        alignments.append(alignment)
+    return alignments
+
