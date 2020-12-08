@@ -40,14 +40,14 @@ bookId = 'tit'
 # get alignments for NT
 db.getAlignmentsForTestament(connection, 1, dataFolder, bibleType)
 
-items_orig = db.fetchRecords(connection, target_words_table, '')
-print (f"{len(items_orig)} items in target_words_table")
+items_target = db.fetchRecords(connection, target_words_table, '')
+print (f"{len(items_target)} items in target_words_table")
 
 items_align = db.fetchRecords(connection, alignment_table, '')
 print (f"{len(items_align)} items in alignment_table")
 
-items_align = db.fetchRecords(connection, original_words_table, '')
-print (f"{len(items_align)} items in original_words_table")
+items_orig = db.fetchRecords(connection, original_words_table, '')
+print (f"{len(items_orig)} items in original_words_table")
 
 # 69050 items in target_words_table
 # 48892 items in alignment_table
