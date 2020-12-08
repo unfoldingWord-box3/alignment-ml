@@ -48,3 +48,7 @@ print (f"{len(items_align)} items in alignment_table")
 
 items_align = db.fetchRecords(connection, original_words_table, '')
 print (f"{len(items_align)} items in original_words_table")
+
+# 69050 items in target_words_table
+# 48892 items in alignment_table
+# 52996 items in original_words_table
