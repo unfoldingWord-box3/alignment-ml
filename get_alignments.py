@@ -1,5 +1,5 @@
 
-# download all the en ult new testament alignments into data
+# download all the en ult new testament alignments into data, and search
 
 import pandas as pd
 import utils.db_utils as db
@@ -57,27 +57,28 @@ print (f"{len(items_orig)} items in original_words_table")
 # 48892 items in alignment_table
 # 52996 items in original_words_table
 
-lemma = 'θεός'
-word = 'Θεοῦ'
+searchOriginal = True
+searchTarget = False
+searchLemma = True
+caseInsensitive = True
 
-# find all forms of word by lemma
-lemmas = db.findOriginalLemma(connection, lemma)
-print (f"{len(lemmas)} items found")
+# find exact word in original language
+godAlignments = db.findAlignmentsForWord(connection, 'Θεοῦ', searchOriginal)
+frequency = godAlignments['alignmentTxt'].value_counts()
 
-# find specific word by text
-words = db.findOriginalWord(connection, word)
-print (f"{len(words)} items in search")
+# find all forms of word in original language by lemma
+godAlignments = db.findAlignmentsForWord(connection, 'θεός', searchOriginal, searchLemma)
+frequency = godAlignments['alignmentTxt'].value_counts()
 
-first_word = words[0]
+# find exact word in target language
+godAlignments = db.findAlignmentsForWord(connection, 'God', searchTarget)
+frequency = godAlignments['alignmentTxt'].value_counts()
 
-# item = db.findWordById(connection, 75, original_words_table)
+# find word (ignore case) in target language
+godAlignments = db.findAlignmentsForWord(connection, 'God', searchTarget, searchLemma, caseInsensitive)
+frequency = godAlignments['alignmentTxt'].value_counts()
 
-alignment = db.getAlignmentForWord(connection, first_word, 1)
-
-alignments = db.getAlignmentsForWord(connection, words, 1)
-
-# load as dataframe
-df = pd.DataFrame(alignments)
+# frequency = godAlignments.sort_values(by=['alignmentTxt'])
 
 # summary = {}
 # for a in alignments:

@@ -1,3 +1,4 @@
+import pandas as pd
 import sqlite3
 from sqlite3 import Error
 import utils.file_utils as file
@@ -230,10 +231,12 @@ def addMultipleItemsToDatabase(connection, table, db_words):
     # print(f"addMultipleItemsToDatabase:\n{add_words}")
     execute_query(connection, add_words)
 
-def fetchRecords(connection, table, filter):
+def fetchRecords(connection, table, filter, caseInsensitive = False):
     select_items = f"SELECT * FROM {table}"
     if len(filter):
         select_items = select_items + f"\nWHERE {filter}"
+    if caseInsensitive:
+        select_items = select_items + ' COLLATE NOCASE'
     # print(f"getRecords:\n{select_items}")
     items = execute_read_query_dict(connection, select_items)
     return items
@@ -421,12 +424,15 @@ def getAlignmentForWord(connection, origWord, searchOriginal):
 
     # get original language words
     alignment['origWords'] = lookupWords(connection, alignment, 1)
-    alignment['origWordsTxt'] = combineWordList(alignment['origWords'])
+    origWordsTxt = combineWordList(alignment['origWords'])
+    alignment['origWordsTxt'] = origWordsTxt
 
     # get target language words
     alignment['targetWords'] = lookupWords(connection, alignment, 0)
-    alignment['targetWordsTxt'] = combineWordList(alignment['targetWords'])
+    targetWordsTxt = combineWordList(alignment['targetWords'])
+    alignment['targetWordsTxt'] = targetWordsTxt
 
+    alignment['alignmentTxt'] = f"{origWordsTxt} = {targetWordsTxt}"
     return alignment
 
 def findWordById(connection, id, table):
@@ -437,23 +443,32 @@ def findWordById(connection, id, table):
     print(f"findWordById - {id} not found")
     return None
 
-def findOriginalLemma(connection, lemma):
-    search = f"lemma = '{lemma}'"
-    words = fetchRecords(connection, original_words_table, search)
+def findWord(connection, word, searchOriginal = True, searchLemma = False, caseInsensitive = False):
+    if searchLemma:
+        search = f"lemma = '{word}'"
+    else:
+        search = f"word = '{word}'"
+
+    if searchOriginal:
+        table = original_words_table
+    else:
+        table = target_words_table
+
+    words = fetchRecords(connection, table, search, caseInsensitive)
     # print (f"{len(words)} items in search: {search}")
     return words
 
-def findOriginalWord(connection, word):
-    search = f"word = '{word}'"
-    # print (f"search: {search}")
-    words = fetchRecords(connection, original_words_table, search)
-    print (f"{len(words)} items in search: {search}")
-    return words
-
-def getAlignmentsForWord(connection, words, searchOriginal):
+def getAlignmentsForWords(connection, words, searchOriginal):
     alignments = []
     for word in words:
         alignment = getAlignmentForWord(connection, word, searchOriginal)
         alignments.append(alignment)
     return alignments
 
+def findAlignmentsForWord(connection, word, searchOriginal = True, searchLemma = False, caseInsensitive = False):
+    foundWords = findWord(connection, word, searchOriginal, searchLemma, caseInsensitive)
+    print (f"{len(foundWords)} items in search")
+
+    alignments = getAlignmentsForWords(connection, foundWords, searchOriginal)
+    df = pd.DataFrame(alignments) # load as dataframe
+    return df
