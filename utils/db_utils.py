@@ -431,6 +431,8 @@ def getAlignmentForWord(connection, origWord, searchOriginal):
     alignment['targetWords'] = lookupWords(connection, alignment, 0)
     targetWordsTxt = combineWordList(alignment['targetWords'])
     alignment['targetWordsTxt'] = targetWordsTxt
+    
+    alignment['aligmentWords'] = len(alignment['origWords']) + len(alignment['targetWords'])
 
     alignment['alignmentTxt'] = f"{origWordsTxt} = {targetWordsTxt}"
     return alignment
