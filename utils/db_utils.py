@@ -6,6 +6,8 @@ import utils.bible_utils as bible
 original_words_table = 'original_words'
 target_words_table = 'target_words'
 alignment_table = 'alignment_table'
+origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
+origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
 
 def create_connection(path):
     connection = None
@@ -252,7 +254,6 @@ def getVerses(chapter_dict):
 def loadAllWordsFromBookIntoDB(connection, origLangPath, bookId, table):
     deleteWordsForBook(connection, table, bookId)
 
-    foundNonNumericalVerse = 0
     chapters = bible.getChaptersForBook(bookId)
     for chapter in chapters:
         print(f"{bookId} - Reading chapter {chapter}")
@@ -272,7 +273,7 @@ def loadAllWordsFromBookIntoDB(connection, origLangPath, bookId, table):
 def loadAllWordsFromTestamentIntoDB(connection, origLangPath, newTestament, table):
     books = bible.getBookList(newTestament)
     for book in books:
-        print (f"reading {book}")
+        print (f"loadAllWordsFromTestamentIntoDB - reading {book}")
         loadAllWordsFromBookIntoDB(connection, origLangPath, book, table)
 
 def saveTargetWordsForAlignment(connection, bookId, chapter, verse, alignment, alignmentNum):
@@ -327,11 +328,29 @@ def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType)
         # print(f"reading alignments for verse {verseAl}")
         saveAlignmentsForVerse(connection, bookId, chapter, verseAl, verseAlignments)
 
-def saveAlignmentsForBook(connection, bookId, dataFolder, bibleType):
+def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLangPath):
     deleteWordsForBook(connection, target_words_table, bookId)
     deleteWordsForBook(connection, alignment_table, bookId)
-    chapters = bible.getChaptersForBook(bookId)
-    for chapterAL in chapters:
-        print(f"reading alignments for {bookId} - {chapterAL}")
-        saveAlignmentsForChapter(connection, bookId, chapterAL, dataFolder, bibleType)
 
+    bookFolder = aligmentsFolder + '/' + file.getRepoName(bibleType, bookId)
+    files = file.listFolder(bookFolder)
+    if files: # make sure folder has files
+        print("reading original language words")
+        loadAllWordsFromBookIntoDB(connection, origLangPath, bookId, original_words_table)
+
+        chapters = bible.getChaptersForBook(bookId)
+        for chapterAL in chapters:
+            print(f"reading alignments for {bookId} - {chapterAL}")
+            saveAlignmentsForChapter(connection, bookId, chapterAL, aligmentsFolder, bibleType)
+    else:
+        print(f"No alignments for {bookId} at {bookFolder}")
+
+def getAlignmentsForTestament(connection, newTestament, dataFolder, bibleType):
+    books = bible.getBookList(newTestament)
+    for book in books:
+        print (f"reading {book}")
+        if newTestament:
+            origLangPath = origLangPathGreek
+        else:
+            origLangPath = origLangPathHebrew
+        saveAlignmentsForBook(connection, book, dataFolder, bibleType, origLangPath)

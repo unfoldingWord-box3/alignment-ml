@@ -1,14 +1,18 @@
 import os
 import requests
 import json
+from pathlib import Path
 
 def fetchFile(url):
     print('fetchFile ' + url)
     try:
         data = requests.get(url, allow_redirects=True)
+        if data.status_code != 200:
+            print(f"Error returned {data.status_code}")
+            data = None
     except:
         print(f"Error loading {url}")
-        data = ''
+        data = None
     return data
 
 def getRepoName(bibleType, bookId):
@@ -35,14 +39,17 @@ def downloadFile(url, outputPath):
 
 def downloadJsonFile(url, outputPath):
     data = fetchFile(url)
-    text = data.text
-    try:
-        dataJson = json.loads(text) # make sure json
-        f = open(outputPath, "w")
-        print ('downloadJsonFile ' + outputPath)
-        f.write(text)
-    except:
-        print (f'downloadJsonFile - file invalid: {url} ')
+    if data:
+        text = data.text
+        try:
+            dataJson = json.loads(text) # make sure json
+            f = open(outputPath, "w")
+            print ('downloadJsonFile ' + outputPath)
+            f.write(text)
+        except:
+            print (f'downloadJsonFile - file invalid: {url} ')
+    else:
+        print (f'downloadJsonFile - no data found: {url} ')
 
 def readFile(inputPath):
     f = open(inputPath, "r")
@@ -54,6 +61,34 @@ def makeFolder(outputFolder):
     if not os.path.isdir(outputFolder):
         print ('makeFolder - creating folder ' + outputFolder)
         os.mkdir(outputFolder)
+
+def removeFolder(outputFolder):
+    if os.path.isdir(outputFolder):
+        try:
+            os.rmdir(outputFolder)
+            print ('removeFolder - removed folder ' + outputFolder)
+            return 1
+        except OSError as e:
+            print (f"removeFolder - removing '{outputFolder}' failed, error {e.strerror}")
+    else:
+        print ('removeFolder - folder not found' + outputFolder)
+    return 0
+
+def removeEmptyFolder(folderPath):
+    files = listFolder(folderPath)
+
+    if files is not None: # files not None
+        if (len(files) == 0): # if empty
+            print(f"removeEmptyFolder - removing {folderPath}")
+            removeFolder(folderPath)
+
+def listFolder(outputFolder):
+    if os.path.isdir(outputFolder):
+        # print ('listFolder - ' + outputFolder)
+        files = os.listdir(outputFolder)
+        return files
+    print ('listFolder - folder not found: ' + outputFolder)
+    return None
 
 def readJsonFile(inputPath):
     # print ('readJsonFile ' + inputPath)
