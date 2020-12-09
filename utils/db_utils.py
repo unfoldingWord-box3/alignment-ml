@@ -379,7 +379,7 @@ def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType)
     verses = getVerses(data)
     for verseAl in verses:
         verseAlignments = data[verseAl]['alignments']
-        # print(f"reading alignments for verse {verseAl}")
+        print(f"reading alignments for {chapter}:{verseAl}")
         saveAlignmentsForVerse(connection, bookId, chapter, verseAl, verseAlignments)
 
 def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLangPath):
@@ -388,9 +388,6 @@ def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLa
     bookFolder = aligmentsFolder + '/' + file.getRepoName(bibleType, bookId)
     files = file.listFolder(bookFolder)
     if files: # make sure folder has files
-        print("reading original language words")
-        loadAllWordsFromBookIntoDB(connection, origLangPath, bookId, original_words_table)
-
         chapters = bible.getChaptersForBook(bookId)
         for chapterAL in chapters:
             print(f"reading alignments for {bookId} - {chapterAL}")
