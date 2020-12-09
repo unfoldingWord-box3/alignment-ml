@@ -9,6 +9,7 @@ target_words_table = 'target_words'
 alignment_table = 'alignment_table'
 origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
 origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
+targetLangPathEn = './data/TargetLangJson/ult/v14'
 
 def create_connection(path):
     connection = None
@@ -384,10 +385,17 @@ def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType)
 
 def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLangPath):
     deleteWordsForBook(connection, alignment_table, bookId)
+    deleteWordsForBook(connection, target_words_table, bookId)
+    deleteWordsForBook(connection, original_words_table, bookId)
 
     bookFolder = aligmentsFolder + '/' + file.getRepoName(bibleType, bookId)
     files = file.listFolder(bookFolder)
     if files: # make sure folder has files
+        print("reading original language words")
+        loadAllWordsFromBookIntoDB(connection, origLangPath, bookId, original_words_table)
+        print("reading target language words")
+        loadAllWordsFromBookIntoDB(connection, targetLangPathEn, bookId, target_words_table)
+
         chapters = bible.getChaptersForBook(bookId)
         for chapterAL in chapters:
             print(f"reading alignments for {bookId} - {chapterAL}")
@@ -411,18 +419,18 @@ def findAlignmentForWord(connection, word, searchOriginal):
 
 def findAlignmentFor(connection, matchStr, searchOriginal):
     if searchOriginal:
-        table = 'orig_lang_words'
+        field = 'orig_lang_words'
     else:
-        table = 'target_lang_words'
+        field = 'target_lang_words'
 
-    search = f"{table} LIKE '%,{matchStr},%'"
+    search = f"{field} LIKE '%,{matchStr},%'"
     # print(f"search: {search}")
     alignments = fetchRecords(connection, alignment_table, search)
     if len(alignments) > 0:
         # print(f"found match: {alignments[0]}")
         return alignments[0]
     else:
-        print(f"match not found for: {matchStr}")
+        # print(f"match not found for: {matchStr}")
         return None
 
 def lookupWords(connection, alignment, getOriginalWords):
@@ -451,19 +459,21 @@ def combineWordList(words):
 def getAlignmentForWord(connection, origWord, searchOriginal):
     alignment = findAlignmentForWord(connection, origWord, searchOriginal)
 
-    # get original language words
-    alignment['origWords'] = lookupWords(connection, alignment, 1)
-    origWordsTxt = combineWordList(alignment['origWords'])
-    alignment['origWordsTxt'] = origWordsTxt
+    if alignment:
+        # get original language words
+        alignment['origWords'] = lookupWords(connection, alignment, 1)
+        origWordsTxt = combineWordList(alignment['origWords'])
+        alignment['origWordsTxt'] = origWordsTxt
 
-    # get target language words
-    alignment['targetWords'] = lookupWords(connection, alignment, 0)
-    targetWordsTxt = combineWordList(alignment['targetWords'])
-    alignment['targetWordsTxt'] = targetWordsTxt
+        # get target language words
+        alignment['targetWords'] = lookupWords(connection, alignment, 0)
+        targetWordsTxt = combineWordList(alignment['targetWords'])
+        alignment['targetWordsTxt'] = targetWordsTxt
 
-    alignment['aligmentWords'] = len(alignment['origWords']) + len(alignment['targetWords'])
+        alignment['aligmentWords'] = len(alignment['origWords']) + len(alignment['targetWords'])
 
-    alignment['alignmentTxt'] = f"{origWordsTxt} = {targetWordsTxt}"
+        alignment['alignmentTxt'] = f"{origWordsTxt} = {targetWordsTxt}"
+
     return alignment
 
 def findWordById(connection, id, table):
@@ -493,7 +503,8 @@ def getAlignmentsForWords(connection, words, searchOriginal):
     alignments = []
     for word in words:
         alignment = getAlignmentForWord(connection, word, searchOriginal)
-        alignments.append(alignment)
+        if alignment:
+            alignments.append(alignment)
     return alignments
 
 def findAlignmentsForWord(connection, word, searchOriginal = True, searchLemma = False, caseInsensitive = False):

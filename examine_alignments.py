@@ -1,5 +1,5 @@
 
-# download all the en ult new testament alignments into data, and search
+# search alignments
 
 import pandas as pd
 import utils.db_utils as db
@@ -23,12 +23,12 @@ testament = 1
 dataFolder = './data/Alignments'
 bookId = 'tit'
 
-########################
-
 searchOriginal = True
 searchTarget = False
 searchLemma = True
 caseInsensitive = True
+
+########################
 
 # find exact word in original language
 godAlignments = db.findAlignmentsForWord(connection, 'Θεοῦ', searchOriginal)

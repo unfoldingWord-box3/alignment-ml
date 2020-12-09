@@ -16,24 +16,6 @@ connection = db.initAlignmentDB(dbPath)
 
 ################################
 
-bookId = 'tit'
-chapter = '1'
-chapterPath = f"{origLangPathGreek}/{bookId}/{chapter}.json"
-
-chapter_dict = file.readJsonFile(chapterPath)
-
-verse = '4'
-
-# words = db.getVerseWordsFromChapter(chapter_dict, verse)
-#
-# db_words = db.getDbWordsForVerse(words, bookId, chapter, verse)
-
-#db.addMultipleItemsToDatabase(connection, table, db_words)
-
-items = db.fetchRecords(connection, original_words_table, '')
-print (f"{len(items)} items after add")
-
-#############################
 db.resetTable(connection, original_words_table)
 
 # read all greek words

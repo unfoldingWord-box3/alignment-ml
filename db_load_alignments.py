@@ -40,6 +40,8 @@ bookId = 'tit'
 
 # completely clear old data
 db.resetTable(connection, target_words_table)
+db.resetTable(connection, original_words_table)
+db.resetTable(connection, alignment_table)
 
 # # get alignments for OT (not working yet)
 # start = time.time()
