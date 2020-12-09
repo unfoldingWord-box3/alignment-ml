@@ -36,7 +36,11 @@ bookId = 'tit'
 # items = db.fetchForWordInVerse(connection, original_words_table, word, occurrence, bookId, chapter, verse)
 # print (f"{len(items)} matching words found")
 
-#############
+#################
+
+db.saveAlignmentsForBook(connection, bookId, dataFolder, bibleType, origLangPathGreek)
+
+#################
 
 # completely clear old data
 db.resetTable(connection, target_words_table)
@@ -73,4 +77,4 @@ print (f"{len(items_orig)} items in original_words_table")
 # 52996 items in original_words_table
 
 # Times on 2015 MBP 15":
-# Get NT alignments, Elapsed time: 0:47:01.492311
+# Get NT alignments, Elapsed time: 0:38:44.645573

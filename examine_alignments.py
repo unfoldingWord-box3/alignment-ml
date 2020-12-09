@@ -1,6 +1,6 @@
-
 # search alignments
 
+import json
 import pandas as pd
 import utils.db_utils as db
 import utils.file_utils as file
@@ -63,4 +63,12 @@ frequency = godAlignments['alignmentTxt'].value_counts()
 #             'count': 1
 #         }
 #         summary[key] = newItem
+
+
+godAlignments = db.findAlignmentsForWord(connection, 'θεός', True, True)
+
+# import json
+# origWordsJson = '[{"id": 799637, "book_id": "1jn", "chapter": "1", "verse": "5", "word_num": 12, "word": "\u1f45\u03c4\u03b9", "occurrence": 1, "strong": "G37540", "lemma": "\u1f45\u03c4\u03b9", "morph": "Gr,CS,,,,,,,,"}, {"id": 799638, "book_id": "1jn", "chapter": "1", "verse": "5", "word_num": 13, "word": "\u1f41", "occurrence": 1, "strong": "G35880", "lemma": "\u1f41", "morph": "Gr,EA,,,,NMS,"}, {"id": 799639, "book_id": "1jn", "chapter": "1", "verse": "5", "word_num": 11, "word": "\u0398\u03b5\u1f78\u03c2", "occurrence": 1, "strong": "G23160", "lemma": "\u03b8\u03b5\u03cc\u03c2", "morph": "Gr,N,,,,,NMS,"}]'
+# origWords = json.loads(origWordsJson) # make sure json
+
 

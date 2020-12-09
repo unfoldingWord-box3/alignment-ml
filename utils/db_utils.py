@@ -1,4 +1,5 @@
 import pandas as pd
+import json
 import sqlite3
 from sqlite3 import Error
 import utils.file_utils as file
@@ -137,6 +138,39 @@ def getWordsFromVerse(verseObjects):
             print(f"getWordsFromVerse - missing type in: {vo}")
 
     return words
+
+# TODO: finish algorithm to parse en_ult
+def getAlignmentsFromVerse(verseObjects, wordNum = 0):
+    words = []
+    alignments = []
+    wordNum = 0
+    for i in range(len(verseObjects)):
+        vo = verseObjects[i]
+        type_ = getKey(vo,'type')
+        if (type_ == 'word'):
+            # print(f'At {i} Found word: {vo}')
+            words.append(vo)
+            wordNum = wordNum + 1
+        elif (type_ == 'milestone'):
+            children = vo['children']
+            # print(f"At {i} Found children: {len(children)}")
+
+            # TODO: finish
+            # topWord = {
+            #     'word': text,
+            #     'occurrence': getOccurrences(text, db_words) + 1,
+            #     'strong': getKey(word,'strong'),
+            #     'lemma': getKey(word,'lemma'),
+            #     'morph': getKey(word,'morph')
+            # }
+
+            (child_words, child_alignments, child_wordNum) = getAlignmentsFromVerse(vo, wordNum)
+            words.extend(child_words)
+            # print('finished processing children')
+        elif (type_ == ''):
+            print(f"getWordsFromVerse - missing type in: {vo}")
+
+    return (words, alignments, wordNum)
 
 def getVerseWordsFromChapter(chapter_dict, verse):
     words = getWordsFromVerse(chapter_dict[verse]['verseObjects'])
@@ -332,30 +366,41 @@ def saveTargetWordsForAlignment(connection, bookId, chapter, verse, alignment, a
     targetLangWords = bottomWords
 
     targetIndices = ''
+    missingWord = False
     for wordTL in targetLangWords:
         word = getWordText(wordTL)
-        items = fetchForWordInVerse(connection, target_words_table, word, wordTL['occurrence'], bookId, chapter, verse)
+        occurrence = wordTL['occurrence']
+        items = fetchForWordInVerse(connection, target_words_table, word, occurrence, bookId, chapter, verse)
         if len(items) > 0:
             if len(targetIndices) > 0:
                 targetIndices = targetIndices + ','
             pos = str(items[0]['id'])
         else:
             pos = '-1'
+            missingWord = True
+            print(f"saveTargetWordsForAlignment - missing {word}-{occurrence} in {bookId}-{chapter}:{verse}")
         targetIndices = targetIndices + pos
     targetIndices = f",{targetIndices}," # wrap to make searching easier
 
     originalIndices = ''
     for wordOL in origLangWords:
         word = getWordText(wordOL)
-        items = fetchForWordInVerse(connection, original_words_table, word, wordOL['occurrence'], bookId, chapter, verse)
+        occurrence = wordOL['occurrence']
+        items = fetchForWordInVerse(connection, original_words_table, word, occurrence, bookId, chapter, verse)
         if len(items) > 0:
             if len(originalIndices) > 0:
                 originalIndices = originalIndices + ','
             pos = str(items[0]['id'])
         else:
             pos = '-1'
+            missingWord = True
+            print(f"saveTargetWordsForAlignment - missing {word}-{occurrence} in {bookId}-{chapter}:{verse}")
         originalIndices = originalIndices + pos
     originalIndices = f",{originalIndices}," # wrap to make searching easier
+
+    if missingWord:
+        print(f"saveTargetWordsForAlignment - ignoring broken alignment in {bookId}-{chapter}:{verse}")
+        return None
 
     alignment = {
         'book_id': bookId,
@@ -372,7 +417,8 @@ def saveAlignmentsForVerse(connection, bookId, chapter, verse, verseAlignments):
     for i in range(len(verseAlignments)):
         verseAlignment = verseAlignments[i]
         alignment = saveTargetWordsForAlignment(connection, bookId, chapter, verse, verseAlignment, i)
-        alignments.append(alignment)
+        if alignment:
+            alignments.append(alignment)
     addMultipleItemsToDatabase(connection, alignment_table, alignments)
 
 def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType):
@@ -456,21 +502,35 @@ def combineWordList(words):
         words_.append(word['word'])
     return ' '.join(words_)
 
+def getSpan(origWords):
+    span = 0
+    if len(origWords) > 1:
+        wordNums = []
+        for word in origWords:
+            wordNum = int(word['word_num'])
+            wordNums.append(wordNum)
+        span = max(wordNums) - min(wordNums)
+    return span
+
 def getAlignmentForWord(connection, origWord, searchOriginal):
     alignment = findAlignmentForWord(connection, origWord, searchOriginal)
 
     if alignment:
         # get original language words
-        alignment['origWords'] = lookupWords(connection, alignment, 1)
-        origWordsTxt = combineWordList(alignment['origWords'])
+        origWords = lookupWords(connection, alignment, 1)
+        alignment['origSpan'] = getSpan(origWords)
+        alignment['origWords'] = origWords
+        origWordsTxt = combineWordList(origWords)
         alignment['origWordsTxt'] = origWordsTxt
+        alignment['alignmentOrigWords'] = len(origWords)
 
         # get target language words
-        alignment['targetWords'] = lookupWords(connection, alignment, 0)
-        targetWordsTxt = combineWordList(alignment['targetWords'])
+        targetWords = lookupWords(connection, alignment, 0)
+        alignment['targetSpan'] = getSpan(targetWords)
+        alignment['targetWords'] = targetWords
+        targetWordsTxt = combineWordList(targetWords)
         alignment['targetWordsTxt'] = targetWordsTxt
-
-        alignment['aligmentWords'] = len(alignment['origWords']) + len(alignment['targetWords'])
+        alignment['alignmentTargetWords'] = len(targetWords)
 
         alignment['alignmentTxt'] = f"{origWordsTxt} = {targetWordsTxt}"
 
@@ -512,5 +572,16 @@ def findAlignmentsForWord(connection, word, searchOriginal = True, searchLemma =
     print (f"{len(foundWords)} items in search")
 
     alignments = getAlignmentsForWords(connection, foundWords, searchOriginal)
-    df = pd.DataFrame(alignments) # load as dataframe
+    totalCount = len(alignments)
+    counts = pd.DataFrame(alignments)['alignmentTxt'].value_counts() # get counts for each match type
+
+    # insert frequency of alignment into table
+    for alignment in alignments:
+        alignmentText = alignment['alignmentTxt']
+        if (alignmentText in counts):
+            count = counts[alignmentText]
+            ratio = count / totalCount
+            alignment['frequency'] = ratio
+
+    df = pd.DataFrame(alignments) # load as dataframe so we can to cool stuff
     return df
