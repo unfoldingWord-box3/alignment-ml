@@ -5,6 +5,8 @@ import pandas as pd
 import utils.db_utils as db
 import utils.file_utils as file
 import utils.bible_utils as bible
+import time
+from datetime import timedelta
 
 original_words_table = db.original_words_table
 target_words_table = db.target_words_table
@@ -12,6 +14,7 @@ alignment_table = db.alignment_table
 dbPath = './data/alignmentData.sqlite'
 origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
 origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
+targetLangPathEn = './data/TargetLangJson/ult/v14'
 
 connection = db.initAlignmentDB(dbPath)
 
@@ -35,12 +38,22 @@ bookId = 'tit'
 
 #############
 
+# completely clear old data
+db.resetTable(connection, target_words_table)
+
 # # get alignments for OT (not working yet)
+# start = time.time()
 # db.getAlignmentsForTestament(connection, 0, dataFolder, bibleType)
+# delta = (time.time() - start)
+# elapsed = str(timedelta(seconds=delta))
+# print(f'Get OT alignments, Elapsed time: {elapsed}')
 
 # get alignments for NT
+start = time.time()
 db.getAlignmentsForTestament(connection, 1, dataFolder, bibleType)
-
+delta = (time.time() - start)
+elapsed = str(timedelta(seconds=delta))
+print(f'Get NT alignments, Elapsed time: {elapsed}')
 
 ########################
 

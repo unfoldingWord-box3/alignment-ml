@@ -103,11 +103,26 @@ def initAlignmentDB(dbPath):
     execute_query(connection, create_alignment_table)
     return connection
 
+def resetTable(connection, table):
+    print(f"resetTable - dropping table: {table}")
+    command = f"DROP TABLE {table};"
+    execute_query(connection, create_alignment_table)
+
+    print(f"resetTable - initializing table: {table}")
+    if table == target_words_table:
+        execute_query(connection, create_target_words_table)
+    elif table == alignment_table:
+        execute_query(connection, create_alignment_table)
+    elif table == original_words_table:
+        execute_query(connection, create_original_words_table)
+    else:
+        print(f"resetTable - unknown table: {table}")
+
 def getWordsFromVerse(verseObjects):
     words = []
     for i in range(len(verseObjects)):
         vo = verseObjects[i]
-        type_ = vo['type']
+        type_ = getKey(vo,'type')
         if (type_ == 'word'):
             # print(f'At {i} Found word: {vo}')
             words.append(vo)
@@ -117,6 +132,9 @@ def getWordsFromVerse(verseObjects):
             child_words = getWordsFromVerse(children)
             words.extend(child_words)
             # print('finished processing children')
+        elif (type_ == ''):
+            print(f"getWordsFromVerse - missing type in: {vo}")
+
     return words
 
 def getVerseWordsFromChapter(chapter_dict, verse):
@@ -130,6 +148,12 @@ def getOccurrences(text, words):
             count = count + 1
     return count
 
+def getKey(dict, key, default=''):
+    if key in dict:
+        return dict[key]
+    print(f"getKey({dict}, {key} - key not found")
+    return default
+
 def getDbOrigLangWordsForVerse(words, bookId, chapter, verse):
     db_words = []
     for i in range(len(words)):
@@ -142,9 +166,9 @@ def getDbOrigLangWordsForVerse(words, bookId, chapter, verse):
             'word_num': i,
             'word': text,
             'occurrence': getOccurrences(text, db_words) + 1,
-            'strong': word['strong'],
-            'lemma': word['lemma'],
-            'morph': word['morph']
+            'strong': getKey(word,'strong'),
+            'lemma': getKey(word,'lemma'),
+            'morph': getKey(word,'morph')
         }
         # print(f'At {i} new word entry: {db_word}')
         db_words.append(db_word)
@@ -273,6 +297,11 @@ def getVerses(chapter_dict):
 def loadAllWordsFromBookIntoDB(connection, origLangPath, bookId, table):
     deleteWordsForBook(connection, table, bookId)
 
+    if table == original_words_table:
+        getWordsForVerse = getDbOrigLangWordsForVerse
+    else:
+        getWordsForVerse = getDbTargetLangWordsForVerse
+
     chapters = bible.getChaptersForBook(bookId)
     for chapter in chapters:
         print(f"{bookId} - Reading chapter {chapter}")
@@ -284,7 +313,7 @@ def loadAllWordsFromBookIntoDB(connection, origLangPath, bookId, table):
         for verse in verses:
             # print(f"Reading verse {verse}")
             words = getVerseWordsFromChapter(chapter_dict, verse)
-            db_words = getDbOrigLangWordsForVerse(words, bookId, chapter, verse)
+            db_words = getWordsForVerse(words, bookId, chapter, verse)
 
             # print(f"For {chapter}:{verse} Saving {len(db_words)}")
             addMultipleItemsToDatabase(connection, table, db_words)
@@ -299,21 +328,25 @@ def saveTargetWordsForAlignment(connection, bookId, chapter, verse, alignment, a
     topwords = alignment['topWords']
     bottomWords = alignment['bottomWords']
     origLangWords = topwords
-    targetLangWords = getDbTargetLangWordsForVerse(bottomWords, bookId, chapter, verse)
+    targetLangWords = bottomWords
 
     targetIndices = ''
     for wordTL in targetLangWords:
-        pos = insert_row(connection, target_words_table, wordTL)
-        if len(targetIndices) > 0:
-            targetIndices = targetIndices + ','
-        targetIndices = targetIndices + str(pos)
+        word = getWordText(wordTL)
+        items = fetchForWordInVerse(connection, target_words_table, word, wordTL['occurrence'], bookId, chapter, verse)
+        if len(items) > 0:
+            if len(targetIndices) > 0:
+                targetIndices = targetIndices + ','
+            pos = str(items[0]['id'])
+        else:
+            pos = '-1'
+        targetIndices = targetIndices + pos
     targetIndices = f",{targetIndices}," # wrap to make searching easier
 
     originalIndices = ''
     for wordOL in origLangWords:
         word = getWordText(wordOL)
         items = fetchForWordInVerse(connection, original_words_table, word, wordOL['occurrence'], bookId, chapter, verse)
-        pos = ''
         if len(items) > 0:
             if len(originalIndices) > 0:
                 originalIndices = originalIndices + ','
@@ -350,7 +383,6 @@ def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType)
         saveAlignmentsForVerse(connection, bookId, chapter, verseAl, verseAlignments)
 
 def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLangPath):
-    deleteWordsForBook(connection, target_words_table, bookId)
     deleteWordsForBook(connection, alignment_table, bookId)
 
     bookFolder = aligmentsFolder + '/' + file.getRepoName(bibleType, bookId)
@@ -431,7 +463,7 @@ def getAlignmentForWord(connection, origWord, searchOriginal):
     alignment['targetWords'] = lookupWords(connection, alignment, 0)
     targetWordsTxt = combineWordList(alignment['targetWords'])
     alignment['targetWordsTxt'] = targetWordsTxt
-    
+
     alignment['aligmentWords'] = len(alignment['origWords']) + len(alignment['targetWords'])
 
     alignment['alignmentTxt'] = f"{origWordsTxt} = {targetWordsTxt}"
