@@ -1,4 +1,5 @@
-# parse en ult words into table
+# load en ult words into table
+# Note: this was for testing and loads all words.  For better performance run `db_load_alignments.py` which only loads books that are alignmed
 
 import utils.db_utils as db
 import utils.file_utils as file
