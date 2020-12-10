@@ -33,8 +33,17 @@ def fetchAlignments(userUrl, bibleType, bookId, chapter):
 def downloadFile(url, outputPath):
     data = fetchFile(url)
     text = data.text
-    f = open(outputPath, "w")
     print ('downloadAlignments ' + outputPath)
+    writeFile(outputPath, text)
+
+
+def writeFile(outputPath, text):
+    f = open(outputPath, "w")
+    f.write(text)
+
+def writeJsonFile(outputPath, data):
+    text = json.dumps(data)
+    f = open(outputPath, "w")
     f.write(text)
 
 def downloadJsonFile(url, outputPath):
@@ -95,3 +104,10 @@ def readJsonFile(inputPath):
     data = readFile(inputPath)
     dict = json.loads(data)
     return dict
+
+def initJsonFile(keyTermsPath):
+    try:
+        data = readJsonFile(keyTermsPath)
+    except FileNotFoundError:
+        data = {} # initialize data if not found
+    return data

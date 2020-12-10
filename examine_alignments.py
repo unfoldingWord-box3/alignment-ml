@@ -12,6 +12,8 @@ original_words_table = db.original_words_table
 target_words_table = db.target_words_table
 alignment_table = db.alignment_table
 dbPath = './data/alignmentsData.sqlite'
+keyTermsPath = './data/keyTerms.json'
+alignmentTrainingDataPath = './data/alignmentTrainingData.json'
 origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
 origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
 targetLangPathEn = './data/TargetLangJson/ult/v14'
@@ -71,4 +73,130 @@ godAlignments = db.findAlignmentsForWord(connection, 'θεός', True, True)
 # origWordsJson = '[{"id": 799637, "book_id": "1jn", "chapter": "1", "verse": "5", "word_num": 12, "word": "\u1f45\u03c4\u03b9", "occurrence": 1, "strong": "G37540", "lemma": "\u1f45\u03c4\u03b9", "morph": "Gr,CS,,,,,,,,"}, {"id": 799638, "book_id": "1jn", "chapter": "1", "verse": "5", "word_num": 13, "word": "\u1f41", "occurrence": 1, "strong": "G35880", "lemma": "\u1f41", "morph": "Gr,EA,,,,NMS,"}, {"id": 799639, "book_id": "1jn", "chapter": "1", "verse": "5", "word_num": 11, "word": "\u0398\u03b5\u1f78\u03c2", "occurrence": 1, "strong": "G23160", "lemma": "\u03b8\u03b5\u03cc\u03c2", "morph": "Gr,N,,,,,NMS,"}]'
 # origWords = json.loads(origWordsJson) # make sure json
 
+###############
+
+foundWords = db.findWord(connection, word, searchOriginal, searchLemma, caseInsensitive)
+
+#################
+
+filePath = 'data/TargetLangJson/ult/v14/luk/1.json'
+luke_1 = file.readJsonFile(filePath)
+luk_1_5_align = luke_1['5']
+
+def parseAlignmentFromVerse(verseObject, wordNum = 0):
+    topWords = []
+    bottomWords = []
+    topWord = verseObject.copy()
+    del topWord['children']
+    topWord['text'] = topWord['content']
+
+    verseObjects = verseObject['children']
+
+    for i in range(len(verseObjects)):
+        vo = verseObjects[i]
+        type_ = db.getKey(vo,'type')
+        if (type_ == 'word'):
+            # print(f'At {i} Found word: {vo}')
+            bottomWords.append(vo)
+            wordNum = wordNum + 1
+        elif (type_ == 'milestone'):
+            child_topWords, child_bottomWords, child_wordNum = parseAlignmentFromVerse(vo, wordNum)
+            topWords.append(child_topWords)
+            bottomWords.extend(child_bottomWords)
+            wordNum = child_wordNum
+            # print('finished processing children')
+        elif (type_ == ''):
+            print(f"getWordsFromVerse - missing type in: {vo}")
+
+    return topWords, bottomWords, wordNum
+
+def getAlignmentsFromVerse(verseObjects, wordNum = 0):
+    alignments = []
+    target_words = []
+    wordNum = 0
+    for i in range(len(verseObjects)):
+        vo = verseObjects[i]
+        type_ = db.getKey(vo,'type')
+        if (type_ == 'word'):
+            # print(f'At {i} Found word: {vo}')
+            target_words.append(vo)
+            wordNum = wordNum + 1
+        elif (type_ == 'milestone'):
+            topWords, bottomWords, child_words, child_wordNum = parseAlignmentFromVerse(vo, wordNum)
+            alignment = {
+                'topWords': topWords,
+                'bottomWords': bottomWords
+            }
+            alignments.append(alignment)
+            target_words.extend(child_words)
+            wordNum = child_wordNum
+            # print('finished processing children')
+        elif (type_ == ''):
+            print(f"getAlignmentsFromVerse - missing type in: {vo}")
+
+    return target_words, alignments
+
+alignments = getAlignmentsFromVerse(luk_1_5_align['verseObjects'])
+
+###################
+
+# find all forms of word in original language by lemma
+foundWords = db.findOriginalWordsForLemma(connection, 'θεός')
+frequency = foundWords['word'].value_counts()
+usage = dict(frequency)
+
+word = 'God'
+lemmas = db.findLemmasAlignedWithTarget(connection, word)
+print(f"for word '{word}' found aligned lemmas {lemmas}")
+
+wordList = 'saved save safe salvation'
+unique = db.findUniqueLemmasAlignedWithTargetWords(connection, wordList, threshold = 2)
+print(f"for words '{wordList}' found unique aligned lemmas {unique}")
+
+#########################
+
+wordList = 'saved save safe salvation'
+unique = db.saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wordList)
+print (f"words '{wordList}' got list: {unique}")
+
+wordList = 'sanctify sanctification'
+unique = db.saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wordList)
+print (f"words '{wordList}' got list: {unique}")
+
+wordList = 'holy holiness unholy sacred'
+unique = db.saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wordList)
+print (f"words '{wordList}' got list: {unique}")
+
+data = file.initJsonFile(keyTermsPath)
+print (f"'{keyTermsPath}' has words: {data}")
+
+#########################
+
+wordList = 'holy holiness unholy sacred'
+unique = db.saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wordList)
+words = unique.keys()
+# firstWord = list(words)[0]
+# alignments = db.findAlignmentsForWord(connection, firstWord, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+
+wordList = list(words)
+alignments = db.findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+
+data = file.initJsonFile(keyTermsPath)
+print (f"'{keyTermsPath}' has words: {data}")
+
+keyTermsList = list(data.keys())
+firstList = keyTermsList[0]
+
+def saveAlignmentDataForWords(connection, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = True):
+    alignments = db.findAlignmentsForWords(connection, wordList, searchOriginal, searchLemma, caseInsensitive)
+
+    alignmentTrainingDataPath = './data/alignmentTrainingData.json'
+    alignmentData = file.initJsonFile(alignmentTrainingDataPath)
+
+    alignmentData[wordList] = alignmentData
+
+    file.writeJsonFile(alignmentTrainingDataPath, alignmentData) # update file
+
+firstItem = data
+saveAlignmentDataForWords(connection, keyTermsList, searchOriginal = True, searchLemma = True, caseInsensitive = True)
 

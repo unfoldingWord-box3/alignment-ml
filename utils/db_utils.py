@@ -559,6 +559,30 @@ def findWord(connection, word, searchOriginal = True, searchLemma = False, caseI
     # print (f"{len(words)} items in search: {search}")
     return words
 
+def findWords(connection, words, searchOriginal = True, searchLemma = False, caseInsensitive = False):
+    searches = ''
+    for word in words:
+        if searchLemma:
+            search = f"(lemma = '{word}')"
+        else:
+            search = f"(word = '{word}')"
+
+        if len(searches) > 0:
+            searches = searches + ' OR '
+
+        searches = searches + search
+
+    # print(f"findWords - search filter: {searches}")
+
+    if searchOriginal:
+        table = original_words_table
+    else:
+        table = target_words_table
+
+    words = fetchRecords(connection, table, searches, caseInsensitive)
+    # print (f"{len(words)} items in search: {search}")
+    return words
+
 def getAlignmentsForWords(connection, words, searchOriginal):
     alignments = []
     for word in words:
@@ -569,12 +593,19 @@ def getAlignmentsForWords(connection, words, searchOriginal):
 
 def findAlignmentsForWord(connection, word, searchOriginal = True, searchLemma = False, caseInsensitive = False):
     foundWords = findWord(connection, word, searchOriginal, searchLemma, caseInsensitive)
-    print (f"{len(foundWords)} items in search")
+    # print (f"{len(foundWords)} items in search")
 
     alignments = getAlignmentsForWords(connection, foundWords, searchOriginal)
     totalCount = len(alignments)
-    counts = pd.DataFrame(alignments)['alignmentTxt'].value_counts() # get counts for each match type
+    if totalCount == 0:
+        return None
 
+    results = addFrequencyToAlignments(alignments)
+    return results
+
+def addFrequencyToAlignments(alignments):
+    totalCount = len(alignments)
+    counts = pd.DataFrame(alignments)['alignmentTxt'].value_counts()  # get counts for each match type
     # insert frequency of alignment into table
     for alignment in alignments:
         alignmentText = alignment['alignmentTxt']
@@ -582,6 +613,86 @@ def findAlignmentsForWord(connection, word, searchOriginal = True, searchLemma =
             count = counts[alignmentText]
             ratio = count / totalCount
             alignment['frequency'] = ratio
+    df = pd.DataFrame(alignments)  # load as dataframe so we can to cool stuff
+    results = df
+    return results
 
-    df = pd.DataFrame(alignments) # load as dataframe so we can to cool stuff
-    return df
+def findOriginalWordsForLemma(connection, lemma):
+    foundWords = findWord(connection, lemma, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+    fwd = pd.DataFrame(foundWords)
+    return fwd
+
+def findOrignalLangAlignmentsWithTarget(connection, word):
+    alignments = findAlignmentsForWord(connection, word, searchOriginal = False, searchLemma = False, caseInsensitive = True)
+    return alignments
+
+def findSingleAlignmentsWithTargetWord(connection, word):
+    alignments = findOrignalLangAlignmentsWithTarget(connection, word)
+    if alignments is not None:
+        singleAlignments =  alignments.query('alignmentOrigWords==1').head()
+        return singleAlignments
+    return None
+
+def findLemmasAlignedWithTarget(connection, word):
+    lemmas = []
+    singleAlignments = findSingleAlignmentsWithTargetWord(connection, word)
+    if singleAlignments is not None:
+        for alignment in singleAlignments['origWords']:
+            lemma = alignment[0]['lemma']
+            # print(lemma)
+            lemmas.append(lemma)
+        return lemmas
+    return None
+
+def findUniqueLemmasAlignedWithTargetWords(connection, wordList, threshold = 1):
+    words = wordList.split(' ')
+    lemmas = []
+    for word in words:
+        print(f"searching {word}")
+        word_lemmas = findLemmasAlignedWithTarget(connection, word)
+        if word_lemmas is not None:
+            # print(f"lemmas found {word_lemmas}")
+            lemmas.extend(word_lemmas)
+    # print(lemmas)
+    # make sure they reach threshold
+    unique = getUnique(threshold, lemmas)
+    return unique
+
+def getUnique(threshold, wordList):
+    unique = {}
+    for words in wordList:
+        if words in unique:
+            unique[words] = unique[words] + 1
+        else:
+            unique[words] = 1
+
+    keys = list(unique.keys())
+    if len(keys) > 1:
+        for key in keys:
+            count = unique[key]
+            if not (count >= threshold):
+                del unique[key]
+    return unique
+
+def saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wordList, threshold = 2):
+    data = file.initJsonFile(keyTermsPath)
+    unique = findUniqueLemmasAlignedWithTargetWords(connection, wordList, threshold)
+    # print(f"for words '{wordList}' found unique aligned lemmas {unique}")
+
+    data[wordList] = unique # add unique words
+    file.writeJsonFile(keyTermsPath, data) # update file
+    return unique
+
+def findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = False):
+    foundWords = findWords(connection, wordList, searchOriginal, searchLemma, caseInsensitive)
+    print (f" for '{wordList}' found {len(foundWords)} usages in database")
+
+    alignments = getAlignmentsForWords(connection, foundWords, searchOriginal)
+    print (f" found {len(alignments)} alignments in database")
+
+    totalCount = len(alignments)
+    if totalCount == 0:
+        return None
+
+    results = addFrequencyToAlignments(alignments)
+    return results
