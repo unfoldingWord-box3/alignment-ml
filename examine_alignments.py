@@ -181,22 +181,28 @@ words = unique.keys()
 wordList = list(words)
 alignments = db.findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = True)
 
-data = file.initJsonFile(keyTermsPath)
-print (f"'{keyTermsPath}' has words: {data}")
+############################
 
-keyTermsList = list(data.keys())
-firstList = keyTermsList[0]
+# firstItem = list(data[firstKey].keys())
 
-def saveAlignmentDataForWords(connection, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = True):
-    alignments = db.findAlignmentsForWords(connection, wordList, searchOriginal, searchLemma, caseInsensitive)
+####################
 
-    alignmentTrainingDataPath = './data/alignmentTrainingData.json'
-    alignmentData = file.initJsonFile(alignmentTrainingDataPath)
+# keyTermsList = list(data.keys())
+# firstKey = keyTermsList[0]
+# firstItem = list(data[firstKey].keys())
+# db.saveAlignmentDataForWords(connection, firstKey, firstItem, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+#
 
-    alignmentData[wordList] = alignmentData
+wordList = 'kingdom'
+unique = db.saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wordList)
+words = list(unique.keys())
+db.saveAlignmentDataForWords(connection, wordList, words, searchOriginal = True, searchLemma = True, caseInsensitive = True)
 
-    file.writeJsonFile(alignmentTrainingDataPath, alignmentData) # update file
+wordList = 'ancestor father fathered forefather grandfather'
+unique = db.saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wordList)
+words = list(unique.keys())
+db.saveAlignmentDataForWords(connection, wordList, words, searchOriginal = True, searchLemma = True, caseInsensitive = True)
 
-firstItem = data
-saveAlignmentDataForWords(connection, keyTermsList, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+###############
 
+db.refreshSavedAlignmentData(connection, keyTermsPath)

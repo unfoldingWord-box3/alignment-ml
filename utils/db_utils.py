@@ -601,7 +601,8 @@ def findAlignmentsForWord(connection, word, searchOriginal = True, searchLemma =
         return None
 
     results = addFrequencyToAlignments(alignments)
-    return results
+    df = pd.DataFrame(results)  # load as dataframe so we can to cool stuff
+    return df
 
 def addFrequencyToAlignments(alignments):
     totalCount = len(alignments)
@@ -613,9 +614,7 @@ def addFrequencyToAlignments(alignments):
             count = counts[alignmentText]
             ratio = count / totalCount
             alignment['frequency'] = ratio
-    df = pd.DataFrame(alignments)  # load as dataframe so we can to cool stuff
-    results = df
-    return results
+    return alignments
 
 def findOriginalWordsForLemma(connection, lemma):
     foundWords = findWord(connection, lemma, searchOriginal = True, searchLemma = True, caseInsensitive = True)
@@ -696,3 +695,37 @@ def findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLe
 
     results = addFrequencyToAlignments(alignments)
     return results
+
+def saveAlignmentDataForWords(connection, key, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = True):
+    alignments = findAlignmentsForWords(connection, wordList, searchOriginal, searchLemma, caseInsensitive)
+    print(f"for {key} found {len(alignments)} alignments")
+
+    baseFolder = './data/TrainingData'
+    file.makeFolder(baseFolder)
+
+    index = {
+        'lemmaList': wordList,
+        'alignmentsCount': len(alignments)
+    }
+    indexPath = baseFolder + '/index.json'
+    indexData = file.initJsonFile(indexPath)
+    indexData[key] = index
+    file.writeJsonFile(indexPath, indexData) # update index
+
+    alignmentTrainingDataPath = baseFolder + '/' + key + '.json'
+    file.writeJsonFile(alignmentTrainingDataPath, alignments)
+
+    df = pd.DataFrame(alignments)
+    csvPath = baseFolder + '/' + key + '.csv'
+    df.to_csv(path_or_buf=csvPath, index=True)
+
+def refreshSavedAlignmentData(connection, keyTermsPath):
+    data = file.initJsonFile(keyTermsPath)
+    print (f"'{keyTermsPath}' has words: {data}")
+
+    keyTermsList = list(data.keys())
+    for keyTerm in keyTermsList:
+        item = list(data[keyTerm].keys())
+        print (f"updating '{keyTerm}' = '{item}'")
+        saveAlignmentDataForWords(connection, keyTerm, item, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+

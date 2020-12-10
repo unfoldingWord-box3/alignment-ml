@@ -42,7 +42,7 @@ def writeFile(outputPath, text):
     f.write(text)
 
 def writeJsonFile(outputPath, data):
-    text = json.dumps(data)
+    text = json.dumps(data, indent=2)
     f = open(outputPath, "w")
     f.write(text)
 
