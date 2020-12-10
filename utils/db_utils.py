@@ -628,7 +628,7 @@ def findOrignalLangAlignmentsWithTarget(connection, word):
 def findSingleAlignmentsWithTargetWord(connection, word):
     alignments = findOrignalLangAlignmentsWithTarget(connection, word)
     if alignments is not None:
-        singleAlignments =  alignments.query('alignmentOrigWords==1').head()
+        singleAlignments = alignments.query('alignmentOrigWords==1')
         return singleAlignments
     return None
 
