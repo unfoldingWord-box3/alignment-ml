@@ -196,12 +196,12 @@ alignments = db.findAlignmentsForWords(connection, wordList, searchOriginal = Tr
 wordList = 'kingdom'
 unique = db.saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wordList)
 words = list(unique.keys())
-db.saveAlignmentDataForWords(connection, wordList, words, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+alignments = db.saveAlignmentDataForWords(connection, wordList, words, searchOriginal = True, searchLemma = True, caseInsensitive = True)
 
 wordList = 'ancestor father fathered forefather grandfather'
 unique = db.saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wordList)
 words = list(unique.keys())
-db.saveAlignmentDataForWords(connection, wordList, words, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+alignments = db.saveAlignmentDataForWords(connection, wordList, words, searchOriginal = True, searchLemma = True, caseInsensitive = True)
 
 ###############
 

@@ -1,4 +1,5 @@
 import pandas as pd
+import csv
 import json
 import sqlite3
 from sqlite3 import Error
@@ -600,20 +601,23 @@ def findAlignmentsForWord(connection, word, searchOriginal = True, searchLemma =
     if totalCount == 0:
         return None
 
-    results = addFrequencyToAlignments(alignments)
+    results = addDataToAlignmentsAndClean(alignments)
     df = pd.DataFrame(results)  # load as dataframe so we can to cool stuff
     return df
 
-def addFrequencyToAlignments(alignments):
+# adds frequency data and converts identification fields to str
+def addDataToAlignmentsAndClean(alignments):
     totalCount = len(alignments)
-    counts = pd.DataFrame(alignments)['alignmentTxt'].value_counts()  # get counts for each match type
+    countsMap = pd.DataFrame(alignments)['alignmentTxt'].value_counts()  # get counts for each match type
     # insert frequency of alignment into table
     for alignment in alignments:
         alignmentText = alignment['alignmentTxt']
-        if (alignmentText in counts):
-            count = counts[alignmentText]
+        if (alignmentText in countsMap):
+            count = countsMap[alignmentText]
             ratio = count / totalCount
             alignment['frequency'] = ratio
+        for key in ['id', 'alignment_num']:
+            alignment[key] = str(alignment[key]) # converts identification fields to str
     return alignments
 
 def findOriginalWordsForLemma(connection, lemma):
@@ -693,7 +697,7 @@ def findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLe
     if totalCount == 0:
         return None
 
-    results = addFrequencyToAlignments(alignments)
+    results = addDataToAlignmentsAndClean(alignments)
     return results
 
 def saveAlignmentDataForWords(connection, key, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = True):
@@ -717,7 +721,8 @@ def saveAlignmentDataForWords(connection, key, wordList, searchOriginal = True, 
 
     df = pd.DataFrame(alignments)
     csvPath = baseFolder + '/' + key + '.csv'
-    df.to_csv(path_or_buf=csvPath, index=True)
+    df.to_csv(path_or_buf=csvPath, index=False, header=True, quoting=csv.QUOTE_NONNUMERIC)
+    return df
 
 def refreshSavedAlignmentData(connection, keyTermsPath):
     data = file.initJsonFile(keyTermsPath)
