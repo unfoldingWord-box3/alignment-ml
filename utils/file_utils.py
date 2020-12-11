@@ -42,8 +42,8 @@ def writeFile(outputPath, text):
     f.write(text)
 
 def writeJsonFile(outputPath, data):
-    text = json.dumps(data, indent=2)
-    f = open(outputPath, "w")
+    text = json.dumps(data, indent=2, ensure_ascii = False)
+    f = open(outputPath, "w", encoding='utf-8')
     f.write(text)
 
 def downloadJsonFile(url, outputPath):
