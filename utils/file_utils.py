@@ -101,9 +101,9 @@ def listFolder(outputFolder):
 
 def readJsonFile(inputPath):
     # print ('readJsonFile ' + inputPath)
-    data = readFile(inputPath)
-    dict = json.loads(data)
-    return dict
+    dataStr = readFile(inputPath)
+    data = json.loads(dataStr)
+    return data
 
 def initJsonFile(keyTermsPath):
     try:

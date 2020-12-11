@@ -203,6 +203,16 @@ unique = db.saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wor
 words = list(unique.keys())
 alignments = db.saveAlignmentDataForWords(connection, wordList, words, searchOriginal = True, searchLemma = True, caseInsensitive = True)
 
+################
+
+wordList = 'saved save safe salvation'
+unique = db.findUniqueLemmasAlignedWithTargetWords(connection, wordList, threshold = 2)
+print(f"for words '{wordList}' found unique aligned lemmas {unique}")
+
+words = unique.keys()
+wordList = list(words)
+alignments = db.findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+
 ###############
 
 db.refreshSavedAlignmentData(connection, keyTermsPath)
