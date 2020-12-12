@@ -75,6 +75,15 @@ godAlignments = db.findAlignmentsForWord(connection, 'θεός', True, True)
 
 ###############
 
+# reading dataFrame from json:
+f = open('data/TrainingData/θεός.json')
+dataStr = f.read()
+data = json.loads(dataStr)
+df = pd.DataFrame(data)
+df.describe()
+
+###############
+
 # foundWords = db.findWord(connection, word, searchOriginal, searchLemma, caseInsensitive)
 
 #################

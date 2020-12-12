@@ -1,5 +1,16 @@
 ## Training data folder
 
+### loading alignments data into a dataframe in Python:
+
+```
+# reading dataFrame from json:
+f = open('data/TrainingData/θεός.json')
+dataStr = f.read()
+data = json.loads(dataStr)
+df = pd.DataFrame(data)
+df.describe() # show key metric data
+```
+
 ### description of keys used in json and csv files
 
 **Current metric Columns:** origSpan, alignmentOrigWords, targetSpan, alignmentTargetWords, frequency
