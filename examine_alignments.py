@@ -75,7 +75,7 @@ godAlignments = db.findAlignmentsForWord(connection, 'θεός', True, True)
 
 ###############
 
-foundWords = db.findWord(connection, word, searchOriginal, searchLemma, caseInsensitive)
+# foundWords = db.findWord(connection, word, searchOriginal, searchLemma, caseInsensitive)
 
 #################
 
@@ -216,3 +216,13 @@ alignments = db.findAlignmentsForWords(connection, wordList, searchOriginal = Tr
 ###############
 
 db.refreshSavedAlignmentData(connection, keyTermsPath)
+
+################
+
+wordList = 'saved save safe salvation'
+unique = db.findUniqueLemmasAlignedWithTargetWords(connection, wordList, threshold = 2)
+print(f"for words '{wordList}' found unique aligned lemmas {unique}")
+
+words = list(unique.keys())
+
+alignments_df = db.saveAlignmentDataForWords(connection, wordList, words, searchOriginal = True, searchLemma = True, caseInsensitive = True)

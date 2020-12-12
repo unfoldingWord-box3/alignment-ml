@@ -1,0 +1,95 @@
+[
+  {
+    "id": "136470",
+    "book_id": "act",
+    "chapter": "1",
+    "verse": "25",
+    "alignment_num": "7",
+    "orig_lang_words": ",770206,",
+    "target_lang_words": ",753781,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 770206,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 7,
+        "word": "ἀποστολῆς",
+        "occurrence": 1,
+        "strong": "G06510",
+        "lemma": "ἀποστολή",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀποστολῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 753781,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 8,
+        "word": "apostleship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostleship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστολῆς = apostleship",
+    "frequency": 0.5
+  },
+  {
+    "id": "153662",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "8",
+    "alignment_num": "5",
+    "orig_lang_words": ",788688,",
+    "target_lang_words": ",778262,778263,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 788688,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 5,
+        "word": "ἀποστολὴν",
+        "occurrence": 1,
+        "strong": "G06510",
+        "lemma": "ἀποστολή",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀποστολὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 778262,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 7,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 778263,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 8,
+        "word": "apostleship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the apostleship",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποστολὴν = the apostleship",
+    "frequency": 0.5
+  }
+]

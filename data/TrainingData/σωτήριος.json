@@ -1,0 +1,245 @@
+[
+  {
+    "id": "119527",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "30",
+    "alignment_num": "4",
+    "orig_lang_words": ",751955,751956,",
+    "target_lang_words": ",729355,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 751955,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "30",
+        "word_num": 5,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 751956,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "30",
+        "word_num": 6,
+        "word": "σωτήριόν",
+        "occurrence": 1,
+        "strong": "G49920",
+        "lemma": "σωτήριος",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ σωτήριόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 729355,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "30",
+        "word_num": 6,
+        "word": "salvation",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "salvation",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ σωτήριόν = salvation",
+    "frequency": 0.2
+  },
+  {
+    "id": "119972",
+    "book_id": "luk",
+    "chapter": "3",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",752425,",
+    "target_lang_words": ",729968,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 752425,
+        "book_id": "luk",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 5,
+        "word": "σωτήριον",
+        "occurrence": 1,
+        "strong": "G49920",
+        "lemma": "σωτήριος",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "σωτήριον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 729968,
+        "book_id": "luk",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 6,
+        "word": "salvation",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "salvation",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σωτήριον = salvation",
+    "frequency": 0.2
+  },
+  {
+    "id": "153227",
+    "book_id": "act",
+    "chapter": "28",
+    "verse": "28",
+    "alignment_num": "9",
+    "orig_lang_words": ",788151,788152,",
+    "target_lang_words": ",777486,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 788151,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "28",
+        "word_num": 9,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 788152,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "28",
+        "word_num": 10,
+        "word": "σωτήριον",
+        "occurrence": 1,
+        "strong": "G49920",
+        "lemma": "σωτήριος",
+        "morph": "Gr,NS,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ σωτήριον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 777486,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "28",
+        "word_num": 9,
+        "word": "salvation",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "salvation",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ σωτήριον = salvation",
+    "frequency": 0.2
+  },
+  {
+    "id": "157236",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "17",
+    "alignment_num": "4",
+    "orig_lang_words": ",792712,",
+    "target_lang_words": ",783790,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 792712,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "17",
+        "word_num": 4,
+        "word": "σωτηρίου",
+        "occurrence": 1,
+        "strong": "G49920",
+        "lemma": "σωτήριος",
+        "morph": "Gr,NS,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "σωτηρίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 783790,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "17",
+        "word_num": 5,
+        "word": "salvation",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "salvation",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σωτηρίου = salvation",
+    "frequency": 0.2
+  },
+  {
+    "id": "162911",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "11",
+    "alignment_num": "6",
+    "orig_lang_words": ",799250,",
+    "target_lang_words": ",793004,793005,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 799250,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 6,
+        "word": "σωτήριος",
+        "occurrence": 1,
+        "strong": "G49920",
+        "lemma": "σωτήριος",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "σωτήριος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 793004,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 7,
+        "word": "for",
+        "occurrence": 1
+      },
+      {
+        "id": 793005,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 8,
+        "word": "salvation",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "for salvation",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σωτήριος = for salvation",
+    "frequency": 0.2
+  }
+]

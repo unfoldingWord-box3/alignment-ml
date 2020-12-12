@@ -701,16 +701,34 @@ def findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLe
     return results
 
 def saveAlignmentDataForWords(connection, key, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = True):
-    alignments = findAlignmentsForWords(connection, wordList, searchOriginal, searchLemma, caseInsensitive)
-    print(f"for {key} found {len(alignments)} alignments")
-
     baseFolder = './data/TrainingData'
     file.makeFolder(baseFolder)
 
+    # get superset of alignments
+    alignments_df = saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLemma, searchOriginal,
+                                                 caseInsensitive)
+    alignmentsSet = {
+        key: alignments_df
+    }
+
+    length = len(wordList)
+    if length > 0:
+        # get alignments for each individual word
+        for word in wordList:
+            alignments_df = saveAlignmentDataForWordsSub(connection, word, [word], baseFolder, searchLemma, searchOriginal,
+                                                         caseInsensitive)
+            alignmentsSet[word] = alignments_df
+
+    return alignmentsSet
+
+def saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLemma, searchOriginal, caseInsensitive):
+    alignments = findAlignmentsForWords(connection, wordList, searchOriginal, searchLemma, caseInsensitive)
+    print(f"for {key} found {len(alignments)} alignments")
     index = {
         'lemmaList': wordList,
         'alignmentsCount': len(alignments)
     }
+
     indexPath = baseFolder + '/index.json'
     indexData = file.initJsonFile(indexPath)
     indexData[key] = index

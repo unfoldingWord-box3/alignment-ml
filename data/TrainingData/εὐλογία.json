@@ -1,0 +1,86 @@
+[
+  {
+    "id": "154046",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "14",
+    "alignment_num": "5",
+    "orig_lang_words": ",789145,",
+    "target_lang_words": ",778965,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 789145,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 5,
+        "word": "εὐλογία",
+        "occurrence": 1,
+        "strong": "G21290",
+        "lemma": "εὐλογία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 778965,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 3,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογία = blessing",
+    "frequency": 0.5
+  },
+  {
+    "id": "155101",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "15",
+    "orig_lang_words": ",790472,",
+    "target_lang_words": ",780925,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 790472,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 15,
+        "word": "εὐλογίᾳ",
+        "occurrence": 1,
+        "strong": "G21290",
+        "lemma": "εὐλογία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 780925,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 18,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογίᾳ = blessing",
+    "frequency": 0.5
+  }
+]
