@@ -235,3 +235,58 @@ print(f"for words '{wordList}' found unique aligned lemmas {unique}")
 words = list(unique.keys())
 
 alignments_df = db.saveAlignmentDataForWords(connection, wordList, words, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+
+#################
+
+# get all greek words
+items_orig_greek = db.fetchRecords(connection, original_words_table, "morph LIKE 'Gr%'")
+print (f"{len(items_orig_greek)} greek words in original_words_table")
+original_df = pd.DataFrame(items_orig_greek)
+morphs = original_df['morph']
+
+# get count of times each used
+frequency = morphs.value_counts()
+print("Frequency of morph usage:")
+print(frequency)
+
+# get alphabetized list of morphs
+morphs_list = list(dict(frequency).keys())
+morphs_list.sort()
+print("Alphabetized morph list:")
+print(morphs_list)
+
+# get all Hebrew words
+items_orig_hebrew = db.fetchRecords(connection, original_words_table, "morph LIKE 'He%'")
+print (f"{len(items_orig_hebrew)} hebrew words in original_words_table")
+original_df = pd.DataFrame(items_orig_hebrew)
+morphs = original_df['morph']
+
+# get count of times each used
+frequency = morphs.value_counts()
+print("Frequency of morph usage:")
+print(frequency)
+
+# get alphabetized list of morphs
+morphs_list = list(dict(frequency).keys())
+morphs_list.sort()
+print("Alphabetized morph list:")
+print(morphs_list)
+
+# get all Aramaic words
+items_orig_aramaic = db.fetchRecords(connection, original_words_table, "morph LIKE 'Ar%'")
+print (f"{len(items_orig_aramaic)} aramaic words in original_words_table")
+original_df = pd.DataFrame(items_orig_aramaic)
+morphs = original_df['morph']
+
+# get count of times each used
+frequency = morphs.value_counts()
+print("Frequency of morph usage:")
+print(frequency)
+
+# get alphabetized list of morphs
+morphs_list = list(dict(frequency).keys())
+morphs_list.sort()
+print("Alphabetized morph list:")
+print(morphs_list)
+
+
