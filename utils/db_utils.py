@@ -3,6 +3,9 @@ import csv
 import json
 import sqlite3
 from sqlite3 import Error
+import matplotlib.pyplot as plt
+from matplotlib.ticker import ScalarFormatter
+import numpy as np
 import utils.file_utils as file
 import utils.bible_utils as bible
 
@@ -617,7 +620,9 @@ def addDataToAlignmentsAndClean(alignments):
             ratio = count / totalCount
             alignment['frequency'] = ratio
         for key in ['id', 'alignment_num']:
-            alignment[key] = str(alignment[key]) # converts identification fields to str
+            alignment[key] = str(alignment[key]) # converts identification fields to str so that we don't mistakenly try to use for analysis
+        alignment['origWordsBetween'] = alignment['origSpan'] - (alignment['alignmentOrigWords'] - 1)
+        alignment['targetWordsBetween'] = alignment['targetSpan'] - (alignment['alignmentTargetWords'] - 1)
     return alignments
 
 def findOriginalWordsForLemma(connection, lemma):
@@ -752,3 +757,58 @@ def refreshSavedAlignmentData(connection, keyTermsPath):
         print (f"updating '{keyTerm}' = '{item}'")
         saveAlignmentDataForWords(connection, keyTerm, item, searchOriginal = True, searchLemma = True, caseInsensitive = True)
 
+# reading dataFrame from json:
+def loadAlignmentDataFromFile(lemma):
+    alignment_data_path = f'data/TrainingData/{lemma}.json'
+    f = open(alignment_data_path)
+    dataStr = f.read()
+    data = json.loads(dataStr)
+    df = pd.DataFrame(data)
+    return df
+
+# doing plots
+def plotFieldFrequency(frequency, fieldName, xAxisLabel, yAxisLabel = None,max=-1, xNumbers=True, xShowTicks=True, title=None):
+    fig = plt.figure()
+    if title is None: # use default title
+        title = f"Frequency of {xAxisLabel} ('{fieldName}')"
+    fig.suptitle(title, fontsize=16)
+    if yAxisLabel is None:
+        yAxisLabel = "Log of Count"
+    ax = fig.add_axes([0,0,1,0.9],
+                      yscale="log",
+                      xlabel=xAxisLabel,
+                      ylabel=yAxisLabel)
+    x = list(frequency.index)
+    if not xNumbers: # text labels
+        labels = x
+        x_range = np.arange(len(x))
+        ax.set_xticks(x_range)
+        ax.set_xticklabels(labels)
+        x = x_range
+    y = list(frequency.values)
+    ax.bar(x,y)
+    formatter = ScalarFormatter()
+    formatter.set_scientific(False)
+    ax.yaxis.set_major_formatter(formatter)
+    if xNumbers:
+        if max > -1:
+            xticks = np.arange(0, max, 1)
+            if max > 10:
+                xticks = np.arange(0, max, 2)
+            ax.set_xticks(xticks)
+    if not xShowTicks:
+        plt.setp(ax.get_xticklabels(), visible=False)
+        ax.tick_params(axis='x', which='both', length=0)
+    plt.show()
+
+def describeAlignments(alignments):
+    descr = alignments.describe()
+    print(f"Alignments description:\n{descr}")
+
+    fields = list(descr.columns)
+    print(f"fields = {fields}")
+
+    fields.remove('frequency') # not useful for analysis
+    for field in fields:
+        alignmentOrigWords_frequency = alignments[field].value_counts()
+        print(f"\nFrequency of {field}:\n{alignmentOrigWords_frequency}")
