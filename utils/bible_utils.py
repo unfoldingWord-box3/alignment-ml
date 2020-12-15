@@ -1525,4 +1525,14 @@ def loadChapterAlignments(inputBasePath, bibleType, bookId, chapter):
         data = ''
     return data
 
+def loadChapterAlignmentsFromResource(inputBasePath, bookId, chapter):
+    inputPath = f"{inputBasePath}/{bookId}/{chapter}.json"
+    print(f"loadChapterAlignmentsFromResource - {inputPath}")
+    if os.path.isfile(inputPath):
+        data = file.readJsonFile(inputPath)
+    else:
+        print('file missing ' + inputPath)
+        data = ''
+    return data
+
 

@@ -143,48 +143,73 @@ def getWordsFromVerse(verseObjects):
 
     return words
 
-# TODO: finish algorithm to parse en_ult
+def parseAlignmentFromVerse(verseObject, wordNum = 0):
+    topWords = []
+    bottomWords = []
+    topWord = verseObject.copy()
+    del topWord['children']
+    topWord['text'] = topWord['content']
+    topWords.append(topWord)
+
+    verseObjects = verseObject['children']
+
+    for i in range(len(verseObjects)):
+        vo = verseObjects[i]
+        type_ = getKey(vo,'type')
+        if (type_ == 'word'):
+            # print(f'At {i} Found word: {vo}')
+            bottomWords.append(vo)
+            wordNum += 1
+        elif (type_ == 'milestone'):
+            child_topWords, child_bottomWords, child_wordNum = parseAlignmentFromVerse(vo, wordNum)
+            topWords.extend(child_topWords)
+            bottomWords.extend(child_bottomWords)
+            wordNum = child_wordNum
+            # print('finished processing children')
+        elif (type_ == ''):
+            print(f"getWordsFromVerse - missing type in: {vo}")
+
+    return topWords, bottomWords, wordNum
+
 def getAlignmentsFromVerse(verseObjects, wordNum = 0):
-    words = []
     alignments = []
+    target_words = []
     wordNum = 0
     for i in range(len(verseObjects)):
         vo = verseObjects[i]
         type_ = getKey(vo,'type')
         if (type_ == 'word'):
             # print(f'At {i} Found word: {vo}')
-            words.append(vo)
-            wordNum = wordNum + 1
+            target_words.append(vo)
+            wordNum += 1
         elif (type_ == 'milestone'):
-            children = vo['children']
-            # print(f"At {i} Found children: {len(children)}")
-
-            # TODO: finish
-            # topWord = {
-            #     'word': text,
-            #     'occurrence': getOccurrences(text, db_words) + 1,
-            #     'strong': getKey(word,'strong'),
-            #     'lemma': getKey(word,'lemma'),
-            #     'morph': getKey(word,'morph')
-            # }
-
-            (child_words, child_alignments, child_wordNum) = getAlignmentsFromVerse(vo, wordNum)
-            words.extend(child_words)
+            topWords, bottomWords, child_wordNum = parseAlignmentFromVerse(vo, wordNum)
+            alignment = {
+                'topWords': topWords,
+                'bottomWords': bottomWords
+            }
+            alignments.append(alignment)
+            target_words.extend(bottomWords)
+            wordNum = child_wordNum
             # print('finished processing children')
         elif (type_ == ''):
-            print(f"getWordsFromVerse - missing type in: {vo}")
+            print(f"getAlignmentsFromVerse - missing type in: {vo}")
 
-    return (words, alignments, wordNum)
+    return target_words, alignments
 
-def getVerseWordsFromChapter(chapter_dict, verse):
-    words = getWordsFromVerse(chapter_dict[verse]['verseObjects'])
+def getVerseWordsFromChapter(chapter_dict, verse, nestedFormat=False):
+    vos = chapter_dict[verse]['verseObjects']
+    if nestedFormat:
+        words, alignments = getAlignmentsFromVerse(vos)
+    else:
+       words = getWordsFromVerse(vos)
     return words
 
 def getOccurrences(text, words):
     count = 0
     for word in words:
         if (word['word'] == text):
-            count = count + 1
+            count += 1
     return count
 
 def getKey(dict, key, default=''):
@@ -257,11 +282,11 @@ def createCommandToAddToDatabase(table, data):
     for i in range(length):
         db_word = data[i]
         line_data = getDataItems(db_word)
-        dataStr = dataStr + '  (' + line_data
+        dataStr += '  (' + line_data
         if (i < length - 1):
-            dataStr = dataStr + '),\n'
+            dataStr += '),\n'
         else:
-            dataStr = dataStr + ');\n'
+            dataStr += ');\n'
 
     add_words = f"INSERT INTO\n  {table} ({header})\nVALUES\n{dataStr}"
     return add_words
@@ -271,7 +296,7 @@ def getDataItems(db_word):
     line_data = ''
     for key, value in db_word.items():
         if (len(line_data) > 0):
-            line_data = line_data + ', '
+            line_data += ', '
 
         if isinstance(value, str):
             line_data = f"{line_data}'{value}'"
@@ -284,8 +309,8 @@ def getHeader(data):
     header = ''
     for key, value in data.items():
         if (len(header) > 0):
-            header = header + ', '
-        header = header + key
+            header += ', '
+        header += key
     return header
 
 
@@ -297,9 +322,9 @@ def addMultipleItemsToDatabase(connection, table, db_words):
 def fetchRecords(connection, table, filter, caseInsensitive = False):
     select_items = f"SELECT * FROM {table}"
     if len(filter):
-        select_items = select_items + f"\nWHERE {filter}"
+        select_items += f"\nWHERE {filter}"
     if caseInsensitive:
-        select_items = select_items + ' COLLATE NOCASE'
+        select_items += ' COLLATE NOCASE'
     # print(f"getRecords:\n{select_items}")
     items = execute_read_query_dict(connection, select_items)
     return items
@@ -363,7 +388,7 @@ def loadAllWordsFromTestamentIntoDB(connection, origLangPath, newTestament, tabl
         print (f"loadAllWordsFromTestamentIntoDB - reading {book}")
         loadAllWordsFromBookIntoDB(connection, origLangPath, book, table)
 
-def saveTargetWordsForAlignment(connection, bookId, chapter, verse, alignment, alignmentNum):
+def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignmentNum):
     topwords = alignment['topWords']
     bottomWords = alignment['bottomWords']
     origLangWords = topwords
@@ -377,13 +402,13 @@ def saveTargetWordsForAlignment(connection, bookId, chapter, verse, alignment, a
         items = fetchForWordInVerse(connection, target_words_table, word, occurrence, bookId, chapter, verse)
         if len(items) > 0:
             if len(targetIndices) > 0:
-                targetIndices = targetIndices + ','
+                targetIndices += ','
             pos = str(items[0]['id'])
         else:
             pos = '-1'
             missingWord = True
             print(f"saveTargetWordsForAlignment - missing {word}-{occurrence} in {bookId}-{chapter}:{verse}")
-        targetIndices = targetIndices + pos
+        targetIndices += pos
     targetIndices = f",{targetIndices}," # wrap to make searching easier
 
     originalIndices = ''
@@ -406,7 +431,7 @@ def saveTargetWordsForAlignment(connection, bookId, chapter, verse, alignment, a
         print(f"saveTargetWordsForAlignment - ignoring broken alignment in {bookId}-{chapter}:{verse}")
         return None
 
-    alignment = {
+    alignment_ = {
         'book_id': bookId,
         'chapter': chapter,
         'verse': verse,
@@ -414,46 +439,60 @@ def saveTargetWordsForAlignment(connection, bookId, chapter, verse, alignment, a
         'orig_lang_words':originalIndices,
         'target_lang_words': targetIndices
     }
-    return alignment
+    return alignment_
 
 def saveAlignmentsForVerse(connection, bookId, chapter, verse, verseAlignments):
     alignments = []
     for i in range(len(verseAlignments)):
         verseAlignment = verseAlignments[i]
-        alignment = saveTargetWordsForAlignment(connection, bookId, chapter, verse, verseAlignment, i)
+        alignment = findWordsForAlignment(connection, bookId, chapter, verse, verseAlignment, i)
         if alignment:
             alignments.append(alignment)
     addMultipleItemsToDatabase(connection, alignment_table, alignments)
 
-def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType):
-    data = bible.loadChapterAlignments(dataFolder, bibleType, bookId, chapter)
+def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType='', nestedFormat=False):
+    if nestedFormat:
+        data = bible.loadChapterAlignmentsFromResource(dataFolder, bookId, chapter)
+    else:
+        data = bible.loadChapterAlignments(dataFolder, bibleType, bookId, chapter)
     verses = getVerses(data)
+
     for verseAl in verses:
-        verseAlignments = data[verseAl]['alignments']
+        if nestedFormat:
+            target_words, verseAlignments = getAlignmentsFromVerse(data[verseAl]['verseObjects'])
+            # print(f"For {chapter}:{verse} Saving {len(db_words)}")
+            db_words = getDbTargetLangWordsForVerse(target_words, bookId, chapter, verseAl)
+            addMultipleItemsToDatabase(connection, target_words_table, db_words)
+        else:
+            verseAlignments = data[verseAl]['alignments']
         print(f"reading alignments for {chapter}:{verseAl}")
         saveAlignmentsForVerse(connection, bookId, chapter, verseAl, verseAlignments)
 
-def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLangPath):
+def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLangPath, nestedFormat=False):
     deleteWordsForBook(connection, alignment_table, bookId)
     deleteWordsForBook(connection, target_words_table, bookId)
     deleteWordsForBook(connection, original_words_table, bookId)
 
-    bookFolder = aligmentsFolder + '/' + file.getRepoName(bibleType, bookId)
+    if nestedFormat:
+        bookFolder = aligmentsFolder + '/' + bookId
+    else:
+        bookFolder = aligmentsFolder + '/' + file.getRepoName(bibleType, bookId)
     files = file.listFolder(bookFolder)
     if files: # make sure folder has files
         print("reading original language words")
         loadAllWordsFromBookIntoDB(connection, origLangPath, bookId, original_words_table)
-        print("reading target language words")
-        loadAllWordsFromBookIntoDB(connection, targetLangPathEn, bookId, target_words_table)
+        if not nestedFormat:
+            print("reading target language words")
+            loadAllWordsFromBookIntoDB(connection, targetLangPathEn, bookId, target_words_table)
 
         chapters = bible.getChaptersForBook(bookId)
         for chapterAL in chapters:
             print(f"reading alignments for {bookId} - {chapterAL}")
-            saveAlignmentsForChapter(connection, bookId, chapterAL, aligmentsFolder, bibleType)
+            saveAlignmentsForChapter(connection, bookId, chapterAL, aligmentsFolder, bibleType, nestedFormat)
     else:
         print(f"No alignments for {bookId} at {bookFolder}")
 
-def getAlignmentsForTestament(connection, newTestament, dataFolder, bibleType):
+def getAlignmentsForTestament(connection, newTestament, dataFolder, bibleType, nestedFormat=False):
     books = bible.getBookList(newTestament)
     for book in books:
         print (f"reading {book}")
@@ -461,7 +500,7 @@ def getAlignmentsForTestament(connection, newTestament, dataFolder, bibleType):
             origLangPath = origLangPathGreek
         else:
             origLangPath = origLangPathHebrew
-        saveAlignmentsForBook(connection, book, dataFolder, bibleType, origLangPath)
+        saveAlignmentsForBook(connection, book, dataFolder, bibleType, origLangPath, nestedFormat)
 
 def findAlignmentForWord(connection, word, searchOriginal):
     match = str(word['id'])

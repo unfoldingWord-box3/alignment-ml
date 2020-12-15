@@ -22,7 +22,7 @@ connection = db.initAlignmentDB(dbPath)
 
 bibleType = 'en_ult'
 testament = 1
-dataFolder = './data/Alignments'
+dataFolder = './data/AlignmentsFromProjects'
 bookId = 'tit'
 
 searchOriginal = True
@@ -85,67 +85,6 @@ df.describe()
 ###############
 
 # foundWords = db.findWord(connection, word, searchOriginal, searchLemma, caseInsensitive)
-
-#################
-
-filePath = 'data/TargetLangJson/ult/v14/luk/1.json'
-luke_1 = file.readJsonFile(filePath)
-luk_1_5_align = luke_1['5']
-
-def parseAlignmentFromVerse(verseObject, wordNum = 0):
-    topWords = []
-    bottomWords = []
-    topWord = verseObject.copy()
-    del topWord['children']
-    topWord['text'] = topWord['content']
-
-    verseObjects = verseObject['children']
-
-    for i in range(len(verseObjects)):
-        vo = verseObjects[i]
-        type_ = db.getKey(vo,'type')
-        if (type_ == 'word'):
-            # print(f'At {i} Found word: {vo}')
-            bottomWords.append(vo)
-            wordNum = wordNum + 1
-        elif (type_ == 'milestone'):
-            child_topWords, child_bottomWords, child_wordNum = parseAlignmentFromVerse(vo, wordNum)
-            topWords.append(child_topWords)
-            bottomWords.extend(child_bottomWords)
-            wordNum = child_wordNum
-            # print('finished processing children')
-        elif (type_ == ''):
-            print(f"getWordsFromVerse - missing type in: {vo}")
-
-    return topWords, bottomWords, wordNum
-
-def getAlignmentsFromVerse(verseObjects, wordNum = 0):
-    alignments = []
-    target_words = []
-    wordNum = 0
-    for i in range(len(verseObjects)):
-        vo = verseObjects[i]
-        type_ = db.getKey(vo,'type')
-        if (type_ == 'word'):
-            # print(f'At {i} Found word: {vo}')
-            target_words.append(vo)
-            wordNum = wordNum + 1
-        elif (type_ == 'milestone'):
-            topWords, bottomWords, child_words, child_wordNum = parseAlignmentFromVerse(vo, wordNum)
-            alignment = {
-                'topWords': topWords,
-                'bottomWords': bottomWords
-            }
-            alignments.append(alignment)
-            target_words.extend(child_words)
-            wordNum = child_wordNum
-            # print('finished processing children')
-        elif (type_ == ''):
-            print(f"getAlignmentsFromVerse - missing type in: {vo}")
-
-    return target_words, alignments
-
-alignments = getAlignmentsFromVerse(luk_1_5_align['verseObjects'])
 
 ###################
 

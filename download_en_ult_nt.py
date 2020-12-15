@@ -4,7 +4,7 @@ import utils.bible_utils as bible
 
 userUrl = 'https://git.door43.org/lrsallee'
 bibleType = 'en_ult'
-outputFolder = './data/Alignments'
+outputFolder = './data/AlignmentsFromProjects'
 
 # download new testament alignments into data
 bible.downloadTestamentAlignments(userUrl, bibleType, 1, outputFolder)
