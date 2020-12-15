@@ -34,13 +34,20 @@ caseInsensitive = True
 
 ########################
 
-filePath = dataFolder + '/luk/1.json'
-luke_1 = file.readJsonFile(filePath)
-luk_1_5_align = luke_1['5']
+# filePath = dataFolder + '/luk/1.json'
+# luke_1 = file.readJsonFile(filePath)
+# luk_1_5_align = luke_1['5']
 
 # target_words, alignments = db.getAlignmentsFromVerse(luk_1_5_align['verseObjects'])
 
-# target_words = db.saveAlignmentsForBook(connection, 'luk', dataFolder, 'ult', origLangPathGreek, nestedFormat=True)
+# target_words = db.saveAlignmentsForBook(connection, 'mat', dataFolder, 'ult', origLangPathGreek, nestedFormat=True)
+
+#################
+
+# completely clear old data
+db.resetTable(connection, target_words_table)
+db.resetTable(connection, original_words_table)
+db.resetTable(connection, alignment_table)
 
 ########################
 

@@ -315,9 +315,10 @@ def getHeader(data):
 
 
 def addMultipleItemsToDatabase(connection, table, db_words):
-    add_words = createCommandToAddToDatabase(table, db_words)
-    # print(f"addMultipleItemsToDatabase:\n{add_words}")
-    execute_query(connection, add_words)
+    if len(db_words):
+        add_words = createCommandToAddToDatabase(table, db_words)
+        # print(f"addMultipleItemsToDatabase:\n{add_words}")
+        execute_query(connection, add_words)
 
 def fetchRecords(connection, table, filter, caseInsensitive = False):
     select_items = f"SELECT * FROM {table}"
@@ -443,12 +444,16 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
 
 def saveAlignmentsForVerse(connection, bookId, chapter, verse, verseAlignments):
     alignments = []
-    for i in range(len(verseAlignments)):
+    numAlignments = len(verseAlignments)
+    for i in range(numAlignments):
         verseAlignment = verseAlignments[i]
         alignment = findWordsForAlignment(connection, bookId, chapter, verse, verseAlignment, i)
         if alignment:
             alignments.append(alignment)
-    addMultipleItemsToDatabase(connection, alignment_table, alignments)
+    if numAlignments:
+        addMultipleItemsToDatabase(connection, alignment_table, alignments)
+    else:
+        print(f"saveAlignmentsForVerse - no alignments found in {bookId} {chapter}:{verse}")
 
 def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType='', nestedFormat=False):
     if nestedFormat:
@@ -465,7 +470,7 @@ def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType=
             addMultipleItemsToDatabase(connection, target_words_table, db_words)
         else:
             verseAlignments = data[verseAl]['alignments']
-        print(f"reading alignments for {chapter}:{verseAl}")
+        print(f"reading alignments for {bookId} {chapter}:{verseAl}")
         saveAlignmentsForVerse(connection, bookId, chapter, verseAl, verseAlignments)
 
 def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLangPath, nestedFormat=False):
