@@ -1,69 +1,69 @@
 [
   {
-    "id": "155086",
-    "book_id": "eph",
-    "chapter": "1",
-    "verse": "3",
-    "alignment_num": "0",
-    "orig_lang_words": ",790457,",
-    "target_lang_words": ",780907,780908,",
+    "id": "207207",
+    "book_id": "mrk",
+    "chapter": "14",
+    "verse": "61",
+    "alignment_num": "22",
+    "orig_lang_words": ",1171976,",
+    "target_lang_words": ",856676,856677,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 790457,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 0,
-        "word": "εὐλογητὸς",
+        "id": 1171976,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "61",
+        "word_num": 22,
+        "word": "Εὐλογητοῦ",
         "occurrence": 1,
         "strong": "G21280",
         "lemma": "εὐλογητός",
-        "morph": "Gr,NP,,,,NMS,"
+        "morph": "Gr,NS,,,,GMS,"
       }
     ],
-    "origWordsTxt": "εὐλογητὸς",
+    "origWordsTxt": "Εὐλογητοῦ",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 780907,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 0,
+        "id": 856676,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "61",
+        "word_num": 28,
         "word": "Blessed",
         "occurrence": 1
       },
       {
-        "id": 780908,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 1,
-        "word": "be",
+        "id": 856677,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "61",
+        "word_num": 29,
+        "word": "One",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "Blessed be",
+    "targetWordsTxt": "Blessed One",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "εὐλογητὸς = Blessed be",
-    "frequency": 1.0,
+    "alignmentTxt": "Εὐλογητοῦ = Blessed One",
+    "frequency": 0.125,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "166538",
+    "id": "209132",
     "book_id": "luk",
     "chapter": "1",
     "verse": "68",
     "alignment_num": "0",
-    "orig_lang_words": ",978204,",
-    "target_lang_words": ",798242,798243,",
+    "orig_lang_words": ",1174189,",
+    "target_lang_words": ",859708,859709,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 978204,
+        "id": 1174189,
         "book_id": "luk",
         "chapter": "1",
         "verse": "68",
@@ -80,7 +80,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 798242,
+        "id": 859708,
         "book_id": "luk",
         "chapter": "1",
         "verse": "68",
@@ -89,7 +89,7 @@
         "occurrence": 1
       },
       {
-        "id": 798243,
+        "id": 859709,
         "book_id": "luk",
         "chapter": "1",
         "verse": "68",
@@ -101,7 +101,316 @@
     "targetWordsTxt": "Blessed be",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εὐλογητὸς = Blessed be",
-    "frequency": 1.0,
+    "frequency": 0.375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "260012",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "25",
+    "alignment_num": "18",
+    "orig_lang_words": ",1227117,",
+    "target_lang_words": ",929063,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1227117,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 20,
+        "word": "εὐλογητὸς",
+        "occurrence": 1,
+        "strong": "G21280",
+        "lemma": "εὐλογητός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογητὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 929063,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 25,
+        "word": "praised",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "praised",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογητὸς = praised",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "263136",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1230527,",
+    "target_lang_words": ",933889,933890,933891,933892,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1230527,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 16,
+        "word": "εὐλογητὸς",
+        "occurrence": 1,
+        "strong": "G21280",
+        "lemma": "εὐλογητός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογητὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 933889,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 21,
+        "word": "May",
+        "occurrence": 1
+      },
+      {
+        "id": 933890,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 22,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 933891,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 23,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 933892,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 24,
+        "word": "praised",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "May he be praised",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "εὐλογητὸς = May he be praised",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "272800",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "0",
+    "orig_lang_words": ",1240682,",
+    "target_lang_words": ",948326,948327,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1240682,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 0,
+        "word": "εὐλογητὸς",
+        "occurrence": 1,
+        "strong": "G21280",
+        "lemma": "εὐλογητός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογητὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 948326,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 0,
+        "word": "Blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 948327,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 1,
+        "word": "be",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Blessed be",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογητὸς = Blessed be",
+    "frequency": 0.375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "276435",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "31",
+    "alignment_num": "8",
+    "orig_lang_words": ",1244433,",
+    "target_lang_words": ",953595,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1244433,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "31",
+        "word_num": 10,
+        "word": "εὐλογητὸς",
+        "occurrence": 1,
+        "strong": "G21280",
+        "lemma": "εὐλογητός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογητὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 953595,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "31",
+        "word_num": 12,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογητὸς = blessed",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "279277",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "0",
+    "orig_lang_words": ",1247371,",
+    "target_lang_words": ",957959,957960,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1247371,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 0,
+        "word": "εὐλογητὸς",
+        "occurrence": 1,
+        "strong": "G21280",
+        "lemma": "εὐλογητός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογητὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 957959,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 0,
+        "word": "Blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 957960,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 1,
+        "word": "be",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Blessed be",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογητὸς = Blessed be",
+    "frequency": 0.375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "297085",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "0",
+    "orig_lang_words": ",1265808,",
+    "target_lang_words": ",983536,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1265808,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 0,
+        "word": "εὐλογητὸς",
+        "occurrence": 1,
+        "strong": "G21280",
+        "lemma": "εὐλογητός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογητὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 983536,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 0,
+        "word": "May",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "May",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογητὸς = May",
+    "frequency": 0.125,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

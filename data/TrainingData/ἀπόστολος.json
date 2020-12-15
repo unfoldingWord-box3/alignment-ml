@@ -1,16 +1,477 @@
 [
   {
-    "id": "136053",
-    "book_id": "act",
-    "chapter": "1",
+    "id": "185529",
+    "book_id": "mat",
+    "chapter": "10",
     "verse": "2",
     "alignment_num": "5",
-    "orig_lang_words": ",769749,",
-    "target_lang_words": ",753189,753191,",
+    "orig_lang_words": ",1148374,",
+    "target_lang_words": ",825814,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 769749,
+        "id": 1148374,
+        "book_id": "mat",
+        "chapter": "10",
+        "verse": "2",
+        "word_num": 3,
+        "word": "ἀποστόλων",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 825814,
+        "book_id": "mat",
+        "chapter": "10",
+        "verse": "2",
+        "word_num": 6,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = apostles",
+    "frequency": 0.175,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "199166",
+    "book_id": "mrk",
+    "chapter": "3",
+    "verse": "14",
+    "alignment_num": "6",
+    "orig_lang_words": ",1163295,",
+    "target_lang_words": ",845320,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1163295,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 5,
+        "word": "ἀποστόλους",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 845320,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 8,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλους = apostles",
+    "frequency": 0.15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "201263",
+    "book_id": "mrk",
+    "chapter": "6",
+    "verse": "30",
+    "alignment_num": "2",
+    "orig_lang_words": ",1165541,",
+    "target_lang_words": ",848231,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1165541,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "30",
+        "word_num": 3,
+        "word": "ἀπόστολοι",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 848231,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "30",
+        "word_num": 2,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπόστολοι = apostles",
+    "frequency": 0.1375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "212412",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "13",
+    "alignment_num": "17",
+    "orig_lang_words": ",1177539,",
+    "target_lang_words": ",864106,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1177539,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 15,
+        "word": "ἀποστόλους",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 864106,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 21,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλους = apostles",
+    "frequency": 0.15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "215204",
+    "book_id": "luk",
+    "chapter": "9",
+    "verse": "10",
+    "alignment_num": "3",
+    "orig_lang_words": ",1180344,",
+    "target_lang_words": ",867914,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1180344,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "10",
+        "word_num": 3,
+        "word": "ἀπόστολοι",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 867914,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "10",
+        "word_num": 3,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπόστολοι = apostles",
+    "frequency": 0.1375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "217799",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "49",
+    "alignment_num": "13",
+    "orig_lang_words": ",1183020,",
+    "target_lang_words": ",871401,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1183020,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "49",
+        "word_num": 13,
+        "word": "ἀποστόλους",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 871401,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "49",
+        "word_num": 16,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλους = apostles",
+    "frequency": 0.15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "221371",
+    "book_id": "luk",
+    "chapter": "17",
+    "verse": "5",
+    "alignment_num": "2",
+    "orig_lang_words": ",1186648,",
+    "target_lang_words": ",876308,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1186648,
+        "book_id": "luk",
+        "chapter": "17",
+        "verse": "5",
+        "word_num": 3,
+        "word": "ἀπόστολοι",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 876308,
+        "book_id": "luk",
+        "chapter": "17",
+        "verse": "5",
+        "word_num": 2,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπόστολοι = apostles",
+    "frequency": 0.1375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "224731",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "14",
+    "alignment_num": "8",
+    "orig_lang_words": ",1190035,",
+    "target_lang_words": ",881011,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1190035,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "14",
+        "word_num": 8,
+        "word": "ἀπόστολοι",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 881011,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "14",
+        "word_num": 12,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπόστολοι = apostles",
+    "frequency": 0.1375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "226607",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "10",
+    "alignment_num": "17",
+    "orig_lang_words": ",1191931,1191932,",
+    "target_lang_words": ",883507,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1191931,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "10",
+        "word_num": 18,
+        "word": "τοὺς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMP,"
+      },
+      {
+        "id": 1191932,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "10",
+        "word_num": 19,
+        "word": "ἀποστόλους",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "τοὺς ἀποστόλους",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 883507,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "10",
+        "word_num": 22,
+        "word": "to",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοὺς ἀποστόλους = to",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "236691",
+    "book_id": "jhn",
+    "chapter": "13",
+    "verse": "16",
+    "alignment_num": "11",
+    "orig_lang_words": ",1202939,",
+    "target_lang_words": ",897181,897182,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1202939,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "16",
+        "word_num": 12,
+        "word": "ἀπόστολος",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 897181,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "16",
+        "word_num": 16,
+        "word": "a",
+        "occurrence": 2
+      },
+      {
+        "id": 897182,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "16",
+        "word_num": 17,
+        "word": "messenger",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a messenger",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπόστολος = a messenger",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "241699",
+    "book_id": "act",
+    "chapter": "1",
+    "verse": "2",
+    "alignment_num": "9",
+    "orig_lang_words": ",1208253,",
+    "target_lang_words": ",904122,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1208253,
         "book_id": "act",
         "chapter": "1",
         "verse": "2",
@@ -24,46 +485,37 @@
     ],
     "origWordsTxt": "ἀποστόλοις",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 753189,
+        "id": 904122,
         "book_id": "act",
         "chapter": "1",
         "verse": "2",
         "word_num": 17,
         "word": "to",
         "occurrence": 1
-      },
-      {
-        "id": 753191,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 19,
-        "word": "apostles",
-        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "to apostles",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποστόλοις = to apostles",
-    "frequency": 0.023809523809523808,
+    "targetWordsTxt": "to",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλοις = to",
+    "frequency": 0.0125,
     "origWordsBetween": 0,
-    "targetWordsBetween": 1
+    "targetWordsBetween": 0
   },
   {
-    "id": "136493",
+    "id": "242158",
     "book_id": "act",
     "chapter": "1",
     "verse": "26",
-    "alignment_num": "15",
-    "orig_lang_words": ",770232,",
-    "target_lang_words": ",753811,",
+    "alignment_num": "14",
+    "orig_lang_words": ",1208736,",
+    "target_lang_words": ",904744,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 770232,
+        "id": 1208736,
         "book_id": "act",
         "chapter": "1",
         "verse": "26",
@@ -80,7 +532,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 753811,
+        "id": 904744,
         "book_id": "act",
         "chapter": "1",
         "verse": "26",
@@ -92,22 +544,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλων = apostles",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.175,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "137080",
+    "id": "242778",
     "book_id": "act",
     "chapter": "2",
     "verse": "37",
-    "alignment_num": "12",
-    "orig_lang_words": ",770884,",
-    "target_lang_words": ",754619,754620,754621,",
+    "alignment_num": "13",
+    "orig_lang_words": ",1209388,",
+    "target_lang_words": ",905552,905553,905554,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 770884,
+        "id": 1209388,
         "book_id": "act",
         "chapter": "2",
         "verse": "37",
@@ -124,7 +576,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 754619,
+        "id": 905552,
         "book_id": "act",
         "chapter": "2",
         "verse": "37",
@@ -133,7 +585,7 @@
         "occurrence": 1
       },
       {
-        "id": 754620,
+        "id": 905553,
         "book_id": "act",
         "chapter": "2",
         "verse": "37",
@@ -142,7 +594,7 @@
         "occurrence": 3
       },
       {
-        "id": 754621,
+        "id": 905554,
         "book_id": "act",
         "chapter": "2",
         "verse": "37",
@@ -154,22 +606,22 @@
     "targetWordsTxt": "of the apostles",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀποστόλους = of the apostles",
-    "frequency": 0.023809523809523808,
+    "frequency": 0.0125,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "137166",
+    "id": "242865",
     "book_id": "act",
     "chapter": "2",
     "verse": "42",
     "alignment_num": "6",
-    "orig_lang_words": ",770976,",
-    "target_lang_words": ",754731,754733,",
+    "orig_lang_words": ",1209480,",
+    "target_lang_words": ",905664,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 770976,
+        "id": 1209480,
         "book_id": "act",
         "chapter": "2",
         "verse": "42",
@@ -183,46 +635,37 @@
     ],
     "origWordsTxt": "ἀποστόλων",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 754731,
+        "id": 905664,
         "book_id": "act",
         "chapter": "2",
         "verse": "42",
         "word_num": 7,
         "word": "of",
         "occurrence": 1
-      },
-      {
-        "id": 754733,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "42",
-        "word_num": 9,
-        "word": "apostles",
-        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "of apostles",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποστόλων = of apostles",
-    "frequency": 0.19047619047619047,
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = of",
+    "frequency": 0.0875,
     "origWordsBetween": 0,
-    "targetWordsBetween": 1
+    "targetWordsBetween": 0
   },
   {
-    "id": "137188",
+    "id": "242890",
     "book_id": "act",
     "chapter": "2",
     "verse": "43",
     "alignment_num": "12",
-    "orig_lang_words": ",770999,",
-    "target_lang_words": ",754758,",
+    "orig_lang_words": ",1209503,",
+    "target_lang_words": ",905691,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 770999,
+        "id": 1209503,
         "book_id": "act",
         "chapter": "2",
         "verse": "43",
@@ -239,7 +682,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 754758,
+        "id": 905691,
         "book_id": "act",
         "chapter": "2",
         "verse": "43",
@@ -251,22 +694,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλων = apostles",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.175,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "138263",
+    "id": "244012",
     "book_id": "act",
     "chapter": "4",
     "verse": "33",
-    "alignment_num": "7",
-    "orig_lang_words": ",772176,",
-    "target_lang_words": ",756243,",
+    "alignment_num": "4",
+    "orig_lang_words": ",1210680,",
+    "target_lang_words": ",907176,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 772176,
+        "id": 1210680,
         "book_id": "act",
         "chapter": "4",
         "verse": "33",
@@ -283,7 +726,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 756243,
+        "id": 907176,
         "book_id": "act",
         "chapter": "4",
         "verse": "33",
@@ -295,22 +738,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπόστολοι = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1375,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "138302",
+    "id": "244055",
     "book_id": "act",
     "chapter": "4",
     "verse": "35",
-    "alignment_num": "6",
-    "orig_lang_words": ",772215,",
-    "target_lang_words": ",756297,756299,",
+    "alignment_num": "5",
+    "orig_lang_words": ",1210719,",
+    "target_lang_words": ",907230,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 772215,
+        "id": 1210719,
         "book_id": "act",
         "chapter": "4",
         "verse": "35",
@@ -324,46 +767,37 @@
     ],
     "origWordsTxt": "ἀποστόλων",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 756297,
+        "id": 907230,
         "book_id": "act",
         "chapter": "4",
         "verse": "35",
         "word_num": 6,
         "word": "of",
         "occurrence": 1
-      },
-      {
-        "id": 756299,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "35",
-        "word_num": 8,
-        "word": "apostles",
-        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "of apostles",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποστόλων = of apostles",
-    "frequency": 0.19047619047619047,
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = of",
+    "frequency": 0.0875,
     "origWordsBetween": 0,
-    "targetWordsBetween": 1
+    "targetWordsBetween": 0
   },
   {
-    "id": "138318",
+    "id": "244073",
     "book_id": "act",
     "chapter": "4",
     "verse": "36",
     "alignment_num": "7",
-    "orig_lang_words": ",772231,",
-    "target_lang_words": ",756321,",
+    "orig_lang_words": ",1210735,",
+    "target_lang_words": ",907254,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 772231,
+        "id": 1210735,
         "book_id": "act",
         "chapter": "4",
         "verse": "36",
@@ -380,7 +814,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 756321,
+        "id": 907254,
         "book_id": "act",
         "chapter": "4",
         "verse": "36",
@@ -392,22 +826,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλων = apostles",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.175,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "138341",
+    "id": "244095",
     "book_id": "act",
     "chapter": "4",
     "verse": "37",
-    "alignment_num": "13",
-    "orig_lang_words": ",772254,",
-    "target_lang_words": ",756352,756354,",
+    "alignment_num": "12",
+    "orig_lang_words": ",1210758,",
+    "target_lang_words": ",907285,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 772254,
+        "id": 1210758,
         "book_id": "act",
         "chapter": "4",
         "verse": "37",
@@ -421,46 +855,37 @@
     ],
     "origWordsTxt": "ἀποστόλων",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 756352,
+        "id": 907285,
         "book_id": "act",
         "chapter": "4",
         "verse": "37",
         "word_num": 17,
         "word": "of",
         "occurrence": 1
-      },
-      {
-        "id": 756354,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "37",
-        "word_num": 19,
-        "word": "apostles",
-        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "of apostles",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποστόλων = of apostles",
-    "frequency": 0.19047619047619047,
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = of",
+    "frequency": 0.0875,
     "origWordsBetween": 0,
-    "targetWordsBetween": 1
+    "targetWordsBetween": 0
   },
   {
-    "id": "138370",
+    "id": "244128",
     "book_id": "act",
     "chapter": "5",
     "verse": "2",
-    "alignment_num": "17",
-    "orig_lang_words": ",772284,",
-    "target_lang_words": ",756396,756398,",
+    "alignment_num": "18",
+    "orig_lang_words": ",1210788,",
+    "target_lang_words": ",907329,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 772284,
+        "id": 1210788,
         "book_id": "act",
         "chapter": "5",
         "verse": "2",
@@ -474,46 +899,37 @@
     ],
     "origWordsTxt": "ἀποστόλων",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 756396,
+        "id": 907329,
         "book_id": "act",
         "chapter": "5",
         "verse": "2",
         "word_num": 26,
         "word": "of",
         "occurrence": 2
-      },
-      {
-        "id": 756398,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "2",
-        "word_num": 28,
-        "word": "apostles",
-        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "of apostles",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποστόλων = of apostles",
-    "frequency": 0.19047619047619047,
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = of",
+    "frequency": 0.0875,
     "origWordsBetween": 0,
-    "targetWordsBetween": 1
+    "targetWordsBetween": 0
   },
   {
-    "id": "138536",
+    "id": "244312",
     "book_id": "act",
     "chapter": "5",
     "verse": "12",
-    "alignment_num": "5",
-    "orig_lang_words": ",772466,",
-    "target_lang_words": ",756642,756644,",
+    "alignment_num": "11",
+    "orig_lang_words": ",1210970,",
+    "target_lang_words": ",907575,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 772466,
+        "id": 1210970,
         "book_id": "act",
         "chapter": "5",
         "verse": "12",
@@ -527,46 +943,37 @@
     ],
     "origWordsTxt": "ἀποστόλων",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 756642,
+        "id": 907575,
         "book_id": "act",
         "chapter": "5",
         "verse": "12",
         "word_num": 13,
         "word": "of",
         "occurrence": 1
-      },
-      {
-        "id": 756644,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "12",
-        "word_num": 15,
-        "word": "apostles",
-        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "of apostles",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποστόλων = of apostles",
-    "frequency": 0.19047619047619047,
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = of",
+    "frequency": 0.0875,
     "origWordsBetween": 0,
-    "targetWordsBetween": 1
+    "targetWordsBetween": 0
   },
   {
-    "id": "138637",
+    "id": "244414",
     "book_id": "act",
     "chapter": "5",
     "verse": "18",
     "alignment_num": "5",
-    "orig_lang_words": ",772570,",
-    "target_lang_words": ",756780,",
+    "orig_lang_words": ",1211074,",
+    "target_lang_words": ",907713,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 772570,
+        "id": 1211074,
         "book_id": "act",
         "chapter": "5",
         "verse": "18",
@@ -583,7 +990,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 756780,
+        "id": 907713,
         "book_id": "act",
         "chapter": "5",
         "verse": "18",
@@ -595,22 +1002,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλους = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.15,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "138836",
+    "id": "244618",
     "book_id": "act",
     "chapter": "5",
     "verse": "29",
-    "alignment_num": "5",
-    "orig_lang_words": ",772783,",
-    "target_lang_words": ",757041,",
+    "alignment_num": "4",
+    "orig_lang_words": ",1211287,",
+    "target_lang_words": ",907974,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 772783,
+        "id": 1211287,
         "book_id": "act",
         "chapter": "5",
         "verse": "29",
@@ -627,7 +1034,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 757041,
+        "id": 907974,
         "book_id": "act",
         "chapter": "5",
         "verse": "29",
@@ -639,22 +1046,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπόστολοι = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1375,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "139019",
+    "id": "244811",
     "book_id": "act",
     "chapter": "5",
     "verse": "40",
     "alignment_num": "3",
-    "orig_lang_words": ",772982,",
-    "target_lang_words": ",757315,",
+    "orig_lang_words": ",1211486,",
+    "target_lang_words": ",908248,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 772982,
+        "id": 1211486,
         "book_id": "act",
         "chapter": "5",
         "verse": "40",
@@ -671,7 +1078,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 757315,
+        "id": 908248,
         "book_id": "act",
         "chapter": "5",
         "verse": "40",
@@ -683,22 +1090,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλους = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.15,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "139163",
+    "id": "244965",
     "book_id": "act",
     "chapter": "6",
     "verse": "6",
     "alignment_num": "4",
-    "orig_lang_words": ",773134,",
-    "target_lang_words": ",757525,",
+    "orig_lang_words": ",1211638,",
+    "target_lang_words": ",908458,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 773134,
+        "id": 1211638,
         "book_id": "act",
         "chapter": "6",
         "verse": "6",
@@ -715,7 +1122,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 757525,
+        "id": 908458,
         "book_id": "act",
         "chapter": "6",
         "verse": "6",
@@ -727,22 +1134,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλων = apostles",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.175,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "140376",
+    "id": "246248",
     "book_id": "act",
     "chapter": "8",
     "verse": "1",
     "alignment_num": "31",
-    "orig_lang_words": ",774455,",
-    "target_lang_words": ",759251,",
+    "orig_lang_words": ",1212959,",
+    "target_lang_words": ",910184,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 774455,
+        "id": 1212959,
         "book_id": "act",
         "chapter": "8",
         "verse": "1",
@@ -759,7 +1166,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 759251,
+        "id": 910184,
         "book_id": "act",
         "chapter": "8",
         "verse": "1",
@@ -771,22 +1178,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλων = apostles",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.175,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "140555",
+    "id": "246425",
     "book_id": "act",
     "chapter": "8",
     "verse": "14",
-    "alignment_num": "5",
-    "orig_lang_words": ",774644,",
-    "target_lang_words": ",759496,",
+    "alignment_num": "3",
+    "orig_lang_words": ",1213148,",
+    "target_lang_words": ",910429,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 774644,
+        "id": 1213148,
         "book_id": "act",
         "chapter": "8",
         "verse": "14",
@@ -803,7 +1210,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 759496,
+        "id": 910429,
         "book_id": "act",
         "chapter": "8",
         "verse": "14",
@@ -815,22 +1222,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπόστολοι = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1375,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "140615",
+    "id": "246497",
     "book_id": "act",
     "chapter": "8",
     "verse": "18",
-    "alignment_num": "10",
-    "orig_lang_words": ",774706,",
-    "target_lang_words": ",759585,759587,",
+    "alignment_num": "14",
+    "orig_lang_words": ",1213210,",
+    "target_lang_words": ",910518,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 774706,
+        "id": 1213210,
         "book_id": "act",
         "chapter": "8",
         "verse": "18",
@@ -844,46 +1251,37 @@
     ],
     "origWordsTxt": "ἀποστόλων",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 759585,
+        "id": 910518,
         "book_id": "act",
         "chapter": "8",
         "verse": "18",
         "word_num": 16,
         "word": "of",
         "occurrence": 2
-      },
-      {
-        "id": 759587,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "18",
-        "word_num": 18,
-        "word": "apostles",
-        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "of apostles",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποστόλων = of apostles",
-    "frequency": 0.19047619047619047,
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = of",
+    "frequency": 0.0875,
     "origWordsBetween": 0,
-    "targetWordsBetween": 1
+    "targetWordsBetween": 0
   },
   {
-    "id": "141460",
+    "id": "247362",
     "book_id": "act",
     "chapter": "9",
     "verse": "27",
     "alignment_num": "7",
-    "orig_lang_words": ",775610,",
-    "target_lang_words": ",760722,",
+    "orig_lang_words": ",1214114,",
+    "target_lang_words": ",911655,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 775610,
+        "id": 1214114,
         "book_id": "act",
         "chapter": "9",
         "verse": "27",
@@ -900,7 +1298,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 760722,
+        "id": 911655,
         "book_id": "act",
         "chapter": "9",
         "verse": "27",
@@ -912,22 +1310,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλους = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.15,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "142531",
+    "id": "248499",
     "book_id": "act",
     "chapter": "11",
     "verse": "1",
-    "alignment_num": "3",
-    "orig_lang_words": ",776766,",
-    "target_lang_words": ",762263,",
+    "alignment_num": "2",
+    "orig_lang_words": ",1215270,",
+    "target_lang_words": ",913196,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 776766,
+        "id": 1215270,
         "book_id": "act",
         "chapter": "11",
         "verse": "1",
@@ -944,7 +1342,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 762263,
+        "id": 913196,
         "book_id": "act",
         "chapter": "11",
         "verse": "1",
@@ -956,22 +1354,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπόστολοι = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1375,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "144412",
+    "id": "250492",
     "book_id": "act",
     "chapter": "14",
     "verse": "4",
     "alignment_num": "17",
-    "orig_lang_words": ",778793,",
-    "target_lang_words": ",764957,",
+    "orig_lang_words": ",1217297,",
+    "target_lang_words": ",915890,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 778793,
+        "id": 1217297,
         "book_id": "act",
         "chapter": "14",
         "verse": "4",
@@ -988,7 +1386,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 764957,
+        "id": 915890,
         "book_id": "act",
         "chapter": "14",
         "verse": "4",
@@ -1000,22 +1398,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλοις = apostles",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.0625,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "144541",
+    "id": "250624",
     "book_id": "act",
     "chapter": "14",
     "verse": "14",
     "alignment_num": "3",
-    "orig_lang_words": ",778933,",
-    "target_lang_words": ",765135,",
+    "orig_lang_words": ",1217437,",
+    "target_lang_words": ",916068,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 778933,
+        "id": 1217437,
         "book_id": "act",
         "chapter": "14",
         "verse": "14",
@@ -1032,7 +1430,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 765135,
+        "id": 916068,
         "book_id": "act",
         "chapter": "14",
         "verse": "14",
@@ -1044,22 +1442,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπόστολοι = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1375,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "144817",
+    "id": "250917",
     "book_id": "act",
     "chapter": "15",
     "verse": "2",
     "alignment_num": "24",
-    "orig_lang_words": ",779230,",
-    "target_lang_words": ",765538,",
+    "orig_lang_words": ",1217734,",
+    "target_lang_words": ",916471,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 779230,
+        "id": 1217734,
         "book_id": "act",
         "chapter": "15",
         "verse": "2",
@@ -1076,7 +1474,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 765538,
+        "id": 916471,
         "book_id": "act",
         "chapter": "15",
         "verse": "2",
@@ -1088,22 +1486,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλους = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.15,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "144859",
+    "id": "250958",
     "book_id": "act",
     "chapter": "15",
     "verse": "4",
-    "alignment_num": "10",
-    "orig_lang_words": ",779274,",
-    "target_lang_words": ",765586,",
+    "alignment_num": "9",
+    "orig_lang_words": ",1217778,",
+    "target_lang_words": ",916519,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 779274,
+        "id": 1217778,
         "book_id": "act",
         "chapter": "15",
         "verse": "4",
@@ -1120,7 +1518,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 765586,
+        "id": 916519,
         "book_id": "act",
         "chapter": "15",
         "verse": "4",
@@ -1132,22 +1530,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλων = apostles",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.175,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "144894",
+    "id": "250992",
     "book_id": "act",
     "chapter": "15",
     "verse": "6",
-    "alignment_num": "3",
-    "orig_lang_words": ",779310,",
-    "target_lang_words": ",765636,",
+    "alignment_num": "2",
+    "orig_lang_words": ",1217814,",
+    "target_lang_words": ",916569,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 779310,
+        "id": 1217814,
         "book_id": "act",
         "chapter": "15",
         "verse": "6",
@@ -1164,7 +1562,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 765636,
+        "id": 916569,
         "book_id": "act",
         "chapter": "15",
         "verse": "6",
@@ -1176,22 +1574,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπόστολοι = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1375,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "145128",
+    "id": "251234",
     "book_id": "act",
     "chapter": "15",
     "verse": "22",
-    "alignment_num": "3",
-    "orig_lang_words": ",779573,",
-    "target_lang_words": ",765969,",
+    "alignment_num": "2",
+    "orig_lang_words": ",1218077,",
+    "target_lang_words": ",916902,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 779573,
+        "id": 1218077,
         "book_id": "act",
         "chapter": "15",
         "verse": "22",
@@ -1208,7 +1606,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 765969,
+        "id": 916902,
         "book_id": "act",
         "chapter": "15",
         "verse": "22",
@@ -1220,22 +1618,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλοις = apostles",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.0625,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "145161",
+    "id": "251267",
     "book_id": "act",
     "chapter": "15",
     "verse": "23",
-    "alignment_num": "5",
-    "orig_lang_words": ",779609,",
-    "target_lang_words": ",766008,766010,",
+    "alignment_num": "4",
+    "orig_lang_words": ",1218113,",
+    "target_lang_words": ",916941,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 779609,
+        "id": 1218113,
         "book_id": "act",
         "chapter": "15",
         "verse": "23",
@@ -1249,46 +1647,37 @@
     ],
     "origWordsTxt": "ἀπόστολοι",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 766008,
+        "id": 916941,
         "book_id": "act",
         "chapter": "15",
         "verse": "23",
         "word_num": 6,
         "word": "From",
         "occurrence": 1
-      },
-      {
-        "id": 766010,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "23",
-        "word_num": 8,
-        "word": "apostles",
-        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "From apostles",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀπόστολοι = From apostles",
-    "frequency": 0.023809523809523808,
+    "targetWordsTxt": "From",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπόστολοι = From",
+    "frequency": 0.0125,
     "origWordsBetween": 0,
-    "targetWordsBetween": 1
+    "targetWordsBetween": 0
   },
   {
-    "id": "145494",
+    "id": "251616",
     "book_id": "act",
     "chapter": "16",
     "verse": "4",
-    "alignment_num": "14",
-    "orig_lang_words": ",779963,",
-    "target_lang_words": ",766479,",
+    "alignment_num": "13",
+    "orig_lang_words": ",1218467,",
+    "target_lang_words": ",917412,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 779963,
+        "id": 1218467,
         "book_id": "act",
         "chapter": "16",
         "verse": "4",
@@ -1305,7 +1694,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 766479,
+        "id": 917412,
         "book_id": "act",
         "chapter": "16",
         "verse": "4",
@@ -1317,22 +1706,1026 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλων = apostles",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.175,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "153277",
+    "id": "259638",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1226710,",
+    "target_lang_words": ",928494,928495,928496,928497,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1226710,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 5,
+        "word": "ἀπόστολος",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 928494,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 7,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 928495,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 8,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 928496,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 9,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 928497,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 10,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to be an apostle",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἀπόστολος = to be an apostle",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "264054",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "13",
+    "alignment_num": "7",
+    "orig_lang_words": ",1231534,",
+    "target_lang_words": ",935305,935306,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1231534,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 12,
+        "word": "ἀπόστολος",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 935305,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 14,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 935306,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 15,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an apostle",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπόστολος = an apostle",
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "265853",
+    "book_id": "rom",
+    "chapter": "16",
+    "verse": "7",
+    "alignment_num": "14",
+    "orig_lang_words": ",1233497,",
+    "target_lang_words": ",938129,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1233497,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "7",
+        "word_num": 15,
+        "word": "ἀποστόλοις",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 938129,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "7",
+        "word_num": 15,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλοις = apostles",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "266146",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1233823,",
+    "target_lang_words": ",938514,938515,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1233823,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 2,
+        "word": "ἀπόστολος",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 938514,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 7,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 938515,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 8,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an apostle",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπόστολος = an apostle",
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "267362",
+    "book_id": "1co",
+    "chapter": "4",
+    "verse": "9",
+    "alignment_num": "5",
+    "orig_lang_words": ",1235101,1235102,",
+    "target_lang_words": ",940241,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1235101,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 5,
+        "word": "τοὺς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMP,"
+      },
+      {
+        "id": 1235102,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 6,
+        "word": "ἀποστόλους",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "τοὺς ἀποστόλους",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 940241,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 7,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοὺς ἀποστόλους = apostles",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "268980",
+    "book_id": "1co",
+    "chapter": "9",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1236764,",
+    "target_lang_words": ",942659,942660,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1236764,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 5,
+        "word": "ἀπόστολος",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 942659,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 7,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 942660,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 8,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an apostle",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπόστολος = an apostle",
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "268997",
+    "book_id": "1co",
+    "chapter": "9",
+    "verse": "2",
+    "alignment_num": "3",
+    "orig_lang_words": ",1236783,",
+    "target_lang_words": ",942680,942681,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1236783,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 4,
+        "word": "ἀπόστολος",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 942680,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 4,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 942681,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 5,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an apostle",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπόστολος = an apostle",
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "269039",
+    "book_id": "1co",
+    "chapter": "9",
+    "verse": "5",
+    "alignment_num": "13",
+    "orig_lang_words": ",1236824,",
+    "target_lang_words": ",942738,942739,942740,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1236824,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 11,
+        "word": "ἀπόστολοι",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 942738,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 18,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 942739,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 19,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 942740,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 20,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of the apostles",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀπόστολοι = of the apostles",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "270798",
+    "book_id": "1co",
+    "chapter": "12",
+    "verse": "28",
+    "alignment_num": "10",
+    "orig_lang_words": ",1238622,",
+    "target_lang_words": ",945374,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1238622,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 10,
+        "word": "ἀποστόλους",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 945374,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 10,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλους = apostles",
+    "frequency": 0.15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "270814",
+    "book_id": "1co",
+    "chapter": "12",
+    "verse": "29",
+    "alignment_num": "2",
+    "orig_lang_words": ",1238638,",
+    "target_lang_words": ",945394,945395,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1238638,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "29",
+        "word_num": 2,
+        "word": "ἀπόστολοι",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 945394,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "29",
+        "word_num": 2,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 945395,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "29",
+        "word_num": 3,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "are apostles",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπόστολοι = are apostles",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "271718",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "7",
+    "alignment_num": "7",
+    "orig_lang_words": ",1239563,",
+    "target_lang_words": ",946768,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1239563,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "7",
+        "word_num": 5,
+        "word": "ἀποστόλοις",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 946768,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "7",
+        "word_num": 9,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλοις = apostles",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "271731",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "9",
+    "alignment_num": "6",
+    "orig_lang_words": ",1239579,",
+    "target_lang_words": ",946793,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1239579,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "9",
+        "word_num": 6,
+        "word": "ἀποστόλων",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 946793,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "9",
+        "word_num": 7,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = apostles",
+    "frequency": 0.175,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "271737",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "9",
+    "alignment_num": "12",
+    "orig_lang_words": ",1239585,",
+    "target_lang_words": ",946801,946802,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1239585,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "9",
+        "word_num": 12,
+        "word": "ἀπόστολος",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 946801,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "9",
+        "word_num": 15,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 946802,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "9",
+        "word_num": 16,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an apostle",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπόστολος = an apostle",
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "272762",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "1",
+    "orig_lang_words": ",1240642,",
+    "target_lang_words": ",948276,948277,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1240642,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 1,
+        "word": "ἀπόστολος",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 948276,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 1,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 948277,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 2,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an apostle",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπόστολος = an apostle",
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "275382",
+    "book_id": "2co",
+    "chapter": "8",
+    "verse": "23",
+    "alignment_num": "13",
+    "orig_lang_words": ",1243350,",
+    "target_lang_words": ",952026,952027,952028,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1243350,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "23",
+        "word_num": 12,
+        "word": "ἀπόστολοι",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 952026,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "23",
+        "word_num": 16,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 952027,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "23",
+        "word_num": 17,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 952028,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "23",
+        "word_num": 18,
+        "word": "sent",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they are sent",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀπόστολοι = they are sent",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "276061",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "5",
+    "alignment_num": "7",
+    "orig_lang_words": ",1244052,",
+    "target_lang_words": ",953000,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1244052,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "5",
+        "word_num": 7,
+        "word": "ἀποστόλων",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 953000,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "5",
+        "word_num": 13,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = apostles",
+    "frequency": 0.175,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "276184",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "13",
+    "alignment_num": "8",
+    "orig_lang_words": ",1244179,",
+    "target_lang_words": ",953197,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1244179,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 8,
+        "word": "ἀποστόλους",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 953197,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 11,
+        "word": "apostles",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλους = apostles",
+    "frequency": 0.15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "276677",
+    "book_id": "2co",
+    "chapter": "12",
+    "verse": "11",
+    "alignment_num": "18",
+    "orig_lang_words": ",1244675,",
+    "target_lang_words": ",953953,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1244675,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "11",
+        "word_num": 17,
+        "word": "ἀποστόλων",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 953953,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "11",
+        "word_num": 28,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = apostles",
+    "frequency": 0.175,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "276685",
+    "book_id": "2co",
+    "chapter": "12",
+    "verse": "12",
+    "alignment_num": "3",
+    "orig_lang_words": ",1244683,1244684,",
+    "target_lang_words": ",953962,953963,953964,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1244683,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "12",
+        "word_num": 3,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GMS,"
+      },
+      {
+        "id": 1244684,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "12",
+        "word_num": 4,
+        "word": "ἀποστόλου",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ ἀποστόλου",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 953962,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "12",
+        "word_num": 3,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 953963,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "12",
+        "word_num": 4,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 953964,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "12",
+        "word_num": 5,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of an apostle",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "τοῦ ἀποστόλου = of an apostle",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "277125",
     "book_id": "gal",
     "chapter": "1",
     "verse": "1",
     "alignment_num": "1",
-    "orig_lang_words": ",788202,",
-    "target_lang_words": ",777555,777556,",
+    "orig_lang_words": ",1245116,",
+    "target_lang_words": ",954607,954608,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 788202,
+        "id": 1245116,
         "book_id": "gal",
         "chapter": "1",
         "verse": "1",
@@ -1349,7 +2742,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 777555,
+        "id": 954607,
         "book_id": "gal",
         "chapter": "1",
         "verse": "1",
@@ -1358,7 +2751,7 @@
         "occurrence": 1
       },
       {
-        "id": 777556,
+        "id": 954608,
         "book_id": "gal",
         "chapter": "1",
         "verse": "1",
@@ -1370,22 +2763,22 @@
     "targetWordsTxt": "an apostle",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπόστολος = an apostle",
-    "frequency": 0.19047619047619047,
+    "frequency": 0.1875,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "153494",
+    "id": "277371",
     "book_id": "gal",
     "chapter": "1",
     "verse": "17",
-    "alignment_num": "8",
-    "orig_lang_words": ",788470,",
-    "target_lang_words": ",777931,",
+    "alignment_num": "7",
+    "orig_lang_words": ",1245384,",
+    "target_lang_words": ",954983,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 788470,
+        "id": 1245384,
         "book_id": "gal",
         "chapter": "1",
         "verse": "17",
@@ -1402,7 +2795,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 777931,
+        "id": 954983,
         "book_id": "gal",
         "chapter": "1",
         "verse": "17",
@@ -1414,22 +2807,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλους = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.15,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "153520",
+    "id": "277403",
     "book_id": "gal",
     "chapter": "1",
     "verse": "19",
-    "alignment_num": "3",
-    "orig_lang_words": ",788498,",
-    "target_lang_words": ",777969,777972,",
+    "alignment_num": "5",
+    "orig_lang_words": ",1245412,",
+    "target_lang_words": ",955024,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 788498,
+        "id": 1245412,
         "book_id": "gal",
         "chapter": "1",
         "verse": "19",
@@ -1443,19 +2836,10 @@
     ],
     "origWordsTxt": "ἀποστόλων",
     "alignmentOrigWords": 1,
-    "targetSpan": 3,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 777969,
-        "book_id": "gal",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 4,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 777972,
+        "id": 955024,
         "book_id": "gal",
         "chapter": "1",
         "verse": "19",
@@ -1464,25 +2848,25 @@
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "of apostles",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποστόλων = of apostles",
-    "frequency": 0.19047619047619047,
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = apostles",
+    "frequency": 0.175,
     "origWordsBetween": 0,
-    "targetWordsBetween": 2
+    "targetWordsBetween": 0
   },
   {
-    "id": "155057",
+    "id": "279247",
     "book_id": "eph",
     "chapter": "1",
     "verse": "1",
     "alignment_num": "1",
-    "orig_lang_words": ",790428,",
-    "target_lang_words": ",780871,780872,",
+    "orig_lang_words": ",1247342,",
+    "target_lang_words": ",957923,957924,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 790428,
+        "id": 1247342,
         "book_id": "eph",
         "chapter": "1",
         "verse": "1",
@@ -1499,7 +2883,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 780871,
+        "id": 957923,
         "book_id": "eph",
         "chapter": "1",
         "verse": "1",
@@ -1508,7 +2892,7 @@
         "occurrence": 1
       },
       {
-        "id": 780872,
+        "id": 957924,
         "book_id": "eph",
         "chapter": "1",
         "verse": "1",
@@ -1520,22 +2904,22 @@
     "targetWordsTxt": "an apostle",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπόστολος = an apostle",
-    "frequency": 0.19047619047619047,
+    "frequency": 0.1875,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "155756",
+    "id": "279971",
     "book_id": "eph",
     "chapter": "2",
     "verse": "20",
-    "alignment_num": "5",
-    "orig_lang_words": ",791159,",
-    "target_lang_words": ",781803,781805,",
+    "alignment_num": "4",
+    "orig_lang_words": ",1248073,",
+    "target_lang_words": ",958855,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 791159,
+        "id": 1248073,
         "book_id": "eph",
         "chapter": "2",
         "verse": "20",
@@ -1549,46 +2933,37 @@
     ],
     "origWordsTxt": "ἀποστόλων",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 781803,
+        "id": 958855,
         "book_id": "eph",
         "chapter": "2",
         "verse": "20",
         "word_num": 7,
         "word": "of",
         "occurrence": 1
-      },
-      {
-        "id": 781805,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "20",
-        "word_num": 9,
-        "word": "apostles",
-        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "of apostles",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποστόλων = of apostles",
-    "frequency": 0.19047619047619047,
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = of",
+    "frequency": 0.0875,
     "origWordsBetween": 0,
-    "targetWordsBetween": 1
+    "targetWordsBetween": 0
   },
   {
-    "id": "155848",
+    "id": "280073",
     "book_id": "eph",
     "chapter": "3",
     "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",791253,",
-    "target_lang_words": ",781943,",
+    "alignment_num": "20",
+    "orig_lang_words": ",1248167,",
+    "target_lang_words": ",958995,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 791253,
+        "id": 1248167,
         "book_id": "eph",
         "chapter": "3",
         "verse": "5",
@@ -1605,7 +2980,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 781943,
+        "id": 958995,
         "book_id": "eph",
         "chapter": "3",
         "verse": "5",
@@ -1617,22 +2992,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλοις = apostles",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.0625,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "156218",
+    "id": "280457",
     "book_id": "eph",
     "chapter": "4",
     "verse": "11",
-    "alignment_num": "4",
-    "orig_lang_words": ",791646,",
-    "target_lang_words": ",782438,",
+    "alignment_num": "5",
+    "orig_lang_words": ",1248560,",
+    "target_lang_words": ",959490,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 791646,
+        "id": 1248560,
         "book_id": "eph",
         "chapter": "4",
         "verse": "11",
@@ -1649,7 +3024,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 782438,
+        "id": 959490,
         "book_id": "eph",
         "chapter": "4",
         "verse": "11",
@@ -1661,22 +3036,22 @@
     "targetWordsTxt": "apostles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστόλους = apostles",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.15,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "158050",
+    "id": "282475",
     "book_id": "php",
     "chapter": "2",
     "verse": "25",
-    "alignment_num": "12",
-    "orig_lang_words": ",793689,",
-    "target_lang_words": ",785147,",
+    "alignment_num": "17",
+    "orig_lang_words": ",1250603,",
+    "target_lang_words": ",962199,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 793689,
+        "id": 1250603,
         "book_id": "php",
         "chapter": "2",
         "verse": "25",
@@ -1693,7 +3068,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 785147,
+        "id": 962199,
         "book_id": "php",
         "chapter": "2",
         "verse": "25",
@@ -1705,22 +3080,22 @@
     "targetWordsTxt": "messenger",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπόστολον = messenger",
-    "frequency": 0.023809523809523808,
+    "frequency": 0.0125,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "158768",
+    "id": "283226",
     "book_id": "col",
     "chapter": "1",
     "verse": "1",
     "alignment_num": "1",
-    "orig_lang_words": ",794473,",
-    "target_lang_words": ",786301,786302,",
+    "orig_lang_words": ",1251387,",
+    "target_lang_words": ",963353,963354,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 794473,
+        "id": 1251387,
         "book_id": "col",
         "chapter": "1",
         "verse": "1",
@@ -1737,7 +3112,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 786301,
+        "id": 963353,
         "book_id": "col",
         "chapter": "1",
         "verse": "1",
@@ -1746,7 +3121,7 @@
         "occurrence": 1
       },
       {
-        "id": 786302,
+        "id": 963354,
         "book_id": "col",
         "chapter": "1",
         "verse": "1",
@@ -1758,22 +3133,66 @@
     "targetWordsTxt": "an apostle",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπόστολος = an apostle",
-    "frequency": 0.19047619047619047,
+    "frequency": 0.1875,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "160022",
+    "id": "284978",
+    "book_id": "1th",
+    "chapter": "2",
+    "verse": "7",
+    "alignment_num": "4",
+    "orig_lang_words": ",1253283,",
+    "target_lang_words": ",965880,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1253283,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 6,
+        "word": "ἀπόστολοι",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 965880,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 7,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπόστολοι = apostles",
+    "frequency": 0.1375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "286872",
     "book_id": "1ti",
     "chapter": "1",
     "verse": "1",
     "alignment_num": "1",
-    "orig_lang_words": ",796053,",
-    "target_lang_words": ",788444,788445,",
+    "orig_lang_words": ",1255268,",
+    "target_lang_words": ",968522,968523,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 796053,
+        "id": 1255268,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "1",
@@ -1790,7 +3209,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 788444,
+        "id": 968522,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "1",
@@ -1799,7 +3218,7 @@
         "occurrence": 1
       },
       {
-        "id": 788445,
+        "id": 968523,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "1",
@@ -1811,22 +3230,22 @@
     "targetWordsTxt": "an apostle",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπόστολος = an apostle",
-    "frequency": 0.19047619047619047,
+    "frequency": 0.1875,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "160390",
+    "id": "287256",
     "book_id": "1ti",
     "chapter": "2",
     "verse": "7",
     "alignment_num": "6",
-    "orig_lang_words": ",796437,",
-    "target_lang_words": ",789000,789001,",
+    "orig_lang_words": ",1255652,",
+    "target_lang_words": ",969078,969079,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 796437,
+        "id": 1255652,
         "book_id": "1ti",
         "chapter": "2",
         "verse": "7",
@@ -1843,7 +3262,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 789000,
+        "id": 969078,
         "book_id": "1ti",
         "chapter": "2",
         "verse": "7",
@@ -1852,7 +3271,7 @@
         "occurrence": 1
       },
       {
-        "id": 789001,
+        "id": 969079,
         "book_id": "1ti",
         "chapter": "2",
         "verse": "7",
@@ -1864,22 +3283,22 @@
     "targetWordsTxt": "an apostle",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπόστολος = an apostle",
-    "frequency": 0.19047619047619047,
+    "frequency": 0.1875,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "161560",
+    "id": "288495",
     "book_id": "2ti",
     "chapter": "1",
     "verse": "1",
     "alignment_num": "1",
-    "orig_lang_words": ",797646,",
-    "target_lang_words": ",790755,790756,",
+    "orig_lang_words": ",1256861,",
+    "target_lang_words": ",970833,970834,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 797646,
+        "id": 1256861,
         "book_id": "2ti",
         "chapter": "1",
         "verse": "1",
@@ -1896,7 +3315,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 790755,
+        "id": 970833,
         "book_id": "2ti",
         "chapter": "1",
         "verse": "1",
@@ -1905,7 +3324,7 @@
         "occurrence": 1
       },
       {
-        "id": 790756,
+        "id": 970834,
         "book_id": "2ti",
         "chapter": "1",
         "verse": "1",
@@ -1917,22 +3336,22 @@
     "targetWordsTxt": "an apostle",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπόστολος = an apostle",
-    "frequency": 0.19047619047619047,
+    "frequency": 0.1875,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "161712",
+    "id": "288686",
     "book_id": "2ti",
     "chapter": "1",
     "verse": "11",
     "alignment_num": "6",
-    "orig_lang_words": ",797845,",
-    "target_lang_words": ",791014,791015,",
+    "orig_lang_words": ",1257060,",
+    "target_lang_words": ",971092,971093,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 797845,
+        "id": 1257060,
         "book_id": "2ti",
         "chapter": "1",
         "verse": "11",
@@ -1949,7 +3368,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 791014,
+        "id": 971092,
         "book_id": "2ti",
         "chapter": "1",
         "verse": "11",
@@ -1958,7 +3377,7 @@
         "occurrence": 1
       },
       {
-        "id": 791015,
+        "id": 971093,
         "book_id": "2ti",
         "chapter": "1",
         "verse": "11",
@@ -1970,22 +3389,22 @@
     "targetWordsTxt": "an apostle",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπόστολος = an apostle",
-    "frequency": 0.19047619047619047,
+    "frequency": 0.1875,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "162554",
+    "id": "289717",
     "book_id": "tit",
     "chapter": "1",
     "verse": "1",
-    "alignment_num": "3",
-    "orig_lang_words": ",798883,",
-    "target_lang_words": ",792448,792449,",
+    "alignment_num": "4",
+    "orig_lang_words": ",1258098,",
+    "target_lang_words": ",972526,972527,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 798883,
+        "id": 1258098,
         "book_id": "tit",
         "chapter": "1",
         "verse": "1",
@@ -2002,7 +3421,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 792448,
+        "id": 972526,
         "book_id": "tit",
         "chapter": "1",
         "verse": "1",
@@ -2011,7 +3430,7 @@
         "occurrence": 1
       },
       {
-        "id": 792449,
+        "id": 972527,
         "book_id": "tit",
         "chapter": "1",
         "verse": "1",
@@ -2023,7 +3442,413 @@
     "targetWordsTxt": "an apostle",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπόστολος = an apostle",
-    "frequency": 0.19047619047619047,
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "291242",
+    "book_id": "heb",
+    "chapter": "3",
+    "verse": "1",
+    "alignment_num": "10",
+    "orig_lang_words": ",1259668,",
+    "target_lang_words": ",974777,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1259668,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 8,
+        "word": "ἀπόστολον",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 974777,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 13,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostle",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπόστολον = apostle",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "297053",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "1",
+    "orig_lang_words": ",1265777,",
+    "target_lang_words": ",983478,983479,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1265777,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 1,
+        "word": "ἀπόστολος",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 983478,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 1,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 983479,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 2,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an apostle",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπόστολος = an apostle",
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "298612",
+    "book_id": "2pe",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "4",
+    "orig_lang_words": ",1267456,",
+    "target_lang_words": ",986075,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1267456,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 4,
+        "word": "ἀπόστολος",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀπόστολος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 986075,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 5,
+        "word": "apostle",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostle",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπόστολος = apostle",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "299346",
+    "book_id": "2pe",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "14",
+    "orig_lang_words": ",1268236,1268237,",
+    "target_lang_words": ",987232,987233,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1268236,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 10,
+        "word": "τῶν",
+        "occurrence": 3,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GMP,"
+      },
+      {
+        "id": 1268237,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 11,
+        "word": "ἀποστόλων",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "τῶν ἀποστόλων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 987232,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 23,
+        "word": "given",
+        "occurrence": 1
+      },
+      {
+        "id": 987233,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 24,
+        "word": "through",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "given through",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τῶν ἀποστόλων = given through",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "302330",
+    "book_id": "jud",
+    "chapter": "1",
+    "verse": "17",
+    "alignment_num": "9",
+    "orig_lang_words": ",1271487,",
+    "target_lang_words": ",991436,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1271487,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 10,
+        "word": "ἀποστόλων",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 991436,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 14,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = apostles",
+    "frequency": 0.175,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "302895",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "2",
+    "alignment_num": "17",
+    "orig_lang_words": ",1272127,",
+    "target_lang_words": ",992229,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1272127,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 22,
+        "word": "ἀποστόλους",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 992229,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 28,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλους = apostles",
+    "frequency": 0.15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "309372",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "20",
+    "alignment_num": "7",
+    "orig_lang_words": ",1279320,1279321,1279322,",
+    "target_lang_words": ",1001079,",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 1279320,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "20",
+        "word_num": 7,
+        "word": "καὶ",
+        "occurrence": 2,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1279321,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "20",
+        "word_num": 8,
+        "word": "οἱ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,VMP,"
+      },
+      {
+        "id": 1279322,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "20",
+        "word_num": 9,
+        "word": "ἀπόστολοι",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,VMP,"
+      }
+    ],
+    "origWordsTxt": "καὶ οἱ ἀπόστολοι",
+    "alignmentOrigWords": 3,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1001079,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "20",
+        "word_num": 8,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καὶ οἱ ἀπόστολοι = apostles",
+    "frequency": 0.0125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "310619",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "14",
+    "alignment_num": "14",
+    "orig_lang_words": ",1280711,",
+    "target_lang_words": ",1002760,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1280711,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "14",
+        "word_num": 15,
+        "word": "ἀποστόλων",
+        "occurrence": 1,
+        "strong": "G06520",
+        "lemma": "ἀπόστολος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀποστόλων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1002760,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "14",
+        "word_num": 18,
+        "word": "apostles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστόλων = apostles",
+    "frequency": 0.175,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

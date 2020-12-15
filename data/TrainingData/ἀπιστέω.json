@@ -1,16 +1,131 @@
 [
   {
-    "id": "153143",
-    "book_id": "act",
-    "chapter": "28",
-    "verse": "24",
-    "alignment_num": "8",
-    "orig_lang_words": ",788060,",
-    "target_lang_words": ",777369,777370,777371,",
+    "id": "226619",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "11",
+    "alignment_num": "9",
+    "orig_lang_words": ",1191944,",
+    "target_lang_words": ",883521,883522,883523,883524,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 788060,
+        "id": 1191944,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 10,
+        "word": "ἠπίστουν",
+        "occurrence": 1,
+        "strong": "G05690",
+        "lemma": "ἀπιστέω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἠπίστουν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 883521,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 11,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 883522,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 12,
+        "word": "did",
+        "occurrence": 1
+      },
+      {
+        "id": 883523,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 13,
+        "word": "not",
+        "occurrence": 1
+      },
+      {
+        "id": 883524,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 14,
+        "word": "believe",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they did not believe",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἠπίστουν = they did not believe",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "227092",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "41",
+    "alignment_num": "1",
+    "orig_lang_words": ",1192432,",
+    "target_lang_words": ",884148,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1192432,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "41",
+        "word_num": 2,
+        "word": "ἀπιστούντων",
+        "occurrence": 1,
+        "strong": "G05690",
+        "lemma": "ἀπιστέω",
+        "morph": "Gr,V,PPA,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀπιστούντων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 884148,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "41",
+        "word_num": 1,
+        "word": "when",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "when",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπιστούντων = when",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "259492",
+    "book_id": "act",
+    "chapter": "28",
+    "verse": "24",
+    "alignment_num": "6",
+    "orig_lang_words": ",1226564,",
+    "target_lang_words": ",928302,928303,928304,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1226564,
         "book_id": "act",
         "chapter": "28",
         "verse": "24",
@@ -27,7 +142,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 777369,
+        "id": 928302,
         "book_id": "act",
         "chapter": "28",
         "verse": "24",
@@ -36,7 +151,7 @@
         "occurrence": 1
       },
       {
-        "id": 777370,
+        "id": 928303,
         "book_id": "act",
         "chapter": "28",
         "verse": "24",
@@ -45,7 +160,7 @@
         "occurrence": 1
       },
       {
-        "id": 777371,
+        "id": 928304,
         "book_id": "act",
         "chapter": "28",
         "verse": "24",
@@ -57,22 +172,84 @@
     "targetWordsTxt": "did not believe",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠπίστουν = did not believe",
-    "frequency": 0.5,
+    "frequency": 0.16666666666666666,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "161931",
+    "id": "260559",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "3",
+    "alignment_num": "4",
+    "orig_lang_words": ",1227725,",
+    "target_lang_words": ",929942,929943,929944,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1227725,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 3,
+        "word": "ἠπίστησάν",
+        "occurrence": 1,
+        "strong": "G05690",
+        "lemma": "ἀπιστέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἠπίστησάν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 929942,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 5,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 929943,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 6,
+        "word": "without",
+        "occurrence": 1
+      },
+      {
+        "id": 929944,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 7,
+        "word": "faith",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "were without faith",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἠπίστησάν = were without faith",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "288957",
     "book_id": "2ti",
     "chapter": "2",
     "verse": "13",
     "alignment_num": "1",
-    "orig_lang_words": ",798103,",
-    "target_lang_words": ",791397,791398,791399,",
+    "orig_lang_words": ",1257318,",
+    "target_lang_words": ",971475,971476,971477,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 798103,
+        "id": 1257318,
         "book_id": "2ti",
         "chapter": "2",
         "verse": "13",
@@ -89,7 +266,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 791397,
+        "id": 971475,
         "book_id": "2ti",
         "chapter": "2",
         "verse": "13",
@@ -98,7 +275,7 @@
         "occurrence": 1
       },
       {
-        "id": 791398,
+        "id": 971476,
         "book_id": "2ti",
         "chapter": "2",
         "verse": "13",
@@ -107,7 +284,7 @@
         "occurrence": 1
       },
       {
-        "id": 791399,
+        "id": 971477,
         "book_id": "2ti",
         "chapter": "2",
         "verse": "13",
@@ -119,7 +296,78 @@
     "targetWordsTxt": "we are unfaithful",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀπιστοῦμεν = we are unfaithful",
-    "frequency": 0.5,
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "297552",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "7",
+    "alignment_num": "7",
+    "orig_lang_words": ",1266274,",
+    "target_lang_words": ",984251,984252,984253,984254,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1266274,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 6,
+        "word": "ἀπιστοῦσιν",
+        "occurrence": 1,
+        "strong": "G05690",
+        "lemma": "ἀπιστέω",
+        "morph": "Gr,V,PPA,DMP,"
+      }
+    ],
+    "origWordsTxt": "ἀπιστοῦσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 984251,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 9,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 984252,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 10,
+        "word": "those",
+        "occurrence": 1
+      },
+      {
+        "id": 984253,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 11,
+        "word": "who",
+        "occurrence": 2
+      },
+      {
+        "id": 984254,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 12,
+        "word": "disobey",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to those who disobey",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἀπιστοῦσιν = to those who disobey",
+    "frequency": 0.16666666666666666,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

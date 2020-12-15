@@ -1,0 +1,108 @@
+[
+  {
+    "id": "285736",
+    "book_id": "1th",
+    "chapter": "4",
+    "verse": "16",
+    "alignment_num": "11",
+    "orig_lang_words": ",1254081,",
+    "target_lang_words": ",966910,966911,966912,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1254081,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "16",
+        "word_num": 8,
+        "word": "ἀρχαγγέλου",
+        "occurrence": 1,
+        "strong": "G07430",
+        "lemma": "ἀρχάγγελος",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ἀρχαγγέλου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 966910,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "16",
+        "word_num": 17,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 966911,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "16",
+        "word_num": 18,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 966912,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "16",
+        "word_num": 19,
+        "word": "archangel",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of the archangel",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀρχαγγέλου = of the archangel",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "302169",
+    "book_id": "jud",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1271316,",
+    "target_lang_words": ",991179,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1271316,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 4,
+        "word": "ἀρχάγγελος",
+        "occurrence": 1,
+        "strong": "G07430",
+        "lemma": "ἀρχάγγελος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀρχάγγελος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 991179,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 4,
+        "word": "archangel",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "archangel",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀρχάγγελος = archangel",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

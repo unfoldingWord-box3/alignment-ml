@@ -1,16 +1,16 @@
 [
   {
-    "id": "137681",
+    "id": "243403",
     "book_id": "act",
     "chapter": "3",
     "verse": "25",
-    "alignment_num": "22",
-    "orig_lang_words": ",771543,",
-    "target_lang_words": ",755452,755459,755460,",
+    "alignment_num": "24",
+    "orig_lang_words": ",1210047,",
+    "target_lang_words": ",906385,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 771543,
+        "id": 1210047,
         "book_id": "act",
         "chapter": "3",
         "verse": "25",
@@ -24,55 +24,37 @@
     ],
     "origWordsTxt": "ἐνευλογηθήσονται",
     "alignmentOrigWords": 1,
-    "targetSpan": 8,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 755452,
+        "id": 906385,
         "book_id": "act",
         "chapter": "3",
         "verse": "25",
         "word_num": 24,
         "word": "will",
         "occurrence": 1
-      },
-      {
-        "id": 755459,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 31,
-        "word": "be",
-        "occurrence": 1
-      },
-      {
-        "id": 755460,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 32,
-        "word": "blessed",
-        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "will be blessed",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐνευλογηθήσονται = will be blessed",
-    "frequency": 1.0,
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐνευλογηθήσονται = will",
+    "frequency": 0.5,
     "origWordsBetween": 0,
-    "targetWordsBetween": 6
+    "targetWordsBetween": 0
   },
   {
-    "id": "153962",
+    "id": "277936",
     "book_id": "gal",
     "chapter": "3",
     "verse": "8",
-    "alignment_num": "15",
-    "orig_lang_words": ",789047,",
-    "target_lang_words": ",778836,778837,778838,",
+    "alignment_num": "20",
+    "orig_lang_words": ",1245961,",
+    "target_lang_words": ",955888,955889,955890,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 789047,
+        "id": 1245961,
         "book_id": "gal",
         "chapter": "3",
         "verse": "8",
@@ -89,7 +71,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 778836,
+        "id": 955888,
         "book_id": "gal",
         "chapter": "3",
         "verse": "8",
@@ -98,7 +80,7 @@
         "occurrence": 1
       },
       {
-        "id": 778837,
+        "id": 955889,
         "book_id": "gal",
         "chapter": "3",
         "verse": "8",
@@ -107,7 +89,7 @@
         "occurrence": 1
       },
       {
-        "id": 778838,
+        "id": 955890,
         "book_id": "gal",
         "chapter": "3",
         "verse": "8",
@@ -119,7 +101,7 @@
     "targetWordsTxt": "will be blessed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐνευλογηθήσονται = will be blessed",
-    "frequency": 1.0,
+    "frequency": 0.5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

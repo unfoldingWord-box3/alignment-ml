@@ -1,16 +1,16 @@
 [
   {
-    "id": "136470",
+    "id": "242134",
     "book_id": "act",
     "chapter": "1",
     "verse": "25",
     "alignment_num": "7",
-    "orig_lang_words": ",770206,",
-    "target_lang_words": ",753781,",
+    "orig_lang_words": ",1208710,",
+    "target_lang_words": ",904714,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 770206,
+        "id": 1208710,
         "book_id": "act",
         "chapter": "1",
         "verse": "25",
@@ -27,7 +27,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 753781,
+        "id": 904714,
         "book_id": "act",
         "chapter": "1",
         "verse": "25",
@@ -39,22 +39,122 @@
     "targetWordsTxt": "apostleship",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστολῆς = apostleship",
-    "frequency": 0.5,
+    "frequency": 0.25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "153662",
+    "id": "259680",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "5",
+    "orig_lang_words": ",1226757,",
+    "target_lang_words": ",928563,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1226757,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 5,
+        "word": "ἀποστολὴν",
+        "occurrence": 1,
+        "strong": "G06510",
+        "lemma": "ἀποστολή",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀποστολὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 928563,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 7,
+        "word": "apostleship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostleship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστολὴν = apostleship",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "269008",
+    "book_id": "1co",
+    "chapter": "9",
+    "verse": "2",
+    "alignment_num": "14",
+    "orig_lang_words": ",1236792,1236793,",
+    "target_lang_words": ",942697,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1236792,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 13,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1236793,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 14,
+        "word": "ἀποστολῆς",
+        "occurrence": 1,
+        "strong": "G06510",
+        "lemma": "ἀποστολή",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς ἀποστολῆς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 942697,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 21,
+        "word": "apostleship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostleship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῆς ἀποστολῆς = apostleship",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "277579",
     "book_id": "gal",
     "chapter": "2",
     "verse": "8",
     "alignment_num": "5",
-    "orig_lang_words": ",788688,",
-    "target_lang_words": ",778262,778263,",
+    "orig_lang_words": ",1245602,",
+    "target_lang_words": ",955314,955315,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 788688,
+        "id": 1245602,
         "book_id": "gal",
         "chapter": "2",
         "verse": "8",
@@ -71,7 +171,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 778262,
+        "id": 955314,
         "book_id": "gal",
         "chapter": "2",
         "verse": "8",
@@ -80,7 +180,7 @@
         "occurrence": 1
       },
       {
-        "id": 778263,
+        "id": 955315,
         "book_id": "gal",
         "chapter": "2",
         "verse": "8",
@@ -92,7 +192,7 @@
     "targetWordsTxt": "the apostleship",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποστολὴν = the apostleship",
-    "frequency": 0.5,
+    "frequency": 0.25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

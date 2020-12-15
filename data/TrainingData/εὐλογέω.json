@@ -1,117 +1,575 @@
 [
   {
-    "id": "137695",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "26",
-    "alignment_num": "8",
-    "orig_lang_words": ",771559,",
-    "target_lang_words": ",755473,",
+    "id": "188685",
+    "book_id": "mat",
+    "chapter": "14",
+    "verse": "19",
+    "alignment_num": "18",
+    "orig_lang_words": ",1151839,",
+    "target_lang_words": ",830297,830298,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 771559,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "26",
-        "word_num": 10,
-        "word": "εὐλογοῦντα",
+        "id": 1151839,
+        "book_id": "mat",
+        "chapter": "14",
+        "verse": "19",
+        "word_num": 20,
+        "word": "εὐλόγησεν",
         "occurrence": 1,
         "strong": "G21270",
         "lemma": "εὐλογέω",
-        "morph": "Gr,V,PPA,AMS,"
+        "morph": "Gr,V,IAA3,,S,"
       }
     ],
-    "origWordsTxt": "εὐλογοῦντα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 755473,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "26",
-        "word_num": 12,
-        "word": "blessing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blessing",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εὐλογοῦντα = blessing",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "153972",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "9",
-    "alignment_num": "4",
-    "orig_lang_words": ",789057,",
-    "target_lang_words": ",778844,778845,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 789057,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 4,
-        "word": "εὐλογοῦνται",
-        "occurrence": 1,
-        "strong": "G21270",
-        "lemma": "εὐλογέω",
-        "morph": "Gr,V,IPP3,,P,"
-      }
-    ],
-    "origWordsTxt": "εὐλογοῦνται",
+    "origWordsTxt": "εὐλόγησεν",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 778844,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 5,
-        "word": "are",
+        "id": 830297,
+        "book_id": "mat",
+        "chapter": "14",
+        "verse": "19",
+        "word_num": 23,
+        "word": "he",
         "occurrence": 1
       },
       {
-        "id": 778845,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 6,
+        "id": 830298,
+        "book_id": "mat",
+        "chapter": "14",
+        "verse": "19",
+        "word_num": 24,
         "word": "blessed",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "are blessed",
+    "targetWordsTxt": "he blessed",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "εὐλογοῦνται = are blessed",
-    "frequency": 0.125,
+    "alignmentTxt": "εὐλόγησεν = he blessed",
+    "frequency": 0.0975609756097561,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "155097",
-    "book_id": "eph",
-    "chapter": "1",
-    "verse": "3",
-    "alignment_num": "11",
-    "orig_lang_words": ",790468,",
-    "target_lang_words": ",780919,780920,",
+    "id": "192118",
+    "book_id": "mat",
+    "chapter": "21",
+    "verse": "9",
+    "alignment_num": "13",
+    "orig_lang_words": ",1155648,",
+    "target_lang_words": ",835259,835260,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 790468,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
+        "id": 1155648,
+        "book_id": "mat",
+        "chapter": "21",
+        "verse": "9",
+        "word_num": 15,
+        "word": "εὐλογημένος",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογημένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 835259,
+        "book_id": "mat",
+        "chapter": "21",
+        "verse": "9",
+        "word_num": 21,
+        "word": "Blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 835260,
+        "book_id": "mat",
+        "chapter": "21",
+        "verse": "9",
+        "word_num": 22,
+        "word": "is",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Blessed is",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογημένος = Blessed is",
+    "frequency": 0.12195121951219512,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "193971",
+    "book_id": "mat",
+    "chapter": "23",
+    "verse": "39",
+    "alignment_num": "11",
+    "orig_lang_words": ",1157677,",
+    "target_lang_words": ",837908,837909,837910,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1157677,
+        "book_id": "mat",
+        "chapter": "23",
+        "verse": "39",
+        "word_num": 12,
+        "word": "εὐλογημένος",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογημένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 837908,
+        "book_id": "mat",
+        "chapter": "23",
+        "verse": "39",
+        "word_num": 17,
+        "word": "Blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 837909,
+        "book_id": "mat",
+        "chapter": "23",
+        "verse": "39",
+        "word_num": 18,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 837910,
+        "book_id": "mat",
+        "chapter": "23",
+        "verse": "39",
+        "word_num": 19,
+        "word": "he",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Blessed is he",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "εὐλογημένος = Blessed is he",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "195208",
+    "book_id": "mat",
+    "chapter": "25",
+    "verse": "34",
+    "alignment_num": "9",
+    "orig_lang_words": ",1159044,1159045,",
+    "target_lang_words": ",839698,839699,839700,839701,839702,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1159044,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "34",
+        "word_num": 9,
+        "word": "οἱ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,VMP,"
+      },
+      {
+        "id": 1159045,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "34",
+        "word_num": 10,
+        "word": "εὐλογημένοι",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PEP,VMP,"
+      }
+    ],
+    "origWordsTxt": "οἱ εὐλογημένοι",
+    "alignmentOrigWords": 2,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 839698,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "34",
+        "word_num": 12,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 839699,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "34",
+        "word_num": 13,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 839700,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "34",
+        "word_num": 14,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 839701,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "34",
+        "word_num": 15,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 839702,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "34",
+        "word_num": 16,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you who have been blessed",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "οἱ εὐλογημένοι = you who have been blessed",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "195782",
+    "book_id": "mat",
+    "chapter": "26",
+    "verse": "26",
+    "alignment_num": "6",
+    "orig_lang_words": ",1159633,1159634,",
+    "target_lang_words": ",840526,840527,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1159633,
+        "book_id": "mat",
+        "chapter": "26",
+        "verse": "26",
+        "word_num": 7,
+        "word": "καὶ",
+        "occurrence": 1,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1159634,
+        "book_id": "mat",
+        "chapter": "26",
+        "verse": "26",
+        "word_num": 8,
+        "word": "εὐλογήσας",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PAA,NMS,"
+      }
+    ],
+    "origWordsTxt": "καὶ εὐλογήσας",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 840526,
+        "book_id": "mat",
+        "chapter": "26",
+        "verse": "26",
+        "word_num": 7,
+        "word": "blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 840527,
+        "book_id": "mat",
+        "chapter": "26",
+        "verse": "26",
+        "word_num": 8,
+        "word": "it",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessed it",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καὶ εὐλογήσας = blessed it",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "201449",
+    "book_id": "mrk",
+    "chapter": "6",
+    "verse": "41",
+    "alignment_num": "12",
+    "orig_lang_words": ",1165733,",
+    "target_lang_words": ",848494,848495,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1165733,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "41",
+        "word_num": 13,
+        "word": "εὐλόγησεν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλόγησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 848494,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "41",
+        "word_num": 15,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 848495,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "41",
+        "word_num": 16,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he blessed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλόγησεν = he blessed",
+    "frequency": 0.0975609756097561,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "202363",
+    "book_id": "mrk",
+    "chapter": "8",
+    "verse": "7",
+    "alignment_num": "6",
+    "orig_lang_words": ",1166706,",
+    "target_lang_words": ",849739,849740,849741,849742,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1166706,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 5,
+        "word": "εὐλογήσας",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PAA,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογήσας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 849739,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 8,
+        "word": "after",
+        "occurrence": 1
+      },
+      {
+        "id": 849740,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 9,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 849741,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 10,
+        "word": "gave",
+        "occurrence": 1
+      },
+      {
+        "id": 849742,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "7",
         "word_num": 11,
+        "word": "thanks",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "after he gave thanks",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "εὐλογήσας = after he gave thanks",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "204592",
+    "book_id": "mrk",
+    "chapter": "11",
+    "verse": "9",
+    "alignment_num": "6",
+    "orig_lang_words": ",1169142,",
+    "target_lang_words": ",852957,852958,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1169142,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "9",
+        "word_num": 8,
+        "word": "εὐλογημένος",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογημένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 852957,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "9",
+        "word_num": 12,
+        "word": "Blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 852958,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "9",
+        "word_num": 13,
+        "word": "is",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Blessed is",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογημένος = Blessed is",
+    "frequency": 0.12195121951219512,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "204597",
+    "book_id": "mrk",
+    "chapter": "11",
+    "verse": "10",
+    "alignment_num": "0",
+    "orig_lang_words": ",1169148,",
+    "target_lang_words": ",852969,852970,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1169148,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "10",
+        "word_num": 0,
+        "word": "εὐλογημένη",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PEP,NFS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογημένη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 852969,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "10",
+        "word_num": 0,
+        "word": "Blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 852970,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "10",
+        "word_num": 1,
+        "word": "is",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Blessed is",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογημένη = Blessed is",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "206633",
+    "book_id": "mrk",
+    "chapter": "14",
+    "verse": "22",
+    "alignment_num": "5",
+    "orig_lang_words": ",1171358,",
+    "target_lang_words": ",855867,855868,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1171358,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "22",
+        "word_num": 5,
         "word": "εὐλογήσας",
         "occurrence": 1,
         "strong": "G21270",
@@ -124,43 +582,43 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 780919,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 12,
-        "word": "has",
+        "id": 855867,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "22",
+        "word_num": 7,
+        "word": "blessed",
         "occurrence": 1
       },
       {
-        "id": 780920,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 13,
-        "word": "blessed",
+        "id": 855868,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "22",
+        "word_num": 8,
+        "word": "it",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "has blessed",
+    "targetWordsTxt": "blessed it",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "εὐλογήσας = has blessed",
-    "frequency": 0.125,
+    "alignmentTxt": "εὐλογήσας = blessed it",
+    "frequency": 0.024390243902439025,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "166214",
+    "id": "208808",
     "book_id": "luk",
     "chapter": "1",
     "verse": "42",
     "alignment_num": "7",
-    "orig_lang_words": ",977857,",
-    "target_lang_words": ",797801,797802,",
+    "orig_lang_words": ",1173842,",
+    "target_lang_words": ",859267,859268,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 977857,
+        "id": 1173842,
         "book_id": "luk",
         "chapter": "1",
         "verse": "42",
@@ -177,7 +635,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 797801,
+        "id": 859267,
         "book_id": "luk",
         "chapter": "1",
         "verse": "42",
@@ -186,7 +644,7 @@
         "occurrence": 1
       },
       {
-        "id": 797802,
+        "id": 859268,
         "book_id": "luk",
         "chapter": "1",
         "verse": "42",
@@ -198,22 +656,22 @@
     "targetWordsTxt": "Blessed are",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εὐλογημένη = Blessed are",
-    "frequency": 0.125,
+    "frequency": 0.024390243902439025,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "166219",
+    "id": "208813",
     "book_id": "luk",
     "chapter": "1",
     "verse": "42",
     "alignment_num": "12",
-    "orig_lang_words": ",977862,",
-    "target_lang_words": ",797807,797808,",
+    "orig_lang_words": ",1173847,",
+    "target_lang_words": ",859273,859274,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 977862,
+        "id": 1173847,
         "book_id": "luk",
         "chapter": "1",
         "verse": "42",
@@ -230,7 +688,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 797807,
+        "id": 859273,
         "book_id": "luk",
         "chapter": "1",
         "verse": "42",
@@ -239,7 +697,7 @@
         "occurrence": 1
       },
       {
-        "id": 797808,
+        "id": 859274,
         "book_id": "luk",
         "chapter": "1",
         "verse": "42",
@@ -251,22 +709,22 @@
     "targetWordsTxt": "blessed is",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εὐλογημένος = blessed is",
-    "frequency": 0.125,
+    "frequency": 0.024390243902439025,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "166484",
+    "id": "209078",
     "book_id": "luk",
     "chapter": "1",
     "verse": "64",
     "alignment_num": "10",
-    "orig_lang_words": ",978147,",
-    "target_lang_words": ",798173,",
+    "orig_lang_words": ",1174132,",
+    "target_lang_words": ",859639,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 978147,
+        "id": 1174132,
         "book_id": "luk",
         "chapter": "1",
         "verse": "64",
@@ -283,7 +741,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 798173,
+        "id": 859639,
         "book_id": "luk",
         "chapter": "1",
         "verse": "64",
@@ -295,22 +753,22 @@
     "targetWordsTxt": "blessing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εὐλογῶν = blessing",
-    "frequency": 0.125,
+    "frequency": 0.024390243902439025,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "167134",
+    "id": "209728",
     "book_id": "luk",
     "chapter": "2",
     "verse": "28",
     "alignment_num": "8",
-    "orig_lang_words": ",978826,",
-    "target_lang_words": ",799087,",
+    "orig_lang_words": ",1174811,",
+    "target_lang_words": ",860553,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 978826,
+        "id": 1174811,
         "book_id": "luk",
         "chapter": "2",
         "verse": "28",
@@ -327,7 +785,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 799087,
+        "id": 860553,
         "book_id": "luk",
         "chapter": "2",
         "verse": "28",
@@ -339,22 +797,22 @@
     "targetWordsTxt": "blessed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εὐλόγησεν = blessed",
-    "frequency": 0.25,
+    "frequency": 0.0975609756097561,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "167187",
+    "id": "209781",
     "book_id": "luk",
     "chapter": "2",
     "verse": "34",
     "alignment_num": "2",
-    "orig_lang_words": ",978882,",
-    "target_lang_words": ",799150,",
+    "orig_lang_words": ",1174867,",
+    "target_lang_words": ",860616,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 978882,
+        "id": 1174867,
         "book_id": "luk",
         "chapter": "2",
         "verse": "34",
@@ -371,7 +829,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 799150,
+        "id": 860616,
         "book_id": "luk",
         "chapter": "2",
         "verse": "34",
@@ -383,7 +841,1340 @@
     "targetWordsTxt": "blessed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εὐλόγησεν = blessed",
-    "frequency": 0.25,
+    "frequency": 0.0975609756097561,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "212646",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "28",
+    "alignment_num": "0",
+    "orig_lang_words": ",1177783,",
+    "target_lang_words": ",864410,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1177783,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "28",
+        "word_num": 0,
+        "word": "εὐλογεῖτε",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,MPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "εὐλογεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 864410,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "28",
+        "word_num": 0,
+        "word": "Bless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Bless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογεῖτε = Bless",
+    "frequency": 0.04878048780487805,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "215343",
+    "book_id": "luk",
+    "chapter": "9",
+    "verse": "16",
+    "alignment_num": "12",
+    "orig_lang_words": ",1180481,",
+    "target_lang_words": ",868099,868100,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1180481,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "16",
+        "word_num": 13,
+        "word": "εὐλόγησεν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλόγησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 868099,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "16",
+        "word_num": 13,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 868100,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "16",
+        "word_num": 14,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he blessed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλόγησεν = he blessed",
+    "frequency": 0.0975609756097561,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "219553",
+    "book_id": "luk",
+    "chapter": "13",
+    "verse": "35",
+    "alignment_num": "15",
+    "orig_lang_words": ",1184805,",
+    "target_lang_words": ",873796,873797,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1184805,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "35",
+        "word_num": 17,
+        "word": "εὐλογημένος",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογημένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 873796,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "35",
+        "word_num": 22,
+        "word": "Blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 873797,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "35",
+        "word_num": 23,
+        "word": "is",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "Blessed is",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογημένος = Blessed is",
+    "frequency": 0.12195121951219512,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "223104",
+    "book_id": "luk",
+    "chapter": "19",
+    "verse": "38",
+    "alignment_num": "1",
+    "orig_lang_words": ",1188405,",
+    "target_lang_words": ",878762,878763,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1188405,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "38",
+        "word_num": 1,
+        "word": "εὐλογημένος",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογημένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 878762,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "38",
+        "word_num": 1,
+        "word": "Blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 878763,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "38",
+        "word_num": 2,
+        "word": "is",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Blessed is",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογημένος = Blessed is",
+    "frequency": 0.12195121951219512,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "226940",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "30",
+    "alignment_num": "10",
+    "orig_lang_words": ",1192274,",
+    "target_lang_words": ",883941,883942,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1192274,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "30",
+        "word_num": 11,
+        "word": "εὐλόγησεν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλόγησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 883941,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "30",
+        "word_num": 17,
+        "word": "blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 883942,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "30",
+        "word_num": 18,
+        "word": "it",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "blessed it",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλόγησεν = blessed it",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "227226",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "50",
+    "alignment_num": "11",
+    "orig_lang_words": ",1192568,",
+    "target_lang_words": ",884331,884332,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1192568,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "50",
+        "word_num": 11,
+        "word": "εὐλόγησεν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλόγησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 884331,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "50",
+        "word_num": 15,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 884332,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "50",
+        "word_num": 16,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he blessed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλόγησεν = he blessed",
+    "frequency": 0.0975609756097561,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "227232",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "51",
+    "alignment_num": "4",
+    "orig_lang_words": ",1192573,1192574,",
+    "target_lang_words": ",884340,884341,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1192573,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "51",
+        "word_num": 3,
+        "word": "τῷ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,DNS,"
+      },
+      {
+        "id": 1192574,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "51",
+        "word_num": 4,
+        "word": "εὐλογεῖν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "τῷ εὐλογεῖν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 884340,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "51",
+        "word_num": 6,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 884341,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "51",
+        "word_num": 7,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was blessing",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τῷ εὐλογεῖν = was blessing",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "227258",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "53",
+    "alignment_num": "7",
+    "orig_lang_words": ",1192602,",
+    "target_lang_words": ",884373,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1192602,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "53",
+        "word_num": 7,
+        "word": "εὐλογοῦντες",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PPA,NMP,"
+      }
+    ],
+    "origWordsTxt": "εὐλογοῦντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 884373,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "53",
+        "word_num": 8,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογοῦντες = blessing",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "235809",
+    "book_id": "jhn",
+    "chapter": "12",
+    "verse": "13",
+    "alignment_num": "13",
+    "orig_lang_words": ",1201982,",
+    "target_lang_words": ",895969,895970,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1201982,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "13",
+        "word_num": 13,
+        "word": "εὐλογημένος",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογημένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 895969,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "13",
+        "word_num": 18,
+        "word": "Blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 895970,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "13",
+        "word_num": 19,
+        "word": "is",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Blessed is",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογημένος = Blessed is",
+    "frequency": 0.12195121951219512,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "243420",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "26",
+    "alignment_num": "9",
+    "orig_lang_words": ",1210063,",
+    "target_lang_words": ",906406,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1210063,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "26",
+        "word_num": 10,
+        "word": "εὐλογοῦντα",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PPA,AMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογοῦντα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 906406,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "26",
+        "word_num": 12,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογοῦντα = blessing",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "264565",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "14",
+    "alignment_num": "0",
+    "orig_lang_words": ",1232093,",
+    "target_lang_words": ",936120,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1232093,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "14",
+        "word_num": 0,
+        "word": "εὐλογεῖτε",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,MPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "εὐλογεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 936120,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "14",
+        "word_num": 0,
+        "word": "Bless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Bless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογεῖτε = Bless",
+    "frequency": 0.04878048780487805,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "264567",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "14",
+    "alignment_num": "2",
+    "orig_lang_words": ",1232096,",
+    "target_lang_words": ",936125,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1232096,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "14",
+        "word_num": 3,
+        "word": "εὐλογεῖτε",
+        "occurrence": 2,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,MPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "εὐλογεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 936125,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "14",
+        "word_num": 5,
+        "word": "bless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "bless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογεῖτε = bless",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "267416",
+    "book_id": "1co",
+    "chapter": "4",
+    "verse": "12",
+    "alignment_num": "6",
+    "orig_lang_words": ",1235156,",
+    "target_lang_words": ",940329,940330,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1235156,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "12",
+        "word_num": 7,
+        "word": "εὐλογοῦμεν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IPA1,,P,"
+      }
+    ],
+    "origWordsTxt": "εὐλογοῦμεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 940329,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "12",
+        "word_num": 12,
+        "word": "we",
+        "occurrence": 2
+      },
+      {
+        "id": 940330,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "12",
+        "word_num": 13,
+        "word": "bless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we bless",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογοῦμεν = we bless",
+    "frequency": 0.04878048780487805,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "269634",
+    "book_id": "1co",
+    "chapter": "10",
+    "verse": "16",
+    "alignment_num": "4",
+    "orig_lang_words": ",1237425,",
+    "target_lang_words": ",943666,943667,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1237425,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "16",
+        "word_num": 5,
+        "word": "εὐλογοῦμεν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IPA1,,P,"
+      }
+    ],
+    "origWordsTxt": "εὐλογοῦμεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 943666,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "16",
+        "word_num": 5,
+        "word": "we",
+        "occurrence": 1
+      },
+      {
+        "id": 943667,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "16",
+        "word_num": 6,
+        "word": "bless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we bless",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογοῦμεν = we bless",
+    "frequency": 0.04878048780487805,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "271269",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "16",
+    "alignment_num": "2",
+    "orig_lang_words": ",1239108,",
+    "target_lang_words": ",946103,946104,946105,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1239108,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 2,
+        "word": "εὐλογῇς",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,SPA2,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλογῇς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 946103,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 2,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 946104,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 3,
+        "word": "praise",
+        "occurrence": 1
+      },
+      {
+        "id": 946105,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 4,
+        "word": "God",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you praise God",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "εὐλογῇς = you praise God",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "277941",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "4",
+    "orig_lang_words": ",1245971,",
+    "target_lang_words": ",955896,955897,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1245971,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 4,
+        "word": "εὐλογοῦνται",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IPP3,,P,"
+      }
+    ],
+    "origWordsTxt": "εὐλογοῦνται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 955896,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 5,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 955897,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 6,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "are blessed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογοῦνται = are blessed",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "279288",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "11",
+    "orig_lang_words": ",1247382,",
+    "target_lang_words": ",957971,957972,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1247382,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 11,
+        "word": "εὐλογήσας",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PAA,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογήσας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 957971,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 12,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 957972,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 13,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has blessed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογήσας = has blessed",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "292194",
+    "book_id": "heb",
+    "chapter": "6",
+    "verse": "14",
+    "alignment_num": "2",
+    "orig_lang_words": ",1260665,1260666,",
+    "target_lang_words": ",976198,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1260665,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 3,
+        "word": "εὐλογῶν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PPA,NMS,"
+      },
+      {
+        "id": 1260666,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 4,
+        "word": "εὐλογήσω",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IFA1,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλογῶν εὐλογήσω",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 976198,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 5,
+        "word": "bless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "bless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογῶν εὐλογήσω = bless",
+    "frequency": 0.04878048780487805,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "292194",
+    "book_id": "heb",
+    "chapter": "6",
+    "verse": "14",
+    "alignment_num": "2",
+    "orig_lang_words": ",1260665,1260666,",
+    "target_lang_words": ",976198,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1260665,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 3,
+        "word": "εὐλογῶν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PPA,NMS,"
+      },
+      {
+        "id": 1260666,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 4,
+        "word": "εὐλογήσω",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IFA1,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλογῶν εὐλογήσω",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 976198,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 5,
+        "word": "bless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "bless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογῶν εὐλογήσω = bless",
+    "frequency": 0.04878048780487805,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "292305",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "1",
+    "alignment_num": "17",
+    "orig_lang_words": ",1260784,",
+    "target_lang_words": ",976378,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1260784,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 21,
+        "word": "εὐλογήσας",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PAA,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογήσας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 976378,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 25,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογήσας = blessed",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "292398",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "6",
+    "alignment_num": "10",
+    "orig_lang_words": ",1260883,",
+    "target_lang_words": ",976513,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1260883,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "6",
+        "word_num": 13,
+        "word": "εὐλόγηκεν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IEA3,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλόγηκεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 976513,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "6",
+        "word_num": 14,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλόγηκεν = blessed",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "292408",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "7",
+    "alignment_num": "6",
+    "orig_lang_words": ",1260893,",
+    "target_lang_words": ",976527,976528,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1260893,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "7",
+        "word_num": 9,
+        "word": "εὐλογεῖται",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλογεῖται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 976527,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "7",
+        "word_num": 7,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 976528,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "7",
+        "word_num": 8,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is blessed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογεῖται = is blessed",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "294303",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "20",
+    "alignment_num": "5",
+    "orig_lang_words": ",1262883,",
+    "target_lang_words": ",979434,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1262883,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 4,
+        "word": "εὐλόγησεν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλόγησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 979434,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 8,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλόγησεν = blessed",
+    "frequency": 0.0975609756097561,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "294310",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "21",
+    "alignment_num": "3",
+    "orig_lang_words": ",1262897,",
+    "target_lang_words": ",979445,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1262897,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "21",
+        "word_num": 7,
+        "word": "εὐλόγησεν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "εὐλόγησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 979445,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "21",
+        "word_num": 7,
+        "word": "blessed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλόγησεν = blessed",
+    "frequency": 0.0975609756097561,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "296328",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1265008,",
+    "target_lang_words": ",982435,982436,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1265008,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 2,
+        "word": "εὐλογοῦμεν",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,IPA1,,P,"
+      }
+    ],
+    "origWordsTxt": "εὐλογοῦμεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 982435,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 2,
+        "word": "we",
+        "occurrence": 1
+      },
+      {
+        "id": 982436,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 3,
+        "word": "praise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we praise",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογοῦμεν = we praise",
+    "frequency": 0.024390243902439025,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "297967",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "11",
+    "orig_lang_words": ",1266714,",
+    "target_lang_words": ",984917,984918,984919,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1266714,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 11,
+        "word": "εὐλογοῦντες",
+        "occurrence": 1,
+        "strong": "G21270",
+        "lemma": "εὐλογέω",
+        "morph": "Gr,V,PPA,NMP,"
+      }
+    ],
+    "origWordsTxt": "εὐλογοῦντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 984917,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 15,
+        "word": "continue",
+        "occurrence": 1
+      },
+      {
+        "id": 984918,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 16,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 984919,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 17,
+        "word": "bless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "continue to bless",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "εὐλογοῦντες = continue to bless",
+    "frequency": 0.024390243902439025,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

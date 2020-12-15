@@ -1,16 +1,60 @@
 [
   {
-    "id": "156440",
+    "id": "209205",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "75",
+    "alignment_num": "1",
+    "orig_lang_words": ",1174264,",
+    "target_lang_words": ",859811,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1174264,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "75",
+        "word_num": 1,
+        "word": "ὁσιότητι",
+        "occurrence": 1,
+        "strong": "G37420",
+        "lemma": "ὁσιότης",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "ὁσιότητι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 859811,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "75",
+        "word_num": 1,
+        "word": "holiness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "holiness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁσιότητι = holiness",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "280693",
     "book_id": "eph",
     "chapter": "4",
     "verse": "24",
     "alignment_num": "12",
-    "orig_lang_words": ",791875,",
-    "target_lang_words": ",782745,",
+    "orig_lang_words": ",1248789,",
+    "target_lang_words": ",959797,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 791875,
+        "id": 1248789,
         "book_id": "eph",
         "chapter": "4",
         "verse": "24",
@@ -27,55 +71,11 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 782745,
+        "id": 959797,
         "book_id": "eph",
         "chapter": "4",
         "verse": "24",
         "word_num": 16,
-        "word": "holiness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "holiness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁσιότητι = holiness",
-    "frequency": 1.0,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "166611",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "75",
-    "alignment_num": "1",
-    "orig_lang_words": ",978279,",
-    "target_lang_words": ",798345,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 978279,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "75",
-        "word_num": 1,
-        "word": "ὁσιότητι",
-        "occurrence": 1,
-        "strong": "G37420",
-        "lemma": "ὁσιότης",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "ὁσιότητι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 798345,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "75",
-        "word_num": 1,
         "word": "holiness",
         "occurrence": 1
       }
