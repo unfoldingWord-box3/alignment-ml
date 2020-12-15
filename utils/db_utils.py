@@ -616,9 +616,9 @@ def findWords(connection, words, searchOriginal = True, searchLemma = False, cas
             search = f"(word = '{word}')"
 
         if len(searches) > 0:
-            searches = searches + ' OR '
+            searches += ' OR '
 
-        searches = searches + search
+        searches += search
 
     # print(f"findWords - search filter: {searches}")
 
@@ -753,7 +753,7 @@ def saveAlignmentDataForWords(connection, key, wordList, searchOriginal = True, 
     baseFolder = './data/TrainingData'
     file.makeFolder(baseFolder)
 
-    # get superset of alignments
+    # save superset of alignments
     alignments_df = saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLemma, searchOriginal,
                                                  caseInsensitive)
     alignmentsSet = {

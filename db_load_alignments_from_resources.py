@@ -69,9 +69,10 @@ print (f"{len(items_align)} items in alignment_table")
 items_orig = db.fetchRecords(connection, original_words_table, '')
 print (f"{len(items_orig)} items in original_words_table")
 
-# 69050 items in target_words_table
-# 48892 items in alignment_table
-# 52996 items in original_words_table
+# see:
+# 45996 items in target_words_table
+# 31219 items in alignment_table
+# 357007 items in original_words_table
 
 # Times on 2015 MBP 15":
 # Get NT alignments, Elapsed time: 0:38:44.645573

@@ -1,58 +1,5 @@
 [
   {
-    "id": "118932",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "68",
-    "alignment_num": "0",
-    "orig_lang_words": ",751311,",
-    "target_lang_words": ",728487,728488,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 751311,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "68",
-        "word_num": 0,
-        "word": "εὐλογητὸς",
-        "occurrence": 1,
-        "strong": "G21280",
-        "lemma": "εὐλογητός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "εὐλογητὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 728487,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "68",
-        "word_num": 0,
-        "word": "Blessed",
-        "occurrence": 1
-      },
-      {
-        "id": 728488,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "68",
-        "word_num": 1,
-        "word": "be",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Blessed be",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "εὐλογητὸς = Blessed be",
-    "frequency": 1.0,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
     "id": "155086",
     "book_id": "eph",
     "chapter": "1",
@@ -93,6 +40,59 @@
         "book_id": "eph",
         "chapter": "1",
         "verse": "3",
+        "word_num": 1,
+        "word": "be",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Blessed be",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογητὸς = Blessed be",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "166538",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "68",
+    "alignment_num": "0",
+    "orig_lang_words": ",978204,",
+    "target_lang_words": ",798242,798243,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 978204,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "68",
+        "word_num": 0,
+        "word": "εὐλογητὸς",
+        "occurrence": 1,
+        "strong": "G21280",
+        "lemma": "εὐλογητός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογητὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 798242,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "68",
+        "word_num": 0,
+        "word": "Blessed",
+        "occurrence": 1
+      },
+      {
+        "id": 798243,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "68",
         "word_num": 1,
         "word": "be",
         "occurrence": 1

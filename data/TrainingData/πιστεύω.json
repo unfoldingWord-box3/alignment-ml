@@ -1,485 +1,5 @@
 [
   {
-    "id": "118287",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "20",
-    "alignment_num": "15",
-    "orig_lang_words": ",750606,",
-    "target_lang_words": ",727575,727578,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 750606,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 16,
-        "word": "ἐπίστευσας",
-        "occurrence": 1,
-        "strong": "G41000",
-        "lemma": "πιστεύω",
-        "morph": "Gr,V,IAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπίστευσας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 727575,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 20,
-        "word": "you",
-        "occurrence": 2
-      },
-      {
-        "id": 727578,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 23,
-        "word": "believe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you believe",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπίστευσας = you believe",
-    "frequency": 0.014492753623188406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 2
-  },
-  {
-    "id": "118663",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "45",
-    "alignment_num": "3",
-    "orig_lang_words": ",751013,",
-    "target_lang_words": ",728103,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 751013,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "45",
-        "word_num": 3,
-        "word": "πιστεύσασα",
-        "occurrence": 1,
-        "strong": "G41000",
-        "lemma": "πιστεύω",
-        "morph": "Gr,V,PAA,NFS,"
-      }
-    ],
-    "origWordsTxt": "πιστεύσασα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 728103,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "45",
-        "word_num": 5,
-        "word": "believed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "believed",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πιστεύσασα = believed",
-    "frequency": 0.014492753623188406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "123785",
-    "book_id": "luk",
-    "chapter": "8",
-    "verse": "12",
-    "alignment_num": "21",
-    "orig_lang_words": ",756455,",
-    "target_lang_words": ",735335,735336,735338,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 756455,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "12",
-        "word_num": 22,
-        "word": "πιστεύσαντες",
-        "occurrence": 1,
-        "strong": "G41000",
-        "lemma": "πιστεύω",
-        "morph": "Gr,V,PAA,NMP,"
-      }
-    ],
-    "origWordsTxt": "πιστεύσαντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 735335,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "12",
-        "word_num": 25,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 735336,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "12",
-        "word_num": 26,
-        "word": "may",
-        "occurrence": 1
-      },
-      {
-        "id": 735338,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "12",
-        "word_num": 28,
-        "word": "believe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they may believe",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "πιστεύσαντες = they may believe",
-    "frequency": 0.014492753623188406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 1
-  },
-  {
-    "id": "123808",
-    "book_id": "luk",
-    "chapter": "8",
-    "verse": "13",
-    "alignment_num": "21",
-    "orig_lang_words": ",756478,",
-    "target_lang_words": ",735365,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 756478,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "13",
-        "word_num": 21,
-        "word": "πιστεύουσιν",
-        "occurrence": 1,
-        "strong": "G41000",
-        "lemma": "πιστεύω",
-        "morph": "Gr,V,IPA3,,P,"
-      }
-    ],
-    "origWordsTxt": "πιστεύουσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 735365,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "13",
-        "word_num": 23,
-        "word": "believe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "believe",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πιστεύουσιν = believe",
-    "frequency": 0.014492753623188406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "124529",
-    "book_id": "luk",
-    "chapter": "8",
-    "verse": "50",
-    "alignment_num": "8",
-    "orig_lang_words": ",757230,",
-    "target_lang_words": ",736389,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 757230,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "50",
-        "word_num": 9,
-        "word": "πίστευσον",
-        "occurrence": 1,
-        "strong": "G41000",
-        "lemma": "πιστεύω",
-        "morph": "Gr,V,MAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "πίστευσον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 736389,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "50",
-        "word_num": 13,
-        "word": "believe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "believe",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πίστευσον = believe",
-    "frequency": 0.014492753623188406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "129960",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "11",
-    "alignment_num": "11",
-    "orig_lang_words": ",763321,",
-    "target_lang_words": ",744465,744466,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 763321,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 13,
-        "word": "πιστεύσει",
-        "occurrence": 1,
-        "strong": "G41000",
-        "lemma": "πιστεύω",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "πιστεύσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 744465,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 12,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 744466,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 13,
-        "word": "entrust",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will entrust",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πιστεύσει = will entrust",
-    "frequency": 0.014492753623188406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "132285",
-    "book_id": "luk",
-    "chapter": "20",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",765781,",
-    "target_lang_words": ",747881,747883,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 765781,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "5",
-        "word_num": 15,
-        "word": "ἐπιστεύσατε",
-        "occurrence": 1,
-        "strong": "G41000",
-        "lemma": "πιστεύω",
-        "morph": "Gr,V,IAA2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐπιστεύσατε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 747881,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "5",
-        "word_num": 17,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 747883,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "5",
-        "word_num": 19,
-        "word": "believe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you believe",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπιστεύσατε = you believe",
-    "frequency": 0.014492753623188406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 1
-  },
-  {
-    "id": "134415",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "67",
-    "alignment_num": "15",
-    "orig_lang_words": ",768010,",
-    "target_lang_words": ",750940,750941,750944,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 768010,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "67",
-        "word_num": 16,
-        "word": "πιστεύσητε",
-        "occurrence": 1,
-        "strong": "G41000",
-        "lemma": "πιστεύω",
-        "morph": "Gr,V,SAA2,,P,"
-      }
-    ],
-    "origWordsTxt": "πιστεύσητε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 4,
-    "targetWords": [
-      {
-        "id": 750940,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "67",
-        "word_num": 17,
-        "word": "you",
-        "occurrence": 3
-      },
-      {
-        "id": 750941,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "67",
-        "word_num": 18,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 750944,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "67",
-        "word_num": 21,
-        "word": "believe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you will believe",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "πιστεύσητε = you will believe",
-    "frequency": 0.028985507246376812,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 2
-  },
-  {
-    "id": "135643",
-    "book_id": "luk",
-    "chapter": "24",
-    "verse": "25",
-    "alignment_num": "11",
-    "orig_lang_words": ",769313,769314,",
-    "target_lang_words": ",752611,752612,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 769313,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "25",
-        "word_num": 11,
-        "word": "τοῦ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,RD,,,,GNS,"
-      },
-      {
-        "id": 769314,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "25",
-        "word_num": 12,
-        "word": "πιστεύειν",
-        "occurrence": 1,
-        "strong": "G41000",
-        "lemma": "πιστεύω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "τοῦ πιστεύειν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 752611,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "25",
-        "word_num": 12,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 752612,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "25",
-        "word_num": 13,
-        "word": "believe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to believe",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τοῦ πιστεύειν = to believe",
-    "frequency": 0.014492753623188406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
     "id": "137193",
     "book_id": "act",
     "chapter": "2",
@@ -519,7 +39,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεύοντες = believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -563,7 +83,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπίστευσαν = believed",
-    "frequency": 0.07246376811594203,
+    "frequency": 0.08064516129032258,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -607,7 +127,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστευσάντων = believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -651,7 +171,7 @@
     "targetWordsTxt": "believers",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεύοντες = believers",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -704,7 +224,7 @@
     "targetWordsTxt": "they believed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπίστευσαν = they believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -748,7 +268,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπίστευσεν = believed",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.04838709677419355,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -801,7 +321,7 @@
     "targetWordsTxt": "you believe",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστεύεις = you believe",
-    "frequency": 0.028985507246376812,
+    "frequency": 0.03225806451612903,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -854,7 +374,7 @@
     "targetWordsTxt": "I believe",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Πιστεύω = I believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -898,7 +418,7 @@
     "targetWordsTxt": "believing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεύοντες = believing",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -942,7 +462,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπίστευσαν = believed",
-    "frequency": 0.07246376811594203,
+    "frequency": 0.08064516129032258,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -986,7 +506,7 @@
     "targetWordsTxt": "believes",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεύοντα = believes",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1048,7 +568,7 @@
     "targetWordsTxt": "when we believed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πιστεύσασιν = when we believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1092,7 +612,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεύσας = believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1145,7 +665,7 @@
     "targetWordsTxt": "he believed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπίστευσεν = he believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1189,7 +709,7 @@
     "targetWordsTxt": "believes",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεύων = believes",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1251,7 +771,7 @@
     "targetWordsTxt": "you will believe",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πιστεύσητε = you will believe",
-    "frequency": 0.028985507246376812,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 1
   },
@@ -1295,7 +815,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπίστευσαν = believed",
-    "frequency": 0.07246376811594203,
+    "frequency": 0.08064516129032258,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1339,7 +859,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεῦσαι = believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1401,7 +921,7 @@
     "targetWordsTxt": "they had believed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πεπιστεύκεισαν = they had believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1454,7 +974,7 @@
     "targetWordsTxt": "who believed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πεπιστευκότες = who believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1498,7 +1018,7 @@
     "targetWordsTxt": "believe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεῦσαι = believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1560,7 +1080,7 @@
     "targetWordsTxt": "we believe that",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πιστεύομεν = we believe that",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1604,7 +1124,7 @@
     "targetWordsTxt": "Believe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πίστευσον = Believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1657,7 +1177,7 @@
     "targetWordsTxt": "having believed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πεπιστευκὼς = having believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1701,7 +1221,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπίστευσαν = believed",
-    "frequency": 0.07246376811594203,
+    "frequency": 0.08064516129032258,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1745,7 +1265,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπίστευσαν = believed",
-    "frequency": 0.07246376811594203,
+    "frequency": 0.08064516129032258,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1789,7 +1309,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπίστευσεν = believed",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.04838709677419355,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1833,7 +1353,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπίστευον = believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1886,7 +1406,7 @@
     "targetWordsTxt": "had believed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πεπιστευκόσιν = had believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1948,7 +1468,7 @@
     "targetWordsTxt": "when you believed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πιστεύσαντες = when you believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2010,7 +1530,7 @@
     "targetWordsTxt": "they should believe",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πιστεύσωσιν = they should believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2054,7 +1574,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πεπιστευκότων = believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2107,7 +1627,7 @@
     "targetWordsTxt": "have believed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πεπιστευκότων = have believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2169,7 +1689,7 @@
     "targetWordsTxt": "who have believed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πεπιστευκότων = who have believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2213,7 +1733,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεύοντας = believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2275,7 +1795,7 @@
     "targetWordsTxt": "I am faithful",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πιστεύων = I am faithful",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2337,7 +1857,7 @@
     "targetWordsTxt": "Do you believe",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πιστεύεις = Do you believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2390,7 +1910,7 @@
     "targetWordsTxt": "you believe",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστεύεις = you believe",
-    "frequency": 0.028985507246376812,
+    "frequency": 0.03225806451612903,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2443,7 +1963,7 @@
     "targetWordsTxt": "I trust",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστεύω = I trust",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2523,7 +2043,7 @@
     "targetWordsTxt": "I had been entrusted with",
     "alignmentTargetWords": 5,
     "alignmentTxt": "πεπίστευμαι = I had been entrusted with",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2567,7 +2087,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπίστευσεν = believed",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.04838709677419355,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2620,7 +2140,7 @@
     "targetWordsTxt": "who believe",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστεύουσιν = who believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2673,7 +2193,7 @@
     "targetWordsTxt": "you believed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστεύσαντες = you believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2717,7 +2237,7 @@
     "targetWordsTxt": "believe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεύοντας = believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2824,7 +2344,7 @@
     "targetWordsTxt": "to believe in him",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τὸ εἰς αὐτὸν πιστεύειν = to believe in him",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2886,7 +2406,7 @@
     "targetWordsTxt": "have been entrusted",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπιστεύθην = have been entrusted",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2930,7 +2450,7 @@
     "targetWordsTxt": "trust",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεύειν = trust",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2992,7 +2512,7 @@
     "targetWordsTxt": "was believed on",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπιστεύθη = was believed on",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3054,7 +2574,7 @@
     "targetWordsTxt": "I have believed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πεπίστευκα = I have believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3116,7 +2636,7 @@
     "targetWordsTxt": "was entrusted with",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπιστεύθην = was entrusted with",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3169,7 +2689,7 @@
     "targetWordsTxt": "have believed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πεπιστευκότες = have believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3231,7 +2751,7 @@
     "targetWordsTxt": "we should believe",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πιστεύσωμεν = we should believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3275,7 +2795,7 @@
     "targetWordsTxt": "believe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστεύετε = believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3319,7 +2839,7 @@
     "targetWordsTxt": "believed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πεπιστεύκαμεν = believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3384,7 +2904,7 @@
     "targetWordsTxt": "who believes",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ πιστεύων = who believes",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3467,7 +2987,7 @@
     "targetWordsTxt": "the one who believes",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ὁ πιστεύων = the one who believes",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3541,7 +3061,7 @@
     "targetWordsTxt": "Anyone who believes",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ὁ πιστεύων = Anyone who believes",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3594,7 +3114,7 @@
     "targetWordsTxt": "who believe",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστεύων = who believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 2
   },
@@ -3656,7 +3176,7 @@
     "targetWordsTxt": "he has believed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πεπίστευκεν = he has believed",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 1
   },
@@ -3739,7 +3259,95 @@
     "targetWordsTxt": "to you who believe",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τοῖς πιστεύουσιν = to you who believe",
-    "frequency": 0.014492753623188406,
+    "frequency": 0.016129032258064516,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "165873",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "20",
+    "alignment_num": "15",
+    "orig_lang_words": ",977499,",
+    "target_lang_words": ",797330,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 977499,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 16,
+        "word": "ἐπίστευσας",
+        "occurrence": 1,
+        "strong": "G41000",
+        "lemma": "πιστεύω",
+        "morph": "Gr,V,IAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπίστευσας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 797330,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 20,
+        "word": "you",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "you",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπίστευσας = you",
+    "frequency": 0.016129032258064516,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "166262",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "45",
+    "alignment_num": "3",
+    "orig_lang_words": ",977906,",
+    "target_lang_words": ",797858,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 977906,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "45",
+        "word_num": 3,
+        "word": "πιστεύσασα",
+        "occurrence": 1,
+        "strong": "G41000",
+        "lemma": "πιστεύω",
+        "morph": "Gr,V,PAA,NFS,"
+      }
+    ],
+    "origWordsTxt": "πιστεύσασα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 797858,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "45",
+        "word_num": 5,
+        "word": "believed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "believed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πιστεύσασα = believed",
+    "frequency": 0.016129032258064516,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

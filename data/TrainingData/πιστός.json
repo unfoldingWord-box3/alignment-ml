@@ -1,278 +1,5 @@
 [
   {
-    "id": "127841",
-    "book_id": "luk",
-    "chapter": "12",
-    "verse": "42",
-    "alignment_num": "8",
-    "orig_lang_words": ",760940,",
-    "target_lang_words": ",741256,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 760940,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "42",
-        "word_num": 8,
-        "word": "πιστὸς",
-        "occurrence": 1,
-        "strong": "G41030",
-        "lemma": "πιστός",
-        "morph": "Gr,AA,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "πιστὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 741256,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "42",
-        "word_num": 8,
-        "word": "faithful",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "faithful",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πιστὸς = faithful",
-    "frequency": 0.17142857142857143,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "129931",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "10",
-    "alignment_num": "1",
-    "orig_lang_words": ",763290,",
-    "target_lang_words": ",744430,744431,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 763290,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "10",
-        "word_num": 1,
-        "word": "πιστὸς",
-        "occurrence": 1,
-        "strong": "G41030",
-        "lemma": "πιστός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "πιστὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 744430,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "10",
-        "word_num": 2,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 744431,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "10",
-        "word_num": 3,
-        "word": "faithful",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is faithful",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πιστὸς = is faithful",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "129937",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "10",
-    "alignment_num": "7",
-    "orig_lang_words": ",763296,",
-    "target_lang_words": ",744437,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 763296,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "10",
-        "word_num": 7,
-        "word": "πιστός",
-        "occurrence": 1,
-        "strong": "G41030",
-        "lemma": "πιστός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "πιστός",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 744437,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "10",
-        "word_num": 9,
-        "word": "faithful",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "faithful",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πιστός = faithful",
-    "frequency": 0.05714285714285714,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "129954",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "11",
-    "alignment_num": "5",
-    "orig_lang_words": ",763314,",
-    "target_lang_words": ",744459,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 763314,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 6,
-        "word": "πιστοὶ",
-        "occurrence": 1,
-        "strong": "G41030",
-        "lemma": "πιστός",
-        "morph": "Gr,NP,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "πιστοὶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 744459,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 6,
-        "word": "faithful",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "faithful",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πιστοὶ = faithful",
-    "frequency": 0.05714285714285714,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "129966",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "12",
-    "alignment_num": "5",
-    "orig_lang_words": ",763327,",
-    "target_lang_words": ",744477,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 763327,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "12",
-        "word_num": 5,
-        "word": "πιστοὶ",
-        "occurrence": 1,
-        "strong": "G41030",
-        "lemma": "πιστός",
-        "morph": "Gr,NP,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "πιστοὶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 744477,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "12",
-        "word_num": 6,
-        "word": "faithful",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "faithful",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πιστοὶ = faithful",
-    "frequency": 0.05714285714285714,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "131745",
-    "book_id": "luk",
-    "chapter": "19",
-    "verse": "17",
-    "alignment_num": "9",
-    "orig_lang_words": ",765215,",
-    "target_lang_words": ",747093,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 765215,
-        "book_id": "luk",
-        "chapter": "19",
-        "verse": "17",
-        "word_num": 9,
-        "word": "πιστὸς",
-        "occurrence": 1,
-        "strong": "G41030",
-        "lemma": "πιστός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "πιστὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 747093,
-        "book_id": "luk",
-        "chapter": "19",
-        "verse": "17",
-        "word_num": 12,
-        "word": "faithful",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "faithful",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πιστὸς = faithful",
-    "frequency": 0.17142857142857143,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
     "id": "142473",
     "book_id": "act",
     "chapter": "10",
@@ -312,7 +39,7 @@
     "targetWordsTxt": "believers",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστοὶ = believers",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -377,7 +104,7 @@
     "targetWordsTxt": "and sure",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὰ πιστά = and sure",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -421,7 +148,7 @@
     "targetWordsTxt": "believing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστῆς = believing",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -465,7 +192,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστὴν = faithful",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -509,7 +236,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστοῖς = faithful",
-    "frequency": 0.08571428571428572,
+    "frequency": 0.10344827586206896,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -553,7 +280,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστὸς = faithful",
-    "frequency": 0.17142857142857143,
+    "frequency": 0.13793103448275862,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -597,7 +324,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστοῖς = faithful",
-    "frequency": 0.08571428571428572,
+    "frequency": 0.10344827586206896,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -641,7 +368,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστὸς = faithful",
-    "frequency": 0.17142857142857143,
+    "frequency": 0.13793103448275862,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -685,7 +412,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστὸς = faithful",
-    "frequency": 0.17142857142857143,
+    "frequency": 0.13793103448275862,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -729,7 +456,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστῷ = faithful",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -773,7 +500,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστόν = faithful",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -826,7 +553,7 @@
     "targetWordsTxt": "is trustworthy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστὸς = is trustworthy",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1724137931034483,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -879,7 +606,7 @@
     "targetWordsTxt": "is trustworthy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστὸς = is trustworthy",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1724137931034483,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -932,7 +659,7 @@
     "targetWordsTxt": "and faithful",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστὰς = and faithful",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -985,7 +712,7 @@
     "targetWordsTxt": "by faithful",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστοῖς = by faithful",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 1
   },
@@ -1038,7 +765,7 @@
     "targetWordsTxt": "is trustworthy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστὸς = is trustworthy",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1724137931034483,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1091,7 +818,7 @@
     "targetWordsTxt": "of believers",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστῶν = of believers",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1135,7 +862,7 @@
     "targetWordsTxt": "believers",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστῶν = believers",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1188,7 +915,7 @@
     "targetWordsTxt": "believing woman",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστὴ = believing woman",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1232,7 +959,7 @@
     "targetWordsTxt": "believing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστοὺς = believing",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1276,7 +1003,7 @@
     "targetWordsTxt": "believers",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστοί = believers",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1320,7 +1047,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστοῖς = faithful",
-    "frequency": 0.08571428571428572,
+    "frequency": 0.10344827586206896,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1373,7 +1100,7 @@
     "targetWordsTxt": "is trustworthy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστὸς = is trustworthy",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1724137931034483,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1417,7 +1144,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστὸς = faithful",
-    "frequency": 0.17142857142857143,
+    "frequency": 0.13793103448275862,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1461,7 +1188,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστά = faithful",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1505,7 +1232,7 @@
     "targetWordsTxt": "trustworthy",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστοῦ = trustworthy",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1558,7 +1285,7 @@
     "targetWordsTxt": "is trustworthy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πιστὸς = is trustworthy",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1724137931034483,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1602,7 +1329,7 @@
     "targetWordsTxt": "faithful",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πιστός = faithful",
-    "frequency": 0.05714285714285714,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1664,7 +1391,7 @@
     "targetWordsTxt": "a faithful thing",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πιστὸν = a faithful thing",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.034482758620689655,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -1,49 +1,5 @@
 [
   {
-    "id": "119004",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "75",
-    "alignment_num": "1",
-    "orig_lang_words": ",751386,",
-    "target_lang_words": ",728590,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 751386,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "75",
-        "word_num": 1,
-        "word": "ὁσιότητι",
-        "occurrence": 1,
-        "strong": "G37420",
-        "lemma": "ὁσιότης",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "ὁσιότητι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 728590,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "75",
-        "word_num": 1,
-        "word": "holiness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "holiness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁσιότητι = holiness",
-    "frequency": 1.0,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
     "id": "156440",
     "book_id": "eph",
     "chapter": "4",
@@ -76,6 +32,50 @@
         "chapter": "4",
         "verse": "24",
         "word_num": 16,
+        "word": "holiness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "holiness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁσιότητι = holiness",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "166611",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "75",
+    "alignment_num": "1",
+    "orig_lang_words": ",978279,",
+    "target_lang_words": ",798345,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 978279,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "75",
+        "word_num": 1,
+        "word": "ὁσιότητι",
+        "occurrence": 1,
+        "strong": "G37420",
+        "lemma": "ὁσιότης",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "ὁσιότητι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 798345,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "75",
+        "word_num": 1,
         "word": "holiness",
         "occurrence": 1
       }
