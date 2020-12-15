@@ -74,5 +74,5 @@ print (f"{len(items_orig)} items in original_words_table")
 # 52996 items in original_words_table
 
 # Times on 2015 MBP 15":
-# Get NT alignments, Elapsed time: 0:38:44.645573
+# Get NT alignments, Elapsed time: 1:42:31
 

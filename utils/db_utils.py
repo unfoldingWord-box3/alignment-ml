@@ -465,7 +465,7 @@ def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType=
     for verseAl in verses:
         if nestedFormat:
             target_words, verseAlignments = getAlignmentsFromVerse(data[verseAl]['verseObjects'])
-            # print(f"For {chapter}:{verse} Saving {len(db_words)}")
+            # save the target words
             db_words = getDbTargetLangWordsForVerse(target_words, bookId, chapter, verseAl)
             addMultipleItemsToDatabase(connection, target_words_table, db_words)
         else:
