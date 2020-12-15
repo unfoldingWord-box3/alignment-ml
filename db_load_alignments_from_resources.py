@@ -74,6 +74,11 @@ print (f"{len(items_orig)} items in original_words_table")
 # 31219 items in alignment_table
 # 357007 items in original_words_table
 
+# now see with updated db:
+# 184166 items in target_words_table
+# 130137 items in alignment_table
+# 443108 items in original_words_table
+
 # Times on 2015 MBP 15":
 # Get NT alignments, Elapsed time: 0:38:44.645573
 
