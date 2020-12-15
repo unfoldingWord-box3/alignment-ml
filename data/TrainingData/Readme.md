@@ -23,13 +23,13 @@ df.describe() # show key metric data
 - 'alignment_num' - identifier for specific alignment
 - 'orig_lang_words' - internal field from alignment db - id number of original words in db
 - 'target_lang_words' - internal field from alignment db - id number of target words in db
-- 'origSpan' - determine how close the original words are (the highest word number minus the lowest word number)
-- 'origWordsBetween' - original language extra unaligned word count between aligned original language words 
+- 'origSpan' - span of original words to determine how close the words are (highest word number minus lowest word number).  This includes aligned words, so is not normalized.  So better to use 'origWordsBetween' for training.
+- 'origWordsBetween' - count of extra words (not part of current alignment) between aligned original language words (indicator that alignments are discontiguous)
 - 'origWords' - list of original language words used in alignment
 - 'origWordsTxt' - text form of original language words used in alignment
 - 'alignmentOrigWords' - count of original language words used in alignment
-- 'targetSpan' - determine how close the original words are (the highest word number minus the lowest word number)
-- 'targetWordsBetween' - target language extra unaligned word count between aligned original language words
+- 'targetSpan' - span of target words to determine how close the words are (highest word number minus lowest word number).  This includes aligned words, so is not normalized.  So better to use 'targetWordsBetween' for training.
+- 'targetWordsBetween' - count of extra words (not part of current alignment) between aligned target language words (indicator that alignments are discontiguous)
 - 'targetWords' - list of target language words used in alignment
 - 'targetWordsTxt' - text form of target language words used in alignment
 - 'alignmentTargetWords'  - count of target language words used in alignment
