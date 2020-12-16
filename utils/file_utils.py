@@ -66,6 +66,12 @@ def readFile(inputPath):
     data = f.read()
     return data
 
+def readJsonFile(inputPath):
+    # print ('readJsonFile ' + inputPath)
+    dataStr = readFile(inputPath)
+    data = json.loads(dataStr)
+    return data
+
 def makeFolder(outputFolder):
     if not os.path.isdir(outputFolder):
         print ('makeFolder - creating folder ' + outputFolder)
@@ -98,12 +104,6 @@ def listFolder(outputFolder):
         return files
     print ('listFolder - folder not found: ' + outputFolder)
     return None
-
-def readJsonFile(inputPath):
-    # print ('readJsonFile ' + inputPath)
-    dataStr = readFile(inputPath)
-    data = json.loads(dataStr)
-    return data
 
 def initJsonFile(keyTermsPath):
     try:

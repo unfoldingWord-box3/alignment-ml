@@ -1,5 +1,6 @@
 # search alignments
 
+import os
 import json
 import pandas as pd
 import utils.db_utils as db
@@ -13,35 +14,39 @@ target_words_table = db.target_words_table
 alignment_table = db.alignment_table
 dbPath = './data/alignmentsData.sqlite'
 keyTermsPath = 'data/keyTerms.json'
+alignmentTrainingDataPath = './data/TrainingData'
 origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
 origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
 targetLangPathEn = './data/TargetLangJson/ult/v14'
 targetLang = 'en'
 tWordsTargetPath = f'/Users/blm/translationCore/resources/{targetLang}/translationHelps/translationWords/v16'
-tWordsList = ['kt', 'names', 'others']
+tWordsTypeList = ['kt', 'names', 'others']
 tWordsGreekPath = '/Users/blm/translationCore/resources/el-x-koine/translationHelps/translationWords/v0.14'
 
-connection = db.initAlignmentDB(dbPath)
+# connection = db.initAlignmentDB(dbPath)
 
 bibleType = 'en_ult'
 testament = 1
 dataFolder = './data/AlignmentsFromProjects'
 bookId = 'tit'
 
-searchOriginal = True
-searchTarget = False
-searchLemma = True
-caseInsensitive = True
-
 ###########################
 
+tWordsType = 'kt'
+bible.getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType)
 
 
-###########################
+word = 'apostle'
+tWordsPath = f"{tWordsGreekPath}/{tWordsType}/groups/{bookId}"
+tWordPath = f"{tWordsPath}/{word}.json"
 
-# this command will update all the current entries in keyTermsPath
-start = time.time()
-db.refreshSavedAlignmentData(connection, keyTermsPath, minLen=3)
-delta = (time.time() - start)
-elapsed = str(timedelta(seconds=delta))
-print(f'refreshed saved alignments, Elapsed time: {elapsed}')
+# fileList_ = file.listFolder(tWordsPath)
+# fileList = list(filter(lambda word: (word.find('.json') >= 0), fileList_))
+# fileList.sort()
+
+
+tWordsType = 'kt'
+newTestament = True
+outputFolder = './data'
+bible.saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, tWordsType, targetLang, newTestament)
+

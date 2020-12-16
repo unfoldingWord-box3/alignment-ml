@@ -778,7 +778,17 @@ def saveAlignmentDataForWords(connection, key, wordList_, searchOriginal = True,
     baseFolder = './data/TrainingData'
     file.makeFolder(baseFolder)
 
-    wordList = list(filterForMinLen(wordList_, minLen))
+    print(f"getting lemmas for {wordList_}")
+    lemmas = []
+    foundWords = findWords(connection, wordList_, searchOriginal, searchLemma = False)
+    for word in foundWords:
+        lemma = word['lemma']
+        if not lemma in lemmas:
+            lemmas.append(lemma)
+    lemmas.sort()
+    print(f"found lemmas: {lemmas}")
+
+    wordList = list(filterForMinLen(lemmas, minLen))
 
     # save superset of alignments
     alignments_df = saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLemma, searchOriginal,
@@ -799,6 +809,10 @@ def saveAlignmentDataForWords(connection, key, wordList_, searchOriginal = True,
 
 def saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLemma, searchOriginal, caseInsensitive):
     alignments = findAlignmentsForWords(connection, wordList, searchOriginal, searchLemma, caseInsensitive)
+    if (not alignments) or (len(alignments) < 1):
+        print(f"could not find alignments for {wordList}, skipping")
+        return []
+
     print(f"for {key} found {len(alignments)} alignments")
     index = {
         'lemmaList': wordList,
@@ -824,7 +838,7 @@ def refreshSavedAlignmentData(connection, keyTermsPath, minLen=-1):
 
     keyTermsList = list(data.keys())
     for keyTerm in keyTermsList:
-        item = list(data[keyTerm].keys())
+        item = data[keyTerm]
         print (f"updating '{keyTerm}' = '{item}'")
         saveAlignmentDataForWords(connection, keyTerm, item, searchOriginal = True, searchLemma = True, caseInsensitive = True, minLen = minLen)
 

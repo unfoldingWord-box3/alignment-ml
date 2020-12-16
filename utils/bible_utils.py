@@ -1535,4 +1535,64 @@ def loadChapterAlignmentsFromResource(inputBasePath, bookId, chapter):
         data = ''
     return data
 
+def getQuotesForBook(tWordsGreekPath, tWordsTargetPath, bookId, tWordsType):
+    tWordsPath = f"{tWordsGreekPath}/{tWordsType}/groups/{bookId}"
+    tWordsTypePath = f"{tWordsTargetPath}/{tWordsType}/index.json"
+    wordsIndex = file.readJsonFile(tWordsTypePath)
+    tWordsListForType = list(map(lambda word: word['id'], wordsIndex))
+    tWordsListForType.sort()
+
+    quotesMap = {}
+    for tWord in tWordsListForType:
+        tWordPath = f"{tWordsPath}/{tWord}.json"
+        if os.path.isfile(tWordPath):
+            wordInstances = file.readJsonFile(tWordPath)
+            # print(f"in {tWordPath} found {len(wordInstances)} items:")
+            foundQuotes = []
+            for item in wordInstances:
+                quote = item['contextId']['quote']
+                if isinstance(quote, str): # we will skip quote arrays since it makes things too complicated
+                    # print(f"Quote = '{quote}'")
+                    if not quote in foundQuotes:
+                        # print(f"found Quote = '{quote}'")
+                        foundQuotes.append(quote)
+            # print(f"for {tWord}, found unique Quotes = '{foundQuotes}' out of {len(wordInstances)}")
+            if len(foundQuotes):
+                quotesMap[tWord] = foundQuotes
+        # else:
+        #     print(f"{tWordPath} was not found")
+    # print(f"Quotes found in {bookId}: {quotesMap}")
+    return quotesMap
+
+def getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType, newTestament = True):
+    quotesFound = {}
+    books = getBookList(newTestament)
+    # books = ['tit', 'eph']
+    for bookId in books:
+        # print(f"searching: {bookId}")
+        quotesFound_ = getQuotesForBook(tWordsGreekPath, tWordsTargetPath, bookId, tWordsType)
+        for keyTerm, quotes in quotesFound_.items():
+            if keyTerm in quotesFound:
+                # print(f"Merging {keyTerm}: {quotes}")
+                currentQuotes = quotesFound[keyTerm]
+                for quote in quotes:
+                    if not quote in currentQuotes:
+                        currentQuotes.append(quote)
+            else:
+                # print(f"Adding {keyTerm}: {quotes}")
+                quotesFound[keyTerm] = quotes
+    # print(f"{len(quotesFound.keys())} unique quotes found in NT: {quotesFound}")
+    return quotesFound
+
+def saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, tWordsType, targetLang, newTestament=True):
+    quotesFound = getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType, newTestament)
+    print(f"{len(quotesFound.keys())} unique quotes found in NT: {quotesFound}")
+    if newTestament:
+        testament = 'NT'
+    else:
+        testament = 'OT'
+    outputPath = f"{outputFolder}/{tWordsType}_{targetLang}_{testament}_quotes.json"
+    print(f"saving quotes to: {outputPath}")
+    file.writeJsonFile(outputPath, quotesFound)
+    return quotesFound
 
