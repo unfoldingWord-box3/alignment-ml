@@ -79,6 +79,7 @@ print (f"{len(items_orig)} items in original_words_table")
 # 130137 items in alignment_table
 # 443108 items in original_words_table
 
-# Times on 2015 MBP 15":
-# Get NT alignments, Elapsed time: 1:42:31
+# Get NT alignments
+# Times on 2015 MBP 15": Elapsed time: 1:42:31
+# on M1 MBP 13" rosetta: Elapsed time: 1:24:16
 

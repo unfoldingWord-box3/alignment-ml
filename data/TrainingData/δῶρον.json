@@ -1,0 +1,496 @@
+[
+  {
+    "id": "462141",
+    "book_id": "mrk",
+    "chapter": "7",
+    "verse": "11",
+    "alignment_num": "17",
+    "orig_lang_words": ",1442100,",
+    "target_lang_words": ",1217385,1217386,1217387,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1442100,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "11",
+        "word_num": 14,
+        "word": "δῶρον",
+        "occurrence": 1,
+        "strong": "G14350",
+        "lemma": "δῶρον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "δῶρον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1217385,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "11",
+        "word_num": 23,
+        "word": "Given",
+        "occurrence": 1
+      },
+      {
+        "id": 1217386,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "11",
+        "word_num": 24,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1217387,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "11",
+        "word_num": 25,
+        "word": "God",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Given to God",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δῶρον = Given to God",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "484259",
+    "book_id": "luk",
+    "chapter": "21",
+    "verse": "1",
+    "alignment_num": "7",
+    "orig_lang_words": ",1465209,1465210,",
+    "target_lang_words": ",1248307,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1465209,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "1",
+        "word_num": 8,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1465210,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "1",
+        "word_num": 9,
+        "word": "δῶρα",
+        "occurrence": 1,
+        "strong": "G14350",
+        "lemma": "δῶρον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ δῶρα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1248307,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "1",
+        "word_num": 12,
+        "word": "gifts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gifts",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ δῶρα = gifts",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "484290",
+    "book_id": "luk",
+    "chapter": "21",
+    "verse": "4",
+    "alignment_num": "6",
+    "orig_lang_words": ",1465246,",
+    "target_lang_words": ",1248346,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1465246,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "4",
+        "word_num": 10,
+        "word": "δῶρα",
+        "occurrence": 1,
+        "strong": "G14350",
+        "lemma": "δῶρον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "δῶρα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1248346,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "4",
+        "word_num": 6,
+        "word": "gifts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gifts",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δῶρα = gifts",
+    "frequency": 0.2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540055",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "8",
+    "alignment_num": "14",
+    "orig_lang_words": ",1523803,",
+    "target_lang_words": ",1326941,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523803,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 14,
+        "word": "δῶρον",
+        "occurrence": 1,
+        "strong": "G14350",
+        "lemma": "δῶρον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "δῶρον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326941,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 18,
+        "word": "gift",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gift",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δῶρον = gift",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552065",
+    "book_id": "heb",
+    "chapter": "5",
+    "verse": "1",
+    "alignment_num": "14",
+    "orig_lang_words": ",1536171,",
+    "target_lang_words": ",1343931,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536171,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 15,
+        "word": "δῶρά",
+        "occurrence": 1,
+        "strong": "G14350",
+        "lemma": "δῶρον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "δῶρά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1343931,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 27,
+        "word": "gifts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gifts",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δῶρά = gifts",
+    "frequency": 0.3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553032",
+    "book_id": "heb",
+    "chapter": "8",
+    "verse": "3",
+    "alignment_num": "6",
+    "orig_lang_words": ",1537181,",
+    "target_lang_words": ",1345363,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537181,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "3",
+        "word_num": 6,
+        "word": "δῶρά",
+        "occurrence": 1,
+        "strong": "G14350",
+        "lemma": "δῶρον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "δῶρά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345363,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "3",
+        "word_num": 9,
+        "word": "gifts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gifts",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δῶρά = gifts",
+    "frequency": 0.3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553056",
+    "book_id": "heb",
+    "chapter": "8",
+    "verse": "4",
+    "alignment_num": "13",
+    "orig_lang_words": ",1537210,",
+    "target_lang_words": ",1345402,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537210,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "4",
+        "word_num": 16,
+        "word": "δῶρα",
+        "occurrence": 1,
+        "strong": "G14350",
+        "lemma": "δῶρον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "δῶρα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345402,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "4",
+        "word_num": 21,
+        "word": "gifts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gifts",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δῶρα = gifts",
+    "frequency": 0.2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553398",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "9",
+    "alignment_num": "9",
+    "orig_lang_words": ",1537569,",
+    "target_lang_words": ",1345899,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537569,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "9",
+        "word_num": 9,
+        "word": "δῶρά",
+        "occurrence": 1,
+        "strong": "G14350",
+        "lemma": "δῶρον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "δῶρά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345899,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "9",
+        "word_num": 11,
+        "word": "gifts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gifts",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δῶρά = gifts",
+    "frequency": 0.3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554318",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "4",
+    "alignment_num": "19",
+    "orig_lang_words": ",1538522,1538523,",
+    "target_lang_words": ",1347345,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1538522,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 16,
+        "word": "τοῖς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNP,"
+      },
+      {
+        "id": 1538523,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 17,
+        "word": "δώροις",
+        "occurrence": 1,
+        "strong": "G14350",
+        "lemma": "δῶρον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τοῖς δώροις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1347345,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 27,
+        "word": "offerings",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "offerings",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῖς δώροις = offerings",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566656",
+    "book_id": "rev",
+    "chapter": "11",
+    "verse": "10",
+    "alignment_num": "11",
+    "orig_lang_words": ",1551926,1551927,",
+    "target_lang_words": ",1365413,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1551926,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "10",
+        "word_num": 11,
+        "word": "καὶ",
+        "occurrence": 3,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1551927,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "10",
+        "word_num": 12,
+        "word": "δῶρα",
+        "occurrence": 1,
+        "strong": "G14350",
+        "lemma": "δῶρον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "καὶ δῶρα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365413,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "10",
+        "word_num": 16,
+        "word": "gifts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gifts",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καὶ δῶρα = gifts",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

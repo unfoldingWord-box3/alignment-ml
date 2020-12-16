@@ -1,818 +1,16 @@
 [
   {
-    "id": "185532",
-    "book_id": "mat",
-    "chapter": "10",
-    "verse": "2",
-    "alignment_num": "8",
-    "orig_lang_words": ",1148379,",
-    "target_lang_words": ",825817,825818,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1148379,
-        "book_id": "mat",
-        "chapter": "10",
-        "verse": "2",
-        "word_num": 8,
-        "word": "πρῶτος",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "πρῶτος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 825817,
-        "book_id": "mat",
-        "chapter": "10",
-        "verse": "2",
-        "word_num": 9,
-        "word": "The",
-        "occurrence": 1
-      },
-      {
-        "id": 825818,
-        "book_id": "mat",
-        "chapter": "10",
-        "verse": "2",
-        "word_num": 10,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "The first",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πρῶτος = The first",
-    "frequency": 0.010416666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "187364",
-    "book_id": "mat",
-    "chapter": "12",
-    "verse": "45",
-    "alignment_num": "24",
-    "orig_lang_words": ",1150371,",
-    "target_lang_words": ",828428,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1150371,
-        "book_id": "mat",
-        "chapter": "12",
-        "verse": "45",
-        "word_num": 24,
-        "word": "πρώτων",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "πρώτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 828428,
-        "book_id": "mat",
-        "chapter": "12",
-        "verse": "45",
-        "word_num": 34,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρώτων = first",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "190357",
-    "book_id": "mat",
-    "chapter": "17",
-    "verse": "27",
-    "alignment_num": "17",
-    "orig_lang_words": ",1153722,",
-    "target_lang_words": ",832703,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1153722,
-        "book_id": "mat",
-        "chapter": "17",
-        "verse": "27",
-        "word_num": 13,
-        "word": "πρῶτον",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,EO,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "πρῶτον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 832703,
-        "book_id": "mat",
-        "chapter": "17",
-        "verse": "27",
-        "word_num": 28,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρῶτον = first",
-    "frequency": 0.010416666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "191468",
-    "book_id": "mat",
-    "chapter": "19",
-    "verse": "30",
-    "alignment_num": "3",
-    "orig_lang_words": ",1154951,",
-    "target_lang_words": ",834296,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1154951,
-        "book_id": "mat",
-        "chapter": "19",
-        "verse": "30",
-        "word_num": 3,
-        "word": "πρῶτοι",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "πρῶτοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 834296,
-        "book_id": "mat",
-        "chapter": "19",
-        "verse": "30",
-        "word_num": 4,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρῶτοι = first",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "191472",
-    "book_id": "mat",
-    "chapter": "19",
-    "verse": "30",
-    "alignment_num": "7",
-    "orig_lang_words": ",1154955,",
-    "target_lang_words": ",834303,834304,834305,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1154955,
-        "book_id": "mat",
-        "chapter": "19",
-        "verse": "30",
-        "word_num": 7,
-        "word": "πρῶτοι",
-        "occurrence": 2,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NP,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "πρῶτοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 834303,
-        "book_id": "mat",
-        "chapter": "19",
-        "verse": "30",
-        "word_num": 11,
-        "word": "will",
-        "occurrence": 2
-      },
-      {
-        "id": 834304,
-        "book_id": "mat",
-        "chapter": "19",
-        "verse": "30",
-        "word_num": 12,
-        "word": "be",
-        "occurrence": 2
-      },
-      {
-        "id": 834305,
-        "book_id": "mat",
-        "chapter": "19",
-        "verse": "30",
-        "word_num": 13,
-        "word": "first",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "will be first",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "πρῶτοι = will be first",
-    "frequency": 0.010416666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "191593",
-    "book_id": "mat",
-    "chapter": "20",
-    "verse": "8",
-    "alignment_num": "25",
-    "orig_lang_words": ",1155087,",
-    "target_lang_words": ",834475,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1155087,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "8",
-        "word_num": 25,
-        "word": "πρώτων",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "πρώτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 834475,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "8",
-        "word_num": 26,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρώτων = first",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "191606",
-    "book_id": "mat",
-    "chapter": "20",
-    "verse": "10",
-    "alignment_num": "2",
-    "orig_lang_words": ",1155101,",
-    "target_lang_words": ",834495,834496,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1155101,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "10",
-        "word_num": 3,
-        "word": "πρῶτοι",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "πρῶτοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 834495,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "10",
-        "word_num": 2,
-        "word": "first",
-        "occurrence": 1
-      },
-      {
-        "id": 834496,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "10",
-        "word_num": 3,
-        "word": "workers",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first workers",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πρῶτοι = first workers",
-    "frequency": 0.010416666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "191696",
-    "book_id": "mat",
-    "chapter": "20",
-    "verse": "16",
-    "alignment_num": "4",
-    "orig_lang_words": ",1155191,",
-    "target_lang_words": ",834636,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1155191,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "16",
-        "word_num": 4,
-        "word": "πρῶτοι",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NP,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "πρῶτοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 834636,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "16",
-        "word_num": 5,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρῶτοι = first",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "191699",
-    "book_id": "mat",
-    "chapter": "20",
-    "verse": "16",
-    "alignment_num": "7",
-    "orig_lang_words": ",1155194,",
-    "target_lang_words": ",834639,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1155194,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "16",
-        "word_num": 7,
-        "word": "πρῶτοι",
-        "occurrence": 2,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "πρῶτοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 834639,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "16",
-        "word_num": 8,
-        "word": "first",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρῶτοι = first",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "191879",
-    "book_id": "mat",
-    "chapter": "20",
-    "verse": "27",
-    "alignment_num": "4",
-    "orig_lang_words": ",1155393,",
-    "target_lang_words": ",834916,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1155393,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "27",
-        "word_num": 7,
-        "word": "πρῶτος",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "πρῶτος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 834916,
-        "book_id": "mat",
-        "chapter": "20",
-        "verse": "27",
-        "word_num": 5,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "192472",
-    "book_id": "mat",
-    "chapter": "21",
-    "verse": "28",
-    "alignment_num": "11",
-    "orig_lang_words": ",1156027,",
-    "target_lang_words": ",835754,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1156027,
-        "book_id": "mat",
-        "chapter": "21",
-        "verse": "28",
-        "word_num": 11,
-        "word": "πρώτῳ",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "πρώτῳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 835754,
-        "book_id": "mat",
-        "chapter": "21",
-        "verse": "28",
-        "word_num": 14,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρώτῳ = first",
-    "frequency": 0.010416666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "192514",
-    "book_id": "mat",
-    "chapter": "21",
-    "verse": "31",
-    "alignment_num": "11",
-    "orig_lang_words": ",1156072,",
-    "target_lang_words": ",835820,835821,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1156072,
-        "book_id": "mat",
-        "chapter": "21",
-        "verse": "31",
-        "word_num": 11,
-        "word": "πρῶτος",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "πρῶτος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 835820,
-        "book_id": "mat",
-        "chapter": "21",
-        "verse": "31",
-        "word_num": 14,
-        "word": "first",
-        "occurrence": 1
-      },
-      {
-        "id": 835821,
-        "book_id": "mat",
-        "chapter": "21",
-        "verse": "31",
-        "word_num": 15,
-        "word": "one",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first one",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πρῶτος = first one",
-    "frequency": 0.010416666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "192623",
-    "book_id": "mat",
-    "chapter": "21",
-    "verse": "36",
-    "alignment_num": "6",
-    "orig_lang_words": ",1156188,",
-    "target_lang_words": ",835972,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1156188,
-        "book_id": "mat",
-        "chapter": "21",
-        "verse": "36",
-        "word_num": 6,
-        "word": "πρώτων",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "πρώτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 835972,
-        "book_id": "mat",
-        "chapter": "21",
-        "verse": "36",
-        "word_num": 9,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρώτων = first",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "193109",
-    "book_id": "mat",
-    "chapter": "22",
-    "verse": "25",
-    "alignment_num": "7",
-    "orig_lang_words": ",1156741,",
-    "target_lang_words": ",836690,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1156741,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "25",
-        "word_num": 8,
-        "word": "πρῶτος",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "πρῶτος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 836690,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "25",
-        "word_num": 8,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "193273",
-    "book_id": "mat",
-    "chapter": "22",
-    "verse": "38",
-    "alignment_num": "5",
-    "orig_lang_words": ",1156917,",
-    "target_lang_words": ",836909,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1156917,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "38",
-        "word_num": 5,
-        "word": "πρώτη",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,EO,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "πρώτη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 836909,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "38",
-        "word_num": 5,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρώτη = first",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "195631",
-    "book_id": "mat",
-    "chapter": "26",
-    "verse": "17",
-    "alignment_num": "2",
-    "orig_lang_words": ",1159473,",
-    "target_lang_words": ",840322,840323,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1159473,
-        "book_id": "mat",
-        "chapter": "26",
-        "verse": "17",
-        "word_num": 2,
-        "word": "πρώτῃ",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "πρώτῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 840322,
-        "book_id": "mat",
-        "chapter": "26",
-        "verse": "17",
-        "word_num": 3,
-        "word": "first",
-        "occurrence": 1
-      },
-      {
-        "id": 840323,
-        "book_id": "mat",
-        "chapter": "26",
-        "verse": "17",
-        "word_num": 4,
-        "word": "day",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first day",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πρώτῃ = first day",
-    "frequency": 0.010416666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "197479",
-    "book_id": "mat",
-    "chapter": "27",
-    "verse": "64",
-    "alignment_num": "30",
-    "orig_lang_words": ",1161481,",
-    "target_lang_words": ",842953,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1161481,
-        "book_id": "mat",
-        "chapter": "27",
-        "verse": "64",
-        "word_num": 31,
-        "word": "πρώτης",
-        "occurrence": 1,
-        "strong": "G44130",
-        "lemma": "πρῶτος",
-        "morph": "Gr,NS,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "πρώτης",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 842953,
-        "book_id": "mat",
-        "chapter": "27",
-        "verse": "64",
-        "word_num": 40,
-        "word": "first",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "first",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πρώτης = first",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "201121",
+    "id": "461395",
     "book_id": "mrk",
     "chapter": "6",
     "verse": "21",
     "alignment_num": "17",
-    "orig_lang_words": ",1165386,",
-    "target_lang_words": ",848028,",
+    "orig_lang_words": ",1441310,",
+    "target_lang_words": ",1216360,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1165386,
+        "id": 1441310,
         "book_id": "mrk",
         "chapter": "6",
         "verse": "21",
@@ -829,7 +27,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 848028,
+        "id": 1216360,
         "book_id": "mrk",
         "chapter": "6",
         "verse": "21",
@@ -841,22 +39,22 @@
     "targetWordsTxt": "leaders",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτοις = leaders",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "203401",
+    "id": "463675",
     "book_id": "mrk",
     "chapter": "9",
     "verse": "35",
     "alignment_num": "13",
-    "orig_lang_words": ",1167830,",
-    "target_lang_words": ",851208,",
+    "orig_lang_words": ",1443754,",
+    "target_lang_words": ",1219540,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1167830,
+        "id": 1443754,
         "book_id": "mrk",
         "chapter": "9",
         "verse": "35",
@@ -873,7 +71,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 851208,
+        "id": 1219540,
         "book_id": "mrk",
         "chapter": "9",
         "verse": "35",
@@ -885,22 +83,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "204096",
+    "id": "464370",
     "book_id": "mrk",
     "chapter": "10",
     "verse": "31",
     "alignment_num": "2",
-    "orig_lang_words": ",1168604,",
-    "target_lang_words": ",852214,852215,852216,",
+    "orig_lang_words": ",1444528,",
+    "target_lang_words": ",1220546,1220547,1220548,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1168604,
+        "id": 1444528,
         "book_id": "mrk",
         "chapter": "10",
         "verse": "31",
@@ -917,7 +115,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 852214,
+        "id": 1220546,
         "book_id": "mrk",
         "chapter": "10",
         "verse": "31",
@@ -926,7 +124,7 @@
         "occurrence": 1
       },
       {
-        "id": 852215,
+        "id": 1220547,
         "book_id": "mrk",
         "chapter": "10",
         "verse": "31",
@@ -935,7 +133,7 @@
         "occurrence": 1
       },
       {
-        "id": 852216,
+        "id": 1220548,
         "book_id": "mrk",
         "chapter": "10",
         "verse": "31",
@@ -947,22 +145,22 @@
     "targetWordsTxt": "who are first",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πρῶτοι = who are first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "204101",
+    "id": "464375",
     "book_id": "mrk",
     "chapter": "10",
     "verse": "31",
     "alignment_num": "7",
-    "orig_lang_words": ",1168608,",
-    "target_lang_words": ",852223,",
+    "orig_lang_words": ",1444532,",
+    "target_lang_words": ",1220555,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1168608,
+        "id": 1444532,
         "book_id": "mrk",
         "chapter": "10",
         "verse": "31",
@@ -979,7 +177,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 852223,
+        "id": 1220555,
         "book_id": "mrk",
         "chapter": "10",
         "verse": "31",
@@ -991,22 +189,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτοι = first",
-    "frequency": 0.0625,
+    "frequency": 0.0379746835443038,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "204321",
+    "id": "464595",
     "book_id": "mrk",
     "chapter": "10",
     "verse": "44",
     "alignment_num": "4",
-    "orig_lang_words": ",1168848,",
-    "target_lang_words": ",852565,",
+    "orig_lang_words": ",1444772,",
+    "target_lang_words": ",1220897,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1168848,
+        "id": 1444772,
         "book_id": "mrk",
         "chapter": "10",
         "verse": "44",
@@ -1023,7 +221,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 852565,
+        "id": 1220897,
         "book_id": "mrk",
         "chapter": "10",
         "verse": "44",
@@ -1035,22 +233,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "205295",
+    "id": "465569",
     "book_id": "mrk",
     "chapter": "12",
     "verse": "20",
     "alignment_num": "4",
-    "orig_lang_words": ",1169915,",
-    "target_lang_words": ",853978,",
+    "orig_lang_words": ",1445839,",
+    "target_lang_words": ",1222310,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1169915,
+        "id": 1445839,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "20",
@@ -1067,7 +265,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 853978,
+        "id": 1222310,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "20",
@@ -1079,22 +277,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "205434",
+    "id": "465708",
     "book_id": "mrk",
     "chapter": "12",
     "verse": "28",
     "alignment_num": "18",
-    "orig_lang_words": ",1170056,",
-    "target_lang_words": ",854168,854169,",
+    "orig_lang_words": ",1445980,",
+    "target_lang_words": ",1222500,1222501,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1170056,
+        "id": 1445980,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "28",
@@ -1111,7 +309,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 854168,
+        "id": 1222500,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "28",
@@ -1120,7 +318,7 @@
         "occurrence": 2
       },
       {
-        "id": 854169,
+        "id": 1222501,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "28",
@@ -1132,22 +330,22 @@
     "targetWordsTxt": "the first",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτη = the first",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "205438",
+    "id": "465712",
     "book_id": "mrk",
     "chapter": "12",
     "verse": "29",
     "alignment_num": "2",
-    "orig_lang_words": ",1170061,1170062,",
-    "target_lang_words": ",854174,854175,",
+    "orig_lang_words": ",1445985,1445986,",
+    "target_lang_words": ",1222506,1222507,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1170061,
+        "id": 1445985,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "29",
@@ -1159,7 +357,7 @@
         "morph": "Gr,CS,,,,,,,,"
       },
       {
-        "id": 1170062,
+        "id": 1445986,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "29",
@@ -1176,7 +374,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 854174,
+        "id": 1222506,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "29",
@@ -1185,7 +383,7 @@
         "occurrence": 1
       },
       {
-        "id": 854175,
+        "id": 1222507,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "29",
@@ -1197,22 +395,22 @@
     "targetWordsTxt": "The first",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὅτι πρώτη = The first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "206461",
+    "id": "466735",
     "book_id": "mrk",
     "chapter": "14",
     "verse": "12",
     "alignment_num": "2",
-    "orig_lang_words": ",1171172,",
-    "target_lang_words": ",855616,",
+    "orig_lang_words": ",1447096,",
+    "target_lang_words": ",1223948,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1171172,
+        "id": 1447096,
         "book_id": "mrk",
         "chapter": "14",
         "verse": "12",
@@ -1229,7 +427,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 855616,
+        "id": 1223948,
         "book_id": "mrk",
         "chapter": "14",
         "verse": "12",
@@ -1241,22 +439,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτῃ = first",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "209300",
+    "id": "469574",
     "book_id": "luk",
     "chapter": "2",
     "verse": "2",
     "alignment_num": "1",
-    "orig_lang_words": ",1174362,",
-    "target_lang_words": ",859951,",
+    "orig_lang_words": ",1450286,",
+    "target_lang_words": ",1228283,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1174362,
+        "id": 1450286,
         "book_id": "luk",
         "chapter": "2",
         "verse": "2",
@@ -1273,7 +471,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 859951,
+        "id": 1228283,
         "book_id": "luk",
         "chapter": "2",
         "verse": "2",
@@ -1285,22 +483,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτη = first",
-    "frequency": 0.03125,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "217363",
+    "id": "477637",
     "book_id": "luk",
     "chapter": "11",
     "verse": "26",
     "alignment_num": "22",
-    "orig_lang_words": ",1182582,",
-    "target_lang_words": ",870819,",
+    "orig_lang_words": ",1458506,",
+    "target_lang_words": ",1239151,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1182582,
+        "id": 1458506,
         "book_id": "luk",
         "chapter": "11",
         "verse": "26",
@@ -1317,7 +515,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 870819,
+        "id": 1239151,
         "book_id": "luk",
         "chapter": "11",
         "verse": "26",
@@ -1329,22 +527,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτων = first",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "219446",
+    "id": "479720",
     "book_id": "luk",
     "chapter": "13",
     "verse": "30",
     "alignment_num": "7",
-    "orig_lang_words": ",1184695,",
-    "target_lang_words": ",873649,",
+    "orig_lang_words": ",1460619,",
+    "target_lang_words": ",1241981,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1184695,
+        "id": 1460619,
         "book_id": "luk",
         "chapter": "13",
         "verse": "30",
@@ -1361,7 +559,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 873649,
+        "id": 1241981,
         "book_id": "luk",
         "chapter": "13",
         "verse": "30",
@@ -1373,22 +571,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτοι = first",
-    "frequency": 0.0625,
+    "frequency": 0.0379746835443038,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "219450",
+    "id": "479724",
     "book_id": "luk",
     "chapter": "13",
     "verse": "30",
     "alignment_num": "11",
-    "orig_lang_words": ",1184698,",
-    "target_lang_words": ",873653,",
+    "orig_lang_words": ",1460622,",
+    "target_lang_words": ",1241985,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1184698,
+        "id": 1460622,
         "book_id": "luk",
         "chapter": "13",
         "verse": "30",
@@ -1405,7 +603,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 873653,
+        "id": 1241985,
         "book_id": "luk",
         "chapter": "13",
         "verse": "30",
@@ -1417,22 +615,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτοι = first",
-    "frequency": 0.0625,
+    "frequency": 0.0379746835443038,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "219861",
+    "id": "480135",
     "book_id": "luk",
     "chapter": "14",
     "verse": "18",
     "alignment_num": "7",
-    "orig_lang_words": ",1185100,",
-    "target_lang_words": ",874250,",
+    "orig_lang_words": ",1461024,",
+    "target_lang_words": ",1242582,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1185100,
+        "id": 1461024,
         "book_id": "luk",
         "chapter": "14",
         "verse": "18",
@@ -1449,7 +647,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 874250,
+        "id": 1242582,
         "book_id": "luk",
         "chapter": "14",
         "verse": "18",
@@ -1461,22 +659,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "220536",
+    "id": "480810",
     "book_id": "luk",
     "chapter": "15",
     "verse": "22",
     "alignment_num": "10",
-    "orig_lang_words": ",1185792,",
-    "target_lang_words": ",875156,",
+    "orig_lang_words": ",1461716,",
+    "target_lang_words": ",1243488,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1185792,
+        "id": 1461716,
         "book_id": "luk",
         "chapter": "15",
         "verse": "22",
@@ -1493,7 +691,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 875156,
+        "id": 1243488,
         "book_id": "luk",
         "chapter": "15",
         "verse": "22",
@@ -1505,22 +703,22 @@
     "targetWordsTxt": "best",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτην = best",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "220805",
+    "id": "481079",
     "book_id": "luk",
     "chapter": "16",
     "verse": "5",
     "alignment_num": "11",
-    "orig_lang_words": ",1186070,",
-    "target_lang_words": ",875525,",
+    "orig_lang_words": ",1461994,",
+    "target_lang_words": ",1243857,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1186070,
+        "id": 1461994,
         "book_id": "luk",
         "chapter": "16",
         "verse": "5",
@@ -1537,7 +735,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 875525,
+        "id": 1243857,
         "book_id": "luk",
         "chapter": "16",
         "verse": "5",
@@ -1549,22 +747,22 @@
     "targetWordsTxt": "to",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτῳ = to",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "222769",
+    "id": "483043",
     "book_id": "luk",
     "chapter": "19",
     "verse": "16",
     "alignment_num": "2",
-    "orig_lang_words": ",1188075,",
-    "target_lang_words": ",878290,",
+    "orig_lang_words": ",1463999,",
+    "target_lang_words": ",1246622,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1188075,
+        "id": 1463999,
         "book_id": "luk",
         "chapter": "19",
         "verse": "16",
@@ -1581,7 +779,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 878290,
+        "id": 1246622,
         "book_id": "luk",
         "chapter": "19",
         "verse": "16",
@@ -1593,22 +791,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "223252",
+    "id": "483526",
     "book_id": "luk",
     "chapter": "19",
     "verse": "47",
     "alignment_num": "15",
-    "orig_lang_words": ",1188562,",
-    "target_lang_words": ",878967,",
+    "orig_lang_words": ",1464486,",
+    "target_lang_words": ",1247299,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1188562,
+        "id": 1464486,
         "book_id": "luk",
         "chapter": "19",
         "verse": "47",
@@ -1625,7 +823,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 878967,
+        "id": 1247299,
         "book_id": "luk",
         "chapter": "19",
         "verse": "47",
@@ -1637,22 +835,22 @@
     "targetWordsTxt": "leaders",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτοι = leaders",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "223743",
+    "id": "484017",
     "book_id": "luk",
     "chapter": "20",
     "verse": "29",
     "alignment_num": "6",
-    "orig_lang_words": ",1189044,",
-    "target_lang_words": ",879656,",
+    "orig_lang_words": ",1464968,",
+    "target_lang_words": ",1247988,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1189044,
+        "id": 1464968,
         "book_id": "luk",
         "chapter": "20",
         "verse": "29",
@@ -1669,7 +867,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 879656,
+        "id": 1247988,
         "book_id": "luk",
         "chapter": "20",
         "verse": "29",
@@ -1681,22 +879,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "227458",
+    "id": "487732",
     "book_id": "jhn",
     "chapter": "1",
     "verse": "15",
     "alignment_num": "20",
-    "orig_lang_words": ",1192812,",
-    "target_lang_words": ",884636,",
+    "orig_lang_words": ",1468736,",
+    "target_lang_words": ",1252968,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1192812,
+        "id": 1468736,
         "book_id": "jhn",
         "chapter": "1",
         "verse": "15",
@@ -1713,7 +911,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 884636,
+        "id": 1252968,
         "book_id": "jhn",
         "chapter": "1",
         "verse": "15",
@@ -1725,22 +923,22 @@
     "targetWordsTxt": "before",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτός = before",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "227683",
+    "id": "487957",
     "book_id": "jhn",
     "chapter": "1",
     "verse": "30",
     "alignment_num": "17",
-    "orig_lang_words": ",1193048,",
-    "target_lang_words": ",884935,",
+    "orig_lang_words": ",1468972,",
+    "target_lang_words": ",1253267,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1193048,
+        "id": 1468972,
         "book_id": "jhn",
         "chapter": "1",
         "verse": "30",
@@ -1757,7 +955,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 884935,
+        "id": 1253267,
         "book_id": "jhn",
         "chapter": "1",
         "verse": "30",
@@ -1769,22 +967,22 @@
     "targetWordsTxt": "before",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτός = before",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "234695",
+    "id": "494969",
     "book_id": "jhn",
     "chapter": "10",
     "verse": "40",
     "alignment_num": "11",
-    "orig_lang_words": ",1200782,1200783,",
-    "target_lang_words": ",894467,",
+    "orig_lang_words": ",1476706,1476707,",
+    "target_lang_words": ",1262799,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1200782,
+        "id": 1476706,
         "book_id": "jhn",
         "chapter": "10",
         "verse": "40",
@@ -1796,7 +994,7 @@
         "morph": "Gr,EA,,,,ANS,"
       },
       {
-        "id": 1200783,
+        "id": 1476707,
         "book_id": "jhn",
         "chapter": "10",
         "verse": "40",
@@ -1813,7 +1011,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 894467,
+        "id": 1262799,
         "book_id": "jhn",
         "chapter": "10",
         "verse": "40",
@@ -1825,22 +1023,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ πρῶτον = first",
-    "frequency": 0.03125,
+    "frequency": 0.0379746835443038,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "235845",
+    "id": "496119",
     "book_id": "jhn",
     "chapter": "12",
     "verse": "16",
     "alignment_num": "5",
-    "orig_lang_words": ",1202023,1202024,",
-    "target_lang_words": ",896024,896025,",
+    "orig_lang_words": ",1477947,1477948,",
+    "target_lang_words": ",1264356,1264357,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1202023,
+        "id": 1477947,
         "book_id": "jhn",
         "chapter": "12",
         "verse": "16",
@@ -1852,7 +1050,7 @@
         "morph": "Gr,EA,,,,ANS,"
       },
       {
-        "id": 1202024,
+        "id": 1477948,
         "book_id": "jhn",
         "chapter": "12",
         "verse": "16",
@@ -1869,7 +1067,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 896024,
+        "id": 1264356,
         "book_id": "jhn",
         "chapter": "12",
         "verse": "16",
@@ -1878,7 +1076,7 @@
         "occurrence": 1
       },
       {
-        "id": 896025,
+        "id": 1264357,
         "book_id": "jhn",
         "chapter": "12",
         "verse": "16",
@@ -1890,22 +1088,22 @@
     "targetWordsTxt": "at first",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸ πρῶτον = at first",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "240408",
+    "id": "500682",
     "book_id": "jhn",
     "chapter": "19",
     "verse": "32",
     "alignment_num": "9",
-    "orig_lang_words": ",1206879,1206880,",
-    "target_lang_words": ",902345,902346,",
+    "orig_lang_words": ",1482803,1482804,",
+    "target_lang_words": ",1270677,1270678,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1206879,
+        "id": 1482803,
         "book_id": "jhn",
         "chapter": "19",
         "verse": "32",
@@ -1917,7 +1115,7 @@
         "morph": "Gr,DO,,,,,,,,"
       },
       {
-        "id": 1206880,
+        "id": 1482804,
         "book_id": "jhn",
         "chapter": "19",
         "verse": "32",
@@ -1934,7 +1132,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 902345,
+        "id": 1270677,
         "book_id": "jhn",
         "chapter": "19",
         "verse": "32",
@@ -1943,7 +1141,7 @@
         "occurrence": 1
       },
       {
-        "id": 902346,
+        "id": 1270678,
         "book_id": "jhn",
         "chapter": "19",
         "verse": "32",
@@ -1955,22 +1153,22 @@
     "targetWordsTxt": "first man",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μὲν πρώτου = first man",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "240514",
+    "id": "500788",
     "book_id": "jhn",
     "chapter": "19",
     "verse": "39",
     "alignment_num": "4",
-    "orig_lang_words": ",1207007,1207008,",
-    "target_lang_words": ",902498,902499,",
+    "orig_lang_words": ",1482931,1482932,",
+    "target_lang_words": ",1270830,1270831,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1207007,
+        "id": 1482931,
         "book_id": "jhn",
         "chapter": "19",
         "verse": "39",
@@ -1982,7 +1180,7 @@
         "morph": "Gr,EA,,,,ANS,"
       },
       {
-        "id": 1207008,
+        "id": 1482932,
         "book_id": "jhn",
         "chapter": "19",
         "verse": "39",
@@ -1999,7 +1197,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 902498,
+        "id": 1270830,
         "book_id": "jhn",
         "chapter": "19",
         "verse": "39",
@@ -2008,7 +1206,7 @@
         "occurrence": 1
       },
       {
-        "id": 902499,
+        "id": 1270831,
         "book_id": "jhn",
         "chapter": "19",
         "verse": "39",
@@ -2020,22 +1218,22 @@
     "targetWordsTxt": "at first",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸ πρῶτον = at first",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "240664",
+    "id": "500938",
     "book_id": "jhn",
     "chapter": "20",
     "verse": "4",
     "alignment_num": "16",
-    "orig_lang_words": ",1207154,",
-    "target_lang_words": ",902699,",
+    "orig_lang_words": ",1483078,",
+    "target_lang_words": ",1271031,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1207154,
+        "id": 1483078,
         "book_id": "jhn",
         "chapter": "20",
         "verse": "4",
@@ -2052,7 +1250,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 902699,
+        "id": 1271031,
         "book_id": "jhn",
         "chapter": "20",
         "verse": "4",
@@ -2064,22 +1262,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "240717",
+    "id": "500991",
     "book_id": "jhn",
     "chapter": "20",
     "verse": "8",
     "alignment_num": "6",
-    "orig_lang_words": ",1207213,",
-    "target_lang_words": ",902769,",
+    "orig_lang_words": ",1483137,",
+    "target_lang_words": ",1271101,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1207213,
+        "id": 1483137,
         "book_id": "jhn",
         "chapter": "20",
         "verse": "8",
@@ -2096,7 +1294,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 902769,
+        "id": 1271101,
         "book_id": "jhn",
         "chapter": "20",
         "verse": "8",
@@ -2108,22 +1306,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "241676",
+    "id": "501950",
     "book_id": "act",
     "chapter": "1",
     "verse": "1",
     "alignment_num": "1",
-    "orig_lang_words": ",1208233,",
-    "target_lang_words": ",904088,",
+    "orig_lang_words": ",1484157,",
+    "target_lang_words": ",1272420,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1208233,
+        "id": 1484157,
         "book_id": "act",
         "chapter": "1",
         "verse": "1",
@@ -2140,7 +1338,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 904088,
+        "id": 1272420,
         "book_id": "act",
         "chapter": "1",
         "verse": "1",
@@ -2152,22 +1350,22 @@
     "targetWordsTxt": "former",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτον = former",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "249188",
+    "id": "509462",
     "book_id": "act",
     "chapter": "12",
     "verse": "10",
     "alignment_num": "2",
-    "orig_lang_words": ",1215979,",
-    "target_lang_words": ",914114,914115,",
+    "orig_lang_words": ",1491903,",
+    "target_lang_words": ",1282446,1282447,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1215979,
+        "id": 1491903,
         "book_id": "act",
         "chapter": "12",
         "verse": "10",
@@ -2184,7 +1382,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 914114,
+        "id": 1282446,
         "book_id": "act",
         "chapter": "12",
         "verse": "10",
@@ -2193,7 +1391,7 @@
         "occurrence": 1
       },
       {
-        "id": 914115,
+        "id": 1282447,
         "book_id": "act",
         "chapter": "12",
         "verse": "10",
@@ -2205,22 +1403,22 @@
     "targetWordsTxt": "the first",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτην = the first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "250372",
+    "id": "510646",
     "book_id": "act",
     "chapter": "13",
     "verse": "50",
     "alignment_num": "10",
-    "orig_lang_words": ",1217178,",
-    "target_lang_words": ",915734,915735,",
+    "orig_lang_words": ",1493102,",
+    "target_lang_words": ",1284066,1284067,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1217178,
+        "id": 1493102,
         "book_id": "act",
         "chapter": "13",
         "verse": "50",
@@ -2237,7 +1435,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 915734,
+        "id": 1284066,
         "book_id": "act",
         "chapter": "13",
         "verse": "50",
@@ -2246,7 +1444,7 @@
         "occurrence": 1
       },
       {
-        "id": 915735,
+        "id": 1284067,
         "book_id": "act",
         "chapter": "13",
         "verse": "50",
@@ -2258,22 +1456,22 @@
     "targetWordsTxt": "leading men",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτους = leading men",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "251726",
+    "id": "512000",
     "book_id": "act",
     "chapter": "16",
     "verse": "12",
     "alignment_num": "5",
-    "orig_lang_words": ",1218586,",
-    "target_lang_words": ",917567,917568,917569,",
+    "orig_lang_words": ",1494510,",
+    "target_lang_words": ",1285899,1285900,1285901,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1218586,
+        "id": 1494510,
         "book_id": "act",
         "chapter": "16",
         "verse": "12",
@@ -2290,7 +1488,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 917567,
+        "id": 1285899,
         "book_id": "act",
         "chapter": "16",
         "verse": "12",
@@ -2299,7 +1497,7 @@
         "occurrence": 1
       },
       {
-        "id": 917568,
+        "id": 1285900,
         "book_id": "act",
         "chapter": "16",
         "verse": "12",
@@ -2308,7 +1506,7 @@
         "occurrence": 1
       },
       {
-        "id": 917569,
+        "id": 1285901,
         "book_id": "act",
         "chapter": "16",
         "verse": "12",
@@ -2320,22 +1518,22 @@
     "targetWordsTxt": "the most important",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πρώτη = the most important",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "252307",
+    "id": "512581",
     "book_id": "act",
     "chapter": "17",
     "verse": "4",
     "alignment_num": "20",
-    "orig_lang_words": ",1219185,",
-    "target_lang_words": ",918374,",
+    "orig_lang_words": ",1495109,",
+    "target_lang_words": ",1286706,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1219185,
+        "id": 1495109,
         "book_id": "act",
         "chapter": "17",
         "verse": "4",
@@ -2352,7 +1550,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 918374,
+        "id": 1286706,
         "book_id": "act",
         "chapter": "17",
         "verse": "4",
@@ -2364,22 +1562,22 @@
     "targetWordsTxt": "leading",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτων = leading",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "254396",
+    "id": "514670",
     "book_id": "act",
     "chapter": "20",
     "verse": "18",
     "alignment_num": "10",
-    "orig_lang_words": ",1221359,",
-    "target_lang_words": ",921193,921194,",
+    "orig_lang_words": ",1497283,",
+    "target_lang_words": ",1289525,1289526,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1221359,
+        "id": 1497283,
         "book_id": "act",
         "chapter": "20",
         "verse": "18",
@@ -2396,7 +1594,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 921193,
+        "id": 1289525,
         "book_id": "act",
         "chapter": "20",
         "verse": "18",
@@ -2405,7 +1603,7 @@
         "occurrence": 1
       },
       {
-        "id": 921194,
+        "id": 1289526,
         "book_id": "act",
         "chapter": "20",
         "verse": "18",
@@ -2417,22 +1615,22 @@
     "targetWordsTxt": "the first",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτης = the first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "257208",
+    "id": "517482",
     "book_id": "act",
     "chapter": "25",
     "verse": "2",
     "alignment_num": "5",
-    "orig_lang_words": ",1224240,",
-    "target_lang_words": ",925074,925075,",
+    "orig_lang_words": ",1500164,",
+    "target_lang_words": ",1293406,1293407,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1224240,
+        "id": 1500164,
         "book_id": "act",
         "chapter": "25",
         "verse": "2",
@@ -2449,7 +1647,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 925074,
+        "id": 1293406,
         "book_id": "act",
         "chapter": "25",
         "verse": "2",
@@ -2458,7 +1656,7 @@
         "occurrence": 1
       },
       {
-        "id": 925075,
+        "id": 1293407,
         "book_id": "act",
         "chapter": "25",
         "verse": "2",
@@ -2470,22 +1668,22 @@
     "targetWordsTxt": "prominent men",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρῶτοι = prominent men",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "258139",
+    "id": "518413",
     "book_id": "act",
     "chapter": "26",
     "verse": "23",
     "alignment_num": "5",
-    "orig_lang_words": ",1225175,",
-    "target_lang_words": ",926383,926384,926385,",
+    "orig_lang_words": ",1501099,",
+    "target_lang_words": ",1294715,1294716,1294717,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1225175,
+        "id": 1501099,
         "book_id": "act",
         "chapter": "26",
         "verse": "23",
@@ -2502,7 +1700,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 926383,
+        "id": 1294715,
         "book_id": "act",
         "chapter": "26",
         "verse": "23",
@@ -2511,7 +1709,7 @@
         "occurrence": 1
       },
       {
-        "id": 926384,
+        "id": 1294716,
         "book_id": "act",
         "chapter": "26",
         "verse": "23",
@@ -2520,7 +1718,7 @@
         "occurrence": 2
       },
       {
-        "id": 926385,
+        "id": 1294717,
         "book_id": "act",
         "chapter": "26",
         "verse": "23",
@@ -2532,22 +1730,22 @@
     "targetWordsTxt": "be the first",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πρῶτος = be the first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "259010",
+    "id": "519284",
     "book_id": "act",
     "chapter": "27",
     "verse": "43",
     "alignment_num": "14",
-    "orig_lang_words": ",1226068,",
-    "target_lang_words": ",927637,",
+    "orig_lang_words": ",1501992,",
+    "target_lang_words": ",1295969,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1226068,
+        "id": 1501992,
         "book_id": "act",
         "chapter": "27",
         "verse": "43",
@@ -2564,7 +1762,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 927637,
+        "id": 1295969,
         "book_id": "act",
         "chapter": "27",
         "verse": "43",
@@ -2576,22 +1774,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτους = first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "259167",
+    "id": "519441",
     "book_id": "act",
     "chapter": "28",
     "verse": "7",
     "alignment_num": "10",
-    "orig_lang_words": ",1226230,",
-    "target_lang_words": ",927844,",
+    "orig_lang_words": ",1502154,",
+    "target_lang_words": ",1296176,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1226230,
+        "id": 1502154,
         "book_id": "act",
         "chapter": "28",
         "verse": "7",
@@ -2608,7 +1806,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 927844,
+        "id": 1296176,
         "book_id": "act",
         "chapter": "28",
         "verse": "7",
@@ -2620,22 +1818,22 @@
     "targetWordsTxt": "chief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτῳ = chief",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "259325",
+    "id": "519599",
     "book_id": "act",
     "chapter": "28",
     "verse": "17",
     "alignment_num": "9",
-    "orig_lang_words": ",1226398,",
-    "target_lang_words": ",928072,928073,",
+    "orig_lang_words": ",1502322,",
+    "target_lang_words": ",1296404,1296405,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1226398,
+        "id": 1502322,
         "book_id": "act",
         "chapter": "28",
         "verse": "17",
@@ -2652,7 +1850,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 928072,
+        "id": 1296404,
         "book_id": "act",
         "chapter": "28",
         "verse": "17",
@@ -2661,7 +1859,7 @@
         "occurrence": 1
       },
       {
-        "id": 928073,
+        "id": 1296405,
         "book_id": "act",
         "chapter": "28",
         "verse": "17",
@@ -2673,22 +1871,22 @@
     "targetWordsTxt": "the leaders",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτους = the leaders",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "263806",
+    "id": "524080",
     "book_id": "rom",
     "chapter": "10",
     "verse": "19",
     "alignment_num": "4",
-    "orig_lang_words": ",1231263,",
-    "target_lang_words": ",934925,",
+    "orig_lang_words": ",1507187,",
+    "target_lang_words": ",1303257,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1231263,
+        "id": 1507187,
         "book_id": "rom",
         "chapter": "10",
         "verse": "19",
@@ -2705,7 +1903,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 934925,
+        "id": 1303257,
         "book_id": "rom",
         "chapter": "10",
         "verse": "19",
@@ -2717,22 +1915,22 @@
     "targetWordsTxt": "First",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = First",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "271508",
+    "id": "531782",
     "book_id": "1co",
     "chapter": "14",
     "verse": "30",
     "alignment_num": "7",
-    "orig_lang_words": ",1239352,",
-    "target_lang_words": ",946461,",
+    "orig_lang_words": ",1515276,",
+    "target_lang_words": ",1314793,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1239352,
+        "id": 1515276,
         "book_id": "1co",
         "chapter": "14",
         "verse": "30",
@@ -2749,7 +1947,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 946461,
+        "id": 1314793,
         "book_id": "1co",
         "chapter": "14",
         "verse": "30",
@@ -2761,22 +1959,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "271663",
+    "id": "531937",
     "book_id": "1co",
     "chapter": "15",
     "verse": "3",
     "alignment_num": "4",
-    "orig_lang_words": ",1239508,",
-    "target_lang_words": ",946692,946693,",
+    "orig_lang_words": ",1515432,",
+    "target_lang_words": ",1315024,1315025,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1239508,
+        "id": 1515432,
         "book_id": "1co",
         "chapter": "15",
         "verse": "3",
@@ -2793,7 +1991,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 946692,
+        "id": 1315024,
         "book_id": "1co",
         "chapter": "15",
         "verse": "3",
@@ -2802,7 +2000,7 @@
         "occurrence": 1
       },
       {
-        "id": 946693,
+        "id": 1315025,
         "book_id": "1co",
         "chapter": "15",
         "verse": "3",
@@ -2814,22 +2012,22 @@
     "targetWordsTxt": "first importance",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτοις = first importance",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "272240",
+    "id": "532514",
     "book_id": "1co",
     "chapter": "15",
     "verse": "45",
     "alignment_num": "4",
-    "orig_lang_words": ",1240107,",
-    "target_lang_words": ",947537,",
+    "orig_lang_words": ",1516031,",
+    "target_lang_words": ",1315869,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1240107,
+        "id": 1516031,
         "book_id": "1co",
         "chapter": "15",
         "verse": "45",
@@ -2846,7 +2044,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 947537,
+        "id": 1315869,
         "book_id": "1co",
         "chapter": "15",
         "verse": "45",
@@ -2858,22 +2056,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "272265",
+    "id": "532539",
     "book_id": "1co",
     "chapter": "15",
     "verse": "47",
     "alignment_num": "1",
-    "orig_lang_words": ",1240131,",
-    "target_lang_words": ",947567,",
+    "orig_lang_words": ",1516055,",
+    "target_lang_words": ",1315899,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1240131,
+        "id": 1516055,
         "book_id": "1co",
         "chapter": "15",
         "verse": "47",
@@ -2890,7 +2088,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 947567,
+        "id": 1315899,
         "book_id": "1co",
         "chapter": "15",
         "verse": "47",
@@ -2902,22 +2100,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "281297",
+    "id": "541571",
     "book_id": "eph",
     "chapter": "6",
     "verse": "2",
     "alignment_num": "7",
-    "orig_lang_words": ",1249388,",
-    "target_lang_words": ",960543,960544,",
+    "orig_lang_words": ",1525312,",
+    "target_lang_words": ",1328875,1328876,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1249388,
+        "id": 1525312,
         "book_id": "eph",
         "chapter": "6",
         "verse": "2",
@@ -2934,7 +2132,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 960543,
+        "id": 1328875,
         "book_id": "eph",
         "chapter": "6",
         "verse": "2",
@@ -2943,7 +2141,7 @@
         "occurrence": 1
       },
       {
-        "id": 960544,
+        "id": 1328876,
         "book_id": "eph",
         "chapter": "6",
         "verse": "2",
@@ -2955,22 +2153,22 @@
     "targetWordsTxt": "the first",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτη = the first",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "281719",
+    "id": "541993",
     "book_id": "php",
     "chapter": "1",
     "verse": "5",
     "alignment_num": "8",
-    "orig_lang_words": ",1249822,",
-    "target_lang_words": ",961091,",
+    "orig_lang_words": ",1525746,",
+    "target_lang_words": ",1329423,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1249822,
+        "id": 1525746,
         "book_id": "php",
         "chapter": "1",
         "verse": "5",
@@ -2987,7 +2185,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 961091,
+        "id": 1329423,
         "book_id": "php",
         "chapter": "1",
         "verse": "5",
@@ -2999,22 +2197,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτης = first",
-    "frequency": 0.03125,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "287093",
+    "id": "547367",
     "book_id": "1ti",
     "chapter": "1",
     "verse": "15",
     "alignment_num": "20",
-    "orig_lang_words": ",1255484,",
-    "target_lang_words": ",968852,968853,",
+    "orig_lang_words": ",1531408,",
+    "target_lang_words": ",1337184,1337185,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1255484,
+        "id": 1531408,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "15",
@@ -3031,7 +2229,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 968852,
+        "id": 1337184,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "15",
@@ -3040,7 +2238,7 @@
         "occurrence": 2
       },
       {
-        "id": 968853,
+        "id": 1337185,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "15",
@@ -3052,22 +2250,22 @@
     "targetWordsTxt": "the worst",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρῶτός = the worst",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "287101",
+    "id": "547375",
     "book_id": "1ti",
     "chapter": "1",
     "verse": "16",
     "alignment_num": "7",
-    "orig_lang_words": ",1255494,",
-    "target_lang_words": ",968866,968867,",
+    "orig_lang_words": ",1531418,",
+    "target_lang_words": ",1337198,1337199,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1255494,
+        "id": 1531418,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "16",
@@ -3084,7 +2282,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 968866,
+        "id": 1337198,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "16",
@@ -3093,7 +2291,7 @@
         "occurrence": 1
       },
       {
-        "id": 968867,
+        "id": 1337199,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "16",
@@ -3105,22 +2303,22 @@
     "targetWordsTxt": "the foremost",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτῳ = the foremost",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "287338",
+    "id": "547612",
     "book_id": "1ti",
     "chapter": "2",
     "verse": "13",
     "alignment_num": "3",
-    "orig_lang_words": ",1255731,",
-    "target_lang_words": ",969194,",
+    "orig_lang_words": ",1531655,",
+    "target_lang_words": ",1337526,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1255731,
+        "id": 1531655,
         "book_id": "1ti",
         "chapter": "2",
         "verse": "13",
@@ -3137,7 +2335,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 969194,
+        "id": 1337526,
         "book_id": "1ti",
         "chapter": "2",
         "verse": "13",
@@ -3149,22 +2347,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "287963",
+    "id": "548237",
     "book_id": "1ti",
     "chapter": "5",
     "verse": "12",
     "alignment_num": "5",
-    "orig_lang_words": ",1256331,",
-    "target_lang_words": ",970082,",
+    "orig_lang_words": ",1532255,",
+    "target_lang_words": ",1338414,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1256331,
+        "id": 1532255,
         "book_id": "1ti",
         "chapter": "5",
         "verse": "12",
@@ -3181,7 +2379,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 970082,
+        "id": 1338414,
         "book_id": "1ti",
         "chapter": "5",
         "verse": "12",
@@ -3193,22 +2391,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτην = first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "289614",
+    "id": "549888",
     "book_id": "2ti",
     "chapter": "4",
     "verse": "16",
     "alignment_num": "2",
-    "orig_lang_words": ",1257988,1257989,",
-    "target_lang_words": ",972388,",
+    "orig_lang_words": ",1533912,1533913,",
+    "target_lang_words": ",1340720,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1257988,
+        "id": 1533912,
         "book_id": "2ti",
         "chapter": "4",
         "verse": "16",
@@ -3220,7 +2418,7 @@
         "morph": "Gr,EA,,,,DFS,"
       },
       {
-        "id": 1257989,
+        "id": 1533913,
         "book_id": "2ti",
         "chapter": "4",
         "verse": "16",
@@ -3237,7 +2435,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 972388,
+        "id": 1340720,
         "book_id": "2ti",
         "chapter": "4",
         "verse": "16",
@@ -3249,22 +2447,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῇ πρώτῃ = first",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "292832",
+    "id": "553106",
     "book_id": "heb",
     "chapter": "8",
     "verse": "7",
     "alignment_num": "3",
-    "orig_lang_words": ",1261333,1261334,",
-    "target_lang_words": ",977149,",
+    "orig_lang_words": ",1537257,1537258,",
+    "target_lang_words": ",1345481,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1261333,
+        "id": 1537257,
         "book_id": "heb",
         "chapter": "8",
         "verse": "7",
@@ -3276,7 +2474,7 @@
         "morph": "Gr,EA,,,,NFS,"
       },
       {
-        "id": 1261334,
+        "id": 1537258,
         "book_id": "heb",
         "chapter": "8",
         "verse": "7",
@@ -3293,7 +2491,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 977149,
+        "id": 1345481,
         "book_id": "heb",
         "chapter": "8",
         "verse": "7",
@@ -3305,22 +2503,22 @@
     "targetWordsTxt": "covenant",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἡ πρώτη = covenant",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "292971",
+    "id": "553245",
     "book_id": "heb",
     "chapter": "8",
     "verse": "13",
     "alignment_num": "5",
-    "orig_lang_words": ",1261484,",
-    "target_lang_words": ",977351,977352,",
+    "orig_lang_words": ",1537408,",
+    "target_lang_words": ",1345683,1345684,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1261484,
+        "id": 1537408,
         "book_id": "heb",
         "chapter": "8",
         "verse": "13",
@@ -3337,7 +2535,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 977351,
+        "id": 1345683,
         "book_id": "heb",
         "chapter": "8",
         "verse": "13",
@@ -3346,7 +2544,7 @@
         "occurrence": 1
       },
       {
-        "id": 977352,
+        "id": 1345684,
         "book_id": "heb",
         "chapter": "8",
         "verse": "13",
@@ -3358,22 +2556,22 @@
     "targetWordsTxt": "first covenant",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτην = first covenant",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "292984",
+    "id": "553258",
     "book_id": "heb",
     "chapter": "9",
     "verse": "1",
     "alignment_num": "3",
-    "orig_lang_words": ",1261496,",
-    "target_lang_words": ",977367,977368,",
+    "orig_lang_words": ",1537420,",
+    "target_lang_words": ",1345699,1345700,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1261496,
+        "id": 1537420,
         "book_id": "heb",
         "chapter": "9",
         "verse": "1",
@@ -3390,7 +2588,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 977367,
+        "id": 1345699,
         "book_id": "heb",
         "chapter": "9",
         "verse": "1",
@@ -3399,7 +2597,7 @@
         "occurrence": 1
       },
       {
-        "id": 977368,
+        "id": 1345700,
         "book_id": "heb",
         "chapter": "9",
         "verse": "1",
@@ -3411,22 +2609,22 @@
     "targetWordsTxt": "first covenant",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτη = first covenant",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "292995",
+    "id": "553269",
     "book_id": "heb",
     "chapter": "9",
     "verse": "2",
     "alignment_num": "4",
-    "orig_lang_words": ",1261507,",
-    "target_lang_words": ",977383,977384,",
+    "orig_lang_words": ",1537431,",
+    "target_lang_words": ",1345715,1345716,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1261507,
+        "id": 1537431,
         "book_id": "heb",
         "chapter": "9",
         "verse": "2",
@@ -3443,7 +2641,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 977383,
+        "id": 1345715,
         "book_id": "heb",
         "chapter": "9",
         "verse": "2",
@@ -3452,7 +2650,7 @@
         "occurrence": 1
       },
       {
-        "id": 977384,
+        "id": 1345716,
         "book_id": "heb",
         "chapter": "9",
         "verse": "2",
@@ -3464,22 +2662,22 @@
     "targetWordsTxt": "first room",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτη = first room",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "293071",
+    "id": "553345",
     "book_id": "heb",
     "chapter": "9",
     "verse": "6",
     "alignment_num": "11",
-    "orig_lang_words": ",1261586,",
-    "target_lang_words": ",977494,",
+    "orig_lang_words": ",1537510,",
+    "target_lang_words": ",1345826,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1261586,
+        "id": 1537510,
         "book_id": "heb",
         "chapter": "9",
         "verse": "6",
@@ -3496,7 +2694,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 977494,
+        "id": 1345826,
         "book_id": "heb",
         "chapter": "9",
         "verse": "6",
@@ -3508,22 +2706,22 @@
     "targetWordsTxt": "outer",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτην = outer",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "293110",
+    "id": "553384",
     "book_id": "heb",
     "chapter": "9",
     "verse": "8",
     "alignment_num": "13",
-    "orig_lang_words": ",1261632,",
-    "target_lang_words": ",977551,",
+    "orig_lang_words": ",1537556,",
+    "target_lang_words": ",1345883,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1261632,
+        "id": 1537556,
         "book_id": "heb",
         "chapter": "9",
         "verse": "8",
@@ -3540,7 +2738,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 977551,
+        "id": 1345883,
         "book_id": "heb",
         "chapter": "9",
         "verse": "8",
@@ -3552,22 +2750,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτης = first",
-    "frequency": 0.03125,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "293255",
+    "id": "553529",
     "book_id": "heb",
     "chapter": "9",
     "verse": "15",
     "alignment_num": "22",
-    "orig_lang_words": ",1261772,",
-    "target_lang_words": ",977769,",
+    "orig_lang_words": ",1537696,",
+    "target_lang_words": ",1346101,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1261772,
+        "id": 1537696,
         "book_id": "heb",
         "chapter": "9",
         "verse": "15",
@@ -3584,7 +2782,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 977769,
+        "id": 1346101,
         "book_id": "heb",
         "chapter": "9",
         "verse": "15",
@@ -3596,22 +2794,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτῃ = first",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "293284",
+    "id": "553558",
     "book_id": "heb",
     "chapter": "9",
     "verse": "18",
     "alignment_num": "3",
-    "orig_lang_words": ",1261806,",
-    "target_lang_words": ",977822,977823,",
+    "orig_lang_words": ",1537730,",
+    "target_lang_words": ",1346154,1346155,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1261806,
+        "id": 1537730,
         "book_id": "heb",
         "chapter": "9",
         "verse": "18",
@@ -3628,7 +2826,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 977822,
+        "id": 1346154,
         "book_id": "heb",
         "chapter": "9",
         "verse": "18",
@@ -3637,7 +2835,7 @@
         "occurrence": 1
       },
       {
-        "id": 977823,
+        "id": 1346155,
         "book_id": "heb",
         "chapter": "9",
         "verse": "18",
@@ -3649,22 +2847,22 @@
     "targetWordsTxt": "first covenant",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτη = first covenant",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "293592",
+    "id": "553866",
     "book_id": "heb",
     "chapter": "10",
     "verse": "9",
     "alignment_num": "9",
-    "orig_lang_words": ",1262130,",
-    "target_lang_words": ",978319,978320,",
+    "orig_lang_words": ",1538054,",
+    "target_lang_words": ",1346651,1346652,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1262130,
+        "id": 1538054,
         "book_id": "heb",
         "chapter": "10",
         "verse": "9",
@@ -3681,7 +2879,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 978319,
+        "id": 1346651,
         "book_id": "heb",
         "chapter": "10",
         "verse": "9",
@@ -3690,7 +2888,7 @@
         "occurrence": 1
       },
       {
-        "id": 978320,
+        "id": 1346652,
         "book_id": "heb",
         "chapter": "10",
         "verse": "9",
@@ -3702,22 +2900,22 @@
     "targetWordsTxt": "first practice",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρῶτον = first practice",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "299285",
+    "id": "559559",
     "book_id": "2pe",
     "chapter": "2",
     "verse": "20",
     "alignment_num": "26",
-    "orig_lang_words": ",1268171,1268172,",
-    "target_lang_words": ",987129,987130,987131,",
+    "orig_lang_words": ",1544095,1544096,",
+    "target_lang_words": ",1355461,1355462,1355463,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1268171,
+        "id": 1544095,
         "book_id": "2pe",
         "chapter": "2",
         "verse": "20",
@@ -3729,7 +2927,7 @@
         "morph": "Gr,EA,,,,GNP,"
       },
       {
-        "id": 1268172,
+        "id": 1544096,
         "book_id": "2pe",
         "chapter": "2",
         "verse": "20",
@@ -3746,7 +2944,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 987129,
+        "id": 1355461,
         "book_id": "2pe",
         "chapter": "2",
         "verse": "20",
@@ -3755,7 +2953,7 @@
         "occurrence": 1
       },
       {
-        "id": 987130,
+        "id": 1355462,
         "book_id": "2pe",
         "chapter": "2",
         "verse": "20",
@@ -3764,7 +2962,7 @@
         "occurrence": 5
       },
       {
-        "id": 987131,
+        "id": 1355463,
         "book_id": "2pe",
         "chapter": "2",
         "verse": "20",
@@ -3776,22 +2974,22 @@
     "targetWordsTxt": "than the first",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τῶν πρώτων = than the first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "301140",
+    "id": "561414",
     "book_id": "1jn",
     "chapter": "4",
     "verse": "19",
     "alignment_num": "4",
-    "orig_lang_words": ",1270209,",
-    "target_lang_words": ",989719,",
+    "orig_lang_words": ",1546133,",
+    "target_lang_words": ",1358051,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1270209,
+        "id": 1546133,
         "book_id": "1jn",
         "chapter": "4",
         "verse": "19",
@@ -3808,7 +3006,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 989719,
+        "id": 1358051,
         "book_id": "1jn",
         "chapter": "4",
         "verse": "19",
@@ -3820,22 +3018,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "302793",
+    "id": "563067",
     "book_id": "rev",
     "chapter": "1",
     "verse": "17",
     "alignment_num": "20",
-    "orig_lang_words": ",1272004,",
-    "target_lang_words": ",992085,",
+    "orig_lang_words": ",1547928,",
+    "target_lang_words": ",1360417,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1272004,
+        "id": 1547928,
         "book_id": "rev",
         "chapter": "1",
         "verse": "17",
@@ -3852,7 +3050,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 992085,
+        "id": 1360417,
         "book_id": "rev",
         "chapter": "1",
         "verse": "17",
@@ -3864,22 +3062,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "302921",
+    "id": "563195",
     "book_id": "rev",
     "chapter": "2",
     "verse": "4",
     "alignment_num": "7",
-    "orig_lang_words": ",1272155,1272156,",
-    "target_lang_words": ",992276,",
+    "orig_lang_words": ",1548079,1548080,",
+    "target_lang_words": ",1360608,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1272155,
+        "id": 1548079,
         "book_id": "rev",
         "chapter": "2",
         "verse": "4",
@@ -3891,7 +3089,7 @@
         "morph": "Gr,EA,,,,AFS,"
       },
       {
-        "id": 1272156,
+        "id": 1548080,
         "book_id": "rev",
         "chapter": "2",
         "verse": "4",
@@ -3908,7 +3106,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 992276,
+        "id": 1360608,
         "book_id": "rev",
         "chapter": "2",
         "verse": "4",
@@ -3920,22 +3118,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν πρώτην = first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "302932",
+    "id": "563206",
     "book_id": "rev",
     "chapter": "2",
     "verse": "5",
     "alignment_num": "9",
-    "orig_lang_words": ",1272166,",
-    "target_lang_words": ",992290,992291,992292,992293,",
+    "orig_lang_words": ",1548090,",
+    "target_lang_words": ",1360622,1360623,1360624,1360625,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1272166,
+        "id": 1548090,
         "book_id": "rev",
         "chapter": "2",
         "verse": "5",
@@ -3952,7 +3150,7 @@
     "targetSpan": 3,
     "targetWords": [
       {
-        "id": 992290,
+        "id": 1360622,
         "book_id": "rev",
         "chapter": "2",
         "verse": "5",
@@ -3961,7 +3159,7 @@
         "occurrence": 2
       },
       {
-        "id": 992291,
+        "id": 1360623,
         "book_id": "rev",
         "chapter": "2",
         "verse": "5",
@@ -3970,7 +3168,7 @@
         "occurrence": 1
       },
       {
-        "id": 992292,
+        "id": 1360624,
         "book_id": "rev",
         "chapter": "2",
         "verse": "5",
@@ -3979,7 +3177,7 @@
         "occurrence": 1
       },
       {
-        "id": 992293,
+        "id": 1360625,
         "book_id": "rev",
         "chapter": "2",
         "verse": "5",
@@ -3991,22 +3189,22 @@
     "targetWordsTxt": "you did at first",
     "alignmentTargetWords": 4,
     "alignmentTxt": "πρῶτα = you did at first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "302994",
+    "id": "563268",
     "book_id": "rev",
     "chapter": "2",
     "verse": "8",
     "alignment_num": "8",
-    "orig_lang_words": ",1272236,",
-    "target_lang_words": ",992383,992384,992385,992386,",
+    "orig_lang_words": ",1548160,",
+    "target_lang_words": ",1360715,1360716,1360717,1360718,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1272236,
+        "id": 1548160,
         "book_id": "rev",
         "chapter": "2",
         "verse": "8",
@@ -4023,7 +3221,7 @@
     "targetSpan": 3,
     "targetWords": [
       {
-        "id": 992383,
+        "id": 1360715,
         "book_id": "rev",
         "chapter": "2",
         "verse": "8",
@@ -4032,7 +3230,7 @@
         "occurrence": 1
       },
       {
-        "id": 992384,
+        "id": 1360716,
         "book_id": "rev",
         "chapter": "2",
         "verse": "8",
@@ -4041,7 +3239,7 @@
         "occurrence": 1
       },
       {
-        "id": 992385,
+        "id": 1360717,
         "book_id": "rev",
         "chapter": "2",
         "verse": "8",
@@ -4050,7 +3248,7 @@
         "occurrence": 3
       },
       {
-        "id": 992386,
+        "id": 1360718,
         "book_id": "rev",
         "chapter": "2",
         "verse": "8",
@@ -4062,22 +3260,22 @@
     "targetWordsTxt": "who is the first",
     "alignmentTargetWords": 4,
     "alignmentTxt": "πρῶτος = who is the first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "303254",
+    "id": "563528",
     "book_id": "rev",
     "chapter": "2",
     "verse": "19",
     "alignment_num": "17",
-    "orig_lang_words": ",1272522,",
-    "target_lang_words": ",992772,992773,",
+    "orig_lang_words": ",1548446,",
+    "target_lang_words": ",1361104,1361105,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1272522,
+        "id": 1548446,
         "book_id": "rev",
         "chapter": "2",
         "verse": "19",
@@ -4094,7 +3292,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 992772,
+        "id": 1361104,
         "book_id": "rev",
         "chapter": "2",
         "verse": "19",
@@ -4103,7 +3301,7 @@
         "occurrence": 1
       },
       {
-        "id": 992773,
+        "id": 1361105,
         "book_id": "rev",
         "chapter": "2",
         "verse": "19",
@@ -4115,22 +3313,22 @@
     "targetWordsTxt": "previous works",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρώτων = previous works",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "303894",
+    "id": "564168",
     "book_id": "rev",
     "chapter": "4",
     "verse": "1",
     "alignment_num": "11",
-    "orig_lang_words": ",1273237,1273238,",
-    "target_lang_words": ",993686,",
+    "orig_lang_words": ",1549161,1549162,",
+    "target_lang_words": ",1362018,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1273237,
+        "id": 1549161,
         "book_id": "rev",
         "chapter": "4",
         "verse": "1",
@@ -4142,7 +3340,7 @@
         "morph": "Gr,EA,,,,NFS,"
       },
       {
-        "id": 1273238,
+        "id": 1549162,
         "book_id": "rev",
         "chapter": "4",
         "verse": "1",
@@ -4159,7 +3357,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 993686,
+        "id": 1362018,
         "book_id": "rev",
         "chapter": "4",
         "verse": "1",
@@ -4171,22 +3369,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἡ πρώτη = first",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "304011",
+    "id": "564285",
     "book_id": "rev",
     "chapter": "4",
     "verse": "7",
     "alignment_num": "1",
-    "orig_lang_words": ",1273369,1273370,",
-    "target_lang_words": ",993847,",
+    "orig_lang_words": ",1549293,1549294,",
+    "target_lang_words": ",1362179,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1273369,
+        "id": 1549293,
         "book_id": "rev",
         "chapter": "4",
         "verse": "7",
@@ -4198,7 +3396,7 @@
         "morph": "Gr,EA,,,,NNS,"
       },
       {
-        "id": 1273370,
+        "id": 1549294,
         "book_id": "rev",
         "chapter": "4",
         "verse": "7",
@@ -4215,7 +3413,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 993847,
+        "id": 1362179,
         "book_id": "rev",
         "chapter": "4",
         "verse": "7",
@@ -4227,22 +3425,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ πρῶτον = first",
-    "frequency": 0.03125,
+    "frequency": 0.0379746835443038,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "305310",
+    "id": "565584",
     "book_id": "rev",
     "chapter": "8",
     "verse": "7",
     "alignment_num": "1",
-    "orig_lang_words": ",1274792,",
-    "target_lang_words": ",995630,995631,",
+    "orig_lang_words": ",1550716,",
+    "target_lang_words": ",1363962,1363963,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1274792,
+        "id": 1550716,
         "book_id": "rev",
         "chapter": "8",
         "verse": "7",
@@ -4259,7 +3457,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 995630,
+        "id": 1363962,
         "book_id": "rev",
         "chapter": "8",
         "verse": "7",
@@ -4268,7 +3466,7 @@
         "occurrence": 1
       },
       {
-        "id": 995631,
+        "id": 1363963,
         "book_id": "rev",
         "chapter": "8",
         "verse": "7",
@@ -4280,22 +3478,22 @@
     "targetWordsTxt": "first angel",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρῶτος = first angel",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "307245",
+    "id": "567519",
     "book_id": "rev",
     "chapter": "13",
     "verse": "12",
     "alignment_num": "5",
-    "orig_lang_words": ",1276964,",
-    "target_lang_words": ",998256,",
+    "orig_lang_words": ",1552888,",
+    "target_lang_words": ",1366588,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1276964,
+        "id": 1552888,
         "book_id": "rev",
         "chapter": "13",
         "verse": "12",
@@ -4312,7 +3510,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 998256,
+        "id": 1366588,
         "book_id": "rev",
         "chapter": "13",
         "verse": "12",
@@ -4324,22 +3522,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτου = first",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "307262",
+    "id": "567536",
     "book_id": "rev",
     "chapter": "13",
     "verse": "12",
     "alignment_num": "22",
-    "orig_lang_words": ",1276983,1276984,",
-    "target_lang_words": ",998275,",
+    "orig_lang_words": ",1552907,1552908,",
+    "target_lang_words": ",1366607,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1276983,
+        "id": 1552907,
         "book_id": "rev",
         "chapter": "13",
         "verse": "12",
@@ -4351,7 +3549,7 @@
         "morph": "Gr,EA,,,,ANS,"
       },
       {
-        "id": 1276984,
+        "id": 1552908,
         "book_id": "rev",
         "chapter": "13",
         "verse": "12",
@@ -4368,7 +3566,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 998275,
+        "id": 1366607,
         "book_id": "rev",
         "chapter": "13",
         "verse": "12",
@@ -4380,22 +3578,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ πρῶτον = first",
-    "frequency": 0.03125,
+    "frequency": 0.0379746835443038,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "308128",
+    "id": "568402",
     "book_id": "rev",
     "chapter": "16",
     "verse": "2",
     "alignment_num": "2",
-    "orig_lang_words": ",1277946,",
-    "target_lang_words": ",999394,999395,",
+    "orig_lang_words": ",1553870,",
+    "target_lang_words": ",1367726,1367727,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1277946,
+        "id": 1553870,
         "book_id": "rev",
         "chapter": "16",
         "verse": "2",
@@ -4412,7 +3610,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 999394,
+        "id": 1367726,
         "book_id": "rev",
         "chapter": "16",
         "verse": "2",
@@ -4421,7 +3619,7 @@
         "occurrence": 1
       },
       {
-        "id": 999395,
+        "id": 1367727,
         "book_id": "rev",
         "chapter": "16",
         "verse": "2",
@@ -4433,22 +3631,22 @@
     "targetWordsTxt": "first angel",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρῶτος = first angel",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "310078",
+    "id": "570352",
     "book_id": "rev",
     "chapter": "20",
     "verse": "5",
     "alignment_num": "14",
-    "orig_lang_words": ",1280113,1280114,",
-    "target_lang_words": ",1002035,",
+    "orig_lang_words": ",1556037,1556038,",
+    "target_lang_words": ",1370367,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1280113,
+        "id": 1556037,
         "book_id": "rev",
         "chapter": "20",
         "verse": "5",
@@ -4460,7 +3658,7 @@
         "morph": "Gr,EA,,,,NFS,"
       },
       {
-        "id": 1280114,
+        "id": 1556038,
         "book_id": "rev",
         "chapter": "20",
         "verse": "5",
@@ -4477,7 +3675,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1002035,
+        "id": 1370367,
         "book_id": "rev",
         "chapter": "20",
         "verse": "5",
@@ -4489,22 +3687,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἡ πρώτη = first",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "310087",
+    "id": "570361",
     "book_id": "rev",
     "chapter": "20",
     "verse": "6",
     "alignment_num": "7",
-    "orig_lang_words": ",1280124,1280125,",
-    "target_lang_words": ",1002049,",
+    "orig_lang_words": ",1556048,1556049,",
+    "target_lang_words": ",1370381,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1280124,
+        "id": 1556048,
         "book_id": "rev",
         "chapter": "20",
         "verse": "6",
@@ -4516,7 +3714,7 @@
         "morph": "Gr,EA,,,,DFS,"
       },
       {
-        "id": 1280125,
+        "id": 1556049,
         "book_id": "rev",
         "chapter": "20",
         "verse": "6",
@@ -4533,7 +3731,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1002049,
+        "id": 1370381,
         "book_id": "rev",
         "chapter": "20",
         "verse": "6",
@@ -4545,22 +3743,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῇ πρώτῃ = first",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "310323",
+    "id": "570597",
     "book_id": "rev",
     "chapter": "21",
     "verse": "1",
     "alignment_num": "11",
-    "orig_lang_words": ",1280388,",
-    "target_lang_words": ",1002358,",
+    "orig_lang_words": ",1556312,",
+    "target_lang_words": ",1370690,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1280388,
+        "id": 1556312,
         "book_id": "rev",
         "chapter": "21",
         "verse": "1",
@@ -4577,7 +3775,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1002358,
+        "id": 1370690,
         "book_id": "rev",
         "chapter": "21",
         "verse": "1",
@@ -4589,22 +3787,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "310327",
+    "id": "570601",
     "book_id": "rev",
     "chapter": "21",
     "verse": "1",
     "alignment_num": "15",
-    "orig_lang_words": ",1280392,",
-    "target_lang_words": ",1002362,",
+    "orig_lang_words": ",1556316,",
+    "target_lang_words": ",1370694,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1280392,
+        "id": 1556316,
         "book_id": "rev",
         "chapter": "21",
         "verse": "1",
@@ -4621,7 +3819,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1002362,
+        "id": 1370694,
         "book_id": "rev",
         "chapter": "21",
         "verse": "1",
@@ -4633,22 +3831,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρώτη = first",
-    "frequency": 0.03125,
+    "frequency": 0.02531645569620253,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "310406",
+    "id": "570680",
     "book_id": "rev",
     "chapter": "21",
     "verse": "4",
     "alignment_num": "22",
-    "orig_lang_words": ",1280479,",
-    "target_lang_words": ",1002462,1002463,",
+    "orig_lang_words": ",1556403,",
+    "target_lang_words": ",1370794,1370795,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1280479,
+        "id": 1556403,
         "book_id": "rev",
         "chapter": "21",
         "verse": "4",
@@ -4665,7 +3863,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1002462,
+        "id": 1370794,
         "book_id": "rev",
         "chapter": "21",
         "verse": "4",
@@ -4674,7 +3872,7 @@
         "occurrence": 1
       },
       {
-        "id": 1002463,
+        "id": 1370795,
         "book_id": "rev",
         "chapter": "21",
         "verse": "4",
@@ -4686,22 +3884,22 @@
     "targetWordsTxt": "former things",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πρῶτα = former things",
-    "frequency": 0.010416666666666666,
+    "frequency": 0.012658227848101266,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "310702",
+    "id": "570976",
     "book_id": "rev",
     "chapter": "21",
     "verse": "19",
     "alignment_num": "12",
-    "orig_lang_words": ",1280810,",
-    "target_lang_words": ",1002873,",
+    "orig_lang_words": ",1556734,",
+    "target_lang_words": ",1371205,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1280810,
+        "id": 1556734,
         "book_id": "rev",
         "chapter": "21",
         "verse": "19",
@@ -4718,7 +3916,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1002873,
+        "id": 1371205,
         "book_id": "rev",
         "chapter": "21",
         "verse": "19",
@@ -4730,22 +3928,22 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "311091",
+    "id": "571365",
     "book_id": "rev",
     "chapter": "22",
     "verse": "13",
     "alignment_num": "7",
-    "orig_lang_words": ",1281251,",
-    "target_lang_words": ",1003445,",
+    "orig_lang_words": ",1557175,",
+    "target_lang_words": ",1371777,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1281251,
+        "id": 1557175,
         "book_id": "rev",
         "chapter": "22",
         "verse": "13",
@@ -4762,7 +3960,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1003445,
+        "id": 1371777,
         "book_id": "rev",
         "chapter": "22",
         "verse": "13",
@@ -4774,7 +3972,7 @@
     "targetWordsTxt": "first",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πρῶτος = first",
-    "frequency": 0.19791666666666666,
+    "frequency": 0.21518987341772153,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

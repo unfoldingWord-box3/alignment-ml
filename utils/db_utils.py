@@ -663,6 +663,23 @@ def addDataToAlignmentsAndClean(alignments):
             count = countsMap[alignmentText]
             ratio = count / totalCount
             alignment['frequency'] = ratio
+        wordCount = alignment['alignmentTargetWords']
+        if wordCount > 1:
+            words = alignment['targetWordsTxt'].split(' ')
+            if 's' in words: # combine apostrophe
+                pos = words.index('s')
+                if pos > 0:
+                    firstPart = words[pos-1]
+                    secondPart = words[pos]
+                    words[pos-1] = firstPart + "'" + secondPart
+                    words.remove('s')
+                    newText = ' '.join(words)
+                    print(f"Replacing '{alignment['targetWordsTxt']}' with '{newText}'")
+                    alignment['targetWordsTxt'] = newText
+                    alignment['alignmentTxt'] = alignment['origWordsTxt'] + " = " + newText
+                    alignment['alignmentTargetWords'] -= 1
+                    alignment['targetSpan'] -= 1
+
         for key in ['id', 'alignment_num']:
             alignment[key] = str(alignment[key]) # converts identification fields to str so that we don't mistakenly try to use for analysis
         alignment['origWordsBetween'] = alignment['origSpan'] - (alignment['alignmentOrigWords'] - 1)
@@ -749,9 +766,19 @@ def findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLe
     results = addDataToAlignmentsAndClean(alignments)
     return results
 
-def saveAlignmentDataForWords(connection, key, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = True):
+def filterForMinLen(sequence, minLen):
+    def filterFunc(variable):
+        results = len(variable) >= minLen
+        return results
+
+    filtered = filter(filterFunc, sequence)
+    return filtered
+
+def saveAlignmentDataForWords(connection, key, wordList_, searchOriginal = True, searchLemma = True, caseInsensitive = True, minLen=-1):
     baseFolder = './data/TrainingData'
     file.makeFolder(baseFolder)
+
+    wordList = list(filterForMinLen(wordList_, minLen))
 
     # save superset of alignments
     alignments_df = saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLemma, searchOriginal,
@@ -791,7 +818,7 @@ def saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLe
     df.to_csv(path_or_buf=csvPath, index=False, header=True, quoting=csv.QUOTE_NONNUMERIC)
     return df
 
-def refreshSavedAlignmentData(connection, keyTermsPath):
+def refreshSavedAlignmentData(connection, keyTermsPath, minLen=-1):
     data = file.initJsonFile(keyTermsPath)
     print (f"'{keyTermsPath}' has words: {data}")
 
@@ -799,7 +826,7 @@ def refreshSavedAlignmentData(connection, keyTermsPath):
     for keyTerm in keyTermsList:
         item = list(data[keyTerm].keys())
         print (f"updating '{keyTerm}' = '{item}'")
-        saveAlignmentDataForWords(connection, keyTerm, item, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+        saveAlignmentDataForWords(connection, keyTerm, item, searchOriginal = True, searchLemma = True, caseInsensitive = True, minLen = minLen)
 
 # reading dataFrame from json:
 def loadAlignmentDataFromFile(lemma):

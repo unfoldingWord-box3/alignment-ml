@@ -1,72 +1,16 @@
 [
   {
-    "id": "188421",
-    "book_id": "mat",
-    "chapter": "13",
-    "verse": "58",
-    "alignment_num": "7",
-    "orig_lang_words": ",1151545,1151546,",
-    "target_lang_words": ",829933,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1151545,
-        "book_id": "mat",
-        "chapter": "13",
-        "verse": "58",
-        "word_num": 7,
-        "word": "τὴν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFS,"
-      },
-      {
-        "id": 1151546,
-        "book_id": "mat",
-        "chapter": "13",
-        "verse": "58",
-        "word_num": 8,
-        "word": "ἀπιστίαν",
-        "occurrence": 1,
-        "strong": "G05700",
-        "lemma": "ἀπιστία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "τὴν ἀπιστίαν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 829933,
-        "book_id": "mat",
-        "chapter": "13",
-        "verse": "58",
-        "word_num": 10,
-        "word": "unbelief",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unbelief",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὴν ἀπιστίαν = unbelief",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "200886",
+    "id": "461160",
     "book_id": "mrk",
     "chapter": "6",
     "verse": "6",
     "alignment_num": "4",
-    "orig_lang_words": ",1165127,1165128,",
-    "target_lang_words": ",847704,",
+    "orig_lang_words": ",1441051,1441052,",
+    "target_lang_words": ",1216036,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1165127,
+        "id": 1441051,
         "book_id": "mrk",
         "chapter": "6",
         "verse": "6",
@@ -78,7 +22,7 @@
         "morph": "Gr,EA,,,,AFS,"
       },
       {
-        "id": 1165128,
+        "id": 1441052,
         "book_id": "mrk",
         "chapter": "6",
         "verse": "6",
@@ -95,7 +39,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 847704,
+        "id": 1216036,
         "book_id": "mrk",
         "chapter": "6",
         "verse": "6",
@@ -107,22 +51,22 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν ἀπιστίαν = unbelief",
-    "frequency": 0.2,
+    "frequency": 0.1111111111111111,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "203235",
+    "id": "463509",
     "book_id": "mrk",
     "chapter": "9",
     "verse": "24",
     "alignment_num": "10",
-    "orig_lang_words": ",1167650,1167651,",
-    "target_lang_words": ",850964,",
+    "orig_lang_words": ",1443574,1443575,",
+    "target_lang_words": ",1219296,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1167650,
+        "id": 1443574,
         "book_id": "mrk",
         "chapter": "9",
         "verse": "24",
@@ -134,7 +78,7 @@
         "morph": "Gr,EA,,,,DFS,"
       },
       {
-        "id": 1167651,
+        "id": 1443575,
         "book_id": "mrk",
         "chapter": "9",
         "verse": "24",
@@ -151,7 +95,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 850964,
+        "id": 1219296,
         "book_id": "mrk",
         "chapter": "9",
         "verse": "24",
@@ -163,22 +107,22 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῇ ἀπιστίᾳ = unbelief",
-    "frequency": 0.1,
+    "frequency": 0.1111111111111111,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "260562",
+    "id": "520836",
     "book_id": "rom",
     "chapter": "3",
     "verse": "3",
     "alignment_num": "7",
-    "orig_lang_words": ",1227728,1227729,",
-    "target_lang_words": ",929947,",
+    "orig_lang_words": ",1503652,1503653,",
+    "target_lang_words": ",1298279,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1227728,
+        "id": 1503652,
         "book_id": "rom",
         "chapter": "3",
         "verse": "3",
@@ -190,7 +134,7 @@
         "morph": "Gr,EA,,,,NFS,"
       },
       {
-        "id": 1227729,
+        "id": 1503653,
         "book_id": "rom",
         "chapter": "3",
         "verse": "3",
@@ -207,7 +151,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 929947,
+        "id": 1298279,
         "book_id": "rom",
         "chapter": "3",
         "verse": "3",
@@ -219,22 +163,22 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἡ ἀπιστία = unbelief",
-    "frequency": 0.1,
+    "frequency": 0.1111111111111111,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "261214",
+    "id": "521488",
     "book_id": "rom",
     "chapter": "4",
     "verse": "20",
     "alignment_num": "7",
-    "orig_lang_words": ",1228462,1228463,",
-    "target_lang_words": ",930997,930998,",
+    "orig_lang_words": ",1504386,1504387,",
+    "target_lang_words": ",1299329,1299330,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1228462,
+        "id": 1504386,
         "book_id": "rom",
         "chapter": "4",
         "verse": "20",
@@ -246,7 +190,7 @@
         "morph": "Gr,EA,,,,DFS,"
       },
       {
-        "id": 1228463,
+        "id": 1504387,
         "book_id": "rom",
         "chapter": "4",
         "verse": "20",
@@ -263,7 +207,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 930997,
+        "id": 1299329,
         "book_id": "rom",
         "chapter": "4",
         "verse": "20",
@@ -272,7 +216,7 @@
         "occurrence": 1
       },
       {
-        "id": 930998,
+        "id": 1299330,
         "book_id": "rom",
         "chapter": "4",
         "verse": "20",
@@ -284,22 +228,22 @@
     "targetWordsTxt": "in unbelief",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῇ ἀπιστίᾳ = in unbelief",
-    "frequency": 0.1,
+    "frequency": 0.1111111111111111,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "264144",
+    "id": "524418",
     "book_id": "rom",
     "chapter": "11",
     "verse": "20",
     "alignment_num": "2",
-    "orig_lang_words": ",1231628,",
-    "target_lang_words": ",935459,",
+    "orig_lang_words": ",1507552,",
+    "target_lang_words": ",1303791,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1231628,
+        "id": 1507552,
         "book_id": "rom",
         "chapter": "11",
         "verse": "20",
@@ -316,7 +260,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 935459,
+        "id": 1303791,
         "book_id": "rom",
         "chapter": "11",
         "verse": "20",
@@ -328,22 +272,22 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπιστίᾳ = unbelief",
-    "frequency": 0.3,
+    "frequency": 0.3333333333333333,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "264194",
+    "id": "524468",
     "book_id": "rom",
     "chapter": "11",
     "verse": "23",
     "alignment_num": "7",
-    "orig_lang_words": ",1231683,",
-    "target_lang_words": ",935542,",
+    "orig_lang_words": ",1507607,",
+    "target_lang_words": ",1303874,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1231683,
+        "id": 1507607,
         "book_id": "rom",
         "chapter": "11",
         "verse": "23",
@@ -360,7 +304,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 935542,
+        "id": 1303874,
         "book_id": "rom",
         "chapter": "11",
         "verse": "23",
@@ -372,22 +316,22 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπιστίᾳ = unbelief",
-    "frequency": 0.3,
+    "frequency": 0.3333333333333333,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "287057",
+    "id": "547331",
     "book_id": "1ti",
     "chapter": "1",
     "verse": "13",
     "alignment_num": "14",
-    "orig_lang_words": ",1255451,",
-    "target_lang_words": ",968812,",
+    "orig_lang_words": ",1531375,",
+    "target_lang_words": ",1337144,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1255451,
+        "id": 1531375,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "13",
@@ -404,7 +348,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 968812,
+        "id": 1337144,
         "book_id": "1ti",
         "chapter": "1",
         "verse": "13",
@@ -416,22 +360,22 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπιστίᾳ = unbelief",
-    "frequency": 0.3,
+    "frequency": 0.3333333333333333,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "291400",
+    "id": "551674",
     "book_id": "heb",
     "chapter": "3",
     "verse": "12",
     "alignment_num": "12",
-    "orig_lang_words": ",1259834,",
-    "target_lang_words": ",975008,975009,",
+    "orig_lang_words": ",1535758,",
+    "target_lang_words": ",1343340,1343341,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1259834,
+        "id": 1535758,
         "book_id": "heb",
         "chapter": "3",
         "verse": "12",
@@ -448,7 +392,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 975008,
+        "id": 1343340,
         "book_id": "heb",
         "chapter": "3",
         "verse": "12",
@@ -457,7 +401,7 @@
         "occurrence": 2
       },
       {
-        "id": 975009,
+        "id": 1343341,
         "book_id": "heb",
         "chapter": "3",
         "verse": "12",
@@ -469,22 +413,22 @@
     "targetWordsTxt": "of unbelief",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπιστίας = of unbelief",
-    "frequency": 0.1,
+    "frequency": 0.1111111111111111,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "291500",
+    "id": "551774",
     "book_id": "heb",
     "chapter": "3",
     "verse": "19",
     "alignment_num": "7",
-    "orig_lang_words": ",1259941,",
-    "target_lang_words": ",975156,",
+    "orig_lang_words": ",1535865,",
+    "target_lang_words": ",1343488,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1259941,
+        "id": 1535865,
         "book_id": "heb",
         "chapter": "3",
         "verse": "19",
@@ -501,7 +445,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 975156,
+        "id": 1343488,
         "book_id": "heb",
         "chapter": "3",
         "verse": "19",
@@ -513,7 +457,7 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπιστίαν = unbelief",
-    "frequency": 0.1,
+    "frequency": 0.1111111111111111,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

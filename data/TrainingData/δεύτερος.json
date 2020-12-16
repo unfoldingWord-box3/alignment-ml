@@ -1,205 +1,16 @@
 [
   {
-    "id": "193123",
-    "book_id": "mat",
-    "chapter": "22",
-    "verse": "26",
-    "alignment_num": "2",
-    "orig_lang_words": ",1156758,",
-    "target_lang_words": ",836707,836708,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1156758,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "26",
-        "word_num": 3,
-        "word": "δεύτερος",
-        "occurrence": 1,
-        "strong": "G12080",
-        "lemma": "δεύτερος",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "δεύτερος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 836707,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "26",
-        "word_num": 2,
-        "word": "second",
-        "occurrence": 1
-      },
-      {
-        "id": 836708,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "26",
-        "word_num": 3,
-        "word": "brother",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "second brother",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δεύτερος = second brother",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "193276",
-    "book_id": "mat",
-    "chapter": "22",
-    "verse": "39",
-    "alignment_num": "1",
-    "orig_lang_words": ",1156919,",
-    "target_lang_words": ",836912,836913,836914,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1156919,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "39",
-        "word_num": 0,
-        "word": "δευτέρα",
-        "occurrence": 1,
-        "strong": "G12080",
-        "lemma": "δεύτερος",
-        "morph": "Gr,NS,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "δευτέρα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 836912,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "39",
-        "word_num": 1,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 836913,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "39",
-        "word_num": 2,
-        "word": "second",
-        "occurrence": 1
-      },
-      {
-        "id": 836914,
-        "book_id": "mat",
-        "chapter": "22",
-        "verse": "39",
-        "word_num": 3,
-        "word": "commandment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a second commandment",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δευτέρα = a second commandment",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "196039",
-    "book_id": "mat",
-    "chapter": "26",
-    "verse": "42",
-    "alignment_num": "1",
-    "orig_lang_words": ",1159917,1159918,",
-    "target_lang_words": ",840886,840887,840888,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1159917,
-        "book_id": "mat",
-        "chapter": "26",
-        "verse": "42",
-        "word_num": 1,
-        "word": "ἐκ",
-        "occurrence": 1,
-        "strong": "G15370",
-        "lemma": "ἐκ",
-        "morph": "Gr,P,,,,,G,,,"
-      },
-      {
-        "id": 1159918,
-        "book_id": "mat",
-        "chapter": "26",
-        "verse": "42",
-        "word_num": 2,
-        "word": "δευτέρου",
-        "occurrence": 1,
-        "strong": "G12080",
-        "lemma": "δεύτερος",
-        "morph": "Gr,NS,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἐκ δευτέρου",
-    "alignmentOrigWords": 2,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 840886,
-        "book_id": "mat",
-        "chapter": "26",
-        "verse": "42",
-        "word_num": 3,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 840887,
-        "book_id": "mat",
-        "chapter": "26",
-        "verse": "42",
-        "word_num": 4,
-        "word": "second",
-        "occurrence": 1
-      },
-      {
-        "id": 840888,
-        "book_id": "mat",
-        "chapter": "26",
-        "verse": "42",
-        "word_num": 5,
-        "word": "time",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a second time",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐκ δευτέρου = a second time",
-    "frequency": 0.1282051282051282,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "205305",
+    "id": "465579",
     "book_id": "mrk",
     "chapter": "12",
     "verse": "21",
     "alignment_num": "2",
-    "orig_lang_words": ",1169925,",
-    "target_lang_words": ",853990,",
+    "orig_lang_words": ",1445849,",
+    "target_lang_words": ",1222322,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1169925,
+        "id": 1445849,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "21",
@@ -216,7 +27,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 853990,
+        "id": 1222322,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "21",
@@ -228,22 +39,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεύτερος = second",
-    "frequency": 0.1794871794871795,
+    "frequency": 0.19444444444444445,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "205469",
+    "id": "465743",
     "book_id": "mrk",
     "chapter": "12",
     "verse": "31",
     "alignment_num": "0",
-    "orig_lang_words": ",1170102,",
-    "target_lang_words": ",854211,854212,854213,",
+    "orig_lang_words": ",1446026,",
+    "target_lang_words": ",1222543,1222544,1222545,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1170102,
+        "id": 1446026,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "31",
@@ -260,7 +71,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 854211,
+        "id": 1222543,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "31",
@@ -269,7 +80,7 @@
         "occurrence": 1
       },
       {
-        "id": 854212,
+        "id": 1222544,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "31",
@@ -278,7 +89,7 @@
         "occurrence": 1
       },
       {
-        "id": 854213,
+        "id": 1222545,
         "book_id": "mrk",
         "chapter": "12",
         "verse": "31",
@@ -290,22 +101,22 @@
     "targetWordsTxt": "The second commandment",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δευτέρα = The second commandment",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "207370",
+    "id": "467644",
     "book_id": "mrk",
     "chapter": "14",
     "verse": "72",
     "alignment_num": "3",
-    "orig_lang_words": ",1172150,1172151,",
-    "target_lang_words": ",856909,856910,856911,",
+    "orig_lang_words": ",1448074,1448075,",
+    "target_lang_words": ",1225241,1225242,1225243,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1172150,
+        "id": 1448074,
         "book_id": "mrk",
         "chapter": "14",
         "verse": "72",
@@ -317,7 +128,7 @@
         "morph": "Gr,P,,,,,G,,,"
       },
       {
-        "id": 1172151,
+        "id": 1448075,
         "book_id": "mrk",
         "chapter": "14",
         "verse": "72",
@@ -334,7 +145,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 856909,
+        "id": 1225241,
         "book_id": "mrk",
         "chapter": "14",
         "verse": "72",
@@ -343,7 +154,7 @@
         "occurrence": 1
       },
       {
-        "id": 856910,
+        "id": 1225242,
         "book_id": "mrk",
         "chapter": "14",
         "verse": "72",
@@ -352,7 +163,7 @@
         "occurrence": 1
       },
       {
-        "id": 856911,
+        "id": 1225243,
         "book_id": "mrk",
         "chapter": "14",
         "verse": "72",
@@ -364,22 +175,22 @@
     "targetWordsTxt": "a second time",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐκ δευτέρου = a second time",
-    "frequency": 0.1282051282051282,
+    "frequency": 0.1111111111111111,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "218511",
+    "id": "478785",
     "book_id": "luk",
     "chapter": "12",
     "verse": "38",
     "alignment_num": "4",
-    "orig_lang_words": ",1183748,",
-    "target_lang_words": ",872392,",
+    "orig_lang_words": ",1459672,",
+    "target_lang_words": ",1240724,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1183748,
+        "id": 1459672,
         "book_id": "luk",
         "chapter": "12",
         "verse": "38",
@@ -396,7 +207,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 872392,
+        "id": 1240724,
         "book_id": "luk",
         "chapter": "12",
         "verse": "38",
@@ -408,22 +219,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δευτέρᾳ = second",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "222797",
+    "id": "483071",
     "book_id": "luk",
     "chapter": "19",
     "verse": "18",
     "alignment_num": "2",
-    "orig_lang_words": ",1188104,",
-    "target_lang_words": ",878327,",
+    "orig_lang_words": ",1464028,",
+    "target_lang_words": ",1246659,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1188104,
+        "id": 1464028,
         "book_id": "luk",
         "chapter": "19",
         "verse": "18",
@@ -440,7 +251,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 878327,
+        "id": 1246659,
         "book_id": "luk",
         "chapter": "19",
         "verse": "18",
@@ -452,22 +263,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεύτερος = second",
-    "frequency": 0.1794871794871795,
+    "frequency": 0.19444444444444445,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "223750",
+    "id": "484024",
     "book_id": "luk",
     "chapter": "20",
     "verse": "30",
     "alignment_num": "2",
-    "orig_lang_words": ",1189051,",
-    "target_lang_words": ",879665,",
+    "orig_lang_words": ",1464975,",
+    "target_lang_words": ",1247997,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1189051,
+        "id": 1464975,
         "book_id": "luk",
         "chapter": "20",
         "verse": "30",
@@ -484,7 +295,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 879665,
+        "id": 1247997,
         "book_id": "luk",
         "chapter": "20",
         "verse": "30",
@@ -496,22 +307,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεύτερος = second",
-    "frequency": 0.1794871794871795,
+    "frequency": 0.19444444444444445,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "229876",
+    "id": "490150",
     "book_id": "jhn",
     "chapter": "4",
     "verse": "54",
     "alignment_num": "3",
-    "orig_lang_words": ",1195443,1195444,",
-    "target_lang_words": ",887815,887816,887817,",
+    "orig_lang_words": ",1471367,1471368,",
+    "target_lang_words": ",1256147,1256148,1256149,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1195443,
+        "id": 1471367,
         "book_id": "jhn",
         "chapter": "4",
         "verse": "54",
@@ -523,7 +334,7 @@
         "morph": "Gr,D,,,,,,,,,"
       },
       {
-        "id": 1195444,
+        "id": 1471368,
         "book_id": "jhn",
         "chapter": "4",
         "verse": "54",
@@ -540,7 +351,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 887815,
+        "id": 1256147,
         "book_id": "jhn",
         "chapter": "4",
         "verse": "54",
@@ -549,7 +360,7 @@
         "occurrence": 1
       },
       {
-        "id": 887816,
+        "id": 1256148,
         "book_id": "jhn",
         "chapter": "4",
         "verse": "54",
@@ -558,7 +369,7 @@
         "occurrence": 1
       },
       {
-        "id": 887817,
+        "id": 1256149,
         "book_id": "jhn",
         "chapter": "4",
         "verse": "54",
@@ -570,22 +381,22 @@
     "targetWordsTxt": "as a second",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πάλιν δεύτερον = as a second",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "233799",
+    "id": "494073",
     "book_id": "jhn",
     "chapter": "9",
     "verse": "24",
     "alignment_num": "2",
-    "orig_lang_words": ",1199839,",
-    "target_lang_words": ",893263,893264,893265,",
+    "orig_lang_words": ",1475763,",
+    "target_lang_words": ",1261595,1261596,1261597,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1199839,
+        "id": 1475763,
         "book_id": "jhn",
         "chapter": "9",
         "verse": "24",
@@ -602,7 +413,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 893263,
+        "id": 1261595,
         "book_id": "jhn",
         "chapter": "9",
         "verse": "24",
@@ -611,7 +422,7 @@
         "occurrence": 1
       },
       {
-        "id": 893264,
+        "id": 1261596,
         "book_id": "jhn",
         "chapter": "9",
         "verse": "24",
@@ -620,7 +431,7 @@
         "occurrence": 1
       },
       {
-        "id": 893265,
+        "id": 1261597,
         "book_id": "jhn",
         "chapter": "9",
         "verse": "24",
@@ -632,22 +443,22 @@
     "targetWordsTxt": "a second time",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δευτέρου = a second time",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "245376",
+    "id": "505650",
     "book_id": "act",
     "chapter": "7",
     "verse": "13",
     "alignment_num": "2",
-    "orig_lang_words": ",1212066,",
-    "target_lang_words": ",908992,908993,",
+    "orig_lang_words": ",1487990,",
+    "target_lang_words": ",1277324,1277325,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1212066,
+        "id": 1487990,
         "book_id": "act",
         "chapter": "7",
         "verse": "13",
@@ -664,7 +475,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 908992,
+        "id": 1277324,
         "book_id": "act",
         "chapter": "7",
         "verse": "13",
@@ -673,7 +484,7 @@
         "occurrence": 1
       },
       {
-        "id": 908993,
+        "id": 1277325,
         "book_id": "act",
         "chapter": "7",
         "verse": "13",
@@ -685,22 +496,22 @@
     "targetWordsTxt": "second trip",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δευτέρῳ = second trip",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "247908",
+    "id": "508182",
     "book_id": "act",
     "chapter": "10",
     "verse": "15",
     "alignment_num": "6",
-    "orig_lang_words": ",1214651,1214652,",
-    "target_lang_words": ",912380,912381,912382,",
+    "orig_lang_words": ",1490575,1490576,",
+    "target_lang_words": ",1280712,1280713,1280714,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1214651,
+        "id": 1490575,
         "book_id": "act",
         "chapter": "10",
         "verse": "15",
@@ -712,7 +523,7 @@
         "morph": "Gr,P,,,,,G,,,"
       },
       {
-        "id": 1214652,
+        "id": 1490576,
         "book_id": "act",
         "chapter": "10",
         "verse": "15",
@@ -729,7 +540,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 912380,
+        "id": 1280712,
         "book_id": "act",
         "chapter": "10",
         "verse": "15",
@@ -738,7 +549,7 @@
         "occurrence": 1
       },
       {
-        "id": 912381,
+        "id": 1280713,
         "book_id": "act",
         "chapter": "10",
         "verse": "15",
@@ -747,7 +558,7 @@
         "occurrence": 1
       },
       {
-        "id": 912382,
+        "id": 1280714,
         "book_id": "act",
         "chapter": "10",
         "verse": "15",
@@ -759,22 +570,22 @@
     "targetWordsTxt": "a second time",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐκ δευτέρου = a second time",
-    "frequency": 0.1282051282051282,
+    "frequency": 0.1111111111111111,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "248624",
+    "id": "508898",
     "book_id": "act",
     "chapter": "11",
     "verse": "9",
     "alignment_num": "3",
-    "orig_lang_words": ",1215393,1215394,",
-    "target_lang_words": ",913359,913360,913361,",
+    "orig_lang_words": ",1491317,1491318,",
+    "target_lang_words": ",1281691,1281692,1281693,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1215393,
+        "id": 1491317,
         "book_id": "act",
         "chapter": "11",
         "verse": "9",
@@ -786,7 +597,7 @@
         "morph": "Gr,P,,,,,G,,,"
       },
       {
-        "id": 1215394,
+        "id": 1491318,
         "book_id": "act",
         "chapter": "11",
         "verse": "9",
@@ -803,7 +614,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 913359,
+        "id": 1281691,
         "book_id": "act",
         "chapter": "11",
         "verse": "9",
@@ -812,7 +623,7 @@
         "occurrence": 1
       },
       {
-        "id": 913360,
+        "id": 1281692,
         "book_id": "act",
         "chapter": "11",
         "verse": "9",
@@ -821,7 +632,7 @@
         "occurrence": 1
       },
       {
-        "id": 913361,
+        "id": 1281693,
         "book_id": "act",
         "chapter": "11",
         "verse": "9",
@@ -833,22 +644,22 @@
     "targetWordsTxt": "a second time",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐκ δευτέρου = a second time",
-    "frequency": 0.1282051282051282,
+    "frequency": 0.1111111111111111,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "249191",
+    "id": "509465",
     "book_id": "act",
     "chapter": "12",
     "verse": "10",
     "alignment_num": "5",
-    "orig_lang_words": ",1215982,",
-    "target_lang_words": ",914118,914119,",
+    "orig_lang_words": ",1491906,",
+    "target_lang_words": ",1282450,1282451,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1215982,
+        "id": 1491906,
         "book_id": "act",
         "chapter": "12",
         "verse": "10",
@@ -865,7 +676,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 914118,
+        "id": 1282450,
         "book_id": "act",
         "chapter": "12",
         "verse": "10",
@@ -874,7 +685,7 @@
         "occurrence": 2
       },
       {
-        "id": 914119,
+        "id": 1282451,
         "book_id": "act",
         "chapter": "12",
         "verse": "10",
@@ -886,22 +697,22 @@
     "targetWordsTxt": "the second",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δευτέραν = the second",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "250073",
+    "id": "510347",
     "book_id": "act",
     "chapter": "13",
     "verse": "33",
     "alignment_num": "15",
-    "orig_lang_words": ",1216883,1216884,",
-    "target_lang_words": ",915322,",
+    "orig_lang_words": ",1492807,1492808,",
+    "target_lang_words": ",1283654,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1216883,
+        "id": 1492807,
         "book_id": "act",
         "chapter": "13",
         "verse": "33",
@@ -913,7 +724,7 @@
         "morph": "Gr,EA,,,,DMS,"
       },
       {
-        "id": 1216884,
+        "id": 1492808,
         "book_id": "act",
         "chapter": "13",
         "verse": "33",
@@ -930,7 +741,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 915322,
+        "id": 1283654,
         "book_id": "act",
         "chapter": "13",
         "verse": "33",
@@ -942,22 +753,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῷ δευτέρῳ = second",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "272271",
+    "id": "532545",
     "book_id": "1co",
     "chapter": "15",
     "verse": "47",
     "alignment_num": "7",
-    "orig_lang_words": ",1240137,",
-    "target_lang_words": ",947577,",
+    "orig_lang_words": ",1516061,",
+    "target_lang_words": ",1315909,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1240137,
+        "id": 1516061,
         "book_id": "1co",
         "chapter": "15",
         "verse": "47",
@@ -974,7 +785,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 947577,
+        "id": 1315909,
         "book_id": "1co",
         "chapter": "15",
         "verse": "47",
@@ -986,22 +797,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεύτερος = second",
-    "frequency": 0.1794871794871795,
+    "frequency": 0.19444444444444445,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "273065",
+    "id": "533339",
     "book_id": "2co",
     "chapter": "1",
     "verse": "15",
     "alignment_num": "11",
-    "orig_lang_words": ",1240957,",
-    "target_lang_words": ",948684,",
+    "orig_lang_words": ",1516881,",
+    "target_lang_words": ",1317016,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1240957,
+        "id": 1516881,
         "book_id": "2co",
         "chapter": "1",
         "verse": "15",
@@ -1018,7 +829,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 948684,
+        "id": 1317016,
         "book_id": "2co",
         "chapter": "1",
         "verse": "15",
@@ -1030,22 +841,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δευτέραν = second",
-    "frequency": 0.05128205128205128,
+    "frequency": 0.05555555555555555,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "276902",
+    "id": "537176",
     "book_id": "2co",
     "chapter": "13",
     "verse": "2",
     "alignment_num": "4",
-    "orig_lang_words": ",1244899,",
-    "target_lang_words": ",954298,954299,",
+    "orig_lang_words": ",1520823,",
+    "target_lang_words": ",1322630,1322631,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1244899,
+        "id": 1520823,
         "book_id": "2co",
         "chapter": "13",
         "verse": "2",
@@ -1062,7 +873,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 954298,
+        "id": 1322630,
         "book_id": "2co",
         "chapter": "13",
         "verse": "2",
@@ -1071,7 +882,7 @@
         "occurrence": 1
       },
       {
-        "id": 954299,
+        "id": 1322631,
         "book_id": "2co",
         "chapter": "13",
         "verse": "2",
@@ -1083,22 +894,22 @@
     "targetWordsTxt": "second time",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεύτερον = second time",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "290310",
+    "id": "550584",
     "book_id": "tit",
     "chapter": "3",
     "verse": "10",
     "alignment_num": "7",
-    "orig_lang_words": ",1258681,",
-    "target_lang_words": ",973374,",
+    "orig_lang_words": ",1534605,",
+    "target_lang_words": ",1341706,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1258681,
+        "id": 1534605,
         "book_id": "tit",
         "chapter": "3",
         "verse": "10",
@@ -1115,7 +926,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 973374,
+        "id": 1341706,
         "book_id": "tit",
         "chapter": "3",
         "verse": "10",
@@ -1127,22 +938,22 @@
     "targetWordsTxt": "two",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δευτέραν = two",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "292838",
+    "id": "553112",
     "book_id": "heb",
     "chapter": "8",
     "verse": "7",
     "alignment_num": "9",
-    "orig_lang_words": ",1261340,",
-    "target_lang_words": ",977159,977160,977161,977162,",
+    "orig_lang_words": ",1537264,",
+    "target_lang_words": ",1345491,1345492,1345493,1345494,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1261340,
+        "id": 1537264,
         "book_id": "heb",
         "chapter": "8",
         "verse": "7",
@@ -1159,7 +970,7 @@
     "targetSpan": 3,
     "targetWords": [
       {
-        "id": 977159,
+        "id": 1345491,
         "book_id": "heb",
         "chapter": "8",
         "verse": "7",
@@ -1168,7 +979,7 @@
         "occurrence": 1
       },
       {
-        "id": 977160,
+        "id": 1345492,
         "book_id": "heb",
         "chapter": "8",
         "verse": "7",
@@ -1177,7 +988,7 @@
         "occurrence": 1
       },
       {
-        "id": 977161,
+        "id": 1345493,
         "book_id": "heb",
         "chapter": "8",
         "verse": "7",
@@ -1186,7 +997,7 @@
         "occurrence": 1
       },
       {
-        "id": 977162,
+        "id": 1345494,
         "book_id": "heb",
         "chapter": "8",
         "verse": "7",
@@ -1198,22 +1009,22 @@
     "targetWordsTxt": "for a second covenant",
     "alignmentTargetWords": 4,
     "alignmentTxt": "δευτέρας = for a second covenant",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "293011",
+    "id": "553285",
     "book_id": "heb",
     "chapter": "9",
     "verse": "3",
     "alignment_num": "2",
-    "orig_lang_words": ",1261527,",
-    "target_lang_words": ",977405,",
+    "orig_lang_words": ",1537451,",
+    "target_lang_words": ",1345737,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1261527,
+        "id": 1537451,
         "book_id": "heb",
         "chapter": "9",
         "verse": "3",
@@ -1230,7 +1041,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 977405,
+        "id": 1345737,
         "book_id": "heb",
         "chapter": "9",
         "verse": "3",
@@ -1242,22 +1053,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεύτερον = second",
-    "frequency": 0.05128205128205128,
+    "frequency": 0.05555555555555555,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "293082",
+    "id": "553356",
     "book_id": "heb",
     "chapter": "9",
     "verse": "7",
     "alignment_num": "6",
-    "orig_lang_words": ",1261599,",
-    "target_lang_words": ",977511,977512,",
+    "orig_lang_words": ",1537523,",
+    "target_lang_words": ",1345843,1345844,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1261599,
+        "id": 1537523,
         "book_id": "heb",
         "chapter": "9",
         "verse": "7",
@@ -1274,7 +1085,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 977511,
+        "id": 1345843,
         "book_id": "heb",
         "chapter": "9",
         "verse": "7",
@@ -1283,7 +1094,7 @@
         "occurrence": 1
       },
       {
-        "id": 977512,
+        "id": 1345844,
         "book_id": "heb",
         "chapter": "9",
         "verse": "7",
@@ -1295,22 +1106,22 @@
     "targetWordsTxt": "second room",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δευτέραν = second room",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "293465",
+    "id": "553739",
     "book_id": "heb",
     "chapter": "9",
     "verse": "28",
     "alignment_num": "11",
-    "orig_lang_words": ",1261992,1261993,",
-    "target_lang_words": ",978097,978098,978099,",
+    "orig_lang_words": ",1537916,1537917,",
+    "target_lang_words": ",1346429,1346430,1346431,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1261992,
+        "id": 1537916,
         "book_id": "heb",
         "chapter": "9",
         "verse": "28",
@@ -1322,7 +1133,7 @@
         "morph": "Gr,P,,,,,G,,,"
       },
       {
-        "id": 1261993,
+        "id": 1537917,
         "book_id": "heb",
         "chapter": "9",
         "verse": "28",
@@ -1339,7 +1150,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 978097,
+        "id": 1346429,
         "book_id": "heb",
         "chapter": "9",
         "verse": "28",
@@ -1348,7 +1159,7 @@
         "occurrence": 1
       },
       {
-        "id": 978098,
+        "id": 1346430,
         "book_id": "heb",
         "chapter": "9",
         "verse": "28",
@@ -1357,7 +1168,7 @@
         "occurrence": 1
       },
       {
-        "id": 978099,
+        "id": 1346431,
         "book_id": "heb",
         "chapter": "9",
         "verse": "28",
@@ -1369,22 +1180,22 @@
     "targetWordsTxt": "a second time",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐκ δευτέρου = a second time",
-    "frequency": 0.1282051282051282,
+    "frequency": 0.1111111111111111,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "293596",
+    "id": "553870",
     "book_id": "heb",
     "chapter": "10",
     "verse": "9",
     "alignment_num": "13",
-    "orig_lang_words": ",1262133,",
-    "target_lang_words": ",978326,978327,",
+    "orig_lang_words": ",1538057,",
+    "target_lang_words": ",1346658,1346659,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1262133,
+        "id": 1538057,
         "book_id": "heb",
         "chapter": "10",
         "verse": "9",
@@ -1401,7 +1212,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 978326,
+        "id": 1346658,
         "book_id": "heb",
         "chapter": "10",
         "verse": "9",
@@ -1410,7 +1221,7 @@
         "occurrence": 1
       },
       {
-        "id": 978327,
+        "id": 1346659,
         "book_id": "heb",
         "chapter": "10",
         "verse": "9",
@@ -1422,22 +1233,22 @@
     "targetWordsTxt": "second practice",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεύτερον = second practice",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "299323",
+    "id": "559597",
     "book_id": "2pe",
     "chapter": "3",
     "verse": "1",
     "alignment_num": "4",
-    "orig_lang_words": ",1268213,",
-    "target_lang_words": ",987188,",
+    "orig_lang_words": ",1544137,",
+    "target_lang_words": ",1355520,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1268213,
+        "id": 1544137,
         "book_id": "2pe",
         "chapter": "3",
         "verse": "1",
@@ -1454,7 +1265,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 987188,
+        "id": 1355520,
         "book_id": "2pe",
         "chapter": "3",
         "verse": "1",
@@ -1466,22 +1277,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δευτέραν = second",
-    "frequency": 0.05128205128205128,
+    "frequency": 0.05555555555555555,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "302099",
+    "id": "562373",
     "book_id": "jud",
     "chapter": "1",
     "verse": "5",
     "alignment_num": "16",
-    "orig_lang_words": ",1271245,1271246,",
-    "target_lang_words": ",991063,991064,991065,",
+    "orig_lang_words": ",1547169,1547170,",
+    "target_lang_words": ",1359395,1359396,1359397,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1271245,
+        "id": 1547169,
         "book_id": "jud",
         "chapter": "1",
         "verse": "5",
@@ -1493,7 +1304,7 @@
         "morph": "Gr,EA,,,,ANS,"
       },
       {
-        "id": 1271246,
+        "id": 1547170,
         "book_id": "jud",
         "chapter": "1",
         "verse": "5",
@@ -1510,7 +1321,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 991063,
+        "id": 1359395,
         "book_id": "jud",
         "chapter": "1",
         "verse": "5",
@@ -1519,7 +1330,7 @@
         "occurrence": 1
       },
       {
-        "id": 991064,
+        "id": 1359396,
         "book_id": "jud",
         "chapter": "1",
         "verse": "5",
@@ -1528,7 +1339,7 @@
         "occurrence": 2
       },
       {
-        "id": 991065,
+        "id": 1359397,
         "book_id": "jud",
         "chapter": "1",
         "verse": "5",
@@ -1540,22 +1351,22 @@
     "targetWordsTxt": "but that afterward",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὸ δεύτερον = but that afterward",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "303075",
+    "id": "563349",
     "book_id": "rev",
     "chapter": "2",
     "verse": "11",
     "alignment_num": "16",
-    "orig_lang_words": ",1272321,1272322,",
-    "target_lang_words": ",992507,",
+    "orig_lang_words": ",1548245,1548246,",
+    "target_lang_words": ",1360839,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1272321,
+        "id": 1548245,
         "book_id": "rev",
         "chapter": "2",
         "verse": "11",
@@ -1567,7 +1378,7 @@
         "morph": "Gr,EA,,,,GMS,"
       },
       {
-        "id": 1272322,
+        "id": 1548246,
         "book_id": "rev",
         "chapter": "2",
         "verse": "11",
@@ -1584,7 +1395,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 992507,
+        "id": 1360839,
         "book_id": "rev",
         "chapter": "2",
         "verse": "11",
@@ -1596,22 +1407,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ δευτέρου = second",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "304016",
+    "id": "564290",
     "book_id": "rev",
     "chapter": "4",
     "verse": "7",
     "alignment_num": "6",
-    "orig_lang_words": ",1273375,",
-    "target_lang_words": ",993855,",
+    "orig_lang_words": ",1549299,",
+    "target_lang_words": ",1362187,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1273375,
+        "id": 1549299,
         "book_id": "rev",
         "chapter": "4",
         "verse": "7",
@@ -1628,7 +1439,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 993855,
+        "id": 1362187,
         "book_id": "rev",
         "chapter": "4",
         "verse": "7",
@@ -1640,22 +1451,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεύτερον = second",
-    "frequency": 0.05128205128205128,
+    "frequency": 0.05555555555555555,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "304491",
+    "id": "564765",
     "book_id": "rev",
     "chapter": "6",
     "verse": "3",
     "alignment_num": "3",
-    "orig_lang_words": ",1273906,1273907,",
-    "target_lang_words": ",994503,",
+    "orig_lang_words": ",1549830,1549831,",
+    "target_lang_words": ",1362835,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1273906,
+        "id": 1549830,
         "book_id": "rev",
         "chapter": "6",
         "verse": "3",
@@ -1667,7 +1478,7 @@
         "morph": "Gr,EA,,,,AFS,"
       },
       {
-        "id": 1273907,
+        "id": 1549831,
         "book_id": "rev",
         "chapter": "6",
         "verse": "3",
@@ -1684,7 +1495,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 994503,
+        "id": 1362835,
         "book_id": "rev",
         "chapter": "6",
         "verse": "3",
@@ -1696,22 +1507,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν δευτέραν = second",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "304495",
+    "id": "564769",
     "book_id": "rev",
     "chapter": "6",
     "verse": "3",
     "alignment_num": "7",
-    "orig_lang_words": ",1273910,",
-    "target_lang_words": ",994508,",
+    "orig_lang_words": ",1549834,",
+    "target_lang_words": ",1362840,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1273910,
+        "id": 1549834,
         "book_id": "rev",
         "chapter": "6",
         "verse": "3",
@@ -1728,7 +1539,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 994508,
+        "id": 1362840,
         "book_id": "rev",
         "chapter": "6",
         "verse": "3",
@@ -1740,22 +1551,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δευτέρου = second",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "305341",
+    "id": "565615",
     "book_id": "rev",
     "chapter": "8",
     "verse": "8",
     "alignment_num": "2",
-    "orig_lang_words": ",1274826,",
-    "target_lang_words": ",995678,",
+    "orig_lang_words": ",1550750,",
+    "target_lang_words": ",1364010,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1274826,
+        "id": 1550750,
         "book_id": "rev",
         "chapter": "8",
         "verse": "8",
@@ -1772,7 +1583,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 995678,
+        "id": 1364010,
         "book_id": "rev",
         "chapter": "8",
         "verse": "8",
@@ -1784,22 +1595,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεύτερος = second",
-    "frequency": 0.1794871794871795,
+    "frequency": 0.19444444444444445,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "306471",
+    "id": "566745",
     "book_id": "rev",
     "chapter": "11",
     "verse": "14",
     "alignment_num": "1",
-    "orig_lang_words": ",1276108,1276109,",
-    "target_lang_words": ",997203,",
+    "orig_lang_words": ",1552032,1552033,",
+    "target_lang_words": ",1365535,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1276108,
+        "id": 1552032,
         "book_id": "rev",
         "chapter": "11",
         "verse": "14",
@@ -1811,7 +1622,7 @@
         "morph": "Gr,EA,,,,NFS,"
       },
       {
-        "id": 1276109,
+        "id": 1552033,
         "book_id": "rev",
         "chapter": "11",
         "verse": "14",
@@ -1828,7 +1639,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 997203,
+        "id": 1365535,
         "book_id": "rev",
         "chapter": "11",
         "verse": "14",
@@ -1840,22 +1651,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἡ δευτέρα = second",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "307583",
+    "id": "567857",
     "book_id": "rev",
     "chapter": "14",
     "verse": "8",
     "alignment_num": "1",
-    "orig_lang_words": ",1277349,",
-    "target_lang_words": ",998695,998696,998697,",
+    "orig_lang_words": ",1553273,",
+    "target_lang_words": ",1367027,1367028,1367029,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1277349,
+        "id": 1553273,
         "book_id": "rev",
         "chapter": "14",
         "verse": "8",
@@ -1872,7 +1683,7 @@
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 998695,
+        "id": 1367027,
         "book_id": "rev",
         "chapter": "14",
         "verse": "8",
@@ -1881,7 +1692,7 @@
         "occurrence": 1
       },
       {
-        "id": 998696,
+        "id": 1367028,
         "book_id": "rev",
         "chapter": "14",
         "verse": "8",
@@ -1890,7 +1701,7 @@
         "occurrence": 1
       },
       {
-        "id": 998697,
+        "id": 1367029,
         "book_id": "rev",
         "chapter": "14",
         "verse": "8",
@@ -1902,22 +1713,22 @@
     "targetWordsTxt": "a second angel",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεύτερος = a second angel",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "308157",
+    "id": "568431",
     "book_id": "rev",
     "chapter": "16",
     "verse": "3",
     "alignment_num": "2",
-    "orig_lang_words": ",1277978,",
-    "target_lang_words": ",999429,999430,",
+    "orig_lang_words": ",1553902,",
+    "target_lang_words": ",1367761,1367762,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1277978,
+        "id": 1553902,
         "book_id": "rev",
         "chapter": "16",
         "verse": "3",
@@ -1934,7 +1745,7 @@
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 999429,
+        "id": 1367761,
         "book_id": "rev",
         "chapter": "16",
         "verse": "3",
@@ -1943,7 +1754,7 @@
         "occurrence": 1
       },
       {
-        "id": 999430,
+        "id": 1367762,
         "book_id": "rev",
         "chapter": "16",
         "verse": "3",
@@ -1955,22 +1766,22 @@
     "targetWordsTxt": "second angel",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεύτερος = second angel",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "310092",
+    "id": "570366",
     "book_id": "rev",
     "chapter": "20",
     "verse": "6",
     "alignment_num": "12",
-    "orig_lang_words": ",1280129,",
-    "target_lang_words": ",1002054,",
+    "orig_lang_words": ",1556053,",
+    "target_lang_words": ",1370386,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1280129,
+        "id": 1556053,
         "book_id": "rev",
         "chapter": "20",
         "verse": "6",
@@ -1987,7 +1798,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1002054,
+        "id": 1370386,
         "book_id": "rev",
         "chapter": "20",
         "verse": "6",
@@ -1999,22 +1810,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεύτερος = second",
-    "frequency": 0.1794871794871795,
+    "frequency": 0.19444444444444445,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "310292",
+    "id": "570566",
     "book_id": "rev",
     "chapter": "20",
     "verse": "14",
     "alignment_num": "12",
-    "orig_lang_words": ",1280355,1280356,",
-    "target_lang_words": ",1002319,",
+    "orig_lang_words": ",1556279,1556280,",
+    "target_lang_words": ",1370651,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1280355,
+        "id": 1556279,
         "book_id": "rev",
         "chapter": "20",
         "verse": "14",
@@ -2026,7 +1837,7 @@
         "morph": "Gr,EA,,,,NMS,"
       },
       {
-        "id": 1280356,
+        "id": 1556280,
         "book_id": "rev",
         "chapter": "20",
         "verse": "14",
@@ -2043,7 +1854,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1002319,
+        "id": 1370651,
         "book_id": "rev",
         "chapter": "20",
         "verse": "14",
@@ -2055,22 +1866,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δεύτερός = second",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "310492",
+    "id": "570766",
     "book_id": "rev",
     "chapter": "21",
     "verse": "8",
     "alignment_num": "24",
-    "orig_lang_words": ",1280578,1280579,",
-    "target_lang_words": ",1002591,",
+    "orig_lang_words": ",1556502,1556503,",
+    "target_lang_words": ",1370923,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1280578,
+        "id": 1556502,
         "book_id": "rev",
         "chapter": "21",
         "verse": "8",
@@ -2082,7 +1893,7 @@
         "morph": "Gr,EA,,,,NMS,"
       },
       {
-        "id": 1280579,
+        "id": 1556503,
         "book_id": "rev",
         "chapter": "21",
         "verse": "8",
@@ -2099,7 +1910,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1002591,
+        "id": 1370923,
         "book_id": "rev",
         "chapter": "21",
         "verse": "8",
@@ -2111,22 +1922,22 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δεύτερος = second",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.027777777777777776,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "310706",
+    "id": "570980",
     "book_id": "rev",
     "chapter": "21",
     "verse": "19",
     "alignment_num": "16",
-    "orig_lang_words": ",1280813,",
-    "target_lang_words": ",1002878,",
+    "orig_lang_words": ",1556737,",
+    "target_lang_words": ",1371210,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1280813,
+        "id": 1556737,
         "book_id": "rev",
         "chapter": "21",
         "verse": "19",
@@ -2143,7 +1954,7 @@
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1002878,
+        "id": 1371210,
         "book_id": "rev",
         "chapter": "21",
         "verse": "19",
@@ -2155,7 +1966,7 @@
     "targetWordsTxt": "second",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεύτερος = second",
-    "frequency": 0.1794871794871795,
+    "frequency": 0.19444444444444445,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }
