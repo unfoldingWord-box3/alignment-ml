@@ -1,0 +1,90 @@
+[
+  {
+    "id": "469736",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "13",
+    "alignment_num": "8",
+    "orig_lang_words": ",1450455,",
+    "target_lang_words": ",1228520,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1450455,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 8,
+        "word": "οὐρανίου",
+        "occurrence": 1,
+        "strong": "G37700",
+        "lemma": "οὐράνιος",
+        "morph": "Gr,AA,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "οὐρανίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1228520,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 11,
+        "word": "heavenly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "heavenly",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οὐρανίου = heavenly",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518338",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "19",
+    "alignment_num": "8",
+    "orig_lang_words": ",1501024,",
+    "target_lang_words": ",1294620,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501024,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "19",
+        "word_num": 7,
+        "word": "οὐρανίῳ",
+        "occurrence": 1,
+        "strong": "G37700",
+        "lemma": "οὐράνιος",
+        "morph": "Gr,AA,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "οὐρανίῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1294620,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "19",
+        "word_num": 9,
+        "word": "heavenly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "heavenly",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οὐρανίῳ = heavenly",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "529452",
+    "book_id": "1co",
+    "chapter": "9",
+    "verse": "13",
+    "alignment_num": "8",
+    "orig_lang_words": ",1512888,",
+    "target_lang_words": ",1311285,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1512888,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 5,
+        "word": "ἱερὰ",
+        "occurrence": 1,
+        "strong": "G24130",
+        "lemma": "ἱερός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἱερὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1311285,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 10,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὰ = temple",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549630",
+    "book_id": "2ti",
+    "chapter": "3",
+    "verse": "15",
+    "alignment_num": "5",
+    "orig_lang_words": ",1533650,",
+    "target_lang_words": ",1340377,1340378,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533650,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 4,
+        "word": "ἱερὰ",
+        "occurrence": 1,
+        "strong": "G24130",
+        "lemma": "ἱερός",
+        "morph": "Gr,AA,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἱερὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1340377,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 7,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1340378,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 8,
+        "word": "sacred",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the sacred",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἱερὰ = the sacred",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

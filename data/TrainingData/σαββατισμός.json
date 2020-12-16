@@ -1,0 +1,64 @@
+[
+  {
+    "id": "551916",
+    "book_id": "heb",
+    "chapter": "4",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1536013,",
+    "target_lang_words": ",1343705,1343706,1343707,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536013,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 2,
+        "word": "σαββατισμὸς",
+        "occurrence": 1,
+        "strong": "G45200",
+        "lemma": "σαββατισμός",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "σαββατισμὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1343705,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 4,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1343706,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 5,
+        "word": "Sabbath",
+        "occurrence": 1
+      },
+      {
+        "id": 1343707,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 6,
+        "word": "rest",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a Sabbath rest",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "σαββατισμὸς = a Sabbath rest",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

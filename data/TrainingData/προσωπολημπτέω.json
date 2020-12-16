@@ -1,0 +1,73 @@
+[
+  {
+    "id": "556208",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1540503,",
+    "target_lang_words": ",1350197,1350198,1350199,1350200,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540503,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 2,
+        "word": "προσωπολημπτεῖτε",
+        "occurrence": 1,
+        "strong": "G43800",
+        "lemma": "προσωπολημπτέω",
+        "morph": "Gr,V,IPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "προσωπολημπτεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1350197,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 2,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1350198,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 3,
+        "word": "favor",
+        "occurrence": 1
+      },
+      {
+        "id": 1350199,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 4,
+        "word": "certain",
+        "occurrence": 1
+      },
+      {
+        "id": 1350200,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 5,
+        "word": "people",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you favor certain people",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "προσωπολημπτεῖτε = you favor certain people",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

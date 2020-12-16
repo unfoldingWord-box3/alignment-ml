@@ -1,0 +1,82 @@
+[
+  {
+    "id": "555355",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "3",
+    "alignment_num": "4",
+    "orig_lang_words": ",1539600,",
+    "target_lang_words": ",1348941,1348942,1348943,1348944,1348945,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539600,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 4,
+        "word": "συνδεδεμένοι",
+        "occurrence": 1,
+        "strong": "G48870",
+        "lemma": "συνδέω",
+        "morph": "Gr,V,PEP,NMP,"
+      }
+    ],
+    "origWordsTxt": "συνδεδεμένοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1348941,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 5,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1348942,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 6,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 1348943,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 7,
+        "word": "bound",
+        "occurrence": 1
+      },
+      {
+        "id": 1348944,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 8,
+        "word": "with",
+        "occurrence": 1
+      },
+      {
+        "id": 1348945,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 9,
+        "word": "them",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you were bound with them",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "συνδεδεμένοι = you were bound with them",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

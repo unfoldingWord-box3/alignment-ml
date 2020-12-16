@@ -1,0 +1,64 @@
+[
+  {
+    "id": "551253",
+    "book_id": "heb",
+    "chapter": "2",
+    "verse": "4",
+    "alignment_num": "2",
+    "orig_lang_words": ",1535318,",
+    "target_lang_words": ",1342700,1342701,1342702,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535318,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 0,
+        "word": "συνεπιμαρτυροῦντος",
+        "occurrence": 1,
+        "strong": "G49010",
+        "lemma": "συνεπιμαρτυρέω",
+        "morph": "Gr,V,PPA,GMS,"
+      }
+    ],
+    "origWordsTxt": "συνεπιμαρτυροῦντος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1342700,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 2,
+        "word": "testified",
+        "occurrence": 1
+      },
+      {
+        "id": 1342701,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 3,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1342702,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 4,
+        "word": "it",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testified to it",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "συνεπιμαρτυροῦντος = testified to it",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

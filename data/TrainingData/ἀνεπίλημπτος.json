@@ -1,0 +1,152 @@
+[
+  {
+    "id": "547657",
+    "book_id": "1ti",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "5",
+    "orig_lang_words": ",1531699,",
+    "target_lang_words": ",1337586,1337587,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531699,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 4,
+        "word": "ἀνεπίλημπτον",
+        "occurrence": 1,
+        "strong": "G04230",
+        "lemma": "ἀνεπίλημπτος",
+        "morph": "Gr,NS,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ἀνεπίλημπτον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1337586,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 5,
+        "word": "without",
+        "occurrence": 1
+      },
+      {
+        "id": 1337587,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 6,
+        "word": "reproach",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "without reproach",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀνεπίλημπτον = without reproach",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548171",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "7",
+    "alignment_num": "5",
+    "orig_lang_words": ",1532191,",
+    "target_lang_words": ",1338303,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532191,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 4,
+        "word": "ἀνεπίλημπτοι",
+        "occurrence": 1,
+        "strong": "G04230",
+        "lemma": "ἀνεπίλημπτος",
+        "morph": "Gr,NP,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀνεπίλημπτοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338303,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 9,
+        "word": "blameless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blameless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀνεπίλημπτοι = blameless",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548652",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "14",
+    "alignment_num": "4",
+    "orig_lang_words": ",1532669,",
+    "target_lang_words": ",1338997,1338998,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532669,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 5,
+        "word": "ἀνεπίλημπτον",
+        "occurrence": 1,
+        "strong": "G04230",
+        "lemma": "ἀνεπίλημπτος",
+        "morph": "Gr,NP,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀνεπίλημπτον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1338997,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 5,
+        "word": "or",
+        "occurrence": 1
+      },
+      {
+        "id": 1338998,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 6,
+        "word": "blame",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "or blame",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀνεπίλημπτον = or blame",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

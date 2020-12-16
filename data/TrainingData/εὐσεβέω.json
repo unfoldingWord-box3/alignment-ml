@@ -1,0 +1,117 @@
+[
+  {
+    "id": "512951",
+    "book_id": "act",
+    "chapter": "17",
+    "verse": "23",
+    "alignment_num": "21",
+    "orig_lang_words": ",1495496,",
+    "target_lang_words": ",1287197,1287198,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495496,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "23",
+        "word_num": 18,
+        "word": "εὐσεβεῖτε",
+        "occurrence": 1,
+        "strong": "G21510",
+        "lemma": "εὐσεβέω",
+        "morph": "Gr,V,IPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "εὐσεβεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1287197,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "23",
+        "word_num": 26,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1287198,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "23",
+        "word_num": 27,
+        "word": "worship",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "you worship",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐσεβεῖτε = you worship",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548127",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "4",
+    "alignment_num": "11",
+    "orig_lang_words": ",1532150,",
+    "target_lang_words": ",1338233,1338234,1338235,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532150,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "4",
+        "word_num": 13,
+        "word": "εὐσεβεῖν",
+        "occurrence": 1,
+        "strong": "G21510",
+        "lemma": "εὐσεβέω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "εὐσεβεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1338233,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "4",
+        "word_num": 12,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1338234,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "4",
+        "word_num": 13,
+        "word": "show",
+        "occurrence": 1
+      },
+      {
+        "id": 1338235,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "4",
+        "word_num": 14,
+        "word": "honor",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to show honor",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "εὐσεβεῖν = to show honor",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

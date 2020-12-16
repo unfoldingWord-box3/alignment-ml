@@ -1,0 +1,902 @@
+[
+  {
+    "id": "468595",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "11",
+    "orig_lang_words": ",1449259,1449260,",
+    "target_lang_words": ",1226919,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1449259,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 11,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1449260,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 12,
+        "word": "δέησίς",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ δέησίς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1226919,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 13,
+        "word": "prayer",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prayer",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ δέησίς = prayer",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470129",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "37",
+    "alignment_num": "14",
+    "orig_lang_words": ",1450868,",
+    "target_lang_words": ",1229047,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1450868,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "37",
+        "word_num": 14,
+        "word": "δεήσεσιν",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "δεήσεσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1229047,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "37",
+        "word_num": 17,
+        "word": "prayers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prayers",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεήσεσιν = prayers",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "472315",
+    "book_id": "luk",
+    "chapter": "5",
+    "verse": "33",
+    "alignment_num": "12",
+    "orig_lang_words": ",1453092,",
+    "target_lang_words": ",1231950,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1453092,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "33",
+        "word_num": 11,
+        "word": "δεήσεις",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "δεήσεις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1231950,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "33",
+        "word_num": 13,
+        "word": "prayers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prayers",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεήσεις = prayers",
+    "frequency": 0.1111111111111111,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523822",
+    "book_id": "rom",
+    "chapter": "10",
+    "verse": "1",
+    "alignment_num": "6",
+    "orig_lang_words": ",1506904,1506905,",
+    "target_lang_words": ",1302882,1302883,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1506904,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 8,
+        "word": "ἡ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1506905,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 9,
+        "word": "δέησις",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ δέησις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1302882,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 7,
+        "word": "my",
+        "occurrence": 2
+      },
+      {
+        "id": 1302883,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 8,
+        "word": "request",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "my request",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἡ δέησις = my request",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533237",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "11",
+    "alignment_num": "4",
+    "orig_lang_words": ",1516782,1516783,",
+    "target_lang_words": ",1316875,1316876,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1516782,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 5,
+        "word": "τῇ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFS,"
+      },
+      {
+        "id": 1516783,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 6,
+        "word": "δεήσει",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "τῇ δεήσει",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1316875,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 5,
+        "word": "with",
+        "occurrence": 1
+      },
+      {
+        "id": 1316876,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 6,
+        "word": "prayer",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "with prayer",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τῇ δεήσει = with prayer",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535925",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "14",
+    "alignment_num": "2",
+    "orig_lang_words": ",1519559,",
+    "target_lang_words": ",1320727,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519559,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 2,
+        "word": "δεήσει",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "δεήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320727,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 2,
+        "word": "prayers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prayers",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεήσει = prayers",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541820",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "18",
+    "alignment_num": "4",
+    "orig_lang_words": ",1525565,",
+    "target_lang_words": ",1329191,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525565,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 4,
+        "word": "δεήσεως",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "δεήσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329191,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 4,
+        "word": "request",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "request",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεήσεως = request",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541834",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "18",
+    "alignment_num": "18",
+    "orig_lang_words": ",1525580,",
+    "target_lang_words": ",1329208,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525580,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 19,
+        "word": "δεήσει",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "δεήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329208,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 21,
+        "word": "requests",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "requests",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεήσει = requests",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541975",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "3",
+    "orig_lang_words": ",1525727,",
+    "target_lang_words": ",1329402,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525727,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 3,
+        "word": "δεήσει",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "δεήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329402,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 3,
+        "word": "prayer",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prayer",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεήσει = prayer",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541982",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "10",
+    "orig_lang_words": ",1525735,",
+    "target_lang_words": ",1329411,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525735,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 11,
+        "word": "δέησιν",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "δέησιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329411,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 12,
+        "word": "prayer",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "prayer",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δέησιν = prayer",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542216",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "19",
+    "alignment_num": "10",
+    "orig_lang_words": ",1525978,",
+    "target_lang_words": ",1329735,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525978,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 11,
+        "word": "δεήσεως",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "δεήσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329735,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 12,
+        "word": "prayers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prayers",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεήσεως = prayers",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543236",
+    "book_id": "php",
+    "chapter": "4",
+    "verse": "6",
+    "alignment_num": "8",
+    "orig_lang_words": ",1527029,1527030,",
+    "target_lang_words": ",1331279,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1527029,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 8,
+        "word": "τῇ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFS,"
+      },
+      {
+        "id": 1527030,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 9,
+        "word": "δεήσει",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "τῇ δεήσει",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1331279,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 12,
+        "word": "petition",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "petition",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῇ δεήσει = petition",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547458",
+    "book_id": "1ti",
+    "chapter": "2",
+    "verse": "1",
+    "alignment_num": "4",
+    "orig_lang_words": ",1531503,",
+    "target_lang_words": ",1337309,1337310,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531503,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 5,
+        "word": "δεήσεις",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "δεήσεις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1337309,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 6,
+        "word": "that",
+        "occurrence": 1
+      },
+      {
+        "id": 1337310,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 7,
+        "word": "requests",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "that requests",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δεήσεις = that requests",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548155",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "5",
+    "alignment_num": "13",
+    "orig_lang_words": ",1532175,",
+    "target_lang_words": ",1338273,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532175,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 12,
+        "word": "δεήσεσιν",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "δεήσεσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338273,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 22,
+        "word": "requests",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "requests",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεήσεσιν = requests",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548813",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "17",
+    "orig_lang_words": ",1532832,1532833,",
+    "target_lang_words": ",1339225,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1532832,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 19,
+        "word": "ταῖς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFP,"
+      },
+      {
+        "id": 1532833,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 20,
+        "word": "δεήσεσίν",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "ταῖς δεήσεσίν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339225,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 22,
+        "word": "prayers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prayers",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ταῖς δεήσεσίν = prayers",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552152",
+    "book_id": "heb",
+    "chapter": "5",
+    "verse": "7",
+    "alignment_num": "9",
+    "orig_lang_words": ",1536260,",
+    "target_lang_words": ",1344062,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536260,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 7,
+        "word": "δεήσεις",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "δεήσεις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344062,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 10,
+        "word": "prayers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prayers",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεήσεις = prayers",
+    "frequency": 0.1111111111111111,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557251",
+    "book_id": "jas",
+    "chapter": "5",
+    "verse": "16",
+    "alignment_num": "11",
+    "orig_lang_words": ",1541628,",
+    "target_lang_words": ",1351710,1351711,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541628,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 13,
+        "word": "δέησις",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "δέησις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1351710,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 18,
+        "word": "The",
+        "occurrence": 1
+      },
+      {
+        "id": 1351711,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 19,
+        "word": "prayer",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "The prayer",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δέησις = The prayer",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558285",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "12",
+    "alignment_num": "6",
+    "orig_lang_words": ",1542686,1542687,",
+    "target_lang_words": ",1353320,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1542686,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 8,
+        "word": "εἰς",
+        "occurrence": 1,
+        "strong": "G15190",
+        "lemma": "εἰς",
+        "morph": "Gr,P,,,,,A,,,"
+      },
+      {
+        "id": 1542687,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 9,
+        "word": "δέησιν",
+        "occurrence": 1,
+        "strong": "G11620",
+        "lemma": "δέησις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "εἰς δέησιν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1353320,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 11,
+        "word": "hear",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "hear",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εἰς δέησιν = hear",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "551197",
+    "book_id": "heb",
+    "chapter": "1",
+    "verse": "14",
+    "alignment_num": "7",
+    "orig_lang_words": ",1535262,",
+    "target_lang_words": ",1342617,1342618,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535262,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 3,
+        "word": "λειτουργικὰ",
+        "occurrence": 1,
+        "strong": "G30100",
+        "lemma": "λειτουργικός",
+        "morph": "Gr,AA,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "λειτουργικὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1342617,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 11,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1342618,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 12,
+        "word": "care",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to care",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "λειτουργικὰ = to care",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

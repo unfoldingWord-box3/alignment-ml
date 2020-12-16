@@ -1,0 +1,170 @@
+[
+  {
+    "id": "520620",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "15",
+    "alignment_num": "12",
+    "orig_lang_words": ",1503406,",
+    "target_lang_words": ",1297921,1297922,1297923,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503406,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 11,
+        "word": "συνμαρτυρούσης",
+        "occurrence": 1,
+        "strong": "G48280",
+        "lemma": "συνμαρτυρέω",
+        "morph": "Gr,V,PPA,GFS,"
+      }
+    ],
+    "origWordsTxt": "συνμαρτυρούσης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1297921,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 18,
+        "word": "also",
+        "occurrence": 1
+      },
+      {
+        "id": 1297922,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 19,
+        "word": "bears",
+        "occurrence": 1
+      },
+      {
+        "id": 1297923,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 20,
+        "word": "witness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "also bears witness",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "συνμαρτυρούσης = also bears witness",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522955",
+    "book_id": "rom",
+    "chapter": "8",
+    "verse": "16",
+    "alignment_num": "3",
+    "orig_lang_words": ",1505980,",
+    "target_lang_words": ",1301539,1301540,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505980,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "16",
+        "word_num": 3,
+        "word": "συνμαρτυρεῖ",
+        "occurrence": 1,
+        "strong": "G48280",
+        "lemma": "συνμαρτυρέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "συνμαρτυρεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1301539,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "16",
+        "word_num": 3,
+        "word": "bears",
+        "occurrence": 1
+      },
+      {
+        "id": 1301540,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "16",
+        "word_num": 4,
+        "word": "witness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "bears witness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "συνμαρτυρεῖ = bears witness",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523341",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "1",
+    "alignment_num": "9",
+    "orig_lang_words": ",1506377,",
+    "target_lang_words": ",1302122,1302123,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506377,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 6,
+        "word": "συνμαρτυρούσης",
+        "occurrence": 1,
+        "strong": "G48280",
+        "lemma": "συνμαρτυρέω",
+        "morph": "Gr,V,PPA,GFS,"
+      }
+    ],
+    "origWordsTxt": "συνμαρτυρούσης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1302122,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 13,
+        "word": "bears",
+        "occurrence": 1
+      },
+      {
+        "id": 1302123,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 14,
+        "word": "witness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "bears witness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "συνμαρτυρούσης = bears witness",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

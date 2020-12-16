@@ -1,0 +1,117 @@
+[
+  {
+    "id": "503838",
+    "book_id": "act",
+    "chapter": "4",
+    "verse": "9",
+    "alignment_num": "5",
+    "orig_lang_words": ",1486131,",
+    "target_lang_words": ",1274919,1274920,1274921,1274922,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1486131,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 5,
+        "word": "εὐεργεσίᾳ",
+        "occurrence": 1,
+        "strong": "G21080",
+        "lemma": "εὐεργεσία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "εὐεργεσίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1274919,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 8,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1274920,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 9,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1274921,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 10,
+        "word": "deed",
+        "occurrence": 1
+      },
+      {
+        "id": 1274922,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 11,
+        "word": "to",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a good deed to",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "εὐεργεσίᾳ = a good deed to",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548465",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "2",
+    "alignment_num": "17",
+    "orig_lang_words": ",1532483,",
+    "target_lang_words": ",1338739,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532483,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "2",
+        "word_num": 20,
+        "word": "εὐεργεσίας",
+        "occurrence": 1,
+        "strong": "G21080",
+        "lemma": "εὐεργεσία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "εὐεργεσίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338739,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "2",
+        "word_num": 27,
+        "word": "by",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "by",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐεργεσίας = by",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

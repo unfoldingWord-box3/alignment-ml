@@ -1,0 +1,55 @@
+[
+  {
+    "id": "467241",
+    "book_id": "mrk",
+    "chapter": "14",
+    "verse": "44",
+    "alignment_num": "5",
+    "orig_lang_words": ",1447645,",
+    "target_lang_words": ",1224669,1224670,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1447645,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "44",
+        "word_num": 5,
+        "word": "σύσσημον",
+        "occurrence": 1,
+        "strong": "G49530",
+        "lemma": "σύσσημον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "σύσσημον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1224669,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "44",
+        "word_num": 6,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1224670,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "44",
+        "word_num": 7,
+        "word": "sign",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a sign",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σύσσημον = a sign",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

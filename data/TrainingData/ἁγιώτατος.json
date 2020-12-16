@@ -1,0 +1,58 @@
+[
+  {
+    "id": "562637",
+    "book_id": "jud",
+    "chapter": "1",
+    "verse": "20",
+    "alignment_num": "6",
+    "orig_lang_words": ",1547445,1547446,",
+    "target_lang_words": ",1359815,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1547445,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 5,
+        "word": "τῇ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFS,"
+      },
+      {
+        "id": 1547446,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 6,
+        "word": "ἁγιωτάτῃ",
+        "occurrence": 1,
+        "strong": "G00425",
+        "lemma": "ἁγιώτατος",
+        "morph": "Gr,AA,,,,DFSS"
+      }
+    ],
+    "origWordsTxt": "τῇ ἁγιωτάτῃ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1359815,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 6,
+        "word": "in",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῇ ἁγιωτάτῃ = in",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

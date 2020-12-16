@@ -1,0 +1,185 @@
+[
+  {
+    "id": "513063",
+    "book_id": "act",
+    "chapter": "17",
+    "verse": "29",
+    "alignment_num": "9",
+    "orig_lang_words": ",1495620,",
+    "target_lang_words": ",1287351,1287352,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495620,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "29",
+        "word_num": 19,
+        "word": "θεῖον",
+        "occurrence": 1,
+        "strong": "G23040",
+        "lemma": "θεῖος",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "θεῖον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1287351,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "29",
+        "word_num": 11,
+        "word": "divine",
+        "occurrence": 1
+      },
+      {
+        "id": 1287352,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "29",
+        "word_num": 12,
+        "word": "being",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "divine being",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θεῖον = divine being",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558918",
+    "book_id": "2pe",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "3",
+    "orig_lang_words": ",1543414,1543415,1543416,",
+    "target_lang_words": ",1354458,",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 1543414,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 3,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1543415,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 4,
+        "word": "θείας",
+        "occurrence": 1,
+        "strong": "G23040",
+        "lemma": "θεῖος",
+        "morph": "Gr,AA,,,,GFS,"
+      },
+      {
+        "id": 1543416,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 5,
+        "word": "δυνάμεως",
+        "occurrence": 1,
+        "strong": "G14110",
+        "lemma": "δύναμις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς θείας δυνάμεως",
+    "alignmentOrigWords": 3,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1354458,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 4,
+        "word": "concerning",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "concerning",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῆς θείας δυνάμεως = concerning",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558949",
+    "book_id": "2pe",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "13",
+    "orig_lang_words": ",1543447,",
+    "target_lang_words": ",1354502,1354503,1354504,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543447,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 13,
+        "word": "θείας",
+        "occurrence": 1,
+        "strong": "G23040",
+        "lemma": "θεῖος",
+        "morph": "Gr,NS,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "θείας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1354502,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 17,
+        "word": "in",
+        "occurrence": 1
+      },
+      {
+        "id": 1354503,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 18,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1354504,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 19,
+        "word": "divine",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in the divine",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "θείας = in the divine",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

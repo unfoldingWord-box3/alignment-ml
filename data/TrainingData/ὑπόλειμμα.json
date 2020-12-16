@@ -1,0 +1,103 @@
+[
+  {
+    "id": "523730",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "27",
+    "alignment_num": "17",
+    "orig_lang_words": ",1506805,1506806,",
+    "target_lang_words": ",1302738,1302739,1302740,1302741,1302742,1302743,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1506805,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 18,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1506806,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 19,
+        "word": "ὑπόλειμμα",
+        "occurrence": 1,
+        "strong": "G52747",
+        "lemma": "ὑπόλειμμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ὑπόλειμμα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 5,
+    "targetWords": [
+      {
+        "id": 1302738,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 21,
+        "word": "it",
+        "occurrence": 1
+      },
+      {
+        "id": 1302739,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 22,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1302740,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 23,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 1302741,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 24,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1302742,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 25,
+        "word": "remnant",
+        "occurrence": 1
+      },
+      {
+        "id": 1302743,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 26,
+        "word": "that",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "it will be a remnant that",
+    "alignmentTargetWords": 6,
+    "alignmentTxt": "τὸ ὑπόλειμμα = it will be a remnant that",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

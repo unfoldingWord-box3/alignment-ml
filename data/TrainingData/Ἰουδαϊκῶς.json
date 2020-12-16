@@ -1,0 +1,64 @@
+[
+  {
+    "id": "537973",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "14",
+    "alignment_num": "25",
+    "orig_lang_words": ",1521650,",
+    "target_lang_words": ",1323849,1323850,1323851,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521650,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 23,
+        "word": "Ἰουδαϊκῶς",
+        "occurrence": 1,
+        "strong": "G24520",
+        "lemma": "Ἰουδαϊκῶς",
+        "morph": "Gr,D,,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "Ἰουδαϊκῶς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1323849,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 40,
+        "word": "like",
+        "occurrence": 2
+      },
+      {
+        "id": 1323850,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 41,
+        "word": "a",
+        "occurrence": 3
+      },
+      {
+        "id": 1323851,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 42,
+        "word": "Jew",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "like a Jew",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "Ἰουδαϊκῶς = like a Jew",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

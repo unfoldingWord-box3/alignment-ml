@@ -1,0 +1,108 @@
+[
+  {
+    "id": "557979",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "4",
+    "orig_lang_words": ",1542360,",
+    "target_lang_words": ",1352824,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542360,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 3,
+        "word": "ἀδελφότητα",
+        "occurrence": 1,
+        "strong": "G00810",
+        "lemma": "ἀδελφότης",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀδελφότητα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352824,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 5,
+        "word": "brotherhood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "brotherhood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀδελφότητα = brotherhood",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558810",
+    "book_id": "1pe",
+    "chapter": "5",
+    "verse": "9",
+    "alignment_num": "7",
+    "orig_lang_words": ",1543300,",
+    "target_lang_words": ",1354272,1354273,1354274,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543300,
+        "book_id": "1pe",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 15,
+        "word": "ἀδελφότητι",
+        "occurrence": 1,
+        "strong": "G00810",
+        "lemma": "ἀδελφότης",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "ἀδελφότητι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1354272,
+        "book_id": "1pe",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 12,
+        "word": "community",
+        "occurrence": 1
+      },
+      {
+        "id": 1354273,
+        "book_id": "1pe",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 13,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1354274,
+        "book_id": "1pe",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 14,
+        "word": "believers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "community of believers",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀδελφότητι = community of believers",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

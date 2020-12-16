@@ -1,0 +1,108 @@
+[
+  {
+    "id": "549634",
+    "book_id": "2ti",
+    "chapter": "3",
+    "verse": "15",
+    "alignment_num": "9",
+    "orig_lang_words": ",1533656,",
+    "target_lang_words": ",1340383,1340384,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533656,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 10,
+        "word": "σοφίσαι",
+        "occurrence": 1,
+        "strong": "G46790",
+        "lemma": "σοφίζω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "σοφίσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1340383,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 13,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1340384,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 14,
+        "word": "make",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to make",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σοφίσαι = to make",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559117",
+    "book_id": "2pe",
+    "chapter": "1",
+    "verse": "16",
+    "alignment_num": "4",
+    "orig_lang_words": ",1543642,",
+    "target_lang_words": ",1354759,1354760,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543642,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 2,
+        "word": "σεσοφισμένοις",
+        "occurrence": 1,
+        "strong": "G46790",
+        "lemma": "σοφίζω",
+        "morph": "Gr,V,PEP,DMP,"
+      }
+    ],
+    "origWordsTxt": "σεσοφισμένοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1354759,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 5,
+        "word": "cleverly",
+        "occurrence": 1
+      },
+      {
+        "id": 1354760,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 6,
+        "word": "invented",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "cleverly invented",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σεσοφισμένοις = cleverly invented",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

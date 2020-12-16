@@ -1,0 +1,199 @@
+[
+  {
+    "id": "529896",
+    "book_id": "1co",
+    "chapter": "10",
+    "verse": "14",
+    "alignment_num": "5",
+    "orig_lang_words": ",1513335,1513336,",
+    "target_lang_words": ",1311980,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1513335,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "14",
+        "word_num": 5,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1513336,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "14",
+        "word_num": 6,
+        "word": "εἰδωλολατρίας",
+        "occurrence": 1,
+        "strong": "G14950",
+        "lemma": "εἰδωλολατρία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς εἰδωλολατρίας",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1311980,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "14",
+        "word_num": 6,
+        "word": "idolatry",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "idolatry",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῆς εἰδωλολατρίας = idolatry",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539194",
+    "book_id": "gal",
+    "chapter": "5",
+    "verse": "20",
+    "alignment_num": "0",
+    "orig_lang_words": ",1522919,",
+    "target_lang_words": ",1325766,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522919,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 0,
+        "word": "εἰδωλολατρία",
+        "occurrence": 1,
+        "strong": "G14950",
+        "lemma": "εἰδωλολατρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "εἰδωλολατρία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325766,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 0,
+        "word": "idolatry",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "idolatry",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εἰδωλολατρία = idolatry",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544417",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "16",
+    "orig_lang_words": ",1528311,",
+    "target_lang_words": ",1333039,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528311,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 18,
+        "word": "εἰδωλολατρία",
+        "occurrence": 1,
+        "strong": "G14950",
+        "lemma": "εἰδωλολατρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "εἰδωλολατρία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333039,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 20,
+        "word": "idolatry",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "idolatry",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εἰδωλολατρία = idolatry",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558496",
+    "book_id": "1pe",
+    "chapter": "4",
+    "verse": "3",
+    "alignment_num": "18",
+    "orig_lang_words": ",1542914,",
+    "target_lang_words": ",1353684,1353685,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542914,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 19,
+        "word": "εἰδωλολατρίαις",
+        "occurrence": 1,
+        "strong": "G14950",
+        "lemma": "εἰδωλολατρία",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "εἰδωλολατρίαις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1353684,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 27,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1353685,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 28,
+        "word": "idolatry",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of idolatry",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εἰδωλολατρίαις = of idolatry",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

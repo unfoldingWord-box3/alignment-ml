@@ -1,0 +1,197 @@
+[
+  {
+    "id": "509794",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "2",
+    "alignment_num": "2",
+    "orig_lang_words": ",1492240,",
+    "target_lang_words": ",1282899,1282900,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492240,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "2",
+        "word_num": 0,
+        "word": "λειτουργούντων",
+        "occurrence": 1,
+        "strong": "G30080",
+        "lemma": "λειτουργέω",
+        "morph": "Gr,V,PPA,GMP,"
+      }
+    ],
+    "origWordsTxt": "λειτουργούντων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1282899,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "2",
+        "word_num": 2,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 1282900,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "2",
+        "word_num": 3,
+        "word": "worshiping",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "were worshiping",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "λειτουργούντων = were worshiping",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525937",
+    "book_id": "rom",
+    "chapter": "15",
+    "verse": "27",
+    "alignment_num": "15",
+    "orig_lang_words": ",1509217,",
+    "target_lang_words": ",1306175,1306176,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509217,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "27",
+        "word_num": 19,
+        "word": "λειτουργῆσαι",
+        "occurrence": 1,
+        "strong": "G30080",
+        "lemma": "λειτουργέω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "λειτουργῆσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1306175,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "27",
+        "word_num": 28,
+        "word": "to",
+        "occurrence": 3
+      },
+      {
+        "id": 1306176,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "27",
+        "word_num": 29,
+        "word": "serve",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to serve",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "λειτουργῆσαι = to serve",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553890",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "11",
+    "alignment_num": "6",
+    "orig_lang_words": ",1538079,",
+    "target_lang_words": ",1346687,1346688,1346689,1346690,1346691,1346692,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538079,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 7,
+        "word": "λειτουργῶν",
+        "occurrence": 1,
+        "strong": "G30080",
+        "lemma": "λειτουργέω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "λειτουργῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 5,
+    "targetWords": [
+      {
+        "id": 1346687,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 8,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1346688,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 9,
+        "word": "performs",
+        "occurrence": 1
+      },
+      {
+        "id": 1346689,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 10,
+        "word": "his",
+        "occurrence": 1
+      },
+      {
+        "id": 1346690,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 11,
+        "word": "service",
+        "occurrence": 1
+      },
+      {
+        "id": 1346691,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 12,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1346692,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 13,
+        "word": "God",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and performs his service to God",
+    "alignmentTargetWords": 6,
+    "alignmentTxt": "λειτουργῶν = and performs his service to God",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

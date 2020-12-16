@@ -1,0 +1,182 @@
+[
+  {
+    "id": "557918",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "12",
+    "alignment_num": "12",
+    "orig_lang_words": ",1542293,",
+    "target_lang_words": ",1352731,1352732,1352733,1352734,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542293,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 14,
+        "word": "κακοποιῶν",
+        "occurrence": 1,
+        "strong": "G25550",
+        "lemma": "κακοποιός",
+        "morph": "Gr,NS,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "κακοποιῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1352731,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 16,
+        "word": "having",
+        "occurrence": 1
+      },
+      {
+        "id": 1352732,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 17,
+        "word": "done",
+        "occurrence": 1
+      },
+      {
+        "id": 1352733,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 18,
+        "word": "evil",
+        "occurrence": 1
+      },
+      {
+        "id": 1352734,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 19,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "having done evil things",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "κακοποιῶν = having done evil things",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557947",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "14",
+    "alignment_num": "7",
+    "orig_lang_words": ",1542324,",
+    "target_lang_words": ",1352774,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542324,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 8,
+        "word": "κακοποιῶν",
+        "occurrence": 1,
+        "strong": "G25550",
+        "lemma": "κακοποιός",
+        "morph": "Gr,NS,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "κακοποιῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352774,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 9,
+        "word": "evildoers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evildoers",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακοποιῶν = evildoers",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558646",
+    "book_id": "1pe",
+    "chapter": "4",
+    "verse": "15",
+    "alignment_num": "8",
+    "orig_lang_words": ",1543096,1543097,",
+    "target_lang_words": ",1353970,1353971,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1543096,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 9,
+        "word": "ἢ",
+        "occurrence": 2,
+        "strong": "G22280",
+        "lemma": "ἤ",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1543097,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 10,
+        "word": "κακοποιὸς",
+        "occurrence": 1,
+        "strong": "G25550",
+        "lemma": "κακοποιός",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἢ κακοποιὸς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1353970,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 11,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 1353971,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 12,
+        "word": "evildoer",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an evildoer",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἢ κακοποιὸς = an evildoer",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

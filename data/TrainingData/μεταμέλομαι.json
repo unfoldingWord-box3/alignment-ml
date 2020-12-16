@@ -1,0 +1,170 @@
+[
+  {
+    "id": "535102",
+    "book_id": "2co",
+    "chapter": "7",
+    "verse": "8",
+    "alignment_num": "8",
+    "orig_lang_words": ",1518699,",
+    "target_lang_words": ",1319524,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518699,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 9,
+        "word": "μεταμέλομαι",
+        "occurrence": 1,
+        "strong": "G33380",
+        "lemma": "μεταμέλομαι",
+        "morph": "Gr,V,IPM1,,S,"
+      }
+    ],
+    "origWordsTxt": "μεταμέλομαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319524,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 9,
+        "word": "I",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "I",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μεταμέλομαι = I",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535107",
+    "book_id": "2co",
+    "chapter": "7",
+    "verse": "8",
+    "alignment_num": "13",
+    "orig_lang_words": ",1518702,",
+    "target_lang_words": ",1319531,1319532,1319533,1319534,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518702,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 12,
+        "word": "μετεμελόμην",
+        "occurrence": 1,
+        "strong": "G33380",
+        "lemma": "μεταμέλομαι",
+        "morph": "Gr,V,IIM1,,S,"
+      }
+    ],
+    "origWordsTxt": "μετεμελόμην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1319531,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 16,
+        "word": "I",
+        "occurrence": 3
+      },
+      {
+        "id": 1319532,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 17,
+        "word": "did",
+        "occurrence": 1
+      },
+      {
+        "id": 1319533,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 18,
+        "word": "regret",
+        "occurrence": 2
+      },
+      {
+        "id": 1319534,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 19,
+        "word": "it",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "I did regret it",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "μετεμελόμην = I did regret it",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552881",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "21",
+    "alignment_num": "13",
+    "orig_lang_words": ",1537017,",
+    "target_lang_words": ",1345132,1345133,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537017,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "21",
+        "word_num": 13,
+        "word": "μεταμεληθήσεται",
+        "occurrence": 1,
+        "strong": "G33380",
+        "lemma": "μεταμέλομαι",
+        "morph": "Gr,V,IFP3,,S,"
+      }
+    ],
+    "origWordsTxt": "μεταμεληθήσεται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1345132,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "21",
+        "word_num": 18,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1345133,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "21",
+        "word_num": 19,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μεταμεληθήσεται = he will",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

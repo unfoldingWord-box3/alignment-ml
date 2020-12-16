@@ -1,0 +1,55 @@
+[
+  {
+    "id": "495222",
+    "book_id": "jhn",
+    "chapter": "11",
+    "verse": "16",
+    "alignment_num": "6",
+    "orig_lang_words": ",1476980,",
+    "target_lang_words": ",1263144,1263145,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476980,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 7,
+        "word": "συνμαθηταῖς",
+        "occurrence": 1,
+        "strong": "G48270",
+        "lemma": "συνμαθητής",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "συνμαθηταῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1263144,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 9,
+        "word": "fellow",
+        "occurrence": 1
+      },
+      {
+        "id": 1263145,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 10,
+        "word": "disciples",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fellow disciples",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "συνμαθηταῖς = fellow disciples",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

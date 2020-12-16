@@ -1,0 +1,55 @@
+[
+  {
+    "id": "528664",
+    "book_id": "1co",
+    "chapter": "7",
+    "verse": "18",
+    "alignment_num": "4",
+    "orig_lang_words": ",1512078,",
+    "target_lang_words": ",1310082,1310083,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1512078,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "18",
+        "word_num": 4,
+        "word": "ἐπισπάσθω",
+        "occurrence": 1,
+        "strong": "G19860",
+        "lemma": "ἐπισπάομαι",
+        "morph": "Gr,V,MPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπισπάσθω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1310082,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "18",
+        "word_num": 7,
+        "word": "Let",
+        "occurrence": 1
+      },
+      {
+        "id": 1310083,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "18",
+        "word_num": 8,
+        "word": "him",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Let him",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπισπάσθω = Let him",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

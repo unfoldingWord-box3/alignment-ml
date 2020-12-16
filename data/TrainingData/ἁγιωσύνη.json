@@ -1,0 +1,143 @@
+[
+  {
+    "id": "519936",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "2",
+    "orig_lang_words": ",1502667,",
+    "target_lang_words": ",1296865,1296866,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502667,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 8,
+        "word": "ἁγιωσύνης",
+        "occurrence": 1,
+        "strong": "G00420",
+        "lemma": "ἁγιωσύνη",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἁγιωσύνης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1296865,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 3,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1296866,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 4,
+        "word": "holiness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of holiness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἁγιωσύνης = of holiness",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534986",
+    "book_id": "2co",
+    "chapter": "7",
+    "verse": "1",
+    "alignment_num": "14",
+    "orig_lang_words": ",1518574,",
+    "target_lang_words": ",1319355,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518574,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 15,
+        "word": "ἁγιωσύνην",
+        "occurrence": 1,
+        "strong": "G00420",
+        "lemma": "ἁγιωσύνη",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἁγιωσύνην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319355,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 18,
+        "word": "holiness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "holiness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁγιωσύνην = holiness",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545743",
+    "book_id": "1th",
+    "chapter": "3",
+    "verse": "13",
+    "alignment_num": "6",
+    "orig_lang_words": ",1529723,",
+    "target_lang_words": ",1334875,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529723,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 8,
+        "word": "ἁγιωσύνῃ",
+        "occurrence": 1,
+        "strong": "G00420",
+        "lemma": "ἁγιωσύνη",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "ἁγιωσύνῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334875,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 11,
+        "word": "holiness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "holiness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁγιωσύνῃ = holiness",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

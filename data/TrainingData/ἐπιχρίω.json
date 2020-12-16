@@ -1,0 +1,99 @@
+[
+  {
+    "id": "493769",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "6",
+    "alignment_num": "11",
+    "orig_lang_words": ",1475435,",
+    "target_lang_words": ",1261180,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475435,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 11,
+        "word": "ἐπέχρισεν",
+        "occurrence": 1,
+        "strong": "G20250",
+        "lemma": "ἐπιχρίω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπέχρισεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1261180,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 17,
+        "word": "smeared",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "smeared",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπέχρισεν = smeared",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493845",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "11",
+    "alignment_num": "9",
+    "orig_lang_words": ",1475517,",
+    "target_lang_words": ",1261283,1261284,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475517,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 10,
+        "word": "ἐπέχρισέν",
+        "occurrence": 1,
+        "strong": "G20250",
+        "lemma": "ἐπιχρίω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπέχρισέν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1261283,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 11,
+        "word": "smeared",
+        "occurrence": 1
+      },
+      {
+        "id": 1261284,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 12,
+        "word": "it",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "smeared it",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπέχρισέν = smeared it",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

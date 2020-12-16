@@ -1,0 +1,884 @@
+[
+  {
+    "id": "465299",
+    "book_id": "mrk",
+    "chapter": "12",
+    "verse": "3",
+    "alignment_num": "6",
+    "orig_lang_words": ",1445551,",
+    "target_lang_words": ",1221929,1221930,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1445551,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "3",
+        "word_num": 6,
+        "word": "κενόν",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NS,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "κενόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1221929,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "3",
+        "word_num": 10,
+        "word": "with",
+        "occurrence": 1
+      },
+      {
+        "id": 1221930,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "3",
+        "word_num": 11,
+        "word": "nothing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "with nothing",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κενόν = with nothing",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469216",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "53",
+    "alignment_num": "6",
+    "orig_lang_words": ",1449907,",
+    "target_lang_words": ",1227792,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449907,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "53",
+        "word_num": 6,
+        "word": "κενούς",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NS,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "κενούς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1227792,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "53",
+        "word_num": 15,
+        "word": "empty",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "empty",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κενούς = empty",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483711",
+    "book_id": "luk",
+    "chapter": "20",
+    "verse": "10",
+    "alignment_num": "23",
+    "orig_lang_words": ",1464661,",
+    "target_lang_words": ",1247555,1247556,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464661,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "10",
+        "word_num": 21,
+        "word": "κενόν",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NS,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "κενόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1247555,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "10",
+        "word_num": 35,
+        "word": "empty",
+        "occurrence": 1
+      },
+      {
+        "id": 1247556,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "10",
+        "word_num": 36,
+        "word": "handed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "empty handed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κενόν = empty handed",
+    "frequency": 0.1111111111111111,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483725",
+    "book_id": "luk",
+    "chapter": "20",
+    "verse": "11",
+    "alignment_num": "13",
+    "orig_lang_words": ",1464674,",
+    "target_lang_words": ",1247578,1247579,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464674,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "11",
+        "word_num": 12,
+        "word": "κενόν",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NS,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "κενόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1247578,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "11",
+        "word_num": 21,
+        "word": "empty",
+        "occurrence": 1
+      },
+      {
+        "id": 1247579,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "11",
+        "word_num": 22,
+        "word": "handed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "empty handed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κενόν = empty handed",
+    "frequency": 0.1111111111111111,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504144",
+    "book_id": "act",
+    "chapter": "4",
+    "verse": "25",
+    "alignment_num": "21",
+    "orig_lang_words": ",1486447,",
+    "target_lang_words": ",1275333,1275334,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1486447,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "25",
+        "word_num": 19,
+        "word": "κενά",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "κενά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1275333,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "25",
+        "word_num": 24,
+        "word": "useless",
+        "occurrence": 1
+      },
+      {
+        "id": 1275334,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "25",
+        "word_num": 25,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "useless things",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κενά = useless things",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532031",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "10",
+    "alignment_num": "14",
+    "orig_lang_words": ",1515530,",
+    "target_lang_words": ",1315162,1315163,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515530,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "10",
+        "word_num": 14,
+        "word": "κενὴ",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NP,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "κενὴ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1315162,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "10",
+        "word_num": 20,
+        "word": "in",
+        "occurrence": 2
+      },
+      {
+        "id": 1315163,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "10",
+        "word_num": 21,
+        "word": "vain",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in vain",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κενὴ = in vain",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532092",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "14",
+    "alignment_num": "9",
+    "orig_lang_words": ",1515589,",
+    "target_lang_words": ",1315247,1315248,1315249,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515589,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "14",
+        "word_num": 5,
+        "word": "κενὸν",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NP,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "κενὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1315247,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "14",
+        "word_num": 10,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1315248,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "14",
+        "word_num": 11,
+        "word": "in",
+        "occurrence": 1
+      },
+      {
+        "id": 1315249,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "14",
+        "word_num": 12,
+        "word": "vain",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is in vain",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "κενὸν = is in vain",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532096",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "14",
+    "alignment_num": "13",
+    "orig_lang_words": ",1515594,",
+    "target_lang_words": ",1315253,1315254,1315255,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515594,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "14",
+        "word_num": 10,
+        "word": "κενὴ",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NP,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "κενὴ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1315253,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "14",
+        "word_num": 16,
+        "word": "is",
+        "occurrence": 2
+      },
+      {
+        "id": 1315254,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "14",
+        "word_num": 17,
+        "word": "in",
+        "occurrence": 2
+      },
+      {
+        "id": 1315255,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "14",
+        "word_num": 18,
+        "word": "vain",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "is in vain",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "κενὴ = is in vain",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532711",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "58",
+    "alignment_num": "20",
+    "orig_lang_words": ",1516238,",
+    "target_lang_words": ",1316143,1316144,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516238,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "58",
+        "word_num": 21,
+        "word": "κενὸς",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "κενὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1316143,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "58",
+        "word_num": 21,
+        "word": "in",
+        "occurrence": 2
+      },
+      {
+        "id": 1316144,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "58",
+        "word_num": 22,
+        "word": "vain",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in vain",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κενὸς = in vain",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534710",
+    "book_id": "2co",
+    "chapter": "6",
+    "verse": "1",
+    "alignment_num": "12",
+    "orig_lang_words": ",1518299,",
+    "target_lang_words": ",1318990,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518299,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "1",
+        "word_num": 6,
+        "word": "κενὸν",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "κενὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1318990,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "1",
+        "word_num": 17,
+        "word": "vain",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "vain",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κενὸν = vain",
+    "frequency": 0.2777777777777778,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537772",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "2",
+    "alignment_num": "23",
+    "orig_lang_words": ",1521436,",
+    "target_lang_words": ",1323499,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521436,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 22,
+        "word": "κενὸν",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "κενὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1323499,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 45,
+        "word": "vain",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "vain",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κενὸν = vain",
+    "frequency": 0.2777777777777778,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541179",
+    "book_id": "eph",
+    "chapter": "5",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1524918,",
+    "target_lang_words": ",1328398,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524918,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 3,
+        "word": "κενοῖς",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,AA,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "κενοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1328398,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 6,
+        "word": "empty",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "empty",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κενοῖς = empty",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542627",
+    "book_id": "php",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "14",
+    "orig_lang_words": ",1526410,",
+    "target_lang_words": ",1330353,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526410,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 12,
+        "word": "κενὸν",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "κενὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1330353,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 23,
+        "word": "vain",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "vain",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κενὸν = vain",
+    "frequency": 0.2777777777777778,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542631",
+    "book_id": "php",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "18",
+    "orig_lang_words": ",1526414,",
+    "target_lang_words": ",1330357,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526414,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 16,
+        "word": "κενὸν",
+        "occurrence": 2,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "κενὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1330357,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 27,
+        "word": "vain",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "vain",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κενὸν = vain",
+    "frequency": 0.2777777777777778,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544113",
+    "book_id": "col",
+    "chapter": "2",
+    "verse": "8",
+    "alignment_num": "7",
+    "orig_lang_words": ",1527979,",
+    "target_lang_words": ",1332596,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527979,
+        "book_id": "col",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 11,
+        "word": "κενῆς",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,AA,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "κενῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1332596,
+        "book_id": "col",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 9,
+        "word": "empty",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "empty",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κενῆς = empty",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545167",
+    "book_id": "1th",
+    "chapter": "2",
+    "verse": "1",
+    "alignment_num": "12",
+    "orig_lang_words": ",1529115,",
+    "target_lang_words": ",1334088,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529115,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 12,
+        "word": "κενὴ",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NP,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "κενὴ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334088,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 12,
+        "word": "useless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "useless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κενὴ = useless",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545607",
+    "book_id": "1th",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "24",
+    "orig_lang_words": ",1529576,",
+    "target_lang_words": ",1334704,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529576,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 20,
+        "word": "κενὸν",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "κενὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334704,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 31,
+        "word": "vain",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "vain",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κενὸν = vain",
+    "frequency": 0.2777777777777778,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556368",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "20",
+    "alignment_num": "3",
+    "orig_lang_words": ",1540677,",
+    "target_lang_words": ",1350439,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540677,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 5,
+        "word": "κενέ",
+        "occurrence": 1,
+        "strong": "G27560",
+        "lemma": "κενός",
+        "morph": "Gr,AA,,,,VMS,"
+      }
+    ],
+    "origWordsTxt": "κενέ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350439,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 6,
+        "word": "foolish",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "foolish",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κενέ = foolish",
+    "frequency": 0.05555555555555555,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

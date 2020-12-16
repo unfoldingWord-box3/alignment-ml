@@ -1,0 +1,64 @@
+[
+  {
+    "id": "477030",
+    "book_id": "luk",
+    "chapter": "10",
+    "verse": "34",
+    "alignment_num": "2",
+    "orig_lang_words": ",1457883,",
+    "target_lang_words": ",1238307,1238308,1238309,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1457883,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "34",
+        "word_num": 2,
+        "word": "κατέδησεν",
+        "occurrence": 1,
+        "strong": "G26110",
+        "lemma": "καταδέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "κατέδησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1238307,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "34",
+        "word_num": 3,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1238308,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "34",
+        "word_num": 4,
+        "word": "bound",
+        "occurrence": 1
+      },
+      {
+        "id": 1238309,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "34",
+        "word_num": 5,
+        "word": "up",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he bound up",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "κατέδησεν = he bound up",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

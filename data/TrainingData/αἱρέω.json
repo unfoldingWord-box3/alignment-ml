@@ -1,0 +1,152 @@
+[
+  {
+    "id": "542269",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "22",
+    "alignment_num": "11",
+    "orig_lang_words": ",1526036,",
+    "target_lang_words": ",1329815,1329816,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526036,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 12,
+        "word": "αἱρήσομαι",
+        "occurrence": 1,
+        "strong": "G01380",
+        "lemma": "αἱρέω",
+        "morph": "Gr,V,IFM1,,S,"
+      }
+    ],
+    "origWordsTxt": "αἱρήσομαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1329815,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 17,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1329816,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 18,
+        "word": "choose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to choose",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "αἱρήσομαι = to choose",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546800",
+    "book_id": "2th",
+    "chapter": "2",
+    "verse": "13",
+    "alignment_num": "14",
+    "orig_lang_words": ",1530835,",
+    "target_lang_words": ",1336378,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530835,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 14,
+        "word": "εἵλατο",
+        "occurrence": 1,
+        "strong": "G01380",
+        "lemma": "αἱρέω",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "εἵλατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336378,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 17,
+        "word": "chose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chose",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εἵλατο = chose",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554646",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "25",
+    "alignment_num": "1",
+    "orig_lang_words": ",1538877,",
+    "target_lang_words": ",1347871,1347872,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538877,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "25",
+        "word_num": 1,
+        "word": "ἑλόμενος",
+        "occurrence": 1,
+        "strong": "G01380",
+        "lemma": "αἱρέω",
+        "morph": "Gr,V,PAM,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἑλόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1347871,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "25",
+        "word_num": 1,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1347872,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "25",
+        "word_num": 2,
+        "word": "chose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he chose",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἑλόμενος = he chose",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

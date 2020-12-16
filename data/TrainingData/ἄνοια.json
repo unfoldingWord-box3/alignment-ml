@@ -1,0 +1,111 @@
+[
+  {
+    "id": "472642",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "11",
+    "alignment_num": "3",
+    "orig_lang_words": ",1453418,",
+    "target_lang_words": ",1232376,1232377,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1453418,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "11",
+        "word_num": 3,
+        "word": "ἀνοίας",
+        "occurrence": 1,
+        "strong": "G04540",
+        "lemma": "ἄνοια",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀνοίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1232376,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "11",
+        "word_num": 4,
+        "word": "with",
+        "occurrence": 1
+      },
+      {
+        "id": 1232377,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "11",
+        "word_num": 5,
+        "word": "rage",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "with rage",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀνοίας = with rage",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549551",
+    "book_id": "2ti",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "8",
+    "orig_lang_words": ",1533558,1533560,",
+    "target_lang_words": ",1340261,",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 1533558,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 5,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1533560,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 7,
+        "word": "ἄνοια",
+        "occurrence": 1,
+        "strong": "G04540",
+        "lemma": "ἄνοια",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ ἄνοια",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340261,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 9,
+        "word": "foolishness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "foolishness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ ἄνοια = foolishness",
+    "frequency": 0.5,
+    "origWordsBetween": 1,
+    "targetWordsBetween": 0
+  }
+]

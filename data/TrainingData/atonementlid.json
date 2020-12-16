@@ -1,0 +1,117 @@
+[
+  {
+    "id": "521093",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "25",
+    "alignment_num": "3",
+    "orig_lang_words": ",1503946,",
+    "target_lang_words": ",1298694,1298695,1298696,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503946,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 4,
+        "word": "ἱλαστήριον",
+        "occurrence": 1,
+        "strong": "G24350",
+        "lemma": "ἱλαστήριον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱλαστήριον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1298694,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 5,
+        "word": "as",
+        "occurrence": 1
+      },
+      {
+        "id": 1298695,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 6,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1298696,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 7,
+        "word": "propitiation",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "as a propitiation",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἱλαστήριον = as a propitiation",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553325",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "5",
+    "alignment_num": "6",
+    "orig_lang_words": ",1537494,",
+    "target_lang_words": ",1345800,1345801,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537494,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 7,
+        "word": "ἱλαστήριον",
+        "occurrence": 1,
+        "strong": "G24350",
+        "lemma": "ἱλαστήριον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱλαστήριον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1345800,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 10,
+        "word": "atonement",
+        "occurrence": 1
+      },
+      {
+        "id": 1345801,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 11,
+        "word": "lid",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "atonement lid",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἱλαστήριον = atonement lid",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

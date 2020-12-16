@@ -1,0 +1,143 @@
+[
+  {
+    "id": "560473",
+    "book_id": "1jn",
+    "chapter": "2",
+    "verse": "20",
+    "alignment_num": "3",
+    "orig_lang_words": ",1545074,",
+    "target_lang_words": ",1356787,1356788,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545074,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 2,
+        "word": "χρῖσμα",
+        "occurrence": 1,
+        "strong": "G55450",
+        "lemma": "χρῖσμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "χρῖσμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1356787,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 3,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 1356788,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 4,
+        "word": "anointing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an anointing",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "χρῖσμα = an anointing",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560587",
+    "book_id": "1jn",
+    "chapter": "2",
+    "verse": "27",
+    "alignment_num": "3",
+    "orig_lang_words": ",1545194,",
+    "target_lang_words": ",1356935,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545194,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 3,
+        "word": "χρῖσμα",
+        "occurrence": 1,
+        "strong": "G55450",
+        "lemma": "χρῖσμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "χρῖσμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1356935,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 4,
+        "word": "anointing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "anointing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "χρῖσμα = anointing",
+    "frequency": 0.6666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560606",
+    "book_id": "1jn",
+    "chapter": "2",
+    "verse": "27",
+    "alignment_num": "22",
+    "orig_lang_words": ",1545214,",
+    "target_lang_words": ",1356956,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545214,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 23,
+        "word": "χρῖσμα",
+        "occurrence": 2,
+        "strong": "G55450",
+        "lemma": "χρῖσμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "χρῖσμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1356956,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 25,
+        "word": "anointing",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "anointing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "χρῖσμα = anointing",
+    "frequency": 0.6666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

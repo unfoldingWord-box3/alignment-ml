@@ -1,0 +1,64 @@
+[
+  {
+    "id": "550507",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "16",
+    "orig_lang_words": ",1534533,",
+    "target_lang_words": ",1341603,1341604,1341605,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534533,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 18,
+        "word": "παλινγενεσίας",
+        "occurrence": 1,
+        "strong": "G38240",
+        "lemma": "παλινγενεσία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "παλινγενεσίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1341603,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 21,
+        "word": "of",
+        "occurrence": 2
+      },
+      {
+        "id": 1341604,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 22,
+        "word": "new",
+        "occurrence": 1
+      },
+      {
+        "id": 1341605,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 23,
+        "word": "birth",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of new birth",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "παλινγενεσίας = of new birth",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

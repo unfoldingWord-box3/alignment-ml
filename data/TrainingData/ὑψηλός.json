@@ -1,0 +1,453 @@
+[
+  {
+    "id": "463170",
+    "book_id": "mrk",
+    "chapter": "9",
+    "verse": "2",
+    "alignment_num": "16",
+    "orig_lang_words": ",1443205,",
+    "target_lang_words": ",1218812,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1443205,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 20,
+        "word": "ὑψηλὸν",
+        "occurrence": 1,
+        "strong": "G53080",
+        "lemma": "ὑψηλός",
+        "morph": "Gr,AA,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ὑψηλὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1218812,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 16,
+        "word": "high",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "high",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὑψηλὸν = high",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481277",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "15",
+    "alignment_num": "18",
+    "orig_lang_words": ",1462198,",
+    "target_lang_words": ",1244127,1244128,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462198,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "15",
+        "word_num": 22,
+        "word": "ὑψηλὸν",
+        "occurrence": 1,
+        "strong": "G53080",
+        "lemma": "ὑψηλός",
+        "morph": "Gr,NS,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ὑψηλὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1244127,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "15",
+        "word_num": 24,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1244128,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "15",
+        "word_num": 25,
+        "word": "exalted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is exalted",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ὑψηλὸν = is exalted",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510097",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "17",
+    "alignment_num": "21",
+    "orig_lang_words": ",1492548,",
+    "target_lang_words": ",1283306,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492548,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "17",
+        "word_num": 23,
+        "word": "ὑψηλοῦ",
+        "occurrence": 1,
+        "strong": "G53080",
+        "lemma": "ὑψηλός",
+        "morph": "Gr,AA,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ὑψηλοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283306,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "17",
+        "word_num": 25,
+        "word": "uplifted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "uplifted",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὑψηλοῦ = uplifted",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524426",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "20",
+    "alignment_num": "10",
+    "orig_lang_words": ",1507560,1507561,",
+    "target_lang_words": ",1303806,1303807,1303808,1303809,1303810,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1507560,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 10,
+        "word": "ὑψηλὰ",
+        "occurrence": 1,
+        "strong": "G53080",
+        "lemma": "ὑψηλός",
+        "morph": "Gr,NS,,,,ANP,"
+      },
+      {
+        "id": 1507561,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 11,
+        "word": "φρόνει",
+        "occurrence": 1,
+        "strong": "G54260",
+        "lemma": "φρονέω",
+        "morph": "Gr,V,MPA2,,S,"
+      }
+    ],
+    "origWordsTxt": "ὑψηλὰ φρόνει",
+    "alignmentOrigWords": 2,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1303806,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 21,
+        "word": "think",
+        "occurrence": 1
+      },
+      {
+        "id": 1303807,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 22,
+        "word": "too",
+        "occurrence": 1
+      },
+      {
+        "id": 1303808,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 23,
+        "word": "highly",
+        "occurrence": 1
+      },
+      {
+        "id": 1303809,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 24,
+        "word": "of",
+        "occurrence": 3
+      },
+      {
+        "id": 1303810,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 25,
+        "word": "yourself",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "think too highly of yourself",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "ὑψηλὰ φρόνει = think too highly of yourself",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524858",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "16",
+    "alignment_num": "7",
+    "orig_lang_words": ",1508036,1508037,",
+    "target_lang_words": ",1304483,1304484,1304485,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1508036,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "16",
+        "word_num": 6,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1508037,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "16",
+        "word_num": 7,
+        "word": "ὑψηλὰ",
+        "occurrence": 1,
+        "strong": "G53080",
+        "lemma": "ὑψηλός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ὑψηλὰ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1304483,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "16",
+        "word_num": 11,
+        "word": "in",
+        "occurrence": 1
+      },
+      {
+        "id": 1304484,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "16",
+        "word_num": 12,
+        "word": "proud",
+        "occurrence": 1
+      },
+      {
+        "id": 1304485,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "16",
+        "word_num": 13,
+        "word": "ways",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in proud ways",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "τὰ ὑψηλὰ = in proud ways",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551024",
+    "book_id": "heb",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "27",
+    "orig_lang_words": ",1535076,",
+    "target_lang_words": ",1342370,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535076,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 29,
+        "word": "ὑψηλοῖς",
+        "occurrence": 1,
+        "strong": "G53080",
+        "lemma": "ὑψηλός",
+        "morph": "Gr,NS,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ὑψηλοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1342370,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 43,
+        "word": "high",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "high",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὑψηλοῖς = high",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570808",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "10",
+    "alignment_num": "10",
+    "orig_lang_words": ",1556546,",
+    "target_lang_words": ",1370980,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556546,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "10",
+        "word_num": 9,
+        "word": "ὑψηλόν",
+        "occurrence": 1,
+        "strong": "G53080",
+        "lemma": "ὑψηλός",
+        "morph": "Gr,AA,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ὑψηλόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1370980,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "10",
+        "word_num": 12,
+        "word": "high",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "high",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὑψηλόν = high",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570841",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "12",
+    "alignment_num": "3",
+    "orig_lang_words": ",1556580,1556581,",
+    "target_lang_words": ",1371022,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1556580,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "12",
+        "word_num": 3,
+        "word": "καὶ",
+        "occurrence": 1,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1556581,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "12",
+        "word_num": 4,
+        "word": "ὑψηλόν",
+        "occurrence": 1,
+        "strong": "G53080",
+        "lemma": "ὑψηλός",
+        "morph": "Gr,AA,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "καὶ ὑψηλόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371022,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "12",
+        "word_num": 4,
+        "word": "high",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "high",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καὶ ὑψηλόν = high",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

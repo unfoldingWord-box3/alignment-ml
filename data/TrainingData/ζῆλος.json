@@ -1,0 +1,763 @@
+[
+  {
+    "id": "488561",
+    "book_id": "jhn",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "6",
+    "orig_lang_words": ",1469644,1469645,",
+    "target_lang_words": ",1254067,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1469644,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 7,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1469645,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 8,
+        "word": "ζῆλος",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ ζῆλος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254067,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 7,
+        "word": "Zeal",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Zeal",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ ζῆλος = Zeal",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504682",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "17",
+    "alignment_num": "16",
+    "orig_lang_words": ",1486991,",
+    "target_lang_words": ",1276038,1276039,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1486991,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 15,
+        "word": "ζήλου",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ζήλου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1276038,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 24,
+        "word": "with",
+        "occurrence": 2
+      },
+      {
+        "id": 1276039,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 25,
+        "word": "jealousy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "with jealousy",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ζήλου = with jealousy",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510543",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "45",
+    "alignment_num": "8",
+    "orig_lang_words": ",1493001,",
+    "target_lang_words": ",1283926,1283927,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1493001,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "45",
+        "word_num": 7,
+        "word": "ζήλου",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ζήλου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1283926,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "45",
+        "word_num": 10,
+        "word": "with",
+        "occurrence": 1
+      },
+      {
+        "id": 1283927,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "45",
+        "word_num": 11,
+        "word": "jealousy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "with jealousy",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ζήλου = with jealousy",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523834",
+    "book_id": "rom",
+    "chapter": "10",
+    "verse": "2",
+    "alignment_num": "5",
+    "orig_lang_words": ",1506917,",
+    "target_lang_words": ",1302900,1302901,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506917,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "2",
+        "word_num": 4,
+        "word": "ζῆλον",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ζῆλον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1302900,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "2",
+        "word_num": 8,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1302901,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "2",
+        "word_num": 9,
+        "word": "zeal",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a zeal",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ζῆλον = a zeal",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525153",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "13",
+    "alignment_num": "16",
+    "orig_lang_words": ",1508371,",
+    "target_lang_words": ",1304952,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508371,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "13",
+        "word_num": 16,
+        "word": "ζήλῳ",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ζήλῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304952,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "13",
+        "word_num": 31,
+        "word": "jealousy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "jealousy",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζήλῳ = jealousy",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527191",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "3",
+    "alignment_num": "6",
+    "orig_lang_words": ",1510565,",
+    "target_lang_words": ",1307922,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510565,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 8,
+        "word": "ζῆλος",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ζῆλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307922,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 7,
+        "word": "jealousy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "jealousy",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζῆλος = jealousy",
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535087",
+    "book_id": "2co",
+    "chapter": "7",
+    "verse": "7",
+    "alignment_num": "22",
+    "orig_lang_words": ",1518683,",
+    "target_lang_words": ",1319506,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518683,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "7",
+        "word_num": 26,
+        "word": "ζῆλον",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ζῆλον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319506,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "7",
+        "word_num": 29,
+        "word": "zeal",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "zeal",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζῆλον = zeal",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535179",
+    "book_id": "2co",
+    "chapter": "7",
+    "verse": "11",
+    "alignment_num": "20",
+    "orig_lang_words": ",1518772,",
+    "target_lang_words": ",1319638,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518772,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "11",
+        "word_num": 21,
+        "word": "ζῆλον",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ζῆλον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319638,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "11",
+        "word_num": 32,
+        "word": "zeal",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "zeal",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζῆλον = zeal",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535705",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "2",
+    "alignment_num": "16",
+    "orig_lang_words": ",1519329,",
+    "target_lang_words": ",1320429,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519329,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 18,
+        "word": "ζῆλος",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ζῆλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320429,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 24,
+        "word": "zeal",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "zeal",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζῆλος = zeal",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536262",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "2",
+    "alignment_num": "3",
+    "orig_lang_words": ",1519905,",
+    "target_lang_words": ",1321226,1321227,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519905,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "2",
+        "word_num": 4,
+        "word": "ζήλῳ",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ζήλῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1321226,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "2",
+        "word_num": 6,
+        "word": "with",
+        "occurrence": 1
+      },
+      {
+        "id": 1321227,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "2",
+        "word_num": 7,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "with a",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ζήλῳ = with a",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537122",
+    "book_id": "2co",
+    "chapter": "12",
+    "verse": "20",
+    "alignment_num": "19",
+    "orig_lang_words": ",1520768,",
+    "target_lang_words": ",1322546,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520768,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "20",
+        "word_num": 19,
+        "word": "ζῆλος",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ζῆλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1322546,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "20",
+        "word_num": 32,
+        "word": "jealousy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "jealousy",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζῆλος = jealousy",
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539198",
+    "book_id": "gal",
+    "chapter": "5",
+    "verse": "20",
+    "alignment_num": "4",
+    "orig_lang_words": ",1522923,",
+    "target_lang_words": ",1325770,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522923,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 4,
+        "word": "ζῆλοι",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ζῆλοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325770,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 4,
+        "word": "jealousy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "jealousy",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζῆλοι = jealousy",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542913",
+    "book_id": "php",
+    "chapter": "3",
+    "verse": "6",
+    "alignment_num": "1",
+    "orig_lang_words": ",1526692,",
+    "target_lang_words": ",1330798,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526692,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 1,
+        "word": "ζῆλος",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ζῆλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1330798,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 2,
+        "word": "zeal",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "zeal",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζῆλος = zeal",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554097",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "27",
+    "alignment_num": "6",
+    "orig_lang_words": ",1538300,",
+    "target_lang_words": ",1347002,1347003,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538300,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "27",
+        "word_num": 7,
+        "word": "ζῆλος",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ζῆλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1347002,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "27",
+        "word_num": 11,
+        "word": "a",
+        "occurrence": 2
+      },
+      {
+        "id": 1347003,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "27",
+        "word_num": 12,
+        "word": "fury",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a fury",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ζῆλος = a fury",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556676",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "14",
+    "alignment_num": "4",
+    "orig_lang_words": ",1541010,",
+    "target_lang_words": ",1350866,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541010,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 2,
+        "word": "ζῆλον",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ζῆλον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350866,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 5,
+        "word": "jealousy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "jealousy",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζῆλον = jealousy",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556702",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "16",
+    "alignment_num": "2",
+    "orig_lang_words": ",1541039,",
+    "target_lang_words": ",1350900,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541039,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 2,
+        "word": "ζῆλος",
+        "occurrence": 1,
+        "strong": "G22050",
+        "lemma": "ζῆλος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ζῆλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350900,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 4,
+        "word": "jealousy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "jealousy",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζῆλος = jealousy",
+    "frequency": 0.1875,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "521253",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "6",
+    "alignment_num": "4",
+    "orig_lang_words": ",1504119,1504120,",
+    "target_lang_words": ",1298936,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1504119,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 4,
+        "word": "τὸν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMS,"
+      },
+      {
+        "id": 1504120,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 5,
+        "word": "μακαρισμὸν",
+        "occurrence": 1,
+        "strong": "G31080",
+        "lemma": "μακαρισμός",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "τὸν μακαρισμὸν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298936,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 4,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸν μακαρισμὸν = blessing",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521281",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1504148,1504149,",
+    "target_lang_words": ",1298977,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1504148,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 0,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1504149,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 1,
+        "word": "μακαρισμὸς",
+        "occurrence": 1,
+        "strong": "G31080",
+        "lemma": "μακαρισμός",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ μακαρισμὸς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298977,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 3,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ μακαρισμὸς = blessing",
+    "frequency": 0.6666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538721",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "15",
+    "alignment_num": "3",
+    "orig_lang_words": ",1522438,1522439,",
+    "target_lang_words": ",1325027,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1522438,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 2,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1522439,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 3,
+        "word": "μακαρισμὸς",
+        "occurrence": 1,
+        "strong": "G31080",
+        "lemma": "μακαρισμός",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ μακαρισμὸς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325027,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 4,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ μακαρισμὸς = blessing",
+    "frequency": 0.6666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "503590",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "21",
+    "alignment_num": "6",
+    "orig_lang_words": ",1485874,",
+    "target_lang_words": ",1274598,1274599,1274600,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485874,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 7,
+        "word": "ἀποκαταστάσεως",
+        "occurrence": 1,
+        "strong": "G06050",
+        "lemma": "ἀποκατάστασις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀποκαταστάσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1274598,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 7,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1274599,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 8,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1274600,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 9,
+        "word": "restoration",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of the restoration",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀποκαταστάσεως = of the restoration",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

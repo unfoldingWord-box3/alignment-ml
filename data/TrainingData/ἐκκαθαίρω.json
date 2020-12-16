@@ -1,0 +1,108 @@
+[
+  {
+    "id": "527931",
+    "book_id": "1co",
+    "chapter": "5",
+    "verse": "7",
+    "alignment_num": "0",
+    "orig_lang_words": ",1511322,",
+    "target_lang_words": ",1309015,1309016,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511322,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 0,
+        "word": "ἐκκαθάρατε",
+        "occurrence": 1,
+        "strong": "G15710",
+        "lemma": "ἐκκαθαίρω",
+        "morph": "Gr,V,MAA2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐκκαθάρατε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1309015,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 0,
+        "word": "Clean",
+        "occurrence": 1
+      },
+      {
+        "id": 1309016,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 1,
+        "word": "out",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Clean out",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐκκαθάρατε = Clean out",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549358",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "21",
+    "alignment_num": "3",
+    "orig_lang_words": ",1533370,",
+    "target_lang_words": ",1339977,1339978,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533370,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 3,
+        "word": "ἐκκαθάρῃ",
+        "occurrence": 1,
+        "strong": "G15710",
+        "lemma": "ἐκκαθαίρω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐκκαθάρῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1339977,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 3,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1339978,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 4,
+        "word": "cleaned",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has cleaned",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐκκαθάρῃ = has cleaned",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

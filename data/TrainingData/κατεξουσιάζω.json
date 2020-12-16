@@ -1,0 +1,64 @@
+[
+  {
+    "id": "464572",
+    "book_id": "mrk",
+    "chapter": "10",
+    "verse": "42",
+    "alignment_num": "18",
+    "orig_lang_words": ",1444746,",
+    "target_lang_words": ",1220867,1220868,1220869,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1444746,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "42",
+        "word_num": 20,
+        "word": "κατεξουσιάζουσιν",
+        "occurrence": 1,
+        "strong": "G27150",
+        "lemma": "κατεξουσιάζω",
+        "morph": "Gr,V,IPA3,,P,"
+      }
+    ],
+    "origWordsTxt": "κατεξουσιάζουσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1220867,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "42",
+        "word_num": 27,
+        "word": "exercise",
+        "occurrence": 1
+      },
+      {
+        "id": 1220868,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "42",
+        "word_num": 28,
+        "word": "authority",
+        "occurrence": 1
+      },
+      {
+        "id": 1220869,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "42",
+        "word_num": 29,
+        "word": "over",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "exercise authority over",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "κατεξουσιάζουσιν = exercise authority over",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

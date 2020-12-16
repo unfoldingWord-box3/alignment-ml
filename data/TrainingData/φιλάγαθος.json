@@ -1,0 +1,91 @@
+[
+  {
+    "id": "550109",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "8",
+    "alignment_num": "2",
+    "orig_lang_words": ",1534140,",
+    "target_lang_words": ",1341028,1341029,1341030,1341031,1341032,1341033,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534140,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 2,
+        "word": "φιλάγαθον",
+        "occurrence": 1,
+        "strong": "G53580",
+        "lemma": "φιλάγαθος",
+        "morph": "Gr,NS,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "φιλάγαθον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 5,
+    "targetWords": [
+      {
+        "id": 1341028,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 5,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1341029,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 6,
+        "word": "friend",
+        "occurrence": 1
+      },
+      {
+        "id": 1341030,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 7,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1341031,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 8,
+        "word": "what",
+        "occurrence": 1
+      },
+      {
+        "id": 1341032,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 9,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1341033,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 10,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a friend of what is good",
+    "alignmentTargetWords": 6,
+    "alignmentTxt": "φιλάγαθον = a friend of what is good",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

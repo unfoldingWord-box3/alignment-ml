@@ -1,0 +1,258 @@
+[
+  {
+    "id": "458691",
+    "book_id": "mrk",
+    "chapter": "1",
+    "verse": "44",
+    "alignment_num": "20",
+    "orig_lang_words": ",1438428,",
+    "target_lang_words": ",1212602,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1438428,
+        "book_id": "mrk",
+        "chapter": "1",
+        "verse": "44",
+        "word_num": 20,
+        "word": "προσέταξεν",
+        "occurrence": 1,
+        "strong": "G43670",
+        "lemma": "προστάσσω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσέταξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1212602,
+        "book_id": "mrk",
+        "chapter": "1",
+        "verse": "44",
+        "word_num": 26,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "commanded",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσέταξεν = commanded",
+    "frequency": 0.2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "471977",
+    "book_id": "luk",
+    "chapter": "5",
+    "verse": "14",
+    "alignment_num": "19",
+    "orig_lang_words": ",1452743,",
+    "target_lang_words": ",1231489,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1452743,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 19,
+        "word": "προσέταξεν",
+        "occurrence": 1,
+        "strong": "G43670",
+        "lemma": "προστάσσω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσέταξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1231489,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 24,
+        "word": "what",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "what",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσέταξεν = what",
+    "frequency": 0.2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508508",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "33",
+    "alignment_num": "20",
+    "orig_lang_words": ",1490916,",
+    "target_lang_words": ",1281176,1281177,1281178,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490916,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "33",
+        "word_num": 21,
+        "word": "προστεταγμένα",
+        "occurrence": 1,
+        "strong": "G43670",
+        "lemma": "προστάσσω",
+        "morph": "Gr,V,PEP,ANP,"
+      }
+    ],
+    "origWordsTxt": "προστεταγμένα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1281176,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "33",
+        "word_num": 27,
+        "word": "have",
+        "occurrence": 2
+      },
+      {
+        "id": 1281177,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "33",
+        "word_num": 28,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1281178,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "33",
+        "word_num": 29,
+        "word": "instructed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "have been instructed",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "προστεταγμένα = have been instructed",
+    "frequency": 0.2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508756",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "48",
+    "alignment_num": "1",
+    "orig_lang_words": ",1491176,",
+    "target_lang_words": ",1281505,1281506,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491176,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "48",
+        "word_num": 0,
+        "word": "προσέταξεν",
+        "occurrence": 1,
+        "strong": "G43670",
+        "lemma": "προστάσσω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσέταξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1281505,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "48",
+        "word_num": 1,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1281506,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "48",
+        "word_num": 2,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he commanded",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσέταξεν = he commanded",
+    "frequency": 0.2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513009",
+    "book_id": "act",
+    "chapter": "17",
+    "verse": "26",
+    "alignment_num": "15",
+    "orig_lang_words": ",1495553,",
+    "target_lang_words": ",1287278,1287279,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495553,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "26",
+        "word_num": 14,
+        "word": "προστεταγμένους",
+        "occurrence": 1,
+        "strong": "G43670",
+        "lemma": "προστάσσω",
+        "morph": "Gr,V,PEP,AMP,"
+      }
+    ],
+    "origWordsTxt": "προστεταγμένους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1287278,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "26",
+        "word_num": 21,
+        "word": "their",
+        "occurrence": 1
+      },
+      {
+        "id": 1287279,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "26",
+        "word_num": 22,
+        "word": "appointed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "their appointed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προστεταγμένους = their appointed",
+    "frequency": 0.2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

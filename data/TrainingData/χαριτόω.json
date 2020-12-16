@@ -1,0 +1,126 @@
+[
+  {
+    "id": "468873",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "28",
+    "alignment_num": "8",
+    "orig_lang_words": ",1449544,",
+    "target_lang_words": ",1227309,1227310,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449544,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "28",
+        "word_num": 8,
+        "word": "κεχαριτωμένη",
+        "occurrence": 1,
+        "strong": "G54870",
+        "lemma": "χαριτόω",
+        "morph": "Gr,V,PEP,VFS,"
+      }
+    ],
+    "origWordsTxt": "κεχαριτωμένη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1227309,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "28",
+        "word_num": 8,
+        "word": "favored",
+        "occurrence": 1
+      },
+      {
+        "id": 1227310,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "28",
+        "word_num": 9,
+        "word": "one",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "favored one",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κεχαριτωμένη = favored one",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539613",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "7",
+    "orig_lang_words": ",1523356,",
+    "target_lang_words": ",1326368,1326369,1326370,1326371,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523356,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 7,
+        "word": "ἐχαρίτωσεν",
+        "occurrence": 1,
+        "strong": "G54870",
+        "lemma": "χαριτόω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐχαρίτωσεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1326368,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 10,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1326369,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 11,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1326370,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 12,
+        "word": "freely",
+        "occurrence": 1
+      },
+      {
+        "id": 1326371,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 13,
+        "word": "given",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he has freely given",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἐχαρίτωσεν = he has freely given",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

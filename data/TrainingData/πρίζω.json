@@ -1,0 +1,82 @@
+[
+  {
+    "id": "554820",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "37",
+    "alignment_num": "1",
+    "orig_lang_words": ",1539053,",
+    "target_lang_words": ",1348130,1348131,1348132,1348133,1348134,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539053,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 1,
+        "word": "ἐπρίσθησαν",
+        "occurrence": 1,
+        "strong": "G42490",
+        "lemma": "πρίζω",
+        "morph": "Gr,V,IAP3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐπρίσθησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1348130,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 3,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1348131,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 4,
+        "word": "were",
+        "occurrence": 2
+      },
+      {
+        "id": 1348132,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 5,
+        "word": "sawn",
+        "occurrence": 1
+      },
+      {
+        "id": 1348133,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 6,
+        "word": "in",
+        "occurrence": 1
+      },
+      {
+        "id": 1348134,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 7,
+        "word": "two",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they were sawn in two",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "ἐπρίσθησαν = they were sawn in two",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

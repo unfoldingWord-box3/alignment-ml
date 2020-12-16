@@ -1,0 +1,4940 @@
+[
+  {
+    "id": "466899",
+    "book_id": "mrk",
+    "chapter": "14",
+    "verse": "21",
+    "alignment_num": "26",
+    "orig_lang_words": ",1447273,",
+    "target_lang_words": ",1224188,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1447273,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "21",
+        "word_num": 28,
+        "word": "ἐγεννήθη",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγεννήθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1224188,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "21",
+        "word_num": 37,
+        "word": "had",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "had",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐγεννήθη = had",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "468601",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "17",
+    "orig_lang_words": ",1449267,",
+    "target_lang_words": ",1226927,1226928,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449267,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 19,
+        "word": "γεννήσει",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "γεννήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1226927,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 21,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1226928,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 22,
+        "word": "bear",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will bear",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεννήσει = will bear",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "468984",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "35",
+    "alignment_num": "21",
+    "orig_lang_words": ",1449657,",
+    "target_lang_words": ",1227465,1227466,1227467,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449657,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "35",
+        "word_num": 19,
+        "word": "γεννώμενον",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PPP,NNS,"
+      }
+    ],
+    "origWordsTxt": "γεννώμενον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1227465,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "35",
+        "word_num": 30,
+        "word": "will",
+        "occurrence": 3
+      },
+      {
+        "id": 1227466,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "35",
+        "word_num": 31,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 1227467,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "35",
+        "word_num": 32,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will be born",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "γεννώμενον = will be born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469258",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "57",
+    "alignment_num": "10",
+    "orig_lang_words": ",1449953,",
+    "target_lang_words": ",1227841,1227842,1227843,1227844,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449953,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "57",
+        "word_num": 10,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1227841,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "57",
+        "word_num": 12,
+        "word": "she",
+        "occurrence": 1
+      },
+      {
+        "id": 1227842,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "57",
+        "word_num": 13,
+        "word": "gave",
+        "occurrence": 1
+      },
+      {
+        "id": 1227843,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "57",
+        "word_num": 14,
+        "word": "birth",
+        "occurrence": 1
+      },
+      {
+        "id": 1227844,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "57",
+        "word_num": 15,
+        "word": "to",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "she gave birth to",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἐγέννησεν = she gave birth to",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "486341",
+    "book_id": "luk",
+    "chapter": "23",
+    "verse": "29",
+    "alignment_num": "15",
+    "orig_lang_words": ",1467321,",
+    "target_lang_words": ",1251126,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1467321,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "29",
+        "word_num": 15,
+        "word": "ἐγέννησαν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1251126,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "29",
+        "word_num": 20,
+        "word": "bear",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "bear",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐγέννησαν = bear",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "487677",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "1",
+    "orig_lang_words": ",1468693,",
+    "target_lang_words": ",1252889,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1468693,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 15,
+        "word": "ἐγεννήθησαν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAP3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐγεννήθησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1252889,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 1,
+        "word": "were",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "were",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐγεννήθησαν = were",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488744",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "3",
+    "alignment_num": "11",
+    "orig_lang_words": ",1469842,",
+    "target_lang_words": ",1254299,1254300,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469842,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 12,
+        "word": "γεννηθῇ",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,SAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "γεννηθῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1254299,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 14,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1254300,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 15,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεννηθῇ = is born",
+    "frequency": 0.024691358024691357,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488758",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "4",
+    "alignment_num": "7",
+    "orig_lang_words": ",1469858,",
+    "target_lang_words": ",1254317,1254318,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469858,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 7,
+        "word": "γεννηθῆναι",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,NAP,,,,,"
+      }
+    ],
+    "origWordsTxt": "γεννηθῆναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1254317,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 8,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 1254318,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 9,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "be born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεννηθῆναι = be born",
+    "frequency": 0.037037037037037035,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488770",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "4",
+    "alignment_num": "19",
+    "orig_lang_words": ",1469872,",
+    "target_lang_words": ",1254335,1254336,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469872,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 21,
+        "word": "γεννηθῆναι",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,NAP,,,,,"
+      }
+    ],
+    "origWordsTxt": "γεννηθῆναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1254335,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 26,
+        "word": "be",
+        "occurrence": 2
+      },
+      {
+        "id": 1254336,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 27,
+        "word": "born",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "be born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεννηθῆναι = be born",
+    "frequency": 0.037037037037037035,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488780",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "8",
+    "orig_lang_words": ",1469882,",
+    "target_lang_words": ",1254349,1254350,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469882,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 9,
+        "word": "γεννηθῇ",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,SAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "γεννηθῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1254349,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 10,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1254350,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 11,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεννηθῇ = is born",
+    "frequency": 0.024691358024691357,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488791",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "6",
+    "alignment_num": "0",
+    "orig_lang_words": ",1469895,1469896,",
+    "target_lang_words": ",1254364,1254365,1254366,1254367,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1469895,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 0,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NNS,"
+      },
+      {
+        "id": 1469896,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 1,
+        "word": "γεγεννημένον",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PEP,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ γεγεννημένον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1254364,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 0,
+        "word": "That",
+        "occurrence": 1
+      },
+      {
+        "id": 1254365,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 1,
+        "word": "which",
+        "occurrence": 1
+      },
+      {
+        "id": 1254366,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 2,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1254367,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 3,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "That which is born",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "τὸ γεγεννημένον = That which is born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488798",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "6",
+    "alignment_num": "7",
+    "orig_lang_words": ",1469903,1469904,",
+    "target_lang_words": ",1254374,1254375,1254376,1254377,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1469903,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 8,
+        "word": "τὸ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NNS,"
+      },
+      {
+        "id": 1469904,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 9,
+        "word": "γεγεννημένον",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PEP,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ γεγεννημένον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1254374,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 10,
+        "word": "that",
+        "occurrence": 1
+      },
+      {
+        "id": 1254375,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 11,
+        "word": "which",
+        "occurrence": 2
+      },
+      {
+        "id": 1254376,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 12,
+        "word": "is",
+        "occurrence": 3
+      },
+      {
+        "id": 1254377,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 13,
+        "word": "born",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "that which is born",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "τὸ γεγεννημένον = that which is born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488811",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "7",
+    "alignment_num": "7",
+    "orig_lang_words": ",1469917,",
+    "target_lang_words": ",1254394,1254395,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469917,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 7,
+        "word": "γεννηθῆναι",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,NAP,,,,,"
+      }
+    ],
+    "origWordsTxt": "γεννηθῆναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1254394,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 11,
+        "word": "be",
+        "occurrence": 2
+      },
+      {
+        "id": 1254395,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 12,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "be born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεννηθῆναι = be born",
+    "frequency": 0.037037037037037035,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488834",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "21",
+    "orig_lang_words": ",1469940,1469941,",
+    "target_lang_words": ",1254425,1254426,1254427,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1469940,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 21,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NMS,"
+      },
+      {
+        "id": 1469941,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 22,
+        "word": "γεγεννημένος",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ γεγεννημένος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1254425,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 28,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1254426,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 29,
+        "word": "is",
+        "occurrence": 3
+      },
+      {
+        "id": 1254427,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 30,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who is born",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ὁ γεγεννημένος = who is born",
+    "frequency": 0.024691358024691357,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493360",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "41",
+    "alignment_num": "11",
+    "orig_lang_words": ",1474996,",
+    "target_lang_words": ",1260648,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1474996,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "41",
+        "word_num": 14,
+        "word": "γεγεννήμεθα",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEP1,,P,"
+      }
+    ],
+    "origWordsTxt": "γεγεννήμεθα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260648,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "41",
+        "word_num": 13,
+        "word": "were",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "were",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γεγεννήμεθα = were",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493714",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "2",
+    "alignment_num": "14",
+    "orig_lang_words": ",1475379,",
+    "target_lang_words": ",1261099,1261100,1261101,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475379,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 17,
+        "word": "γεννηθῇ",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,SAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "γεννηθῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1261099,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 16,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1261100,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 17,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1261101,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 18,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he was born",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "γεννηθῇ = he was born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493993",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "19",
+    "alignment_num": "11",
+    "orig_lang_words": ",1475679,",
+    "target_lang_words": ",1261487,1261488,1261489,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475679,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "19",
+        "word_num": 14,
+        "word": "ἐγεννήθη",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγεννήθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1261487,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "19",
+        "word_num": 14,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1261488,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "19",
+        "word_num": 15,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1261489,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "19",
+        "word_num": 16,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he was born",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγεννήθη = he was born",
+    "frequency": 0.024691358024691357,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494014",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "20",
+    "alignment_num": "14",
+    "orig_lang_words": ",1475701,",
+    "target_lang_words": ",1261512,1261513,1261514,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475701,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 17,
+        "word": "ἐγεννήθη",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγεννήθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1261512,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 15,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1261513,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 16,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1261514,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 17,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he was born",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγεννήθη = he was born",
+    "frequency": 0.024691358024691357,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494217",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "32",
+    "alignment_num": "9",
+    "orig_lang_words": ",1475907,",
+    "target_lang_words": ",1261798,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475907,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "32",
+        "word_num": 10,
+        "word": "γεγεννημένου",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PEP,GMS,"
+      }
+    ],
+    "origWordsTxt": "γεγεννημένου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1261798,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "32",
+        "word_num": 17,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "born",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γεγεννημένου = born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494233",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "34",
+    "alignment_num": "5",
+    "orig_lang_words": ",1475925,",
+    "target_lang_words": ",1261818,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475925,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "34",
+        "word_num": 7,
+        "word": "ἐγεννήθης",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAP2,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγεννήθης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1261818,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "34",
+        "word_num": 7,
+        "word": "were",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "were",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐγεννήθης = were",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498659",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "21",
+    "alignment_num": "11",
+    "orig_lang_words": ",1480650,",
+    "target_lang_words": ",1267888,1267889,1267890,1267891,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480650,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "21",
+        "word_num": 13,
+        "word": "γεννήσῃ",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "γεννήσῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1267888,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "21",
+        "word_num": 15,
+        "word": "she",
+        "occurrence": 2
+      },
+      {
+        "id": 1267889,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "21",
+        "word_num": 16,
+        "word": "has",
+        "occurrence": 3
+      },
+      {
+        "id": 1267890,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "21",
+        "word_num": 17,
+        "word": "given",
+        "occurrence": 1
+      },
+      {
+        "id": 1267891,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "21",
+        "word_num": 18,
+        "word": "birth",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "she has given birth",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "γεννήσῃ = she has given birth",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498672",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "21",
+    "alignment_num": "24",
+    "orig_lang_words": ",1480661,",
+    "target_lang_words": ",1267908,1267909,1267910,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480661,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "21",
+        "word_num": 24,
+        "word": "ἐγεννήθη",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγεννήθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1267908,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "21",
+        "word_num": 35,
+        "word": "has",
+        "occurrence": 4
+      },
+      {
+        "id": 1267909,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "21",
+        "word_num": 36,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1267910,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "21",
+        "word_num": 37,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has been born",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγεννήθη = has been born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500031",
+    "book_id": "jhn",
+    "chapter": "18",
+    "verse": "37",
+    "alignment_num": "18",
+    "orig_lang_words": ",1482098,",
+    "target_lang_words": ",1269761,1269762,1269763,1269764,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1482098,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "37",
+        "word_num": 20,
+        "word": "γεγέννημαι",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEP1,,S,"
+      }
+    ],
+    "origWordsTxt": "γεγέννημαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1269761,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "37",
+        "word_num": 22,
+        "word": "I",
+        "occurrence": 2
+      },
+      {
+        "id": 1269762,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "37",
+        "word_num": 23,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1269763,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "37",
+        "word_num": 24,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1269764,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "37",
+        "word_num": 25,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I have been born",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "γεγέννημαι = I have been born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502551",
+    "book_id": "act",
+    "chapter": "2",
+    "verse": "8",
+    "alignment_num": "11",
+    "orig_lang_words": ",1484782,",
+    "target_lang_words": ",1273222,1273223,1273224,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484782,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 11,
+        "word": "ἐγεννήθημεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAP1,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐγεννήθημεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1273222,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 16,
+        "word": "we",
+        "occurrence": 2
+      },
+      {
+        "id": 1273223,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 17,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 1273224,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 18,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we were born",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγεννήθημεν = we were born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505559",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "8",
+    "alignment_num": "7",
+    "orig_lang_words": ",1487893,",
+    "target_lang_words": ",1277205,1277206,1277207,1277208,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487893,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 7,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1277205,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 10,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1277206,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 11,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1277207,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 12,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1277208,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 13,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he became the father",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἐγέννησεν = he became the father",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505758",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "20",
+    "alignment_num": "4",
+    "orig_lang_words": ",1488105,",
+    "target_lang_words": ",1277461,1277462,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488105,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "20",
+        "word_num": 3,
+        "word": "ἐγεννήθη",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγεννήθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1277461,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "20",
+        "word_num": 4,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1277462,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "20",
+        "word_num": 5,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐγεννήθη = was born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505908",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "29",
+    "alignment_num": "13",
+    "orig_lang_words": ",1488259,",
+    "target_lang_words": ",1277675,1277676,1277677,1277678,1277679,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488259,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 14,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1277675,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 18,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 1277676,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 19,
+        "word": "became",
+        "occurrence": 2
+      },
+      {
+        "id": 1277677,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 20,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1277678,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 21,
+        "word": "father",
+        "occurrence": 1
+      },
+      {
+        "id": 1277679,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 22,
+        "word": "of",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "he became the father of",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "ἐγέννησεν = he became the father of",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510355",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "33",
+    "alignment_num": "23",
+    "orig_lang_words": ",1492815,",
+    "target_lang_words": ",1283662,1283663,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492815,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "33",
+        "word_num": 24,
+        "word": "γεγέννηκά",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEA1,,S,"
+      }
+    ],
+    "origWordsTxt": "γεγέννηκά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1283662,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "33",
+        "word_num": 28,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1283663,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "33",
+        "word_num": 29,
+        "word": "become",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "have become",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεγέννηκά = have become",
+    "frequency": 0.037037037037037035,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "515821",
+    "book_id": "act",
+    "chapter": "22",
+    "verse": "3",
+    "alignment_num": "5",
+    "orig_lang_words": ",1498471,",
+    "target_lang_words": ",1291071,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498471,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "3",
+        "word_num": 4,
+        "word": "γεγεννημένος",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "γεγεννημένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1291071,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "3",
+        "word_num": 5,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "born",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γεγεννημένος = born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516297",
+    "book_id": "act",
+    "chapter": "22",
+    "verse": "28",
+    "alignment_num": "15",
+    "orig_lang_words": ",1498957,",
+    "target_lang_words": ",1291720,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498957,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "28",
+        "word_num": 18,
+        "word": "γεγέννημαι",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEP1,,S,"
+      }
+    ],
+    "origWordsTxt": "γεγέννημαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1291720,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "28",
+        "word_num": 20,
+        "word": "was",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γεγέννημαι = was",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523484",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "11",
+    "alignment_num": "1",
+    "orig_lang_words": ",1506536,",
+    "target_lang_words": ",1302333,1302334,1302335,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506536,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 2,
+        "word": "γεννηθέντων",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PAP,GMP,"
+      }
+    ],
+    "origWordsTxt": "γεννηθέντων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1302333,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 1,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1302334,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 2,
+        "word": "children",
+        "occurrence": 1
+      },
+      {
+        "id": 1302335,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 3,
+        "word": "were",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the children were",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "γεννηθέντων = the children were",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527730",
+    "book_id": "1co",
+    "chapter": "4",
+    "verse": "15",
+    "alignment_num": "14",
+    "orig_lang_words": ",1511125,",
+    "target_lang_words": ",1308730,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511125,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 20,
+        "word": "ἐγέννησα",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308730,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 19,
+        "word": "became",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "became",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐγέννησα = became",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538823",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "23",
+    "alignment_num": "2",
+    "orig_lang_words": ",1522546,",
+    "target_lang_words": ",1325187,1325188,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522546,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "23",
+        "word_num": 8,
+        "word": "γεγέννηται",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEP3,,S,"
+      }
+    ],
+    "origWordsTxt": "γεγέννηται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1325187,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "23",
+        "word_num": 2,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1325188,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "23",
+        "word_num": 3,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεγέννηται = was born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538849",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "24",
+    "alignment_num": "13",
+    "orig_lang_words": ",1522569,",
+    "target_lang_words": ",1325230,1325231,1325232,1325233,1325234,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522569,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "24",
+        "word_num": 15,
+        "word": "γεννῶσα",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PPA,NFS,"
+      }
+    ],
+    "origWordsTxt": "γεννῶσα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1325230,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "24",
+        "word_num": 22,
+        "word": "she",
+        "occurrence": 1
+      },
+      {
+        "id": 1325231,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "24",
+        "word_num": 23,
+        "word": "gives",
+        "occurrence": 1
+      },
+      {
+        "id": 1325232,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "24",
+        "word_num": 24,
+        "word": "birth",
+        "occurrence": 1
+      },
+      {
+        "id": 1325233,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "24",
+        "word_num": 25,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1325234,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "24",
+        "word_num": 26,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "she gives birth to children",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "γεννῶσα = she gives birth to children",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538915",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "29",
+    "alignment_num": "3",
+    "orig_lang_words": ",1522642,",
+    "target_lang_words": ",1325338,1325339,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522642,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "29",
+        "word_num": 6,
+        "word": "γεννηθεὶς",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PAP,NMS,"
+      }
+    ],
+    "origWordsTxt": "γεννηθεὶς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1325338,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "29",
+        "word_num": 7,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1325339,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "29",
+        "word_num": 8,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεννηθεὶς = was born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549405",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "23",
+    "alignment_num": "8",
+    "orig_lang_words": ",1533415,",
+    "target_lang_words": ",1340035,1340036,1340037,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533415,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "23",
+        "word_num": 9,
+        "word": "γεννῶσι",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IPA3,,P,"
+      }
+    ],
+    "origWordsTxt": "γεννῶσι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1340035,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "23",
+        "word_num": 8,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1340036,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "23",
+        "word_num": 9,
+        "word": "give",
+        "occurrence": 1
+      },
+      {
+        "id": 1340037,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "23",
+        "word_num": 10,
+        "word": "birth",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they give birth",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "γεννῶσι = they give birth",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550507",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "16",
+    "orig_lang_words": ",1534533,",
+    "target_lang_words": ",1341603,1341604,1341605,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534533,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 18,
+        "word": "παλινγενεσίας",
+        "occurrence": 1,
+        "strong": "G38240",
+        "lemma": "παλινγενεσία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "παλινγενεσίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1341603,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 21,
+        "word": "of",
+        "occurrence": 2
+      },
+      {
+        "id": 1341604,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 22,
+        "word": "new",
+        "occurrence": 1
+      },
+      {
+        "id": 1341605,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 23,
+        "word": "birth",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of new birth",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "παλινγενεσίας = of new birth",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550783",
+    "book_id": "phm",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "7",
+    "orig_lang_words": ",1534819,",
+    "target_lang_words": ",1341988,1341989,1341990,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534819,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 7,
+        "word": "ἐγέννησα",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1341988,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 9,
+        "word": "I",
+        "occurrence": 2
+      },
+      {
+        "id": 1341989,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 10,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1341990,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 11,
+        "word": "fathered",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I have fathered",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησα = I have fathered",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551049",
+    "book_id": "heb",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "13",
+    "orig_lang_words": ",1535100,",
+    "target_lang_words": ",1342409,1342410,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535100,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 12,
+        "word": "γεγέννηκά",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEA1,,S,"
+      }
+    ],
+    "origWordsTxt": "γεγέννηκά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1342409,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 16,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1342410,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 17,
+        "word": "become",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "have become",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεγέννηκά = have become",
+    "frequency": 0.037037037037037035,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552127",
+    "book_id": "heb",
+    "chapter": "5",
+    "verse": "5",
+    "alignment_num": "19",
+    "orig_lang_words": ",1536237,",
+    "target_lang_words": ",1344028,1344029,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536237,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 20,
+        "word": "γεγέννηκά",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEA1,,S,"
+      }
+    ],
+    "origWordsTxt": "γεγέννηκά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1344028,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 28,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1344029,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 29,
+        "word": "become",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "have become",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεγέννηκά = have become",
+    "frequency": 0.037037037037037035,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554458",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "12",
+    "alignment_num": "7",
+    "orig_lang_words": ",1538677,",
+    "target_lang_words": ",1347578,1347579,1347580,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538677,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "12",
+        "word_num": 4,
+        "word": "ἐγεννήθησαν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAP3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐγεννήθησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1347578,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "12",
+        "word_num": 11,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 1347579,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "12",
+        "word_num": 12,
+        "word": "born",
+        "occurrence": 1
+      },
+      {
+        "id": 1347580,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "12",
+        "word_num": 13,
+        "word": "descendants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "were born descendants",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγεννήθησαν = were born descendants",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554615",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "23",
+    "alignment_num": "2",
+    "orig_lang_words": ",1538848,",
+    "target_lang_words": ",1347821,1347822,1347823,1347824,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538848,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "23",
+        "word_num": 2,
+        "word": "γεννηθεὶς",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PAP,NMS,"
+      }
+    ],
+    "origWordsTxt": "γεννηθεὶς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1347821,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "23",
+        "word_num": 3,
+        "word": "when",
+        "occurrence": 1
+      },
+      {
+        "id": 1347822,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "23",
+        "word_num": 4,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1347823,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "23",
+        "word_num": 5,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1347824,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "23",
+        "word_num": 6,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "when he was born",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "γεννηθεὶς = when he was born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557375",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "16",
+    "orig_lang_words": ",1541748,",
+    "target_lang_words": ",1351885,1351886,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541748,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 16,
+        "word": "ἀναγεννήσας",
+        "occurrence": 1,
+        "strong": "G03130",
+        "lemma": "ἀναγεννάω",
+        "morph": "Gr,V,PAA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀναγεννήσας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1351885,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 17,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1351886,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 18,
+        "word": "given",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has given",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀναγεννήσας = has given",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557684",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "23",
+    "alignment_num": "0",
+    "orig_lang_words": ",1542056,",
+    "target_lang_words": ",1352383,1352384,1352385,1352386,1352387,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542056,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 0,
+        "word": "ἀναγεγεννημένοι",
+        "occurrence": 1,
+        "strong": "G03130",
+        "lemma": "ἀναγεννάω",
+        "morph": "Gr,V,PEP,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀναγεγεννημένοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1352383,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 0,
+        "word": "You",
+        "occurrence": 1
+      },
+      {
+        "id": 1352384,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 1,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1352385,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 2,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1352386,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 3,
+        "word": "born",
+        "occurrence": 1
+      },
+      {
+        "id": 1352387,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 4,
+        "word": "again",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "You have been born again",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "ἀναγεγεννημένοι = You have been born again",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559413",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "12",
+    "alignment_num": "5",
+    "orig_lang_words": ",1543942,",
+    "target_lang_words": ",1355212,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543942,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 5,
+        "word": "γεγεννημένα",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PEP,NNP,"
+      }
+    ],
+    "origWordsTxt": "γεγεννημένα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355212,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 5,
+        "word": "are",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "are",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γεγεννημένα = are",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560654",
+    "book_id": "1jn",
+    "chapter": "2",
+    "verse": "29",
+    "alignment_num": "12",
+    "orig_lang_words": ",1545268,",
+    "target_lang_words": ",1357019,1357020,1357021,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545268,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "29",
+        "word_num": 15,
+        "word": "γεγέννηται",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEP3,,S,"
+      }
+    ],
+    "origWordsTxt": "γεγέννηται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1357019,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "29",
+        "word_num": 17,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1357020,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "29",
+        "word_num": 18,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1357021,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "29",
+        "word_num": 19,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has been born",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "γεγέννηται = has been born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560792",
+    "book_id": "1jn",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "1",
+    "orig_lang_words": ",1545418,1545419,",
+    "target_lang_words": ",1357229,1357230,1357231,1357232,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1545418,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 1,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NMS,"
+      },
+      {
+        "id": 1545419,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 2,
+        "word": "γεγεννημένος",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ γεγεννημένος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1357229,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 1,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1357230,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 2,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1357231,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 3,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1357232,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 4,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who has been born",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ὁ γεγεννημένος = who has been born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560807",
+    "book_id": "1jn",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "16",
+    "orig_lang_words": ",1545440,",
+    "target_lang_words": ",1357253,1357254,1357255,1357256,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545440,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 23,
+        "word": "γεγέννηται",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEP3,,S,"
+      }
+    ],
+    "origWordsTxt": "γεγέννηται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1357253,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 25,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1357254,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 26,
+        "word": "has",
+        "occurrence": 2
+      },
+      {
+        "id": 1357255,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 27,
+        "word": "been",
+        "occurrence": 2
+      },
+      {
+        "id": 1357256,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 28,
+        "word": "born",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "he has been born",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "γεγέννηται = he has been born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561197",
+    "book_id": "1jn",
+    "chapter": "4",
+    "verse": "7",
+    "alignment_num": "11",
+    "orig_lang_words": ",1545891,",
+    "target_lang_words": ",1357778,1357779,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545891,
+        "book_id": "1jn",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 17,
+        "word": "γεγέννηται",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEP3,,S,"
+      }
+    ],
+    "origWordsTxt": "γεγέννηται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1357778,
+        "book_id": "1jn",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 15,
+        "word": "is",
+        "occurrence": 2
+      },
+      {
+        "id": 1357779,
+        "book_id": "1jn",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 16,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεγέννηται = is born",
+    "frequency": 0.024691358024691357,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561465",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "1",
+    "alignment_num": "7",
+    "orig_lang_words": ",1546195,",
+    "target_lang_words": ",1358118,1358119,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546195,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 11,
+        "word": "γεγέννηται",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IEP3,,S,"
+      }
+    ],
+    "origWordsTxt": "γεγέννηται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1358118,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 8,
+        "word": "is",
+        "occurrence": 2
+      },
+      {
+        "id": 1358119,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 9,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεγέννηται = is born",
+    "frequency": 0.024691358024691357,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561471",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "1",
+    "alignment_num": "13",
+    "orig_lang_words": ",1546200,1546201,",
+    "target_lang_words": ",1358126,1358127,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546200,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 16,
+        "word": "τὸν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,AMS,"
+      },
+      {
+        "id": 1546201,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 17,
+        "word": "γεννήσαντα",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PAA,AMS,"
+      }
+    ],
+    "origWordsTxt": "τὸν γεννήσαντα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1358126,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 16,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1358127,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 17,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a father",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τὸν γεννήσαντα = a father",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561475",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "1",
+    "alignment_num": "17",
+    "orig_lang_words": ",1546205,",
+    "target_lang_words": ",1358131,1358132,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546205,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 21,
+        "word": "γεγεννημένον",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PEP,AMS,"
+      }
+    ],
+    "origWordsTxt": "γεγεννημένον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1358131,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 21,
+        "word": "child",
+        "occurrence": 1
+      },
+      {
+        "id": 1358132,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 22,
+        "word": "born",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "child born",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γεγεννημένον = child born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561508",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "4",
+    "alignment_num": "2",
+    "orig_lang_words": ",1546247,1546248,",
+    "target_lang_words": ",1358172,1358173,1358174,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546247,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "4",
+        "word_num": 2,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NNS,"
+      },
+      {
+        "id": 1546248,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "4",
+        "word_num": 3,
+        "word": "γεγεννημένον",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PEP,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ γεγεννημένον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1358172,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "4",
+        "word_num": 2,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1358173,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "4",
+        "word_num": 3,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1358174,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "4",
+        "word_num": 4,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who is born",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "τὸ γεγεννημένον = who is born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561765",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "18",
+    "alignment_num": "3",
+    "orig_lang_words": ",1546537,1546538,",
+    "target_lang_words": ",1358527,1358528,1358529,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546537,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 3,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NMS,"
+      },
+      {
+        "id": 1546538,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 4,
+        "word": "γεγεννημένος",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ γεγεννημένος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1358527,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 4,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1358528,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 5,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1358529,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 6,
+        "word": "born",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who is born",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ὁ γεγεννημένος = who is born",
+    "frequency": 0.024691358024691357,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561771",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "18",
+    "alignment_num": "9",
+    "orig_lang_words": ",1546545,1546546,",
+    "target_lang_words": ",1358536,1358537,1358538,1358539,1358540,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546545,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 11,
+        "word": "ὁ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NMS,"
+      },
+      {
+        "id": 1546546,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 12,
+        "word": "γεννηθεὶς",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,PAP,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ γεννηθεὶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1358536,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 13,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1358537,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 14,
+        "word": "one",
+        "occurrence": 1
+      },
+      {
+        "id": 1358538,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 15,
+        "word": "who",
+        "occurrence": 2
+      },
+      {
+        "id": 1358539,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 16,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1358540,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 17,
+        "word": "born",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "the one who was born",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "ὁ γεννηθεὶς = the one who was born",
+    "frequency": 0.012345679012345678,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571668",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "2",
+    "alignment_num": "1",
+    "orig_lang_words": ",1575728,",
+    "target_lang_words": ",1372256,1372257,1372258,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575728,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 1,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372256,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 1,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1372257,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1372258,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 3,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571672",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "2",
+    "alignment_num": "5",
+    "orig_lang_words": ",1575733,",
+    "target_lang_words": ",1372263,1372264,1372265,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575733,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 6,
+        "word": "ἐγέννησεν",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372263,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 8,
+        "word": "became",
+        "occurrence": 2
+      },
+      {
+        "id": 1372264,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 9,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1372265,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 10,
+        "word": "father",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571676",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "2",
+    "alignment_num": "9",
+    "orig_lang_words": ",1575738,",
+    "target_lang_words": ",1372270,1372271,1372272,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575738,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 11,
+        "word": "ἐγέννησεν",
+        "occurrence": 3,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372270,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 15,
+        "word": "became",
+        "occurrence": 3
+      },
+      {
+        "id": 1372271,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 16,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1372272,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 17,
+        "word": "father",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571682",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "1",
+    "orig_lang_words": ",1575747,",
+    "target_lang_words": ",1372279,1372280,1372281,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575747,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 2,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372279,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 1,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1372280,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1372281,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 3,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571690",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "9",
+    "orig_lang_words": ",1575758,",
+    "target_lang_words": ",1372290,1372291,1372292,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575758,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 13,
+        "word": "ἐγέννησεν",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372290,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 12,
+        "word": "became",
+        "occurrence": 2
+      },
+      {
+        "id": 1372291,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 13,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1372292,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 14,
+        "word": "father",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571694",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "13",
+    "orig_lang_words": ",1575763,",
+    "target_lang_words": ",1372297,1372298,1372299,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575763,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 18,
+        "word": "ἐγέννησεν",
+        "occurrence": 3,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372297,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 19,
+        "word": "became",
+        "occurrence": 3
+      },
+      {
+        "id": 1372298,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 20,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1372299,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 21,
+        "word": "father",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571697",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "1",
+    "orig_lang_words": ",1575768,",
+    "target_lang_words": ",1372303,1372304,1372305,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575768,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 2,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372303,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 1,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1372304,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1372305,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 3,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571701",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "5",
+    "orig_lang_words": ",1575773,",
+    "target_lang_words": ",1372310,1372311,1372312,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575773,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 7,
+        "word": "ἐγέννησεν",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372310,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 8,
+        "word": "became",
+        "occurrence": 2
+      },
+      {
+        "id": 1372311,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 9,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1372312,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 10,
+        "word": "father",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571705",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "9",
+    "orig_lang_words": ",1575778,",
+    "target_lang_words": ",1372317,1372318,1372319,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575778,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 12,
+        "word": "ἐγέννησεν",
+        "occurrence": 3,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372317,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 15,
+        "word": "became",
+        "occurrence": 3
+      },
+      {
+        "id": 1372318,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 16,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1372319,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 17,
+        "word": "father",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571708",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "1",
+    "orig_lang_words": ",1575783,",
+    "target_lang_words": ",1372323,1372324,1372325,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575783,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 2,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372323,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 1,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1372324,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1372325,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 3,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571714",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "7",
+    "orig_lang_words": ",1575791,",
+    "target_lang_words": ",1372332,1372333,1372334,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575791,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 10,
+        "word": "ἐγέννησεν",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372332,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 10,
+        "word": "became",
+        "occurrence": 2
+      },
+      {
+        "id": 1372333,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 11,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1372334,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 12,
+        "word": "father",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571720",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "13",
+    "orig_lang_words": ",1575799,",
+    "target_lang_words": ",1372341,1372342,1372343,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575799,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 18,
+        "word": "ἐγέννησεν",
+        "occurrence": 3,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372341,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 19,
+        "word": "became",
+        "occurrence": 3
+      },
+      {
+        "id": 1372342,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 20,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1372343,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 21,
+        "word": "father",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571723",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "1",
+    "orig_lang_words": ",1575804,",
+    "target_lang_words": ",1372347,1372348,1372349,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575804,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 2,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372347,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 1,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1372348,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1372349,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 3,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571729",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "7",
+    "orig_lang_words": ",1575811,",
+    "target_lang_words": ",1372356,1372357,1372358,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575811,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 9,
+        "word": "ἐγέννησεν",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372356,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 10,
+        "word": "became",
+        "occurrence": 2
+      },
+      {
+        "id": 1372357,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 11,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1372358,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 12,
+        "word": "father",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571735",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "7",
+    "alignment_num": "1",
+    "orig_lang_words": ",1575820,",
+    "target_lang_words": ",1372367,1372368,1372369,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575820,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 2,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372367,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 1,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1372368,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1372369,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 3,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571739",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "7",
+    "alignment_num": "5",
+    "orig_lang_words": ",1575825,",
+    "target_lang_words": ",1372374,1372375,1372376,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575825,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 7,
+        "word": "ἐγέννησεν",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372374,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 8,
+        "word": "became",
+        "occurrence": 2
+      },
+      {
+        "id": 1372375,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 9,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1372376,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 10,
+        "word": "father",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571743",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "7",
+    "alignment_num": "9",
+    "orig_lang_words": ",1575830,",
+    "target_lang_words": ",1372381,1372382,1372383,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575830,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 12,
+        "word": "ἐγέννησεν",
+        "occurrence": 3,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372381,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 15,
+        "word": "became",
+        "occurrence": 3
+      },
+      {
+        "id": 1372382,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 16,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1372383,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 17,
+        "word": "father",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571746",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "8",
+    "alignment_num": "1",
+    "orig_lang_words": ",1575835,",
+    "target_lang_words": ",1372387,1372388,1372389,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575835,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 2,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372387,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 1,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1372388,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1372389,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 3,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571750",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "8",
+    "alignment_num": "5",
+    "orig_lang_words": ",1575840,",
+    "target_lang_words": ",1372394,1372395,1372396,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575840,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 7,
+        "word": "ἐγέννησεν",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372394,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 8,
+        "word": "became",
+        "occurrence": 2
+      },
+      {
+        "id": 1372395,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 9,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1372396,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 10,
+        "word": "father",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571754",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "8",
+    "alignment_num": "9",
+    "orig_lang_words": ",1575845,",
+    "target_lang_words": ",1372401,1372402,1372403,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575845,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 12,
+        "word": "ἐγέννησεν",
+        "occurrence": 3,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372401,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 15,
+        "word": "became",
+        "occurrence": 3
+      },
+      {
+        "id": 1372402,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 16,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1372403,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 17,
+        "word": "father",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571757",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "1",
+    "orig_lang_words": ",1575850,",
+    "target_lang_words": ",1372407,1372408,1372409,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575850,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 2,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372407,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 1,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1372408,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1372409,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 3,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571761",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "5",
+    "orig_lang_words": ",1575855,",
+    "target_lang_words": ",1372414,1372415,1372416,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575855,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 7,
+        "word": "ἐγέννησεν",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372414,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 8,
+        "word": "became",
+        "occurrence": 2
+      },
+      {
+        "id": 1372415,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 9,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1372416,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 10,
+        "word": "father",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571765",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "9",
+    "orig_lang_words": ",1575860,",
+    "target_lang_words": ",1372421,1372422,1372423,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575860,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 12,
+        "word": "ἐγέννησεν",
+        "occurrence": 3,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372421,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 15,
+        "word": "became",
+        "occurrence": 3
+      },
+      {
+        "id": 1372422,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 16,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1372423,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 17,
+        "word": "father",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571768",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "1",
+    "orig_lang_words": ",1575865,",
+    "target_lang_words": ",1372427,1372428,1372429,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575865,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 2,
+        "word": "ἐγέννησεν",
+        "occurrence": 1,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372427,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 1,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1372428,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1372429,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 3,
+        "word": "father",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571772",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "5",
+    "orig_lang_words": ",1575870,",
+    "target_lang_words": ",1372434,1372435,1372436,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575870,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 7,
+        "word": "ἐγέννησεν",
+        "occurrence": 2,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372434,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 8,
+        "word": "became",
+        "occurrence": 2
+      },
+      {
+        "id": 1372435,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 9,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1372436,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 10,
+        "word": "father",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571776",
+    "book_id": "mat",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "9",
+    "orig_lang_words": ",1575875,",
+    "target_lang_words": ",1372441,1372442,1372443,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1575875,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 12,
+        "word": "ἐγέννησεν",
+        "occurrence": 3,
+        "strong": "G10800",
+        "lemma": "γεννάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐγέννησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1372441,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 15,
+        "word": "became",
+        "occurrence": 3
+      },
+      {
+        "id": 1372442,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 16,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1372443,
+        "book_id": "mat",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 17,
+        "word": "father",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "became the father",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐγέννησεν = became the father",
+    "frequency": 0.32098765432098764,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "542435",
+    "book_id": "php",
+    "chapter": "2",
+    "verse": "2",
+    "alignment_num": "12",
+    "orig_lang_words": ",1526215,",
+    "target_lang_words": ",1330064,1330065,1330066,1330067,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526215,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 12,
+        "word": "σύνψυχοι",
+        "occurrence": 1,
+        "strong": "G48610",
+        "lemma": "σύνψυχος",
+        "morph": "Gr,NS,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "σύνψυχοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1330064,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 15,
+        "word": "being",
+        "occurrence": 2
+      },
+      {
+        "id": 1330065,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 16,
+        "word": "united",
+        "occurrence": 1
+      },
+      {
+        "id": 1330066,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 17,
+        "word": "in",
+        "occurrence": 1
+      },
+      {
+        "id": 1330067,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 18,
+        "word": "spirit",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "being united in spirit",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "σύνψυχοι = being united in spirit",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

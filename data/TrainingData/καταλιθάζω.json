@@ -1,0 +1,55 @@
+[
+  {
+    "id": "483639",
+    "book_id": "luk",
+    "chapter": "20",
+    "verse": "6",
+    "alignment_num": "8",
+    "orig_lang_words": ",1464593,",
+    "target_lang_words": ",1247447,1247448,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464593,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 8,
+        "word": "καταλιθάσει",
+        "occurrence": 1,
+        "strong": "G26420",
+        "lemma": "καταλιθάζω",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "καταλιθάσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1247447,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 9,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1247448,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 10,
+        "word": "stone",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will stone",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καταλιθάσει = will stone",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

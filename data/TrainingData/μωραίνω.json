@@ -1,0 +1,188 @@
+[
+  {
+    "id": "480421",
+    "book_id": "luk",
+    "chapter": "14",
+    "verse": "34",
+    "alignment_num": "8",
+    "orig_lang_words": ",1461323,",
+    "target_lang_words": ",1242954,1242955,1242956,1242957,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1461323,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "34",
+        "word_num": 9,
+        "word": "μωρανθῇ",
+        "occurrence": 1,
+        "strong": "G34710",
+        "lemma": "μωραίνω",
+        "morph": "Gr,V,SAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "μωρανθῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1242954,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "34",
+        "word_num": 9,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1242955,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "34",
+        "word_num": 10,
+        "word": "lost",
+        "occurrence": 1
+      },
+      {
+        "id": 1242956,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "34",
+        "word_num": 11,
+        "word": "its",
+        "occurrence": 1
+      },
+      {
+        "id": 1242957,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "34",
+        "word_num": 12,
+        "word": "taste",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has lost its taste",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "μωρανθῇ = has lost its taste",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520231",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "22",
+    "alignment_num": "3",
+    "orig_lang_words": ",1502982,",
+    "target_lang_words": ",1297316,1297317,1297318,1297319,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502982,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 3,
+        "word": "ἐμωράνθησαν",
+        "occurrence": 1,
+        "strong": "G34710",
+        "lemma": "μωραίνω",
+        "morph": "Gr,V,IAP3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐμωράνθησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1297316,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 5,
+        "word": "but",
+        "occurrence": 1
+      },
+      {
+        "id": 1297317,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 6,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1297318,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 7,
+        "word": "became",
+        "occurrence": 1
+      },
+      {
+        "id": 1297319,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 8,
+        "word": "foolish",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "but they became foolish",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἐμωράνθησαν = but they became foolish",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526721",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "20",
+    "alignment_num": "9",
+    "orig_lang_words": ",1510061,",
+    "target_lang_words": ",1307273,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510061,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 10,
+        "word": "ἐμώρανεν",
+        "occurrence": 1,
+        "strong": "G34710",
+        "lemma": "μωραίνω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐμώρανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307273,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 16,
+        "word": "Has",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Has",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐμώρανεν = Has",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

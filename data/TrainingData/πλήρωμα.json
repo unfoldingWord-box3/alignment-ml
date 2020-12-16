@@ -1,0 +1,760 @@
+[
+  {
+    "id": "459087",
+    "book_id": "mrk",
+    "chapter": "2",
+    "verse": "21",
+    "alignment_num": "12",
+    "orig_lang_words": ",1438855,",
+    "target_lang_words": ",1213163,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1438855,
+        "book_id": "mrk",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 13,
+        "word": "πλήρωμα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "πλήρωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1213163,
+        "book_id": "mrk",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 14,
+        "word": "patch",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "patch",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλήρωμα = patch",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "461752",
+    "book_id": "mrk",
+    "chapter": "6",
+    "verse": "43",
+    "alignment_num": "4",
+    "orig_lang_words": ",1441686,",
+    "target_lang_words": ",1216868,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1441686,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "43",
+        "word_num": 5,
+        "word": "πληρώματα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "πληρώματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1216868,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "43",
+        "word_num": 6,
+        "word": "full",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "full",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πληρώματα = full",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "462818",
+    "book_id": "mrk",
+    "chapter": "8",
+    "verse": "20",
+    "alignment_num": "7",
+    "orig_lang_words": ",1442811,1442812,",
+    "target_lang_words": ",1218342,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1442811,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "20",
+        "word_num": 8,
+        "word": "σπυρίδων",
+        "occurrence": 1,
+        "strong": "G47110",
+        "lemma": "σπυρίς",
+        "morph": "Gr,N,,,,,GFP,"
+      },
+      {
+        "id": 1442812,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "20",
+        "word_num": 9,
+        "word": "πληρώματα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "σπυρίδων πληρώματα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1218342,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "20",
+        "word_num": 12,
+        "word": "basketfuls",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "basketfuls",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπυρίδων πληρώματα = basketfuls",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "487737",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "16",
+    "alignment_num": "3",
+    "orig_lang_words": ",1468741,1468742,",
+    "target_lang_words": ",1252973,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1468741,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 2,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNS,"
+      },
+      {
+        "id": 1468742,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 3,
+        "word": "πληρώματος",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ πληρώματος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1252973,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 3,
+        "word": "fullness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fullness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ πληρώματος = fullness",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524318",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "12",
+    "alignment_num": "13",
+    "orig_lang_words": ",1507443,1507444,",
+    "target_lang_words": ",1303619,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1507443,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "12",
+        "word_num": 15,
+        "word": "τὸ",
+        "occurrence": 3,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1507444,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "12",
+        "word_num": 16,
+        "word": "πλήρωμα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ πλήρωμα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1303619,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "12",
+        "word_num": 23,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ πλήρωμα = will",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524527",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "25",
+    "alignment_num": "25",
+    "orig_lang_words": ",1507667,",
+    "target_lang_words": ",1303969,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507667,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "25",
+        "word_num": 25,
+        "word": "πλήρωμα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "πλήρωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1303969,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "25",
+        "word_num": 38,
+        "word": "completion",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "completion",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλήρωμα = completion",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525097",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "10",
+    "alignment_num": "7",
+    "orig_lang_words": ",1508310,",
+    "target_lang_words": ",1304858,1304859,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508310,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "10",
+        "word_num": 7,
+        "word": "πλήρωμα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "πλήρωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1304858,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "10",
+        "word_num": 12,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1304859,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "10",
+        "word_num": 13,
+        "word": "fulfillment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the fulfillment",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πλήρωμα = the fulfillment",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525962",
+    "book_id": "rom",
+    "chapter": "15",
+    "verse": "29",
+    "alignment_num": "8",
+    "orig_lang_words": ",1509240,",
+    "target_lang_words": ",1306223,1306224,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509240,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "29",
+        "word_num": 7,
+        "word": "πληρώματι",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "πληρώματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1306223,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "29",
+        "word_num": 13,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1306224,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "29",
+        "word_num": 14,
+        "word": "fullness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the fullness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πληρώματι = the fullness",
+    "frequency": 0.0625,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "530048",
+    "book_id": "1co",
+    "chapter": "10",
+    "verse": "26",
+    "alignment_num": "7",
+    "orig_lang_words": ",1513491,",
+    "target_lang_words": ",1312217,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513491,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "26",
+        "word_num": 7,
+        "word": "πλήρωμα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "πλήρωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1312217,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "26",
+        "word_num": 9,
+        "word": "fullness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fullness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλήρωμα = fullness",
+    "frequency": 0.375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538571",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "4",
+    "alignment_num": "3",
+    "orig_lang_words": ",1522283,",
+    "target_lang_words": ",1324775,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522283,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 4,
+        "word": "πλήρωμα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "πλήρωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1324775,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 3,
+        "word": "fullness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fullness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλήρωμα = fullness",
+    "frequency": 0.375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539660",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "2",
+    "orig_lang_words": ",1523407,",
+    "target_lang_words": ",1326435,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523407,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 3,
+        "word": "πληρώματος",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "πληρώματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326435,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 6,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πληρώματος = of",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539906",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "23",
+    "alignment_num": "5",
+    "orig_lang_words": ",1523658,",
+    "target_lang_words": ",1326754,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523658,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 6,
+        "word": "πλήρωμα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "πλήρωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326754,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 5,
+        "word": "fullness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fullness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλήρωμα = fullness",
+    "frequency": 0.375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540559",
+    "book_id": "eph",
+    "chapter": "3",
+    "verse": "19",
+    "alignment_num": "13",
+    "orig_lang_words": ",1524311,",
+    "target_lang_words": ",1327599,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524311,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 14,
+        "word": "πλήρωμα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "πλήρωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1327599,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 20,
+        "word": "fullness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fullness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλήρωμα = fullness",
+    "frequency": 0.375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540784",
+    "book_id": "eph",
+    "chapter": "4",
+    "verse": "13",
+    "alignment_num": "25",
+    "orig_lang_words": ",1524533,",
+    "target_lang_words": ",1327882,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524533,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "13",
+        "word_num": 23,
+        "word": "πληρώματος",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "πληρώματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1327882,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "13",
+        "word_num": 28,
+        "word": "of",
+        "occurrence": 5
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πληρώματος = of",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543805",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "19",
+    "alignment_num": "4",
+    "orig_lang_words": ",1527634,",
+    "target_lang_words": ",1332130,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527634,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 6,
+        "word": "πλήρωμα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "πλήρωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1332130,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 7,
+        "word": "fullness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fullness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλήρωμα = fullness",
+    "frequency": 0.375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544133",
+    "book_id": "col",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "5",
+    "orig_lang_words": ",1528001,",
+    "target_lang_words": ",1332621,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528001,
+        "book_id": "col",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 6,
+        "word": "πλήρωμα",
+        "occurrence": 1,
+        "strong": "G41380",
+        "lemma": "πλήρωμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "πλήρωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1332621,
+        "book_id": "col",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 5,
+        "word": "fullness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fullness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλήρωμα = fullness",
+    "frequency": 0.375,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

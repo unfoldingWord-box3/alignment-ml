@@ -1,0 +1,187 @@
+[
+  {
+    "id": "466667",
+    "book_id": "mrk",
+    "chapter": "14",
+    "verse": "7",
+    "alignment_num": "13",
+    "orig_lang_words": ",1447025,",
+    "target_lang_words": ",1223845,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1447025,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 12,
+        "word": "εὖ",
+        "occurrence": 1,
+        "strong": "G20950",
+        "lemma": "εὖ",
+        "morph": "Gr,D,,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "εὖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1223845,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 15,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὖ = good",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483055",
+    "book_id": "luk",
+    "chapter": "19",
+    "verse": "17",
+    "alignment_num": "3",
+    "orig_lang_words": ",1464011,",
+    "target_lang_words": ",1246639,1246640,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464011,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "17",
+        "word_num": 3,
+        "word": "εὖ",
+        "occurrence": 1,
+        "strong": "G20950",
+        "lemma": "εὖ",
+        "morph": "Gr,D,,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "εὖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1246639,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "17",
+        "word_num": 5,
+        "word": "Well",
+        "occurrence": 1
+      },
+      {
+        "id": 1246640,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "17",
+        "word_num": 6,
+        "word": "done",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Well done",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὖ = Well done",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511645",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "29",
+    "alignment_num": "13",
+    "orig_lang_words": ",1494142,",
+    "target_lang_words": ",1285422,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494142,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "29",
+        "word_num": 12,
+        "word": "εὖ",
+        "occurrence": 1,
+        "strong": "G20950",
+        "lemma": "εὖ",
+        "morph": "Gr,D,,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "εὖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1285422,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "29",
+        "word_num": 25,
+        "word": "well",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "well",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὖ = well",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541577",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "3",
+    "alignment_num": "2",
+    "orig_lang_words": ",1525316,",
+    "target_lang_words": ",1328886,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525316,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "3",
+        "word_num": 1,
+        "word": "εὖ",
+        "occurrence": 1,
+        "strong": "G20950",
+        "lemma": "εὖ",
+        "morph": "Gr,D,,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "εὖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1328886,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "3",
+        "word_num": 5,
+        "word": "well",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "well",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὖ = well",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

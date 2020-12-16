@@ -1,0 +1,141 @@
+[
+  {
+    "id": "520704",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "22",
+    "alignment_num": "5",
+    "orig_lang_words": ",1503502,1503503,",
+    "target_lang_words": ",1298070,1298071,1298072,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503502,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 5,
+        "word": "ὁ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,VMS,"
+      },
+      {
+        "id": 1503503,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 6,
+        "word": "βδελυσσόμενος",
+        "occurrence": 1,
+        "strong": "G09480",
+        "lemma": "βδελύσσομαι",
+        "morph": "Gr,V,PPM,VMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ βδελυσσόμενος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1298070,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 13,
+        "word": "You",
+        "occurrence": 2
+      },
+      {
+        "id": 1298071,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 14,
+        "word": "who",
+        "occurrence": 2
+      },
+      {
+        "id": 1298072,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 15,
+        "word": "hate",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "You who hate",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ὁ βδελυσσόμενος = You who hate",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570746",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "8",
+    "alignment_num": "4",
+    "orig_lang_words": ",1556473,1556474,",
+    "target_lang_words": ",1370896,1370897,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1556473,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "8",
+        "word_num": 5,
+        "word": "καὶ",
+        "occurrence": 2,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1556474,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "8",
+        "word_num": 6,
+        "word": "ἐβδελυγμένοις",
+        "occurrence": 1,
+        "strong": "G09480",
+        "lemma": "βδελύσσομαι",
+        "morph": "Gr,V,PEP,DMP,"
+      }
+    ],
+    "origWordsTxt": "καὶ ἐβδελυγμένοις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1370896,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "8",
+        "word_num": 7,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1370897,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "8",
+        "word_num": 8,
+        "word": "detestable",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the detestable",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καὶ ἐβδελυγμένοις = the detestable",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "551484",
+    "book_id": "heb",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "9",
+    "orig_lang_words": ",1535558,",
+    "target_lang_words": ",1343056,1343057,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535558,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 8,
+        "word": "ἐλεήμων",
+        "occurrence": 1,
+        "strong": "G16550",
+        "lemma": "ἐλεήμων",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἐλεήμων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1343056,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 19,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1343057,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 20,
+        "word": "merciful",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a merciful",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐλεήμων = a merciful",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

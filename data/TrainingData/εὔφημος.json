@@ -1,0 +1,73 @@
+[
+  {
+    "id": "543276",
+    "book_id": "php",
+    "chapter": "4",
+    "verse": "8",
+    "alignment_num": "14",
+    "orig_lang_words": ",1527075,",
+    "target_lang_words": ",1331332,1331333,1331334,1331335,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527075,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 15,
+        "word": "εὔφημα",
+        "occurrence": 1,
+        "strong": "G21630",
+        "lemma": "εὔφημος",
+        "morph": "Gr,NP,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "εὔφημα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1331332,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 24,
+        "word": "are",
+        "occurrence": 6
+      },
+      {
+        "id": 1331333,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 25,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1331334,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 26,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1331335,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 27,
+        "word": "report",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "are of good report",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "εὔφημα = are of good report",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

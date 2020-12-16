@@ -1,0 +1,117 @@
+[
+  {
+    "id": "530429",
+    "book_id": "1co",
+    "chapter": "11",
+    "verse": "20",
+    "alignment_num": "9",
+    "orig_lang_words": ",1513886,",
+    "target_lang_words": ",1312806,1312807,1312808,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513886,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 8,
+        "word": "Κυριακὸν",
+        "occurrence": 1,
+        "strong": "G29600",
+        "lemma": "κυριακός",
+        "morph": "Gr,AA,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "Κυριακὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1312806,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 13,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1312807,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 14,
+        "word": "Lord",
+        "occurrence": 1
+      },
+      {
+        "id": 1312808,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "20",
+        "word_num": 15,
+        "word": "s",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the Lord's",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "Κυριακὸν = the Lord's",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562921",
+    "book_id": "rev",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "5",
+    "orig_lang_words": ",1547763,",
+    "target_lang_words": ",1360212,1360213,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547763,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 5,
+        "word": "Κυριακῇ",
+        "occurrence": 1,
+        "strong": "G29600",
+        "lemma": "κυριακός",
+        "morph": "Gr,AA,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "Κυριακῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1360212,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 7,
+        "word": "Lord",
+        "occurrence": 1
+      },
+      {
+        "id": 1360213,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 8,
+        "word": "s",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lord's",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Κυριακῇ = Lord's",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

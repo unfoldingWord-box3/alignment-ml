@@ -1,0 +1,134 @@
+[
+  {
+    "id": "477410",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "13",
+    "alignment_num": "8",
+    "orig_lang_words": ",1458269,",
+    "target_lang_words": ",1238837,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458269,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 6,
+        "word": "δόματα",
+        "occurrence": 1,
+        "strong": "G13900",
+        "lemma": "δόμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "δόματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1238837,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 11,
+        "word": "gifts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gifts",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δόματα = gifts",
+    "frequency": 0.6666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540692",
+    "book_id": "eph",
+    "chapter": "4",
+    "verse": "8",
+    "alignment_num": "9",
+    "orig_lang_words": ",1524445,",
+    "target_lang_words": ",1327774,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524445,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 8,
+        "word": "δόματα",
+        "occurrence": 1,
+        "strong": "G13900",
+        "lemma": "δόμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "δόματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1327774,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 17,
+        "word": "gifts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gifts",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δόματα = gifts",
+    "frequency": 0.6666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543410",
+    "book_id": "php",
+    "chapter": "4",
+    "verse": "17",
+    "alignment_num": "4",
+    "orig_lang_words": ",1527215,",
+    "target_lang_words": ",1331564,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527215,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "17",
+        "word_num": 4,
+        "word": "δόμα",
+        "occurrence": 1,
+        "strong": "G13900",
+        "lemma": "δόμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "δόμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1331564,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "17",
+        "word_num": 7,
+        "word": "gift",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gift",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δόμα = gift",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

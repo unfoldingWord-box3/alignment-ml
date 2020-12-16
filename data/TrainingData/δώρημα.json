@@ -1,0 +1,90 @@
+[
+  {
+    "id": "521806",
+    "book_id": "rom",
+    "chapter": "5",
+    "verse": "16",
+    "alignment_num": "2",
+    "orig_lang_words": ",1504748,",
+    "target_lang_words": ",1299760,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504748,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 7,
+        "word": "δώρημα",
+        "occurrence": 1,
+        "strong": "G14340",
+        "lemma": "δώρημα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "δώρημα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299760,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 2,
+        "word": "gift",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gift",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δώρημα = gift",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555905",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "17",
+    "alignment_num": "6",
+    "orig_lang_words": ",1540181,",
+    "target_lang_words": ",1349759,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540181,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 5,
+        "word": "δώρημα",
+        "occurrence": 1,
+        "strong": "G14340",
+        "lemma": "δώρημα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "δώρημα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349759,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 6,
+        "word": "gift",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "gift",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δώρημα = gift",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

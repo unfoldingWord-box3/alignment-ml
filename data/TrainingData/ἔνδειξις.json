@@ -1,0 +1,187 @@
+[
+  {
+    "id": "521100",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "25",
+    "alignment_num": "10",
+    "orig_lang_words": ",1503954,",
+    "target_lang_words": ",1298706,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503954,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 12,
+        "word": "ἔνδειξιν",
+        "occurrence": 1,
+        "strong": "G17320",
+        "lemma": "ἔνδειξις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἔνδειξιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298706,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 17,
+        "word": "proof",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "proof",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔνδειξιν = proof",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521113",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "26",
+    "alignment_num": "5",
+    "orig_lang_words": ",1503971,",
+    "target_lang_words": ",1298726,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503971,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "26",
+        "word_num": 7,
+        "word": "ἔνδειξιν",
+        "occurrence": 1,
+        "strong": "G17320",
+        "lemma": "ἔνδειξις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἔνδειξιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298726,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "26",
+        "word_num": 9,
+        "word": "demonstration",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "demonstration",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔνδειξιν = demonstration",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535667",
+    "book_id": "2co",
+    "chapter": "8",
+    "verse": "24",
+    "alignment_num": "7",
+    "orig_lang_words": ",1519280,",
+    "target_lang_words": ",1320376,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519280,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "24",
+        "word_num": 2,
+        "word": "ἔνδειξιν",
+        "occurrence": 1,
+        "strong": "G17320",
+        "lemma": "ἔνδειξις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἔνδειξιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320376,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "24",
+        "word_num": 7,
+        "word": "proof",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "proof",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔνδειξιν = proof",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542366",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "28",
+    "alignment_num": "9",
+    "orig_lang_words": ",1526144,",
+    "target_lang_words": ",1329962,1329963,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526144,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "28",
+        "word_num": 11,
+        "word": "ἔνδειξις",
+        "occurrence": 1,
+        "strong": "G17320",
+        "lemma": "ἔνδειξις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἔνδειξις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1329962,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "28",
+        "word_num": 16,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1329963,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "28",
+        "word_num": 17,
+        "word": "sign",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a sign",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔνδειξις = a sign",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

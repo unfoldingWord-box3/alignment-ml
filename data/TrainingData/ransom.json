@@ -1,0 +1,64 @@
+[
+  {
+    "id": "464615",
+    "book_id": "mrk",
+    "chapter": "10",
+    "verse": "45",
+    "alignment_num": "14",
+    "orig_lang_words": ",1444792,",
+    "target_lang_words": ",1220926,1220927,1220928,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1444792,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "45",
+        "word_num": 16,
+        "word": "λύτρον",
+        "occurrence": 1,
+        "strong": "G30830",
+        "lemma": "λύτρον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "λύτρον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1220926,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "45",
+        "word_num": 20,
+        "word": "as",
+        "occurrence": 1
+      },
+      {
+        "id": 1220927,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "45",
+        "word_num": 21,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1220928,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "45",
+        "word_num": 22,
+        "word": "ransom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "as a ransom",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "λύτρον = as a ransom",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "463232",
+    "book_id": "mrk",
+    "chapter": "9",
+    "verse": "6",
+    "alignment_num": "8",
+    "orig_lang_words": ",1443271,",
+    "target_lang_words": ",1218894,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1443271,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 5,
+        "word": "ἔκφοβοι",
+        "occurrence": 1,
+        "strong": "G16300",
+        "lemma": "ἔκφοβος",
+        "morph": "Gr,NP,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἔκφοβοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1218894,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 11,
+        "word": "terrified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "terrified",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔκφοβοι = terrified",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555209",
+    "book_id": "heb",
+    "chapter": "12",
+    "verse": "21",
+    "alignment_num": "8",
+    "orig_lang_words": ",1539453,",
+    "target_lang_words": ",1348699,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539453,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 8,
+        "word": "ἔκφοβός",
+        "occurrence": 1,
+        "strong": "G16300",
+        "lemma": "ἔκφοβος",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἔκφοβός",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1348699,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 10,
+        "word": "terrified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "terrified",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔκφοβός = terrified",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

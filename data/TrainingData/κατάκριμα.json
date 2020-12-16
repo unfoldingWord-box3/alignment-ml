@@ -1,0 +1,155 @@
+[
+  {
+    "id": "521817",
+    "book_id": "rom",
+    "chapter": "5",
+    "verse": "16",
+    "alignment_num": "13",
+    "orig_lang_words": ",1504756,",
+    "target_lang_words": ",1299781,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504756,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 15,
+        "word": "κατάκριμα",
+        "occurrence": 1,
+        "strong": "G26310",
+        "lemma": "κατάκριμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "κατάκριμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299781,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 23,
+        "word": "condemnation",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "condemnation",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κατάκριμα = condemnation",
+    "frequency": 0.6666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521862",
+    "book_id": "rom",
+    "chapter": "5",
+    "verse": "18",
+    "alignment_num": "5",
+    "orig_lang_words": ",1504807,1504808,",
+    "target_lang_words": ",1299833,1299834,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1504807,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 9,
+        "word": "εἰς",
+        "occurrence": 2,
+        "strong": "G15190",
+        "lemma": "εἰς",
+        "morph": "Gr,P,,,,,A,,,"
+      },
+      {
+        "id": 1504808,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 10,
+        "word": "κατάκριμα",
+        "occurrence": 1,
+        "strong": "G26310",
+        "lemma": "κατάκριμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "εἰς κατάκριμα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1299833,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 5,
+        "word": "condemnation",
+        "occurrence": 1
+      },
+      {
+        "id": 1299834,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 6,
+        "word": "came",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "condemnation came",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εἰς κατάκριμα = condemnation came",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522705",
+    "book_id": "rom",
+    "chapter": "8",
+    "verse": "1",
+    "alignment_num": "4",
+    "orig_lang_words": ",1505719,",
+    "target_lang_words": ",1301154,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505719,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "1",
+        "word_num": 3,
+        "word": "κατάκριμα",
+        "occurrence": 1,
+        "strong": "G26310",
+        "lemma": "κατάκριμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "κατάκριμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1301154,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "1",
+        "word_num": 5,
+        "word": "condemnation",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "condemnation",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κατάκριμα = condemnation",
+    "frequency": 0.6666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

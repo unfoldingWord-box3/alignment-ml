@@ -1,0 +1,152 @@
+[
+  {
+    "id": "515164",
+    "book_id": "act",
+    "chapter": "21",
+    "verse": "8",
+    "alignment_num": "14",
+    "orig_lang_words": ",1497791,",
+    "target_lang_words": ",1290191,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1497791,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "8",
+        "word_num": 14,
+        "word": "εὐαγγελιστοῦ",
+        "occurrence": 1,
+        "strong": "G20990",
+        "lemma": "εὐαγγελιστής",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "εὐαγγελιστοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1290191,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "8",
+        "word_num": 19,
+        "word": "evangelist",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evangelist",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐαγγελιστοῦ = evangelist",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540737",
+    "book_id": "eph",
+    "chapter": "4",
+    "verse": "11",
+    "alignment_num": "11",
+    "orig_lang_words": ",1524490,",
+    "target_lang_words": ",1327828,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524490,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 11,
+        "word": "εὐαγγελιστάς",
+        "occurrence": 1,
+        "strong": "G20990",
+        "lemma": "εὐαγγελιστής",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "εὐαγγελιστάς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1327828,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 11,
+        "word": "evangelists",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evangelists",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐαγγελιστάς = evangelists",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549746",
+    "book_id": "2ti",
+    "chapter": "4",
+    "verse": "5",
+    "alignment_num": "8",
+    "orig_lang_words": ",1533769,",
+    "target_lang_words": ",1340536,1340537,1340538,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533769,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 8,
+        "word": "εὐαγγελιστοῦ",
+        "occurrence": 1,
+        "strong": "G20990",
+        "lemma": "εὐαγγελιστής",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "εὐαγγελιστοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1340536,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 13,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1340537,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 14,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 1340538,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 15,
+        "word": "evangelist",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of an evangelist",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "εὐαγγελιστοῦ = of an evangelist",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

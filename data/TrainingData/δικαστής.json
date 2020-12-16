@@ -1,0 +1,108 @@
+[
+  {
+    "id": "505880",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "27",
+    "alignment_num": "14",
+    "orig_lang_words": ",1488231,",
+    "target_lang_words": ",1277635,1277636,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488231,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 13,
+        "word": "δικαστὴν",
+        "occurrence": 1,
+        "strong": "G13480",
+        "lemma": "δικαστής",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "δικαστὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1277635,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 19,
+        "word": "a",
+        "occurrence": 2
+      },
+      {
+        "id": 1277636,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 20,
+        "word": "judge",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a judge",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δικαστὴν = a judge",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506018",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "35",
+    "alignment_num": "11",
+    "orig_lang_words": ",1488370,",
+    "target_lang_words": ",1277832,1277833,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488370,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "35",
+        "word_num": 11,
+        "word": "δικαστήν",
+        "occurrence": 1,
+        "strong": "G13480",
+        "lemma": "δικαστής",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "δικαστήν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1277832,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "35",
+        "word_num": 13,
+        "word": "a",
+        "occurrence": 2
+      },
+      {
+        "id": 1277833,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "35",
+        "word_num": 14,
+        "word": "judge",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a judge",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δικαστήν = a judge",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

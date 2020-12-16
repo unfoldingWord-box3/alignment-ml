@@ -1,0 +1,190 @@
+[
+  {
+    "id": "459618",
+    "book_id": "mrk",
+    "chapter": "3",
+    "verse": "28",
+    "alignment_num": "4",
+    "orig_lang_words": ",1439430,1439431,",
+    "target_lang_words": ",1213904,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1439430,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "28",
+        "word_num": 10,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1439431,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "28",
+        "word_num": 11,
+        "word": "ἁμαρτήματα",
+        "occurrence": 1,
+        "strong": "G02650",
+        "lemma": "ἁμάρτημα",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἁμαρτήματα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1213904,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "28",
+        "word_num": 6,
+        "word": "sins",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sins",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἁμαρτήματα = sins",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "459643",
+    "book_id": "mrk",
+    "chapter": "3",
+    "verse": "29",
+    "alignment_num": "16",
+    "orig_lang_words": ",1439457,",
+    "target_lang_words": ",1213935,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1439457,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "29",
+        "word_num": 19,
+        "word": "ἁμαρτήματος",
+        "occurrence": 1,
+        "strong": "G02650",
+        "lemma": "ἁμάρτημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἁμαρτήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1213935,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "29",
+        "word_num": 16,
+        "word": "an",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁμαρτήματος = an",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521107",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "25",
+    "alignment_num": "17",
+    "orig_lang_words": ",1503963,",
+    "target_lang_words": ",1298716,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503963,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 21,
+        "word": "ἁμαρτημάτων",
+        "occurrence": 1,
+        "strong": "G02650",
+        "lemma": "ἁμάρτημα",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἁμαρτημάτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298716,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 27,
+        "word": "sins",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sins",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁμαρτημάτων = sins",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528319",
+    "book_id": "1co",
+    "chapter": "6",
+    "verse": "18",
+    "alignment_num": "3",
+    "orig_lang_words": ",1511722,",
+    "target_lang_words": ",1309603,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511722,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 4,
+        "word": "ἁμάρτημα",
+        "occurrence": 1,
+        "strong": "G02650",
+        "lemma": "ἁμάρτημα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ἁμάρτημα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1309603,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 6,
+        "word": "sin",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sin",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁμάρτημα = sin",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

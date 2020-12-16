@@ -1,0 +1,99 @@
+[
+  {
+    "id": "476456",
+    "book_id": "luk",
+    "chapter": "10",
+    "verse": "1",
+    "alignment_num": "6",
+    "orig_lang_words": ",1457272,",
+    "target_lang_words": ",1237533,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1457272,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 3,
+        "word": "ἀνέδειξεν",
+        "occurrence": 1,
+        "strong": "G03220",
+        "lemma": "ἀναδείκνυμι",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀνέδειξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1237533,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 7,
+        "word": "appointed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "appointed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀνέδειξεν = appointed",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502394",
+    "book_id": "act",
+    "chapter": "1",
+    "verse": "24",
+    "alignment_num": "7",
+    "orig_lang_words": ",1484619,",
+    "target_lang_words": ",1273028,1273029,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484619,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 7,
+        "word": "ἀνάδειξον",
+        "occurrence": 1,
+        "strong": "G03220",
+        "lemma": "ἀναδείκνυμι",
+        "morph": "Gr,V,MAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀνάδειξον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1273028,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 12,
+        "word": "so",
+        "occurrence": 1
+      },
+      {
+        "id": 1273029,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 13,
+        "word": "reveal",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "so reveal",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀνάδειξον = so reveal",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

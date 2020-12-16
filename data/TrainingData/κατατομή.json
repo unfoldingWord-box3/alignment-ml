@@ -1,0 +1,73 @@
+[
+  {
+    "id": "542860",
+    "book_id": "php",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "9",
+    "orig_lang_words": ",1526642,",
+    "target_lang_words": ",1330708,1330709,1330710,1330711,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526642,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 9,
+        "word": "κατατομήν",
+        "occurrence": 1,
+        "strong": "G26990",
+        "lemma": "κατατομή",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κατατομήν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1330708,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 15,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1330709,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 16,
+        "word": "mutilate",
+        "occurrence": 1
+      },
+      {
+        "id": 1330710,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 17,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1330711,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 18,
+        "word": "flesh",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who mutilate the flesh",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "κατατομήν = who mutilate the flesh",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

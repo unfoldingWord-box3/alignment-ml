@@ -1,0 +1,73 @@
+[
+  {
+    "id": "529193",
+    "book_id": "1co",
+    "chapter": "8",
+    "verse": "10",
+    "alignment_num": "8",
+    "orig_lang_words": ",1512620,",
+    "target_lang_words": ",1310905,1310906,1310907,1310908,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1512620,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "10",
+        "word_num": 8,
+        "word": "εἰδωλείῳ",
+        "occurrence": 1,
+        "strong": "G14930",
+        "lemma": "εἰδωλεῖον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "εἰδωλείῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1310905,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "10",
+        "word_num": 11,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 1310906,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "10",
+        "word_num": 12,
+        "word": "idol",
+        "occurrence": 1
+      },
+      {
+        "id": 1310907,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "10",
+        "word_num": 13,
+        "word": "s",
+        "occurrence": 1
+      },
+      {
+        "id": 1310908,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "10",
+        "word_num": 14,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an idol's temple",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "εἰδωλείῳ = an idol's temple",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

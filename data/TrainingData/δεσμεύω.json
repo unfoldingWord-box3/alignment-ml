@@ -1,0 +1,117 @@
+[
+  {
+    "id": "474832",
+    "book_id": "luk",
+    "chapter": "8",
+    "verse": "29",
+    "alignment_num": "15",
+    "orig_lang_words": ",1455624,",
+    "target_lang_words": ",1235395,1235396,1235397,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1455624,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "29",
+        "word_num": 16,
+        "word": "ἐδεσμεύετο",
+        "occurrence": 1,
+        "strong": "G11950",
+        "lemma": "δεσμεύω",
+        "morph": "Gr,V,IIP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδεσμεύετο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1235395,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "29",
+        "word_num": 21,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 1235396,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "29",
+        "word_num": 22,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1235397,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "29",
+        "word_num": 23,
+        "word": "bound",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he was bound",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐδεσμεύετο = he was bound",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "515857",
+    "book_id": "act",
+    "chapter": "22",
+    "verse": "4",
+    "alignment_num": "6",
+    "orig_lang_words": ",1498508,",
+    "target_lang_words": ",1291117,1291118,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498508,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "4",
+        "word_num": 7,
+        "word": "δεσμεύων",
+        "occurrence": 1,
+        "strong": "G11950",
+        "lemma": "δεσμεύω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "δεσμεύων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1291117,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "4",
+        "word_num": 7,
+        "word": "binding",
+        "occurrence": 1
+      },
+      {
+        "id": 1291118,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "4",
+        "word_num": 8,
+        "word": "up",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "binding up",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δεσμεύων = binding up",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "458537",
+    "book_id": "mrk",
+    "chapter": "1",
+    "verse": "32",
+    "alignment_num": "13",
+    "orig_lang_words": ",1438270,1438271,",
+    "target_lang_words": ",1212378,1212379,1212380,1212381,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1438270,
+        "book_id": "mrk",
+        "chapter": "1",
+        "verse": "32",
+        "word_num": 15,
+        "word": "τοὺς",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,AMP,"
+      },
+      {
+        "id": 1438271,
+        "book_id": "mrk",
+        "chapter": "1",
+        "verse": "32",
+        "word_num": 16,
+        "word": "δαιμονιζομένους",
+        "occurrence": 1,
+        "strong": "G11390",
+        "lemma": "δαιμονίζομαι",
+        "morph": "Gr,V,PPM,AMP,"
+      }
+    ],
+    "origWordsTxt": "τοὺς δαιμονιζομένους",
+    "alignmentOrigWords": 2,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1212378,
+        "book_id": "mrk",
+        "chapter": "1",
+        "verse": "32",
+        "word_num": 20,
+        "word": "those",
+        "occurrence": 2
+      },
+      {
+        "id": 1212379,
+        "book_id": "mrk",
+        "chapter": "1",
+        "verse": "32",
+        "word_num": 21,
+        "word": "possessed",
+        "occurrence": 1
+      },
+      {
+        "id": 1212380,
+        "book_id": "mrk",
+        "chapter": "1",
+        "verse": "32",
+        "word_num": 22,
+        "word": "by",
+        "occurrence": 1
+      },
+      {
+        "id": 1212381,
+        "book_id": "mrk",
+        "chapter": "1",
+        "verse": "32",
+        "word_num": 23,
+        "word": "demons",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "those possessed by demons",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "τοὺς δαιμονιζομένους = those possessed by demons",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "460616",
+    "book_id": "mrk",
+    "chapter": "5",
+    "verse": "15",
+    "alignment_num": "7",
+    "orig_lang_words": ",1440464,",
+    "target_lang_words": ",1215266,1215267,1215268,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1440464,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 8,
+        "word": "δαιμονιζόμενον",
+        "occurrence": 1,
+        "strong": "G11390",
+        "lemma": "δαιμονίζομαι",
+        "morph": "Gr,V,PPM,AMS,"
+      }
+    ],
+    "origWordsTxt": "δαιμονιζόμενον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1215266,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 9,
+        "word": "demon",
+        "occurrence": 1
+      },
+      {
+        "id": 1215267,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 10,
+        "word": "possessed",
+        "occurrence": 1
+      },
+      {
+        "id": 1215268,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 11,
+        "word": "man",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "demon possessed man",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δαιμονιζόμενον = demon possessed man",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "460630",
+    "book_id": "mrk",
+    "chapter": "5",
+    "verse": "16",
+    "alignment_num": "4",
+    "orig_lang_words": ",1440483,",
+    "target_lang_words": ",1215298,1215299,1215300,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1440483,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 8,
+        "word": "δαιμονιζομένῳ",
+        "occurrence": 1,
+        "strong": "G11390",
+        "lemma": "δαιμονίζομαι",
+        "morph": "Gr,V,PPM,DMS,"
+      }
+    ],
+    "origWordsTxt": "δαιμονιζομένῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1215298,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 8,
+        "word": "demon",
+        "occurrence": 1
+      },
+      {
+        "id": 1215299,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 9,
+        "word": "possessed",
+        "occurrence": 1
+      },
+      {
+        "id": 1215300,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 10,
+        "word": "man",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "demon possessed man",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δαιμονιζομένῳ = demon possessed man",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "460651",
+    "book_id": "mrk",
+    "chapter": "5",
+    "verse": "18",
+    "alignment_num": "6",
+    "orig_lang_words": ",1440505,1440506,",
+    "target_lang_words": ",1215327,1215328,1215329,1215330,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1440505,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 8,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NMS,"
+      },
+      {
+        "id": 1440506,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 9,
+        "word": "δαιμονισθεὶς",
+        "occurrence": 1,
+        "strong": "G11390",
+        "lemma": "δαιμονίζομαι",
+        "morph": "Gr,V,PAP,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ δαιμονισθεὶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1215327,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 7,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1215328,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 8,
+        "word": "demon",
+        "occurrence": 1
+      },
+      {
+        "id": 1215329,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 9,
+        "word": "possessed",
+        "occurrence": 1
+      },
+      {
+        "id": 1215330,
+        "book_id": "mrk",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 10,
+        "word": "man",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the demon possessed man",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ὁ δαιμονισθεὶς = the demon possessed man",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "474978",
+    "book_id": "luk",
+    "chapter": "8",
+    "verse": "36",
+    "alignment_num": "7",
+    "orig_lang_words": ",1455769,",
+    "target_lang_words": ",1235591,1235592,1235593,1235594,1235595,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1455769,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "36",
+        "word_num": 8,
+        "word": "δαιμονισθείς",
+        "occurrence": 1,
+        "strong": "G11390",
+        "lemma": "δαιμονίζομαι",
+        "morph": "Gr,V,PAP,NMS,"
+      }
+    ],
+    "origWordsTxt": "δαιμονισθείς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1235591,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "36",
+        "word_num": 13,
+        "word": "had",
+        "occurrence": 2
+      },
+      {
+        "id": 1235592,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "36",
+        "word_num": 14,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1235593,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "36",
+        "word_num": 15,
+        "word": "possessed",
+        "occurrence": 1
+      },
+      {
+        "id": 1235594,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "36",
+        "word_num": 16,
+        "word": "by",
+        "occurrence": 1
+      },
+      {
+        "id": 1235595,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "36",
+        "word_num": 17,
+        "word": "demons",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "had been possessed by demons",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "δαιμονισθείς = had been possessed by demons",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494687",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "21",
+    "alignment_num": "7",
+    "orig_lang_words": ",1476405,",
+    "target_lang_words": ",1262423,1262424,1262425,1262426,1262427,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476405,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "21",
+        "word_num": 7,
+        "word": "δαιμονιζομένου",
+        "occurrence": 1,
+        "strong": "G11390",
+        "lemma": "δαιμονίζομαι",
+        "morph": "Gr,V,PPM,GMS,"
+      }
+    ],
+    "origWordsTxt": "δαιμονιζομένου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1262423,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "21",
+        "word_num": 7,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1262424,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "21",
+        "word_num": 8,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1262425,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "21",
+        "word_num": 9,
+        "word": "demon",
+        "occurrence": 1
+      },
+      {
+        "id": 1262426,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "21",
+        "word_num": 10,
+        "word": "possessed",
+        "occurrence": 1
+      },
+      {
+        "id": 1262427,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "21",
+        "word_num": 11,
+        "word": "man",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of a demon possessed man",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "δαιμονιζομένου = of a demon possessed man",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "551750",
+    "book_id": "heb",
+    "chapter": "3",
+    "verse": "17",
+    "alignment_num": "8",
+    "orig_lang_words": ",1535839,1535840,",
+    "target_lang_words": ",1343451,1343452,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1535839,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 9,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1535840,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 10,
+        "word": "κῶλα",
+        "occurrence": 1,
+        "strong": "G29660",
+        "lemma": "κῶλον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ κῶλα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1343451,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 17,
+        "word": "dead",
+        "occurrence": 1
+      },
+      {
+        "id": 1343452,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 18,
+        "word": "bodies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "dead bodies",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τὰ κῶλα = dead bodies",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "id": "468796",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "23",
+    "alignment_num": "7",
+    "orig_lang_words": ",1449463,",
+    "target_lang_words": ",1227205,1227206,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449463,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 7,
+        "word": "λειτουργίας",
+        "occurrence": 1,
+        "strong": "G30090",
+        "lemma": "λειτουργία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "λειτουργίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1227205,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 10,
+        "word": "priestly",
+        "occurrence": 1
+      },
+      {
+        "id": 1227206,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 11,
+        "word": "service",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priestly service",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "λειτουργίας = priestly service",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535876",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "12",
+    "alignment_num": "3",
+    "orig_lang_words": ",1519509,1519510,",
+    "target_lang_words": ",1320671,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1519509,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "12",
+        "word_num": 3,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1519510,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "12",
+        "word_num": 4,
+        "word": "λειτουργίας",
+        "occurrence": 1,
+        "strong": "G30090",
+        "lemma": "λειτουργία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς λειτουργίας",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320671,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "12",
+        "word_num": 3,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῆς λειτουργίας = of",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542640",
+    "book_id": "php",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "8",
+    "orig_lang_words": ",1526424,",
+    "target_lang_words": ",1330373,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526424,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 8,
+        "word": "λειτουργίᾳ",
+        "occurrence": 1,
+        "strong": "G30090",
+        "lemma": "λειτουργία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "λειτουργίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1330373,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 15,
+        "word": "service",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "service",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "λειτουργίᾳ = service",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542830",
+    "book_id": "php",
+    "chapter": "2",
+    "verse": "30",
+    "alignment_num": "15",
+    "orig_lang_words": ",1526614,",
+    "target_lang_words": ",1330662,1330663,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526614,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "30",
+        "word_num": 19,
+        "word": "λειτουργίας",
+        "occurrence": 1,
+        "strong": "G30090",
+        "lemma": "λειτουργία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "λειτουργίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1330662,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "30",
+        "word_num": 28,
+        "word": "in",
+        "occurrence": 1
+      },
+      {
+        "id": 1330663,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "30",
+        "word_num": 29,
+        "word": "service",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in service",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "λειτουργίας = in service",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553090",
+    "book_id": "heb",
+    "chapter": "8",
+    "verse": "6",
+    "alignment_num": "4",
+    "orig_lang_words": ",1537243,",
+    "target_lang_words": ",1345460,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537243,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "6",
+        "word_num": 4,
+        "word": "λειτουργίας",
+        "occurrence": 1,
+        "strong": "G30090",
+        "lemma": "λειτουργία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "λειτουργίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345460,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "6",
+        "word_num": 8,
+        "word": "ministry",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "ministry",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "λειτουργίας = ministry",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553623",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "21",
+    "alignment_num": "13",
+    "orig_lang_words": ",1537791,",
+    "target_lang_words": ",1346236,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537791,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 9,
+        "word": "λειτουργίας",
+        "occurrence": 1,
+        "strong": "G30090",
+        "lemma": "λειτουργία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "λειτουργίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346236,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 20,
+        "word": "service",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "service",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "λειτουργίας = service",
+    "frequency": 0.16666666666666666,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "569494",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "13",
+    "alignment_num": "1",
+    "orig_lang_words": ",1555060,1555061,",
+    "target_lang_words": ",1369202,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1555060,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "13",
+        "word_num": 2,
+        "word": "καὶ",
+        "occurrence": 2,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1555061,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "13",
+        "word_num": 3,
+        "word": "ἄμωμον",
+        "occurrence": 1,
+        "strong": "G02985",
+        "lemma": "ἄμωμον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "καὶ ἄμωμον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369202,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "13",
+        "word_num": 1,
+        "word": "spice",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "spice",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καὶ ἄμωμον = spice",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

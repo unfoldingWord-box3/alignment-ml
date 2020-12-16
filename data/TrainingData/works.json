@@ -1,0 +1,8321 @@
+[
+  {
+    "id": "466506",
+    "book_id": "mrk",
+    "chapter": "13",
+    "verse": "34",
+    "alignment_num": "14",
+    "orig_lang_words": ",1446865,1446866,",
+    "target_lang_words": ",1223610,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1446865,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "34",
+        "word_num": 15,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1446866,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "34",
+        "word_num": 16,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἔργον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1223610,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "34",
+        "word_num": 23,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἔργον = work",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "466649",
+    "book_id": "mrk",
+    "chapter": "14",
+    "verse": "6",
+    "alignment_num": "9",
+    "orig_lang_words": ",1447009,",
+    "target_lang_words": ",1223825,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1447009,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "6",
+        "word_num": 11,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1223825,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "6",
+        "word_num": 14,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = a",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "478046",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "48",
+    "alignment_num": "4",
+    "orig_lang_words": ",1458919,",
+    "target_lang_words": ",1239701,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458919,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "48",
+        "word_num": 5,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1239701,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "48",
+        "word_num": 7,
+        "word": "to",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργοις = to",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "486658",
+    "book_id": "luk",
+    "chapter": "23",
+    "verse": "51",
+    "alignment_num": "8",
+    "orig_lang_words": ",1467634,1467635,",
+    "target_lang_words": ",1251539,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1467634,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "51",
+        "word_num": 7,
+        "word": "τῇ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFS,"
+      },
+      {
+        "id": 1467635,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "51",
+        "word_num": 8,
+        "word": "πράξει",
+        "occurrence": 1,
+        "strong": "G42340",
+        "lemma": "πρᾶξις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "τῇ πράξει",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1251539,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "51",
+        "word_num": 9,
+        "word": "action",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "action",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῇ πράξει = action",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "487024",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "19",
+    "alignment_num": "19",
+    "orig_lang_words": ",1468003,",
+    "target_lang_words": ",1252029,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1468003,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "19",
+        "word_num": 19,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1252029,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "19",
+        "word_num": 26,
+        "word": "deed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργῳ = deed",
+    "frequency": 0.017857142857142856,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489017",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "19",
+    "alignment_num": "23",
+    "orig_lang_words": ",1470139,1470140,",
+    "target_lang_words": ",1254665,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1470139,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 26,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1470140,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 27,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254665,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 26,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = deeds",
+    "frequency": 0.05357142857142857,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489035",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "20",
+    "alignment_num": "15",
+    "orig_lang_words": ",1470158,1470159,",
+    "target_lang_words": ",1254686,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1470158,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 17,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1470159,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 18,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254686,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 18,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = deeds",
+    "frequency": 0.05357142857142857,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489052",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "21",
+    "alignment_num": "13",
+    "orig_lang_words": ",1470173,1470174,",
+    "target_lang_words": ",1254710,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1470173,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 12,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1470174,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 13,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254710,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 19,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = deeds",
+    "frequency": 0.05357142857142857,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489818",
+    "book_id": "jhn",
+    "chapter": "4",
+    "verse": "34",
+    "alignment_num": "15",
+    "orig_lang_words": ",1471002,1471003,",
+    "target_lang_words": ",1255723,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1471002,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "34",
+        "word_num": 17,
+        "word": "τὸ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1471003,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "34",
+        "word_num": 18,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἔργον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1255723,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "34",
+        "word_num": 20,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἔργον = work",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490463",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "20",
+    "alignment_num": "17",
+    "orig_lang_words": ",1471738,",
+    "target_lang_words": ",1256615,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471738,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 18,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256615,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 21,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "things",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = things",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490725",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "36",
+    "alignment_num": "9",
+    "orig_lang_words": ",1472016,",
+    "target_lang_words": ",1256973,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1472016,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "36",
+        "word_num": 10,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256973,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "36",
+        "word_num": 14,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490736",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "36",
+    "alignment_num": "20",
+    "orig_lang_words": ",1472027,",
+    "target_lang_words": ",1256987,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1472027,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "36",
+        "word_num": 21,
+        "word": "ἔργα",
+        "occurrence": 2,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256987,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "36",
+        "word_num": 28,
+        "word": "works",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491349",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "28",
+    "alignment_num": "9",
+    "orig_lang_words": ",1472672,",
+    "target_lang_words": ",1257834,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1472672,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "28",
+        "word_num": 9,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1257834,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "28",
+        "word_num": 15,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491359",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "29",
+    "alignment_num": "8",
+    "orig_lang_words": ",1472684,",
+    "target_lang_words": ",1257846,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1472684,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "29",
+        "word_num": 9,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1257846,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "29",
+        "word_num": 9,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492075",
+    "book_id": "jhn",
+    "chapter": "7",
+    "verse": "3",
+    "alignment_num": "18",
+    "orig_lang_words": ",1473489,",
+    "target_lang_words": ",1258787,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473489,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 22,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258787,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 21,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492137",
+    "book_id": "jhn",
+    "chapter": "7",
+    "verse": "7",
+    "alignment_num": "15",
+    "orig_lang_words": ",1473553,1473554,",
+    "target_lang_words": ",1258858,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1473553,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "7",
+        "word_num": 15,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1473554,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "7",
+        "word_num": 16,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258858,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "7",
+        "word_num": 16,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492340",
+    "book_id": "jhn",
+    "chapter": "7",
+    "verse": "21",
+    "alignment_num": "7",
+    "orig_lang_words": ",1473768,",
+    "target_lang_words": ",1259113,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473768,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "21",
+        "word_num": 6,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1259113,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "21",
+        "word_num": 9,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493328",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "39",
+    "alignment_num": "17",
+    "orig_lang_words": ",1474958,",
+    "target_lang_words": ",1260607,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1474958,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "39",
+        "word_num": 19,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260607,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "39",
+        "word_num": 24,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493352",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "41",
+    "alignment_num": "3",
+    "orig_lang_words": ",1474985,",
+    "target_lang_words": ",1260638,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1474985,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "41",
+        "word_num": 3,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260638,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "41",
+        "word_num": 3,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493728",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "3",
+    "alignment_num": "12",
+    "orig_lang_words": ",1475393,",
+    "target_lang_words": ",1261117,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475393,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "3",
+        "word_num": 13,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1261117,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "3",
+        "word_num": 14,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493737",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "4",
+    "alignment_num": "4",
+    "orig_lang_words": ",1475402,",
+    "target_lang_words": ",1261129,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475402,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "4",
+        "word_num": 4,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1261129,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "4",
+        "word_num": 4,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494744",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "25",
+    "alignment_num": "10",
+    "orig_lang_words": ",1476465,",
+    "target_lang_words": ",1262507,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476465,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "25",
+        "word_num": 10,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262507,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "25",
+        "word_num": 13,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494834",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "32",
+    "alignment_num": "7",
+    "orig_lang_words": ",1476563,",
+    "target_lang_words": ",1262621,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476563,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 5,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262621,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 9,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494841",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "32",
+    "alignment_num": "14",
+    "orig_lang_words": ",1476573,",
+    "target_lang_words": ",1262629,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476573,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 15,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262629,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 17,
+        "word": "works",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = works",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494854",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "33",
+    "alignment_num": "10",
+    "orig_lang_words": ",1476582,",
+    "target_lang_words": ",1262646,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476582,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "33",
+        "word_num": 6,
+        "word": "ἔργου",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262646,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "33",
+        "word_num": 12,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργου = work",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494917",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "37",
+    "alignment_num": "5",
+    "orig_lang_words": ",1476653,",
+    "target_lang_words": ",1262725,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476653,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "37",
+        "word_num": 4,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262725,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "37",
+        "word_num": 6,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494934",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "38",
+    "alignment_num": "10",
+    "orig_lang_words": ",1476668,",
+    "target_lang_words": ",1262749,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476668,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "38",
+        "word_num": 8,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262749,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "38",
+        "word_num": 16,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργοις = works",
+    "frequency": 0.023809523809523808,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497485",
+    "book_id": "jhn",
+    "chapter": "14",
+    "verse": "10",
+    "alignment_num": "34",
+    "orig_lang_words": ",1479416,1479417,",
+    "target_lang_words": ",1266243,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1479416,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 30,
+        "word": "τὰ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1479417,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 31,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1266243,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 38,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = work",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497502",
+    "book_id": "jhn",
+    "chapter": "14",
+    "verse": "11",
+    "alignment_num": "16",
+    "orig_lang_words": ",1479436,",
+    "target_lang_words": ",1266264,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1479436,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "11",
+        "word_num": 17,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1266264,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "11",
+        "word_num": 20,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497512",
+    "book_id": "jhn",
+    "chapter": "14",
+    "verse": "12",
+    "alignment_num": "8",
+    "orig_lang_words": ",1479448,",
+    "target_lang_words": ",1266278,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1479448,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "12",
+        "word_num": 9,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1266278,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "12",
+        "word_num": 12,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498255",
+    "book_id": "jhn",
+    "chapter": "15",
+    "verse": "24",
+    "alignment_num": "5",
+    "orig_lang_words": ",1480238,",
+    "target_lang_words": ",1267299,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480238,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "24",
+        "word_num": 2,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1267299,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "24",
+        "word_num": 6,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498955",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "4",
+    "alignment_num": "8",
+    "orig_lang_words": ",1480954,",
+    "target_lang_words": ",1268307,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480954,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 7,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1268307,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 10,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505059",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "38",
+    "alignment_num": "18",
+    "orig_lang_words": ",1487387,1487388,",
+    "target_lang_words": ",1276537,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1487387,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "38",
+        "word_num": 22,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1487388,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "38",
+        "word_num": 23,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἔργον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276537,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "38",
+        "word_num": 21,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἔργον = work",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505801",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "22",
+    "alignment_num": "12",
+    "orig_lang_words": ",1488147,",
+    "target_lang_words": ",1277518,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488147,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "22",
+        "word_num": 12,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1277518,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "22",
+        "word_num": 18,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργοις = works",
+    "frequency": 0.023809523809523808,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506160",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "41",
+    "alignment_num": "15",
+    "orig_lang_words": ",1488515,",
+    "target_lang_words": ",1278024,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488515,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "41",
+        "word_num": 15,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1278024,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "41",
+        "word_num": 22,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργοις = work",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "507814",
+    "book_id": "act",
+    "chapter": "9",
+    "verse": "36",
+    "alignment_num": "16",
+    "orig_lang_words": ",1490208,",
+    "target_lang_words": ",1280217,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490208,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "36",
+        "word_num": 15,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1280217,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "36",
+        "word_num": 18,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = of",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "509811",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "2",
+    "alignment_num": "19",
+    "orig_lang_words": ",1492261,",
+    "target_lang_words": ",1282920,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492261,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "2",
+        "word_num": 21,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1282920,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "2",
+        "word_num": 23,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510466",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "41",
+    "alignment_num": "10",
+    "orig_lang_words": ",1492924,",
+    "target_lang_words": ",1283830,1283831,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492924,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "41",
+        "word_num": 8,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1283830,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "41",
+        "word_num": 14,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1283831,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "41",
+        "word_num": 15,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a work",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργον = a work",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510470",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "41",
+    "alignment_num": "14",
+    "orig_lang_words": ",1492931,",
+    "target_lang_words": ",1283835,1283836,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492931,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "41",
+        "word_num": 15,
+        "word": "ἔργον",
+        "occurrence": 2,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1283835,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "41",
+        "word_num": 19,
+        "word": "A",
+        "occurrence": 1
+      },
+      {
+        "id": 1283836,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "41",
+        "word_num": 20,
+        "word": "work",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "A work",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργον = A work",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511119",
+    "book_id": "act",
+    "chapter": "14",
+    "verse": "26",
+    "alignment_num": "14",
+    "orig_lang_words": ",1493581,",
+    "target_lang_words": ",1284701,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1493581,
+        "book_id": "act",
+        "chapter": "14",
+        "verse": "26",
+        "word_num": 13,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1284701,
+        "book_id": "act",
+        "chapter": "14",
+        "verse": "26",
+        "word_num": 18,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511776",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "38",
+    "alignment_num": "17",
+    "orig_lang_words": ",1494272,",
+    "target_lang_words": ",1285595,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494272,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "38",
+        "word_num": 15,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1285595,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "38",
+        "word_num": 25,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513970",
+    "book_id": "act",
+    "chapter": "19",
+    "verse": "18",
+    "alignment_num": "9",
+    "orig_lang_words": ",1496544,1496545,",
+    "target_lang_words": ",1288525,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1496544,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "18",
+        "word_num": 8,
+        "word": "τὰς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFP,"
+      },
+      {
+        "id": 1496545,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "18",
+        "word_num": 9,
+        "word": "πράξεις",
+        "occurrence": 1,
+        "strong": "G42340",
+        "lemma": "πρᾶξις",
+        "morph": "Gr,N,,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "τὰς πράξεις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1288525,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "18",
+        "word_num": 11,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰς πράξεις = deeds",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518366",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "20",
+    "alignment_num": "26",
+    "orig_lang_words": ",1501053,",
+    "target_lang_words": ",1294655,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501053,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "20",
+        "word_num": 27,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1294655,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "20",
+        "word_num": 33,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = deeds",
+    "frequency": 0.017857142857142856,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520494",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1503276,1503277,",
+    "target_lang_words": ",1297721,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503276,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 4,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1503277,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 5,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297721,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 10,
+        "word": "actions",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "actions",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = actions",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520500",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "7",
+    "alignment_num": "5",
+    "orig_lang_words": ",1503283,",
+    "target_lang_words": ",1297729,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503283,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 4,
+        "word": "ἔργου",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297729,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 7,
+        "word": "actions",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "actions",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργου = actions",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520611",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "15",
+    "alignment_num": "3",
+    "orig_lang_words": ",1503398,",
+    "target_lang_words": ",1297909,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503398,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 3,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297909,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 6,
+        "word": "actions",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "actions",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = actions",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521032",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "20",
+    "alignment_num": "5",
+    "orig_lang_words": ",1503879,",
+    "target_lang_words": ",1298600,1298601,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503879,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 2,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1298600,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 9,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1298601,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 10,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the works",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργων = the works",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521137",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "27",
+    "alignment_num": "7",
+    "orig_lang_words": ",1503998,1503999,",
+    "target_lang_words": ",1298759,1298760,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503998,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "27",
+        "word_num": 8,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1503999,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "27",
+        "word_num": 9,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν ἔργων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1298759,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "27",
+        "word_num": 10,
+        "word": "Of",
+        "occurrence": 1
+      },
+      {
+        "id": 1298760,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "27",
+        "word_num": 11,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Of works",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τῶν ἔργων = Of works",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521149",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "28",
+    "alignment_num": "6",
+    "orig_lang_words": ",1504011,",
+    "target_lang_words": ",1298779,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504011,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "28",
+        "word_num": 6,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298779,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "28",
+        "word_num": 11,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521198",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "2",
+    "alignment_num": "5",
+    "orig_lang_words": ",1504063,",
+    "target_lang_words": ",1298858,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504063,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 4,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298858,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 7,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521261",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "6",
+    "alignment_num": "12",
+    "orig_lang_words": ",1504129,",
+    "target_lang_words": ",1298946,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504129,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 14,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298946,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 14,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522923",
+    "book_id": "rom",
+    "chapter": "8",
+    "verse": "13",
+    "alignment_num": "13",
+    "orig_lang_words": ",1505945,",
+    "target_lang_words": ",1301485,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505945,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "13",
+        "word_num": 11,
+        "word": "πράξεις",
+        "occurrence": 1,
+        "strong": "G42340",
+        "lemma": "πρᾶξις",
+        "morph": "Gr,N,,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "πράξεις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1301485,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "13",
+        "word_num": 25,
+        "word": "actions",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "actions",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πράξεις = actions",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523504",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "12",
+    "alignment_num": "2",
+    "orig_lang_words": ",1506553,",
+    "target_lang_words": ",1302363,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506553,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "12",
+        "word_num": 2,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1302363,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "12",
+        "word_num": 3,
+        "word": "actions",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "actions",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = actions",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523794",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "32",
+    "alignment_num": "8",
+    "orig_lang_words": ",1506872,",
+    "target_lang_words": ",1302838,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506872,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "32",
+        "word_num": 9,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1302838,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "32",
+        "word_num": 12,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524216",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1507331,",
+    "target_lang_words": ",1303464,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507331,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "6",
+        "word_num": 5,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1303464,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "6",
+        "word_num": 11,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524751",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "4",
+    "alignment_num": "16",
+    "orig_lang_words": ",1507911,",
+    "target_lang_words": ",1304314,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507911,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "4",
+        "word_num": 16,
+        "word": "πρᾶξιν",
+        "occurrence": 1,
+        "strong": "G42340",
+        "lemma": "πρᾶξις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "πρᾶξιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304314,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "4",
+        "word_num": 18,
+        "word": "function",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "function",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πρᾶξιν = function",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524968",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "3",
+    "alignment_num": "4",
+    "orig_lang_words": ",1508160,1508161,1508162,",
+    "target_lang_words": ",1304648,1304649,1304650,",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 1508160,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 6,
+        "word": "τῷ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1508161,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 7,
+        "word": "ἀγαθῷ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,DNS,"
+      },
+      {
+        "id": 1508162,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 8,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ ἀγαθῷ ἔργῳ",
+    "alignmentOrigWords": 3,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1304648,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 6,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1304649,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 7,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1304650,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 8,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to good deeds",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "τῷ ἀγαθῷ ἔργῳ = to good deeds",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525130",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "12",
+    "alignment_num": "11",
+    "orig_lang_words": ",1508346,",
+    "target_lang_words": ",1304909,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508346,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "12",
+        "word_num": 10,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304909,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "12",
+        "word_num": 16,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525453",
+    "book_id": "rom",
+    "chapter": "14",
+    "verse": "20",
+    "alignment_num": "3",
+    "orig_lang_words": ",1508699,",
+    "target_lang_words": ",1305422,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508699,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "20",
+        "word_num": 5,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1305422,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "20",
+        "word_num": 4,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525800",
+    "book_id": "rom",
+    "chapter": "15",
+    "verse": "18",
+    "alignment_num": "17",
+    "orig_lang_words": ",1509072,",
+    "target_lang_words": ",1305948,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509072,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "18",
+        "word_num": 16,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1305948,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "18",
+        "word_num": 29,
+        "word": "action",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "action",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργῳ = action",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527324",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "13",
+    "alignment_num": "1",
+    "orig_lang_words": ",1510706,",
+    "target_lang_words": ",1308118,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510706,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 2,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308118,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 1,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527342",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "13",
+    "alignment_num": "19",
+    "orig_lang_words": ",1510719,1510720,",
+    "target_lang_words": ",1308151,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1510719,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 15,
+        "word": "τὸ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EP,,,,ANS,"
+      },
+      {
+        "id": 1510720,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 16,
+        "word": "ἔργον",
+        "occurrence": 2,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἔργον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308151,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 34,
+        "word": "work",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἔργον = work",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527345",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "14",
+    "alignment_num": "2",
+    "orig_lang_words": ",1510729,1510730,",
+    "target_lang_words": ",1308155,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1510729,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 2,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1510730,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 3,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἔργον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308155,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 3,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἔργον = work",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527354",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "15",
+    "alignment_num": "3",
+    "orig_lang_words": ",1510738,1510739,",
+    "target_lang_words": ",1308169,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1510738,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 2,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1510739,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 3,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἔργον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308169,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 4,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἔργον = work",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527858",
+    "book_id": "1co",
+    "chapter": "5",
+    "verse": "2",
+    "alignment_num": "12",
+    "orig_lang_words": ",1511247,1511248,",
+    "target_lang_words": ",1308908,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1511247,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "2",
+        "word_num": 14,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1511248,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "2",
+        "word_num": 15,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἔργον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308908,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "2",
+        "word_num": 16,
+        "word": "deed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἔργον = deed",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "529265",
+    "book_id": "1co",
+    "chapter": "9",
+    "verse": "1",
+    "alignment_num": "16",
+    "orig_lang_words": ",1512696,1512697,",
+    "target_lang_words": ",1311004,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1512696,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 13,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1512697,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 14,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἔργον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1311004,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 20,
+        "word": "workmanship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "workmanship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἔργον = workmanship",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532702",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "58",
+    "alignment_num": "11",
+    "orig_lang_words": ",1516227,",
+    "target_lang_words": ",1316133,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516227,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "58",
+        "word_num": 10,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1316133,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "58",
+        "word_num": 11,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργῳ = work",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532854",
+    "book_id": "1co",
+    "chapter": "16",
+    "verse": "10",
+    "alignment_num": "13",
+    "orig_lang_words": ",1516378,",
+    "target_lang_words": ",1316347,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516378,
+        "book_id": "1co",
+        "chapter": "16",
+        "verse": "10",
+        "word_num": 12,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1316347,
+        "book_id": "1co",
+        "chapter": "16",
+        "verse": "10",
+        "word_num": 17,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535827",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "8",
+    "alignment_num": "20",
+    "orig_lang_words": ",1519455,",
+    "target_lang_words": ",1320607,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519455,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "8",
+        "word_num": 19,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320607,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "8",
+        "word_num": 27,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536123",
+    "book_id": "2co",
+    "chapter": "10",
+    "verse": "11",
+    "alignment_num": "14",
+    "orig_lang_words": ",1519768,1519769,",
+    "target_lang_words": ",1321020,1321021,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1519768,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 15,
+        "word": "τῷ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1519769,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 16,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ ἔργῳ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1321020,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 20,
+        "word": "in",
+        "occurrence": 2
+      },
+      {
+        "id": 1321021,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 21,
+        "word": "deed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in deed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τῷ ἔργῳ = in deed",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536486",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "15",
+    "alignment_num": "16",
+    "orig_lang_words": ",1520133,1520134,",
+    "target_lang_words": ",1321568,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1520133,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "15",
+        "word_num": 17,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1520134,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "15",
+        "word_num": 18,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1321568,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "15",
+        "word_num": 23,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537993",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "7",
+    "orig_lang_words": ",1521672,",
+    "target_lang_words": ",1323881,1323882,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521672,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 7,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1323881,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 9,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1323882,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 10,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the works",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργων = the works",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538014",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "28",
+    "orig_lang_words": ",1521694,",
+    "target_lang_words": ",1323913,1323914,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521694,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 29,
+        "word": "ἔργων",
+        "occurrence": 2,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1323913,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 41,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1323914,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 42,
+        "word": "works",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "the works",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργων = the works",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538018",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "32",
+    "orig_lang_words": ",1521698,",
+    "target_lang_words": ",1323920,1323921,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521698,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 33,
+        "word": "ἔργων",
+        "occurrence": 3,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1323920,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 48,
+        "word": "the",
+        "occurrence": 5
+      },
+      {
+        "id": 1323921,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 49,
+        "word": "works",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "the works",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργων = the works",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538129",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "10",
+    "orig_lang_words": ",1521807,",
+    "target_lang_words": ",1324097,1324098,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521807,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 7,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1324097,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 17,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1324098,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 18,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the works",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργων = the works",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538164",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "12",
+    "orig_lang_words": ",1521843,",
+    "target_lang_words": ",1324158,1324159,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521843,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 12,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1324158,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 17,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1324159,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 18,
+        "word": "works",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "the works",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργων = the works",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538223",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "10",
+    "alignment_num": "4",
+    "orig_lang_words": ",1521903,",
+    "target_lang_words": ",1324242,1324243,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521903,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 3,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1324242,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 5,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1324243,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 6,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the works",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργων = the works",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539184",
+    "book_id": "gal",
+    "chapter": "5",
+    "verse": "19",
+    "alignment_num": "2",
+    "orig_lang_words": ",1522911,",
+    "target_lang_words": ",1325753,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522911,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "19",
+        "word_num": 4,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325753,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "19",
+        "word_num": 2,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539311",
+    "book_id": "gal",
+    "chapter": "6",
+    "verse": "4",
+    "alignment_num": "0",
+    "orig_lang_words": ",1523041,1523042,1523043,",
+    "target_lang_words": ",1325932,",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 1523041,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "4",
+        "word_num": 0,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1523042,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "4",
+        "word_num": 1,
+        "word": "δὲ",
+        "occurrence": 1,
+        "strong": "G11610",
+        "lemma": "δέ",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1523043,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "4",
+        "word_num": 2,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ δὲ ἔργον",
+    "alignmentOrigWords": 3,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325932,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "4",
+        "word_num": 0,
+        "word": "But",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "But",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ δὲ ἔργον = But",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540059",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1523806,",
+    "target_lang_words": ",1326946,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523806,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 2,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326946,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 2,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540074",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "10",
+    "alignment_num": "10",
+    "orig_lang_words": ",1523820,",
+    "target_lang_words": ",1326964,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523820,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 9,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326964,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 11,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργοις = works",
+    "frequency": 0.023809523809523808,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540750",
+    "book_id": "eph",
+    "chapter": "4",
+    "verse": "12",
+    "alignment_num": "7",
+    "orig_lang_words": ",1524502,",
+    "target_lang_words": ",1327841,1327842,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524502,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "12",
+        "word_num": 6,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1327841,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "12",
+        "word_num": 7,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1327842,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "12",
+        "word_num": 8,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the work",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργον = the work",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541235",
+    "book_id": "eph",
+    "chapter": "5",
+    "verse": "11",
+    "alignment_num": "3",
+    "orig_lang_words": ",1524973,",
+    "target_lang_words": ",1328467,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524973,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 4,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1328467,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 5,
+        "word": "in",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργοις = in",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542003",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "6",
+    "orig_lang_words": ",1525759,",
+    "target_lang_words": ",1329438,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525759,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 8,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329438,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 11,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = a",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542265",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "22",
+    "alignment_num": "7",
+    "orig_lang_words": ",1526033,",
+    "target_lang_words": ",1329810,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526033,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 9,
+        "word": "ἔργου",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329810,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 12,
+        "word": "labor",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "labor",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργου = labor",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542818",
+    "book_id": "php",
+    "chapter": "2",
+    "verse": "30",
+    "alignment_num": "3",
+    "orig_lang_words": ",1526598,",
+    "target_lang_words": ",1330639,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526598,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "30",
+        "word_num": 3,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1330639,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "30",
+        "word_num": 5,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543666",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "11",
+    "orig_lang_words": ",1527481,",
+    "target_lang_words": ",1331941,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527481,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 9,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1331941,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 28,
+        "word": "deed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργῳ = deed",
+    "frequency": 0.017857142857142856,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543843",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "21",
+    "alignment_num": "11",
+    "orig_lang_words": ",1527673,1527674,",
+    "target_lang_words": ",1332189,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1527673,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 10,
+        "word": "τοῖς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EP,,,,DNP,"
+      },
+      {
+        "id": 1527674,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 11,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τοῖς ἔργοις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1332189,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 18,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῖς ἔργοις = deeds",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544460",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "10",
+    "orig_lang_words": ",1528354,1528355,",
+    "target_lang_words": ",1333105,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1528354,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 9,
+        "word": "ταῖς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFP,"
+      },
+      {
+        "id": 1528355,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 10,
+        "word": "πράξεσιν",
+        "occurrence": 1,
+        "strong": "G42340",
+        "lemma": "πρᾶξις",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "ταῖς πράξεσιν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333105,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 16,
+        "word": "practices",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "practices",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ταῖς πράξεσιν = practices",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544588",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "17",
+    "alignment_num": "9",
+    "orig_lang_words": ",1528494,",
+    "target_lang_words": ",1333288,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528494,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 10,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333288,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 9,
+        "word": "deed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργῳ = deed",
+    "frequency": 0.017857142857142856,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544996",
+    "book_id": "1th",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "2",
+    "orig_lang_words": ",1528925,1528926,",
+    "target_lang_words": ",1333873,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1528925,
+        "book_id": "1th",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 2,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNS,"
+      },
+      {
+        "id": 1528926,
+        "book_id": "1th",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 3,
+        "word": "ἔργου",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ ἔργου",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333873,
+        "book_id": "1th",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 3,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ ἔργου = work",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546218",
+    "book_id": "1th",
+    "chapter": "5",
+    "verse": "13",
+    "alignment_num": "8",
+    "orig_lang_words": ",1530229,1530230,",
+    "target_lang_words": ",1335560,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1530229,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "13",
+        "word_num": 9,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1530230,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "13",
+        "word_num": 10,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἔργον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1335560,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "13",
+        "word_num": 13,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἔργον = work",
+    "frequency": 0.041666666666666664,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546553",
+    "book_id": "2th",
+    "chapter": "1",
+    "verse": "11",
+    "alignment_num": "22",
+    "orig_lang_words": ",1530577,",
+    "target_lang_words": ",1336016,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530577,
+        "book_id": "2th",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 21,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336016,
+        "book_id": "2th",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 31,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546872",
+    "book_id": "2th",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "8",
+    "orig_lang_words": ",1530914,",
+    "target_lang_words": ",1336468,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530914,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 8,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336468,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 8,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργῳ = work",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547588",
+    "book_id": "1ti",
+    "chapter": "2",
+    "verse": "10",
+    "alignment_num": "8",
+    "orig_lang_words": ",1531632,",
+    "target_lang_words": ",1337490,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531632,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 7,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337490,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 11,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547649",
+    "book_id": "1ti",
+    "chapter": "3",
+    "verse": "1",
+    "alignment_num": "8",
+    "orig_lang_words": ",1531693,",
+    "target_lang_words": ",1337578,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531693,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 8,
+        "word": "ἔργου",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337578,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 13,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργου = a",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548203",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "10",
+    "alignment_num": "2",
+    "orig_lang_words": ",1532220,1532221,",
+    "target_lang_words": ",1338351,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1532220,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 0,
+        "word": "ἐν",
+        "occurrence": 1,
+        "strong": "G17220",
+        "lemma": "ἐν",
+        "morph": "Gr,P,,,,,D,,,"
+      },
+      {
+        "id": 1532221,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 1,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἐν ἔργοις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338351,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 3,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐν ἔργοις = deeds",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548217",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "10",
+    "alignment_num": "16",
+    "orig_lang_words": ",1532237,",
+    "target_lang_words": ",1338386,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532237,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 17,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338386,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 38,
+        "word": "to",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "to",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργῳ = to",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548415",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "25",
+    "alignment_num": "2",
+    "orig_lang_words": ",1532429,1532430,",
+    "target_lang_words": ",1338669,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1532429,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "25",
+        "word_num": 2,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1532430,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "25",
+        "word_num": 3,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338669,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "25",
+        "word_num": 2,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548729",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "18",
+    "alignment_num": "4",
+    "orig_lang_words": ",1532742,",
+    "target_lang_words": ",1339098,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532742,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 3,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339098,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 10,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργοις = works",
+    "frequency": 0.023809523809523808,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548914",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "11",
+    "orig_lang_words": ",1532937,1532938,",
+    "target_lang_words": ",1339364,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1532937,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 9,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1532938,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 10,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339364,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 19,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549373",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "21",
+    "alignment_num": "18",
+    "orig_lang_words": ",1533384,",
+    "target_lang_words": ",1340000,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533384,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 17,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340000,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 26,
+        "word": "for",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "for",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = for",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549671",
+    "book_id": "2ti",
+    "chapter": "3",
+    "verse": "17",
+    "alignment_num": "11",
+    "orig_lang_words": ",1533690,",
+    "target_lang_words": ",1340429,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533690,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 9,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340429,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 13,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549745",
+    "book_id": "2ti",
+    "chapter": "4",
+    "verse": "5",
+    "alignment_num": "7",
+    "orig_lang_words": ",1533767,",
+    "target_lang_words": ",1340534,1340535,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533767,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 6,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1340534,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 11,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1340535,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 12,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the work",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργον = the work",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549875",
+    "book_id": "2ti",
+    "chapter": "4",
+    "verse": "14",
+    "alignment_num": "13",
+    "orig_lang_words": ",1533898,1533899,",
+    "target_lang_words": ",1340704,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1533898,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 12,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1533899,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 13,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340704,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 16,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = deeds",
+    "frequency": 0.05357142857142857,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549932",
+    "book_id": "2ti",
+    "chapter": "4",
+    "verse": "18",
+    "alignment_num": "7",
+    "orig_lang_words": ",1533956,",
+    "target_lang_words": ",1340785,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533956,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 6,
+        "word": "ἔργου",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340785,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 8,
+        "word": "deed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργου = deed",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550224",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "16",
+    "alignment_num": "5",
+    "orig_lang_words": ",1534258,",
+    "target_lang_words": ",1341205,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534258,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 5,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341205,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 9,
+        "word": "by",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "by",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργοις = by",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550236",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "16",
+    "alignment_num": "17",
+    "orig_lang_words": ",1534267,",
+    "target_lang_words": ",1341218,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534267,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 14,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341218,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 22,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550304",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "7",
+    "alignment_num": "5",
+    "orig_lang_words": ",1534335,",
+    "target_lang_words": ",1341329,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534335,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 6,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341329,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 8,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = of",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550418",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "14",
+    "alignment_num": "18",
+    "orig_lang_words": ",1534446,",
+    "target_lang_words": ",1341487,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534446,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 18,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341487,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 22,
+        "word": "for",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "for",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = for",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550445",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "1",
+    "alignment_num": "11",
+    "orig_lang_words": ",1534467,",
+    "target_lang_words": ",1341523,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534467,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 8,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341523,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 17,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550493",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "2",
+    "orig_lang_words": ",1534517,",
+    "target_lang_words": ",1341586,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534517,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 2,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341586,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 4,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550551",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "15",
+    "orig_lang_words": ",1534572,",
+    "target_lang_words": ",1341669,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534572,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 12,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341669,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 26,
+        "word": "in",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = in",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550627",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "14",
+    "alignment_num": "5",
+    "orig_lang_words": ",1534651,",
+    "target_lang_words": ",1341772,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534651,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 6,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341772,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 8,
+        "word": "in",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = in",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551137",
+    "book_id": "heb",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "11",
+    "orig_lang_words": ",1535200,1535201,",
+    "target_lang_words": ",1342528,1342529,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1535200,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 8,
+        "word": "καὶ",
+        "occurrence": 1,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1535201,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 9,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "καὶ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1342528,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 13,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1342529,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 14,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the work",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καὶ ἔργα = the work",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551631",
+    "book_id": "heb",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "9",
+    "orig_lang_words": ",1535714,1535715,",
+    "target_lang_words": ",1343280,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1535714,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 9,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1535715,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 10,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1343280,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 11,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551826",
+    "book_id": "heb",
+    "chapter": "4",
+    "verse": "3",
+    "alignment_num": "20",
+    "orig_lang_words": ",1535923,",
+    "target_lang_words": ",1343578,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535923,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 22,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1343578,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 28,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551849",
+    "book_id": "heb",
+    "chapter": "4",
+    "verse": "4",
+    "alignment_num": "18",
+    "orig_lang_words": ",1535946,1535947,",
+    "target_lang_words": ",1343607,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1535946,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 18,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1535947,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 19,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν ἔργων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1343607,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 20,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν ἔργων = works",
+    "frequency": 0.02976190476190476,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551933",
+    "book_id": "heb",
+    "chapter": "4",
+    "verse": "10",
+    "alignment_num": "12",
+    "orig_lang_words": ",1536029,1536030,",
+    "target_lang_words": ",1343727,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1536029,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "10",
+        "word_num": 11,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1536030,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "10",
+        "word_num": 12,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν ἔργων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1343727,
+        "book_id": "heb",
+        "chapter": "4",
+        "verse": "10",
+        "word_num": 14,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν ἔργων = deeds",
+    "frequency": 0.017857142857142856,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552285",
+    "book_id": "heb",
+    "chapter": "6",
+    "verse": "1",
+    "alignment_num": "19",
+    "orig_lang_words": ",1536405,",
+    "target_lang_words": ",1344259,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536405,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "1",
+        "word_num": 19,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344259,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "1",
+        "word_num": 28,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552408",
+    "book_id": "heb",
+    "chapter": "6",
+    "verse": "10",
+    "alignment_num": "7",
+    "orig_lang_words": ",1536525,1536526,",
+    "target_lang_words": ",1344441,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1536525,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 6,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNS,"
+      },
+      {
+        "id": 1536526,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 7,
+        "word": "ἔργου",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ ἔργου",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344441,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 10,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ ἔργου = work",
+    "frequency": 0.011904761904761904,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553501",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "14",
+    "alignment_num": "20",
+    "orig_lang_words": ",1537675,",
+    "target_lang_words": ",1346059,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537675,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 21,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346059,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 24,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554057",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "24",
+    "alignment_num": "8",
+    "orig_lang_words": ",1538258,",
+    "target_lang_words": ",1346938,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538258,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "24",
+        "word_num": 8,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346938,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "24",
+        "word_num": 13,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = deeds",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555731",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "4",
+    "orig_lang_words": ",1539995,",
+    "target_lang_words": ",1349484,1349485,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539995,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 3,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1349484,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 4,
+        "word": "its",
+        "occurrence": 1
+      },
+      {
+        "id": 1349485,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 5,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "its work",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔργον = its work",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556028",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "25",
+    "alignment_num": "16",
+    "orig_lang_words": ",1540315,",
+    "target_lang_words": ",1349946,1349947,1349948,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540315,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 17,
+        "word": "ἔργου",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1349946,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 27,
+        "word": "of",
+        "occurrence": 2
+      },
+      {
+        "id": 1349947,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 28,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1349948,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 29,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of the work",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἔργου = of the work",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556279",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "14",
+    "alignment_num": "12",
+    "orig_lang_words": ",1540575,",
+    "target_lang_words": ",1350318,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540575,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 10,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350318,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 16,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556325",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "8",
+    "orig_lang_words": ",1540626,",
+    "target_lang_words": ",1350384,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540626,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 7,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350384,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 12,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556336",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "18",
+    "alignment_num": "8",
+    "orig_lang_words": ",1540638,",
+    "target_lang_words": ",1350397,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540638,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 7,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350397,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 10,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556342",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "18",
+    "alignment_num": "14",
+    "orig_lang_words": ",1540646,1540647,",
+    "target_lang_words": ",1350403,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1540646,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 15,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1540647,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 16,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν ἔργων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350403,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 16,
+        "word": "works",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν ἔργων = works",
+    "frequency": 0.02976190476190476,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556350",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "18",
+    "alignment_num": "22",
+    "orig_lang_words": ",1540652,1540653,",
+    "target_lang_words": ",1350413,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1540652,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 21,
+        "word": "τῶν",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1540653,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 22,
+        "word": "ἔργων",
+        "occurrence": 2,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν ἔργων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350413,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 26,
+        "word": "works",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν ἔργων = works",
+    "frequency": 0.02976190476190476,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556373",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "20",
+    "alignment_num": "8",
+    "orig_lang_words": ",1540682,1540683,",
+    "target_lang_words": ",1350444,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1540682,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 10,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1540683,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 11,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν ἔργων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350444,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 11,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν ἔργων = works",
+    "frequency": 0.02976190476190476,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556383",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "21",
+    "alignment_num": "7",
+    "orig_lang_words": ",1540692,",
+    "target_lang_words": ",1350454,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540692,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 6,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350454,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 7,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556396",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "22",
+    "alignment_num": "5",
+    "orig_lang_words": ",1540707,1540708,",
+    "target_lang_words": ",1350472,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1540707,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 5,
+        "word": "τοῖς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNP,"
+      },
+      {
+        "id": 1540708,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 6,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τοῖς ἔργοις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350472,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 7,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῖς ἔργοις = works",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556399",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "22",
+    "alignment_num": "8",
+    "orig_lang_words": ",1540713,",
+    "target_lang_words": ",1350476,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540713,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 11,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350476,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 11,
+        "word": "works",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556423",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "24",
+    "alignment_num": "3",
+    "orig_lang_words": ",1540740,",
+    "target_lang_words": ",1350514,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540740,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 3,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350514,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 6,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556442",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "25",
+    "alignment_num": "10",
+    "orig_lang_words": ",1540756,",
+    "target_lang_words": ",1350538,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540756,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 8,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350538,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 13,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556463",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "26",
+    "alignment_num": "12",
+    "orig_lang_words": ",1540778,",
+    "target_lang_words": ",1350566,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540778,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 13,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350566,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 15,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556668",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "13",
+    "alignment_num": "11",
+    "orig_lang_words": ",1541002,1541003,",
+    "target_lang_words": ",1350855,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1541002,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 11,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1541003,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 12,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350855,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 16,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557601",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "17",
+    "alignment_num": "10",
+    "orig_lang_words": ",1541969,",
+    "target_lang_words": ",1352252,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541969,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 10,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἔργον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352252,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 16,
+        "word": "work",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "work",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργον = work",
+    "frequency": 0.09523809523809523,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557922",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "12",
+    "alignment_num": "16",
+    "orig_lang_words": ",1542297,",
+    "target_lang_words": ",1352740,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542297,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 18,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352740,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 25,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559355",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "8",
+    "alignment_num": "14",
+    "orig_lang_words": ",1543889,",
+    "target_lang_words": ",1355124,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543889,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 15,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355124,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 19,
+        "word": "the",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργοις = the",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559770",
+    "book_id": "2pe",
+    "chapter": "3",
+    "verse": "10",
+    "alignment_num": "19",
+    "orig_lang_words": ",1544323,",
+    "target_lang_words": ",1355793,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1544323,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 22,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355793,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 35,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = deeds",
+    "frequency": 0.017857142857142856,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560790",
+    "book_id": "1jn",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "22",
+    "orig_lang_words": ",1545413,1545414,",
+    "target_lang_words": ",1357227,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1545413,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 23,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1545414,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 24,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1357227,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 34,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560866",
+    "book_id": "1jn",
+    "chapter": "3",
+    "verse": "12",
+    "alignment_num": "18",
+    "orig_lang_words": ",1545501,1545502,",
+    "target_lang_words": ",1357338,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1545501,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 18,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1545502,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 19,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1357338,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 25,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560965",
+    "book_id": "1jn",
+    "chapter": "3",
+    "verse": "18",
+    "alignment_num": "9",
+    "orig_lang_words": ",1545622,",
+    "target_lang_words": ",1357467,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545622,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 9,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἔργῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1357467,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 13,
+        "word": "actions",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "actions",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργῳ = actions",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562021",
+    "book_id": "2jn",
+    "chapter": "1",
+    "verse": "11",
+    "alignment_num": "2",
+    "orig_lang_words": ",1546818,1546819,",
+    "target_lang_words": ",1358895,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546818,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 6,
+        "word": "τοῖς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNP,"
+      },
+      {
+        "id": 1546819,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 7,
+        "word": "ἔργοις",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τοῖς ἔργοις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358895,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 7,
+        "word": "in",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῖς ἔργοις = in",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562181",
+    "book_id": "3jn",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "6",
+    "orig_lang_words": ",1546975,1546976,",
+    "target_lang_words": ",1359121,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546975,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 6,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1546976,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 7,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1359121,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 12,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562566",
+    "book_id": "jud",
+    "chapter": "1",
+    "verse": "15",
+    "alignment_num": "11",
+    "orig_lang_words": ",1547365,1547366,",
+    "target_lang_words": ",1359711,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1547365,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 10,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EP,,,,GNP,"
+      },
+      {
+        "id": 1547366,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 11,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν ἔργων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1359711,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 19,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν ἔργων = works",
+    "frequency": 0.02976190476190476,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563154",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "2",
+    "alignment_num": "2",
+    "orig_lang_words": ",1548030,1548031,",
+    "target_lang_words": ",1360536,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548030,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 1,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1548031,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 2,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1360536,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 3,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563205",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "5",
+    "alignment_num": "8",
+    "orig_lang_words": ",1548091,",
+    "target_lang_words": ",1360621,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1548091,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 9,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1360621,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 11,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563228",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1548116,",
+    "target_lang_words": ",1360655,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1548116,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 6,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1360655,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 7,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = works",
+    "frequency": 0.125,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563513",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "19",
+    "alignment_num": "2",
+    "orig_lang_words": ",1548423,1548424,",
+    "target_lang_words": ",1361086,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548423,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 2,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1548424,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 3,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361086,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 3,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563525",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "19",
+    "alignment_num": "14",
+    "orig_lang_words": ",1548438,1548439,1548440,",
+    "target_lang_words": ",1361099,",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 1548438,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 17,
+        "word": "καὶ",
+        "occurrence": 5,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1548439,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 18,
+        "word": "τὰ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1548440,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 19,
+        "word": "ἔργα",
+        "occurrence": 2,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "καὶ τὰ ἔργα",
+    "alignmentOrigWords": 3,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361099,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 16,
+        "word": "works",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καὶ τὰ ἔργα = works",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563577",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "22",
+    "alignment_num": "16",
+    "orig_lang_words": ",1548502,1548503,",
+    "target_lang_words": ",1361179,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548502,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 17,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1548503,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 18,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν ἔργων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361179,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 23,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν ἔργων = deeds",
+    "frequency": 0.017857142857142856,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563599",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "23",
+    "alignment_num": "21",
+    "orig_lang_words": ",1548530,1548531,",
+    "target_lang_words": ",1361213,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548530,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "23",
+        "word_num": 25,
+        "word": "τὰ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1548531,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "23",
+        "word_num": 26,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361213,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "23",
+        "word_num": 33,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = deeds",
+    "frequency": 0.05357142857142857,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563639",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "26",
+    "alignment_num": "4",
+    "orig_lang_words": ",1548578,1548579,",
+    "target_lang_words": ",1361277,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548578,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 8,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1548579,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 9,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361277,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 8,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563701",
+    "book_id": "rev",
+    "chapter": "3",
+    "verse": "1",
+    "alignment_num": "20",
+    "orig_lang_words": ",1548646,1548647,",
+    "target_lang_words": ",1361367,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548646,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 23,
+        "word": "τὰ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1548647,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 24,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361367,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 27,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563722",
+    "book_id": "rev",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "13",
+    "orig_lang_words": ",1548669,1548670,",
+    "target_lang_words": ",1361397,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548669,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 13,
+        "word": "τὰ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1548670,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 14,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361397,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 17,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = deeds",
+    "frequency": 0.05357142857142857,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563842",
+    "book_id": "rev",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "2",
+    "orig_lang_words": ",1548797,1548798,",
+    "target_lang_words": ",1361566,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548797,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 2,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1548798,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 3,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361566,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 3,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564011",
+    "book_id": "rev",
+    "chapter": "3",
+    "verse": "15",
+    "alignment_num": "2",
+    "orig_lang_words": ",1548986,1548987,",
+    "target_lang_words": ",1361798,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548986,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 2,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1548987,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 3,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361798,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 3,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = works",
+    "frequency": 0.08928571428571429,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566153",
+    "book_id": "rev",
+    "chapter": "9",
+    "verse": "20",
+    "alignment_num": "14",
+    "orig_lang_words": ",1551354,",
+    "target_lang_words": ",1364737,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551354,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 16,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1364737,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 17,
+        "word": "works",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "works",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργων = works",
+    "frequency": 0.10714285714285714,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568006",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "13",
+    "alignment_num": "27",
+    "orig_lang_words": ",1553436,",
+    "target_lang_words": ",1367214,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553436,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "13",
+        "word_num": 29,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "ἔργα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367214,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "13",
+        "word_num": 36,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔργα = deeds",
+    "frequency": 0.017857142857142856,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568251",
+    "book_id": "rev",
+    "chapter": "15",
+    "verse": "3",
+    "alignment_num": "16",
+    "orig_lang_words": ",1553704,1553705,",
+    "target_lang_words": ",1367544,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1553704,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "3",
+        "word_num": 18,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1553705,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "3",
+        "word_num": 19,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367544,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "3",
+        "word_num": 21,
+        "word": "are",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "are",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = are",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568594",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "11",
+    "alignment_num": "19",
+    "orig_lang_words": ",1554079,1554080,",
+    "target_lang_words": ",1367981,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1554079,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "11",
+        "word_num": 19,
+        "word": "τῶν",
+        "occurrence": 3,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1554080,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "11",
+        "word_num": 20,
+        "word": "ἔργων",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν ἔργων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367981,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "11",
+        "word_num": 24,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν ἔργων = deeds",
+    "frequency": 0.017857142857142856,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569349",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "6",
+    "alignment_num": "11",
+    "orig_lang_words": ",1554887,1554888,",
+    "target_lang_words": ",1369005,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1554887,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 11,
+        "word": "τὰ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1554888,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 12,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369005,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 19,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = deeds",
+    "frequency": 0.05357142857142857,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570530",
+    "book_id": "rev",
+    "chapter": "20",
+    "verse": "12",
+    "alignment_num": "34",
+    "orig_lang_words": ",1556233,1556234,",
+    "target_lang_words": ",1370605,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1556233,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "12",
+        "word_num": 35,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1556234,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "12",
+        "word_num": 36,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1370605,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "12",
+        "word_num": 47,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = deeds",
+    "frequency": 0.05357142857142857,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570553",
+    "book_id": "rev",
+    "chapter": "20",
+    "verse": "13",
+    "alignment_num": "22",
+    "orig_lang_words": ",1556261,1556262,",
+    "target_lang_words": ",1370636,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1556261,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "13",
+        "word_num": 25,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1556262,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "13",
+        "word_num": 26,
+        "word": "ἔργα",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἔργα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1370636,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "13",
+        "word_num": 30,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἔργα = deeds",
+    "frequency": 0.05357142857142857,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571357",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "12",
+    "alignment_num": "13",
+    "orig_lang_words": ",1557164,1557165,",
+    "target_lang_words": ",1371768,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1557164,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "12",
+        "word_num": 12,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1557165,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "12",
+        "word_num": 13,
+        "word": "ἔργον",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἔργον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371768,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "12",
+        "word_num": 21,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἔργον = deeds",
+    "frequency": 0.005952380952380952,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

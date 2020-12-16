@@ -1,0 +1,55 @@
+[
+  {
+    "id": "526787",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "25",
+    "alignment_num": "5",
+    "orig_lang_words": ",1510134,",
+    "target_lang_words": ",1307364,1307365,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510134,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 5,
+        "word": "σοφώτερον",
+        "occurrence": 1,
+        "strong": "G46805",
+        "lemma": "σοφώτερος",
+        "morph": "Gr,NP,,,,NNSC"
+      }
+    ],
+    "origWordsTxt": "σοφώτερον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1307364,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 6,
+        "word": "wiser",
+        "occurrence": 1
+      },
+      {
+        "id": 1307365,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 7,
+        "word": "than",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wiser than",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σοφώτερον = wiser than",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

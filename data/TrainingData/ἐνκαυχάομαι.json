@@ -1,0 +1,55 @@
+[
+  {
+    "id": "546412",
+    "book_id": "2th",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "3",
+    "orig_lang_words": ",1530429,",
+    "target_lang_words": ",1335810,1335811,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530429,
+        "book_id": "2th",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 5,
+        "word": "ἐνκαυχᾶσθαι",
+        "occurrence": 1,
+        "strong": "G14605",
+        "lemma": "ἐνκαυχάομαι",
+        "morph": "Gr,V,NPM,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἐνκαυχᾶσθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1335810,
+        "book_id": "2th",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 3,
+        "word": "speak",
+        "occurrence": 1
+      },
+      {
+        "id": 1335811,
+        "book_id": "2th",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 4,
+        "word": "proudly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "speak proudly",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐνκαυχᾶσθαι = speak proudly",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

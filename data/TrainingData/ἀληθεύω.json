@@ -1,0 +1,135 @@
+[
+  {
+    "id": "538738",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "16",
+    "alignment_num": "4",
+    "orig_lang_words": ",1522457,",
+    "target_lang_words": ",1325057,1325058,1325059,1325060,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522457,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "16",
+        "word_num": 4,
+        "word": "ἀληθεύων",
+        "occurrence": 1,
+        "strong": "G02260",
+        "lemma": "ἀληθεύω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀληθεύων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1325057,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "16",
+        "word_num": 7,
+        "word": "because",
+        "occurrence": 1
+      },
+      {
+        "id": 1325058,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "16",
+        "word_num": 8,
+        "word": "I",
+        "occurrence": 2
+      },
+      {
+        "id": 1325059,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "16",
+        "word_num": 9,
+        "word": "am",
+        "occurrence": 1
+      },
+      {
+        "id": 1325060,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "16",
+        "word_num": 10,
+        "word": "telling",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "because I am telling",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἀληθεύων = because I am telling",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540813",
+    "book_id": "eph",
+    "chapter": "4",
+    "verse": "15",
+    "alignment_num": "1",
+    "orig_lang_words": ",1524559,",
+    "target_lang_words": ",1327921,1327922,1327923,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524559,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 0,
+        "word": "ἀληθεύοντες",
+        "occurrence": 1,
+        "strong": "G02260",
+        "lemma": "ἀληθεύω",
+        "morph": "Gr,V,PPA,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀληθεύοντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1327921,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 1,
+        "word": "speaking",
+        "occurrence": 1
+      },
+      {
+        "id": 1327922,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1327923,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 3,
+        "word": "truth",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "speaking the truth",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀληθεύοντες = speaking the truth",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

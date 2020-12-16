@@ -1,0 +1,502 @@
+[
+  {
+    "id": "520456",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "4",
+    "alignment_num": "4",
+    "orig_lang_words": ",1503233,1503234,",
+    "target_lang_words": ",1297651,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503233,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 3,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1503234,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 4,
+        "word": "χρηστότητος",
+        "occurrence": 1,
+        "strong": "G55440",
+        "lemma": "χρηστότης",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς χρηστότητος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297651,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 9,
+        "word": "of",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῆς χρηστότητος = of",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520960",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "12",
+    "alignment_num": "9",
+    "orig_lang_words": ",1503800,",
+    "target_lang_words": ",1298491,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503800,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 7,
+        "word": "χρηστότητα",
+        "occurrence": 1,
+        "strong": "G55440",
+        "lemma": "χρηστότης",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "χρηστότητα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298491,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 16,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "χρηστότητα = good",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524442",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "22",
+    "alignment_num": "2",
+    "orig_lang_words": ",1507579,",
+    "target_lang_words": ",1303830,1303831,1303832,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507579,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 2,
+        "word": "χρηστότητα",
+        "occurrence": 1,
+        "strong": "G55440",
+        "lemma": "χρηστότης",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "χρηστότητα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1303830,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 3,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1303831,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 4,
+        "word": "kind",
+        "occurrence": 1
+      },
+      {
+        "id": 1303832,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 5,
+        "word": "actions",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the kind actions",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "χρηστότητα = the kind actions",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524451",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "22",
+    "alignment_num": "11",
+    "orig_lang_words": ",1507591,",
+    "target_lang_words": ",1303847,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507591,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 14,
+        "word": "χρηστότης",
+        "occurrence": 1,
+        "strong": "G55440",
+        "lemma": "χρηστότης",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "χρηστότης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1303847,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 20,
+        "word": "kindness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "kindness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "χρηστότης = kindness",
+    "frequency": 0.3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524456",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "22",
+    "alignment_num": "16",
+    "orig_lang_words": ",1507595,1507596,",
+    "target_lang_words": ",1303855,1303856,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1507595,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 18,
+        "word": "τῇ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFS,"
+      },
+      {
+        "id": 1507596,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 19,
+        "word": "χρηστότητι",
+        "occurrence": 1,
+        "strong": "G55440",
+        "lemma": "χρηστότης",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "τῇ χρηστότητι",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1303855,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 28,
+        "word": "his",
+        "occurrence": 1
+      },
+      {
+        "id": 1303856,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 29,
+        "word": "kindness",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "his kindness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τῇ χρηστότητι = his kindness",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534780",
+    "book_id": "2co",
+    "chapter": "6",
+    "verse": "6",
+    "alignment_num": "7",
+    "orig_lang_words": ",1518372,",
+    "target_lang_words": ",1319082,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518372,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 7,
+        "word": "χρηστότητι",
+        "occurrence": 1,
+        "strong": "G55440",
+        "lemma": "χρηστότης",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "χρηστότητι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319082,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 7,
+        "word": "kindness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "kindness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "χρηστότητι = kindness",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539234",
+    "book_id": "gal",
+    "chapter": "5",
+    "verse": "22",
+    "alignment_num": "10",
+    "orig_lang_words": ",1522959,",
+    "target_lang_words": ",1325820,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522959,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "22",
+        "word_num": 10,
+        "word": "χρηστότης",
+        "occurrence": 1,
+        "strong": "G55440",
+        "lemma": "χρηστότης",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "χρηστότης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325820,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "22",
+        "word_num": 11,
+        "word": "kindness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "kindness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "χρηστότης = kindness",
+    "frequency": 0.3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540035",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "7",
+    "alignment_num": "14",
+    "orig_lang_words": ",1523783,",
+    "target_lang_words": ",1326916,1326917,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523783,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 14,
+        "word": "χρηστότητι",
+        "occurrence": 1,
+        "strong": "G55440",
+        "lemma": "χρηστότης",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "χρηστότητι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1326916,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 19,
+        "word": "his",
+        "occurrence": 2
+      },
+      {
+        "id": 1326917,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 20,
+        "word": "kindness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "his kindness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "χρηστότητι = his kindness",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544502",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "12",
+    "alignment_num": "10",
+    "orig_lang_words": ",1528400,",
+    "target_lang_words": ",1333170,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528400,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 11,
+        "word": "χρηστότητα",
+        "occurrence": 1,
+        "strong": "G55440",
+        "lemma": "χρηστότης",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "χρηστότητα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333170,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 15,
+        "word": "kindness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "kindness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "χρηστότητα = kindness",
+    "frequency": 0.1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550482",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "4",
+    "alignment_num": "3",
+    "orig_lang_words": ",1534506,",
+    "target_lang_words": ",1341571,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534506,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 3,
+        "word": "χρηστότης",
+        "occurrence": 1,
+        "strong": "G55440",
+        "lemma": "χρηστότης",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "χρηστότης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341571,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 3,
+        "word": "kindness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "kindness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "χρηστότης = kindness",
+    "frequency": 0.3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

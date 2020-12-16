@@ -1,0 +1,199 @@
+[
+  {
+    "id": "518082",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "5",
+    "alignment_num": "15",
+    "orig_lang_words": ",1500761,",
+    "target_lang_words": ",1294254,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500761,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "5",
+        "word_num": 13,
+        "word": "θρησκείας",
+        "occurrence": 1,
+        "strong": "G23560",
+        "lemma": "θρησκεία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "θρησκείας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1294254,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "5",
+        "word_num": 24,
+        "word": "religion",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "religion",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θρησκείας = religion",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544269",
+    "book_id": "col",
+    "chapter": "2",
+    "verse": "18",
+    "alignment_num": "5",
+    "orig_lang_words": ",1528148,",
+    "target_lang_words": ",1332819,1332820,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528148,
+        "book_id": "col",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 7,
+        "word": "θρησκείᾳ",
+        "occurrence": 1,
+        "strong": "G23560",
+        "lemma": "θρησκεία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "θρησκείᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1332819,
+        "book_id": "col",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 7,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1332820,
+        "book_id": "col",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 8,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the worship",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θρησκείᾳ = the worship",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556050",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "26",
+    "alignment_num": "15",
+    "orig_lang_words": ",1540338,1540339,",
+    "target_lang_words": ",1349979,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1540338,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "26",
+        "word_num": 15,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EP,,,,NFS,"
+      },
+      {
+        "id": 1540339,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "26",
+        "word_num": 16,
+        "word": "θρησκεία",
+        "occurrence": 1,
+        "strong": "G23560",
+        "lemma": "θρησκεία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ θρησκεία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349979,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "26",
+        "word_num": 22,
+        "word": "religion",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "religion",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ θρησκεία = religion",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556052",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "27",
+    "alignment_num": "0",
+    "orig_lang_words": ",1540340,",
+    "target_lang_words": ",1349982,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540340,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "27",
+        "word_num": 0,
+        "word": "θρησκεία",
+        "occurrence": 1,
+        "strong": "G23560",
+        "lemma": "θρησκεία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "θρησκεία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349982,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "27",
+        "word_num": 0,
+        "word": "Religion",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Religion",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θρησκεία = Religion",
+    "frequency": 0.25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

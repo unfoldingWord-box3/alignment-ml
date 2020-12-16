@@ -1,0 +1,64 @@
+[
+  {
+    "id": "477622",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "26",
+    "alignment_num": "7",
+    "orig_lang_words": ",1458490,",
+    "target_lang_words": ",1239129,1239130,1239131,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458490,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "26",
+        "word_num": 6,
+        "word": "πονηρότερα",
+        "occurrence": 1,
+        "strong": "G41910",
+        "lemma": "πονηρότερος",
+        "morph": "Gr,AA,,,,ANPC"
+      }
+    ],
+    "origWordsTxt": "πονηρότερα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1239129,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "26",
+        "word_num": 11,
+        "word": "more",
+        "occurrence": 1
+      },
+      {
+        "id": 1239130,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "26",
+        "word_num": 12,
+        "word": "evil",
+        "occurrence": 1
+      },
+      {
+        "id": 1239131,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "26",
+        "word_num": 13,
+        "word": "than",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "more evil than",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "πονηρότερα = more evil than",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

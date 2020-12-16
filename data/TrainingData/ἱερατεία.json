@@ -1,0 +1,90 @@
+[
+  {
+    "id": "468534",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "3",
+    "orig_lang_words": ",1449204,",
+    "target_lang_words": ",1226838,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449204,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 4,
+        "word": "ἱερατείας",
+        "occurrence": 1,
+        "strong": "G24050",
+        "lemma": "ἱερατεία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἱερατείας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1226838,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 4,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερατείας = of",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552643",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "5",
+    "alignment_num": "9",
+    "orig_lang_words": ",1536773,",
+    "target_lang_words": ",1344803,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536773,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "5",
+        "word_num": 8,
+        "word": "ἱερατείαν",
+        "occurrence": 1,
+        "strong": "G24050",
+        "lemma": "ἱερατεία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἱερατείαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344803,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "5",
+        "word_num": 11,
+        "word": "priesthood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priesthood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερατείαν = priesthood",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

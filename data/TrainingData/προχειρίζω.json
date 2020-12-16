@@ -1,0 +1,170 @@
+[
+  {
+    "id": "503580",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "20",
+    "alignment_num": "12",
+    "orig_lang_words": ",1485863,",
+    "target_lang_words": ",1274584,1274585,1274586,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485863,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 12,
+        "word": "προκεχειρισμένον",
+        "occurrence": 1,
+        "strong": "G44000",
+        "lemma": "προχειρίζω",
+        "morph": "Gr,V,PEP,AMS,"
+      }
+    ],
+    "origWordsTxt": "προκεχειρισμένον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1274584,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 22,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1274585,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 23,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1274586,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 24,
+        "word": "appointed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has been appointed",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "προκεχειρισμένον = has been appointed",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516047",
+    "book_id": "act",
+    "chapter": "22",
+    "verse": "14",
+    "alignment_num": "8",
+    "orig_lang_words": ",1498698,",
+    "target_lang_words": ",1291373,1291374,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498698,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "14",
+        "word_num": 8,
+        "word": "προεχειρίσατό",
+        "occurrence": 1,
+        "strong": "G44000",
+        "lemma": "προχειρίζω",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προεχειρίσατό",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1291373,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "14",
+        "word_num": 8,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1291374,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "14",
+        "word_num": 9,
+        "word": "chosen",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has chosen",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προεχειρίσατό = has chosen",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518272",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "16",
+    "alignment_num": "12",
+    "orig_lang_words": ",1500959,",
+    "target_lang_words": ",1294527,1294528,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500959,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "16",
+        "word_num": 13,
+        "word": "προχειρίσασθαί",
+        "occurrence": 1,
+        "strong": "G44000",
+        "lemma": "προχειρίζω",
+        "morph": "Gr,V,NAM,,,,,"
+      }
+    ],
+    "origWordsTxt": "προχειρίσασθαί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1294527,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "16",
+        "word_num": 16,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1294528,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "16",
+        "word_num": 17,
+        "word": "appoint",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to appoint",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προχειρίσασθαί = to appoint",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

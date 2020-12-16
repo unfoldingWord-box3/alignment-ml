@@ -1,0 +1,188 @@
+[
+  {
+    "id": "487057",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "21",
+    "alignment_num": "8",
+    "orig_lang_words": ",1468037,",
+    "target_lang_words": ",1252069,1252070,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1468037,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "21",
+        "word_num": 8,
+        "word": "λυτροῦσθαι",
+        "occurrence": 1,
+        "strong": "G30840",
+        "lemma": "λυτρόω",
+        "morph": "Gr,V,NPM,,,,,"
+      }
+    ],
+    "origWordsTxt": "λυτροῦσθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1252069,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "21",
+        "word_num": 12,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1252070,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "21",
+        "word_num": 13,
+        "word": "redeem",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to redeem",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "λυτροῦσθαι = to redeem",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550406",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "14",
+    "alignment_num": "6",
+    "orig_lang_words": ",1534434,",
+    "target_lang_words": ",1341472,1341473,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534434,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 6,
+        "word": "λυτρώσηται",
+        "occurrence": 1,
+        "strong": "G30840",
+        "lemma": "λυτρόω",
+        "morph": "Gr,V,SAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "λυτρώσηται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1341472,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 7,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1341473,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 8,
+        "word": "redeem",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to redeem",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "λυτρώσηται = to redeem",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557618",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "18",
+    "alignment_num": "8",
+    "orig_lang_words": ",1541985,",
+    "target_lang_words": ",1352273,1352274,1352275,1352276,1352277,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541985,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 7,
+        "word": "ἐλυτρώθητε",
+        "occurrence": 1,
+        "strong": "G30840",
+        "lemma": "λυτρόω",
+        "morph": "Gr,V,IAP2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐλυτρώθητε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1352273,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 11,
+        "word": "that",
+        "occurrence": 2
+      },
+      {
+        "id": 1352274,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 12,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1352275,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 13,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1352276,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 14,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1352277,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 15,
+        "word": "redeemed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "that you have been redeemed",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "ἐλυτρώθητε = that you have been redeemed",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

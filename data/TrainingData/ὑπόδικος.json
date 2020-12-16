@@ -1,0 +1,67 @@
+[
+  {
+    "id": "521025",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "19",
+    "alignment_num": "19",
+    "orig_lang_words": ",1503870,1503871,",
+    "target_lang_words": ",1298587,1298588,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503870,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 17,
+        "word": "ὑπόδικος",
+        "occurrence": 1,
+        "strong": "G52670",
+        "lemma": "ὑπόδικος",
+        "morph": "Gr,NP,,,,NMS,"
+      },
+      {
+        "id": 1503871,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 18,
+        "word": "γένηται",
+        "occurrence": 1,
+        "strong": "G10960",
+        "lemma": "γίνομαι",
+        "morph": "Gr,V,SAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ὑπόδικος γένηται",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1298587,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 32,
+        "word": "held",
+        "occurrence": 1
+      },
+      {
+        "id": 1298588,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 33,
+        "word": "accountable",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "held accountable",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ὑπόδικος γένηται = held accountable",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

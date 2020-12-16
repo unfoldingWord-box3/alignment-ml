@@ -1,0 +1,90 @@
+[
+  {
+    "id": "526282",
+    "book_id": "rom",
+    "chapter": "16",
+    "verse": "18",
+    "alignment_num": "22",
+    "orig_lang_words": ",1509587,",
+    "target_lang_words": ",1306649,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509587,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "18",
+        "word_num": 23,
+        "word": "ἀκάκων",
+        "occurrence": 1,
+        "strong": "G01720",
+        "lemma": "ἄκακος",
+        "morph": "Gr,NS,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀκάκων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1306649,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "18",
+        "word_num": 27,
+        "word": "innocent",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "innocent",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀκάκων = innocent",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552937",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "26",
+    "alignment_num": "8",
+    "orig_lang_words": ",1537083,",
+    "target_lang_words": ",1345219,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537083,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "26",
+        "word_num": 7,
+        "word": "ἄκακος",
+        "occurrence": 1,
+        "strong": "G01720",
+        "lemma": "ἄκακος",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἄκακος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345219,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "26",
+        "word_num": 13,
+        "word": "blameless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blameless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἄκακος = blameless",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

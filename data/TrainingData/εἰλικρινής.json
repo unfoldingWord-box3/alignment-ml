@@ -1,0 +1,123 @@
+[
+  {
+    "id": "542083",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "7",
+    "orig_lang_words": ",1525841,",
+    "target_lang_words": ",1329546,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525841,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 8,
+        "word": "εἰλικρινεῖς",
+        "occurrence": 1,
+        "strong": "G15060",
+        "lemma": "εἰλικρινής",
+        "morph": "Gr,NS,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "εἰλικρινεῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329546,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 13,
+        "word": "sincere",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sincere",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εἰλικρινεῖς = sincere",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559605",
+    "book_id": "2pe",
+    "chapter": "3",
+    "verse": "1",
+    "alignment_num": "12",
+    "orig_lang_words": ",1544147,1544148,1544149,",
+    "target_lang_words": ",1355539,1355540,",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 1544147,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 13,
+        "word": "τὴν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFS,"
+      },
+      {
+        "id": 1544148,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 14,
+        "word": "εἰλικρινῆ",
+        "occurrence": 1,
+        "strong": "G15060",
+        "lemma": "εἰλικρινής",
+        "morph": "Gr,AA,,,,AFS,"
+      },
+      {
+        "id": 1544149,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 15,
+        "word": "διάνοιαν",
+        "occurrence": 1,
+        "strong": "G12710",
+        "lemma": "διάνοια",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τὴν εἰλικρινῆ διάνοιαν",
+    "alignmentOrigWords": 3,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1355539,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 24,
+        "word": "sincere",
+        "occurrence": 1
+      },
+      {
+        "id": 1355540,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 25,
+        "word": "mind",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sincere mind",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τὴν εἰλικρινῆ διάνοιαν = sincere mind",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "538553",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "2",
+    "alignment_num": "8",
+    "orig_lang_words": ",1522263,",
+    "target_lang_words": ",1324751,1324752,1324753,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522263,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 8,
+        "word": "προθεσμίας",
+        "occurrence": 1,
+        "strong": "G42870",
+        "lemma": "προθεσμία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "προθεσμίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1324751,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 9,
+        "word": "date",
+        "occurrence": 1
+      },
+      {
+        "id": 1324752,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 10,
+        "word": "set",
+        "occurrence": 1
+      },
+      {
+        "id": 1324753,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 11,
+        "word": "by",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "date set by",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "προθεσμίας = date set by",
+    "frequency": 1.0,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

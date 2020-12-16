@@ -1,0 +1,135 @@
+[
+  {
+    "id": "502392",
+    "book_id": "act",
+    "chapter": "1",
+    "verse": "24",
+    "alignment_num": "5",
+    "orig_lang_words": ",1484617,",
+    "target_lang_words": ",1273023,1273024,1273025,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484617,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 5,
+        "word": "καρδιογνῶστα",
+        "occurrence": 1,
+        "strong": "G25890",
+        "lemma": "καρδιογνώστης",
+        "morph": "Gr,N,,,,,VMS,"
+      }
+    ],
+    "origWordsTxt": "καρδιογνῶστα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1273023,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 7,
+        "word": "know",
+        "occurrence": 1
+      },
+      {
+        "id": 1273024,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 8,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1273025,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 9,
+        "word": "hearts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "know the hearts",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "καρδιογνῶστα = know the hearts",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511308",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "8",
+    "alignment_num": "1",
+    "orig_lang_words": ",1493784,",
+    "target_lang_words": ",1284955,1284956,1284957,1284958,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1493784,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 2,
+        "word": "καρδιογνώστης",
+        "occurrence": 1,
+        "strong": "G25890",
+        "lemma": "καρδιογνώστης",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "καρδιογνώστης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1284955,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 1,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1284956,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 2,
+        "word": "knows",
+        "occurrence": 1
+      },
+      {
+        "id": 1284957,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 3,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1284958,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 4,
+        "word": "heart",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who knows the heart",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "καρδιογνώστης = who knows the heart",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

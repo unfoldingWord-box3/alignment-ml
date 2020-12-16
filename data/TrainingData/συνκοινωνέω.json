@@ -1,0 +1,179 @@
+[
+  {
+    "id": "541234",
+    "book_id": "eph",
+    "chapter": "5",
+    "verse": "11",
+    "alignment_num": "2",
+    "orig_lang_words": ",1524971,",
+    "target_lang_words": ",1328465,1328466,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524971,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 2,
+        "word": "συνκοινωνεῖτε",
+        "occurrence": 1,
+        "strong": "G47900",
+        "lemma": "συνκοινωνέω",
+        "morph": "Gr,V,MPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "συνκοινωνεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1328465,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 3,
+        "word": "take",
+        "occurrence": 1
+      },
+      {
+        "id": 1328466,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 4,
+        "word": "part",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "take part",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "συνκοινωνεῖτε = take part",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543367",
+    "book_id": "php",
+    "chapter": "4",
+    "verse": "14",
+    "alignment_num": "3",
+    "orig_lang_words": ",1527167,",
+    "target_lang_words": ",1331503,1331504,1331505,1331506,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527167,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 3,
+        "word": "συνκοινωνήσαντές",
+        "occurrence": 1,
+        "strong": "G47900",
+        "lemma": "συνκοινωνέω",
+        "morph": "Gr,V,PAA,NMP,"
+      }
+    ],
+    "origWordsTxt": "συνκοινωνήσαντές",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1331503,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 4,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1331504,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 5,
+        "word": "share",
+        "occurrence": 1
+      },
+      {
+        "id": 1331505,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 6,
+        "word": "with",
+        "occurrence": 1
+      },
+      {
+        "id": 1331506,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 7,
+        "word": "me",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to share with me",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "συνκοινωνήσαντές = to share with me",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569313",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "4",
+    "alignment_num": "13",
+    "orig_lang_words": ",1554849,",
+    "target_lang_words": ",1368951,1368952,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554849,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "4",
+        "word_num": 16,
+        "word": "συνκοινωνήσητε",
+        "occurrence": 1,
+        "strong": "G47900",
+        "lemma": "συνκοινωνέω",
+        "morph": "Gr,V,SAA2,,P,"
+      }
+    ],
+    "origWordsTxt": "συνκοινωνήσητε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1368951,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "4",
+        "word_num": 16,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1368952,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "4",
+        "word_num": 17,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "συνκοινωνήσητε = you will",
+    "frequency": 0.3333333333333333,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

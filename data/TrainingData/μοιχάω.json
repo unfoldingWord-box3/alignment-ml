@@ -1,0 +1,117 @@
+[
+  {
+    "id": "464043",
+    "book_id": "mrk",
+    "chapter": "10",
+    "verse": "11",
+    "alignment_num": "10",
+    "orig_lang_words": ",1444178,",
+    "target_lang_words": ",1220084,1220085,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1444178,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 12,
+        "word": "μοιχᾶται",
+        "occurrence": 1,
+        "strong": "G34290",
+        "lemma": "μοιχάω",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "μοιχᾶται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1220084,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 13,
+        "word": "commits",
+        "occurrence": 1
+      },
+      {
+        "id": 1220085,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 14,
+        "word": "adultery",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "commits adultery",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μοιχᾶται = commits adultery",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "464054",
+    "book_id": "mrk",
+    "chapter": "10",
+    "verse": "12",
+    "alignment_num": "8",
+    "orig_lang_words": ",1444190,",
+    "target_lang_words": ",1220098,1220099,1220100,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1444190,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "12",
+        "word_num": 9,
+        "word": "μοιχᾶται",
+        "occurrence": 1,
+        "strong": "G34290",
+        "lemma": "μοιχάω",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "μοιχᾶται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1220098,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "12",
+        "word_num": 10,
+        "word": "she",
+        "occurrence": 2
+      },
+      {
+        "id": 1220099,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "12",
+        "word_num": 11,
+        "word": "commits",
+        "occurrence": 1
+      },
+      {
+        "id": 1220100,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "12",
+        "word_num": 12,
+        "word": "adultery",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "she commits adultery",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "μοιχᾶται = she commits adultery",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]

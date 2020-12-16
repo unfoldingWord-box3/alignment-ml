@@ -1,0 +1,99 @@
+[
+  {
+    "id": "518718",
+    "book_id": "act",
+    "chapter": "27",
+    "verse": "9",
+    "alignment_num": "17",
+    "orig_lang_words": ",1501423,",
+    "target_lang_words": ",1295155,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501423,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "9",
+        "word_num": 17,
+        "word": "παρῄνει",
+        "occurrence": 1,
+        "strong": "G38670",
+        "lemma": "παραινέω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "παρῄνει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1295155,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "9",
+        "word_num": 19,
+        "word": "So",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "So",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παρῄνει = So",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518933",
+    "book_id": "act",
+    "chapter": "27",
+    "verse": "22",
+    "alignment_num": "2",
+    "orig_lang_words": ",1501635,",
+    "target_lang_words": ",1295472,1295473,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501635,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "22",
+        "word_num": 3,
+        "word": "παραινῶ",
+        "occurrence": 1,
+        "strong": "G38670",
+        "lemma": "παραινέω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "παραινῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1295472,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "22",
+        "word_num": 2,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1295473,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "22",
+        "word_num": 3,
+        "word": "urge",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I urge",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "παραινῶ = I urge",
+    "frequency": 0.5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  }
+]
