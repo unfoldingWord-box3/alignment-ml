@@ -32,21 +32,22 @@ bookId = 'tit'
 
 ###########################
 
-tWordsType = 'kt'
-bible.getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType)
-
-
-word = 'apostle'
-tWordsPath = f"{tWordsGreekPath}/{tWordsType}/groups/{bookId}"
-tWordPath = f"{tWordsPath}/{word}.json"
+# tWordsType = 'kt'
+# bible.getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType)
+#
+#
+# word = 'apostle'
+# tWordsPath = f"{tWordsGreekPath}/{tWordsType}/groups/{bookId}"
+# tWordPath = f"{tWordsPath}/{word}.json"
 
 # fileList_ = file.listFolder(tWordsPath)
 # fileList = list(filter(lambda word: (word.find('.json') >= 0), fileList_))
 # fileList.sort()
 
 
-tWordsType = 'kt'
+tWordsTypes = ['kt', 'names', 'other']
 newTestament = True
 outputFolder = './data'
-bible.saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, tWordsType, targetLang, newTestament)
+for type_ in tWordsTypes:
+    bible.saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, type_, targetLang, newTestament)
 
