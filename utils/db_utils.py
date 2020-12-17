@@ -320,25 +320,27 @@ def addMultipleItemsToDatabase(connection, table, db_words):
         # print(f"addMultipleItemsToDatabase:\n{add_words}")
         execute_query(connection, add_words)
 
-def fetchRecords(connection, table, filter, caseInsensitive = False):
+def fetchRecords(connection, table, filter, caseInsensitive = False, maxRows = None):
     select_items = f"SELECT * FROM {table}"
     if len(filter):
         select_items += f"\nWHERE {filter}"
     if caseInsensitive:
         select_items += ' COLLATE NOCASE'
+    if not maxRows is None:
+        select_items += f'\n LIMIT {maxRows}'
     # print(f"getRecords:\n{select_items}")
     items = execute_read_query_dict(connection, select_items)
     return items
 
-def fetchWordsForVerse(connection, table, bookId, chapter, verse):
+def fetchWordsForVerse(connection, table, bookId, chapter, verse, maxRows = None):
     filter = f"(book_id = '{bookId}') AND (chapter = '{chapter}') AND (verse = '{verse}')"
-    items = fetchRecords(connection, table, filter)
+    items = fetchRecords(connection, table, filter, maxRows)
     # print(f"getRecords:\n{len(items)}")
     return items
 
-def fetchForWordInVerse(connection, table, word, occurrence, bookId, chapter, verse):
+def fetchForWordInVerse(connection, table, word, occurrence, bookId, chapter, verse, maxRows = None):
     filter = f"(book_id = '{bookId}') AND (chapter = '{chapter}') AND (verse = '{verse}') AND (word = '{word}') AND (occurrence = '{occurrence}')"
-    items = fetchRecords(connection, table, filter)
+    items = fetchRecords(connection, table, filter, maxRows)
     # print(f"getRecords:\n{len(items)}")
     return items
 
@@ -592,7 +594,7 @@ def findWordById(connection, id, table):
     print(f"findWordById - {id} not found")
     return None
 
-def findWord(connection, word, searchOriginal = True, searchLemma = False, caseInsensitive = False):
+def findWord(connection, word, searchOriginal = True, searchLemma = False, caseInsensitive = False, maxRows = None):
     if searchLemma:
         search = f"lemma = '{word}'"
     else:
@@ -603,11 +605,11 @@ def findWord(connection, word, searchOriginal = True, searchLemma = False, caseI
     else:
         table = target_words_table
 
-    words = fetchRecords(connection, table, search, caseInsensitive)
+    words = fetchRecords(connection, table, search, caseInsensitive, maxRows)
     # print (f"{len(words)} items in search: {search}")
     return words
 
-def findWords(connection, words, searchOriginal = True, searchLemma = False, caseInsensitive = False):
+def findWords(connection, words, searchOriginal = True, searchLemma = False, caseInsensitive = False, maxRows = None):
     searches = ''
     for word in words:
         if searchLemma:
@@ -627,7 +629,7 @@ def findWords(connection, words, searchOriginal = True, searchLemma = False, cas
     else:
         table = target_words_table
 
-    words = fetchRecords(connection, table, searches, caseInsensitive)
+    words = fetchRecords(connection, table, searches, caseInsensitive, maxRows)
     # print (f"{len(words)} items in search: {search}")
     return words
 
@@ -686,8 +688,8 @@ def addDataToAlignmentsAndClean(alignments):
         alignment['targetWordsBetween'] = alignment['targetSpan'] - (alignment['alignmentTargetWords'] - 1)
     return alignments
 
-def findOriginalWordsForLemma(connection, lemma):
-    foundWords = findWord(connection, lemma, searchOriginal = True, searchLemma = True, caseInsensitive = True)
+def findOriginalWordsForLemma(connection, lemma, maxRows = None):
+    foundWords = findWord(connection, lemma, searchOriginal = True, searchLemma = True, caseInsensitive = True, maxRows = maxRows )
     fwd = pd.DataFrame(foundWords)
     return fwd
 
