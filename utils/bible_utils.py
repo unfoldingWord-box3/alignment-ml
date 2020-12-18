@@ -1595,4 +1595,3 @@ def saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, tWordsType
     print(f"saving quotes to: {outputPath}")
     file.writeJsonFile(outputPath, quotesFound)
     return quotesFound
-

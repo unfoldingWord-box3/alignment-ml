@@ -1,3 +1,4 @@
+import pandas as pd
 
 def getGreekRoles():
     return list(morphCodeLocalizationMapGrk[2].keys())
@@ -145,3 +146,110 @@ morphCodeLocalizationMapGrk = {
     },
 }
 
+morphFields = [ 'role','type','mood','tense','voice','person','case','gender','number']
+
+def findRoleNameForCharGreek(char):
+    roles = morphCodeLocalizationMapGrk[2]
+    if char in roles.keys():
+        return roles[char]['key']
+    print(f"findRoleNameForCharGreek - key not found for {char}")
+    return None
+
+def getIndexForChar(char):
+    num = ord(char)
+    if (char >= 'A') and (char <= 'Z'):
+        num = num - ord('A') + 11
+    elif (char >= '0') and (char <= '9'):
+        num = num - ord('0')
+    elif (char >= 'a') and (char <= 'z'):
+        num = num - ord('a') + 41
+    else:
+        if char != ',':
+            print(f"getIndexForChar - unexpected character '{char}'")
+        num = -1
+    return num
+
+def getCharForIndex(num):
+    if (num >=0) and (num < 10):
+        char = chr(ord('0') + num)
+    elif (num >= 11) and (num < (11 + 26)):
+        char = chr(ord('A') + (num - 11))
+    elif (num >= 41) and (num < (41 + 26)):
+        char = chr(ord('a') + (num - 41))
+    elif num == -1:
+        char = ','
+    else:
+        print(f"getCharForIndex - unexpected value '{num}'")
+        char = '?'
+    return char
+
+def getChar(string, idx):
+    return string[idx:idx+1]
+
+def morphToDict(morph):
+    results = {
+        'morph': morph
+    }
+
+    # parse all the fields
+    for i in range(len(morphFields)):
+        field = morphFields[i]
+        char = getChar(morph, 3 + i)
+        results[field + '_key'] = char
+        results[field] = getIndexForChar(char)
+    return results
+
+def extract(text, match, start, end):
+    subStr = text[start:end]
+    if (subStr == match):
+        return True
+    else:
+        return False
+
+def filterSyntacticalRole(sequence, role):
+    def filterFunc(variable):
+        results = extract(variable, role, 3, 4)
+        return results
+
+    filtered = filter(filterFunc, sequence)
+    return filtered
+
+def findFieldsForRole(unique_morph_list, role):
+    field_data = {}
+    print(f"\nFor role: '{role}'")
+
+    role_list = list(filterSyntacticalRole(unique_morph_list, role))
+
+    role_dict =  list(map(morphToDict, role_list))
+
+    role_frame = pd.DataFrame(role_dict)
+
+    for field in morphFields:
+        field_key = field + '_key'
+        field_frequency = role_frame[field_key].value_counts()
+        print(f"\nFor '{role}' - instances of '{field}':")
+        # print(field_frequency)
+        field_list = list(dict(field_frequency).keys())
+        print(field_list)
+        field_list.sort()
+        field_data[field] = field_list
+    return field_data
+
+def findFieldsFrequencyForRole(unique_morph_list, role):
+    field_data = {}
+    print(f"\nFor role: '{role}'")
+
+    role_list = list(filterSyntacticalRole(unique_morph_list, role))
+
+    role_dict =  list(map(morphToDict, role_list))
+
+    role_frame = pd.DataFrame(role_dict)
+
+    for field in morphFields:
+        field_key = field + '_key'
+        field_frequency = role_frame[field_key].value_counts()
+        role_name = f"{findRoleNameForCharGreek(role)} ({role})"
+        print(f"\nFor '{role_name}' - frequency of '{field}':")
+        print(field_frequency)
+        field_data[field] = field_frequency
+    return field_data

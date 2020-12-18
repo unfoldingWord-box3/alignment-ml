@@ -899,3 +899,34 @@ def describeAlignments(alignments):
     for field in fields:
         alignmentOrigWords_frequency = alignments[field].value_counts()
         print(f"\nFrequency of {field}:\n{alignmentOrigWords_frequency}")
+
+def findLemmasForQuotes(connection, quotesPath,lemmasPath):
+    data = file.readJsonFile(quotesPath)
+
+    origWords = {}
+    def findLemma(origWord):
+        if origWord in origWords:
+            return origWords[origWord]
+
+        words = findWord(connection, origWord, searchOriginal = True, searchLemma = False, caseInsensitive = True, maxRows = 1 )
+        word = words[0]
+        origWords[origWord] = word
+        return word
+
+    lemmas = {}
+    keys = list(data.keys())
+    for key in keys:
+        for origWord in data[key]:
+            word = findLemma(origWord)
+            lemma = word['lemma']
+            morph = word['morph']
+            print(f"for {origWord} found {lemma}")
+            if lemma in lemmas:
+                lemmas[lemma]['count'] += 1
+            else:
+                lemmas[lemma] = {
+                    'count': 1,
+                    'morph': morph
+                }
+
+    file.writeJsonFile(lemmasPath, lemmas)
