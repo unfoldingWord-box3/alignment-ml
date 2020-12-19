@@ -847,10 +847,14 @@ def refreshSavedAlignmentData(connection, keyTermsPath, minLen=-1):
 # reading dataFrame from json:
 def loadAlignmentDataFromFile(lemma):
     alignment_data_path = f'data/TrainingData/{lemma}.json'
-    f = open(alignment_data_path)
-    dataStr = f.read()
-    data = json.loads(dataStr)
-    df = pd.DataFrame(data)
+    try:
+        f = open(alignment_data_path)
+        dataStr = f.read()
+        data = json.loads(dataStr)
+        df = pd.DataFrame(data)
+    except FileNotFoundError:
+        df = None
+        print(f"loadAlignmentDataFromFile - failed to load {lemma} since file not found at {alignment_data_path}")
     return df
 
 # doing plots
@@ -888,17 +892,33 @@ def plotFieldFrequency(frequency, fieldName, xAxisLabel, yAxisLabel = None,max=-
         ax.tick_params(axis='x', which='both', length=0)
     plt.show()
 
-def describeAlignments(alignments):
+def describeAlignments(alignments, silent = False):
+    results = {}
     descr = alignments.describe()
-    print(f"Alignments description:\n{descr}")
+    results_desc = dict(descr)
+    for key in results_desc.keys():
+        new_value = dict(results_desc[key])
+        results_desc[key] = new_value
+    results['desc'] = results_desc
+
+    if not silent:
+        print(f"Alignments description:\n{descr}")
 
     fields = list(descr.columns)
-    print(f"fields = {fields}")
+    if not silent:
+        print(f"fields = {fields}")
+
+    results_field = {}
+    results['fields'] = results_field
 
     fields.remove('frequency') # not useful for analysis
     for field in fields:
         alignmentOrigWords_frequency = alignments[field].value_counts()
-        print(f"\nFrequency of {field}:\n{alignmentOrigWords_frequency}")
+        if not silent:
+            print(f"\nFrequency of {field}:\n{alignmentOrigWords_frequency}")
+        results_field[field] = list(alignmentOrigWords_frequency)
+
+    return results
 
 def findLemmasForQuotes(connection, quotesPath,lemmasPath):
     data = file.readJsonFile(quotesPath)
