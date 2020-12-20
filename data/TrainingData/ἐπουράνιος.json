@@ -69,7 +69,8 @@
     "targetWordsTxt": "about heavenly things",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὰ ἐπουράνια = about heavenly things",
-    "frequency": 0.05263157894736842,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -113,7 +114,62 @@
     "targetWordsTxt": "heavenly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπουράνια = heavenly",
-    "frequency": 0.05263157894736842,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553651",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "23",
+    "alignment_num": "13",
+    "orig_lang_words": ",1537825,",
+    "target_lang_words": ",1346278,1346279,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537825,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "23",
+        "word_num": 14,
+        "word": "ἐπουράνια",
+        "occurrence": 1,
+        "strong": "G20320",
+        "lemma": "ἐπουράνιος",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἐπουράνια",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1346278,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "23",
+        "word_num": 21,
+        "word": "heavenly",
+        "occurrence": 1
+      },
+      {
+        "id": 1346279,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "23",
+        "word_num": 22,
+        "word": "things",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "heavenly things",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπουράνια = heavenly things",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -157,413 +213,8 @@
     "targetWordsTxt": "heavenly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπουρανίων = heavenly",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532559",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "48",
-    "alignment_num": "10",
-    "orig_lang_words": ",1516075,",
-    "target_lang_words": ",1315932,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516075,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "48",
-        "word_num": 10,
-        "word": "ἐπουράνιος",
-        "occurrence": 1,
-        "strong": "G20320",
-        "lemma": "ἐπουράνιος",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἐπουράνιος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1315932,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "48",
-        "word_num": 18,
-        "word": "heavenly",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "heavenly",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπουράνιος = heavenly",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532563",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "48",
-    "alignment_num": "14",
-    "orig_lang_words": ",1516079,",
-    "target_lang_words": ",1315937,1315938,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516079,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "48",
-        "word_num": 14,
-        "word": "ἐπουράνιοι",
-        "occurrence": 1,
-        "strong": "G20320",
-        "lemma": "ἐπουράνιος",
-        "morph": "Gr,NS,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἐπουράνιοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1315937,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "48",
-        "word_num": 23,
-        "word": "of",
-        "occurrence": 2
-      },
-      {
-        "id": 1315938,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "48",
-        "word_num": 24,
-        "word": "heaven",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of heaven",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπουράνιοι = of heaven",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532577",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "49",
-    "alignment_num": "13",
-    "orig_lang_words": ",1516092,",
-    "target_lang_words": ",1315958,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516092,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "49",
-        "word_num": 12,
-        "word": "ἐπουρανίου",
-        "occurrence": 1,
-        "strong": "G20320",
-        "lemma": "ἐπουράνιος",
-        "morph": "Gr,NS,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "ἐπουρανίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1315958,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "49",
-        "word_num": 19,
-        "word": "heavenly",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "heavenly",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπουρανίου = heavenly",
-    "frequency": 0.10526315789473684,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539570",
-    "book_id": "eph",
-    "chapter": "1",
-    "verse": "3",
-    "alignment_num": "19",
-    "orig_lang_words": ",1523314,",
-    "target_lang_words": ",1326312,1326313,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523314,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 19,
-        "word": "ἐπουρανίοις",
-        "occurrence": 1,
-        "strong": "G20320",
-        "lemma": "ἐπουράνιος",
-        "morph": "Gr,NS,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "ἐπουρανίοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1326312,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 21,
-        "word": "heavenly",
-        "occurrence": 1
-      },
-      {
-        "id": 1326313,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 22,
-        "word": "places",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "heavenly places",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπουρανίοις = heavenly places",
-    "frequency": 0.2631578947368421,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539861",
-    "book_id": "eph",
-    "chapter": "1",
-    "verse": "20",
-    "alignment_num": "15",
-    "orig_lang_words": ",1523612,",
-    "target_lang_words": ",1326700,1326701,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523612,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 16,
-        "word": "ἐπουρανίοις",
-        "occurrence": 1,
-        "strong": "G20320",
-        "lemma": "ἐπουράνιος",
-        "morph": "Gr,NS,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "ἐπουρανίοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1326700,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 21,
-        "word": "heavenly",
-        "occurrence": 1
-      },
-      {
-        "id": 1326701,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 22,
-        "word": "places",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "heavenly places",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπουρανίοις = heavenly places",
-    "frequency": 0.2631578947368421,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540017",
-    "book_id": "eph",
-    "chapter": "2",
-    "verse": "6",
-    "alignment_num": "6",
-    "orig_lang_words": ",1523765,",
-    "target_lang_words": ",1326892,1326893,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523765,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 6,
-        "word": "ἐπουρανίοις",
-        "occurrence": 1,
-        "strong": "G20320",
-        "lemma": "ἐπουράνιος",
-        "morph": "Gr,NS,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "ἐπουρανίοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1326892,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 13,
-        "word": "heavenly",
-        "occurrence": 1
-      },
-      {
-        "id": 1326893,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 14,
-        "word": "places",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "heavenly places",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπουρανίοις = heavenly places",
-    "frequency": 0.2631578947368421,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540445",
-    "book_id": "eph",
-    "chapter": "3",
-    "verse": "10",
-    "alignment_num": "20",
-    "orig_lang_words": ",1524179,",
-    "target_lang_words": ",1327449,1327450,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1524179,
-        "book_id": "eph",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 10,
-        "word": "ἐπουρανίοις",
-        "occurrence": 1,
-        "strong": "G20320",
-        "lemma": "ἐπουράνιος",
-        "morph": "Gr,NS,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "ἐπουρανίοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1327449,
-        "book_id": "eph",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 24,
-        "word": "heavenly",
-        "occurrence": 1
-      },
-      {
-        "id": 1327450,
-        "book_id": "eph",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 25,
-        "word": "places",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "heavenly places",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπουρανίοις = heavenly places",
-    "frequency": 0.2631578947368421,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541739",
-    "book_id": "eph",
-    "chapter": "6",
-    "verse": "12",
-    "alignment_num": "29",
-    "orig_lang_words": ",1525485,",
-    "target_lang_words": ",1329082,1329083,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525485,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 30,
-        "word": "ἐπουρανίοις",
-        "occurrence": 1,
-        "strong": "G20320",
-        "lemma": "ἐπουράνιος",
-        "morph": "Gr,NS,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "ἐπουρανίοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1329082,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 31,
-        "word": "heavenly",
-        "occurrence": 1
-      },
-      {
-        "id": 1329083,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 32,
-        "word": "places",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "heavenly places",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπουρανίοις = heavenly places",
-    "frequency": 0.2631578947368421,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -634,63 +285,206 @@
     "targetWordsTxt": "of those in heaven",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐπουρανίων = of those in heaven",
-    "frequency": 0.05263157894736842,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "549937",
-    "book_id": "2ti",
-    "chapter": "4",
-    "verse": "18",
-    "alignment_num": "12",
-    "orig_lang_words": ",1533964,1533965,",
-    "target_lang_words": ",1340792,",
-    "origSpan": 1,
+    "id": "553065",
+    "book_id": "heb",
+    "chapter": "8",
+    "verse": "5",
+    "alignment_num": "6",
+    "orig_lang_words": ",1537217,",
+    "target_lang_words": ",1345415,1345416,",
+    "origSpan": 0,
     "origWords": [
       {
-        "id": 1533964,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 14,
-        "word": "τὴν",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFS,"
-      },
-      {
-        "id": 1533965,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 15,
-        "word": "ἐπουράνιον",
+        "id": 1537217,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "5",
+        "word_num": 6,
+        "word": "ἐπουρανίων",
         "occurrence": 1,
         "strong": "G20320",
         "lemma": "ἐπουράνιος",
-        "morph": "Gr,AR,,,,AFS,"
+        "morph": "Gr,NS,,,,GNP,"
       }
     ],
-    "origWordsTxt": "τὴν ἐπουράνιον",
-    "alignmentOrigWords": 2,
+    "origWordsTxt": "ἐπουρανίων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1345415,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "5",
+        "word_num": 8,
+        "word": "heavenly",
+        "occurrence": 1
+      },
+      {
+        "id": 1345416,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "5",
+        "word_num": 9,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "heavenly things",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπουρανίων = heavenly things",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532559",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "48",
+    "alignment_num": "10",
+    "orig_lang_words": ",1516075,",
+    "target_lang_words": ",1315932,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516075,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "48",
+        "word_num": 10,
+        "word": "ἐπουράνιος",
+        "occurrence": 1,
+        "strong": "G20320",
+        "lemma": "ἐπουράνιος",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἐπουράνιος",
+    "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1340792,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 15,
+        "id": 1315932,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "48",
+        "word_num": 18,
         "word": "heavenly",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "heavenly",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "τὴν ἐπουράνιον = heavenly",
-    "frequency": 0.05263157894736842,
+    "alignmentTxt": "ἐπουράνιος = heavenly",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532563",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "48",
+    "alignment_num": "14",
+    "orig_lang_words": ",1516079,",
+    "target_lang_words": ",1315937,1315938,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516079,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "48",
+        "word_num": 14,
+        "word": "ἐπουράνιοι",
+        "occurrence": 1,
+        "strong": "G20320",
+        "lemma": "ἐπουράνιος",
+        "morph": "Gr,NS,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἐπουράνιοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1315937,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "48",
+        "word_num": 23,
+        "word": "of",
+        "occurrence": 2
+      },
+      {
+        "id": 1315938,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "48",
+        "word_num": 24,
+        "word": "heaven",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of heaven",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπουράνιοι = of heaven",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532577",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "49",
+    "alignment_num": "13",
+    "orig_lang_words": ",1516092,",
+    "target_lang_words": ",1315958,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516092,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "49",
+        "word_num": 12,
+        "word": "ἐπουρανίου",
+        "occurrence": 1,
+        "strong": "G20320",
+        "lemma": "ἐπουράνιος",
+        "morph": "Gr,NS,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ἐπουρανίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1315958,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "49",
+        "word_num": 19,
+        "word": "heavenly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "heavenly",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπουρανίου = heavenly",
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -734,7 +528,8 @@
     "targetWordsTxt": "heavenly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπουρανίου = heavenly",
-    "frequency": 0.10526315789473684,
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -790,113 +585,8 @@
     "targetWordsTxt": "heavenly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ἐπουρανίου = heavenly",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553065",
-    "book_id": "heb",
-    "chapter": "8",
-    "verse": "5",
-    "alignment_num": "6",
-    "orig_lang_words": ",1537217,",
-    "target_lang_words": ",1345415,1345416,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537217,
-        "book_id": "heb",
-        "chapter": "8",
-        "verse": "5",
-        "word_num": 6,
-        "word": "ἐπουρανίων",
-        "occurrence": 1,
-        "strong": "G20320",
-        "lemma": "ἐπουράνιος",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "ἐπουρανίων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1345415,
-        "book_id": "heb",
-        "chapter": "8",
-        "verse": "5",
-        "word_num": 8,
-        "word": "heavenly",
-        "occurrence": 1
-      },
-      {
-        "id": 1345416,
-        "book_id": "heb",
-        "chapter": "8",
-        "verse": "5",
-        "word_num": 9,
-        "word": "things",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "heavenly things",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπουρανίων = heavenly things",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553651",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "23",
-    "alignment_num": "13",
-    "orig_lang_words": ",1537825,",
-    "target_lang_words": ",1346278,1346279,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537825,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "23",
-        "word_num": 14,
-        "word": "ἐπουράνια",
-        "occurrence": 1,
-        "strong": "G20320",
-        "lemma": "ἐπουράνιος",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ἐπουράνια",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1346278,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "23",
-        "word_num": 21,
-        "word": "heavenly",
-        "occurrence": 1
-      },
-      {
-        "id": 1346279,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "23",
-        "word_num": 22,
-        "word": "things",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "heavenly things",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπουράνια = heavenly things",
-    "frequency": 0.05263157894736842,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -958,7 +648,335 @@
     "targetWordsTxt": "a heavenly one",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπουρανίου = a heavenly one",
-    "frequency": 0.05263157894736842,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539570",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "19",
+    "orig_lang_words": ",1523314,",
+    "target_lang_words": ",1326312,1326313,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523314,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 19,
+        "word": "ἐπουρανίοις",
+        "occurrence": 1,
+        "strong": "G20320",
+        "lemma": "ἐπουράνιος",
+        "morph": "Gr,NS,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἐπουρανίοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1326312,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 21,
+        "word": "heavenly",
+        "occurrence": 1
+      },
+      {
+        "id": 1326313,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 22,
+        "word": "places",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "heavenly places",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπουρανίοις = heavenly places",
+    "frequency": 1.0,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539861",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "20",
+    "alignment_num": "15",
+    "orig_lang_words": ",1523612,",
+    "target_lang_words": ",1326700,1326701,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523612,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 16,
+        "word": "ἐπουρανίοις",
+        "occurrence": 1,
+        "strong": "G20320",
+        "lemma": "ἐπουράνιος",
+        "morph": "Gr,NS,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἐπουρανίοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1326700,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 21,
+        "word": "heavenly",
+        "occurrence": 1
+      },
+      {
+        "id": 1326701,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 22,
+        "word": "places",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "heavenly places",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπουρανίοις = heavenly places",
+    "frequency": 1.0,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540017",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "6",
+    "alignment_num": "6",
+    "orig_lang_words": ",1523765,",
+    "target_lang_words": ",1326892,1326893,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523765,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 6,
+        "word": "ἐπουρανίοις",
+        "occurrence": 1,
+        "strong": "G20320",
+        "lemma": "ἐπουράνιος",
+        "morph": "Gr,NS,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἐπουρανίοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1326892,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 13,
+        "word": "heavenly",
+        "occurrence": 1
+      },
+      {
+        "id": 1326893,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 14,
+        "word": "places",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "heavenly places",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπουρανίοις = heavenly places",
+    "frequency": 1.0,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540445",
+    "book_id": "eph",
+    "chapter": "3",
+    "verse": "10",
+    "alignment_num": "20",
+    "orig_lang_words": ",1524179,",
+    "target_lang_words": ",1327449,1327450,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524179,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 10,
+        "word": "ἐπουρανίοις",
+        "occurrence": 1,
+        "strong": "G20320",
+        "lemma": "ἐπουράνιος",
+        "morph": "Gr,NS,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἐπουρανίοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1327449,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 24,
+        "word": "heavenly",
+        "occurrence": 1
+      },
+      {
+        "id": 1327450,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 25,
+        "word": "places",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "heavenly places",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπουρανίοις = heavenly places",
+    "frequency": 1.0,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541739",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "12",
+    "alignment_num": "29",
+    "orig_lang_words": ",1525485,",
+    "target_lang_words": ",1329082,1329083,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525485,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 30,
+        "word": "ἐπουρανίοις",
+        "occurrence": 1,
+        "strong": "G20320",
+        "lemma": "ἐπουράνιος",
+        "morph": "Gr,NS,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἐπουρανίοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1329082,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 31,
+        "word": "heavenly",
+        "occurrence": 1
+      },
+      {
+        "id": 1329083,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 32,
+        "word": "places",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "heavenly places",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπουρανίοις = heavenly places",
+    "frequency": 1.0,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549937",
+    "book_id": "2ti",
+    "chapter": "4",
+    "verse": "18",
+    "alignment_num": "12",
+    "orig_lang_words": ",1533964,1533965,",
+    "target_lang_words": ",1340792,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1533964,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 14,
+        "word": "τὴν",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFS,"
+      },
+      {
+        "id": 1533965,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 15,
+        "word": "ἐπουράνιον",
+        "occurrence": 1,
+        "strong": "G20320",
+        "lemma": "ἐπουράνιος",
+        "morph": "Gr,AR,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τὴν ἐπουράνιον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340792,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 15,
+        "word": "heavenly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "heavenly",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὴν ἐπουράνιον = heavenly",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1002,7 +1020,8 @@
     "targetWordsTxt": "heavenly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπουρανίῳ = heavenly",
-    "frequency": 0.05263157894736842,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

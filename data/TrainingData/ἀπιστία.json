@@ -51,7 +51,53 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν ἀπιστίαν = unbelief",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551774",
+    "book_id": "heb",
+    "chapter": "3",
+    "verse": "19",
+    "alignment_num": "7",
+    "orig_lang_words": ",1535865,",
+    "target_lang_words": ",1343488,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535865,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 7,
+        "word": "ἀπιστίαν",
+        "occurrence": 1,
+        "strong": "G05700",
+        "lemma": "ἀπιστία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀπιστίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1343488,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 11,
+        "word": "unbelief",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "unbelief",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπιστίαν = unbelief",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -107,63 +153,8 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῇ ἀπιστίᾳ = unbelief",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520836",
-    "book_id": "rom",
-    "chapter": "3",
-    "verse": "3",
-    "alignment_num": "7",
-    "orig_lang_words": ",1503652,1503653,",
-    "target_lang_words": ",1298279,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1503652,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 6,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1503653,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 7,
-        "word": "ἀπιστία",
-        "occurrence": 1,
-        "strong": "G05700",
-        "lemma": "ἀπιστία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ ἀπιστία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298279,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 10,
-        "word": "unbelief",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unbelief",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ ἀπιστία = unbelief",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -228,7 +219,8 @@
     "targetWordsTxt": "in unbelief",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῇ ἀπιστίᾳ = in unbelief",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -272,7 +264,8 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπιστίᾳ = unbelief",
-    "frequency": 0.3333333333333333,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -316,7 +309,8 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπιστίᾳ = unbelief",
-    "frequency": 0.3333333333333333,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -360,7 +354,65 @@
     "targetWordsTxt": "unbelief",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπιστίᾳ = unbelief",
-    "frequency": 0.3333333333333333,
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520836",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "3",
+    "alignment_num": "7",
+    "orig_lang_words": ",1503652,1503653,",
+    "target_lang_words": ",1298279,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503652,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 6,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1503653,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 7,
+        "word": "ἀπιστία",
+        "occurrence": 1,
+        "strong": "G05700",
+        "lemma": "ἀπιστία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ ἀπιστία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298279,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 10,
+        "word": "unbelief",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "unbelief",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ ἀπιστία = unbelief",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -413,51 +465,8 @@
     "targetWordsTxt": "of unbelief",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπιστίας = of unbelief",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551774",
-    "book_id": "heb",
-    "chapter": "3",
-    "verse": "19",
-    "alignment_num": "7",
-    "orig_lang_words": ",1535865,",
-    "target_lang_words": ",1343488,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535865,
-        "book_id": "heb",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 7,
-        "word": "ἀπιστίαν",
-        "occurrence": 1,
-        "strong": "G05700",
-        "lemma": "ἀπιστία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἀπιστίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1343488,
-        "book_id": "heb",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 11,
-        "word": "unbelief",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unbelief",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπιστίαν = unbelief",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

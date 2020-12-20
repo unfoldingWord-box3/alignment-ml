@@ -39,7 +39,8 @@
     "targetWordsTxt": "boast",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καυχᾶσαι = boast",
-    "frequency": 0.05405405405405406,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,62 @@
     "targetWordsTxt": "boast",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καυχᾶσαι = boast",
-    "frequency": 0.05405405405405406,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527608",
+    "book_id": "1co",
+    "chapter": "4",
+    "verse": "7",
+    "alignment_num": "16",
+    "orig_lang_words": ",1510999,",
+    "target_lang_words": ",1308526,1308527,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510999,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 15,
+        "word": "καυχᾶσαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,IPM2,,S,"
+      }
+    ],
+    "origWordsTxt": "καυχᾶσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1308526,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 22,
+        "word": "you",
+        "occurrence": 5
+      },
+      {
+        "id": 1308527,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 23,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you boast",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καυχᾶσαι = you boast",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +192,8 @@
     "targetWordsTxt": "we rejoice",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καυχώμεθα = we rejoice",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -180,7 +237,8 @@
     "targetWordsTxt": "we",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καυχώμεθα = we",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -224,7 +282,107 @@
     "targetWordsTxt": "we",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καυχώμενοι = we",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536194",
+    "book_id": "2co",
+    "chapter": "10",
+    "verse": "15",
+    "alignment_num": "1",
+    "orig_lang_words": ",1519839,",
+    "target_lang_words": ",1321119,1321120,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519839,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "15",
+        "word_num": 4,
+        "word": "καυχώμενοι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "καυχώμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1321119,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "15",
+        "word_num": 2,
+        "word": "we",
+        "occurrence": 1
+      },
+      {
+        "id": 1321120,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "15",
+        "word_num": 3,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we boast",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καυχώμενοι = we boast",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542863",
+    "book_id": "php",
+    "chapter": "3",
+    "verse": "3",
+    "alignment_num": "2",
+    "orig_lang_words": ",1526653,",
+    "target_lang_words": ",1330716,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526653,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 10,
+        "word": "καυχώμενοι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "καυχώμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1330716,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 4,
+        "word": "who",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καυχώμενοι = who",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -277,7 +435,62 @@
     "targetWordsTxt": "might boast",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καυχήσηται = might boast",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540063",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "6",
+    "orig_lang_words": ",1523810,",
+    "target_lang_words": ",1326951,1326952,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523810,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 6,
+        "word": "καυχήσηται",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,SAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "καυχήσηται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1326951,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 7,
+        "word": "may",
+        "occurrence": 1
+      },
+      {
+        "id": 1326952,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 8,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "may boast",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καυχήσηται = may boast",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -369,581 +582,8 @@
     "targetWordsTxt": "Let the one who boasts",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ὁ καυχώμενος = Let the one who boasts",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526878",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "31",
-    "alignment_num": "4",
-    "orig_lang_words": ",1510241,",
-    "target_lang_words": ",1307501,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510241,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "31",
-        "word_num": 7,
-        "word": "καυχάσθω",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,MPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "καυχάσθω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307501,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "31",
-        "word_num": 10,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "boast",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καυχάσθω = boast",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "527448",
-    "book_id": "1co",
-    "chapter": "3",
-    "verse": "21",
-    "alignment_num": "1",
-    "orig_lang_words": ",1510838,",
-    "target_lang_words": ",1308292,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510838,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 2,
-        "word": "καυχάσθω",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,MPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "καυχάσθω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1308292,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 3,
-        "word": "let",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "let",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καυχάσθω = let",
-    "frequency": 0.08108108108108109,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "527608",
-    "book_id": "1co",
-    "chapter": "4",
-    "verse": "7",
-    "alignment_num": "16",
-    "orig_lang_words": ",1510999,",
-    "target_lang_words": ",1308526,1308527,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510999,
-        "book_id": "1co",
-        "chapter": "4",
-        "verse": "7",
-        "word_num": 15,
-        "word": "καυχᾶσαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,IPM2,,S,"
-      }
-    ],
-    "origWordsTxt": "καυχᾶσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1308526,
-        "book_id": "1co",
-        "chapter": "4",
-        "verse": "7",
-        "word_num": 22,
-        "word": "you",
-        "occurrence": 5
-      },
-      {
-        "id": 1308527,
-        "book_id": "1co",
-        "chapter": "4",
-        "verse": "7",
-        "word_num": 23,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you boast",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καυχᾶσαι = you boast",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531187",
-    "book_id": "1co",
-    "chapter": "13",
-    "verse": "3",
-    "alignment_num": "11",
-    "orig_lang_words": ",1514657,",
-    "target_lang_words": ",1313862,1313863,1313864,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1514657,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 13,
-        "word": "καυχήσωμαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,SAM1,,S,"
-      }
-    ],
-    "origWordsTxt": "καυχήσωμαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1313862,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 16,
-        "word": "I",
-        "occurrence": 3
-      },
-      {
-        "id": 1313863,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 17,
-        "word": "might",
-        "occurrence": 1
-      },
-      {
-        "id": 1313864,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 18,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I might boast",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "καυχήσωμαι = I might boast",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534552",
-    "book_id": "2co",
-    "chapter": "5",
-    "verse": "12",
-    "alignment_num": "18",
-    "orig_lang_words": ",1518141,",
-    "target_lang_words": ",1318744,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518141,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "12",
-        "word_num": 18,
-        "word": "καυχωμένους",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,PPM,AMP,"
-      }
-    ],
-    "origWordsTxt": "καυχωμένους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1318744,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "12",
-        "word_num": 29,
-        "word": "boast",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "boast",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καυχωμένους = boast",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535237",
-    "book_id": "2co",
-    "chapter": "7",
-    "verse": "14",
-    "alignment_num": "2",
-    "orig_lang_words": ",1518840,",
-    "target_lang_words": ",1319737,1319738,1319739,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518840,
-        "book_id": "2co",
-        "chapter": "7",
-        "verse": "14",
-        "word_num": 6,
-        "word": "κεκαύχημαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,IEM1,,S,"
-      }
-    ],
-    "origWordsTxt": "κεκαύχημαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1319737,
-        "book_id": "2co",
-        "chapter": "7",
-        "verse": "14",
-        "word_num": 2,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1319738,
-        "book_id": "2co",
-        "chapter": "7",
-        "verse": "14",
-        "word_num": 3,
-        "word": "had",
-        "occurrence": 1
-      },
-      {
-        "id": 1319739,
-        "book_id": "2co",
-        "chapter": "7",
-        "verse": "14",
-        "word_num": 4,
-        "word": "boasted",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I had boasted",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "κεκαύχημαι = I had boasted",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535694",
-    "book_id": "2co",
-    "chapter": "9",
-    "verse": "2",
-    "alignment_num": "5",
-    "orig_lang_words": ",1519319,",
-    "target_lang_words": ",1320411,1320412,1320413,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519319,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "2",
-        "word_num": 8,
-        "word": "καυχῶμαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,IPM1,,S,"
-      }
-    ],
-    "origWordsTxt": "καυχῶμαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1320411,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "2",
-        "word_num": 6,
-        "word": "I",
-        "occurrence": 2
-      },
-      {
-        "id": 1320412,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "2",
-        "word_num": 7,
-        "word": "boasted",
-        "occurrence": 1
-      },
-      {
-        "id": 1320413,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "2",
-        "word_num": 8,
-        "word": "about",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I boasted about",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "καυχῶμαι = I boasted about",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536063",
-    "book_id": "2co",
-    "chapter": "10",
-    "verse": "8",
-    "alignment_num": "3",
-    "orig_lang_words": ",1519707,",
-    "target_lang_words": ",1320940,1320941,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519707,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "8",
-        "word_num": 5,
-        "word": "καυχήσωμαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,SAM1,,S,"
-      }
-    ],
-    "origWordsTxt": "καυχήσωμαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1320940,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "8",
-        "word_num": 3,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1320941,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "8",
-        "word_num": 4,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I boast",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καυχήσωμαι = I boast",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536152",
-    "book_id": "2co",
-    "chapter": "10",
-    "verse": "13",
-    "alignment_num": "2",
-    "orig_lang_words": ",1519799,",
-    "target_lang_words": ",1321058,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519799,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 6,
-        "word": "καυχησόμεθα",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,IFM1,,P,"
-      }
-    ],
-    "origWordsTxt": "καυχησόμεθα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1321058,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 2,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καυχησόμεθα = will",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536194",
-    "book_id": "2co",
-    "chapter": "10",
-    "verse": "15",
-    "alignment_num": "1",
-    "orig_lang_words": ",1519839,",
-    "target_lang_words": ",1321119,1321120,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519839,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "15",
-        "word_num": 4,
-        "word": "καυχώμενοι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "καυχώμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1321119,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "15",
-        "word_num": 2,
-        "word": "we",
-        "occurrence": 1
-      },
-      {
-        "id": 1321120,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "15",
-        "word_num": 3,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "we boast",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καυχώμενοι = we boast",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536220",
-    "book_id": "2co",
-    "chapter": "10",
-    "verse": "16",
-    "alignment_num": "6",
-    "orig_lang_words": ",1519871,",
-    "target_lang_words": ",1321161,1321162,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519871,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "16",
-        "word_num": 12,
-        "word": "καυχήσασθαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,NAM,,,,,"
-      }
-    ],
-    "origWordsTxt": "καυχήσασθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1321161,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "16",
-        "word_num": 13,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1321162,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "16",
-        "word_num": 14,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to boast",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καυχήσασθαι = to boast",
-    "frequency": 0.05405405405405406,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1005,7 +645,98 @@
     "targetWordsTxt": "one who boasts",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καυχώμενος = one who boasts",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526878",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "31",
+    "alignment_num": "4",
+    "orig_lang_words": ",1510241,",
+    "target_lang_words": ",1307501,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510241,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "31",
+        "word_num": 7,
+        "word": "καυχάσθω",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,MPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "καυχάσθω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307501,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "31",
+        "word_num": 10,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "boast",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καυχάσθω = boast",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527448",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "21",
+    "alignment_num": "1",
+    "orig_lang_words": ",1510838,",
+    "target_lang_words": ",1308292,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510838,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 2,
+        "word": "καυχάσθω",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,MPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "καυχάσθω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308292,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 3,
+        "word": "let",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "let",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καυχάσθω = let",
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1049,7 +780,548 @@
     "targetWordsTxt": "let",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καυχάσθω = let",
-    "frequency": 0.08108108108108109,
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555791",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "1",
+    "orig_lang_words": ",1540060,",
+    "target_lang_words": ",1349585,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540060,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 0,
+        "word": "καυχάσθω",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,MPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "καυχάσθω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349585,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 1,
+        "word": "let",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "let",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καυχάσθω = let",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531187",
+    "book_id": "1co",
+    "chapter": "13",
+    "verse": "3",
+    "alignment_num": "11",
+    "orig_lang_words": ",1514657,",
+    "target_lang_words": ",1313862,1313863,1313864,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1514657,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 13,
+        "word": "καυχήσωμαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,SAM1,,S,"
+      }
+    ],
+    "origWordsTxt": "καυχήσωμαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1313862,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 16,
+        "word": "I",
+        "occurrence": 3
+      },
+      {
+        "id": 1313863,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 17,
+        "word": "might",
+        "occurrence": 1
+      },
+      {
+        "id": 1313864,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 18,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I might boast",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "καυχήσωμαι = I might boast",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536063",
+    "book_id": "2co",
+    "chapter": "10",
+    "verse": "8",
+    "alignment_num": "3",
+    "orig_lang_words": ",1519707,",
+    "target_lang_words": ",1320940,1320941,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519707,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "8",
+        "word_num": 5,
+        "word": "καυχήσωμαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,SAM1,,S,"
+      }
+    ],
+    "origWordsTxt": "καυχήσωμαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1320940,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "8",
+        "word_num": 3,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1320941,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "8",
+        "word_num": 4,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I boast",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καυχήσωμαι = I boast",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536506",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "16",
+    "alignment_num": "19",
+    "orig_lang_words": ",1520157,",
+    "target_lang_words": ",1321594,1321595,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520157,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 21,
+        "word": "καυχήσωμαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,SAM1,,S,"
+      }
+    ],
+    "origWordsTxt": "καυχήσωμαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1321594,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 25,
+        "word": "may",
+        "occurrence": 1
+      },
+      {
+        "id": 1321595,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 26,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "may boast",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καυχήσωμαι = may boast",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534552",
+    "book_id": "2co",
+    "chapter": "5",
+    "verse": "12",
+    "alignment_num": "18",
+    "orig_lang_words": ",1518141,",
+    "target_lang_words": ",1318744,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518141,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "12",
+        "word_num": 18,
+        "word": "καυχωμένους",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,PPM,AMP,"
+      }
+    ],
+    "origWordsTxt": "καυχωμένους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1318744,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "12",
+        "word_num": 29,
+        "word": "boast",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "boast",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καυχωμένους = boast",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535237",
+    "book_id": "2co",
+    "chapter": "7",
+    "verse": "14",
+    "alignment_num": "2",
+    "orig_lang_words": ",1518840,",
+    "target_lang_words": ",1319737,1319738,1319739,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518840,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "14",
+        "word_num": 6,
+        "word": "κεκαύχημαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,IEM1,,S,"
+      }
+    ],
+    "origWordsTxt": "κεκαύχημαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1319737,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "14",
+        "word_num": 2,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1319738,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "14",
+        "word_num": 3,
+        "word": "had",
+        "occurrence": 1
+      },
+      {
+        "id": 1319739,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "14",
+        "word_num": 4,
+        "word": "boasted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I had boasted",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "κεκαύχημαι = I had boasted",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535694",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "2",
+    "alignment_num": "5",
+    "orig_lang_words": ",1519319,",
+    "target_lang_words": ",1320411,1320412,1320413,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519319,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 8,
+        "word": "καυχῶμαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,IPM1,,S,"
+      }
+    ],
+    "origWordsTxt": "καυχῶμαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1320411,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 6,
+        "word": "I",
+        "occurrence": 2
+      },
+      {
+        "id": 1320412,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 7,
+        "word": "boasted",
+        "occurrence": 1
+      },
+      {
+        "id": 1320413,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 8,
+        "word": "about",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I boasted about",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "καυχῶμαι = I boasted about",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536152",
+    "book_id": "2co",
+    "chapter": "10",
+    "verse": "13",
+    "alignment_num": "2",
+    "orig_lang_words": ",1519799,",
+    "target_lang_words": ",1321058,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519799,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 6,
+        "word": "καυχησόμεθα",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,IFM1,,P,"
+      }
+    ],
+    "origWordsTxt": "καυχησόμεθα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1321058,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 2,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καυχησόμεθα = will",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536220",
+    "book_id": "2co",
+    "chapter": "10",
+    "verse": "16",
+    "alignment_num": "6",
+    "orig_lang_words": ",1519871,",
+    "target_lang_words": ",1321161,1321162,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519871,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "16",
+        "word_num": 12,
+        "word": "καυχήσασθαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,NAM,,,,,"
+      }
+    ],
+    "origWordsTxt": "καυχήσασθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1321161,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "16",
+        "word_num": 13,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1321162,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "16",
+        "word_num": 14,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to boast",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καυχήσασθαι = to boast",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536828",
+    "book_id": "2co",
+    "chapter": "12",
+    "verse": "6",
+    "alignment_num": "3",
+    "orig_lang_words": ",1520478,",
+    "target_lang_words": ",1322099,1322100,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520478,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "6",
+        "word_num": 3,
+        "word": "καυχήσασθαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,NAM,,,,,"
+      }
+    ],
+    "origWordsTxt": "καυχήσασθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1322099,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "6",
+        "word_num": 5,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1322100,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "6",
+        "word_num": 6,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to boast",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καυχήσασθαι = to boast",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1120,60 +1392,8 @@
     "targetWordsTxt": "they are boasting about",
     "alignmentTargetWords": 4,
     "alignmentTxt": "καυχῶνται = they are boasting about",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536506",
-    "book_id": "2co",
-    "chapter": "11",
-    "verse": "16",
-    "alignment_num": "19",
-    "orig_lang_words": ",1520157,",
-    "target_lang_words": ",1321594,1321595,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520157,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 21,
-        "word": "καυχήσωμαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,SAM1,,S,"
-      }
-    ],
-    "origWordsTxt": "καυχήσωμαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1321594,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 25,
-        "word": "may",
-        "occurrence": 1
-      },
-      {
-        "id": 1321595,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 26,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "may boast",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καυχήσωμαι = may boast",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1217,7 +1437,8 @@
     "targetWordsTxt": "boast",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καυχῶνται = boast",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1261,51 +1482,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καυχήσομαι = will",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536696",
-    "book_id": "2co",
-    "chapter": "11",
-    "verse": "30",
-    "alignment_num": "2",
-    "orig_lang_words": ",1520341,",
-    "target_lang_words": ",1321906,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520341,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "30",
-        "word_num": 1,
-        "word": "καυχᾶσθαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,NPM,,,,,"
-      }
-    ],
-    "origWordsTxt": "καυχᾶσθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1321906,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "30",
-        "word_num": 3,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "boast",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καυχᾶσθαι = boast",
-    "frequency": 0.05405405405405406,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1367,60 +1545,8 @@
     "targetWordsTxt": "I will boast",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καυχήσομαι = I will boast",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536744",
-    "book_id": "2co",
-    "chapter": "12",
-    "verse": "1",
-    "alignment_num": "1",
-    "orig_lang_words": ",1520391,",
-    "target_lang_words": ",1321974,1321975,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520391,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "1",
-        "word_num": 0,
-        "word": "καυχᾶσθαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,NPM,,,,,"
-      }
-    ],
-    "origWordsTxt": "καυχᾶσθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1321974,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "1",
-        "word_num": 3,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1321975,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "1",
-        "word_num": 4,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to boast",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καυχᾶσθαι = to boast",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1482,7 +1608,8 @@
     "targetWordsTxt": "I will boast",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καυχήσομαι = I will boast",
-    "frequency": 0.05405405405405406,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1535,60 +1662,8 @@
     "targetWordsTxt": "I will",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καυχήσομαι = I will",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536828",
-    "book_id": "2co",
-    "chapter": "12",
-    "verse": "6",
-    "alignment_num": "3",
-    "orig_lang_words": ",1520478,",
-    "target_lang_words": ",1322099,1322100,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520478,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "6",
-        "word_num": 3,
-        "word": "καυχήσασθαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,NAM,,,,,"
-      }
-    ],
-    "origWordsTxt": "καυχήσασθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1322099,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "6",
-        "word_num": 5,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1322100,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "6",
-        "word_num": 6,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to boast",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καυχήσασθαι = to boast",
-    "frequency": 0.05405405405405406,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1641,7 +1716,152 @@
     "targetWordsTxt": "I will",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καυχήσομαι = I will",
-    "frequency": 0.05405405405405406,
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536696",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "30",
+    "alignment_num": "2",
+    "orig_lang_words": ",1520341,",
+    "target_lang_words": ",1321906,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520341,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "30",
+        "word_num": 1,
+        "word": "καυχᾶσθαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,NPM,,,,,"
+      }
+    ],
+    "origWordsTxt": "καυχᾶσθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1321906,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "30",
+        "word_num": 3,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "boast",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καυχᾶσθαι = boast",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536744",
+    "book_id": "2co",
+    "chapter": "12",
+    "verse": "1",
+    "alignment_num": "1",
+    "orig_lang_words": ",1520391,",
+    "target_lang_words": ",1321974,1321975,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520391,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "1",
+        "word_num": 0,
+        "word": "καυχᾶσθαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,NPM,,,,,"
+      }
+    ],
+    "origWordsTxt": "καυχᾶσθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1321974,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "1",
+        "word_num": 3,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1321975,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "1",
+        "word_num": 4,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to boast",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καυχᾶσθαι = to boast",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539452",
+    "book_id": "gal",
+    "chapter": "6",
+    "verse": "14",
+    "alignment_num": "4",
+    "orig_lang_words": ",1523190,",
+    "target_lang_words": ",1326163,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523190,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 4,
+        "word": "καυχᾶσθαι",
+        "occurrence": 1,
+        "strong": "G27440",
+        "lemma": "καυχάομαι",
+        "morph": "Gr,V,NPM,,,,,"
+      }
+    ],
+    "origWordsTxt": "καυχᾶσθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326163,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 4,
+        "word": "boast",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "boast",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καυχᾶσθαι = boast",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1703,192 +1923,8 @@
     "targetWordsTxt": "they may boast",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καυχήσωνται = they may boast",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539452",
-    "book_id": "gal",
-    "chapter": "6",
-    "verse": "14",
-    "alignment_num": "4",
-    "orig_lang_words": ",1523190,",
-    "target_lang_words": ",1326163,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523190,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "14",
-        "word_num": 4,
-        "word": "καυχᾶσθαι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,NPM,,,,,"
-      }
-    ],
-    "origWordsTxt": "καυχᾶσθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326163,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "14",
-        "word_num": 4,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "boast",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καυχᾶσθαι = boast",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540063",
-    "book_id": "eph",
-    "chapter": "2",
-    "verse": "9",
-    "alignment_num": "6",
-    "orig_lang_words": ",1523810,",
-    "target_lang_words": ",1326951,1326952,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523810,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 6,
-        "word": "καυχήσηται",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,SAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "καυχήσηται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1326951,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 7,
-        "word": "may",
-        "occurrence": 1
-      },
-      {
-        "id": 1326952,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 8,
-        "word": "boast",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "may boast",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καυχήσηται = may boast",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542863",
-    "book_id": "php",
-    "chapter": "3",
-    "verse": "3",
-    "alignment_num": "2",
-    "orig_lang_words": ",1526653,",
-    "target_lang_words": ",1330716,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526653,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 10,
-        "word": "καυχώμενοι",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "καυχώμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1330716,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 4,
-        "word": "who",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καυχώμενοι = who",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555791",
-    "book_id": "jas",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "1",
-    "orig_lang_words": ",1540060,",
-    "target_lang_words": ",1349585,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540060,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 0,
-        "word": "καυχάσθω",
-        "occurrence": 1,
-        "strong": "G27440",
-        "lemma": "καυχάομαι",
-        "morph": "Gr,V,MPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "καυχάσθω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349585,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 1,
-        "word": "let",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "let",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καυχάσθω = let",
-    "frequency": 0.08108108108108109,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1950,7 +1986,8 @@
     "targetWordsTxt": "you are boasting",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καυχᾶσθε = you are boasting",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

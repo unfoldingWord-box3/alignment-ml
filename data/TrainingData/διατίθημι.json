@@ -39,7 +39,8 @@
     "targetWordsTxt": "grant",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διατίθεμαι = grant",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,8 @@
     "targetWordsTxt": "has granted",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διέθετό = has granted",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +138,8 @@
     "targetWordsTxt": "made",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διέθετο = made",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +201,71 @@
     "targetWordsTxt": "I will make",
     "alignmentTargetWords": 3,
     "alignmentTxt": "διαθήσομαι = I will make",
-    "frequency": 0.2857142857142857,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553945",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "16",
+    "alignment_num": "4",
+    "orig_lang_words": ",1538143,",
+    "target_lang_words": ",1346774,1346775,1346776,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538143,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "16",
+        "word_num": 4,
+        "word": "διαθήσομαι",
+        "occurrence": 1,
+        "strong": "G13030",
+        "lemma": "διατίθημι",
+        "morph": "Gr,V,IFM1,,S,"
+      }
+    ],
+    "origWordsTxt": "διαθήσομαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1346774,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "16",
+        "word_num": 5,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1346775,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "16",
+        "word_num": 6,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1346776,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "16",
+        "word_num": 7,
+        "word": "make",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I will make",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "διαθήσομαι = I will make",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -299,7 +366,8 @@
     "targetWordsTxt": "of the person who made it",
     "alignmentTargetWords": 6,
     "alignmentTxt": "τοῦ διαθεμένου = of the person who made it",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -391,69 +459,8 @@
     "targetWordsTxt": "the one who made it",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ὁ διαθέμενος = the one who made it",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553945",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "16",
-    "alignment_num": "4",
-    "orig_lang_words": ",1538143,",
-    "target_lang_words": ",1346774,1346775,1346776,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538143,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "16",
-        "word_num": 4,
-        "word": "διαθήσομαι",
-        "occurrence": 1,
-        "strong": "G13030",
-        "lemma": "διατίθημι",
-        "morph": "Gr,V,IFM1,,S,"
-      }
-    ],
-    "origWordsTxt": "διαθήσομαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1346774,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "16",
-        "word_num": 5,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1346775,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "16",
-        "word_num": 6,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1346776,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "16",
-        "word_num": 7,
-        "word": "make",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I will make",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "διαθήσομαι = I will make",
-    "frequency": 0.2857142857142857,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

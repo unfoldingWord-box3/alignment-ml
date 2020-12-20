@@ -48,7 +48,8 @@
     "targetWordsTxt": "a testimony",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μαρτύριον = a testimony",
-    "frequency": 0.4375,
+    "frequency": 0.5,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,8 @@
     "targetWordsTxt": "a testimony",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μαρτύριον = a testimony",
-    "frequency": 0.4375,
+    "frequency": 0.5,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,7 +156,8 @@
     "targetWordsTxt": "a testimony",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μαρτύριον = a testimony",
-    "frequency": 0.4375,
+    "frequency": 0.5,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -207,7 +210,8 @@
     "targetWordsTxt": "a testimony",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μαρτύριον = a testimony",
-    "frequency": 0.4375,
+    "frequency": 0.5,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -260,7 +264,8 @@
     "targetWordsTxt": "a testimony",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μαρτύριον = a testimony",
-    "frequency": 0.4375,
+    "frequency": 0.5,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -313,7 +318,8 @@
     "targetWordsTxt": "a testimony",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μαρτύριον = a testimony",
-    "frequency": 0.4375,
+    "frequency": 0.5,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -357,51 +363,8 @@
     "targetWordsTxt": "testimony",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μαρτύριον = testimony",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506226",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "44",
-    "alignment_num": "2",
-    "orig_lang_words": ",1488577,",
-    "target_lang_words": ",1278106,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1488577,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "44",
-        "word_num": 3,
-        "word": "μαρτυρίου",
-        "occurrence": 1,
-        "strong": "G31420",
-        "lemma": "μαρτύριον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1278106,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "44",
-        "word_num": 2,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίου = of",
-    "frequency": 0.0625,
+    "frequency": 0.2857142857142857,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -445,7 +408,8 @@
     "targetWordsTxt": "testimony",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μαρτύριον = testimony",
-    "frequency": 0.25,
+    "frequency": 0.2857142857142857,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -489,7 +453,8 @@
     "targetWordsTxt": "testimony",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μαρτύριον = testimony",
-    "frequency": 0.25,
+    "frequency": 0.2857142857142857,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -545,7 +510,8 @@
     "targetWordsTxt": "testimony",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ μαρτύριον = testimony",
-    "frequency": 0.0625,
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -589,7 +555,8 @@
     "targetWordsTxt": "testimony",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μαρτύριον = testimony",
-    "frequency": 0.25,
+    "frequency": 0.2857142857142857,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -633,7 +600,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μαρτύριον = of",
-    "frequency": 0.0625,
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -686,7 +654,8 @@
     "targetWordsTxt": "a testimony",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μαρτύριον = a testimony",
-    "frequency": 0.4375,
+    "frequency": 0.5,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -751,7 +720,53 @@
     "targetWordsTxt": "a witness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εἰς μαρτύριον = a witness",
-    "frequency": 0.0625,
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506226",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "44",
+    "alignment_num": "2",
+    "orig_lang_words": ",1488577,",
+    "target_lang_words": ",1278106,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488577,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "44",
+        "word_num": 3,
+        "word": "μαρτυρίου",
+        "occurrence": 1,
+        "strong": "G31420",
+        "lemma": "μαρτύριον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1278106,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "44",
+        "word_num": 2,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίου = of",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -816,7 +831,8 @@
     "targetWordsTxt": "of witness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῦ μαρτυρίου = of witness",
-    "frequency": 0.0625,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

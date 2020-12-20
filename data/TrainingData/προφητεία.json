@@ -39,51 +39,8 @@
     "targetWordsTxt": "giving",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητείαν = giving",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "530778",
-    "book_id": "1co",
-    "chapter": "12",
-    "verse": "10",
-    "alignment_num": "5",
-    "orig_lang_words": ",1514251,",
-    "target_lang_words": ",1313311,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1514251,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "10",
-        "word_num": 5,
-        "word": "προφητεία",
-        "occurrence": 1,
-        "strong": "G43940",
-        "lemma": "προφητεία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "προφητεία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1313311,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "10",
-        "word_num": 8,
-        "word": "prophecy",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophecy",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητεία = prophecy",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,95 +111,53 @@
     "targetWordsTxt": "the gift of prophecy",
     "alignmentTargetWords": 4,
     "alignmentTxt": "προφητείαν = the gift of prophecy",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "531243",
+    "id": "530778",
     "book_id": "1co",
-    "chapter": "13",
-    "verse": "8",
+    "chapter": "12",
+    "verse": "10",
     "alignment_num": "5",
-    "orig_lang_words": ",1514713,",
-    "target_lang_words": ",1313946,",
+    "orig_lang_words": ",1514251,",
+    "target_lang_words": ",1313311,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1514713,
+        "id": 1514251,
         "book_id": "1co",
-        "chapter": "13",
-        "verse": "8",
-        "word_num": 6,
-        "word": "προφητεῖαι",
+        "chapter": "12",
+        "verse": "10",
+        "word_num": 5,
+        "word": "προφητεία",
         "occurrence": 1,
         "strong": "G43940",
         "lemma": "προφητεία",
-        "morph": "Gr,N,,,,,NFP,"
+        "morph": "Gr,N,,,,,NFS,"
       }
     ],
-    "origWordsTxt": "προφητεῖαι",
+    "origWordsTxt": "προφητεία",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1313946,
+        "id": 1313311,
         "book_id": "1co",
-        "chapter": "13",
-        "verse": "8",
-        "word_num": 7,
-        "word": "prophecies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophecies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητεῖαι = prophecies",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531409",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "6",
-    "alignment_num": "23",
-    "orig_lang_words": ",1514891,",
-    "target_lang_words": ",1314210,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1514891,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "6",
-        "word_num": 24,
-        "word": "προφητείᾳ",
-        "occurrence": 1,
-        "strong": "G43940",
-        "lemma": "προφητεία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "προφητείᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1314210,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "6",
-        "word_num": 29,
+        "chapter": "12",
+        "verse": "10",
+        "word_num": 8,
         "word": "prophecy",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "prophecy",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητείᾳ = prophecy",
-    "frequency": 0.05555555555555555,
+    "alignmentTxt": "προφητεία = prophecy",
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -319,139 +234,8 @@
     "targetWordsTxt": "but prophesy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἡ δὲ προφητεία = but prophesy",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546279",
-    "book_id": "1th",
-    "chapter": "5",
-    "verse": "20",
-    "alignment_num": "2",
-    "orig_lang_words": ",1530290,",
-    "target_lang_words": ",1335638,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530290,
-        "book_id": "1th",
-        "chapter": "5",
-        "verse": "20",
-        "word_num": 0,
-        "word": "προφητείας",
-        "occurrence": 1,
-        "strong": "G43940",
-        "lemma": "προφητεία",
-        "morph": "Gr,N,,,,,AFP,"
-      }
-    ],
-    "origWordsTxt": "προφητείας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1335638,
-        "book_id": "1th",
-        "chapter": "5",
-        "verse": "20",
-        "word_num": 3,
-        "word": "prophecies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophecies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητείας = prophecies",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547417",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "18",
-    "alignment_num": "8",
-    "orig_lang_words": ",1531465,",
-    "target_lang_words": ",1337253,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531465,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 12,
-        "word": "προφητείας",
-        "occurrence": 1,
-        "strong": "G43940",
-        "lemma": "προφητεία",
-        "morph": "Gr,N,,,,,AFP,"
-      }
-    ],
-    "origWordsTxt": "προφητείας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337253,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 14,
-        "word": "prophecies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophecies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητείας = prophecies",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548054",
-    "book_id": "1ti",
-    "chapter": "4",
-    "verse": "14",
-    "alignment_num": "10",
-    "orig_lang_words": ",1532077,",
-    "target_lang_words": ",1338132,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532077,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 10,
-        "word": "προφητείας",
-        "occurrence": 1,
-        "strong": "G43940",
-        "lemma": "προφητεία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "προφητείας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338132,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 15,
-        "word": "prophecy",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophecy",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητείας = prophecy",
-    "frequency": 0.2777777777777778,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -495,7 +279,8 @@
     "targetWordsTxt": "prophecy",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητεία = prophecy",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -539,7 +324,233 @@
     "targetWordsTxt": "prophecy",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητεία = prophecy",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531243",
+    "book_id": "1co",
+    "chapter": "13",
+    "verse": "8",
+    "alignment_num": "5",
+    "orig_lang_words": ",1514713,",
+    "target_lang_words": ",1313946,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1514713,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 6,
+        "word": "προφητεῖαι",
+        "occurrence": 1,
+        "strong": "G43940",
+        "lemma": "προφητεία",
+        "morph": "Gr,N,,,,,NFP,"
+      }
+    ],
+    "origWordsTxt": "προφητεῖαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1313946,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 7,
+        "word": "prophecies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophecies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητεῖαι = prophecies",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531409",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "6",
+    "alignment_num": "23",
+    "orig_lang_words": ",1514891,",
+    "target_lang_words": ",1314210,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1514891,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "6",
+        "word_num": 24,
+        "word": "προφητείᾳ",
+        "occurrence": 1,
+        "strong": "G43940",
+        "lemma": "προφητεία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "προφητείᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1314210,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "6",
+        "word_num": 29,
+        "word": "prophecy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophecy",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητείᾳ = prophecy",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546279",
+    "book_id": "1th",
+    "chapter": "5",
+    "verse": "20",
+    "alignment_num": "2",
+    "orig_lang_words": ",1530290,",
+    "target_lang_words": ",1335638,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530290,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 0,
+        "word": "προφητείας",
+        "occurrence": 1,
+        "strong": "G43940",
+        "lemma": "προφητεία",
+        "morph": "Gr,N,,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "προφητείας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1335638,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 3,
+        "word": "prophecies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophecies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητείας = prophecies",
+    "frequency": 0.2,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547417",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "18",
+    "alignment_num": "8",
+    "orig_lang_words": ",1531465,",
+    "target_lang_words": ",1337253,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531465,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 12,
+        "word": "προφητείας",
+        "occurrence": 1,
+        "strong": "G43940",
+        "lemma": "προφητεία",
+        "morph": "Gr,N,,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "προφητείας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337253,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 14,
+        "word": "prophecies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophecies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητείας = prophecies",
+    "frequency": 0.2,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548054",
+    "book_id": "1ti",
+    "chapter": "4",
+    "verse": "14",
+    "alignment_num": "10",
+    "orig_lang_words": ",1532077,",
+    "target_lang_words": ",1338132,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532077,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 10,
+        "word": "προφητείας",
+        "occurrence": 1,
+        "strong": "G43940",
+        "lemma": "προφητεία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "προφητείας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338132,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 15,
+        "word": "prophecy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophecy",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητείας = prophecy",
+    "frequency": 0.5,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -583,7 +594,8 @@
     "targetWordsTxt": "prophecy",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητείας = prophecy",
-    "frequency": 0.2777777777777778,
+    "frequency": 0.5,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -627,7 +639,8 @@
     "targetWordsTxt": "prophesy",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητείας = prophesy",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -692,7 +705,8 @@
     "targetWordsTxt": "of prophecy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς προφητείας = of prophecy",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.2,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -736,7 +750,8 @@
     "targetWordsTxt": "prophecy",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητείας = prophecy",
-    "frequency": 0.2777777777777778,
+    "frequency": 0.5,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -780,7 +795,8 @@
     "targetWordsTxt": "prophecy",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητείας = prophecy",
-    "frequency": 0.2777777777777778,
+    "frequency": 0.5,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -824,7 +840,8 @@
     "targetWordsTxt": "prophecy",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητείας = prophecy",
-    "frequency": 0.2777777777777778,
+    "frequency": 0.5,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -889,7 +906,8 @@
     "targetWordsTxt": "of prophecy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς προφητείας = of prophecy",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.2,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

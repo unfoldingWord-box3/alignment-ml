@@ -39,157 +39,8 @@
     "targetWordsTxt": "He",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπιτάσσει = He",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "461492",
-    "book_id": "mrk",
-    "chapter": "6",
-    "verse": "27",
-    "alignment_num": "6",
-    "orig_lang_words": ",1441414,",
-    "target_lang_words": ",1216506,1216507,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1441414,
-        "book_id": "mrk",
-        "chapter": "6",
-        "verse": "27",
-        "word_num": 6,
-        "word": "ἐπέταξεν",
-        "occurrence": 1,
-        "strong": "G20040",
-        "lemma": "ἐπιτάσσω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπέταξεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1216506,
-        "book_id": "mrk",
-        "chapter": "6",
-        "verse": "27",
-        "word_num": 7,
-        "word": "commanding",
-        "occurrence": 1
-      },
-      {
-        "id": 1216507,
-        "book_id": "mrk",
-        "chapter": "6",
-        "verse": "27",
-        "word_num": 8,
-        "word": "him",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "commanding him",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπέταξεν = commanding him",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "461694",
-    "book_id": "mrk",
-    "chapter": "6",
-    "verse": "39",
-    "alignment_num": "1",
-    "orig_lang_words": ",1441625,",
-    "target_lang_words": ",1216788,1216789,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1441625,
-        "book_id": "mrk",
-        "chapter": "6",
-        "verse": "39",
-        "word_num": 1,
-        "word": "ἐπέταξεν",
-        "occurrence": 1,
-        "strong": "G20040",
-        "lemma": "ἐπιτάσσω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπέταξεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1216788,
-        "book_id": "mrk",
-        "chapter": "6",
-        "verse": "39",
-        "word_num": 1,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1216789,
-        "book_id": "mrk",
-        "chapter": "6",
-        "verse": "39",
-        "word_num": 2,
-        "word": "commanded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he commanded",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπέταξεν = he commanded",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "463529",
-    "book_id": "mrk",
-    "chapter": "9",
-    "verse": "25",
-    "alignment_num": "19",
-    "orig_lang_words": ",1443596,",
-    "target_lang_words": ",1219322,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1443596,
-        "book_id": "mrk",
-        "chapter": "9",
-        "verse": "25",
-        "word_num": 20,
-        "word": "ἐπιτάσσω",
-        "occurrence": 1,
-        "strong": "G20040",
-        "lemma": "ἐπιτάσσω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπιτάσσω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1219322,
-        "book_id": "mrk",
-        "chapter": "9",
-        "verse": "25",
-        "word_num": 25,
-        "word": "command",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "command",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπιτάσσω = command",
-    "frequency": 0.1,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,7 +93,8 @@
     "targetWordsTxt": "he commands",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπιτάσσει = he commands",
-    "frequency": 0.2,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,7 +147,206 @@
     "targetWordsTxt": "he commands",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπιτάσσει = he commands",
-    "frequency": 0.2,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "461492",
+    "book_id": "mrk",
+    "chapter": "6",
+    "verse": "27",
+    "alignment_num": "6",
+    "orig_lang_words": ",1441414,",
+    "target_lang_words": ",1216506,1216507,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1441414,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "27",
+        "word_num": 6,
+        "word": "ἐπέταξεν",
+        "occurrence": 1,
+        "strong": "G20040",
+        "lemma": "ἐπιτάσσω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπέταξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1216506,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "27",
+        "word_num": 7,
+        "word": "commanding",
+        "occurrence": 1
+      },
+      {
+        "id": 1216507,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "27",
+        "word_num": 8,
+        "word": "him",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "commanding him",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπέταξεν = commanding him",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "461694",
+    "book_id": "mrk",
+    "chapter": "6",
+    "verse": "39",
+    "alignment_num": "1",
+    "orig_lang_words": ",1441625,",
+    "target_lang_words": ",1216788,1216789,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1441625,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "39",
+        "word_num": 1,
+        "word": "ἐπέταξεν",
+        "occurrence": 1,
+        "strong": "G20040",
+        "lemma": "ἐπιτάσσω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπέταξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1216788,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "39",
+        "word_num": 1,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1216789,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "39",
+        "word_num": 2,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he commanded",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπέταξεν = he commanded",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516376",
+    "book_id": "act",
+    "chapter": "23",
+    "verse": "2",
+    "alignment_num": "4",
+    "orig_lang_words": ",1499036,",
+    "target_lang_words": ",1291835,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499036,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "2",
+        "word_num": 4,
+        "word": "ἐπέταξεν",
+        "occurrence": 1,
+        "strong": "G20040",
+        "lemma": "ἐπιτάσσω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπέταξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1291835,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "2",
+        "word_num": 5,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "commanded",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπέταξεν = commanded",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "463529",
+    "book_id": "mrk",
+    "chapter": "9",
+    "verse": "25",
+    "alignment_num": "19",
+    "orig_lang_words": ",1443596,",
+    "target_lang_words": ",1219322,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1443596,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "25",
+        "word_num": 20,
+        "word": "ἐπιτάσσω",
+        "occurrence": 1,
+        "strong": "G20040",
+        "lemma": "ἐπιτάσσω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπιτάσσω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1219322,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "25",
+        "word_num": 25,
+        "word": "command",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "command",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπιτάσσω = command",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -348,7 +399,8 @@
     "targetWordsTxt": "he would",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπιτάξῃ = he would",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -401,51 +453,8 @@
     "targetWordsTxt": "you commanded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπέταξας = you commanded",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516376",
-    "book_id": "act",
-    "chapter": "23",
-    "verse": "2",
-    "alignment_num": "4",
-    "orig_lang_words": ",1499036,",
-    "target_lang_words": ",1291835,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499036,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "2",
-        "word_num": 4,
-        "word": "ἐπέταξεν",
-        "occurrence": 1,
-        "strong": "G20040",
-        "lemma": "ἐπιτάσσω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπέταξεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1291835,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "2",
-        "word_num": 5,
-        "word": "commanded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "commanded",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπέταξεν = commanded",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -498,7 +507,8 @@
     "targetWordsTxt": "to command",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπιτάσσειν = to command",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

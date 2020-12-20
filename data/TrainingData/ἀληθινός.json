@@ -60,7 +60,8 @@
     "targetWordsTxt": "true wealth",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸ ἀληθινὸν = true wealth",
-    "frequency": 0.03571428571428571,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -116,307 +117,8 @@
     "targetWordsTxt": "true",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ ἀληθινὸν = true",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "489662",
-    "book_id": "jhn",
-    "chapter": "4",
-    "verse": "23",
-    "alignment_num": "8",
-    "orig_lang_words": ",1470833,1470834,",
-    "target_lang_words": ",1255506,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1470833,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "23",
-        "word_num": 7,
-        "word": "οἱ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMP,"
-      },
-      {
-        "id": 1470834,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "23",
-        "word_num": 8,
-        "word": "ἀληθινοὶ",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,AA,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "οἱ ἀληθινοὶ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1255506,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "23",
-        "word_num": 10,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "οἱ ἀληθινοὶ = true",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "489868",
-    "book_id": "jhn",
-    "chapter": "4",
-    "verse": "37",
-    "alignment_num": "6",
-    "orig_lang_words": ",1471056,",
-    "target_lang_words": ",1255789,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471056,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "37",
-        "word_num": 6,
-        "word": "ἀληθινὸς",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀληθινὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1255789,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "37",
-        "word_num": 6,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀληθινὸς = true",
-    "frequency": 0.10714285714285714,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491423",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "32",
-    "alignment_num": "22",
-    "orig_lang_words": ",1472756,1472757,",
-    "target_lang_words": ",1257930,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1472756,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "32",
-        "word_num": 29,
-        "word": "τὸν",
-        "occurrence": 3,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AMS,"
-      },
-      {
-        "id": 1472757,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "32",
-        "word_num": 30,
-        "word": "ἀληθινόν",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,AR,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "τὸν ἀληθινόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1257930,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "32",
-        "word_num": 28,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸν ἀληθινόν = true",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492465",
-    "book_id": "jhn",
-    "chapter": "7",
-    "verse": "28",
-    "alignment_num": "25",
-    "orig_lang_words": ",1473891,",
-    "target_lang_words": ",1259280,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1473891,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "28",
-        "word_num": 22,
-        "word": "ἀληθινὸς",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀληθινὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1259280,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "28",
-        "word_num": 32,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀληθινὸς = true",
-    "frequency": 0.10714285714285714,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492945",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "16",
-    "alignment_num": "7",
-    "orig_lang_words": ",1474540,",
-    "target_lang_words": ",1260095,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1474540,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "16",
-        "word_num": 9,
-        "word": "ἀληθινή",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,NP,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀληθινή",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1260095,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "16",
-        "word_num": 7,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀληθινή = true",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "497856",
-    "book_id": "jhn",
-    "chapter": "15",
-    "verse": "1",
-    "alignment_num": "3",
-    "orig_lang_words": ",1479816,1479817,",
-    "target_lang_words": ",1266768,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1479816,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "1",
-        "word_num": 4,
-        "word": "ἡ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1479817,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "1",
-        "word_num": 5,
-        "word": "ἀληθινή",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,AR,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ ἀληθινή",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1266768,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "1",
-        "word_num": 3,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ ἀληθινή = true",
-    "frequency": 0.03571428571428571,
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -460,248 +162,8 @@
     "targetWordsTxt": "true",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀληθινὸν = true",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500723",
-    "book_id": "jhn",
-    "chapter": "19",
-    "verse": "35",
-    "alignment_num": "6",
-    "orig_lang_words": ",1482849,",
-    "target_lang_words": ",1270739,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1482849,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "35",
-        "word_num": 5,
-        "word": "ἀληθινὴ",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,NP,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀληθινὴ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1270739,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "35",
-        "word_num": 11,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀληθινὴ = true",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545135",
-    "book_id": "1th",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "23",
-    "orig_lang_words": ",1529080,",
-    "target_lang_words": ",1334049,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529080,
-        "book_id": "1th",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 23,
-        "word": "ἀληθινῷ",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,NS,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "ἀληθινῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1334049,
-        "book_id": "1th",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 28,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀληθινῷ = true",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553018",
-    "book_id": "heb",
-    "chapter": "8",
-    "verse": "2",
-    "alignment_num": "6",
-    "orig_lang_words": ",1537167,1537168,",
-    "target_lang_words": ",1345344,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1537167,
-        "book_id": "heb",
-        "chapter": "8",
-        "verse": "2",
-        "word_num": 6,
-        "word": "τῆς",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GFS,"
-      },
-      {
-        "id": 1537168,
-        "book_id": "heb",
-        "chapter": "8",
-        "verse": "2",
-        "word_num": 7,
-        "word": "ἀληθινῆς",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,AR,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "τῆς ἀληθινῆς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1345344,
-        "book_id": "heb",
-        "chapter": "8",
-        "verse": "2",
-        "word_num": 10,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῆς ἀληθινῆς = true",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553668",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "24",
-    "alignment_num": "10",
-    "orig_lang_words": ",1537839,",
-    "target_lang_words": ",1346311,1346312,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537839,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "24",
-        "word_num": 9,
-        "word": "ἀληθινῶν",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "ἀληθινῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1346311,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "24",
-        "word_num": 20,
-        "word": "true",
-        "occurrence": 1
-      },
-      {
-        "id": 1346312,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "24",
-        "word_num": 21,
-        "word": "one",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true one",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀληθινῶν = true one",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554019",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "22",
-    "alignment_num": "2",
-    "orig_lang_words": ",1538223,",
-    "target_lang_words": ",1346881,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538223,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "22",
-        "word_num": 2,
-        "word": "ἀληθινῆς",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,AA,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἀληθινῆς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346881,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "22",
-        "word_num": 4,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀληθινῆς = true",
-    "frequency": 0.03571428571428571,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -757,7 +219,650 @@
     "targetWordsTxt": "true",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ ἀληθινὸν = true",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489662",
+    "book_id": "jhn",
+    "chapter": "4",
+    "verse": "23",
+    "alignment_num": "8",
+    "orig_lang_words": ",1470833,1470834,",
+    "target_lang_words": ",1255506,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1470833,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "23",
+        "word_num": 7,
+        "word": "οἱ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMP,"
+      },
+      {
+        "id": 1470834,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "23",
+        "word_num": 8,
+        "word": "ἀληθινοὶ",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,AA,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "οἱ ἀληθινοὶ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1255506,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "23",
+        "word_num": 10,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οἱ ἀληθινοὶ = true",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569933",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "9",
+    "alignment_num": "19",
+    "orig_lang_words": ",1555570,",
+    "target_lang_words": ",1369801,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555570,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "9",
+        "word_num": 20,
+        "word": "ἀληθινοὶ",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,NP,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀληθινοὶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369801,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "9",
+        "word_num": 28,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀληθινοὶ = true",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489868",
+    "book_id": "jhn",
+    "chapter": "4",
+    "verse": "37",
+    "alignment_num": "6",
+    "orig_lang_words": ",1471056,",
+    "target_lang_words": ",1255789,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471056,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "37",
+        "word_num": 6,
+        "word": "ἀληθινὸς",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀληθινὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1255789,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "37",
+        "word_num": 6,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀληθινὸς = true",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492465",
+    "book_id": "jhn",
+    "chapter": "7",
+    "verse": "28",
+    "alignment_num": "25",
+    "orig_lang_words": ",1473891,",
+    "target_lang_words": ",1259280,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473891,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "28",
+        "word_num": 22,
+        "word": "ἀληθινὸς",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀληθινὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1259280,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "28",
+        "word_num": 32,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀληθινὸς = true",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561821",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "20",
+    "alignment_num": "26",
+    "orig_lang_words": ",1546602,",
+    "target_lang_words": ",1358617,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546602,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 30,
+        "word": "ἀληθινὸς",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,AA,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀληθινὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358617,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 42,
+        "word": "true",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀληθινὸς = true",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491423",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "32",
+    "alignment_num": "22",
+    "orig_lang_words": ",1472756,1472757,",
+    "target_lang_words": ",1257930,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1472756,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "32",
+        "word_num": 29,
+        "word": "τὸν",
+        "occurrence": 3,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMS,"
+      },
+      {
+        "id": 1472757,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "32",
+        "word_num": 30,
+        "word": "ἀληθινόν",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,AR,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "τὸν ἀληθινόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1257930,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "32",
+        "word_num": 28,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸν ἀληθινόν = true",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492945",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "16",
+    "alignment_num": "7",
+    "orig_lang_words": ",1474540,",
+    "target_lang_words": ",1260095,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1474540,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "16",
+        "word_num": 9,
+        "word": "ἀληθινή",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,NP,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀληθινή",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260095,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "16",
+        "word_num": 7,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀληθινή = true",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497856",
+    "book_id": "jhn",
+    "chapter": "15",
+    "verse": "1",
+    "alignment_num": "3",
+    "orig_lang_words": ",1479816,1479817,",
+    "target_lang_words": ",1266768,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1479816,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "1",
+        "word_num": 4,
+        "word": "ἡ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1479817,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "1",
+        "word_num": 5,
+        "word": "ἀληθινή",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,AR,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ ἀληθινή",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1266768,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "1",
+        "word_num": 3,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ ἀληθινή = true",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500723",
+    "book_id": "jhn",
+    "chapter": "19",
+    "verse": "35",
+    "alignment_num": "6",
+    "orig_lang_words": ",1482849,",
+    "target_lang_words": ",1270739,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1482849,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "35",
+        "word_num": 5,
+        "word": "ἀληθινὴ",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,NP,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀληθινὴ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1270739,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "35",
+        "word_num": 11,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀληθινὴ = true",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545135",
+    "book_id": "1th",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "23",
+    "orig_lang_words": ",1529080,",
+    "target_lang_words": ",1334049,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529080,
+        "book_id": "1th",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 23,
+        "word": "ἀληθινῷ",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,NS,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ἀληθινῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334049,
+        "book_id": "1th",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 28,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀληθινῷ = true",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553018",
+    "book_id": "heb",
+    "chapter": "8",
+    "verse": "2",
+    "alignment_num": "6",
+    "orig_lang_words": ",1537167,1537168,",
+    "target_lang_words": ",1345344,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1537167,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "2",
+        "word_num": 6,
+        "word": "τῆς",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1537168,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "2",
+        "word_num": 7,
+        "word": "ἀληθινῆς",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,AR,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς ἀληθινῆς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345344,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "2",
+        "word_num": 10,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῆς ἀληθινῆς = true",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554019",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "22",
+    "alignment_num": "2",
+    "orig_lang_words": ",1538223,",
+    "target_lang_words": ",1346881,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538223,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "22",
+        "word_num": 2,
+        "word": "ἀληθινῆς",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,AA,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀληθινῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346881,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "22",
+        "word_num": 4,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀληθινῆς = true",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553668",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "24",
+    "alignment_num": "10",
+    "orig_lang_words": ",1537839,",
+    "target_lang_words": ",1346311,1346312,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537839,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "24",
+        "word_num": 9,
+        "word": "ἀληθινῶν",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,NS,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἀληθινῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1346311,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "24",
+        "word_num": 20,
+        "word": "true",
+        "occurrence": 1
+      },
+      {
+        "id": 1346312,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "24",
+        "word_num": 21,
+        "word": "one",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true one",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀληθινῶν = true one",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -840,7 +945,8 @@
     "targetWordsTxt": "him who is true",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τὸν Ἀληθινόν = him who is true",
-    "frequency": 0.03571428571428571,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -932,51 +1038,8 @@
     "targetWordsTxt": "the one who is true",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τῷ Ἀληθινῷ = the one who is true",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561821",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "20",
-    "alignment_num": "26",
-    "orig_lang_words": ",1546602,",
-    "target_lang_words": ",1358617,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546602,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "20",
-        "word_num": 30,
-        "word": "ἀληθινὸς",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,AA,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀληθινὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358617,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "20",
-        "word_num": 42,
-        "word": "true",
-        "occurrence": 3
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀληθινὸς = true",
-    "frequency": 0.10714285714285714,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1029,7 +1092,53 @@
     "targetWordsTxt": "true one",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Ἀληθινός = true one",
-    "frequency": 0.03571428571428571,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569982",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "11",
+    "alignment_num": "15",
+    "orig_lang_words": ",1555628,",
+    "target_lang_words": ",1369872,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555628,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "11",
+        "word_num": 17,
+        "word": "Ἀληθινός",
+        "occurrence": 1,
+        "strong": "G02280",
+        "lemma": "ἀληθινός",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "Ἀληθινός",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369872,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "11",
+        "word_num": 20,
+        "word": "true",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "true",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀληθινός = true",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1073,7 +1182,8 @@
     "targetWordsTxt": "true",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀληθινός = true",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1117,7 +1227,8 @@
     "targetWordsTxt": "true",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀληθινός = true",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1161,7 +1272,8 @@
     "targetWordsTxt": "true",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀληθιναὶ = true",
-    "frequency": 0.03571428571428571,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1214,7 +1326,8 @@
     "targetWordsTxt": "are true",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀληθιναὶ = are true",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1267,95 +1380,8 @@
     "targetWordsTxt": "are true",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀληθιναὶ = are true",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569933",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "9",
-    "alignment_num": "19",
-    "orig_lang_words": ",1555570,",
-    "target_lang_words": ",1369801,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555570,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "9",
-        "word_num": 20,
-        "word": "ἀληθινοὶ",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,NP,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἀληθινοὶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369801,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "9",
-        "word_num": 28,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀληθινοὶ = true",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569982",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "11",
-    "alignment_num": "15",
-    "orig_lang_words": ",1555628,",
-    "target_lang_words": ",1369872,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555628,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "11",
-        "word_num": 17,
-        "word": "Ἀληθινός",
-        "occurrence": 1,
-        "strong": "G02280",
-        "lemma": "ἀληθινός",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "Ἀληθινός",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369872,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "11",
-        "word_num": 20,
-        "word": "true",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "true",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀληθινός = true",
-    "frequency": 0.03571428571428571,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1399,7 +1425,8 @@
     "targetWordsTxt": "true",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀληθινοί = true",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1443,7 +1470,8 @@
     "targetWordsTxt": "true",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀληθινοί = true",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -48,7 +48,8 @@
     "targetWordsTxt": "are honorable",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σεμνά = are honorable",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -110,7 +111,53 @@
     "targetWordsTxt": "must be dignified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "σεμνούς = must be dignified",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550248",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "2",
+    "alignment_num": "3",
+    "orig_lang_words": ",1534281,",
+    "target_lang_words": ",1341233,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534281,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 3,
+        "word": "σεμνούς",
+        "occurrence": 1,
+        "strong": "G45860",
+        "lemma": "σεμνός",
+        "morph": "Gr,NP,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "σεμνούς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341233,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 6,
+        "word": "dignified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "dignified",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σεμνούς = dignified",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -172,51 +219,8 @@
     "targetWordsTxt": "should be dignified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "σεμνάς = should be dignified",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550248",
-    "book_id": "tit",
-    "chapter": "2",
-    "verse": "2",
-    "alignment_num": "3",
-    "orig_lang_words": ",1534281,",
-    "target_lang_words": ",1341233,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534281,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 3,
-        "word": "σεμνούς",
-        "occurrence": 1,
-        "strong": "G45860",
-        "lemma": "σεμνός",
-        "morph": "Gr,NP,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "σεμνούς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341233,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 6,
-        "word": "dignified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "dignified",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σεμνούς = dignified",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

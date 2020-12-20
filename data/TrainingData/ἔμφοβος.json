@@ -39,7 +39,8 @@
     "targetWordsTxt": "terrified",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐμφόβων = terrified",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,95 +93,8 @@
     "targetWordsTxt": "very afraid",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἔμφοβοι = very afraid",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508013",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "4",
-    "alignment_num": "6",
-    "orig_lang_words": ",1490413,",
-    "target_lang_words": ",1280481,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490413,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "4",
-        "word_num": 5,
-        "word": "ἔμφοβος",
-        "occurrence": 1,
-        "strong": "G17190",
-        "lemma": "ἔμφοβος",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἔμφοβος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1280481,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "4",
-        "word_num": 7,
-        "word": "frightened",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "frightened",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἔμφοβος = frightened",
-    "frequency": 0.4,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "517414",
-    "book_id": "act",
-    "chapter": "24",
-    "verse": "25",
-    "alignment_num": "14",
-    "orig_lang_words": ",1500092,",
-    "target_lang_words": ",1293313,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1500092,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "25",
-        "word_num": 12,
-        "word": "ἔμφοβος",
-        "occurrence": 1,
-        "strong": "G17190",
-        "lemma": "ἔμφοβος",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἔμφοβος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1293313,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "25",
-        "word_num": 19,
-        "word": "frightened",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "frightened",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἔμφοβος = frightened",
-    "frequency": 0.4,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -224,7 +138,98 @@
     "targetWordsTxt": "terrified",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἔμφοβοι = terrified",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508013",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "4",
+    "alignment_num": "6",
+    "orig_lang_words": ",1490413,",
+    "target_lang_words": ",1280481,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490413,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "4",
+        "word_num": 5,
+        "word": "ἔμφοβος",
+        "occurrence": 1,
+        "strong": "G17190",
+        "lemma": "ἔμφοβος",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἔμφοβος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1280481,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "4",
+        "word_num": 7,
+        "word": "frightened",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "frightened",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔμφοβος = frightened",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "517414",
+    "book_id": "act",
+    "chapter": "24",
+    "verse": "25",
+    "alignment_num": "14",
+    "orig_lang_words": ",1500092,",
+    "target_lang_words": ",1293313,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500092,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "25",
+        "word_num": 12,
+        "word": "ἔμφοβος",
+        "occurrence": 1,
+        "strong": "G17190",
+        "lemma": "ἔμφοβος",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἔμφοβος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1293313,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "25",
+        "word_num": 19,
+        "word": "frightened",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "frightened",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔμφοβος = frightened",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

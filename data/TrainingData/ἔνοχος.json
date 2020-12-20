@@ -39,7 +39,8 @@
     "targetWordsTxt": "guilty",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἔνοχός = guilty",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "deserving",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἔνοχον = deserving",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,51 +129,8 @@
     "targetWordsTxt": "guilty",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἔνοχος = guilty",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551461",
-    "book_id": "heb",
-    "chapter": "2",
-    "verse": "15",
-    "alignment_num": "7",
-    "orig_lang_words": ",1535538,",
-    "target_lang_words": ",1343005,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535538,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 10,
-        "word": "ἔνοχοι",
-        "occurrence": 1,
-        "strong": "G17770",
-        "lemma": "ἔνοχος",
-        "morph": "Gr,NS,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἔνοχοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1343005,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 13,
-        "word": "subject",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "subject",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἔνοχοι = subject",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -233,7 +192,53 @@
     "targetWordsTxt": "guilty of breaking",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἔνοχος = guilty of breaking",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551461",
+    "book_id": "heb",
+    "chapter": "2",
+    "verse": "15",
+    "alignment_num": "7",
+    "orig_lang_words": ",1535538,",
+    "target_lang_words": ",1343005,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535538,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 10,
+        "word": "ἔνοχοι",
+        "occurrence": 1,
+        "strong": "G17770",
+        "lemma": "ἔνοχος",
+        "morph": "Gr,NS,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἔνοχοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1343005,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 13,
+        "word": "subject",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "subject",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔνοχοι = subject",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -22,7 +22,7 @@ def create_connection(path):
         connection = sqlite3.connect(path)
         print("Connection to SQLite DB successful")
     except Error as e:
-        print(f"The error '{e}' occurred")
+        print(f"create_connection - The error '{e}' occurred")
 
     return connection
 
@@ -33,7 +33,7 @@ def execute_query(connection, query):
         connection.commit()
         # print("Query executed successfully")
     except Error as e:
-        print(f"The error '{e}' occurred")
+        print(f"execute_query - The error '{e}' occurred, query: {query}")
 
 def execute_read_query(connection, query):
     cursor = connection.cursor()
@@ -43,7 +43,7 @@ def execute_read_query(connection, query):
         result = cursor.fetchall()
         return result
     except Error as e:
-        print(f"The error '{e}' occurred")
+        print(f"execute_read_query - The error '{e}' occurred, query: {query}")
 
 def execute_read_query_dict(connection, query):
     connection.row_factory = sqlite3.Row
@@ -59,7 +59,7 @@ def execute_read_query_dict(connection, query):
             result.append(row)
         return result
     except Error as e:
-        print(f"The error '{e}' occurred")
+        print(f"execute_read_query_dict - The error '{e}' occurred, query: {query}")
 
 create_original_words_table = f"""
 CREATE TABLE IF NOT EXISTS {original_words_table} (
@@ -650,6 +650,7 @@ def findAlignmentsForWord(connection, word, searchOriginal = True, searchLemma =
     if totalCount == 0:
         return None
 
+    # TODO blm: switch frequency counts from lemma
     results = addDataToAlignmentsAndClean(alignments)
     df = pd.DataFrame(results)  # load as dataframe so we can to cool stuff
     return df
@@ -665,6 +666,7 @@ def addDataToAlignmentsAndClean(alignments):
             count = countsMap[alignmentText]
             ratio = count / totalCount
             alignment['frequency'] = ratio
+            alignment['matchCount'] = int(count)
         wordCount = alignment['alignmentTargetWords']
         if wordCount > 1:
             words = alignment['targetWordsTxt'].split(' ')
@@ -687,6 +689,35 @@ def addDataToAlignmentsAndClean(alignments):
         alignment['origWordsBetween'] = alignment['origSpan'] - (alignment['alignmentOrigWords'] - 1)
         alignment['targetWordsBetween'] = alignment['targetSpan'] - (alignment['alignmentTargetWords'] - 1)
     return alignments
+
+def splitLemmasAndAddData(alignments, lemma):
+    alignmentsList = {}
+
+    for alignment in alignments:
+        origWords = alignment['origWords']
+        foundLemmaWord = None
+        for word in origWords:
+            if word['lemma'] == lemma:
+                # print(f"found word: {word}")
+                foundLemmaWord = word
+                break
+
+        if foundLemmaWord:
+            originalWord = word['word']
+            if originalWord in alignmentsList:
+                alignmentsList[originalWord].append(alignment)
+            else:
+                alignmentsList[originalWord] = [ alignment ]
+        else:
+            print(f"Lemma '{lemma}' missing in alignment: {alignment}")
+
+    newAlignments = []
+    for originalWord in alignmentsList.keys():
+        alignments = alignmentsList[originalWord]
+        newAlignments_ = addDataToAlignmentsAndClean(alignments)
+        newAlignments.extend(newAlignments_)
+
+    return newAlignments
 
 def findOriginalWordsForLemma(connection, lemma, maxRows = None):
     foundWords = findWord(connection, lemma, searchOriginal = True, searchLemma = True, caseInsensitive = True, maxRows = maxRows )
@@ -754,7 +785,7 @@ def saveUniqueLemmasAlignedWithTargetWords(connection, keyTermsPath, wordList, t
     file.writeJsonFile(keyTermsPath, data) # update file
     return unique
 
-def findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = False):
+def findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLemma = True, caseInsensitive = False, splitLemma = None):
     foundWords = findWords(connection, wordList, searchOriginal, searchLemma, caseInsensitive)
     print (f" for '{wordList}' found {len(foundWords)} usages in database")
 
@@ -765,7 +796,10 @@ def findAlignmentsForWords(connection, wordList, searchOriginal = True, searchLe
     if totalCount == 0:
         return None
 
-    results = addDataToAlignmentsAndClean(alignments)
+    if splitLemma: # if we want to split this lemma into individual morphs
+        results = splitLemmasAndAddData(alignments, splitLemma)
+    else:
+        results = addDataToAlignmentsAndClean(alignments)
     return results
 
 def filterForMinLen(sequence, minLen):
@@ -804,13 +838,13 @@ def saveAlignmentDataForWords(connection, key, wordList_, searchOriginal = True,
         # get alignments for each individual word
         for word in wordList:
             alignments_df = saveAlignmentDataForWordsSub(connection, word, [word], baseFolder, searchLemma, searchOriginal,
-                                                         caseInsensitive)
+                                                         caseInsensitive, splitLemma = word)
             alignmentsSet[word] = alignments_df
 
     return alignmentsSet
 
-def saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLemma, searchOriginal, caseInsensitive):
-    alignments = findAlignmentsForWords(connection, wordList, searchOriginal, searchLemma, caseInsensitive)
+def saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLemma, searchOriginal, caseInsensitive, splitLemma = None):
+    alignments = findAlignmentsForWords(connection, wordList, searchOriginal, searchLemma, caseInsensitive, splitLemma = splitLemma)
     if (not alignments) or (len(alignments) < 1):
         print(f"could not find alignments for {wordList}, skipping")
         return []
@@ -920,7 +954,7 @@ def describeAlignments(alignments, silent = False):
 
     return results
 
-def findLemmasForQuotes(connection, quotesPath,lemmasPath):
+def findLemmasForQuotes(connection, quotesPath, lemmasPath):
     data = file.readJsonFile(quotesPath)
 
     origWords = {}

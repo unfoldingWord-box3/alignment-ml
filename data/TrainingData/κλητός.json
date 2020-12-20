@@ -39,7 +39,53 @@
     "targetWordsTxt": "called",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κλητὸς = called",
-    "frequency": 0.2222222222222222,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526416",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "1",
+    "orig_lang_words": ",1509746,",
+    "target_lang_words": ",1306840,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509746,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 1,
+        "word": "κλητὸς",
+        "occurrence": 1,
+        "strong": "G28220",
+        "lemma": "κλητός",
+        "morph": "Gr,AA,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "κλητὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1306840,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 1,
+        "word": "called",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "called",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κλητὸς = called",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -110,7 +156,62 @@
     "targetWordsTxt": "called to belong to",
     "alignmentTargetWords": 4,
     "alignmentTxt": "κλητοὶ = called to belong to",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569141",
+    "book_id": "rev",
+    "chapter": "17",
+    "verse": "14",
+    "alignment_num": "21",
+    "orig_lang_words": ",1554655,",
+    "target_lang_words": ",1368723,1368724,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554655,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 21,
+        "word": "κλητοὶ",
+        "occurrence": 1,
+        "strong": "G28220",
+        "lemma": "κλητός",
+        "morph": "Gr,NS,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "κλητοὶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1368723,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 27,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 1368724,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 28,
+        "word": "called",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "are called",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κλητοὶ = are called",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -172,7 +273,8 @@
     "targetWordsTxt": "who are called",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κλητοῖς = who are called",
-    "frequency": 0.2222222222222222,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -216,51 +318,8 @@
     "targetWordsTxt": "called",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κλητοῖς = called",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526416",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "1",
-    "orig_lang_words": ",1509746,",
-    "target_lang_words": ",1306840,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1509746,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 1,
-        "word": "κλητὸς",
-        "occurrence": 1,
-        "strong": "G28220",
-        "lemma": "κλητός",
-        "morph": "Gr,AA,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "κλητὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1306840,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 1,
-        "word": "called",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "called",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κλητὸς = called",
-    "frequency": 0.2222222222222222,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -322,7 +381,8 @@
     "targetWordsTxt": "called to be",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κλητοῖς = called to be",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -396,7 +456,8 @@
     "targetWordsTxt": "who are called",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τοῖς κλητοῖς = who are called",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -458,60 +519,8 @@
     "targetWordsTxt": "who are called",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κλητοῖς = who are called",
-    "frequency": 0.2222222222222222,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569141",
-    "book_id": "rev",
-    "chapter": "17",
-    "verse": "14",
-    "alignment_num": "21",
-    "orig_lang_words": ",1554655,",
-    "target_lang_words": ",1368723,1368724,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554655,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 21,
-        "word": "κλητοὶ",
-        "occurrence": 1,
-        "strong": "G28220",
-        "lemma": "κλητός",
-        "morph": "Gr,NS,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "κλητοὶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1368723,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 27,
-        "word": "are",
-        "occurrence": 1
-      },
-      {
-        "id": 1368724,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 28,
-        "word": "called",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "are called",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κλητοὶ = are called",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

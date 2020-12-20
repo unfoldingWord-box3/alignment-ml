@@ -48,7 +48,8 @@
     "targetWordsTxt": "of blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "αἵματος = of blood",
-    "frequency": 0.03488372093023256,
+    "frequency": 0.1111111111111111,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -146,63 +147,8 @@
     "targetWordsTxt": "flow of blood",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἡ πηγὴ τοῦ αἵματος = flow of blood",
-    "frequency": 0.011627906976744186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "466936",
-    "book_id": "mrk",
-    "chapter": "14",
-    "verse": "24",
-    "alignment_num": "5",
-    "orig_lang_words": ",1447311,1447312,",
-    "target_lang_words": ",1224242,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1447311,
-        "book_id": "mrk",
-        "chapter": "14",
-        "verse": "24",
-        "word_num": 5,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNS,"
-      },
-      {
-        "id": 1447312,
-        "book_id": "mrk",
-        "chapter": "14",
-        "verse": "24",
-        "word_num": 6,
-        "word": "αἷμά",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τὸ αἷμά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1224242,
-        "book_id": "mrk",
-        "chapter": "14",
-        "verse": "24",
-        "word_num": 7,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ αἷμά = blood",
-    "frequency": 0.023255813953488372,
+    "frequency": 0.037037037037037035,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -255,7 +201,8 @@
     "targetWordsTxt": "of blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "αἵματος = of blood",
-    "frequency": 0.03488372093023256,
+    "frequency": 0.1111111111111111,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -299,51 +246,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "478087",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "50",
-    "alignment_num": "7",
-    "orig_lang_words": ",1458954,",
-    "target_lang_words": ",1239754,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458954,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "50",
-        "word_num": 3,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1239754,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "50",
-        "word_num": 9,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -396,7 +300,8 @@
     "targetWordsTxt": "the blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "αἵματος = the blood",
-    "frequency": 0.03488372093023256,
+    "frequency": 0.1111111111111111,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -449,119 +354,8 @@
     "targetWordsTxt": "the blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "αἵματος = the blood",
-    "frequency": 0.03488372093023256,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "479190",
-    "book_id": "luk",
-    "chapter": "13",
-    "verse": "1",
-    "alignment_num": "13",
-    "orig_lang_words": ",1460086,1460087,",
-    "target_lang_words": ",1241290,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1460086,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 13,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1460087,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 14,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ αἷμα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1241290,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 15,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ αἷμα = blood",
-    "frequency": 0.06976744186046512,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485105",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "20",
-    "alignment_num": "15",
-    "orig_lang_words": ",1466065,1466066,",
-    "target_lang_words": ",1249484,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1466065,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "20",
-        "word_num": 15,
-        "word": "τῷ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1466066,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "20",
-        "word_num": 16,
-        "word": "αἵματί",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ αἵματί",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1249484,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "20",
-        "word_num": 21,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ αἵματί = blood",
-    "frequency": 0.023255813953488372,
+    "frequency": 0.1111111111111111,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -605,504 +399,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487681",
-    "book_id": "jhn",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "5",
-    "orig_lang_words": ",1468681,",
-    "target_lang_words": ",1252893,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468681,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 3,
-        "word": "αἱμάτων",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "αἱμάτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1252893,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 5,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἱμάτων = blood",
-    "frequency": 0.011627906976744186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491758",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "53",
-    "alignment_num": "18",
-    "orig_lang_words": ",1473135,1473136,",
-    "target_lang_words": ",1258370,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1473135,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "53",
-        "word_num": 21,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1473136,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "53",
-        "word_num": 22,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ αἷμα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258370,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "53",
-        "word_num": 24,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ αἷμα = blood",
-    "frequency": 0.06976744186046512,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491771",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "54",
-    "alignment_num": "6",
-    "orig_lang_words": ",1473150,1473151,",
-    "target_lang_words": ",1258387,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1473150,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "54",
-        "word_num": 8,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1473151,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "54",
-        "word_num": 9,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ αἷμα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258387,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "54",
-        "word_num": 9,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ αἷμα = blood",
-    "frequency": 0.06976744186046512,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491790",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "55",
-    "alignment_num": "8",
-    "orig_lang_words": ",1473169,1473170,",
-    "target_lang_words": ",1258409,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1473169,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "55",
-        "word_num": 8,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNS,"
-      },
-      {
-        "id": 1473170,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "55",
-        "word_num": 9,
-        "word": "αἷμά",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τὸ αἷμά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258409,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "55",
-        "word_num": 8,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ αἷμά = blood",
-    "frequency": 0.023255813953488372,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491800",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "56",
-    "alignment_num": "6",
-    "orig_lang_words": ",1473183,1473184,",
-    "target_lang_words": ",1258421,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1473183,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "56",
-        "word_num": 8,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1473184,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "56",
-        "word_num": 9,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ αἷμα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258421,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "56",
-        "word_num": 8,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ αἷμα = blood",
-    "frequency": 0.06976744186046512,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500713",
-    "book_id": "jhn",
-    "chapter": "19",
-    "verse": "34",
-    "alignment_num": "10",
-    "orig_lang_words": ",1482841,",
-    "target_lang_words": ",1270723,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1482841,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "34",
-        "word_num": 12,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1270723,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "34",
-        "word_num": 13,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502311",
-    "book_id": "act",
-    "chapter": "1",
-    "verse": "19",
-    "alignment_num": "19",
-    "orig_lang_words": ",1484537,",
-    "target_lang_words": ",1272910,1272911,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484537,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 20,
-        "word": "Αἵματος",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "Αἵματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1272910,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 22,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1272911,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 23,
-        "word": "Blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of Blood",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "Αἵματος = of Blood",
-    "frequency": 0.011627906976744186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502733",
-    "book_id": "act",
-    "chapter": "2",
-    "verse": "19",
-    "alignment_num": "12",
-    "orig_lang_words": ",1484981,",
-    "target_lang_words": ",1273453,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484981,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "19",
-        "word_num": 13,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1273453,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "19",
-        "word_num": 14,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502748",
-    "book_id": "act",
-    "chapter": "2",
-    "verse": "20",
-    "alignment_num": "9",
-    "orig_lang_words": ",1484996,",
-    "target_lang_words": ",1273471,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484996,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "20",
-        "word_num": 9,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1273471,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "20",
-        "word_num": 11,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504884",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "28",
-    "alignment_num": "21",
-    "orig_lang_words": ",1487202,",
-    "target_lang_words": ",1276298,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487202,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "28",
-        "word_num": 24,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276298,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "28",
-        "word_num": 27,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1146,7 +444,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1199,63 +498,8 @@
     "targetWordsTxt": "from blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "αἵματος = from blood",
-    "frequency": 0.011627906976744186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513251",
-    "book_id": "act",
-    "chapter": "18",
-    "verse": "6",
-    "alignment_num": "14",
-    "orig_lang_words": ",1495808,1495809,",
-    "target_lang_words": ",1287601,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1495808,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 11,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNS,"
-      },
-      {
-        "id": 1495809,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 12,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τὸ αἷμα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1287601,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 18,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ αἷμα = blood",
-    "frequency": 0.06976744186046512,
+    "frequency": 0.037037037037037035,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1299,7 +543,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1343,248 +588,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "515456",
-    "book_id": "act",
-    "chapter": "21",
-    "verse": "25",
-    "alignment_num": "13",
-    "orig_lang_words": ",1498102,",
-    "target_lang_words": ",1290600,1290601,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1498102,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "25",
-        "word_num": 14,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1290600,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "25",
-        "word_num": 20,
-        "word": "from",
-        "occurrence": 2
-      },
-      {
-        "id": 1290601,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "25",
-        "word_num": 21,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "from blood",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "αἷμα = from blood",
-    "frequency": 0.011627906976744186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516143",
-    "book_id": "act",
-    "chapter": "22",
-    "verse": "20",
-    "alignment_num": "2",
-    "orig_lang_words": ",1498798,",
-    "target_lang_words": ",1291498,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1498798,
-        "book_id": "act",
-        "chapter": "22",
-        "verse": "20",
-        "word_num": 4,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1291498,
-        "book_id": "act",
-        "chapter": "22",
-        "verse": "20",
-        "word_num": 2,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520987",
-    "book_id": "rom",
-    "chapter": "3",
-    "verse": "15",
-    "alignment_num": "4",
-    "orig_lang_words": ",1503832,",
-    "target_lang_words": ",1298530,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503832,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 5,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298530,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 7,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521098",
-    "book_id": "rom",
-    "chapter": "3",
-    "verse": "25",
-    "alignment_num": "8",
-    "orig_lang_words": ",1503952,",
-    "target_lang_words": ",1298701,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503952,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 10,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298701,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 12,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521663",
-    "book_id": "rom",
-    "chapter": "5",
-    "verse": "9",
-    "alignment_num": "7",
-    "orig_lang_words": ",1504583,1504584,",
-    "target_lang_words": ",1299578,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1504583,
-        "book_id": "rom",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 6,
-        "word": "τῷ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1504584,
-        "book_id": "rom",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 7,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ αἵματι",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1299578,
-        "book_id": "rom",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 10,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ αἵματι = blood",
-    "frequency": 0.03488372093023256,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1628,51 +633,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "530533",
-    "book_id": "1co",
-    "chapter": "11",
-    "verse": "25",
-    "alignment_num": "14",
-    "orig_lang_words": ",1513993,",
-    "target_lang_words": ",1312950,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513993,
-        "book_id": "1co",
-        "chapter": "11",
-        "verse": "25",
-        "word_num": 18,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1312950,
-        "book_id": "1co",
-        "chapter": "11",
-        "verse": "25",
-        "word_num": 20,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1716,95 +678,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532585",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "50",
-    "alignment_num": "7",
-    "orig_lang_words": ",1516100,",
-    "target_lang_words": ",1315967,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516100,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "50",
-        "word_num": 7,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1315967,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "50",
-        "word_num": 8,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537637",
-    "book_id": "gal",
-    "chapter": "1",
-    "verse": "16",
-    "alignment_num": "17",
-    "orig_lang_words": ",1521299,",
-    "target_lang_words": ",1323302,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1521299,
-        "book_id": "gal",
-        "chapter": "1",
-        "verse": "16",
-        "word_num": 17,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1323302,
-        "book_id": "gal",
-        "chapter": "1",
-        "verse": "16",
-        "word_num": 23,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1860,95 +735,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ αἵματος = blood",
-    "frequency": 0.011627906976744186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540142",
-    "book_id": "eph",
-    "chapter": "2",
-    "verse": "13",
-    "alignment_num": "14",
-    "orig_lang_words": ",1523889,",
-    "target_lang_words": ",1327052,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523889,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 14,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1327052,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 17,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541716",
-    "book_id": "eph",
-    "chapter": "6",
-    "verse": "12",
-    "alignment_num": "6",
-    "orig_lang_words": ",1525462,",
-    "target_lang_words": ",1329057,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525462,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 7,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1329057,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 6,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.037037037037037035,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1992,7 +780,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2036,7 +825,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2080,7 +870,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2133,7 +924,8 @@
     "targetWordsTxt": "the blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "αἵματος = the blood",
-    "frequency": 0.03488372093023256,
+    "frequency": 0.1111111111111111,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2177,95 +969,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553466",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "13",
-    "alignment_num": "3",
-    "orig_lang_words": ",1537638,",
-    "target_lang_words": ",1346005,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537638,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 3,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346005,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 3,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553485",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "14",
-    "alignment_num": "4",
-    "orig_lang_words": ",1537657,",
-    "target_lang_words": ",1346040,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537657,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 3,
-        "word": "αἷμα",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "αἷμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346040,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 5,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2309,7 +1014,1298 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554694",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "28",
+    "alignment_num": "8",
+    "orig_lang_words": ",1538926,",
+    "target_lang_words": ",1347952,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538926,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "28",
+        "word_num": 8,
+        "word": "αἵματος",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1347952,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "28",
+        "word_num": 11,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματος = blood",
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554946",
+    "book_id": "heb",
+    "chapter": "12",
+    "verse": "4",
+    "alignment_num": "4",
+    "orig_lang_words": ",1539179,",
+    "target_lang_words": ",1348324,1348325,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539179,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "4",
+        "word_num": 2,
+        "word": "αἵματος",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1348324,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "4",
+        "word_num": 8,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1348325,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "4",
+        "word_num": 9,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of blood",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "αἵματος = of blood",
+    "frequency": 0.1111111111111111,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555505",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "12",
+    "alignment_num": "14",
+    "orig_lang_words": ",1539749,",
+    "target_lang_words": ",1349165,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539749,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "12",
+        "word_num": 8,
+        "word": "αἵματος",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349165,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "12",
+        "word_num": 17,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματος = blood",
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557350",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "2",
+    "alignment_num": "11",
+    "orig_lang_words": ",1541724,",
+    "target_lang_words": ",1351852,1351853,1351854,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541724,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 11,
+        "word": "αἵματος",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1351852,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 21,
+        "word": "of",
+        "occurrence": 2
+      },
+      {
+        "id": 1351853,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 22,
+        "word": "the",
+        "occurrence": 5
+      },
+      {
+        "id": 1351854,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 23,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of the blood",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "αἵματος = of the blood",
+    "frequency": 0.037037037037037035,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561546",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "6",
+    "alignment_num": "6",
+    "orig_lang_words": ",1546292,",
+    "target_lang_words": ",1358223,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546292,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 7,
+        "word": "αἵματος",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358223,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 9,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματος = blood",
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568936",
+    "book_id": "rev",
+    "chapter": "17",
+    "verse": "6",
+    "alignment_num": "6",
+    "orig_lang_words": ",1554443,",
+    "target_lang_words": ",1368445,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554443,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "6",
+        "word_num": 7,
+        "word": "αἵματος",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368445,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "6",
+        "word_num": 9,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματος = blood",
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568942",
+    "book_id": "rev",
+    "chapter": "17",
+    "verse": "6",
+    "alignment_num": "12",
+    "orig_lang_words": ",1554449,",
+    "target_lang_words": ",1368452,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554449,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "6",
+        "word_num": 13,
+        "word": "αἵματος",
+        "occurrence": 2,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368452,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "6",
+        "word_num": 16,
+        "word": "blood",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματος = blood",
+    "frequency": 0.6296296296296297,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "466936",
+    "book_id": "mrk",
+    "chapter": "14",
+    "verse": "24",
+    "alignment_num": "5",
+    "orig_lang_words": ",1447311,1447312,",
+    "target_lang_words": ",1224242,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1447311,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "24",
+        "word_num": 5,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1447312,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "24",
+        "word_num": 6,
+        "word": "αἷμά",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ αἷμά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1224242,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "24",
+        "word_num": 7,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ αἷμά = blood",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491790",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "55",
+    "alignment_num": "8",
+    "orig_lang_words": ",1473169,1473170,",
+    "target_lang_words": ",1258409,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1473169,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "55",
+        "word_num": 8,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1473170,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "55",
+        "word_num": 9,
+        "word": "αἷμά",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ αἷμά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258409,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "55",
+        "word_num": 8,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ αἷμά = blood",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "478087",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "50",
+    "alignment_num": "7",
+    "orig_lang_words": ",1458954,",
+    "target_lang_words": ",1239754,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458954,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "50",
+        "word_num": 3,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1239754,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "50",
+        "word_num": 9,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "479190",
+    "book_id": "luk",
+    "chapter": "13",
+    "verse": "1",
+    "alignment_num": "13",
+    "orig_lang_words": ",1460086,1460087,",
+    "target_lang_words": ",1241290,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1460086,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 13,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1460087,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 14,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ αἷμα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1241290,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 15,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ αἷμα = blood",
+    "frequency": 0.16666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491758",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "53",
+    "alignment_num": "18",
+    "orig_lang_words": ",1473135,1473136,",
+    "target_lang_words": ",1258370,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1473135,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "53",
+        "word_num": 21,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1473136,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "53",
+        "word_num": 22,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ αἷμα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258370,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "53",
+        "word_num": 24,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ αἷμα = blood",
+    "frequency": 0.16666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491771",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "54",
+    "alignment_num": "6",
+    "orig_lang_words": ",1473150,1473151,",
+    "target_lang_words": ",1258387,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1473150,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "54",
+        "word_num": 8,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1473151,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "54",
+        "word_num": 9,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ αἷμα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258387,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "54",
+        "word_num": 9,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ αἷμα = blood",
+    "frequency": 0.16666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491800",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "56",
+    "alignment_num": "6",
+    "orig_lang_words": ",1473183,1473184,",
+    "target_lang_words": ",1258421,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1473183,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "56",
+        "word_num": 8,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1473184,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "56",
+        "word_num": 9,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ αἷμα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258421,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "56",
+        "word_num": 8,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ αἷμα = blood",
+    "frequency": 0.16666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500713",
+    "book_id": "jhn",
+    "chapter": "19",
+    "verse": "34",
+    "alignment_num": "10",
+    "orig_lang_words": ",1482841,",
+    "target_lang_words": ",1270723,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1482841,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "34",
+        "word_num": 12,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1270723,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "34",
+        "word_num": 13,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502733",
+    "book_id": "act",
+    "chapter": "2",
+    "verse": "19",
+    "alignment_num": "12",
+    "orig_lang_words": ",1484981,",
+    "target_lang_words": ",1273453,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484981,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 13,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1273453,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 14,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502748",
+    "book_id": "act",
+    "chapter": "2",
+    "verse": "20",
+    "alignment_num": "9",
+    "orig_lang_words": ",1484996,",
+    "target_lang_words": ",1273471,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484996,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 9,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1273471,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 11,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504884",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "28",
+    "alignment_num": "21",
+    "orig_lang_words": ",1487202,",
+    "target_lang_words": ",1276298,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487202,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "28",
+        "word_num": 24,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276298,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "28",
+        "word_num": 27,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513251",
+    "book_id": "act",
+    "chapter": "18",
+    "verse": "6",
+    "alignment_num": "14",
+    "orig_lang_words": ",1495808,1495809,",
+    "target_lang_words": ",1287601,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1495808,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 11,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1495809,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 12,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ αἷμα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1287601,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 18,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ αἷμα = blood",
+    "frequency": 0.16666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "515456",
+    "book_id": "act",
+    "chapter": "21",
+    "verse": "25",
+    "alignment_num": "13",
+    "orig_lang_words": ",1498102,",
+    "target_lang_words": ",1290600,1290601,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498102,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "25",
+        "word_num": 14,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1290600,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "25",
+        "word_num": 20,
+        "word": "from",
+        "occurrence": 2
+      },
+      {
+        "id": 1290601,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "25",
+        "word_num": 21,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "from blood",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "αἷμα = from blood",
+    "frequency": 0.027777777777777776,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516143",
+    "book_id": "act",
+    "chapter": "22",
+    "verse": "20",
+    "alignment_num": "2",
+    "orig_lang_words": ",1498798,",
+    "target_lang_words": ",1291498,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498798,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "20",
+        "word_num": 4,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1291498,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "20",
+        "word_num": 2,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520987",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "15",
+    "alignment_num": "4",
+    "orig_lang_words": ",1503832,",
+    "target_lang_words": ",1298530,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503832,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 5,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298530,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 7,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532585",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "50",
+    "alignment_num": "7",
+    "orig_lang_words": ",1516100,",
+    "target_lang_words": ",1315967,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516100,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "50",
+        "word_num": 7,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1315967,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "50",
+        "word_num": 8,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541716",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "12",
+    "alignment_num": "6",
+    "orig_lang_words": ",1525462,",
+    "target_lang_words": ",1329057,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525462,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 7,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329057,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 6,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553466",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "13",
+    "alignment_num": "3",
+    "orig_lang_words": ",1537638,",
+    "target_lang_words": ",1346005,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537638,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 3,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346005,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 3,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553485",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "14",
+    "alignment_num": "4",
+    "orig_lang_words": ",1537657,",
+    "target_lang_words": ",1346040,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537657,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 3,
+        "word": "αἷμα",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "αἷμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346040,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 5,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἷμα = blood",
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2353,7 +2349,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2397,148 +2394,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553614",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "21",
-    "alignment_num": "4",
-    "orig_lang_words": ",1537793,",
-    "target_lang_words": ",1346224,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537793,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "21",
-        "word_num": 11,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346224,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "21",
-        "word_num": 8,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553631",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "22",
-    "alignment_num": "7",
-    "orig_lang_words": ",1537799,",
-    "target_lang_words": ",1346246,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537799,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "22",
-        "word_num": 3,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346246,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "22",
-        "word_num": 9,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553694",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "25",
-    "alignment_num": "14",
-    "orig_lang_words": ",1537868,",
-    "target_lang_words": ",1346356,1346357,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537868,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "25",
-        "word_num": 15,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1346356,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "25",
-        "word_num": 28,
-        "word": "the",
-        "occurrence": 3
-      },
-      {
-        "id": 1346357,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "25",
-        "word_num": 29,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the blood",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "αἵματι = the blood",
-    "frequency": 0.011627906976744186,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2591,51 +2448,8 @@
     "targetWordsTxt": "the blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "αἷμα = the blood",
-    "frequency": 0.023255813953488372,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553992",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "19",
-    "alignment_num": "10",
-    "orig_lang_words": ",1538196,",
-    "target_lang_words": ",1346843,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538196,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "19",
-        "word_num": 11,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346843,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "19",
-        "word_num": 14,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
+    "frequency": 0.05555555555555555,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2700,157 +2514,8 @@
     "targetWordsTxt": "the blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸ αἷμα = the blood",
-    "frequency": 0.011627906976744186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554694",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "28",
-    "alignment_num": "8",
-    "orig_lang_words": ",1538926,",
-    "target_lang_words": ",1347952,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538926,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "28",
-        "word_num": 8,
-        "word": "αἵματος",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1347952,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "28",
-        "word_num": 11,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554946",
-    "book_id": "heb",
-    "chapter": "12",
-    "verse": "4",
-    "alignment_num": "4",
-    "orig_lang_words": ",1539179,",
-    "target_lang_words": ",1348324,1348325,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539179,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "4",
-        "word_num": 2,
-        "word": "αἵματος",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1348324,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "4",
-        "word_num": 8,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1348325,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "4",
-        "word_num": 9,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of blood",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "αἵματος = of blood",
-    "frequency": 0.03488372093023256,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555249",
-    "book_id": "heb",
-    "chapter": "12",
-    "verse": "24",
-    "alignment_num": "7",
-    "orig_lang_words": ",1539491,",
-    "target_lang_words": ",1348773,1348774,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539491,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "24",
-        "word_num": 6,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1348773,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "24",
-        "word_num": 10,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1348774,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "24",
-        "word_num": 11,
-        "word": "the",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "to the",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "αἵματι = to the",
-    "frequency": 0.011627906976744186,
+    "frequency": 0.027777777777777776,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2894,201 +2559,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555505",
-    "book_id": "heb",
-    "chapter": "13",
-    "verse": "12",
-    "alignment_num": "14",
-    "orig_lang_words": ",1539749,",
-    "target_lang_words": ",1349165,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539749,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "12",
-        "word_num": 8,
-        "word": "αἵματος",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349165,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "12",
-        "word_num": 17,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555623",
-    "book_id": "heb",
-    "chapter": "13",
-    "verse": "20",
-    "alignment_num": "17",
-    "orig_lang_words": ",1539874,",
-    "target_lang_words": ",1349341,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539874,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "20",
-        "word_num": 16,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349341,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "20",
-        "word_num": 23,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557350",
-    "book_id": "1pe",
-    "chapter": "1",
-    "verse": "2",
-    "alignment_num": "11",
-    "orig_lang_words": ",1541724,",
-    "target_lang_words": ",1351852,1351853,1351854,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541724,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 11,
-        "word": "αἵματος",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1351852,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 21,
-        "word": "of",
-        "occurrence": 2
-      },
-      {
-        "id": 1351853,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 22,
-        "word": "the",
-        "occurrence": 5
-      },
-      {
-        "id": 1351854,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 23,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of the blood",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "αἵματος = of the blood",
-    "frequency": 0.011627906976744186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557626",
-    "book_id": "1pe",
-    "chapter": "1",
-    "verse": "19",
-    "alignment_num": "2",
-    "orig_lang_words": ",1541994,",
-    "target_lang_words": ",1352296,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541994,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 2,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1352296,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 8,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3132,107 +2604,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561546",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "6",
-    "alignment_num": "6",
-    "orig_lang_words": ",1546292,",
-    "target_lang_words": ",1358223,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546292,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 7,
-        "word": "αἵματος",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358223,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 9,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561559",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "6",
-    "alignment_num": "19",
-    "orig_lang_words": ",1546306,1546307,",
-    "target_lang_words": ",1358238,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1546306,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 21,
-        "word": "τῷ",
-        "occurrence": 3,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1546307,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 22,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ αἵματι",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358238,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 24,
-        "word": "blood",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ αἵματι = blood",
-    "frequency": 0.03488372093023256,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3276,119 +2649,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562828",
-    "book_id": "rev",
-    "chapter": "1",
-    "verse": "5",
-    "alignment_num": "28",
-    "orig_lang_words": ",1547657,1547658,",
-    "target_lang_words": ",1360087,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1547657,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 30,
-        "word": "τῷ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1547658,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 31,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ αἵματι",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1360087,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 36,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ αἵματι = blood",
-    "frequency": 0.03488372093023256,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564594",
-    "book_id": "rev",
-    "chapter": "5",
-    "verse": "9",
-    "alignment_num": "19",
-    "orig_lang_words": ",1549641,1549642,",
-    "target_lang_words": ",1362603,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1549641,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 22,
-        "word": "τῷ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1549642,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 23,
-        "word": "αἵματί",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ αἵματί",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1362603,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 25,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ αἵματί = blood",
-    "frequency": 0.023255813953488372,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3444,7 +2706,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ αἷμα = blood",
-    "frequency": 0.06976744186046512,
+    "frequency": 0.16666666666666666,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3488,95 +2751,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565404",
-    "book_id": "rev",
-    "chapter": "7",
-    "verse": "14",
-    "alignment_num": "26",
-    "orig_lang_words": ",1550521,",
-    "target_lang_words": ",1363716,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550521,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "14",
-        "word_num": 29,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1363716,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "14",
-        "word_num": 37,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565593",
-    "book_id": "rev",
-    "chapter": "8",
-    "verse": "7",
-    "alignment_num": "10",
-    "orig_lang_words": ",1550725,",
-    "target_lang_words": ",1363975,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550725,
-        "book_id": "rev",
-        "chapter": "8",
-        "verse": "7",
-        "word_num": 11,
-        "word": "αἵματι",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1363975,
-        "book_id": "rev",
-        "chapter": "8",
-        "verse": "7",
-        "word_num": 14,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματι = blood",
-    "frequency": 0.12790697674418605,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3620,7 +2796,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3664,7 +2841,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3708,7 +2886,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3752,7 +2931,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3796,7 +2976,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3840,7 +3021,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3893,7 +3075,8 @@
     "targetWordsTxt": "the blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "αἷμα = the blood",
-    "frequency": 0.023255813953488372,
+    "frequency": 0.05555555555555555,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3937,95 +3120,8 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568936",
-    "book_id": "rev",
-    "chapter": "17",
-    "verse": "6",
-    "alignment_num": "6",
-    "orig_lang_words": ",1554443,",
-    "target_lang_words": ",1368445,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554443,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "6",
-        "word_num": 7,
-        "word": "αἵματος",
-        "occurrence": 1,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1368445,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "6",
-        "word_num": 9,
-        "word": "blood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568942",
-    "book_id": "rev",
-    "chapter": "17",
-    "verse": "6",
-    "alignment_num": "12",
-    "orig_lang_words": ",1554449,",
-    "target_lang_words": ",1368452,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554449,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "6",
-        "word_num": 13,
-        "word": "αἵματος",
-        "occurrence": 2,
-        "strong": "G01290",
-        "lemma": "αἷμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "αἵματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1368452,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "6",
-        "word_num": 16,
-        "word": "blood",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "blood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "αἵματος = blood",
-    "frequency": 0.19767441860465115,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4078,7 +3174,8 @@
     "targetWordsTxt": "The blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "αἷμα = The blood",
-    "frequency": 0.011627906976744186,
+    "frequency": 0.027777777777777776,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4122,7 +3219,995 @@
     "targetWordsTxt": "blood",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἷμα = blood",
-    "frequency": 0.29069767441860467,
+    "frequency": 0.6944444444444444,
+    "matchCount": 25,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485105",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "20",
+    "alignment_num": "15",
+    "orig_lang_words": ",1466065,1466066,",
+    "target_lang_words": ",1249484,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1466065,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "20",
+        "word_num": 15,
+        "word": "τῷ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1466066,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "20",
+        "word_num": 16,
+        "word": "αἵματί",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ αἵματί",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1249484,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "20",
+        "word_num": 21,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῷ αἵματί = blood",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564594",
+    "book_id": "rev",
+    "chapter": "5",
+    "verse": "9",
+    "alignment_num": "19",
+    "orig_lang_words": ",1549641,1549642,",
+    "target_lang_words": ",1362603,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1549641,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 22,
+        "word": "τῷ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1549642,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 23,
+        "word": "αἵματί",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ αἵματί",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1362603,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 25,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῷ αἵματί = blood",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "487681",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "5",
+    "orig_lang_words": ",1468681,",
+    "target_lang_words": ",1252893,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1468681,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 3,
+        "word": "αἱμάτων",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "αἱμάτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1252893,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 5,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἱμάτων = blood",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502311",
+    "book_id": "act",
+    "chapter": "1",
+    "verse": "19",
+    "alignment_num": "19",
+    "orig_lang_words": ",1484537,",
+    "target_lang_words": ",1272910,1272911,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484537,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 20,
+        "word": "Αἵματος",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "Αἵματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1272910,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 22,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1272911,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 23,
+        "word": "Blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of Blood",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "Αἵματος = of Blood",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521098",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "25",
+    "alignment_num": "8",
+    "orig_lang_words": ",1503952,",
+    "target_lang_words": ",1298701,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503952,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 10,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298701,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 12,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521663",
+    "book_id": "rom",
+    "chapter": "5",
+    "verse": "9",
+    "alignment_num": "7",
+    "orig_lang_words": ",1504583,1504584,",
+    "target_lang_words": ",1299578,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1504583,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 6,
+        "word": "τῷ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1504584,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 7,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ αἵματι",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299578,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 10,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῷ αἵματι = blood",
+    "frequency": 0.17647058823529413,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "530533",
+    "book_id": "1co",
+    "chapter": "11",
+    "verse": "25",
+    "alignment_num": "14",
+    "orig_lang_words": ",1513993,",
+    "target_lang_words": ",1312950,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513993,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "25",
+        "word_num": 18,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1312950,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "25",
+        "word_num": 20,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537637",
+    "book_id": "gal",
+    "chapter": "1",
+    "verse": "16",
+    "alignment_num": "17",
+    "orig_lang_words": ",1521299,",
+    "target_lang_words": ",1323302,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521299,
+        "book_id": "gal",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 17,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1323302,
+        "book_id": "gal",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 23,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540142",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "13",
+    "alignment_num": "14",
+    "orig_lang_words": ",1523889,",
+    "target_lang_words": ",1327052,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523889,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 14,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1327052,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 17,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553614",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "21",
+    "alignment_num": "4",
+    "orig_lang_words": ",1537793,",
+    "target_lang_words": ",1346224,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537793,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 11,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346224,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 8,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553631",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "22",
+    "alignment_num": "7",
+    "orig_lang_words": ",1537799,",
+    "target_lang_words": ",1346246,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537799,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "22",
+        "word_num": 3,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346246,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "22",
+        "word_num": 9,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553694",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "25",
+    "alignment_num": "14",
+    "orig_lang_words": ",1537868,",
+    "target_lang_words": ",1346356,1346357,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537868,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "25",
+        "word_num": 15,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1346356,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "25",
+        "word_num": 28,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1346357,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "25",
+        "word_num": 29,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the blood",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "αἵματι = the blood",
+    "frequency": 0.058823529411764705,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553992",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "19",
+    "alignment_num": "10",
+    "orig_lang_words": ",1538196,",
+    "target_lang_words": ",1346843,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538196,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "19",
+        "word_num": 11,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346843,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "19",
+        "word_num": 14,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555249",
+    "book_id": "heb",
+    "chapter": "12",
+    "verse": "24",
+    "alignment_num": "7",
+    "orig_lang_words": ",1539491,",
+    "target_lang_words": ",1348773,1348774,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539491,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "24",
+        "word_num": 6,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1348773,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "24",
+        "word_num": 10,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1348774,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "24",
+        "word_num": 11,
+        "word": "the",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "to the",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "αἵματι = to the",
+    "frequency": 0.058823529411764705,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555623",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "20",
+    "alignment_num": "17",
+    "orig_lang_words": ",1539874,",
+    "target_lang_words": ",1349341,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539874,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "20",
+        "word_num": 16,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349341,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "20",
+        "word_num": 23,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557626",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "19",
+    "alignment_num": "2",
+    "orig_lang_words": ",1541994,",
+    "target_lang_words": ",1352296,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541994,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 2,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352296,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 8,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561559",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "6",
+    "alignment_num": "19",
+    "orig_lang_words": ",1546306,1546307,",
+    "target_lang_words": ",1358238,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546306,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 21,
+        "word": "τῷ",
+        "occurrence": 3,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1546307,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 22,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ αἵματι",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358238,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 24,
+        "word": "blood",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῷ αἵματι = blood",
+    "frequency": 0.17647058823529413,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562828",
+    "book_id": "rev",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "28",
+    "orig_lang_words": ",1547657,1547658,",
+    "target_lang_words": ",1360087,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1547657,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 30,
+        "word": "τῷ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1547658,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 31,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ αἵματι",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1360087,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 36,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῷ αἵματι = blood",
+    "frequency": 0.17647058823529413,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565404",
+    "book_id": "rev",
+    "chapter": "7",
+    "verse": "14",
+    "alignment_num": "26",
+    "orig_lang_words": ",1550521,",
+    "target_lang_words": ",1363716,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550521,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "14",
+        "word_num": 29,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1363716,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "14",
+        "word_num": 37,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565593",
+    "book_id": "rev",
+    "chapter": "8",
+    "verse": "7",
+    "alignment_num": "10",
+    "orig_lang_words": ",1550725,",
+    "target_lang_words": ",1363975,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550725,
+        "book_id": "rev",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 11,
+        "word": "αἵματι",
+        "occurrence": 1,
+        "strong": "G01290",
+        "lemma": "αἷμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "αἵματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1363975,
+        "book_id": "rev",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 14,
+        "word": "blood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "αἵματι = blood",
+    "frequency": 0.6470588235294118,
+    "matchCount": 11,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4175,7 +4260,8 @@
     "targetWordsTxt": "in blood",
     "alignmentTargetWords": 2,
     "alignmentTxt": "αἵματι = in blood",
-    "frequency": 0.011627906976744186,
+    "frequency": 0.058823529411764705,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

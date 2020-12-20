@@ -48,7 +48,8 @@
     "targetWordsTxt": "he trusted",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπεποίθει = he trusted",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -119,7 +120,8 @@
     "targetWordsTxt": "will they be persuaded",
     "alignmentTargetWords": 4,
     "alignmentTxt": "πεισθήσονται = will they be persuaded",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -172,7 +174,53 @@
     "targetWordsTxt": "were persuaded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πεποιθότας = were persuaded",
-    "frequency": 0.02040816326530612,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542134",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "14",
+    "alignment_num": "3",
+    "orig_lang_words": ",1525897,",
+    "target_lang_words": ",1329616,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525897,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 7,
+        "word": "πεποιθότας",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,PEA,AMP,"
+      }
+    ],
+    "origWordsTxt": "πεποιθότας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329616,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 4,
+        "word": "have",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "have",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πεποιθότας = have",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -225,7 +273,8 @@
     "targetWordsTxt": "persuaded that",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πεπεισμένος = persuaded that",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -308,7 +357,8 @@
     "targetWordsTxt": "who had been obeying",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ὅσοι ἐπείθοντο = who had been obeying",
-    "frequency": 0.04081632653061224,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -391,7 +441,71 @@
     "targetWordsTxt": "who had been obeying",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ὅσοι ἐπείθοντο = who had been obeying",
-    "frequency": 0.04081632653061224,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519761",
+    "book_id": "act",
+    "chapter": "28",
+    "verse": "24",
+    "alignment_num": "1",
+    "orig_lang_words": ",1502483,",
+    "target_lang_words": ",1296623,1296624,1296625,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502483,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "24",
+        "word_num": 3,
+        "word": "ἐπείθοντο",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,IIP3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐπείθοντο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1296623,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "24",
+        "word_num": 1,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 1296624,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "24",
+        "word_num": 2,
+        "word": "convinced",
+        "occurrence": 1
+      },
+      {
+        "id": 1296625,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "24",
+        "word_num": 3,
+        "word": "about",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "were convinced about",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐπείθοντο = were convinced about",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -453,157 +567,8 @@
     "targetWordsTxt": "they were persuaded",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπείσθησαν = they were persuaded",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "509676",
-    "book_id": "act",
-    "chapter": "12",
-    "verse": "20",
-    "alignment_num": "11",
-    "orig_lang_words": ",1492124,",
-    "target_lang_words": ",1282743,1282744,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492124,
-        "book_id": "act",
-        "chapter": "12",
-        "verse": "20",
-        "word_num": 12,
-        "word": "πείσαντες",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,PAA,NMP,"
-      }
-    ],
-    "origWordsTxt": "πείσαντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1282743,
-        "book_id": "act",
-        "chapter": "12",
-        "verse": "20",
-        "word_num": 18,
-        "word": "They",
-        "occurrence": 1
-      },
-      {
-        "id": 1282744,
-        "book_id": "act",
-        "chapter": "12",
-        "verse": "20",
-        "word_num": 19,
-        "word": "persuaded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "They persuaded",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πείσαντες = They persuaded",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510511",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "43",
-    "alignment_num": "19",
-    "orig_lang_words": ",1492973,",
-    "target_lang_words": ",1283887,1283888,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492973,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "43",
-        "word_num": 20,
-        "word": "ἔπειθον",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἔπειθον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1283887,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "43",
-        "word_num": 21,
-        "word": "and",
-        "occurrence": 3
-      },
-      {
-        "id": 1283888,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "43",
-        "word_num": 22,
-        "word": "urged",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and urged",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἔπειθον = and urged",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511001",
-    "book_id": "act",
-    "chapter": "14",
-    "verse": "19",
-    "alignment_num": "8",
-    "orig_lang_words": ",1493463,",
-    "target_lang_words": ",1284538,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1493463,
-        "book_id": "act",
-        "chapter": "14",
-        "verse": "19",
-        "word_num": 8,
-        "word": "πείσαντες",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,PAA,NMP,"
-      }
-    ],
-    "origWordsTxt": "πείσαντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1284538,
-        "book_id": "act",
-        "chapter": "14",
-        "verse": "19",
-        "word_num": 9,
-        "word": "persuaded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "persuaded",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πείσαντες = persuaded",
-    "frequency": 0.02040816326530612,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -656,7 +621,161 @@
     "targetWordsTxt": "were persuaded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπείσθησαν = were persuaded",
-    "frequency": 0.02040816326530612,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "509676",
+    "book_id": "act",
+    "chapter": "12",
+    "verse": "20",
+    "alignment_num": "11",
+    "orig_lang_words": ",1492124,",
+    "target_lang_words": ",1282743,1282744,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492124,
+        "book_id": "act",
+        "chapter": "12",
+        "verse": "20",
+        "word_num": 12,
+        "word": "πείσαντες",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,PAA,NMP,"
+      }
+    ],
+    "origWordsTxt": "πείσαντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1282743,
+        "book_id": "act",
+        "chapter": "12",
+        "verse": "20",
+        "word_num": 18,
+        "word": "They",
+        "occurrence": 1
+      },
+      {
+        "id": 1282744,
+        "book_id": "act",
+        "chapter": "12",
+        "verse": "20",
+        "word_num": 19,
+        "word": "persuaded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "They persuaded",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πείσαντες = They persuaded",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511001",
+    "book_id": "act",
+    "chapter": "14",
+    "verse": "19",
+    "alignment_num": "8",
+    "orig_lang_words": ",1493463,",
+    "target_lang_words": ",1284538,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1493463,
+        "book_id": "act",
+        "chapter": "14",
+        "verse": "19",
+        "word_num": 8,
+        "word": "πείσαντες",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,PAA,NMP,"
+      }
+    ],
+    "origWordsTxt": "πείσαντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1284538,
+        "book_id": "act",
+        "chapter": "14",
+        "verse": "19",
+        "word_num": 9,
+        "word": "persuaded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "persuaded",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πείσαντες = persuaded",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510511",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "43",
+    "alignment_num": "19",
+    "orig_lang_words": ",1492973,",
+    "target_lang_words": ",1283887,1283888,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492973,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "43",
+        "word_num": 20,
+        "word": "ἔπειθον",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἔπειθον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1283887,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "43",
+        "word_num": 21,
+        "word": "and",
+        "occurrence": 3
+      },
+      {
+        "id": 1283888,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "43",
+        "word_num": 22,
+        "word": "urged",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and urged",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔπειθον = and urged",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -709,7 +828,8 @@
     "targetWordsTxt": "He persuaded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἔπειθέν = He persuaded",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -762,7 +882,53 @@
     "targetWordsTxt": "persuading them",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πείθων = persuading them",
-    "frequency": 0.02040816326530612,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519743",
+    "book_id": "act",
+    "chapter": "28",
+    "verse": "23",
+    "alignment_num": "19",
+    "orig_lang_words": ",1502462,",
+    "target_lang_words": ",1296604,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502462,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "23",
+        "word_num": 18,
+        "word": "πείθων",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "πείθων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1296604,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "23",
+        "word_num": 29,
+        "word": "persuading",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "persuading",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πείθων = persuading",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -815,7 +981,8 @@
     "targetWordsTxt": "has persuaded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πείσας = has persuaded",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -859,7 +1026,8 @@
     "targetWordsTxt": "would",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πειθομένου = would",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -903,7 +1071,8 @@
     "targetWordsTxt": "should",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πεισθῇς = should",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -974,7 +1143,8 @@
     "targetWordsTxt": "I am persuaded that",
     "alignmentTargetWords": 4,
     "alignmentTxt": "πείθομαι = I am persuaded that",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1036,7 +1206,8 @@
     "targetWordsTxt": "would you persuade",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πείθεις = would you persuade",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1080,113 +1251,8 @@
     "targetWordsTxt": "paid",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπείθετο = paid",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "519743",
-    "book_id": "act",
-    "chapter": "28",
-    "verse": "23",
-    "alignment_num": "19",
-    "orig_lang_words": ",1502462,",
-    "target_lang_words": ",1296604,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502462,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "23",
-        "word_num": 18,
-        "word": "πείθων",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,PPA,NMS,"
-      }
-    ],
-    "origWordsTxt": "πείθων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1296604,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "23",
-        "word_num": 29,
-        "word": "persuading",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "persuading",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πείθων = persuading",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "519761",
-    "book_id": "act",
-    "chapter": "28",
-    "verse": "24",
-    "alignment_num": "1",
-    "orig_lang_words": ",1502483,",
-    "target_lang_words": ",1296623,1296624,1296625,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502483,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "24",
-        "word_num": 3,
-        "word": "ἐπείθοντο",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,IIP3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐπείθοντο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1296623,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "24",
-        "word_num": 1,
-        "word": "were",
-        "occurrence": 1
-      },
-      {
-        "id": 1296624,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "24",
-        "word_num": 2,
-        "word": "convinced",
-        "occurrence": 1
-      },
-      {
-        "id": 1296625,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "24",
-        "word_num": 3,
-        "word": "about",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "were convinced about",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐπείθοντο = were convinced about",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1230,7 +1296,8 @@
     "targetWordsTxt": "obey",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πειθομένοις = obey",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1319,7 +1386,8 @@
     "targetWordsTxt": "and if you are convinced that",
     "alignmentTargetWords": 6,
     "alignmentTxt": "πέποιθάς = and if you are convinced that",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1390,7 +1458,8 @@
     "targetWordsTxt": "I have been convinced",
     "alignmentTargetWords": 4,
     "alignmentTxt": "πέπεισμαι = I have been convinced",
-    "frequency": 0.02040816326530612,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1443,7 +1512,8 @@
     "targetWordsTxt": "am persuaded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πέπεισμαι = am persuaded",
-    "frequency": 0.04081632653061224,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1487,7 +1557,125 @@
     "targetWordsTxt": "am",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πέπεισμαι = am",
-    "frequency": 0.02040816326530612,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548843",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "17",
+    "orig_lang_words": ",1532868,",
+    "target_lang_words": ",1339266,1339267,1339268,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532868,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 20,
+        "word": "πέπεισμαι",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,IEP1,,S,"
+      }
+    ],
+    "origWordsTxt": "πέπεισμαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1339266,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 20,
+        "word": "I",
+        "occurrence": 2
+      },
+      {
+        "id": 1339267,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 21,
+        "word": "am",
+        "occurrence": 1
+      },
+      {
+        "id": 1339268,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 22,
+        "word": "convinced",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I am convinced",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "πέπεισμαι = I am convinced",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548979",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "12",
+    "alignment_num": "16",
+    "orig_lang_words": ",1533001,",
+    "target_lang_words": ",1339451,1339452,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533001,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 14,
+        "word": "πέπεισμαι",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,IEP1,,S,"
+      }
+    ],
+    "origWordsTxt": "πέπεισμαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1339451,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 22,
+        "word": "am",
+        "occurrence": 2
+      },
+      {
+        "id": 1339452,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 23,
+        "word": "persuaded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "am persuaded",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πέπεισμαι = am persuaded",
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1531,7 +1719,53 @@
     "targetWordsTxt": "trusting",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πεποιθότες = trusting",
-    "frequency": 0.02040816326530612,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542877",
+    "book_id": "php",
+    "chapter": "3",
+    "verse": "3",
+    "alignment_num": "16",
+    "orig_lang_words": ",1526661,",
+    "target_lang_words": ",1330736,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526661,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 18,
+        "word": "πεποιθότες",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,PEA,NMP,"
+      }
+    ],
+    "origWordsTxt": "πεποιθότες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1330736,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 24,
+        "word": "have",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "have",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πεποιθότες = have",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1584,7 +1818,224 @@
     "targetWordsTxt": "having confidence",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πεποιθὼς = having confidence",
-    "frequency": 0.02040816326530612,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541997",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "0",
+    "orig_lang_words": ",1525751,",
+    "target_lang_words": ",1329427,1329428,1329429,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525751,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 0,
+        "word": "πεποιθὼς",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,PEA,NMS,"
+      }
+    ],
+    "origWordsTxt": "πεποιθὼς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1329427,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 0,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1329428,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 1,
+        "word": "am",
+        "occurrence": 1
+      },
+      {
+        "id": 1329429,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 2,
+        "word": "confident",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I am confident",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "πεποιθὼς = I am confident",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542299",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "25",
+    "alignment_num": "0",
+    "orig_lang_words": ",1526069,",
+    "target_lang_words": ",1329856,1329857,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526069,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 2,
+        "word": "πεποιθὼς",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,PEA,NMS,"
+      }
+    ],
+    "origWordsTxt": "πεποιθὼς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1329856,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 0,
+        "word": "Being",
+        "occurrence": 1
+      },
+      {
+        "id": 1329857,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 1,
+        "word": "convinced",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Being convinced",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πεποιθὼς = Being convinced",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550917",
+    "book_id": "phm",
+    "chapter": "1",
+    "verse": "21",
+    "alignment_num": "0",
+    "orig_lang_words": ",1534960,",
+    "target_lang_words": ",1342203,1342204,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534960,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 0,
+        "word": "πεποιθὼς",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,PEA,NMS,"
+      }
+    ],
+    "origWordsTxt": "πεποιθὼς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1342203,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 0,
+        "word": "Confident",
+        "occurrence": 1
+      },
+      {
+        "id": 1342204,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 1,
+        "word": "about",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Confident about",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πεποιθὼς = Confident about",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551414",
+    "book_id": "heb",
+    "chapter": "2",
+    "verse": "13",
+    "alignment_num": "4",
+    "orig_lang_words": ",1535484,",
+    "target_lang_words": ",1342941,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535484,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 4,
+        "word": "πεποιθὼς",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,PEA,NMS,"
+      }
+    ],
+    "origWordsTxt": "πεποιθὼς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1342941,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 4,
+        "word": "trust",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "trust",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πεποιθὼς = trust",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1637,7 +2088,8 @@
     "targetWordsTxt": "we persuade",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πείθομεν = we persuade",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1699,7 +2151,8 @@
     "targetWordsTxt": "is convinced that",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πέποιθεν = is convinced that",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1752,7 +2205,8 @@
     "targetWordsTxt": "am I",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πείθω = am I",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1817,829 +2271,8 @@
     "targetWordsTxt": "from obeying",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μὴ πείθεσθαι = from obeying",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539052",
-    "book_id": "gal",
-    "chapter": "5",
-    "verse": "10",
-    "alignment_num": "1",
-    "orig_lang_words": ",1522777,",
-    "target_lang_words": ",1325551,1325552,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522777,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 1,
-        "word": "πέποιθα",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,IEA1,,S,"
-      }
-    ],
-    "origWordsTxt": "πέποιθα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1325551,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 1,
-        "word": "am",
-        "occurrence": 1
-      },
-      {
-        "id": 1325552,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 2,
-        "word": "confident",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "am confident",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πέποιθα = am confident",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541997",
-    "book_id": "php",
-    "chapter": "1",
-    "verse": "6",
-    "alignment_num": "0",
-    "orig_lang_words": ",1525751,",
-    "target_lang_words": ",1329427,1329428,1329429,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525751,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 0,
-        "word": "πεποιθὼς",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,PEA,NMS,"
-      }
-    ],
-    "origWordsTxt": "πεποιθὼς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1329427,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 0,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1329428,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 1,
-        "word": "am",
-        "occurrence": 1
-      },
-      {
-        "id": 1329429,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 2,
-        "word": "confident",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I am confident",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "πεποιθὼς = I am confident",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542134",
-    "book_id": "php",
-    "chapter": "1",
-    "verse": "14",
-    "alignment_num": "3",
-    "orig_lang_words": ",1525897,",
-    "target_lang_words": ",1329616,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525897,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 7,
-        "word": "πεποιθότας",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,PEA,AMP,"
-      }
-    ],
-    "origWordsTxt": "πεποιθότας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1329616,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 4,
-        "word": "have",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "have",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πεποιθότας = have",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542299",
-    "book_id": "php",
-    "chapter": "1",
-    "verse": "25",
-    "alignment_num": "0",
-    "orig_lang_words": ",1526069,",
-    "target_lang_words": ",1329856,1329857,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526069,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "25",
-        "word_num": 2,
-        "word": "πεποιθὼς",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,PEA,NMS,"
-      }
-    ],
-    "origWordsTxt": "πεποιθὼς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1329856,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "25",
-        "word_num": 0,
-        "word": "Being",
-        "occurrence": 1
-      },
-      {
-        "id": 1329857,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "25",
-        "word_num": 1,
-        "word": "convinced",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Being convinced",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πεποιθὼς = Being convinced",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542722",
-    "book_id": "php",
-    "chapter": "2",
-    "verse": "24",
-    "alignment_num": "1",
-    "orig_lang_words": ",1526505,",
-    "target_lang_words": ",1330494,1330495,1330496,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526505,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 0,
-        "word": "πέποιθα",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,IEA1,,S,"
-      }
-    ],
-    "origWordsTxt": "πέποιθα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1330494,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 1,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1330495,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 2,
-        "word": "am",
-        "occurrence": 1
-      },
-      {
-        "id": 1330496,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 3,
-        "word": "confident",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I am confident",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "πέποιθα = I am confident",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542877",
-    "book_id": "php",
-    "chapter": "3",
-    "verse": "3",
-    "alignment_num": "16",
-    "orig_lang_words": ",1526661,",
-    "target_lang_words": ",1330736,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526661,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 18,
-        "word": "πεποιθότες",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,PEA,NMP,"
-      }
-    ],
-    "origWordsTxt": "πεποιθότες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1330736,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 24,
-        "word": "have",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "have",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πεποιθότες = have",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542894",
-    "book_id": "php",
-    "chapter": "3",
-    "verse": "4",
-    "alignment_num": "12",
-    "orig_lang_words": ",1526673,",
-    "target_lang_words": ",1330757,1330758,1330759,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526673,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 11,
-        "word": "πεποιθέναι",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,NEA,,,,,"
-      }
-    ],
-    "origWordsTxt": "πεποιθέναι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1330757,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 15,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1330758,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 16,
-        "word": "has",
-        "occurrence": 1
-      },
-      {
-        "id": 1330759,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 17,
-        "word": "confidence",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "he has confidence",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "πεποιθέναι = he has confidence",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546917",
-    "book_id": "2th",
-    "chapter": "3",
-    "verse": "4",
-    "alignment_num": "1",
-    "orig_lang_words": ",1530963,",
-    "target_lang_words": ",1336527,1336528,1336529,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530963,
-        "book_id": "2th",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 0,
-        "word": "πεποίθαμεν",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,IEA1,,P,"
-      }
-    ],
-    "origWordsTxt": "πεποίθαμεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1336527,
-        "book_id": "2th",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 1,
-        "word": "we",
-        "occurrence": 1
-      },
-      {
-        "id": 1336528,
-        "book_id": "2th",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 2,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1336529,
-        "book_id": "2th",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 3,
-        "word": "confidence",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "we have confidence",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "πεποίθαμεν = we have confidence",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548843",
-    "book_id": "2ti",
-    "chapter": "1",
-    "verse": "5",
-    "alignment_num": "17",
-    "orig_lang_words": ",1532868,",
-    "target_lang_words": ",1339266,1339267,1339268,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532868,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 20,
-        "word": "πέπεισμαι",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,IEP1,,S,"
-      }
-    ],
-    "origWordsTxt": "πέπεισμαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1339266,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 20,
-        "word": "I",
-        "occurrence": 2
-      },
-      {
-        "id": 1339267,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 21,
-        "word": "am",
-        "occurrence": 1
-      },
-      {
-        "id": 1339268,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 22,
-        "word": "convinced",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I am convinced",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "πέπεισμαι = I am convinced",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548979",
-    "book_id": "2ti",
-    "chapter": "1",
-    "verse": "12",
-    "alignment_num": "16",
-    "orig_lang_words": ",1533001,",
-    "target_lang_words": ",1339451,1339452,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533001,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 14,
-        "word": "πέπεισμαι",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,IEP1,,S,"
-      }
-    ],
-    "origWordsTxt": "πέπεισμαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1339451,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 22,
-        "word": "am",
-        "occurrence": 2
-      },
-      {
-        "id": 1339452,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 23,
-        "word": "persuaded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "am persuaded",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πέπεισμαι = am persuaded",
-    "frequency": 0.04081632653061224,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550917",
-    "book_id": "phm",
-    "chapter": "1",
-    "verse": "21",
-    "alignment_num": "0",
-    "orig_lang_words": ",1534960,",
-    "target_lang_words": ",1342203,1342204,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534960,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 0,
-        "word": "πεποιθὼς",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,PEA,NMS,"
-      }
-    ],
-    "origWordsTxt": "πεποιθὼς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1342203,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 0,
-        "word": "Confident",
-        "occurrence": 1
-      },
-      {
-        "id": 1342204,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 1,
-        "word": "about",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Confident about",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πεποιθὼς = Confident about",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551414",
-    "book_id": "heb",
-    "chapter": "2",
-    "verse": "13",
-    "alignment_num": "4",
-    "orig_lang_words": ",1535484,",
-    "target_lang_words": ",1342941,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535484,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 4,
-        "word": "πεποιθὼς",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,PEA,NMS,"
-      }
-    ],
-    "origWordsTxt": "πεποιθὼς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1342941,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 4,
-        "word": "trust",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "trust",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πεποιθὼς = trust",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552390",
-    "book_id": "heb",
-    "chapter": "6",
-    "verse": "9",
-    "alignment_num": "1",
-    "orig_lang_words": ",1536505,",
-    "target_lang_words": ",1344411,1344412,1344413,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536505,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 0,
-        "word": "πεπείσμεθα",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,IEP1,,P,"
-      }
-    ],
-    "origWordsTxt": "πεπείσμεθα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1344411,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 1,
-        "word": "we",
-        "occurrence": 1
-      },
-      {
-        "id": 1344412,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 2,
-        "word": "are",
-        "occurrence": 1
-      },
-      {
-        "id": 1344413,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 3,
-        "word": "convinced",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "we are convinced",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "πεπείσμεθα = we are convinced",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555555",
-    "book_id": "heb",
-    "chapter": "13",
-    "verse": "17",
-    "alignment_num": "0",
-    "orig_lang_words": ",1539807,",
-    "target_lang_words": ",1349236,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539807,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "17",
-        "word_num": 0,
-        "word": "πείθεσθε",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,MPP2,,P,"
-      }
-    ],
-    "origWordsTxt": "πείθεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349236,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "17",
-        "word_num": 0,
-        "word": "Obey",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Obey",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πείθεσθε = Obey",
-    "frequency": 0.02040816326530612,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555585",
-    "book_id": "heb",
-    "chapter": "13",
-    "verse": "18",
-    "alignment_num": "4",
-    "orig_lang_words": ",1539838,",
-    "target_lang_words": ",1349281,1349282,1349283,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539838,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 3,
-        "word": "πειθόμεθα",
-        "occurrence": 1,
-        "strong": "G39820",
-        "lemma": "πείθω",
-        "morph": "Gr,V,IPP1,,P,"
-      }
-    ],
-    "origWordsTxt": "πειθόμεθα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1349281,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 4,
-        "word": "we",
-        "occurrence": 1
-      },
-      {
-        "id": 1349282,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 5,
-        "word": "are",
-        "occurrence": 1
-      },
-      {
-        "id": 1349283,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 6,
-        "word": "persuaded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "we are persuaded",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "πειθόμεθα = we are persuaded",
-    "frequency": 0.02040816326530612,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2704,7 +2337,422 @@
     "targetWordsTxt": "to obey",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸ πείθεσθαι = to obey",
-    "frequency": 0.02040816326530612,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539052",
+    "book_id": "gal",
+    "chapter": "5",
+    "verse": "10",
+    "alignment_num": "1",
+    "orig_lang_words": ",1522777,",
+    "target_lang_words": ",1325551,1325552,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522777,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 1,
+        "word": "πέποιθα",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,IEA1,,S,"
+      }
+    ],
+    "origWordsTxt": "πέποιθα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1325551,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 1,
+        "word": "am",
+        "occurrence": 1
+      },
+      {
+        "id": 1325552,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 2,
+        "word": "confident",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "am confident",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πέποιθα = am confident",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542722",
+    "book_id": "php",
+    "chapter": "2",
+    "verse": "24",
+    "alignment_num": "1",
+    "orig_lang_words": ",1526505,",
+    "target_lang_words": ",1330494,1330495,1330496,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526505,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 0,
+        "word": "πέποιθα",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,IEA1,,S,"
+      }
+    ],
+    "origWordsTxt": "πέποιθα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1330494,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 1,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1330495,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 2,
+        "word": "am",
+        "occurrence": 1
+      },
+      {
+        "id": 1330496,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 3,
+        "word": "confident",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I am confident",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "πέποιθα = I am confident",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542894",
+    "book_id": "php",
+    "chapter": "3",
+    "verse": "4",
+    "alignment_num": "12",
+    "orig_lang_words": ",1526673,",
+    "target_lang_words": ",1330757,1330758,1330759,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526673,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 11,
+        "word": "πεποιθέναι",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,NEA,,,,,"
+      }
+    ],
+    "origWordsTxt": "πεποιθέναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1330757,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 15,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1330758,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 16,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1330759,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 17,
+        "word": "confidence",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "he has confidence",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "πεποιθέναι = he has confidence",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546917",
+    "book_id": "2th",
+    "chapter": "3",
+    "verse": "4",
+    "alignment_num": "1",
+    "orig_lang_words": ",1530963,",
+    "target_lang_words": ",1336527,1336528,1336529,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530963,
+        "book_id": "2th",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 0,
+        "word": "πεποίθαμεν",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,IEA1,,P,"
+      }
+    ],
+    "origWordsTxt": "πεποίθαμεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1336527,
+        "book_id": "2th",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 1,
+        "word": "we",
+        "occurrence": 1
+      },
+      {
+        "id": 1336528,
+        "book_id": "2th",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 2,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1336529,
+        "book_id": "2th",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 3,
+        "word": "confidence",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we have confidence",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "πεποίθαμεν = we have confidence",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552390",
+    "book_id": "heb",
+    "chapter": "6",
+    "verse": "9",
+    "alignment_num": "1",
+    "orig_lang_words": ",1536505,",
+    "target_lang_words": ",1344411,1344412,1344413,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536505,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 0,
+        "word": "πεπείσμεθα",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,IEP1,,P,"
+      }
+    ],
+    "origWordsTxt": "πεπείσμεθα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1344411,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 1,
+        "word": "we",
+        "occurrence": 1
+      },
+      {
+        "id": 1344412,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 2,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 1344413,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 3,
+        "word": "convinced",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we are convinced",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "πεπείσμεθα = we are convinced",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555555",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "17",
+    "alignment_num": "0",
+    "orig_lang_words": ",1539807,",
+    "target_lang_words": ",1349236,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539807,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "17",
+        "word_num": 0,
+        "word": "πείθεσθε",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,MPP2,,P,"
+      }
+    ],
+    "origWordsTxt": "πείθεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349236,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "17",
+        "word_num": 0,
+        "word": "Obey",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Obey",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πείθεσθε = Obey",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555585",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "18",
+    "alignment_num": "4",
+    "orig_lang_words": ",1539838,",
+    "target_lang_words": ",1349281,1349282,1349283,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539838,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 3,
+        "word": "πειθόμεθα",
+        "occurrence": 1,
+        "strong": "G39820",
+        "lemma": "πείθω",
+        "morph": "Gr,V,IPP1,,P,"
+      }
+    ],
+    "origWordsTxt": "πειθόμεθα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1349281,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 4,
+        "word": "we",
+        "occurrence": 1
+      },
+      {
+        "id": 1349282,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 5,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 1349283,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 6,
+        "word": "persuaded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we are persuaded",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "πειθόμεθα = we are persuaded",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2757,7 +2805,8 @@
     "targetWordsTxt": "we assure",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πείσομεν = we assure",
-    "frequency": 0.02040816326530612,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

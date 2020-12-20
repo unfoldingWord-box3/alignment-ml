@@ -39,7 +39,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -139,213 +141,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ θέλημα = will",
-    "frequency": 0.17857142857142858,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485457",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "42",
-    "alignment_num": "12",
-    "orig_lang_words": ",1466423,1466424,",
-    "target_lang_words": ",1249975,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1466423,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "42",
-        "word_num": 12,
-        "word": "τὸ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNS,"
-      },
-      {
-        "id": 1466424,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "42",
-        "word_num": 13,
-        "word": "θέλημά",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τὸ θέλημά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1249975,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "42",
-        "word_num": 14,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ θέλημά = will",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "486270",
-    "book_id": "luk",
-    "chapter": "23",
-    "verse": "25",
-    "alignment_num": "17",
-    "orig_lang_words": ",1467249,",
-    "target_lang_words": ",1251038,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1467249,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "25",
-        "word_num": 17,
-        "word": "θελήματι",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1251038,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "25",
-        "word_num": 26,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θελήματι = will",
-    "frequency": 0.05357142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487684",
-    "book_id": "jhn",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "8",
-    "orig_lang_words": ",1468684,",
-    "target_lang_words": ",1252896,1252897,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468684,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 6,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1252896,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 8,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1252897,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 9,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θελήματος = the will",
-    "frequency": 0.16071428571428573,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487688",
-    "book_id": "jhn",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "12",
-    "orig_lang_words": ",1468688,",
-    "target_lang_words": ",1252903,1252904,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468688,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 10,
-        "word": "θελήματος",
-        "occurrence": 2,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1252903,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 15,
-        "word": "the",
-        "occurrence": 3
-      },
-      {
-        "id": 1252904,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 16,
-        "word": "will",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "the will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θελήματος = the will",
-    "frequency": 0.16071428571428573,
+    "frequency": 0.3333333333333333,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -389,7 +186,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -445,7 +243,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ θέλημα = will",
-    "frequency": 0.17857142857142858,
+    "frequency": 0.3333333333333333,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -489,7 +288,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -545,7 +345,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ θέλημα = will",
-    "frequency": 0.17857142857142858,
+    "frequency": 0.3333333333333333,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -589,7 +390,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -633,7 +435,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -677,7 +480,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -733,7 +537,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ θέλημα = will",
-    "frequency": 0.17857142857142858,
+    "frequency": 0.3333333333333333,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -789,63 +594,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ θέλημα = will",
-    "frequency": 0.17857142857142858,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510177",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "22",
-    "alignment_num": "28",
-    "orig_lang_words": ",1492630,1492631,",
-    "target_lang_words": ",1283426,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1492630,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "22",
-        "word_num": 26,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1492631,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "22",
-        "word_num": 27,
-        "word": "θελήματά",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ θελήματά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1283426,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "22",
-        "word_num": 41,
-        "word": "will",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ θελήματά = will",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.3333333333333333,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -889,7 +639,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -945,51 +696,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ θέλημα = will",
-    "frequency": 0.17857142857142858,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520045",
-    "book_id": "rom",
-    "chapter": "1",
-    "verse": "10",
-    "alignment_num": "13",
-    "orig_lang_words": ",1502779,",
-    "target_lang_words": ",1297024,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502779,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 13,
-        "word": "θελήματι",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1297024,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 19,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θελήματι = will",
-    "frequency": 0.05357142857142857,
+    "frequency": 0.3333333333333333,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1033,7 +741,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1077,157 +786,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526011",
-    "book_id": "rom",
-    "chapter": "15",
-    "verse": "32",
-    "alignment_num": "7",
-    "orig_lang_words": ",1509296,",
-    "target_lang_words": ",1306294,1306295,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1509296,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "32",
-        "word_num": 7,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1306294,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "32",
-        "word_num": 10,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1306295,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "32",
-        "word_num": 11,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θελήματος = the will",
-    "frequency": 0.16071428571428573,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526422",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "7",
-    "orig_lang_words": ",1509751,",
-    "target_lang_words": ",1306849,1306850,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1509751,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 6,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1306849,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 10,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1306850,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 11,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θελήματος = the will",
-    "frequency": 0.16071428571428573,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "528975",
-    "book_id": "1co",
-    "chapter": "7",
-    "verse": "37",
-    "alignment_num": "15",
-    "orig_lang_words": ",1512392,",
-    "target_lang_words": ",1310583,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1512392,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "37",
-        "word_num": 17,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1310583,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "37",
-        "word_num": 18,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θελήματος = will",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1280,113 +840,8 @@
     "targetWordsTxt": "his will",
     "alignmentTargetWords": 2,
     "alignmentTxt": "θέλημα = his will",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533040",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "5",
-    "orig_lang_words": ",1516570,",
-    "target_lang_words": ",1316614,1316615,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516570,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 5,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1316614,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 7,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1316615,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 8,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θελήματος = the will",
-    "frequency": 0.16071428571428573,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535357",
-    "book_id": "2co",
-    "chapter": "8",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1518962,",
-    "target_lang_words": ",1319908,1319909,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518962,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "5",
-        "word_num": 13,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1319908,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "5",
-        "word_num": 22,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1319909,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "5",
-        "word_num": 23,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θελήματος = the will",
-    "frequency": 0.16071428571428573,
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1430,236 +885,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539525",
-    "book_id": "eph",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "5",
-    "orig_lang_words": ",1523270,",
-    "target_lang_words": ",1326261,1326262,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523270,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 5,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1326261,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 7,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1326262,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 8,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θελήματος = the will",
-    "frequency": 0.16071428571428573,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539605",
-    "book_id": "eph",
-    "chapter": "1",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1523347,",
-    "target_lang_words": ",1326357,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523347,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 13,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326357,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 17,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θελήματος = will",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539650",
-    "book_id": "eph",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "6",
-    "orig_lang_words": ",1523394,",
-    "target_lang_words": ",1326417,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523394,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 5,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326417,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 9,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θελήματος = will",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539695",
-    "book_id": "eph",
-    "chapter": "1",
-    "verse": "11",
-    "alignment_num": "16",
-    "orig_lang_words": ",1523442,",
-    "target_lang_words": ",1326486,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523442,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "11",
-        "word_num": 15,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326486,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "11",
-        "word_num": 28,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θελήματος = will",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539968",
-    "book_id": "eph",
-    "chapter": "2",
-    "verse": "3",
-    "alignment_num": "15",
-    "orig_lang_words": ",1523717,",
-    "target_lang_words": ",1326823,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523717,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "3",
-        "word_num": 15,
-        "word": "θελήματα",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "θελήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326823,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "3",
-        "word_num": 16,
-        "word": "desires",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "desires",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θελήματα = desires",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1703,7 +930,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1747,169 +975,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543504",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "5",
-    "orig_lang_words": ",1527315,",
-    "target_lang_words": ",1331691,1331692,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1527315,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 5,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1331691,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 7,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1331692,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 8,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θελήματος = the will",
-    "frequency": 0.16071428571428573,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543646",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "17",
-    "orig_lang_words": ",1527463,1527464,",
-    "target_lang_words": ",1331904,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1527463,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 19,
-        "word": "τοῦ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GNS,"
-      },
-      {
-        "id": 1527464,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 20,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "τοῦ θελήματος",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1331904,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 29,
-        "word": "of",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ θελήματος = of",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544879",
-    "book_id": "col",
-    "chapter": "4",
-    "verse": "12",
-    "alignment_num": "23",
-    "orig_lang_words": ",1528798,",
-    "target_lang_words": ",1333712,1333713,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528798,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "12",
-        "word_num": 23,
-        "word": "θελήματι",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1333712,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "12",
-        "word_num": 32,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1333713,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "12",
-        "word_num": 33,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θελήματι = the will",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1953,7 +1020,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2006,60 +1074,8 @@
     "targetWordsTxt": "the will",
     "alignmentTargetWords": 2,
     "alignmentTxt": "θέλημα = the will",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548773",
-    "book_id": "2ti",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "5",
-    "orig_lang_words": ",1532789,",
-    "target_lang_words": ",1339171,1339172,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532789,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 5,
-        "word": "θελήματος",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1339171,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 7,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1339172,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 8,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θελήματος = the will",
-    "frequency": 0.16071428571428573,
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2103,163 +1119,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553837",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "7",
-    "alignment_num": "11",
-    "orig_lang_words": ",1538021,1538022,",
-    "target_lang_words": ",1346601,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1538021,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "7",
-        "word_num": 14,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1538022,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "7",
-        "word_num": 15,
-        "word": "θέλημά",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ θέλημά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346601,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "7",
-        "word_num": 19,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ θέλημά = will",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553863",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "9",
-    "alignment_num": "6",
-    "orig_lang_words": ",1538049,1538050,",
-    "target_lang_words": ",1346646,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1538049,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "9",
-        "word_num": 6,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1538050,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "9",
-        "word_num": 7,
-        "word": "θέλημά",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ θέλημά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346646,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "9",
-        "word_num": 10,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ θέλημά = will",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553873",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "10",
-    "alignment_num": "2",
-    "orig_lang_words": ",1538061,",
-    "target_lang_words": ",1346662,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538061,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "10",
-        "word_num": 2,
-        "word": "θελήματι",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346662,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "10",
-        "word_num": 2,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θελήματι = will",
-    "frequency": 0.05357142857142857,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2315,7 +1176,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ θέλημα = will",
-    "frequency": 0.17857142857142858,
+    "frequency": 0.3333333333333333,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2371,7 +1233,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ θέλημα = will",
-    "frequency": 0.17857142857142858,
+    "frequency": 0.3333333333333333,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2427,7 +1290,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ θέλημα = will",
-    "frequency": 0.17857142857142858,
+    "frequency": 0.3333333333333333,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2495,51 +1359,8 @@
     "targetWordsTxt": "desires",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θέλοι τὸ θέλημα = desires",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558475",
-    "book_id": "1pe",
-    "chapter": "4",
-    "verse": "2",
-    "alignment_num": "10",
-    "orig_lang_words": ",1542887,",
-    "target_lang_words": ",1353653,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542887,
-        "book_id": "1pe",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 6,
-        "word": "θελήματι",
-        "occurrence": 1,
-        "strong": "G23070",
-        "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "θελήματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1353653,
-        "book_id": "1pe",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 23,
-        "word": "for",
-        "occurrence": 3
-      }
-    ],
-    "targetWordsTxt": "for",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θελήματι = for",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2595,7 +1416,560 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ θέλημα = will",
-    "frequency": 0.17857142857142858,
+    "frequency": 0.3333333333333333,
+    "matchCount": 10,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560423",
+    "book_id": "1jn",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "10",
+    "orig_lang_words": ",1545018,",
+    "target_lang_words": ",1356708,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545018,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 12,
+        "word": "θέλημα",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "θέλημα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1356708,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 12,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θέλημα = will",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561701",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "14",
+    "alignment_num": "16",
+    "orig_lang_words": ",1546471,",
+    "target_lang_words": ",1358427,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546471,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 15,
+        "word": "θέλημα",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "θέλημα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358427,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 18,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θέλημα = will",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485457",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "42",
+    "alignment_num": "12",
+    "orig_lang_words": ",1466423,1466424,",
+    "target_lang_words": ",1249975,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1466423,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "42",
+        "word_num": 12,
+        "word": "τὸ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1466424,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "42",
+        "word_num": 13,
+        "word": "θέλημά",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ θέλημά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1249975,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "42",
+        "word_num": 14,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ θέλημά = will",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553837",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "7",
+    "alignment_num": "11",
+    "orig_lang_words": ",1538021,1538022,",
+    "target_lang_words": ",1346601,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1538021,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "7",
+        "word_num": 14,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1538022,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "7",
+        "word_num": 15,
+        "word": "θέλημά",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ θέλημά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346601,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "7",
+        "word_num": 19,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ θέλημά = will",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553863",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "9",
+    "alignment_num": "6",
+    "orig_lang_words": ",1538049,1538050,",
+    "target_lang_words": ",1346646,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1538049,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "9",
+        "word_num": 6,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1538050,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "9",
+        "word_num": 7,
+        "word": "θέλημά",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ θέλημά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346646,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "9",
+        "word_num": 10,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ θέλημά = will",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564399",
+    "book_id": "rev",
+    "chapter": "4",
+    "verse": "11",
+    "alignment_num": "23",
+    "orig_lang_words": ",1549435,1549436,",
+    "target_lang_words": ",1362334,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1549435,
+        "book_id": "rev",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 24,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1549436,
+        "book_id": "rev",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 25,
+        "word": "θέλημά",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ θέλημά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1362334,
+        "book_id": "rev",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 26,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ θέλημά = will",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "486270",
+    "book_id": "luk",
+    "chapter": "23",
+    "verse": "25",
+    "alignment_num": "17",
+    "orig_lang_words": ",1467249,",
+    "target_lang_words": ",1251038,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1467249,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "25",
+        "word_num": 17,
+        "word": "θελήματι",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1251038,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "25",
+        "word_num": 26,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θελήματι = will",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520045",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "13",
+    "orig_lang_words": ",1502779,",
+    "target_lang_words": ",1297024,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502779,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 13,
+        "word": "θελήματι",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297024,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 19,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θελήματι = will",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544879",
+    "book_id": "col",
+    "chapter": "4",
+    "verse": "12",
+    "alignment_num": "23",
+    "orig_lang_words": ",1528798,",
+    "target_lang_words": ",1333712,1333713,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528798,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "12",
+        "word_num": 23,
+        "word": "θελήματι",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1333712,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "12",
+        "word_num": 32,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1333713,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "12",
+        "word_num": 33,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θελήματι = the will",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553873",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "10",
+    "alignment_num": "2",
+    "orig_lang_words": ",1538061,",
+    "target_lang_words": ",1346662,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538061,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "10",
+        "word_num": 2,
+        "word": "θελήματι",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346662,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "10",
+        "word_num": 2,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θελήματι = will",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558475",
+    "book_id": "1pe",
+    "chapter": "4",
+    "verse": "2",
+    "alignment_num": "10",
+    "orig_lang_words": ",1542887,",
+    "target_lang_words": ",1353653,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542887,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 6,
+        "word": "θελήματι",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1353653,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 23,
+        "word": "for",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "for",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θελήματι = for",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2657,86 +2031,259 @@
     "targetWordsTxt": "by the will",
     "alignmentTargetWords": 3,
     "alignmentTxt": "θελήματι = by the will",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "560423",
-    "book_id": "1jn",
-    "chapter": "2",
-    "verse": "17",
-    "alignment_num": "10",
-    "orig_lang_words": ",1545018,",
-    "target_lang_words": ",1356708,",
+    "id": "487684",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "8",
+    "orig_lang_words": ",1468684,",
+    "target_lang_words": ",1252896,1252897,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1545018,
-        "book_id": "1jn",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 12,
-        "word": "θέλημα",
+        "id": 1468684,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 6,
+        "word": "θελήματος",
         "occurrence": 1,
         "strong": "G23070",
         "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,ANS,"
+        "morph": "Gr,N,,,,,GNS,"
       }
     ],
-    "origWordsTxt": "θέλημα",
+    "origWordsTxt": "θελήματος",
     "alignmentOrigWords": 1,
-    "targetSpan": 0,
+    "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1356708,
-        "book_id": "1jn",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 12,
+        "id": 1252896,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 8,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1252897,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 9,
         "word": "will",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "targetWordsTxt": "the will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θελήματος = the will",
+    "frequency": 0.6428571428571429,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "561701",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "14",
-    "alignment_num": "16",
-    "orig_lang_words": ",1546471,",
-    "target_lang_words": ",1358427,",
+    "id": "487688",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "12",
+    "orig_lang_words": ",1468688,",
+    "target_lang_words": ",1252903,1252904,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1546471,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "14",
+        "id": 1468688,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 10,
+        "word": "θελήματος",
+        "occurrence": 2,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1252903,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "13",
         "word_num": 15,
-        "word": "θέλημα",
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1252904,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 16,
+        "word": "will",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "the will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θελήματος = the will",
+    "frequency": 0.6428571428571429,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526011",
+    "book_id": "rom",
+    "chapter": "15",
+    "verse": "32",
+    "alignment_num": "7",
+    "orig_lang_words": ",1509296,",
+    "target_lang_words": ",1306294,1306295,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509296,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "32",
+        "word_num": 7,
+        "word": "θελήματος",
         "occurrence": 1,
         "strong": "G23070",
         "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,ANS,"
+        "morph": "Gr,N,,,,,GNS,"
       }
     ],
-    "origWordsTxt": "θέλημα",
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1306294,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "32",
+        "word_num": 10,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1306295,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "32",
+        "word_num": 11,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θελήματος = the will",
+    "frequency": 0.6428571428571429,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526422",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "7",
+    "orig_lang_words": ",1509751,",
+    "target_lang_words": ",1306849,1306850,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509751,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 6,
+        "word": "θελήματος",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1306849,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 10,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1306850,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 11,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θελήματος = the will",
+    "frequency": 0.6428571428571429,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528975",
+    "book_id": "1co",
+    "chapter": "7",
+    "verse": "37",
+    "alignment_num": "15",
+    "orig_lang_words": ",1512392,",
+    "target_lang_words": ",1310583,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1512392,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "37",
+        "word_num": 17,
+        "word": "θελήματος",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματος",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1358427,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "14",
+        "id": 1310583,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "37",
         "word_num": 18,
         "word": "will",
         "occurrence": 1
@@ -2744,64 +2291,573 @@
     ],
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "θέλημα = will",
-    "frequency": 0.30357142857142855,
+    "alignmentTxt": "θελήματος = will",
+    "frequency": 0.2857142857142857,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "564399",
-    "book_id": "rev",
-    "chapter": "4",
-    "verse": "11",
-    "alignment_num": "23",
-    "orig_lang_words": ",1549435,1549436,",
-    "target_lang_words": ",1362334,",
-    "origSpan": 1,
+    "id": "533040",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1516570,",
+    "target_lang_words": ",1316614,1316615,",
+    "origSpan": 0,
     "origWords": [
       {
-        "id": 1549435,
-        "book_id": "rev",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 24,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1549436,
-        "book_id": "rev",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 25,
-        "word": "θέλημά",
+        "id": 1516570,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 5,
+        "word": "θελήματος",
         "occurrence": 1,
         "strong": "G23070",
         "lemma": "θέλημα",
-        "morph": "Gr,N,,,,,ANS,"
+        "morph": "Gr,N,,,,,GNS,"
       }
     ],
-    "origWordsTxt": "τὸ θέλημά",
-    "alignmentOrigWords": 2,
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1316614,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 7,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1316615,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 8,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θελήματος = the will",
+    "frequency": 0.6428571428571429,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535357",
+    "book_id": "2co",
+    "chapter": "8",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1518962,",
+    "target_lang_words": ",1319908,1319909,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518962,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "5",
+        "word_num": 13,
+        "word": "θελήματος",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1319908,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "5",
+        "word_num": 22,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1319909,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "5",
+        "word_num": 23,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θελήματος = the will",
+    "frequency": 0.6428571428571429,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539525",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1523270,",
+    "target_lang_words": ",1326261,1326262,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523270,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 5,
+        "word": "θελήματος",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1326261,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 7,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1326262,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 8,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θελήματος = the will",
+    "frequency": 0.6428571428571429,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539605",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1523347,",
+    "target_lang_words": ",1326357,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523347,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 13,
+        "word": "θελήματος",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1362334,
-        "book_id": "rev",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 26,
+        "id": 1326357,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 17,
         "word": "will",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ θέλημά = will",
+    "alignmentTxt": "θελήματος = will",
+    "frequency": 0.2857142857142857,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539650",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "6",
+    "orig_lang_words": ",1523394,",
+    "target_lang_words": ",1326417,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523394,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 5,
+        "word": "θελήματος",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326417,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 9,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θελήματος = will",
+    "frequency": 0.2857142857142857,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539695",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "11",
+    "alignment_num": "16",
+    "orig_lang_words": ",1523442,",
+    "target_lang_words": ",1326486,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523442,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 15,
+        "word": "θελήματος",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326486,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 28,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θελήματος = will",
+    "frequency": 0.2857142857142857,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543504",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1527315,",
+    "target_lang_words": ",1331691,1331692,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527315,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 5,
+        "word": "θελήματος",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1331691,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 7,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1331692,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 8,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θελήματος = the will",
+    "frequency": 0.6428571428571429,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543646",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "17",
+    "orig_lang_words": ",1527463,1527464,",
+    "target_lang_words": ",1331904,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1527463,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 19,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNS,"
+      },
+      {
+        "id": 1527464,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 20,
+        "word": "θελήματος",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ θελήματος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1331904,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 29,
+        "word": "of",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ θελήματος = of",
     "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548773",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1532789,",
+    "target_lang_words": ",1339171,1339172,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532789,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 5,
+        "word": "θελήματος",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θελήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1339171,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 7,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1339172,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 8,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θελήματος = the will",
+    "frequency": 0.6428571428571429,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510177",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "22",
+    "alignment_num": "28",
+    "orig_lang_words": ",1492630,1492631,",
+    "target_lang_words": ",1283426,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1492630,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "22",
+        "word_num": 26,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1492631,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "22",
+        "word_num": 27,
+        "word": "θελήματά",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ θελήματά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283426,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "22",
+        "word_num": 41,
+        "word": "will",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ θελήματά = will",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539968",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "3",
+    "alignment_num": "15",
+    "orig_lang_words": ",1523717,",
+    "target_lang_words": ",1326823,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523717,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "3",
+        "word_num": 15,
+        "word": "θελήματα",
+        "occurrence": 1,
+        "strong": "G23070",
+        "lemma": "θέλημα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "θελήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326823,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "3",
+        "word_num": 16,
+        "word": "desires",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "desires",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θελήματα = desires",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

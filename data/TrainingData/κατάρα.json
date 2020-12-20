@@ -48,7 +48,8 @@
     "targetWordsTxt": "a curse",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατάραν = a curse",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,98 @@
     "targetWordsTxt": "curse",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κατάρας = curse",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552384",
+    "book_id": "heb",
+    "chapter": "6",
+    "verse": "8",
+    "alignment_num": "8",
+    "orig_lang_words": ",1536498,",
+    "target_lang_words": ",1344403,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536498,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "8",
+        "word_num": 7,
+        "word": "κατάρας",
+        "occurrence": 1,
+        "strong": "G26710",
+        "lemma": "κατάρα",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "κατάρας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344403,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "8",
+        "word_num": 14,
+        "word": "cursed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "cursed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κατάρας = cursed",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559461",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "14",
+    "alignment_num": "16",
+    "orig_lang_words": ",1543991,",
+    "target_lang_words": ",1355300,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543991,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 14,
+        "word": "κατάρας",
+        "occurrence": 1,
+        "strong": "G26710",
+        "lemma": "κατάρα",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "κατάρας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355300,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 29,
+        "word": "cursed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "cursed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κατάρας = cursed",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,51 +237,8 @@
     "targetWordsTxt": "a curse",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατάρα = a curse",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552384",
-    "book_id": "heb",
-    "chapter": "6",
-    "verse": "8",
-    "alignment_num": "8",
-    "orig_lang_words": ",1536498,",
-    "target_lang_words": ",1344403,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536498,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "8",
-        "word_num": 7,
-        "word": "κατάρας",
-        "occurrence": 1,
-        "strong": "G26710",
-        "lemma": "κατάρα",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "κατάρας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344403,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "8",
-        "word_num": 14,
-        "word": "cursed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "cursed",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κατάρας = cursed",
-    "frequency": 0.3333333333333333,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -233,51 +282,8 @@
     "targetWordsTxt": "cursing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κατάρα = cursing",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559461",
-    "book_id": "2pe",
-    "chapter": "2",
-    "verse": "14",
-    "alignment_num": "16",
-    "orig_lang_words": ",1543991,",
-    "target_lang_words": ",1355300,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543991,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 14,
-        "word": "κατάρας",
-        "occurrence": 1,
-        "strong": "G26710",
-        "lemma": "κατάρα",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "κατάρας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355300,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 29,
-        "word": "cursed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "cursed",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κατάρας = cursed",
-    "frequency": 0.3333333333333333,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

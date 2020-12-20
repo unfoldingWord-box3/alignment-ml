@@ -48,113 +48,8 @@
     "targetWordsTxt": "commit adultery",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μοιχεύσῃς = commit adultery",
-    "frequency": 0.3,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481327",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "18",
-    "alignment_num": "8",
-    "orig_lang_words": ",1462246,",
-    "target_lang_words": ",1244201,1244202,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462246,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "18",
-        "word_num": 9,
-        "word": "μοιχεύει",
-        "occurrence": 1,
-        "strong": "G34310",
-        "lemma": "μοιχεύω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "μοιχεύει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1244201,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "18",
-        "word_num": 8,
-        "word": "commits",
-        "occurrence": 1
-      },
-      {
-        "id": 1244202,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "18",
-        "word_num": 9,
-        "word": "adultery",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "commits adultery",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μοιχεύει = commits adultery",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481334",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "18",
-    "alignment_num": "15",
-    "orig_lang_words": ",1462253,",
-    "target_lang_words": ",1244214,1244215,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462253,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "18",
-        "word_num": 16,
-        "word": "μοιχεύει",
-        "occurrence": 2,
-        "strong": "G34310",
-        "lemma": "μοιχεύω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "μοιχεύει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1244214,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "18",
-        "word_num": 21,
-        "word": "commits",
-        "occurrence": 2
-      },
-      {
-        "id": 1244215,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "18",
-        "word_num": 22,
-        "word": "adultery",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "commits adultery",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μοιχεύει = commits adultery",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -207,7 +102,170 @@
     "targetWordsTxt": "commit adultery",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μοιχεύσῃς = commit adultery",
-    "frequency": 0.3,
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556233",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "11",
+    "alignment_num": "4",
+    "orig_lang_words": ",1540529,",
+    "target_lang_words": ",1350244,1350245,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540529,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 4,
+        "word": "μοιχεύσῃς",
+        "occurrence": 1,
+        "strong": "G34310",
+        "lemma": "μοιχεύω",
+        "morph": "Gr,V,SAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "μοιχεύσῃς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1350244,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 7,
+        "word": "commit",
+        "occurrence": 1
+      },
+      {
+        "id": 1350245,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 8,
+        "word": "adultery",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "commit adultery",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μοιχεύσῃς = commit adultery",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481327",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "18",
+    "alignment_num": "8",
+    "orig_lang_words": ",1462246,",
+    "target_lang_words": ",1244201,1244202,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462246,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "18",
+        "word_num": 9,
+        "word": "μοιχεύει",
+        "occurrence": 1,
+        "strong": "G34310",
+        "lemma": "μοιχεύω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "μοιχεύει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1244201,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "18",
+        "word_num": 8,
+        "word": "commits",
+        "occurrence": 1
+      },
+      {
+        "id": 1244202,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "18",
+        "word_num": 9,
+        "word": "adultery",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "commits adultery",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μοιχεύει = commits adultery",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481334",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "18",
+    "alignment_num": "15",
+    "orig_lang_words": ",1462253,",
+    "target_lang_words": ",1244214,1244215,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462253,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "18",
+        "word_num": 16,
+        "word": "μοιχεύει",
+        "occurrence": 2,
+        "strong": "G34310",
+        "lemma": "μοιχεύω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "μοιχεύει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1244214,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "18",
+        "word_num": 21,
+        "word": "commits",
+        "occurrence": 2
+      },
+      {
+        "id": 1244215,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "18",
+        "word_num": 22,
+        "word": "adultery",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "commits adultery",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μοιχεύει = commits adultery",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -260,7 +318,8 @@
     "targetWordsTxt": "one must",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μοιχεύειν = one must",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -331,7 +390,53 @@
     "targetWordsTxt": "do you commit adultery",
     "alignmentTargetWords": 4,
     "alignmentTxt": "μοιχεύεις = do you commit adultery",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556240",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "11",
+    "alignment_num": "11",
+    "orig_lang_words": ",1540537,",
+    "target_lang_words": ",1350253,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540537,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 12,
+        "word": "μοιχεύεις",
+        "occurrence": 1,
+        "strong": "G34310",
+        "lemma": "μοιχεύω",
+        "morph": "Gr,V,IPA2,,S,"
+      }
+    ],
+    "origWordsTxt": "μοιχεύεις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350253,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 16,
+        "word": "you",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μοιχεύεις = you",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -384,104 +489,8 @@
     "targetWordsTxt": "commit adultery",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μοιχεύσεις = commit adultery",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556233",
-    "book_id": "jas",
-    "chapter": "2",
-    "verse": "11",
-    "alignment_num": "4",
-    "orig_lang_words": ",1540529,",
-    "target_lang_words": ",1350244,1350245,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540529,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 4,
-        "word": "μοιχεύσῃς",
-        "occurrence": 1,
-        "strong": "G34310",
-        "lemma": "μοιχεύω",
-        "morph": "Gr,V,SAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "μοιχεύσῃς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1350244,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 7,
-        "word": "commit",
-        "occurrence": 1
-      },
-      {
-        "id": 1350245,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 8,
-        "word": "adultery",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "commit adultery",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μοιχεύσῃς = commit adultery",
-    "frequency": 0.3,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556240",
-    "book_id": "jas",
-    "chapter": "2",
-    "verse": "11",
-    "alignment_num": "11",
-    "orig_lang_words": ",1540537,",
-    "target_lang_words": ",1350253,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540537,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 12,
-        "word": "μοιχεύεις",
-        "occurrence": 1,
-        "strong": "G34310",
-        "lemma": "μοιχεύω",
-        "morph": "Gr,V,IPA2,,S,"
-      }
-    ],
-    "origWordsTxt": "μοιχεύεις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350253,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 16,
-        "word": "you",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μοιχεύεις = you",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -564,7 +573,8 @@
     "targetWordsTxt": "those who commit adultery",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τοὺς μοιχεύοντας = those who commit adultery",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

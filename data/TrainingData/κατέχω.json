@@ -48,7 +48,62 @@
     "targetWordsTxt": "they restrained",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατεῖχον = they restrained",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519232",
+    "book_id": "act",
+    "chapter": "27",
+    "verse": "40",
+    "alignment_num": "22",
+    "orig_lang_words": ",1501936,",
+    "target_lang_words": ",1295884,1295885,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501936,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "40",
+        "word_num": 20,
+        "word": "κατεῖχον",
+        "occurrence": 1,
+        "strong": "G27220",
+        "lemma": "κατέχω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "κατεῖχον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1295884,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "40",
+        "word_num": 30,
+        "word": "they",
+        "occurrence": 2
+      },
+      {
+        "id": 1295885,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "40",
+        "word_num": 31,
+        "word": "headed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they headed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κατεῖχον = they headed",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -110,7 +165,8 @@
     "targetWordsTxt": "hold it securely",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κατέχουσιν = hold it securely",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -163,60 +219,80 @@
     "targetWordsTxt": "to take",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατέχειν = to take",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "519232",
-    "book_id": "act",
-    "chapter": "27",
-    "verse": "40",
-    "alignment_num": "22",
-    "orig_lang_words": ",1501936,",
-    "target_lang_words": ",1295884,1295885,",
+    "id": "550810",
+    "book_id": "phm",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "2",
+    "orig_lang_words": ",1534849,",
+    "target_lang_words": ",1342029,1342030,1342031,1342032,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1501936,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "40",
-        "word_num": 20,
-        "word": "κατεῖχον",
+        "id": 1534849,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 5,
+        "word": "κατέχειν",
         "occurrence": 1,
         "strong": "G27220",
         "lemma": "κατέχω",
-        "morph": "Gr,V,IIA3,,P,"
+        "morph": "Gr,V,NPA,,,,,"
       }
     ],
-    "origWordsTxt": "κατεῖχον",
+    "origWordsTxt": "κατέχειν",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 3,
     "targetWords": [
       {
-        "id": 1295884,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "40",
-        "word_num": 30,
-        "word": "they",
+        "id": 1342029,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 2,
+        "word": "I",
         "occurrence": 2
       },
       {
-        "id": 1295885,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "40",
-        "word_num": 31,
-        "word": "headed",
+        "id": 1342030,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 3,
+        "word": "could",
+        "occurrence": 1
+      },
+      {
+        "id": 1342031,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 4,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1342032,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 5,
+        "word": "kept",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "they headed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κατεῖχον = they headed",
-    "frequency": 0.058823529411764705,
+    "targetWordsTxt": "I could have kept",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "κατέχειν = I could have kept",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -269,7 +345,8 @@
     "targetWordsTxt": "hold back",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατεχόντων = hold back",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -331,7 +408,8 @@
     "targetWordsTxt": "we were held",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κατειχόμεθα = we were held",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -384,7 +462,53 @@
     "targetWordsTxt": "they did",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατέχοντες = they did",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534843",
+    "book_id": "2co",
+    "chapter": "6",
+    "verse": "10",
+    "alignment_num": "15",
+    "orig_lang_words": ",1518435,",
+    "target_lang_words": ",1319166,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518435,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 15,
+        "word": "κατέχοντες",
+        "occurrence": 1,
+        "strong": "G27220",
+        "lemma": "κατέχω",
+        "morph": "Gr,V,PPA,NMP,"
+      }
+    ],
+    "origWordsTxt": "κατέχοντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319166,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 17,
+        "word": "possessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "possessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κατέχοντες = possessing",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -446,7 +570,8 @@
     "targetWordsTxt": "you hold firmly",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κατέχετε = you hold firmly",
-    "frequency": 0.11764705882352941,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -508,51 +633,8 @@
     "targetWordsTxt": "you hold firmly",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κατέχετε = you hold firmly",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534843",
-    "book_id": "2co",
-    "chapter": "6",
-    "verse": "10",
-    "alignment_num": "15",
-    "orig_lang_words": ",1518435,",
-    "target_lang_words": ",1319166,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518435,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 15,
-        "word": "κατέχοντες",
-        "occurrence": 1,
-        "strong": "G27220",
-        "lemma": "κατέχω",
-        "morph": "Gr,V,PPA,NMP,"
-      }
-    ],
-    "origWordsTxt": "κατέχοντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1319166,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 17,
-        "word": "possessing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "possessing",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κατέχοντες = possessing",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -605,7 +687,8 @@
     "targetWordsTxt": "Hold on",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατέχετε = Hold on",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -658,7 +741,8 @@
     "targetWordsTxt": "restrains him",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατέχον = restrains him",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -759,78 +843,8 @@
     "targetWordsTxt": "there is someone who restrains him",
     "alignmentTargetWords": 6,
     "alignmentTxt": "ὁ κατέχων = there is someone who restrains him",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550810",
-    "book_id": "phm",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "2",
-    "orig_lang_words": ",1534849,",
-    "target_lang_words": ",1342029,1342030,1342031,1342032,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534849,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 5,
-        "word": "κατέχειν",
-        "occurrence": 1,
-        "strong": "G27220",
-        "lemma": "κατέχω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "κατέχειν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1342029,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 2,
-        "word": "I",
-        "occurrence": 2
-      },
-      {
-        "id": 1342030,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 3,
-        "word": "could",
-        "occurrence": 1
-      },
-      {
-        "id": 1342031,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 4,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1342032,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 5,
-        "word": "kept",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I could have kept",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "κατέχειν = I could have kept",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -892,7 +906,8 @@
     "targetWordsTxt": "we hold fast",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κατάσχωμεν = we hold fast",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -936,7 +951,8 @@
     "targetWordsTxt": "we",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κατάσχωμεν = we",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1007,7 +1023,8 @@
     "targetWordsTxt": "Let us hold tightly",
     "alignmentTargetWords": 4,
     "alignmentTxt": "κατέχωμεν = Let us hold tightly",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -51,7 +51,8 @@
     "targetWordsTxt": "Savior",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῷ Σωτῆρί = Savior",
-    "frequency": 0.041666666666666664,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -104,7 +105,8 @@
     "targetWordsTxt": "a Savior",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Σωτὴρ = a Savior",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -148,113 +150,8 @@
     "targetWordsTxt": "Savior",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Σωτὴρ = Savior",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504923",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "31",
-    "alignment_num": "8",
-    "orig_lang_words": ",1487237,",
-    "target_lang_words": ",1276345,1276346,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487237,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 5,
-        "word": "Σωτῆρα",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1276345,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 12,
-        "word": "a",
-        "occurrence": 2
-      },
-      {
-        "id": 1276346,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 13,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a Savior",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "Σωτῆρα = a Savior",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510188",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "23",
-    "alignment_num": "10",
-    "orig_lang_words": ",1492644,",
-    "target_lang_words": ",1283438,1283439,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492644,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "23",
-        "word_num": 11,
-        "word": "Σωτῆρα",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1283438,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "23",
-        "word_num": 11,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1283439,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "23",
-        "word_num": 12,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a Savior",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "Σωτῆρα = a Savior",
-    "frequency": 0.125,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -307,160 +204,8 @@
     "targetWordsTxt": "the savior",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Σωτὴρ = the savior",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543134",
-    "book_id": "php",
-    "chapter": "3",
-    "verse": "20",
-    "alignment_num": "11",
-    "orig_lang_words": ",1526923,",
-    "target_lang_words": ",1331132,1331133,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526923,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "20",
-        "word_num": 10,
-        "word": "Σωτῆρα",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1331132,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "20",
-        "word_num": 12,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1331133,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "20",
-        "word_num": 13,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a Savior",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "Σωτῆρα = a Savior",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547153",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "8",
-    "orig_lang_words": ",1531198,",
-    "target_lang_words": ",1336866,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531198,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 7,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1336866,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 13,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547490",
-    "book_id": "1ti",
-    "chapter": "2",
-    "verse": "3",
-    "alignment_num": "7",
-    "orig_lang_words": ",1531534,1531535,",
-    "target_lang_words": ",1337352,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1531534,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "3",
-        "word_num": 5,
-        "word": "τοῦ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GMS,"
-      },
-      {
-        "id": 1531535,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "3",
-        "word_num": 6,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "τοῦ Σωτῆρος",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337352,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "3",
-        "word_num": 8,
-        "word": "savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ Σωτῆρος = savior",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -513,559 +258,170 @@
     "targetWordsTxt": "the Savior",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Σωτὴρ = the Savior",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "548939",
-    "book_id": "2ti",
-    "chapter": "1",
-    "verse": "10",
-    "alignment_num": "9",
-    "orig_lang_words": ",1532962,",
-    "target_lang_words": ",1339394,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532962,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 7,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339394,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 11,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550034",
-    "book_id": "tit",
-    "chapter": "1",
-    "verse": "3",
-    "alignment_num": "17",
-    "orig_lang_words": ",1534063,",
-    "target_lang_words": ",1340925,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534063,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 15,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1340925,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 23,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550052",
-    "book_id": "tit",
-    "chapter": "1",
-    "verse": "4",
-    "alignment_num": "17",
-    "orig_lang_words": ",1534081,1534082,",
-    "target_lang_words": ",1340946,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1534081,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "4",
-        "word_num": 15,
-        "word": "τοῦ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GMS,"
-      },
-      {
-        "id": 1534082,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "4",
-        "word_num": 16,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "τοῦ Σωτῆρος",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1340946,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "4",
-        "word_num": 20,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ Σωτῆρος = Savior",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550354",
-    "book_id": "tit",
-    "chapter": "2",
-    "verse": "10",
-    "alignment_num": "17",
-    "orig_lang_words": ",1534377,",
-    "target_lang_words": ",1341406,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534377,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 12,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341406,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 27,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550397",
-    "book_id": "tit",
-    "chapter": "2",
-    "verse": "13",
-    "alignment_num": "14",
-    "orig_lang_words": ",1534424,",
-    "target_lang_words": ",1341462,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534424,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 12,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341462,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 19,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550486",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "4",
-    "alignment_num": "7",
-    "orig_lang_words": ",1534512,",
-    "target_lang_words": ",1341575,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534512,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 9,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341575,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 7,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550521",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "6",
+    "id": "504923",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "31",
     "alignment_num": "8",
-    "orig_lang_words": ",1534546,1534547,",
-    "target_lang_words": ",1341620,",
-    "origSpan": 1,
+    "orig_lang_words": ",1487237,",
+    "target_lang_words": ",1276345,1276346,",
+    "origSpan": 0,
     "origWords": [
       {
-        "id": 1534546,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 8,
-        "word": "τοῦ",
+        "id": 1487237,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 5,
+        "word": "Σωτῆρα",
         "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GMS,"
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1276345,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 12,
+        "word": "a",
+        "occurrence": 2
       },
       {
-        "id": 1534547,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 9,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "τοῦ Σωτῆρος",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341620,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 8,
+        "id": 1276346,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 13,
         "word": "Savior",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ Σωτῆρος = Savior",
-    "frequency": 0.08333333333333333,
+    "targetWordsTxt": "a Savior",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "Σωτῆρα = a Savior",
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "558899",
-    "book_id": "2pe",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "17",
-    "orig_lang_words": ",1543394,",
-    "target_lang_words": ",1354432,",
+    "id": "510188",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "23",
+    "alignment_num": "10",
+    "orig_lang_words": ",1492644,",
+    "target_lang_words": ",1283438,1283439,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1543394,
-        "book_id": "2pe",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 18,
-        "word": "Σωτῆρος",
+        "id": 1492644,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 11,
+        "word": "Σωτῆρα",
         "occurrence": 1,
         "strong": "G49900",
         "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
+        "morph": "Gr,N,,,,,AMS,"
       }
     ],
-    "origWordsTxt": "Σωτῆρος",
+    "origWordsTxt": "Σωτῆρα",
     "alignmentOrigWords": 1,
-    "targetSpan": 0,
+    "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1354432,
-        "book_id": "2pe",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 30,
+        "id": 1283438,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 11,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1283439,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 12,
         "word": "Savior",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
+    "targetWordsTxt": "a Savior",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "Σωτῆρα = a Savior",
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "559052",
-    "book_id": "2pe",
-    "chapter": "1",
-    "verse": "11",
-    "alignment_num": "16",
-    "orig_lang_words": ",1543576,",
-    "target_lang_words": ",1354655,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543576,
-        "book_id": "2pe",
-        "chapter": "1",
-        "verse": "11",
-        "word_num": 15,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1354655,
-        "book_id": "2pe",
-        "chapter": "1",
-        "verse": "11",
-        "word_num": 21,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559545",
-    "book_id": "2pe",
-    "chapter": "2",
+    "id": "543134",
+    "book_id": "php",
+    "chapter": "3",
     "verse": "20",
-    "alignment_num": "12",
-    "orig_lang_words": ",1544082,",
-    "target_lang_words": ",1355442,",
+    "alignment_num": "11",
+    "orig_lang_words": ",1526923,",
+    "target_lang_words": ",1331132,1331133,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1544082,
-        "book_id": "2pe",
-        "chapter": "2",
+        "id": 1526923,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 10,
+        "word": "Σωτῆρα",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1331132,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "20",
+        "word_num": 12,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1331133,
+        "book_id": "php",
+        "chapter": "3",
         "verse": "20",
         "word_num": 13,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355442,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "20",
-        "word_num": 17,
         "word": "Savior",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559619",
-    "book_id": "2pe",
-    "chapter": "3",
-    "verse": "2",
-    "alignment_num": "13",
-    "orig_lang_words": ",1544167,",
-    "target_lang_words": ",1355563,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1544167,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 17,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355563,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 22,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559902",
-    "book_id": "2pe",
-    "chapter": "3",
-    "verse": "18",
-    "alignment_num": "10",
-    "orig_lang_words": ",1544463,",
-    "target_lang_words": ",1355999,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1544463,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 10,
-        "word": "Σωτῆρος",
-        "occurrence": 1,
-        "strong": "G49900",
-        "lemma": "σωτήρ",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "Σωτῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355999,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 11,
-        "word": "Savior",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Savior",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σωτῆρος = Savior",
-    "frequency": 0.4583333333333333,
+    "targetWordsTxt": "a Savior",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "Σωτῆρα = a Savior",
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1136,7 +492,674 @@
     "targetWordsTxt": "to be the Savior",
     "alignmentTargetWords": 4,
     "alignmentTxt": "Σωτῆρα = to be the Savior",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547153",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "8",
+    "orig_lang_words": ",1531198,",
+    "target_lang_words": ",1336866,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531198,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 7,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336866,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 13,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547490",
+    "book_id": "1ti",
+    "chapter": "2",
+    "verse": "3",
+    "alignment_num": "7",
+    "orig_lang_words": ",1531534,1531535,",
+    "target_lang_words": ",1337352,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1531534,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "3",
+        "word_num": 5,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GMS,"
+      },
+      {
+        "id": 1531535,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "3",
+        "word_num": 6,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ Σωτῆρος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337352,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "3",
+        "word_num": 8,
+        "word": "savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ Σωτῆρος = savior",
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548939",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "9",
+    "orig_lang_words": ",1532962,",
+    "target_lang_words": ",1339394,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532962,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 7,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339394,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 11,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550034",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "17",
+    "orig_lang_words": ",1534063,",
+    "target_lang_words": ",1340925,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534063,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 15,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340925,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 23,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550052",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "17",
+    "orig_lang_words": ",1534081,1534082,",
+    "target_lang_words": ",1340946,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1534081,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 15,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GMS,"
+      },
+      {
+        "id": 1534082,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 16,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ Σωτῆρος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340946,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 20,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ Σωτῆρος = Savior",
+    "frequency": 0.14285714285714285,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550354",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "10",
+    "alignment_num": "17",
+    "orig_lang_words": ",1534377,",
+    "target_lang_words": ",1341406,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534377,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 12,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341406,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 27,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550397",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "13",
+    "alignment_num": "14",
+    "orig_lang_words": ",1534424,",
+    "target_lang_words": ",1341462,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534424,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 12,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341462,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 19,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550486",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "4",
+    "alignment_num": "7",
+    "orig_lang_words": ",1534512,",
+    "target_lang_words": ",1341575,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534512,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 9,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341575,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 7,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550521",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "6",
+    "alignment_num": "8",
+    "orig_lang_words": ",1534546,1534547,",
+    "target_lang_words": ",1341620,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1534546,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 8,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GMS,"
+      },
+      {
+        "id": 1534547,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 9,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ Σωτῆρος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341620,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 8,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ Σωτῆρος = Savior",
+    "frequency": 0.14285714285714285,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558899",
+    "book_id": "2pe",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "17",
+    "orig_lang_words": ",1543394,",
+    "target_lang_words": ",1354432,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543394,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 18,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1354432,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 30,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559052",
+    "book_id": "2pe",
+    "chapter": "1",
+    "verse": "11",
+    "alignment_num": "16",
+    "orig_lang_words": ",1543576,",
+    "target_lang_words": ",1354655,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543576,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 15,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1354655,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 21,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559545",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "20",
+    "alignment_num": "12",
+    "orig_lang_words": ",1544082,",
+    "target_lang_words": ",1355442,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1544082,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 13,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355442,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 17,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559619",
+    "book_id": "2pe",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "13",
+    "orig_lang_words": ",1544167,",
+    "target_lang_words": ",1355563,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1544167,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 17,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355563,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 22,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559902",
+    "book_id": "2pe",
+    "chapter": "3",
+    "verse": "18",
+    "alignment_num": "10",
+    "orig_lang_words": ",1544463,",
+    "target_lang_words": ",1355999,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1544463,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 10,
+        "word": "Σωτῆρος",
+        "occurrence": 1,
+        "strong": "G49900",
+        "lemma": "σωτήρ",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "Σωτῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355999,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 11,
+        "word": "Savior",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Savior",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σωτῆρος = Savior",
+    "frequency": 0.7857142857142857,
+    "matchCount": 11,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1180,7 +1203,8 @@
     "targetWordsTxt": "Savior",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Σωτῆρι = Savior",
-    "frequency": 0.041666666666666664,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

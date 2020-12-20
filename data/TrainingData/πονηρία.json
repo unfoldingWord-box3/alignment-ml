@@ -39,7 +39,8 @@
     "targetWordsTxt": "wickedness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πονηρίαι = wickedness",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,98 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πονηρίας = evil",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527958",
+    "book_id": "1co",
+    "chapter": "5",
+    "verse": "8",
+    "alignment_num": "11",
+    "orig_lang_words": ",1511351,",
+    "target_lang_words": ",1309060,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511351,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "8",
+        "word_num": 11,
+        "word": "πονηρίας",
+        "occurrence": 1,
+        "strong": "G41890",
+        "lemma": "πονηρία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "πονηρίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1309060,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "8",
+        "word_num": 18,
+        "word": "wickedness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wickedness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πονηρίας = wickedness",
     "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541736",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "12",
+    "alignment_num": "26",
+    "orig_lang_words": ",1525482,",
+    "target_lang_words": ",1329079,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525482,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 27,
+        "word": "πονηρίας",
+        "occurrence": 1,
+        "strong": "G41890",
+        "lemma": "πονηρία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "πονηρίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329079,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 28,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πονηρίας = evil",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -139,7 +231,8 @@
     "targetWordsTxt": "wickedness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῶν πονηριῶν = wickedness",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -183,95 +276,8 @@
     "targetWordsTxt": "wickedness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πονηρίᾳ = wickedness",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "527958",
-    "book_id": "1co",
-    "chapter": "5",
-    "verse": "8",
-    "alignment_num": "11",
-    "orig_lang_words": ",1511351,",
-    "target_lang_words": ",1309060,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1511351,
-        "book_id": "1co",
-        "chapter": "5",
-        "verse": "8",
-        "word_num": 11,
-        "word": "πονηρίας",
-        "occurrence": 1,
-        "strong": "G41890",
-        "lemma": "πονηρία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "πονηρίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1309060,
-        "book_id": "1co",
-        "chapter": "5",
-        "verse": "8",
-        "word_num": 18,
-        "word": "wickedness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wickedness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πονηρίας = wickedness",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541736",
-    "book_id": "eph",
-    "chapter": "6",
-    "verse": "12",
-    "alignment_num": "26",
-    "orig_lang_words": ",1525482,",
-    "target_lang_words": ",1329079,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525482,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 27,
-        "word": "πονηρίας",
-        "occurrence": 1,
-        "strong": "G41890",
-        "lemma": "πονηρία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "πονηρίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1329079,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 28,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πονηρίας = evil",
-    "frequency": 0.3333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

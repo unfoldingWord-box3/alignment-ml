@@ -69,95 +69,8 @@
     "targetWordsTxt": "They will condemn",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καὶ κατακρινοῦσιν = They will condemn",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "467523",
-    "book_id": "mrk",
-    "chapter": "14",
-    "verse": "64",
-    "alignment_num": "8",
-    "orig_lang_words": ",1447947,",
-    "target_lang_words": ",1225066,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1447947,
-        "book_id": "mrk",
-        "chapter": "14",
-        "verse": "64",
-        "word_num": 9,
-        "word": "κατέκριναν",
-        "occurrence": 1,
-        "strong": "G26320",
-        "lemma": "κατακρίνω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "κατέκριναν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1225066,
-        "book_id": "mrk",
-        "chapter": "14",
-        "verse": "64",
-        "word_num": 11,
-        "word": "condemned",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "condemned",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κατέκριναν = condemned",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "477732",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "31",
-    "alignment_num": "13",
-    "orig_lang_words": ",1458600,",
-    "target_lang_words": ",1239276,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458600,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "31",
-        "word_num": 13,
-        "word": "κατακρινεῖ",
-        "occurrence": 1,
-        "strong": "G26320",
-        "lemma": "κατακρίνω",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "κατακρινεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1239276,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "31",
-        "word_num": 18,
-        "word": "condemn",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "condemn",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κατακρινεῖ = condemn",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -210,7 +123,98 @@
     "targetWordsTxt": "will condemn",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατακρινοῦσιν = will condemn",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "467523",
+    "book_id": "mrk",
+    "chapter": "14",
+    "verse": "64",
+    "alignment_num": "8",
+    "orig_lang_words": ",1447947,",
+    "target_lang_words": ",1225066,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1447947,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "64",
+        "word_num": 9,
+        "word": "κατέκριναν",
+        "occurrence": 1,
+        "strong": "G26320",
+        "lemma": "κατακρίνω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "κατέκριναν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1225066,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "64",
+        "word_num": 11,
+        "word": "condemned",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "condemned",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κατέκριναν = condemned",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "477732",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "31",
+    "alignment_num": "13",
+    "orig_lang_words": ",1458600,",
+    "target_lang_words": ",1239276,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458600,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "31",
+        "word_num": 13,
+        "word": "κατακρινεῖ",
+        "occurrence": 1,
+        "strong": "G26320",
+        "lemma": "κατακρίνω",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "κατακρινεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1239276,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "31",
+        "word_num": 18,
+        "word": "condemn",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "condemn",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κατακρινεῖ = condemn",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -263,7 +267,8 @@
     "targetWordsTxt": "you condemn",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατακρίνεις = you condemn",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -325,7 +330,8 @@
     "targetWordsTxt": "and he condemned",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κατέκρινε = and he condemned",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -408,7 +414,8 @@
     "targetWordsTxt": "the one who condemns",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ὁ κατακρινῶν = the one who condemns",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -461,7 +468,8 @@
     "targetWordsTxt": "is condemned",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατακέκριται = is condemned",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -514,7 +522,8 @@
     "targetWordsTxt": "we would",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατακριθῶμεν = we would",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -567,7 +576,8 @@
     "targetWordsTxt": "he condemned",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατέκρινεν = he condemned",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -629,7 +639,8 @@
     "targetWordsTxt": "and condemned them",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κατέκρινεν = and condemned them",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

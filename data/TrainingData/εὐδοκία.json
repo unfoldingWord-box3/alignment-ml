@@ -75,7 +75,62 @@
     "targetWordsTxt": "with whom he is pleased",
     "alignmentTargetWords": 5,
     "alignmentTxt": "εὐδοκίας = with whom he is pleased",
-    "frequency": 0.125,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542584",
+    "book_id": "php",
+    "chapter": "2",
+    "verse": "13",
+    "alignment_num": "13",
+    "orig_lang_words": ",1526371,",
+    "target_lang_words": ",1330289,1330290,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526371,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 15,
+        "word": "εὐδοκίας",
+        "occurrence": 1,
+        "strong": "G21070",
+        "lemma": "εὐδοκία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "εὐδοκίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1330289,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 17,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1330290,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 18,
+        "word": "pleasure",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good pleasure",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐδοκίας = good pleasure",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -128,7 +183,8 @@
     "targetWordsTxt": "well pleasing",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εὐδοκία = well pleasing",
-    "frequency": 0.125,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -172,7 +228,8 @@
     "targetWordsTxt": "desire",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εὐδοκία = desire",
-    "frequency": 0.125,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -225,7 +282,8 @@
     "targetWordsTxt": "good pleasure",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εὐδοκίαν = good pleasure",
-    "frequency": 0.125,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -290,7 +348,8 @@
     "targetWordsTxt": "good pleasure",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὴν εὐδοκίαν = good pleasure",
-    "frequency": 0.125,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -343,60 +402,8 @@
     "targetWordsTxt": "good will",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εὐδοκίαν = good will",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542584",
-    "book_id": "php",
-    "chapter": "2",
-    "verse": "13",
-    "alignment_num": "13",
-    "orig_lang_words": ",1526371,",
-    "target_lang_words": ",1330289,1330290,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526371,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 15,
-        "word": "εὐδοκίας",
-        "occurrence": 1,
-        "strong": "G21070",
-        "lemma": "εὐδοκία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "εὐδοκίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1330289,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 17,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1330290,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 18,
-        "word": "pleasure",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good pleasure",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "εὐδοκίας = good pleasure",
-    "frequency": 0.125,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -440,7 +447,8 @@
     "targetWordsTxt": "desire",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εὐδοκίαν = desire",
-    "frequency": 0.125,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

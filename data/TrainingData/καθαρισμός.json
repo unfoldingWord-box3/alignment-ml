@@ -51,7 +51,8 @@
     "targetWordsTxt": "cleansing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ καθαρισμοῦ = cleansing",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -95,7 +96,8 @@
     "targetWordsTxt": "purification",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καθαρισμοῦ = purification",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -151,60 +153,8 @@
     "targetWordsTxt": "cleansing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ καθαρισμοῦ = cleansing",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488370",
-    "book_id": "jhn",
-    "chapter": "2",
-    "verse": "6",
-    "alignment_num": "8",
-    "orig_lang_words": ",1469434,",
-    "target_lang_words": ",1253815,1253816,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1469434,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 8,
-        "word": "καθαρισμὸν",
-        "occurrence": 1,
-        "strong": "G25120",
-        "lemma": "καθαρισμός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "καθαρισμὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1253815,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 11,
-        "word": "ceremonial",
-        "occurrence": 1
-      },
-      {
-        "id": 1253816,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 12,
-        "word": "washing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "ceremonial washing",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καθαρισμὸν = ceremonial washing",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -257,51 +207,8 @@
     "targetWordsTxt": "ceremonial washing",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καθαρισμοῦ = ceremonial washing",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551016",
-    "book_id": "heb",
-    "chapter": "1",
-    "verse": "3",
-    "alignment_num": "19",
-    "orig_lang_words": ",1535066,",
-    "target_lang_words": ",1342356,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535066,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 19,
-        "word": "καθαρισμὸν",
-        "occurrence": 1,
-        "strong": "G25120",
-        "lemma": "καθαρισμός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "καθαρισμὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1342356,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 29,
-        "word": "cleansing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "cleansing",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καθαρισμὸν = cleansing",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -384,7 +291,107 @@
     "targetWordsTxt": "he has been cleansed",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τοῦ καθαρισμοῦ = he has been cleansed",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488370",
+    "book_id": "jhn",
+    "chapter": "2",
+    "verse": "6",
+    "alignment_num": "8",
+    "orig_lang_words": ",1469434,",
+    "target_lang_words": ",1253815,1253816,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469434,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 8,
+        "word": "καθαρισμὸν",
+        "occurrence": 1,
+        "strong": "G25120",
+        "lemma": "καθαρισμός",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "καθαρισμὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1253815,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 11,
+        "word": "ceremonial",
+        "occurrence": 1
+      },
+      {
+        "id": 1253816,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 12,
+        "word": "washing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "ceremonial washing",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καθαρισμὸν = ceremonial washing",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551016",
+    "book_id": "heb",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "19",
+    "orig_lang_words": ",1535066,",
+    "target_lang_words": ",1342356,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535066,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 19,
+        "word": "καθαρισμὸν",
+        "occurrence": 1,
+        "strong": "G25120",
+        "lemma": "καθαρισμός",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "καθαρισμὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1342356,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 29,
+        "word": "cleansing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "cleansing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καθαρισμὸν = cleansing",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

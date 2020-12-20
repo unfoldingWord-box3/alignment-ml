@@ -48,51 +48,8 @@
     "targetWordsTxt": "called for",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετεκαλέσατο = called for",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508475",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "32",
-    "alignment_num": "5",
-    "orig_lang_words": ",1490882,",
-    "target_lang_words": ",1281130,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490882,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "32",
-        "word_num": 5,
-        "word": "μετακάλεσαι",
-        "occurrence": 1,
-        "strong": "G33330",
-        "lemma": "μετακαλέω",
-        "morph": "Gr,V,MAM2,,S,"
-      }
-    ],
-    "origWordsTxt": "μετακάλεσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1281130,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "32",
-        "word_num": 6,
-        "word": "summon",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "summon",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετακάλεσαι = summon",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +102,53 @@
     "targetWordsTxt": "and summoned",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετεκαλέσατο = and summoned",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508475",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "32",
+    "alignment_num": "5",
+    "orig_lang_words": ",1490882,",
+    "target_lang_words": ",1281130,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490882,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 5,
+        "word": "μετακάλεσαι",
+        "occurrence": 1,
+        "strong": "G33330",
+        "lemma": "μετακαλέω",
+        "morph": "Gr,V,MAM2,,S,"
+      }
+    ],
+    "origWordsTxt": "μετακάλεσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1281130,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 6,
+        "word": "summon",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "summon",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετακάλεσαι = summon",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -216,7 +219,8 @@
     "targetWordsTxt": "I will send for",
     "alignmentTargetWords": 4,
     "alignmentTxt": "μετακαλέσομαί = I will send for",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

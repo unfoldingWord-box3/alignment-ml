@@ -48,7 +48,8 @@
     "targetWordsTxt": "of unrighteous",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀδικίας = of unrighteous",
-    "frequency": 0.04,
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -104,7 +105,8 @@
     "targetWordsTxt": "unrighteous",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ἀδικίας = unrighteous",
-    "frequency": 0.12,
+    "frequency": 0.23076923076923078,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -160,7 +162,8 @@
     "targetWordsTxt": "unrighteous",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ἀδικίας = unrighteous",
-    "frequency": 0.12,
+    "frequency": 0.23076923076923078,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -216,51 +219,8 @@
     "targetWordsTxt": "unrighteous",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ἀδικίας = unrighteous",
-    "frequency": 0.12,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492304",
-    "book_id": "jhn",
-    "chapter": "7",
-    "verse": "18",
-    "alignment_num": "20",
-    "orig_lang_words": ",1473731,",
-    "target_lang_words": ",1259068,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1473731,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "18",
-        "word_num": 21,
-        "word": "ἀδικία",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀδικία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1259068,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "18",
-        "word_num": 26,
-        "word": "unrighteousness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unrighteousness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀδικία = unrighteousness",
-    "frequency": 0.08,
+    "frequency": 0.23076923076923078,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -304,7 +264,8 @@
     "targetWordsTxt": "from",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀδικίας = from",
-    "frequency": 0.04,
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -357,251 +318,8 @@
     "targetWordsTxt": "of sin",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀδικίας = of sin",
-    "frequency": 0.04,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520168",
-    "book_id": "rom",
-    "chapter": "1",
-    "verse": "18",
-    "alignment_num": "10",
-    "orig_lang_words": ",1502912,",
-    "target_lang_words": ",1297213,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502912,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 10,
-        "word": "ἀδικίαν",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἀδικίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1297213,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 13,
-        "word": "unrighteousness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unrighteousness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀδικίαν = unrighteousness",
-    "frequency": 0.04,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520172",
-    "book_id": "rom",
-    "chapter": "1",
-    "verse": "18",
-    "alignment_num": "14",
-    "orig_lang_words": ",1502918,",
-    "target_lang_words": ",1297218,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502918,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 16,
-        "word": "ἀδικίᾳ",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "ἀδικίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1297218,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 18,
-        "word": "unrighteousness",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "unrighteousness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀδικίᾳ = unrighteousness",
-    "frequency": 0.08,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520358",
-    "book_id": "rom",
-    "chapter": "1",
-    "verse": "29",
-    "alignment_num": "2",
-    "orig_lang_words": ",1503125,",
-    "target_lang_words": ",1297492,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503125,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "29",
-        "word_num": 2,
-        "word": "ἀδικίᾳ",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "ἀδικίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1297492,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "29",
-        "word_num": 6,
-        "word": "unrighteousness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unrighteousness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀδικίᾳ = unrighteousness",
-    "frequency": 0.08,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520519",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "8",
-    "alignment_num": "9",
-    "orig_lang_words": ",1503303,1503304,",
-    "target_lang_words": ",1297756,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1503303,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 10,
-        "word": "τῇ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DFS,"
-      },
-      {
-        "id": 1503304,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 11,
-        "word": "ἀδικίᾳ",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "τῇ ἀδικίᾳ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1297756,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 14,
-        "word": "unrighteousness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unrighteousness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῇ ἀδικίᾳ = unrighteousness",
-    "frequency": 0.12,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520865",
-    "book_id": "rom",
-    "chapter": "3",
-    "verse": "5",
-    "alignment_num": "3",
-    "orig_lang_words": ",1503688,1503689,",
-    "target_lang_words": ",1298332,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1503688,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 2,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1503689,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 3,
-        "word": "ἀδικία",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ ἀδικία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298332,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 3,
-        "word": "unrighteousness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unrighteousness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ ἀδικία = unrighteousness",
-    "frequency": 0.04,
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -663,7 +381,437 @@
     "targetWordsTxt": "used for unrighteousness",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀδικίας = used for unrighteousness",
-    "frequency": 0.04,
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546748",
+    "book_id": "2th",
+    "chapter": "2",
+    "verse": "10",
+    "alignment_num": "4",
+    "orig_lang_words": ",1530779,",
+    "target_lang_words": ",1336298,1336299,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530779,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 4,
+        "word": "ἀδικίας",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀδικίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1336298,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 4,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1336299,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 5,
+        "word": "unrighteousness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of unrighteousness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀδικίας = of unrighteousness",
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549327",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "19",
+    "alignment_num": "24",
+    "orig_lang_words": ",1533335,",
+    "target_lang_words": ",1339942,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533335,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 19,
+        "word": "ἀδικίας",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀδικίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339942,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 29,
+        "word": "unrighteousness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "unrighteousness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀδικίας = unrighteousness",
+    "frequency": 0.15384615384615385,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556555",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "6",
+    "alignment_num": "6",
+    "orig_lang_words": ",1540875,1540876,",
+    "target_lang_words": ",1350697,1350698,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1540875,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 6,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1540876,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 7,
+        "word": "ἀδικίας",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς ἀδικίας",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1350697,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 8,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1350698,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 9,
+        "word": "sinfulness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of sinfulness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τῆς ἀδικίας = of sinfulness",
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559431",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "13",
+    "alignment_num": "2",
+    "orig_lang_words": ",1543960,",
+    "target_lang_words": ",1355242,1355243,1355244,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543960,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 2,
+        "word": "ἀδικίας",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀδικίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1355242,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 5,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1355243,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 6,
+        "word": "their",
+        "occurrence": 1
+      },
+      {
+        "id": 1355244,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 7,
+        "word": "wrongdoing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of their wrongdoing",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀδικίας = of their wrongdoing",
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559476",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "15",
+    "alignment_num": "13",
+    "orig_lang_words": ",1544006,",
+    "target_lang_words": ",1355326,1355327,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1544006,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 13,
+        "word": "ἀδικίας",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀδικίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1355326,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 24,
+        "word": "for",
+        "occurrence": 1
+      },
+      {
+        "id": 1355327,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 25,
+        "word": "unrighteousness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "for unrighteousness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀδικίας = for unrighteousness",
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560089",
+    "book_id": "1jn",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "18",
+    "orig_lang_words": ",1544666,",
+    "target_lang_words": ",1356253,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1544666,
+        "book_id": "1jn",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 19,
+        "word": "ἀδικίας",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀδικίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1356253,
+        "book_id": "1jn",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 21,
+        "word": "unrighteousness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "unrighteousness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀδικίας = unrighteousness",
+    "frequency": 0.15384615384615385,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492304",
+    "book_id": "jhn",
+    "chapter": "7",
+    "verse": "18",
+    "alignment_num": "20",
+    "orig_lang_words": ",1473731,",
+    "target_lang_words": ",1259068,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473731,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "18",
+        "word_num": 21,
+        "word": "ἀδικία",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀδικία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1259068,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "18",
+        "word_num": 26,
+        "word": "unrighteousness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "unrighteousness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀδικία = unrighteousness",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520865",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "3",
+    "orig_lang_words": ",1503688,1503689,",
+    "target_lang_words": ",1298332,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503688,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 2,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1503689,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 3,
+        "word": "ἀδικία",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ ἀδικία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298332,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 3,
+        "word": "unrighteousness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "unrighteousness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ ἀδικία = unrighteousness",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -737,63 +885,98 @@
     "targetWordsTxt": "Is there unrighteousness",
     "alignmentTargetWords": 3,
     "alignmentTxt": "μὴ ἀδικία = Is there unrighteousness",
-    "frequency": 0.04,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "531225",
-    "book_id": "1co",
-    "chapter": "13",
-    "verse": "6",
-    "alignment_num": "4",
-    "orig_lang_words": ",1514693,1514694,",
-    "target_lang_words": ",1313920,",
-    "origSpan": 1,
+    "id": "561752",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "17",
+    "alignment_num": "1",
+    "orig_lang_words": ",1546525,",
+    "target_lang_words": ",1358510,",
+    "origSpan": 0,
     "origWords": [
       {
-        "id": 1514693,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "6",
-        "word_num": 3,
-        "word": "τῇ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DFS,"
-      },
-      {
-        "id": 1514694,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "6",
-        "word_num": 4,
-        "word": "ἀδικίᾳ",
+        "id": 1546525,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 1,
+        "word": "ἀδικία",
         "occurrence": 1,
         "strong": "G00930",
         "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,DFS,"
+        "morph": "Gr,N,,,,,NFS,"
       }
     ],
-    "origWordsTxt": "τῇ ἀδικίᾳ",
-    "alignmentOrigWords": 2,
+    "origWordsTxt": "ἀδικία",
+    "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1313920,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "6",
-        "word_num": 5,
+        "id": 1358510,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 1,
         "word": "unrighteousness",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "unrighteousness",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "τῇ ἀδικίᾳ = unrighteousness",
-    "frequency": 0.12,
+    "alignmentTxt": "ἀδικία = unrighteousness",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520168",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "18",
+    "alignment_num": "10",
+    "orig_lang_words": ",1502912,",
+    "target_lang_words": ",1297213,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502912,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 10,
+        "word": "ἀδικίαν",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀδικίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297213,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 13,
+        "word": "unrighteousness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "unrighteousness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀδικίαν = unrighteousness",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -849,60 +1032,212 @@
     "targetWordsTxt": "wrong",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν ἀδικίαν = wrong",
-    "frequency": 0.04,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "546748",
-    "book_id": "2th",
-    "chapter": "2",
-    "verse": "10",
-    "alignment_num": "4",
-    "orig_lang_words": ",1530779,",
-    "target_lang_words": ",1336298,1336299,",
+    "id": "520172",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "18",
+    "alignment_num": "14",
+    "orig_lang_words": ",1502918,",
+    "target_lang_words": ",1297218,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1530779,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 4,
-        "word": "ἀδικίας",
+        "id": 1502918,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 16,
+        "word": "ἀδικίᾳ",
         "occurrence": 1,
         "strong": "G00930",
         "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,GFS,"
+        "morph": "Gr,N,,,,,DFS,"
       }
     ],
-    "origWordsTxt": "ἀδικίας",
+    "origWordsTxt": "ἀδικίᾳ",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1336298,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 4,
-        "word": "of",
+        "id": 1297218,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 18,
+        "word": "unrighteousness",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "unrighteousness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀδικίᾳ = unrighteousness",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520358",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "29",
+    "alignment_num": "2",
+    "orig_lang_words": ",1503125,",
+    "target_lang_words": ",1297492,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503125,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "29",
+        "word_num": 2,
+        "word": "ἀδικίᾳ",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "ἀδικίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297492,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "29",
+        "word_num": 6,
+        "word": "unrighteousness",
         "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "unrighteousness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀδικίᾳ = unrighteousness",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520519",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "8",
+    "alignment_num": "9",
+    "orig_lang_words": ",1503303,1503304,",
+    "target_lang_words": ",1297756,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503303,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 10,
+        "word": "τῇ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFS,"
       },
       {
-        "id": 1336299,
-        "book_id": "2th",
+        "id": 1503304,
+        "book_id": "rom",
         "chapter": "2",
-        "verse": "10",
+        "verse": "8",
+        "word_num": 11,
+        "word": "ἀδικίᾳ",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "τῇ ἀδικίᾳ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297756,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 14,
+        "word": "unrighteousness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "unrighteousness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῇ ἀδικίᾳ = unrighteousness",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531225",
+    "book_id": "1co",
+    "chapter": "13",
+    "verse": "6",
+    "alignment_num": "4",
+    "orig_lang_words": ",1514693,1514694,",
+    "target_lang_words": ",1313920,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1514693,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "6",
+        "word_num": 3,
+        "word": "τῇ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFS,"
+      },
+      {
+        "id": 1514694,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "6",
+        "word_num": 4,
+        "word": "ἀδικίᾳ",
+        "occurrence": 1,
+        "strong": "G00930",
+        "lemma": "ἀδικία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "τῇ ἀδικίᾳ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1313920,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "6",
         "word_num": 5,
         "word": "unrighteousness",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "of unrighteousness",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀδικίας = of unrighteousness",
-    "frequency": 0.04,
+    "targetWordsTxt": "unrighteousness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῇ ἀδικίᾳ = unrighteousness",
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -958,51 +1293,8 @@
     "targetWordsTxt": "unrighteousness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῇ ἀδικίᾳ = unrighteousness",
-    "frequency": 0.12,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549327",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "19",
-    "alignment_num": "24",
-    "orig_lang_words": ",1533335,",
-    "target_lang_words": ",1339942,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533335,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "19",
-        "word_num": 19,
-        "word": "ἀδικίας",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἀδικίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339942,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "19",
-        "word_num": 29,
-        "word": "unrighteousness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unrighteousness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀδικίας = unrighteousness",
-    "frequency": 0.08,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1055,275 +1347,8 @@
     "targetWordsTxt": "evil deeds",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀδικίαις = evil deeds",
-    "frequency": 0.04,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556555",
-    "book_id": "jas",
-    "chapter": "3",
-    "verse": "6",
-    "alignment_num": "6",
-    "orig_lang_words": ",1540875,1540876,",
-    "target_lang_words": ",1350697,1350698,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1540875,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 6,
-        "word": "τῆς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GFS,"
-      },
-      {
-        "id": 1540876,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 7,
-        "word": "ἀδικίας",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "τῆς ἀδικίας",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1350697,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 8,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1350698,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 9,
-        "word": "sinfulness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of sinfulness",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τῆς ἀδικίας = of sinfulness",
-    "frequency": 0.04,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559431",
-    "book_id": "2pe",
-    "chapter": "2",
-    "verse": "13",
-    "alignment_num": "2",
-    "orig_lang_words": ",1543960,",
-    "target_lang_words": ",1355242,1355243,1355244,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543960,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 2,
-        "word": "ἀδικίας",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἀδικίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1355242,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 5,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1355243,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 6,
-        "word": "their",
-        "occurrence": 1
-      },
-      {
-        "id": 1355244,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 7,
-        "word": "wrongdoing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of their wrongdoing",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀδικίας = of their wrongdoing",
-    "frequency": 0.04,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559476",
-    "book_id": "2pe",
-    "chapter": "2",
-    "verse": "15",
-    "alignment_num": "13",
-    "orig_lang_words": ",1544006,",
-    "target_lang_words": ",1355326,1355327,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1544006,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 13,
-        "word": "ἀδικίας",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἀδικίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1355326,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 24,
-        "word": "for",
-        "occurrence": 1
-      },
-      {
-        "id": 1355327,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 25,
-        "word": "unrighteousness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "for unrighteousness",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀδικίας = for unrighteousness",
-    "frequency": 0.04,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "560089",
-    "book_id": "1jn",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "18",
-    "orig_lang_words": ",1544666,",
-    "target_lang_words": ",1356253,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1544666,
-        "book_id": "1jn",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 19,
-        "word": "ἀδικίας",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἀδικίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1356253,
-        "book_id": "1jn",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 21,
-        "word": "unrighteousness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unrighteousness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀδικίας = unrighteousness",
-    "frequency": 0.08,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561752",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "17",
-    "alignment_num": "1",
-    "orig_lang_words": ",1546525,",
-    "target_lang_words": ",1358510,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546525,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "17",
-        "word_num": 1,
-        "word": "ἀδικία",
-        "occurrence": 1,
-        "strong": "G00930",
-        "lemma": "ἀδικία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀδικία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358510,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "17",
-        "word_num": 1,
-        "word": "unrighteousness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unrighteousness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀδικία = unrighteousness",
-    "frequency": 0.08,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

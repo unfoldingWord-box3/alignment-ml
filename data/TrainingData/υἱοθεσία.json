@@ -48,7 +48,8 @@
     "targetWordsTxt": "of adoption",
     "alignmentTargetWords": 2,
     "alignmentTxt": "υἱοθεσίας = of adoption",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,51 +102,8 @@
     "targetWordsTxt": "our adoption",
     "alignmentTargetWords": 2,
     "alignmentTxt": "υἱοθεσίαν = our adoption",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523380",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "4",
-    "alignment_num": "5",
-    "orig_lang_words": ",1506419,",
-    "target_lang_words": ",1302179,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1506419,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "4",
-        "word_num": 5,
-        "word": "υἱοθεσία",
-        "occurrence": 1,
-        "strong": "G52060",
-        "lemma": "υἱοθεσία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "υἱοθεσία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1302179,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "4",
-        "word_num": 6,
-        "word": "adoption",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "adoption",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "υἱοθεσία = adoption",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -219,7 +177,8 @@
     "targetWordsTxt": "adoption as sons",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὴν υἱοθεσίαν = adoption as sons",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -263,7 +222,53 @@
     "targetWordsTxt": "adoption",
     "alignmentTargetWords": 1,
     "alignmentTxt": "υἱοθεσίαν = adoption",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523380",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "4",
+    "alignment_num": "5",
+    "orig_lang_words": ",1506419,",
+    "target_lang_words": ",1302179,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506419,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "4",
+        "word_num": 5,
+        "word": "υἱοθεσία",
+        "occurrence": 1,
+        "strong": "G52060",
+        "lemma": "υἱοθεσία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "υἱοθεσία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1302179,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "4",
+        "word_num": 6,
+        "word": "adoption",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "adoption",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "υἱοθεσία = adoption",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

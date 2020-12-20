@@ -39,7 +39,8 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
+    "frequency": 0.75,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
+    "frequency": 0.75,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,95 +129,8 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503087",
-    "book_id": "act",
-    "chapter": "2",
-    "verse": "39",
-    "alignment_num": "2",
-    "orig_lang_words": ",1485348,",
-    "target_lang_words": ",1273929,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485348,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "39",
-        "word_num": 4,
-        "word": "ἐπαγγελία",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1273929,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "39",
-        "word_num": 2,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promise",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελία = promise",
-    "frequency": 0.09615384615384616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505712",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "17",
-    "alignment_num": "4",
-    "orig_lang_words": ",1488058,",
-    "target_lang_words": ",1277404,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1488058,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "17",
-        "word_num": 6,
-        "word": "ἐπαγγελίας",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1277404,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "17",
-        "word_num": 4,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίας = of",
-    "frequency": 0.057692307692307696,
+    "frequency": 0.75,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -259,7 +174,8 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
+    "frequency": 0.75,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -312,7 +228,8 @@
     "targetWordsTxt": "the promise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπαγγελίαν = the promise",
-    "frequency": 0.038461538461538464,
+    "frequency": 0.125,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -356,139 +273,8 @@
     "targetWordsTxt": "for",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίαν = for",
-    "frequency": 0.019230769230769232,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "518088",
-    "book_id": "act",
-    "chapter": "26",
-    "verse": "6",
-    "alignment_num": "5",
-    "orig_lang_words": ",1500773,",
-    "target_lang_words": ",1294266,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1500773,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "6",
-        "word_num": 9,
-        "word": "ἐπαγγελίας",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1294266,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "6",
-        "word_num": 11,
-        "word": "in",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "in",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίας = in",
-    "frequency": 0.019230769230769232,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521355",
-    "book_id": "rom",
-    "chapter": "4",
-    "verse": "13",
-    "alignment_num": "2",
-    "orig_lang_words": ",1504240,",
-    "target_lang_words": ",1299109,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504240,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "13",
-        "word_num": 5,
-        "word": "ἐπαγγελία",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1299109,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "13",
-        "word_num": 2,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promise",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελία = promise",
-    "frequency": 0.09615384615384616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521381",
-    "book_id": "rom",
-    "chapter": "4",
-    "verse": "14",
-    "alignment_num": "8",
-    "orig_lang_words": ",1504268,",
-    "target_lang_words": ",1299155,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504268,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 12,
-        "word": "ἐπαγγελία",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1299155,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 19,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promise",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελία = promise",
-    "frequency": 0.09615384615384616,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -532,7 +318,8 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
+    "frequency": 0.75,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -588,301 +375,8 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν ἐπαγγελίαν = promise",
-    "frequency": 0.019230769230769232,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523395",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "4",
-    "alignment_num": "20",
-    "orig_lang_words": ",1506434,",
-    "target_lang_words": ",1302199,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1506434,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "4",
-        "word_num": 20,
-        "word": "ἐπαγγελίαι",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,NFP,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1302199,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "4",
-        "word_num": 26,
-        "word": "promises",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promises",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίαι = promises",
-    "frequency": 0.038461538461538464,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523454",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "8",
-    "alignment_num": "14",
-    "orig_lang_words": ",1506501,",
-    "target_lang_words": ",1302291,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1506501,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "8",
-        "word_num": 15,
-        "word": "ἐπαγγελίας",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1302291,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "8",
-        "word_num": 18,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promise",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίας = promise",
-    "frequency": 0.09615384615384616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523462",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "9",
-    "alignment_num": "4",
-    "orig_lang_words": ",1506505,",
-    "target_lang_words": ",1302301,1302302,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1506505,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "9",
-        "word_num": 0,
-        "word": "ἐπαγγελίας",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1302301,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "9",
-        "word_num": 5,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1302302,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "9",
-        "word_num": 6,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of promise",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπαγγελίας = of promise",
-    "frequency": 0.038461538461538464,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525629",
-    "book_id": "rom",
-    "chapter": "15",
-    "verse": "8",
-    "alignment_num": "12",
-    "orig_lang_words": ",1508890,",
-    "target_lang_words": ",1305695,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508890,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "8",
-        "word_num": 13,
-        "word": "ἐπαγγελίας",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,AFP,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1305695,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "8",
-        "word_num": 24,
-        "word": "promises",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promises",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίας = promises",
-    "frequency": 0.09615384615384616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533429",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "20",
-    "alignment_num": "2",
-    "orig_lang_words": ",1516976,",
-    "target_lang_words": ",1317138,1317139,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516976,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 2,
-        "word": "ἐπαγγελίαι",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,NFP,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1317138,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 2,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1317139,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 3,
-        "word": "promises",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the promises",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπαγγελίαι = the promises",
-    "frequency": 0.019230769230769232,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534976",
-    "book_id": "2co",
-    "chapter": "7",
-    "verse": "1",
-    "alignment_num": "4",
-    "orig_lang_words": ",1518562,1518563,",
-    "target_lang_words": ",1319342,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1518562,
-        "book_id": "2co",
-        "chapter": "7",
-        "verse": "1",
-        "word_num": 3,
-        "word": "τὰς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFP,"
-      },
-      {
-        "id": 1518563,
-        "book_id": "2co",
-        "chapter": "7",
-        "verse": "1",
-        "word_num": 4,
-        "word": "ἐπαγγελίας",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,AFP,"
-      }
-    ],
-    "origWordsTxt": "τὰς ἐπαγγελίας",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1319342,
-        "book_id": "2co",
-        "chapter": "7",
-        "verse": "1",
-        "word_num": 5,
-        "word": "promises",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promises",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰς ἐπαγγελίας = promises",
-    "frequency": 0.019230769230769232,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -926,51 +420,8 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538327",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "16",
-    "alignment_num": "2",
-    "orig_lang_words": ",1522016,",
-    "target_lang_words": ",1324402,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522016,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 5,
-        "word": "ἐπαγγελίαι",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,NFP,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1324402,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 2,
-        "word": "promises",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promises",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίαι = promises",
-    "frequency": 0.038461538461538464,
+    "frequency": 0.75,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1014,166 +465,422 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
+    "frequency": 0.75,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "538379",
+    "id": "538530",
     "book_id": "gal",
     "chapter": "3",
-    "verse": "18",
+    "verse": "29",
     "alignment_num": "10",
-    "orig_lang_words": ",1522071,",
-    "target_lang_words": ",1324475,",
+    "orig_lang_words": ",1522238,",
+    "target_lang_words": ",1324713,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1522071,
+        "id": 1522238,
         "book_id": "gal",
         "chapter": "3",
-        "verse": "18",
-        "word_num": 8,
-        "word": "ἐπαγγελίας",
+        "verse": "29",
+        "word_num": 10,
+        "word": "ἐπαγγελίαν",
         "occurrence": 1,
         "strong": "G18600",
         "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,GFS,"
+        "morph": "Gr,N,,,,,AFS,"
       }
     ],
-    "origWordsTxt": "ἐπαγγελίας",
+    "origWordsTxt": "ἐπαγγελίαν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1324475,
+        "id": 1324713,
         "book_id": "gal",
         "chapter": "3",
-        "verse": "18",
-        "word_num": 14,
+        "verse": "29",
+        "word_num": 16,
         "word": "promise",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίας = promise",
-    "frequency": 0.09615384615384616,
+    "alignmentTxt": "ἐπαγγελίαν = promise",
+    "frequency": 0.75,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "538386",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "18",
-    "alignment_num": "17",
-    "orig_lang_words": ",1522076,",
-    "target_lang_words": ",1324483,1324484,",
+    "id": "547973",
+    "book_id": "1ti",
+    "chapter": "4",
+    "verse": "8",
+    "alignment_num": "14",
+    "orig_lang_words": ",1532001,",
+    "target_lang_words": ",1338028,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1522076,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 13,
-        "word": "ἐπαγγελίας",
-        "occurrence": 2,
+        "id": 1532001,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 15,
+        "word": "ἐπαγγελίαν",
+        "occurrence": 1,
         "strong": "G18600",
         "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,GFS,"
+        "morph": "Gr,N,,,,,AFS,"
       }
     ],
-    "origWordsTxt": "ἐπαγγελίας",
+    "origWordsTxt": "ἐπαγγελίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338028,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 15,
+        "word": "promise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίαν = promise",
+    "frequency": 0.75,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548776",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "8",
+    "orig_lang_words": ",1532792,",
+    "target_lang_words": ",1339177,1339178,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532792,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 8,
+        "word": "ἐπαγγελίαν",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίαν",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1324483,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 22,
-        "word": "a",
-        "occurrence": 1
+        "id": 1339177,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 13,
+        "word": "the",
+        "occurrence": 2
       },
       {
-        "id": 1324484,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 23,
+        "id": 1339178,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 14,
         "word": "promise",
-        "occurrence": 2
+        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "a promise",
+    "targetWordsTxt": "the promise",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπαγγελίας = a promise",
-    "frequency": 0.019230769230769232,
+    "alignmentTxt": "ἐπαγγελίαν = the promise",
+    "frequency": 0.125,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "538418",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "21",
-    "alignment_num": "5",
-    "orig_lang_words": ",1522117,",
-    "target_lang_words": ",1324542,1324543,1324544,",
+    "id": "553518",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "15",
+    "alignment_num": "11",
+    "orig_lang_words": ",1537700,",
+    "target_lang_words": ",1346085,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1522117,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 5,
-        "word": "ἐπαγγελιῶν",
+        "id": 1537700,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "15",
+        "word_num": 19,
+        "word": "ἐπαγγελίαν",
         "occurrence": 1,
         "strong": "G18600",
         "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,GFP,"
+        "morph": "Gr,N,,,,,AFS,"
       }
     ],
-    "origWordsTxt": "ἐπαγγελιῶν",
+    "origWordsTxt": "ἐπαγγελίαν",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1324542,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 6,
-        "word": "promises",
-        "occurrence": 1
-      },
-      {
-        "id": 1324543,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 7,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1324544,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 8,
-        "word": "God",
+        "id": 1346085,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "15",
+        "word_num": 20,
+        "word": "promise",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "promises of God",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐπαγγελιῶν = promises of God",
-    "frequency": 0.019230769230769232,
+    "targetWordsTxt": "promise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίαν = promise",
+    "frequency": 0.75,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554224",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "36",
+    "alignment_num": "7",
+    "orig_lang_words": ",1538435,",
+    "target_lang_words": ",1347197,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538435,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "36",
+        "word_num": 12,
+        "word": "ἐπαγγελίαν",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1347197,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "36",
+        "word_num": 12,
+        "word": "promise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίαν = promise",
+    "frequency": 0.75,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554862",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "39",
+    "alignment_num": "11",
+    "orig_lang_words": ",1539096,",
+    "target_lang_words": ",1348196,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539096,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "39",
+        "word_num": 10,
+        "word": "ἐπαγγελίαν",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1348196,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "39",
+        "word_num": 15,
+        "word": "promise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίαν = promise",
+    "frequency": 0.75,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503087",
+    "book_id": "act",
+    "chapter": "2",
+    "verse": "39",
+    "alignment_num": "2",
+    "orig_lang_words": ",1485348,",
+    "target_lang_words": ",1273929,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485348,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "39",
+        "word_num": 4,
+        "word": "ἐπαγγελία",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1273929,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "39",
+        "word_num": 2,
+        "word": "promise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελία = promise",
+    "frequency": 0.8333333333333334,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521355",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "13",
+    "alignment_num": "2",
+    "orig_lang_words": ",1504240,",
+    "target_lang_words": ",1299109,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504240,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "13",
+        "word_num": 5,
+        "word": "ἐπαγγελία",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299109,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "13",
+        "word_num": 2,
+        "word": "promise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελία = promise",
+    "frequency": 0.8333333333333334,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521381",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "14",
+    "alignment_num": "8",
+    "orig_lang_words": ",1504268,",
+    "target_lang_words": ",1299155,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504268,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 12,
+        "word": "ἐπαγγελία",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299155,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 19,
+        "word": "promise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελία = promise",
+    "frequency": 0.8333333333333334,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1244,51 +951,488 @@
     "targetWordsTxt": "promise to save us",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐπαγγελία = promise to save us",
-    "frequency": 0.019230769230769232,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "538530",
-    "book_id": "gal",
+    "id": "559642",
+    "book_id": "2pe",
     "chapter": "3",
-    "verse": "29",
-    "alignment_num": "10",
-    "orig_lang_words": ",1522238,",
-    "target_lang_words": ",1324713,",
+    "verse": "4",
+    "alignment_num": "4",
+    "orig_lang_words": ",1544191,",
+    "target_lang_words": ",1355595,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1522238,
-        "book_id": "gal",
+        "id": 1544191,
+        "book_id": "2pe",
         "chapter": "3",
-        "verse": "29",
-        "word_num": 10,
-        "word": "ἐπαγγελίαν",
+        "verse": "4",
+        "word_num": 5,
+        "word": "ἐπαγγελία",
         "occurrence": 1,
         "strong": "G18600",
         "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,AFS,"
+        "morph": "Gr,N,,,,,NFS,"
       }
     ],
-    "origWordsTxt": "ἐπαγγελίαν",
+    "origWordsTxt": "ἐπαγγελία",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1324713,
-        "book_id": "gal",
+        "id": 1355595,
+        "book_id": "2pe",
         "chapter": "3",
-        "verse": "29",
-        "word_num": 16,
+        "verse": "4",
+        "word_num": 6,
         "word": "promise",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
+    "alignmentTxt": "ἐπαγγελία = promise",
+    "frequency": 0.8333333333333334,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560570",
+    "book_id": "1jn",
+    "chapter": "2",
+    "verse": "25",
+    "alignment_num": "3",
+    "orig_lang_words": ",1545175,",
+    "target_lang_words": ",1356909,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545175,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 4,
+        "word": "ἐπαγγελία",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1356909,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 3,
+        "word": "promise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελία = promise",
+    "frequency": 0.8333333333333334,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505712",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "17",
+    "alignment_num": "4",
+    "orig_lang_words": ",1488058,",
+    "target_lang_words": ",1277404,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488058,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "17",
+        "word_num": 6,
+        "word": "ἐπαγγελίας",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1277404,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "17",
+        "word_num": 4,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίας = of",
+    "frequency": 0.13043478260869565,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518088",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1500773,",
+    "target_lang_words": ",1294266,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500773,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "6",
+        "word_num": 9,
+        "word": "ἐπαγγελίας",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1294266,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "6",
+        "word_num": 11,
+        "word": "in",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίας = in",
+    "frequency": 0.043478260869565216,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523454",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "8",
+    "alignment_num": "14",
+    "orig_lang_words": ",1506501,",
+    "target_lang_words": ",1302291,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506501,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "8",
+        "word_num": 15,
+        "word": "ἐπαγγελίας",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1302291,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "8",
+        "word_num": 18,
+        "word": "promise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίας = promise",
+    "frequency": 0.21739130434782608,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523462",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "9",
+    "alignment_num": "4",
+    "orig_lang_words": ",1506505,",
+    "target_lang_words": ",1302301,1302302,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506505,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "9",
+        "word_num": 0,
+        "word": "ἐπαγγελίας",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1302301,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "9",
+        "word_num": 5,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1302302,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "9",
+        "word_num": 6,
+        "word": "promise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of promise",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπαγγελίας = of promise",
+    "frequency": 0.08695652173913043,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525629",
+    "book_id": "rom",
+    "chapter": "15",
+    "verse": "8",
+    "alignment_num": "12",
+    "orig_lang_words": ",1508890,",
+    "target_lang_words": ",1305695,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508890,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 13,
+        "word": "ἐπαγγελίας",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1305695,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 24,
+        "word": "promises",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promises",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίας = promises",
+    "frequency": 0.21739130434782608,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534976",
+    "book_id": "2co",
+    "chapter": "7",
+    "verse": "1",
+    "alignment_num": "4",
+    "orig_lang_words": ",1518562,1518563,",
+    "target_lang_words": ",1319342,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1518562,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 3,
+        "word": "τὰς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFP,"
+      },
+      {
+        "id": 1518563,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 4,
+        "word": "ἐπαγγελίας",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "τὰς ἐπαγγελίας",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319342,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 5,
+        "word": "promises",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promises",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰς ἐπαγγελίας = promises",
+    "frequency": 0.043478260869565216,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538379",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "18",
+    "alignment_num": "10",
+    "orig_lang_words": ",1522071,",
+    "target_lang_words": ",1324475,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522071,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 8,
+        "word": "ἐπαγγελίας",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1324475,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 14,
+        "word": "promise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίας = promise",
+    "frequency": 0.21739130434782608,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538386",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "18",
+    "alignment_num": "17",
+    "orig_lang_words": ",1522076,",
+    "target_lang_words": ",1324483,1324484,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522076,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 13,
+        "word": "ἐπαγγελίας",
+        "occurrence": 2,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1324483,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 22,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1324484,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 23,
+        "word": "promise",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "a promise",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπαγγελίας = a promise",
+    "frequency": 0.043478260869565216,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1332,7 +1476,8 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίας = promise",
-    "frequency": 0.09615384615384616,
+    "frequency": 0.21739130434782608,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1385,7 +1530,8 @@
     "targetWordsTxt": "of promise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπαγγελίας = of promise",
-    "frequency": 0.038461538461538464,
+    "frequency": 0.08695652173913043,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1441,7 +1587,8 @@
     "targetWordsTxt": "promised",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ἐπαγγελίας = promised",
-    "frequency": 0.019230769230769232,
+    "frequency": 0.043478260869565216,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1485,7 +1632,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίας = of",
-    "frequency": 0.057692307692307696,
+    "frequency": 0.13043478260869565,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1529,157 +1677,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίας = of",
-    "frequency": 0.057692307692307696,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541574",
-    "book_id": "eph",
-    "chapter": "6",
-    "verse": "2",
-    "alignment_num": "10",
-    "orig_lang_words": ",1525314,",
-    "target_lang_words": ",1328879,1328880,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525314,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "2",
-        "word_num": 12,
-        "word": "ἐπαγγελίᾳ",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1328879,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "2",
-        "word_num": 11,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1328880,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "2",
-        "word_num": 12,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a promise",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπαγγελίᾳ = a promise",
-    "frequency": 0.019230769230769232,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547973",
-    "book_id": "1ti",
-    "chapter": "4",
-    "verse": "8",
-    "alignment_num": "14",
-    "orig_lang_words": ",1532001,",
-    "target_lang_words": ",1338028,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532001,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "8",
-        "word_num": 15,
-        "word": "ἐπαγγελίαν",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338028,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "8",
-        "word_num": 15,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promise",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548776",
-    "book_id": "2ti",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "8",
-    "orig_lang_words": ",1532792,",
-    "target_lang_words": ",1339177,1339178,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532792,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 8,
-        "word": "ἐπαγγελίαν",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1339177,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 13,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1339178,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 14,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the promise",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπαγγελίαν = the promise",
-    "frequency": 0.038461538461538464,
+    "frequency": 0.13043478260869565,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1732,7 +1731,8 @@
     "targetWordsTxt": "the promise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπαγγελίας = the promise",
-    "frequency": 0.019230769230769232,
+    "frequency": 0.043478260869565216,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1776,7 +1776,8 @@
     "targetWordsTxt": "promises",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίας = promises",
-    "frequency": 0.09615384615384616,
+    "frequency": 0.21739130434782608,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1820,7 +1821,8 @@
     "targetWordsTxt": "promised",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίας = promised",
-    "frequency": 0.019230769230769232,
+    "frequency": 0.043478260869565216,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1864,7 +1866,8 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίας = promise",
-    "frequency": 0.09615384615384616,
+    "frequency": 0.21739130434782608,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1908,139 +1911,8 @@
     "targetWordsTxt": "promises",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίας = promises",
-    "frequency": 0.09615384615384616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553102",
-    "book_id": "heb",
-    "chapter": "8",
-    "verse": "6",
-    "alignment_num": "16",
-    "orig_lang_words": ",1537253,",
-    "target_lang_words": ",1345477,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537253,
-        "book_id": "heb",
-        "chapter": "8",
-        "verse": "6",
-        "word_num": 14,
-        "word": "ἐπαγγελίαις",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,DFP,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίαις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1345477,
-        "book_id": "heb",
-        "chapter": "8",
-        "verse": "6",
-        "word_num": 25,
-        "word": "promises",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promises",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίαις = promises",
-    "frequency": 0.019230769230769232,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553518",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "15",
-    "alignment_num": "11",
-    "orig_lang_words": ",1537700,",
-    "target_lang_words": ",1346085,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537700,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "15",
-        "word_num": 19,
-        "word": "ἐπαγγελίαν",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346085,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "15",
-        "word_num": 20,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promise",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554224",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "36",
-    "alignment_num": "7",
-    "orig_lang_words": ",1538435,",
-    "target_lang_words": ",1347197,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538435,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "36",
-        "word_num": 12,
-        "word": "ἐπαγγελίαν",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1347197,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "36",
-        "word_num": 12,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promise",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
+    "frequency": 0.21739130434782608,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2105,7 +1977,8 @@
     "targetWordsTxt": "of promise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς ἐπαγγελίας = of promise",
-    "frequency": 0.019230769230769232,
+    "frequency": 0.043478260869565216,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2149,7 +2022,8 @@
     "targetWordsTxt": "promise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίας = promise",
-    "frequency": 0.09615384615384616,
+    "frequency": 0.21739130434782608,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2193,7 +2067,8 @@
     "targetWordsTxt": "promises",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίας = promises",
-    "frequency": 0.09615384615384616,
+    "frequency": 0.21739130434782608,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2237,139 +2112,8 @@
     "targetWordsTxt": "promises",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπαγγελίας = promises",
-    "frequency": 0.09615384615384616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554770",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "33",
-    "alignment_num": "8",
-    "orig_lang_words": ",1539002,",
-    "target_lang_words": ",1348062,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539002,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "33",
-        "word_num": 8,
-        "word": "ἐπαγγελιῶν",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,GFP,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελιῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1348062,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "33",
-        "word_num": 9,
-        "word": "promises",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promises",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελιῶν = promises",
-    "frequency": 0.019230769230769232,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554862",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "39",
-    "alignment_num": "11",
-    "orig_lang_words": ",1539096,",
-    "target_lang_words": ",1348196,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539096,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "39",
-        "word_num": 10,
-        "word": "ἐπαγγελίαν",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1348196,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "39",
-        "word_num": 15,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promise",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελίαν = promise",
-    "frequency": 0.23076923076923078,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559642",
-    "book_id": "2pe",
-    "chapter": "3",
-    "verse": "4",
-    "alignment_num": "4",
-    "orig_lang_words": ",1544191,",
-    "target_lang_words": ",1355595,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1544191,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 5,
-        "word": "ἐπαγγελία",
-        "occurrence": 1,
-        "strong": "G18600",
-        "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπαγγελία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355595,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 6,
-        "word": "promise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "promise",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελία = promise",
-    "frequency": 0.09615384615384616,
+    "frequency": 0.21739130434782608,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2443,51 +2187,359 @@
     "targetWordsTxt": "concerning his promises",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τῆς ἐπαγγελίας = concerning his promises",
-    "frequency": 0.019230769230769232,
+    "frequency": 0.043478260869565216,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "560570",
-    "book_id": "1jn",
-    "chapter": "2",
-    "verse": "25",
-    "alignment_num": "3",
-    "orig_lang_words": ",1545175,",
-    "target_lang_words": ",1356909,",
+    "id": "523395",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "4",
+    "alignment_num": "20",
+    "orig_lang_words": ",1506434,",
+    "target_lang_words": ",1302199,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1545175,
-        "book_id": "1jn",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 4,
-        "word": "ἐπαγγελία",
+        "id": 1506434,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "4",
+        "word_num": 20,
+        "word": "ἐπαγγελίαι",
         "occurrence": 1,
         "strong": "G18600",
         "lemma": "ἐπαγγελία",
-        "morph": "Gr,N,,,,,NFS,"
+        "morph": "Gr,N,,,,,NFP,"
       }
     ],
-    "origWordsTxt": "ἐπαγγελία",
+    "origWordsTxt": "ἐπαγγελίαι",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1356909,
-        "book_id": "1jn",
-        "chapter": "2",
-        "verse": "25",
+        "id": 1302199,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "4",
+        "word_num": 26,
+        "word": "promises",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promises",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίαι = promises",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533429",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "20",
+    "alignment_num": "2",
+    "orig_lang_words": ",1516976,",
+    "target_lang_words": ",1317138,1317139,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516976,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 2,
+        "word": "ἐπαγγελίαι",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,NFP,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1317138,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 2,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1317139,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "20",
         "word_num": 3,
+        "word": "promises",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the promises",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπαγγελίαι = the promises",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538327",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "16",
+    "alignment_num": "2",
+    "orig_lang_words": ",1522016,",
+    "target_lang_words": ",1324402,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522016,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 5,
+        "word": "ἐπαγγελίαι",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,NFP,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1324402,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 2,
+        "word": "promises",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promises",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελίαι = promises",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538418",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "21",
+    "alignment_num": "5",
+    "orig_lang_words": ",1522117,",
+    "target_lang_words": ",1324542,1324543,1324544,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522117,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 5,
+        "word": "ἐπαγγελιῶν",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,GFP,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελιῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1324542,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 6,
+        "word": "promises",
+        "occurrence": 1
+      },
+      {
+        "id": 1324543,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 7,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1324544,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 8,
+        "word": "God",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promises of God",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐπαγγελιῶν = promises of God",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554770",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "33",
+    "alignment_num": "8",
+    "orig_lang_words": ",1539002,",
+    "target_lang_words": ",1348062,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539002,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "33",
+        "word_num": 8,
+        "word": "ἐπαγγελιῶν",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,GFP,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελιῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1348062,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "33",
+        "word_num": 9,
+        "word": "promises",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promises",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπαγγελιῶν = promises",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541574",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "2",
+    "alignment_num": "10",
+    "orig_lang_words": ",1525314,",
+    "target_lang_words": ",1328879,1328880,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525314,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "2",
+        "word_num": 12,
+        "word": "ἐπαγγελίᾳ",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1328879,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "2",
+        "word_num": 11,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1328880,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "2",
+        "word_num": 12,
         "word": "promise",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "promise",
+    "targetWordsTxt": "a promise",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπαγγελίᾳ = a promise",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553102",
+    "book_id": "heb",
+    "chapter": "8",
+    "verse": "6",
+    "alignment_num": "16",
+    "orig_lang_words": ",1537253,",
+    "target_lang_words": ",1345477,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537253,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "6",
+        "word_num": 14,
+        "word": "ἐπαγγελίαις",
+        "occurrence": 1,
+        "strong": "G18600",
+        "lemma": "ἐπαγγελία",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "ἐπαγγελίαις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345477,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "6",
+        "word_num": 25,
+        "word": "promises",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "promises",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπαγγελία = promise",
-    "frequency": 0.09615384615384616,
+    "alignmentTxt": "ἐπαγγελίαις = promises",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

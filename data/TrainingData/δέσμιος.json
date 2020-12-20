@@ -39,7 +39,119 @@
     "targetWordsTxt": "prisoner",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δέσμιον = prisoner",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "517987",
+    "book_id": "act",
+    "chapter": "25",
+    "verse": "27",
+    "alignment_num": "5",
+    "orig_lang_words": ",1500666,",
+    "target_lang_words": ",1294118,1294119,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500666,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "27",
+        "word_num": 5,
+        "word": "δέσμιον",
+        "occurrence": 1,
+        "strong": "G11980",
+        "lemma": "δέσμιος",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "δέσμιον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1294118,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "27",
+        "word_num": 8,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1294119,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "27",
+        "word_num": 9,
+        "word": "prisoner",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a prisoner",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δέσμιον = a prisoner",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548894",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "8",
+    "alignment_num": "13",
+    "orig_lang_words": ",1532918,1532919,",
+    "target_lang_words": ",1339332,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1532918,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 10,
+        "word": "τὸν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMS,"
+      },
+      {
+        "id": 1532919,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 11,
+        "word": "δέσμιον",
+        "occurrence": 1,
+        "strong": "G11980",
+        "lemma": "δέσμιος",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "τὸν δέσμιον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339332,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 16,
+        "word": "prisoner",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prisoner",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸν δέσμιον = prisoner",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +204,8 @@
     "targetWordsTxt": "other prisoners",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δέσμιοι = other prisoners",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +249,8 @@
     "targetWordsTxt": "prisoners",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεσμίους = prisoners",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -180,7 +294,8 @@
     "targetWordsTxt": "prisoner",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δέσμιος = prisoner",
-    "frequency": 0.21428571428571427,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,60 +357,8 @@
     "targetWordsTxt": "as a prisoner",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δέσμιος = as a prisoner",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "517987",
-    "book_id": "act",
-    "chapter": "25",
-    "verse": "27",
-    "alignment_num": "5",
-    "orig_lang_words": ",1500666,",
-    "target_lang_words": ",1294118,1294119,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1500666,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "27",
-        "word_num": 5,
-        "word": "δέσμιον",
-        "occurrence": 1,
-        "strong": "G11980",
-        "lemma": "δέσμιος",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "δέσμιον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1294118,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "27",
-        "word_num": 8,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1294119,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "27",
-        "word_num": 9,
-        "word": "prisoner",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a prisoner",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δέσμιον = a prisoner",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -357,7 +420,8 @@
     "targetWordsTxt": "as a prisoner",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δέσμιος = as a prisoner",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -401,7 +465,8 @@
     "targetWordsTxt": "prisoner",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δέσμιος = prisoner",
-    "frequency": 0.21428571428571427,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -445,63 +510,8 @@
     "targetWordsTxt": "prisoner",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δέσμιος = prisoner",
-    "frequency": 0.21428571428571427,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548894",
-    "book_id": "2ti",
-    "chapter": "1",
-    "verse": "8",
-    "alignment_num": "13",
-    "orig_lang_words": ",1532918,1532919,",
-    "target_lang_words": ",1339332,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1532918,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 10,
-        "word": "τὸν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AMS,"
-      },
-      {
-        "id": 1532919,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 11,
-        "word": "δέσμιον",
-        "occurrence": 1,
-        "strong": "G11980",
-        "lemma": "δέσμιος",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "τὸν δέσμιον",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339332,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 16,
-        "word": "prisoner",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prisoner",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸν δέσμιον = prisoner",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -554,7 +564,8 @@
     "targetWordsTxt": "a prisoner",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δέσμιος = a prisoner",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -607,7 +618,8 @@
     "targetWordsTxt": "a prisoner",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δέσμιος = a prisoner",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -651,7 +663,8 @@
     "targetWordsTxt": "prisoners",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεσμίοις = prisoners",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -695,7 +708,8 @@
     "targetWordsTxt": "prisoners",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεσμίων = prisoners",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

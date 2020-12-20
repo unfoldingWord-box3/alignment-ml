@@ -51,7 +51,8 @@
     "targetWordsTxt": "strength",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ἰσχύος = strength",
-    "frequency": 0.1,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -95,63 +96,8 @@
     "targetWordsTxt": "strength",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἰσχύος = strength",
-    "frequency": 0.3,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "476938",
-    "book_id": "luk",
-    "chapter": "10",
-    "verse": "27",
-    "alignment_num": "20",
-    "orig_lang_words": ",1457784,1457785,",
-    "target_lang_words": ",1238170,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1457784,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "27",
-        "word_num": 22,
-        "word": "τῇ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DFS,"
-      },
-      {
-        "id": 1457785,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "27",
-        "word_num": 23,
-        "word": "ἰσχύϊ",
-        "occurrence": 1,
-        "strong": "G24790",
-        "lemma": "ἰσχύς",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "τῇ ἰσχύϊ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1238170,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "27",
-        "word_num": 24,
-        "word": "strength",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "strength",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῇ ἰσχύϊ = strength",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -195,7 +141,8 @@
     "targetWordsTxt": "strength",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἰσχύος = strength",
-    "frequency": 0.3,
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -239,7 +186,8 @@
     "targetWordsTxt": "strength",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἰσχύος = strength",
-    "frequency": 0.3,
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,7 +243,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ἰσχύος = of",
-    "frequency": 0.1,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -348,7 +297,65 @@
     "targetWordsTxt": "the strength",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἰσχύος = the strength",
-    "frequency": 0.1,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "476938",
+    "book_id": "luk",
+    "chapter": "10",
+    "verse": "27",
+    "alignment_num": "20",
+    "orig_lang_words": ",1457784,1457785,",
+    "target_lang_words": ",1238170,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1457784,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "27",
+        "word_num": 22,
+        "word": "τῇ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFS,"
+      },
+      {
+        "id": 1457785,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "27",
+        "word_num": 23,
+        "word": "ἰσχύϊ",
+        "occurrence": 1,
+        "strong": "G24790",
+        "lemma": "ἰσχύς",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "τῇ ἰσχύϊ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1238170,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "27",
+        "word_num": 24,
+        "word": "strength",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "strength",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῇ ἰσχύϊ = strength",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -392,7 +399,8 @@
     "targetWordsTxt": "strength",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἰσχύϊ = strength",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -436,7 +444,8 @@
     "targetWordsTxt": "strength",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἰσχὺν = strength",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -480,7 +489,8 @@
     "targetWordsTxt": "strength",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἰσχὺς = strength",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

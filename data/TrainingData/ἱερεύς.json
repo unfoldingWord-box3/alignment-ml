@@ -39,95 +39,8 @@
     "targetWordsTxt": "priest",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερεῖ = priest",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "459198",
-    "book_id": "mrk",
-    "chapter": "2",
-    "verse": "26",
-    "alignment_num": "22",
-    "orig_lang_words": ",1438969,",
-    "target_lang_words": ",1213314,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1438969,
-        "book_id": "mrk",
-        "chapter": "2",
-        "verse": "26",
-        "word_num": 23,
-        "word": "ἱερεῖς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "ἱερεῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1213314,
-        "book_id": "mrk",
-        "chapter": "2",
-        "verse": "26",
-        "word_num": 29,
-        "word": "priests",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "priests",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεῖς = priests",
-    "frequency": 0.32142857142857145,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "468465",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "5",
-    "alignment_num": "8",
-    "orig_lang_words": ",1449131,",
-    "target_lang_words": ",1226755,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1449131,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 8,
-        "word": "ἱερεύς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἱερεύς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1226755,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 10,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεύς = a",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -171,7 +84,53 @@
     "targetWordsTxt": "to",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερεῖ = to",
-    "frequency": 0.03571428571428571,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "459198",
+    "book_id": "mrk",
+    "chapter": "2",
+    "verse": "26",
+    "alignment_num": "22",
+    "orig_lang_words": ",1438969,",
+    "target_lang_words": ",1213314,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1438969,
+        "book_id": "mrk",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 23,
+        "word": "ἱερεῖς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἱερεῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1213314,
+        "book_id": "mrk",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 29,
+        "word": "priests",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priests",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεῖς = priests",
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -215,95 +174,8 @@
     "targetWordsTxt": "for",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερεῖς = for",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "476995",
-    "book_id": "luk",
-    "chapter": "10",
-    "verse": "31",
-    "alignment_num": "3",
-    "orig_lang_words": ",1457849,",
-    "target_lang_words": ",1238243,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1457849,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "31",
-        "word_num": 3,
-        "word": "ἱερεύς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἱερεύς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1238243,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "31",
-        "word_num": 3,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεύς = a",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481790",
-    "book_id": "luk",
-    "chapter": "17",
-    "verse": "14",
-    "alignment_num": "7",
-    "orig_lang_words": ",1462716,",
-    "target_lang_words": ",1244859,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462716,
-        "book_id": "luk",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 8,
-        "word": "ἱερεῦσιν",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "ἱερεῦσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1244859,
-        "book_id": "luk",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 12,
-        "word": "to",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "to",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεῦσιν = to",
-    "frequency": 0.03571428571428571,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -347,7 +219,8 @@
     "targetWordsTxt": "priests",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερεῖς = priests",
-    "frequency": 0.32142857142857145,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -391,430 +264,8 @@
     "targetWordsTxt": "priests",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερεῖς = priests",
-    "frequency": 0.32142857142857145,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505266",
-    "book_id": "act",
-    "chapter": "6",
-    "verse": "7",
-    "alignment_num": "19",
-    "orig_lang_words": ",1487588,",
-    "target_lang_words": ",1276821,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487588,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "7",
-        "word_num": 19,
-        "word": "ἱερέων",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "ἱερέων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276821,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "7",
-        "word_num": 21,
-        "word": "of",
-        "occurrence": 3
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερέων = of",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510874",
-    "book_id": "act",
-    "chapter": "14",
-    "verse": "13",
-    "alignment_num": "1",
-    "orig_lang_words": ",1493338,",
-    "target_lang_words": ",1284372,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1493338,
-        "book_id": "act",
-        "chapter": "14",
-        "verse": "13",
-        "word_num": 2,
-        "word": "ἱερεὺς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἱερεὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1284372,
-        "book_id": "act",
-        "chapter": "14",
-        "verse": "13",
-        "word_num": 1,
-        "word": "priest",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "priest",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεὺς = priest",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552137",
-    "book_id": "heb",
-    "chapter": "5",
-    "verse": "6",
-    "alignment_num": "7",
-    "orig_lang_words": ",1536245,",
-    "target_lang_words": ",1344044,1344045,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536245,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 6,
-        "word": "ἱερεὺς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἱερεὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1344044,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 12,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1344045,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 13,
-        "word": "priest",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a priest",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἱερεὺς = a priest",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552567",
-    "book_id": "heb",
-    "chapter": "7",
-    "verse": "1",
-    "alignment_num": "5",
-    "orig_lang_words": ",1536693,",
-    "target_lang_words": ",1344691,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536693,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "1",
-        "word_num": 6,
-        "word": "ἱερεὺς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἱερεὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344691,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "1",
-        "word_num": 6,
-        "word": "priest",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "priest",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεὺς = priest",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552619",
-    "book_id": "heb",
-    "chapter": "7",
-    "verse": "3",
-    "alignment_num": "16",
-    "orig_lang_words": ",1536748,",
-    "target_lang_words": ",1344765,1344766,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536748,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 17,
-        "word": "ἱερεὺς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἱερεὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1344765,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 25,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1344766,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 26,
-        "word": "priest",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a priest",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἱερεὺς = a priest",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552738",
-    "book_id": "heb",
-    "chapter": "7",
-    "verse": "11",
-    "alignment_num": "18",
-    "orig_lang_words": ",1536878,",
-    "target_lang_words": ",1344937,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536878,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "11",
-        "word_num": 24,
-        "word": "ἱερέα",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "ἱερέα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344937,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "11",
-        "word_num": 23,
-        "word": "priest",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "priest",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερέα = priest",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552792",
-    "book_id": "heb",
-    "chapter": "7",
-    "verse": "14",
-    "alignment_num": "15",
-    "orig_lang_words": ",1536923,",
-    "target_lang_words": ",1345014,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536923,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "14",
-        "word_num": 13,
-        "word": "ἱερέων",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "ἱερέων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1345014,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "14",
-        "word_num": 19,
-        "word": "priests",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "priests",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερέων = priests",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552800",
-    "book_id": "heb",
-    "chapter": "7",
-    "verse": "15",
-    "alignment_num": "7",
-    "orig_lang_words": ",1536938,",
-    "target_lang_words": ",1345023,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536938,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "15",
-        "word_num": 11,
-        "word": "ἱερεὺς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἱερεὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1345023,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "15",
-        "word_num": 8,
-        "word": "priest",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "priest",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεὺς = priest",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552824",
-    "book_id": "heb",
-    "chapter": "7",
-    "verse": "17",
-    "alignment_num": "4",
-    "orig_lang_words": ",1536956,",
-    "target_lang_words": ",1345058,1345059,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536956,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "17",
-        "word_num": 4,
-        "word": "ἱερεὺς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἱερεὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1345058,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "17",
-        "word_num": 7,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1345059,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "17",
-        "word_num": 8,
-        "word": "priest",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a priest",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἱερεὺς = a priest",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -858,60 +309,8 @@
     "targetWordsTxt": "priests",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερεῖς = priests",
-    "frequency": 0.32142857142857145,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552886",
-    "book_id": "heb",
-    "chapter": "7",
-    "verse": "21",
-    "alignment_num": "18",
-    "orig_lang_words": ",1537019,",
-    "target_lang_words": ",1345140,1345141,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537019,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "21",
-        "word_num": 15,
-        "word": "ἱερεὺς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἱερεὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1345140,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "21",
-        "word_num": 26,
-        "word": "a",
-        "occurrence": 2
-      },
-      {
-        "id": 1345141,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "21",
-        "word_num": 27,
-        "word": "priest",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "a priest",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἱερεὺς = a priest",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -955,7 +354,278 @@
     "targetWordsTxt": "priests",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερεῖς = priests",
-    "frequency": 0.32142857142857145,
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553340",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "6",
+    "alignment_num": "6",
+    "orig_lang_words": ",1537516,",
+    "target_lang_words": ",1345821,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537516,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 13,
+        "word": "ἱερεῖς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἱερεῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345821,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 7,
+        "word": "priests",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priests",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεῖς = priests",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562832",
+    "book_id": "rev",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "3",
+    "orig_lang_words": ",1547664,",
+    "target_lang_words": ",1360094,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547664,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 4,
+        "word": "ἱερεῖς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἱερεῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1360094,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 6,
+        "word": "priests",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priests",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεῖς = priests",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564608",
+    "book_id": "rev",
+    "chapter": "5",
+    "verse": "10",
+    "alignment_num": "4",
+    "orig_lang_words": ",1549661,",
+    "target_lang_words": ",1362622,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549661,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 8,
+        "word": "ἱερεῖς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἱερεῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1362622,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 6,
+        "word": "priests",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priests",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεῖς = priests",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570373",
+    "book_id": "rev",
+    "chapter": "20",
+    "verse": "6",
+    "alignment_num": "19",
+    "orig_lang_words": ",1556060,",
+    "target_lang_words": ",1370395,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556060,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 21,
+        "word": "ἱερεῖς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἱερεῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1370395,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 26,
+        "word": "priests",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priests",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεῖς = priests",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "468465",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "8",
+    "orig_lang_words": ",1449131,",
+    "target_lang_words": ",1226755,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449131,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 8,
+        "word": "ἱερεύς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἱερεύς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1226755,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 10,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεύς = a",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "476995",
+    "book_id": "luk",
+    "chapter": "10",
+    "verse": "31",
+    "alignment_num": "3",
+    "orig_lang_words": ",1457849,",
+    "target_lang_words": ",1238243,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1457849,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "31",
+        "word_num": 3,
+        "word": "ἱερεύς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἱερεύς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1238243,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "31",
+        "word_num": 3,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεύς = a",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1008,51 +678,494 @@
     "targetWordsTxt": "a priest",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἱερεύς = a priest",
-    "frequency": 0.03571428571428571,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "553340",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "6",
-    "alignment_num": "6",
-    "orig_lang_words": ",1537516,",
-    "target_lang_words": ",1345821,",
+    "id": "481790",
+    "book_id": "luk",
+    "chapter": "17",
+    "verse": "14",
+    "alignment_num": "7",
+    "orig_lang_words": ",1462716,",
+    "target_lang_words": ",1244859,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1537516,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "6",
-        "word_num": 13,
-        "word": "ἱερεῖς",
+        "id": 1462716,
+        "book_id": "luk",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 8,
+        "word": "ἱερεῦσιν",
         "occurrence": 1,
         "strong": "G24090",
         "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMP,"
+        "morph": "Gr,N,,,,,DMP,"
       }
     ],
-    "origWordsTxt": "ἱερεῖς",
+    "origWordsTxt": "ἱερεῦσιν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1345821,
+        "id": 1244859,
+        "book_id": "luk",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 12,
+        "word": "to",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "to",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεῦσιν = to",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505266",
+    "book_id": "act",
+    "chapter": "6",
+    "verse": "7",
+    "alignment_num": "19",
+    "orig_lang_words": ",1487588,",
+    "target_lang_words": ",1276821,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487588,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "7",
+        "word_num": 19,
+        "word": "ἱερέων",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἱερέων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276821,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "7",
+        "word_num": 21,
+        "word": "of",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερέων = of",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552792",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "14",
+    "alignment_num": "15",
+    "orig_lang_words": ",1536923,",
+    "target_lang_words": ",1345014,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536923,
         "book_id": "heb",
-        "chapter": "9",
-        "verse": "6",
-        "word_num": 7,
+        "chapter": "7",
+        "verse": "14",
+        "word_num": 13,
+        "word": "ἱερέων",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἱερέων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345014,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "14",
+        "word_num": 19,
         "word": "priests",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "priests",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεῖς = priests",
-    "frequency": 0.32142857142857145,
+    "alignmentTxt": "ἱερέων = priests",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510874",
+    "book_id": "act",
+    "chapter": "14",
+    "verse": "13",
+    "alignment_num": "1",
+    "orig_lang_words": ",1493338,",
+    "target_lang_words": ",1284372,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1493338,
+        "book_id": "act",
+        "chapter": "14",
+        "verse": "13",
+        "word_num": 2,
+        "word": "ἱερεὺς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἱερεὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1284372,
+        "book_id": "act",
+        "chapter": "14",
+        "verse": "13",
+        "word_num": 1,
+        "word": "priest",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priest",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεὺς = priest",
+    "frequency": 0.5,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552137",
+    "book_id": "heb",
+    "chapter": "5",
+    "verse": "6",
+    "alignment_num": "7",
+    "orig_lang_words": ",1536245,",
+    "target_lang_words": ",1344044,1344045,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536245,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 6,
+        "word": "ἱερεὺς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἱερεὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1344044,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 12,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1344045,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 13,
+        "word": "priest",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a priest",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἱερεὺς = a priest",
+    "frequency": 0.5,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552567",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1536693,",
+    "target_lang_words": ",1344691,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536693,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 6,
+        "word": "ἱερεὺς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἱερεὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344691,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 6,
+        "word": "priest",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priest",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεὺς = priest",
+    "frequency": 0.5,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552619",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "3",
+    "alignment_num": "16",
+    "orig_lang_words": ",1536748,",
+    "target_lang_words": ",1344765,1344766,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536748,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 17,
+        "word": "ἱερεὺς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἱερεὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1344765,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 25,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1344766,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 26,
+        "word": "priest",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a priest",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἱερεὺς = a priest",
+    "frequency": 0.5,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552800",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "15",
+    "alignment_num": "7",
+    "orig_lang_words": ",1536938,",
+    "target_lang_words": ",1345023,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536938,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "15",
+        "word_num": 11,
+        "word": "ἱερεὺς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἱερεὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345023,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "15",
+        "word_num": 8,
+        "word": "priest",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priest",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερεὺς = priest",
+    "frequency": 0.5,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552824",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "17",
+    "alignment_num": "4",
+    "orig_lang_words": ",1536956,",
+    "target_lang_words": ",1345058,1345059,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536956,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "17",
+        "word_num": 4,
+        "word": "ἱερεὺς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἱερεὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1345058,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "17",
+        "word_num": 7,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1345059,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "17",
+        "word_num": 8,
+        "word": "priest",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a priest",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἱερεὺς = a priest",
+    "frequency": 0.5,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552886",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "21",
+    "alignment_num": "18",
+    "orig_lang_words": ",1537019,",
+    "target_lang_words": ",1345140,1345141,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537019,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "21",
+        "word_num": 15,
+        "word": "ἱερεὺς",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἱερεὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1345140,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "21",
+        "word_num": 26,
+        "word": "a",
+        "occurrence": 2
+      },
+      {
+        "id": 1345141,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "21",
+        "word_num": 27,
+        "word": "priest",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "a priest",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἱερεὺς = a priest",
+    "frequency": 0.5,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1096,7 +1209,53 @@
     "targetWordsTxt": "priest",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερεὺς = priest",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.5,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552738",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "11",
+    "alignment_num": "18",
+    "orig_lang_words": ",1536878,",
+    "target_lang_words": ",1344937,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536878,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "11",
+        "word_num": 24,
+        "word": "ἱερέα",
+        "occurrence": 1,
+        "strong": "G24090",
+        "lemma": "ἱερεύς",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ἱερέα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344937,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "11",
+        "word_num": 23,
+        "word": "priest",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "priest",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερέα = priest",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1140,139 +1299,8 @@
     "targetWordsTxt": "a",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερέα = a",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562832",
-    "book_id": "rev",
-    "chapter": "1",
-    "verse": "6",
-    "alignment_num": "3",
-    "orig_lang_words": ",1547664,",
-    "target_lang_words": ",1360094,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1547664,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 4,
-        "word": "ἱερεῖς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "ἱερεῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1360094,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 6,
-        "word": "priests",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "priests",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεῖς = priests",
-    "frequency": 0.32142857142857145,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564608",
-    "book_id": "rev",
-    "chapter": "5",
-    "verse": "10",
-    "alignment_num": "4",
-    "orig_lang_words": ",1549661,",
-    "target_lang_words": ",1362622,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1549661,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 8,
-        "word": "ἱερεῖς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "ἱερεῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1362622,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 6,
-        "word": "priests",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "priests",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεῖς = priests",
-    "frequency": 0.32142857142857145,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "570373",
-    "book_id": "rev",
-    "chapter": "20",
-    "verse": "6",
-    "alignment_num": "19",
-    "orig_lang_words": ",1556060,",
-    "target_lang_words": ",1370395,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556060,
-        "book_id": "rev",
-        "chapter": "20",
-        "verse": "6",
-        "word_num": 21,
-        "word": "ἱερεῖς",
-        "occurrence": 1,
-        "strong": "G24090",
-        "lemma": "ἱερεύς",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἱερεῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1370395,
-        "book_id": "rev",
-        "chapter": "20",
-        "verse": "6",
-        "word_num": 26,
-        "word": "priests",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "priests",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερεῖς = priests",
-    "frequency": 0.32142857142857145,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

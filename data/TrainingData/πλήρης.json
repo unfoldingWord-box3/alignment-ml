@@ -48,51 +48,8 @@
     "targetWordsTxt": "the mature",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πλήρης = the mature",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "462805",
-    "book_id": "mrk",
-    "chapter": "8",
-    "verse": "19",
-    "alignment_num": "10",
-    "orig_lang_words": ",1442798,",
-    "target_lang_words": ",1218317,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1442798,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "19",
-        "word_num": 11,
-        "word": "πλήρεις",
-        "occurrence": 1,
-        "strong": "G41340",
-        "lemma": "πλήρης",
-        "morph": "Gr,NS,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "πλήρεις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1218317,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "19",
-        "word_num": 13,
-        "word": "full",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "full",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πλήρεις = full",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +93,8 @@
     "targetWordsTxt": "full",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πλήρης = full",
-    "frequency": 0.5714285714285714,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -180,7 +138,8 @@
     "targetWordsTxt": "full",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πλήρης = full",
-    "frequency": 0.5714285714285714,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -224,51 +183,8 @@
     "targetWordsTxt": "full",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πλήρης = full",
-    "frequency": 0.5714285714285714,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505183",
-    "book_id": "act",
-    "chapter": "6",
-    "verse": "3",
-    "alignment_num": "8",
-    "orig_lang_words": ",1487507,",
-    "target_lang_words": ",1276719,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487507,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "3",
-        "word_num": 8,
-        "word": "πλήρεις",
-        "occurrence": 1,
-        "strong": "G41340",
-        "lemma": "πλήρης",
-        "morph": "Gr,NS,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "πλήρεις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276719,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "3",
-        "word_num": 11,
-        "word": "full",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "full",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πλήρεις = full",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -312,7 +228,8 @@
     "targetWordsTxt": "full",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πλήρης = full",
-    "frequency": 0.5714285714285714,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -356,7 +273,8 @@
     "targetWordsTxt": "full",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πλήρης = full",
-    "frequency": 0.5714285714285714,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -400,7 +318,8 @@
     "targetWordsTxt": "full",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πλήρης = full",
-    "frequency": 0.5714285714285714,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -444,7 +363,8 @@
     "targetWordsTxt": "full",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πλήρης = full",
-    "frequency": 0.5714285714285714,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -488,7 +408,8 @@
     "targetWordsTxt": "full",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πλήρης = full",
-    "frequency": 0.5714285714285714,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -541,7 +462,98 @@
     "targetWordsTxt": "are full",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πλήρης = are full",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.1,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "462805",
+    "book_id": "mrk",
+    "chapter": "8",
+    "verse": "19",
+    "alignment_num": "10",
+    "orig_lang_words": ",1442798,",
+    "target_lang_words": ",1218317,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1442798,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "19",
+        "word_num": 11,
+        "word": "πλήρεις",
+        "occurrence": 1,
+        "strong": "G41340",
+        "lemma": "πλήρης",
+        "morph": "Gr,NS,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "πλήρεις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1218317,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "19",
+        "word_num": 13,
+        "word": "full",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "full",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλήρεις = full",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505183",
+    "book_id": "act",
+    "chapter": "6",
+    "verse": "3",
+    "alignment_num": "8",
+    "orig_lang_words": ",1487507,",
+    "target_lang_words": ",1276719,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487507,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "3",
+        "word_num": 8,
+        "word": "πλήρεις",
+        "occurrence": 1,
+        "strong": "G41340",
+        "lemma": "πλήρης",
+        "morph": "Gr,NS,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "πλήρεις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276719,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "3",
+        "word_num": 11,
+        "word": "full",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "full",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλήρεις = full",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -585,7 +597,8 @@
     "targetWordsTxt": "filled",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πλήρεις = filled",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -629,7 +642,8 @@
     "targetWordsTxt": "full",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πλήρη = full",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

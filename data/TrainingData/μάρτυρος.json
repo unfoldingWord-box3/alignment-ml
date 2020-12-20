@@ -48,7 +48,287 @@
     "targetWordsTxt": "for witnesses",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μαρτύρων = for witnesses",
-    "frequency": 0.047619047619047616,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537171",
+    "book_id": "2co",
+    "chapter": "13",
+    "verse": "1",
+    "alignment_num": "13",
+    "orig_lang_words": ",1520811,",
+    "target_lang_words": ",1322620,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520811,
+        "book_id": "2co",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 8,
+        "word": "μαρτύρων",
+        "occurrence": 1,
+        "strong": "G31440",
+        "lemma": "μάρτυρος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "μαρτύρων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1322620,
+        "book_id": "2co",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 23,
+        "word": "witnesses",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "witnesses",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτύρων = witnesses",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548343",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "19",
+    "alignment_num": "10",
+    "orig_lang_words": ",1532357,",
+    "target_lang_words": ",1338570,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532357,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "19",
+        "word_num": 12,
+        "word": "μαρτύρων",
+        "occurrence": 1,
+        "strong": "G31440",
+        "lemma": "μάρτυρος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "μαρτύρων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338570,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "19",
+        "word_num": 14,
+        "word": "witnesses",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "witnesses",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτύρων = witnesses",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548628",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "12",
+    "alignment_num": "22",
+    "orig_lang_words": ",1532643,",
+    "target_lang_words": ",1338966,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532643,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 20,
+        "word": "μαρτύρων",
+        "occurrence": 1,
+        "strong": "G31440",
+        "lemma": "μάρτυρος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "μαρτύρων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338966,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 28,
+        "word": "witnesses",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "witnesses",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτύρων = witnesses",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549101",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "2",
+    "alignment_num": "7",
+    "orig_lang_words": ",1533120,",
+    "target_lang_words": ",1339611,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533120,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 7,
+        "word": "μαρτύρων",
+        "occurrence": 1,
+        "strong": "G31440",
+        "lemma": "μάρτυρος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "μαρτύρων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339611,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 10,
+        "word": "witnesses",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "witnesses",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτύρων = witnesses",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554881",
+    "book_id": "heb",
+    "chapter": "12",
+    "verse": "1",
+    "alignment_num": "6",
+    "orig_lang_words": ",1539117,",
+    "target_lang_words": ",1348221,1348222,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539117,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "1",
+        "word_num": 8,
+        "word": "μαρτύρων",
+        "occurrence": 1,
+        "strong": "G31440",
+        "lemma": "μάρτυρος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "μαρτύρων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1348221,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "1",
+        "word_num": 8,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1348222,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "1",
+        "word_num": 9,
+        "word": "witnesses",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of witnesses",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μαρτύρων = of witnesses",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568944",
+    "book_id": "rev",
+    "chapter": "17",
+    "verse": "6",
+    "alignment_num": "14",
+    "orig_lang_words": ",1554451,",
+    "target_lang_words": ",1368455,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554451,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "6",
+        "word_num": 15,
+        "word": "μαρτύρων",
+        "occurrence": 1,
+        "strong": "G31440",
+        "lemma": "μάρτυρος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "μαρτύρων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368455,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "6",
+        "word_num": 19,
+        "word": "witnesses",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "witnesses",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτύρων = witnesses",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +372,8 @@
     "targetWordsTxt": "witnesses",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μάρτυρες = witnesses",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.75,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,60 +426,8 @@
     "targetWordsTxt": "my witnesses",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μάρτυρες = my witnesses",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502370",
-    "book_id": "act",
-    "chapter": "1",
-    "verse": "22",
-    "alignment_num": "15",
-    "orig_lang_words": ",1484591,",
-    "target_lang_words": ",1272992,1272993,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484591,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "22",
-        "word_num": 12,
-        "word": "μάρτυρα",
-        "occurrence": 1,
-        "strong": "G31440",
-        "lemma": "μάρτυρος",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "μάρτυρα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1272992,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "22",
-        "word_num": 21,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1272993,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "22",
-        "word_num": 22,
-        "word": "witness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a witness",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μάρτυρα = a witness",
-    "frequency": 0.09523809523809523,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,51 +471,8 @@
     "targetWordsTxt": "witnesses",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μάρτυρες = witnesses",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503504",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "15",
-    "alignment_num": "14",
-    "orig_lang_words": ",1485780,",
-    "target_lang_words": ",1274472,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485780,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 14,
-        "word": "μάρτυρές",
-        "occurrence": 1,
-        "strong": "G31440",
-        "lemma": "μάρτυρος",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "μάρτυρές",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274472,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 16,
-        "word": "witnesses",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "witnesses",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μάρτυρές = witnesses",
-    "frequency": 0.047619047619047616,
+    "frequency": 0.75,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -330,51 +516,8 @@
     "targetWordsTxt": "witnesses",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μάρτυρες = witnesses",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505356",
-    "book_id": "act",
-    "chapter": "6",
-    "verse": "13",
-    "alignment_num": "2",
-    "orig_lang_words": ",1487676,",
-    "target_lang_words": ",1276940,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487676,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 2,
-        "word": "μάρτυρας",
-        "occurrence": 1,
-        "strong": "G31440",
-        "lemma": "μάρτυρος",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "μάρτυρας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276940,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 3,
-        "word": "witnesses",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "witnesses",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μάρτυρας = witnesses",
-    "frequency": 0.047619047619047616,
+    "frequency": 0.75,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -418,7 +561,8 @@
     "targetWordsTxt": "witnesses",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μάρτυρες = witnesses",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.75,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -471,7 +615,8 @@
     "targetWordsTxt": "are witnesses",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μάρτυρες = are witnesses",
-    "frequency": 0.047619047619047616,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -515,63 +660,107 @@
     "targetWordsTxt": "witnesses",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μάρτυρες = witnesses",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.75,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "516146",
-    "book_id": "act",
-    "chapter": "22",
-    "verse": "20",
-    "alignment_num": "5",
-    "orig_lang_words": ",1498800,1498801,",
-    "target_lang_words": ",1291502,",
-    "origSpan": 1,
+    "id": "545312",
+    "book_id": "1th",
+    "chapter": "2",
+    "verse": "10",
+    "alignment_num": "1",
+    "orig_lang_words": ",1529269,",
+    "target_lang_words": ",1334298,",
+    "origSpan": 0,
     "origWords": [
       {
-        "id": 1498800,
-        "book_id": "act",
-        "chapter": "22",
-        "verse": "20",
-        "word_num": 6,
-        "word": "τοῦ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GMS,"
-      },
-      {
-        "id": 1498801,
-        "book_id": "act",
-        "chapter": "22",
-        "verse": "20",
-        "word_num": 7,
-        "word": "μάρτυρός",
+        "id": 1529269,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 1,
+        "word": "μάρτυρες",
         "occurrence": 1,
         "strong": "G31440",
         "lemma": "μάρτυρος",
-        "morph": "Gr,N,,,,,GMS,"
+        "morph": "Gr,N,,,,,NMP,"
       }
     ],
-    "origWordsTxt": "τοῦ μάρτυρός",
-    "alignmentOrigWords": 2,
+    "origWordsTxt": "μάρτυρες",
+    "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1291502,
+        "id": 1334298,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 2,
+        "word": "witnesses",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "witnesses",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μάρτυρες = witnesses",
+    "frequency": 0.75,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502370",
+    "book_id": "act",
+    "chapter": "1",
+    "verse": "22",
+    "alignment_num": "15",
+    "orig_lang_words": ",1484591,",
+    "target_lang_words": ",1272992,1272993,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484591,
         "book_id": "act",
-        "chapter": "22",
-        "verse": "20",
-        "word_num": 6,
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 12,
+        "word": "μάρτυρα",
+        "occurrence": 1,
+        "strong": "G31440",
+        "lemma": "μάρτυρος",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "μάρτυρα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1272992,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 21,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1272993,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 22,
         "word": "witness",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "witness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ μάρτυρός = witness",
-    "frequency": 0.047619047619047616,
+    "targetWordsTxt": "a witness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μάρτυρα = a witness",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -624,7 +813,8 @@
     "targetWordsTxt": "a witness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μάρτυρα = a witness",
-    "frequency": 0.09523809523809523,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -686,324 +876,155 @@
     "targetWordsTxt": "as a witness",
     "alignmentTargetWords": 3,
     "alignmentTxt": "μάρτυρα = as a witness",
-    "frequency": 0.047619047619047616,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "537171",
-    "book_id": "2co",
-    "chapter": "13",
-    "verse": "1",
-    "alignment_num": "13",
-    "orig_lang_words": ",1520811,",
-    "target_lang_words": ",1322620,",
+    "id": "503504",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "15",
+    "alignment_num": "14",
+    "orig_lang_words": ",1485780,",
+    "target_lang_words": ",1274472,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1520811,
-        "book_id": "2co",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 8,
-        "word": "μαρτύρων",
-        "occurrence": 1,
-        "strong": "G31440",
-        "lemma": "μάρτυρος",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "μαρτύρων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1322620,
-        "book_id": "2co",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 23,
-        "word": "witnesses",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "witnesses",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτύρων = witnesses",
-    "frequency": 0.23809523809523808,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545312",
-    "book_id": "1th",
-    "chapter": "2",
-    "verse": "10",
-    "alignment_num": "1",
-    "orig_lang_words": ",1529269,",
-    "target_lang_words": ",1334298,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529269,
-        "book_id": "1th",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 1,
-        "word": "μάρτυρες",
+        "id": 1485780,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 14,
+        "word": "μάρτυρές",
         "occurrence": 1,
         "strong": "G31440",
         "lemma": "μάρτυρος",
         "morph": "Gr,N,,,,,NMP,"
       }
     ],
-    "origWordsTxt": "μάρτυρες",
+    "origWordsTxt": "μάρτυρές",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1334298,
-        "book_id": "1th",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 2,
+        "id": 1274472,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 16,
         "word": "witnesses",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "witnesses",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "μάρτυρες = witnesses",
-    "frequency": 0.2857142857142857,
+    "alignmentTxt": "μάρτυρές = witnesses",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "548343",
-    "book_id": "1ti",
-    "chapter": "5",
-    "verse": "19",
-    "alignment_num": "10",
-    "orig_lang_words": ",1532357,",
-    "target_lang_words": ",1338570,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532357,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "19",
-        "word_num": 12,
-        "word": "μαρτύρων",
-        "occurrence": 1,
-        "strong": "G31440",
-        "lemma": "μάρτυρος",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "μαρτύρων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338570,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "19",
-        "word_num": 14,
-        "word": "witnesses",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "witnesses",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτύρων = witnesses",
-    "frequency": 0.23809523809523808,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548628",
-    "book_id": "1ti",
+    "id": "505356",
+    "book_id": "act",
     "chapter": "6",
-    "verse": "12",
-    "alignment_num": "22",
-    "orig_lang_words": ",1532643,",
-    "target_lang_words": ",1338966,",
+    "verse": "13",
+    "alignment_num": "2",
+    "orig_lang_words": ",1487676,",
+    "target_lang_words": ",1276940,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1532643,
-        "book_id": "1ti",
+        "id": 1487676,
+        "book_id": "act",
         "chapter": "6",
-        "verse": "12",
-        "word_num": 20,
-        "word": "μαρτύρων",
+        "verse": "13",
+        "word_num": 2,
+        "word": "μάρτυρας",
         "occurrence": 1,
         "strong": "G31440",
         "lemma": "μάρτυρος",
-        "morph": "Gr,N,,,,,GMP,"
+        "morph": "Gr,N,,,,,AMP,"
       }
     ],
-    "origWordsTxt": "μαρτύρων",
+    "origWordsTxt": "μάρτυρας",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1338966,
-        "book_id": "1ti",
+        "id": 1276940,
+        "book_id": "act",
         "chapter": "6",
-        "verse": "12",
-        "word_num": 28,
+        "verse": "13",
+        "word_num": 3,
         "word": "witnesses",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "witnesses",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτύρων = witnesses",
-    "frequency": 0.23809523809523808,
+    "alignmentTxt": "μάρτυρας = witnesses",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "549101",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "2",
-    "alignment_num": "7",
-    "orig_lang_words": ",1533120,",
-    "target_lang_words": ",1339611,",
-    "origSpan": 0,
+    "id": "516146",
+    "book_id": "act",
+    "chapter": "22",
+    "verse": "20",
+    "alignment_num": "5",
+    "orig_lang_words": ",1498800,1498801,",
+    "target_lang_words": ",1291502,",
+    "origSpan": 1,
     "origWords": [
       {
-        "id": 1533120,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 7,
-        "word": "μαρτύρων",
+        "id": 1498800,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "20",
+        "word_num": 6,
+        "word": "τοῦ",
         "occurrence": 1,
-        "strong": "G31440",
-        "lemma": "μάρτυρος",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "μαρτύρων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339611,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 10,
-        "word": "witnesses",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "witnesses",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτύρων = witnesses",
-    "frequency": 0.23809523809523808,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554881",
-    "book_id": "heb",
-    "chapter": "12",
-    "verse": "1",
-    "alignment_num": "6",
-    "orig_lang_words": ",1539117,",
-    "target_lang_words": ",1348221,1348222,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539117,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "1",
-        "word_num": 8,
-        "word": "μαρτύρων",
-        "occurrence": 1,
-        "strong": "G31440",
-        "lemma": "μάρτυρος",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "μαρτύρων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1348221,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "1",
-        "word_num": 8,
-        "word": "of",
-        "occurrence": 1
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GMS,"
       },
       {
-        "id": 1348222,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "1",
-        "word_num": 9,
-        "word": "witnesses",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of witnesses",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μαρτύρων = of witnesses",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568944",
-    "book_id": "rev",
-    "chapter": "17",
-    "verse": "6",
-    "alignment_num": "14",
-    "orig_lang_words": ",1554451,",
-    "target_lang_words": ",1368455,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554451,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "6",
-        "word_num": 15,
-        "word": "μαρτύρων",
+        "id": 1498801,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "20",
+        "word_num": 7,
+        "word": "μάρτυρός",
         "occurrence": 1,
         "strong": "G31440",
         "lemma": "μάρτυρος",
-        "morph": "Gr,N,,,,,GMP,"
+        "morph": "Gr,N,,,,,GMS,"
       }
     ],
-    "origWordsTxt": "μαρτύρων",
-    "alignmentOrigWords": 1,
+    "origWordsTxt": "τοῦ μάρτυρός",
+    "alignmentOrigWords": 2,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1368455,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "6",
-        "word_num": 19,
-        "word": "witnesses",
+        "id": 1291502,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "20",
+        "word_num": 6,
+        "word": "witness",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "witnesses",
+    "targetWordsTxt": "witness",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτύρων = witnesses",
-    "frequency": 0.23809523809523808,
+    "alignmentTxt": "τοῦ μάρτυρός = witness",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

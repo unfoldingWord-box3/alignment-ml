@@ -48,7 +48,8 @@
     "targetWordsTxt": "in Hebrew",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Ἑβραϊστὶ = in Hebrew",
-    "frequency": 0.7142857142857143,
+    "frequency": 1.0,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,8 @@
     "targetWordsTxt": "in Hebrew",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Ἑβραϊστὶ = in Hebrew",
-    "frequency": 0.7142857142857143,
+    "frequency": 1.0,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,113 +156,8 @@
     "targetWordsTxt": "in Hebrew",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Ἑβραϊστὶ = in Hebrew",
-    "frequency": 0.7142857142857143,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500449",
-    "book_id": "jhn",
-    "chapter": "19",
-    "verse": "20",
-    "alignment_num": "19",
-    "orig_lang_words": ",1482554,",
-    "target_lang_words": ",1270350,1270351,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1482554,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "20",
-        "word_num": 22,
-        "word": "Ἑβραϊστί",
-        "occurrence": 1,
-        "strong": "G14470",
-        "lemma": "Ἑβραϊστί",
-        "morph": "Gr,D,,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "Ἑβραϊστί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1270350,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "20",
-        "word_num": 23,
-        "word": "in",
-        "occurrence": 1
-      },
-      {
-        "id": 1270351,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "20",
-        "word_num": 24,
-        "word": "Hebrew",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "in Hebrew",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "Ἑβραϊστί = in Hebrew",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501128",
-    "book_id": "jhn",
-    "chapter": "20",
-    "verse": "16",
-    "alignment_num": "8",
-    "orig_lang_words": ",1483274,",
-    "target_lang_words": ",1271286,1271287,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483274,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "16",
-        "word_num": 8,
-        "word": "Ἑβραϊστί",
-        "occurrence": 1,
-        "strong": "G14470",
-        "lemma": "Ἑβραϊστί",
-        "morph": "Gr,D,,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "Ἑβραϊστί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1271286,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "16",
-        "word_num": 11,
-        "word": "in",
-        "occurrence": 1
-      },
-      {
-        "id": 1271287,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "16",
-        "word_num": 12,
-        "word": "Hebrew",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "in Hebrew",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "Ἑβραϊστί = in Hebrew",
-    "frequency": 0.2857142857142857,
+    "frequency": 1.0,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -313,7 +210,8 @@
     "targetWordsTxt": "in Hebrew",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Ἑβραϊστὶ = in Hebrew",
-    "frequency": 0.7142857142857143,
+    "frequency": 1.0,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -366,7 +264,116 @@
     "targetWordsTxt": "in Hebrew",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Ἑβραϊστὶ = in Hebrew",
-    "frequency": 0.7142857142857143,
+    "frequency": 1.0,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500449",
+    "book_id": "jhn",
+    "chapter": "19",
+    "verse": "20",
+    "alignment_num": "19",
+    "orig_lang_words": ",1482554,",
+    "target_lang_words": ",1270350,1270351,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1482554,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "20",
+        "word_num": 22,
+        "word": "Ἑβραϊστί",
+        "occurrence": 1,
+        "strong": "G14470",
+        "lemma": "Ἑβραϊστί",
+        "morph": "Gr,D,,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "Ἑβραϊστί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1270350,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "20",
+        "word_num": 23,
+        "word": "in",
+        "occurrence": 1
+      },
+      {
+        "id": 1270351,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "20",
+        "word_num": 24,
+        "word": "Hebrew",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in Hebrew",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "Ἑβραϊστί = in Hebrew",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501128",
+    "book_id": "jhn",
+    "chapter": "20",
+    "verse": "16",
+    "alignment_num": "8",
+    "orig_lang_words": ",1483274,",
+    "target_lang_words": ",1271286,1271287,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483274,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "16",
+        "word_num": 8,
+        "word": "Ἑβραϊστί",
+        "occurrence": 1,
+        "strong": "G14470",
+        "lemma": "Ἑβραϊστί",
+        "morph": "Gr,D,,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "Ἑβραϊστί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1271286,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "16",
+        "word_num": 11,
+        "word": "in",
+        "occurrence": 1
+      },
+      {
+        "id": 1271287,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "16",
+        "word_num": 12,
+        "word": "Hebrew",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "in Hebrew",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "Ἑβραϊστί = in Hebrew",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

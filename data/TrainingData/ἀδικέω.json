@@ -39,7 +39,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀδικήσῃ = will",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,8 @@
     "targetWordsTxt": "being mistreated",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀδικούμενον = being mistreated",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,7 +156,62 @@
     "targetWordsTxt": "you are hurting",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀδικεῖτε = you are hurting",
-    "frequency": 0.037037037037037035,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528150",
+    "book_id": "1co",
+    "chapter": "6",
+    "verse": "8",
+    "alignment_num": "2",
+    "orig_lang_words": ",1511546,",
+    "target_lang_words": ",1309354,1309355,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511546,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "8",
+        "word_num": 2,
+        "word": "ἀδικεῖτε",
+        "occurrence": 1,
+        "strong": "G00910",
+        "lemma": "ἀδικέω",
+        "morph": "Gr,V,IPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀδικεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1309354,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "8",
+        "word_num": 2,
+        "word": "do",
+        "occurrence": 1
+      },
+      {
+        "id": 1309355,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "8",
+        "word_num": 3,
+        "word": "wrong",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "do wrong",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀδικεῖτε = do wrong",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -216,7 +273,164 @@
     "targetWordsTxt": "who had wronged",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀδικῶν = who had wronged",
-    "frequency": 0.037037037037037035,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544684",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "25",
+    "alignment_num": "2",
+    "orig_lang_words": ",1528596,",
+    "target_lang_words": ",1333421,1333422,1333423,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528596,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 2,
+        "word": "ἀδικῶν",
+        "occurrence": 1,
+        "strong": "G00910",
+        "lemma": "ἀδικέω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀδικῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1333421,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 2,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1333422,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 3,
+        "word": "does",
+        "occurrence": 1
+      },
+      {
+        "id": 1333423,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 4,
+        "word": "unrighteousness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who does unrighteousness",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀδικῶν = who does unrighteousness",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571327",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "11",
+    "alignment_num": "0",
+    "orig_lang_words": ",1557132,1557133,",
+    "target_lang_words": ",1371701,1371702,1371703,1371704,1371705,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1557132,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 0,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NMS,"
+      },
+      {
+        "id": 1557133,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 1,
+        "word": "ἀδικῶν",
+        "occurrence": 1,
+        "strong": "G00910",
+        "lemma": "ἀδικέω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ ἀδικῶν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1371701,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 0,
+        "word": "The",
+        "occurrence": 1
+      },
+      {
+        "id": 1371702,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 1,
+        "word": "one",
+        "occurrence": 1
+      },
+      {
+        "id": 1371703,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 2,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1371704,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 3,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1371705,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 4,
+        "word": "unrighteous",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "The one who is unrighteous",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "ὁ ἀδικῶν = The one who is unrighteous",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -278,7 +492,8 @@
     "targetWordsTxt": "I have done",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠδίκησα = I have done",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -349,7 +564,8 @@
     "targetWordsTxt": "I have done wrong",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἀδικῶ = I have done wrong",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -402,60 +618,8 @@
     "targetWordsTxt": "suffer wrong",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀδικεῖσθε = suffer wrong",
-    "frequency": 0.037037037037037035,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "528150",
-    "book_id": "1co",
-    "chapter": "6",
-    "verse": "8",
-    "alignment_num": "2",
-    "orig_lang_words": ",1511546,",
-    "target_lang_words": ",1309354,1309355,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1511546,
-        "book_id": "1co",
-        "chapter": "6",
-        "verse": "8",
-        "word_num": 2,
-        "word": "ἀδικεῖτε",
-        "occurrence": 1,
-        "strong": "G00910",
-        "lemma": "ἀδικέω",
-        "morph": "Gr,V,IPA2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀδικεῖτε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1309354,
-        "book_id": "1co",
-        "chapter": "6",
-        "verse": "8",
-        "word_num": 2,
-        "word": "do",
-        "occurrence": 1
-      },
-      {
-        "id": 1309355,
-        "book_id": "1co",
-        "chapter": "6",
-        "verse": "8",
-        "word_num": 3,
-        "word": "wrong",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "do wrong",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀδικεῖτε = do wrong",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -517,7 +681,8 @@
     "targetWordsTxt": "We have wronged",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠδικήσαμεν = We have wronged",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -609,7 +774,8 @@
     "targetWordsTxt": "the one who did wrong",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τοῦ ἀδικήσαντος = the one who did wrong",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -710,7 +876,8 @@
     "targetWordsTxt": "the one who suffered the wrong",
     "alignmentTargetWords": 6,
     "alignmentTxt": "τοῦ ἀδικηθέντος = the one who suffered the wrong",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -763,69 +930,8 @@
     "targetWordsTxt": "You did",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἠδικήσατε = You did",
-    "frequency": 0.037037037037037035,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544684",
-    "book_id": "col",
-    "chapter": "3",
-    "verse": "25",
-    "alignment_num": "2",
-    "orig_lang_words": ",1528596,",
-    "target_lang_words": ",1333421,1333422,1333423,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528596,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 2,
-        "word": "ἀδικῶν",
-        "occurrence": 1,
-        "strong": "G00910",
-        "lemma": "ἀδικέω",
-        "morph": "Gr,V,PPA,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀδικῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1333421,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 2,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1333422,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 3,
-        "word": "does",
-        "occurrence": 1
-      },
-      {
-        "id": 1333423,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 4,
-        "word": "unrighteousness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who does unrighteousness",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀδικῶν = who does unrighteousness",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -914,7 +1020,8 @@
     "targetWordsTxt": "for the unrighteousness that he did",
     "alignmentTargetWords": 6,
     "alignmentTxt": "ἠδίκησεν = for the unrighteousness that he did",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -976,7 +1083,8 @@
     "targetWordsTxt": "he has wronged",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠδίκησέν = he has wronged",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1038,7 +1146,8 @@
     "targetWordsTxt": "They will receive",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀδικούμενοι = They will receive",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1082,7 +1191,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀδικηθῇ = will",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1126,7 +1236,8 @@
     "targetWordsTxt": "harm",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀδικήσῃς = harm",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1179,104 +1290,8 @@
     "targetWordsTxt": "to harm",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀδικῆσαι = to harm",
-    "frequency": 0.14814814814814814,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565159",
-    "book_id": "rev",
-    "chapter": "7",
-    "verse": "3",
-    "alignment_num": "2",
-    "orig_lang_words": ",1550259,",
-    "target_lang_words": ",1363386,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550259,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 2,
-        "word": "ἀδικήσητε",
-        "occurrence": 1,
-        "strong": "G00910",
-        "lemma": "ἀδικέω",
-        "morph": "Gr,V,SAA2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀδικήσητε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1363386,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 3,
-        "word": "harm",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "harm",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀδικήσητε = harm",
-    "frequency": 0.037037037037037035,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565831",
-    "book_id": "rev",
-    "chapter": "9",
-    "verse": "4",
-    "alignment_num": "3",
-    "orig_lang_words": ",1550990,",
-    "target_lang_words": ",1364312,1364313,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550990,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "4",
-        "word_num": 5,
-        "word": "ἀδικήσουσιν",
-        "occurrence": 1,
-        "strong": "G00910",
-        "lemma": "ἀδικέω",
-        "morph": "Gr,V,IFA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀδικήσουσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1364312,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "4",
-        "word_num": 4,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1364313,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "4",
-        "word_num": 5,
-        "word": "should",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they should",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀδικήσουσιν = they should",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1329,7 +1344,215 @@
     "targetWordsTxt": "to harm",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀδικῆσαι = to harm",
-    "frequency": 0.14814814814814814,
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566530",
+    "book_id": "rev",
+    "chapter": "11",
+    "verse": "5",
+    "alignment_num": "3",
+    "orig_lang_words": ",1551784,",
+    "target_lang_words": ",1365244,1365245,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551784,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "5",
+        "word_num": 5,
+        "word": "ἀδικῆσαι",
+        "occurrence": 1,
+        "strong": "G00910",
+        "lemma": "ἀδικέω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀδικῆσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1365244,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "5",
+        "word_num": 3,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1365245,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "5",
+        "word_num": 4,
+        "word": "harm",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to harm",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀδικῆσαι = to harm",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566544",
+    "book_id": "rev",
+    "chapter": "11",
+    "verse": "5",
+    "alignment_num": "17",
+    "orig_lang_words": ",1551801,",
+    "target_lang_words": ",1365260,1365261,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551801,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "5",
+        "word_num": 22,
+        "word": "ἀδικῆσαι",
+        "occurrence": 2,
+        "strong": "G00910",
+        "lemma": "ἀδικέω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀδικῆσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1365260,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "5",
+        "word_num": 19,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1365261,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "5",
+        "word_num": 20,
+        "word": "harm",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "to harm",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀδικῆσαι = to harm",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565159",
+    "book_id": "rev",
+    "chapter": "7",
+    "verse": "3",
+    "alignment_num": "2",
+    "orig_lang_words": ",1550259,",
+    "target_lang_words": ",1363386,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550259,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 2,
+        "word": "ἀδικήσητε",
+        "occurrence": 1,
+        "strong": "G00910",
+        "lemma": "ἀδικέω",
+        "morph": "Gr,V,SAA2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀδικήσητε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1363386,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 3,
+        "word": "harm",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "harm",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀδικήσητε = harm",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565831",
+    "book_id": "rev",
+    "chapter": "9",
+    "verse": "4",
+    "alignment_num": "3",
+    "orig_lang_words": ",1550990,",
+    "target_lang_words": ",1364312,1364313,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550990,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "4",
+        "word_num": 5,
+        "word": "ἀδικήσουσιν",
+        "occurrence": 1,
+        "strong": "G00910",
+        "lemma": "ἀδικέω",
+        "morph": "Gr,V,IFA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀδικήσουσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1364312,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "4",
+        "word_num": 4,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1364313,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "4",
+        "word_num": 5,
+        "word": "should",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they should",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀδικήσουσιν = they should",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1391,205 +1614,8 @@
     "targetWordsTxt": "they injured people",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀδικοῦσιν = they injured people",
-    "frequency": 0.037037037037037035,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566530",
-    "book_id": "rev",
-    "chapter": "11",
-    "verse": "5",
-    "alignment_num": "3",
-    "orig_lang_words": ",1551784,",
-    "target_lang_words": ",1365244,1365245,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1551784,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "5",
-        "word_num": 5,
-        "word": "ἀδικῆσαι",
-        "occurrence": 1,
-        "strong": "G00910",
-        "lemma": "ἀδικέω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀδικῆσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1365244,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "5",
-        "word_num": 3,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1365245,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "5",
-        "word_num": 4,
-        "word": "harm",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to harm",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀδικῆσαι = to harm",
-    "frequency": 0.14814814814814814,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566544",
-    "book_id": "rev",
-    "chapter": "11",
-    "verse": "5",
-    "alignment_num": "17",
-    "orig_lang_words": ",1551801,",
-    "target_lang_words": ",1365260,1365261,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1551801,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "5",
-        "word_num": 22,
-        "word": "ἀδικῆσαι",
-        "occurrence": 2,
-        "strong": "G00910",
-        "lemma": "ἀδικέω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀδικῆσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1365260,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "5",
-        "word_num": 19,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1365261,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "5",
-        "word_num": 20,
-        "word": "harm",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "to harm",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀδικῆσαι = to harm",
-    "frequency": 0.14814814814814814,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571327",
-    "book_id": "rev",
-    "chapter": "22",
-    "verse": "11",
-    "alignment_num": "0",
-    "orig_lang_words": ",1557132,1557133,",
-    "target_lang_words": ",1371701,1371702,1371703,1371704,1371705,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1557132,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 0,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,RD,,,,NMS,"
-      },
-      {
-        "id": 1557133,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 1,
-        "word": "ἀδικῶν",
-        "occurrence": 1,
-        "strong": "G00910",
-        "lemma": "ἀδικέω",
-        "morph": "Gr,V,PPA,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ ἀδικῶν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 4,
-    "targetWords": [
-      {
-        "id": 1371701,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 0,
-        "word": "The",
-        "occurrence": 1
-      },
-      {
-        "id": 1371702,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 1,
-        "word": "one",
-        "occurrence": 1
-      },
-      {
-        "id": 1371703,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 2,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1371704,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 3,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1371705,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 4,
-        "word": "unrighteous",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "The one who is unrighteous",
-    "alignmentTargetWords": 5,
-    "alignmentTxt": "ὁ ἀδικῶν = The one who is unrighteous",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1642,7 +1668,8 @@
     "targetWordsTxt": "let him",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀδικησάτω = let him",
-    "frequency": 0.037037037037037035,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

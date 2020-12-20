@@ -48,7 +48,8 @@
     "targetWordsTxt": "on high",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὕψους = on high",
-    "frequency": 0.3333333333333333,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,8 @@
     "targetWordsTxt": "on high",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὕψους = on high",
-    "frequency": 0.3333333333333333,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +147,8 @@
     "targetWordsTxt": "height",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὕψος = height",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +201,65 @@
     "targetWordsTxt": "the heights",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὕψος = the heights",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570935",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "16",
+    "alignment_num": "22",
+    "orig_lang_words": ",1556687,1556688,",
+    "target_lang_words": ",1371151,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1556687,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "16",
+        "word_num": 28,
+        "word": "τὸ",
+        "occurrence": 5,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1556688,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "16",
+        "word_num": 29,
+        "word": "ὕψος",
+        "occurrence": 1,
+        "strong": "G53110",
+        "lemma": "ὕψος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ὕψος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371151,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "16",
+        "word_num": 33,
+        "word": "height",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "height",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ὕψος = height",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -263,63 +324,8 @@
     "targetWordsTxt": "high position",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῷ ὕψει = high position",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "570935",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "16",
-    "alignment_num": "22",
-    "orig_lang_words": ",1556687,1556688,",
-    "target_lang_words": ",1371151,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1556687,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "16",
-        "word_num": 28,
-        "word": "τὸ",
-        "occurrence": 5,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNS,"
-      },
-      {
-        "id": 1556688,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "16",
-        "word_num": 29,
-        "word": "ὕψος",
-        "occurrence": 1,
-        "strong": "G53110",
-        "lemma": "ὕψος",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ὕψος",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371151,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "16",
-        "word_num": 33,
-        "word": "height",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "height",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ ὕψος = height",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

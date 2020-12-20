@@ -39,95 +39,8 @@
     "targetWordsTxt": "ungodliness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀσέβειαν = ungodliness",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524543",
-    "book_id": "rom",
-    "chapter": "11",
-    "verse": "26",
-    "alignment_num": "12",
-    "orig_lang_words": ",1507684,",
-    "target_lang_words": ",1303996,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1507684,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "26",
-        "word_num": 13,
-        "word": "ἀσεβείας",
-        "occurrence": 1,
-        "strong": "G07630",
-        "lemma": "ἀσέβεια",
-        "morph": "Gr,N,,,,,AFP,"
-      }
-    ],
-    "origWordsTxt": "ἀσεβείας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1303996,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "26",
-        "word_num": 21,
-        "word": "ungodliness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "ungodliness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀσεβείας = ungodliness",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549274",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "16",
-    "alignment_num": "6",
-    "orig_lang_words": ",1533288,",
-    "target_lang_words": ",1339877,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533288,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 9,
-        "word": "ἀσεβείας",
-        "occurrence": 1,
-        "strong": "G07630",
-        "lemma": "ἀσέβεια",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἀσεβείας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339877,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 9,
-        "word": "to",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀσεβείας = to",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -183,7 +96,98 @@
     "targetWordsTxt": "godlessness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν ἀσέβειαν = godlessness",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524543",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "26",
+    "alignment_num": "12",
+    "orig_lang_words": ",1507684,",
+    "target_lang_words": ",1303996,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507684,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "26",
+        "word_num": 13,
+        "word": "ἀσεβείας",
+        "occurrence": 1,
+        "strong": "G07630",
+        "lemma": "ἀσέβεια",
+        "morph": "Gr,N,,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "ἀσεβείας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1303996,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "26",
+        "word_num": 21,
+        "word": "ungodliness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "ungodliness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀσεβείας = ungodliness",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549274",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "6",
+    "orig_lang_words": ",1533288,",
+    "target_lang_words": ",1339877,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533288,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 9,
+        "word": "ἀσεβείας",
+        "occurrence": 1,
+        "strong": "G07630",
+        "lemma": "ἀσέβεια",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀσεβείας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339877,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 9,
+        "word": "to",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀσεβείας = to",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -227,7 +231,8 @@
     "targetWordsTxt": "ungodly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀσεβείας = ungodly",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -283,7 +288,8 @@
     "targetWordsTxt": "ungodly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῶν ἀσεβειῶν = ungodly",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

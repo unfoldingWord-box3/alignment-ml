@@ -51,7 +51,8 @@
     "targetWordsTxt": "body",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ πτῶμα = body",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -95,7 +96,65 @@
     "targetWordsTxt": "body",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πτῶμα = body",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566635",
+    "book_id": "rev",
+    "chapter": "11",
+    "verse": "9",
+    "alignment_num": "13",
+    "orig_lang_words": ",1551899,1551900,",
+    "target_lang_words": ",1365384,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1551899,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "9",
+        "word_num": 11,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1551900,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "9",
+        "word_num": 12,
+        "word": "πτῶμα",
+        "occurrence": 1,
+        "strong": "G44300",
+        "lemma": "πτῶμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ πτῶμα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365384,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "9",
+        "word_num": 18,
+        "word": "bodies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "bodies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ πτῶμα = bodies",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -163,63 +222,8 @@
     "targetWordsTxt": "bodies",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ τὰ πτώματα = bodies",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566635",
-    "book_id": "rev",
-    "chapter": "11",
-    "verse": "9",
-    "alignment_num": "13",
-    "orig_lang_words": ",1551899,1551900,",
-    "target_lang_words": ",1365384,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1551899,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "9",
-        "word_num": 11,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1551900,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "9",
-        "word_num": 12,
-        "word": "πτῶμα",
-        "occurrence": 1,
-        "strong": "G44300",
-        "lemma": "πτῶμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ πτῶμα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1365384,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "9",
-        "word_num": 18,
-        "word": "bodies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "bodies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ πτῶμα = bodies",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -275,7 +279,8 @@
     "targetWordsTxt": "bodies",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ πτώματα = bodies",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

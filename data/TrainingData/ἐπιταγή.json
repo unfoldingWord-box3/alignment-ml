@@ -48,60 +48,8 @@
     "targetWordsTxt": "the command",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπιταγὴν = the command",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "528458",
-    "book_id": "1co",
-    "chapter": "7",
-    "verse": "6",
-    "alignment_num": "7",
-    "orig_lang_words": ",1511870,",
-    "target_lang_words": ",1309802,1309803,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1511870,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "6",
-        "word_num": 7,
-        "word": "ἐπιταγήν",
-        "occurrence": 1,
-        "strong": "G20030",
-        "lemma": "ἐπιταγή",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἐπιταγήν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1309802,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "6",
-        "word_num": 10,
-        "word": "a",
-        "occurrence": 2
-      },
-      {
-        "id": 1309803,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "6",
-        "word_num": 11,
-        "word": "command",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a command",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπιταγήν = a command",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,7 +102,8 @@
     "targetWordsTxt": "a commandment",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπιταγὴν = a commandment",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -207,7 +156,8 @@
     "targetWordsTxt": "a command",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπιταγὴν = a command",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -260,7 +210,8 @@
     "targetWordsTxt": "the commandment",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπιταγὴν = the commandment",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -313,7 +264,62 @@
     "targetWordsTxt": "the command",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπιταγὴν = the command",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528458",
+    "book_id": "1co",
+    "chapter": "7",
+    "verse": "6",
+    "alignment_num": "7",
+    "orig_lang_words": ",1511870,",
+    "target_lang_words": ",1309802,1309803,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511870,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "6",
+        "word_num": 7,
+        "word": "ἐπιταγήν",
+        "occurrence": 1,
+        "strong": "G20030",
+        "lemma": "ἐπιταγή",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἐπιταγήν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1309802,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "6",
+        "word_num": 10,
+        "word": "a",
+        "occurrence": 2
+      },
+      {
+        "id": 1309803,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "6",
+        "word_num": 11,
+        "word": "command",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a command",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπιταγήν = a command",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -357,7 +363,8 @@
     "targetWordsTxt": "authority",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπιταγῆς = authority",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

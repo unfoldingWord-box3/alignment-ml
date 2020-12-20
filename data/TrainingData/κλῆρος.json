@@ -39,7 +39,8 @@
     "targetWordsTxt": "lots",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κλῆρον = lots",
-    "frequency": 0.3,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "lots",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κλῆρον = lots",
-    "frequency": 0.3,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,7 +129,8 @@
     "targetWordsTxt": "lots",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κλῆρον = lots",
-    "frequency": 0.3,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -171,139 +174,8 @@
     "targetWordsTxt": "share",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κλῆρον = share",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502419",
-    "book_id": "act",
-    "chapter": "1",
-    "verse": "26",
-    "alignment_num": "1",
-    "orig_lang_words": ",1484647,",
-    "target_lang_words": ",1273060,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484647,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "26",
-        "word_num": 2,
-        "word": "κλήρους",
-        "occurrence": 1,
-        "strong": "G28190",
-        "lemma": "κλῆρος",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "κλήρους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1273060,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "26",
-        "word_num": 2,
-        "word": "lots",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "lots",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κλήρους = lots",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502423",
-    "book_id": "act",
-    "chapter": "1",
-    "verse": "26",
-    "alignment_num": "5",
-    "orig_lang_words": ",1484652,",
-    "target_lang_words": ",1273065,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484652,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "26",
-        "word_num": 7,
-        "word": "κλῆρος",
-        "occurrence": 1,
-        "strong": "G28190",
-        "lemma": "κλῆρος",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "κλῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1273065,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "26",
-        "word_num": 7,
-        "word": "lot",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "lot",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κλῆρος = lot",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506817",
-    "book_id": "act",
-    "chapter": "8",
-    "verse": "21",
-    "alignment_num": "5",
-    "orig_lang_words": ",1489183,",
-    "target_lang_words": ",1278905,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1489183,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 5,
-        "word": "κλῆρος",
-        "occurrence": 1,
-        "strong": "G28190",
-        "lemma": "κλῆρος",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "κλῆρος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1278905,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 5,
-        "word": "share",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "share",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κλῆρος = share",
-    "frequency": 0.1,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -356,7 +228,143 @@
     "targetWordsTxt": "an inheritance",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κλῆρον = an inheritance",
-    "frequency": 0.1,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502419",
+    "book_id": "act",
+    "chapter": "1",
+    "verse": "26",
+    "alignment_num": "1",
+    "orig_lang_words": ",1484647,",
+    "target_lang_words": ",1273060,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484647,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "26",
+        "word_num": 2,
+        "word": "κλήρους",
+        "occurrence": 1,
+        "strong": "G28190",
+        "lemma": "κλῆρος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "κλήρους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1273060,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "26",
+        "word_num": 2,
+        "word": "lots",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "lots",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κλήρους = lots",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502423",
+    "book_id": "act",
+    "chapter": "1",
+    "verse": "26",
+    "alignment_num": "5",
+    "orig_lang_words": ",1484652,",
+    "target_lang_words": ",1273065,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484652,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "26",
+        "word_num": 7,
+        "word": "κλῆρος",
+        "occurrence": 1,
+        "strong": "G28190",
+        "lemma": "κλῆρος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "κλῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1273065,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "26",
+        "word_num": 7,
+        "word": "lot",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "lot",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κλῆρος = lot",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506817",
+    "book_id": "act",
+    "chapter": "8",
+    "verse": "21",
+    "alignment_num": "5",
+    "orig_lang_words": ",1489183,",
+    "target_lang_words": ",1278905,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1489183,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 5,
+        "word": "κλῆρος",
+        "occurrence": 1,
+        "strong": "G28190",
+        "lemma": "κλῆρος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "κλῆρος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1278905,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 5,
+        "word": "share",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "share",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κλῆρος = share",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -400,7 +408,8 @@
     "targetWordsTxt": "inheritance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κλήρου = inheritance",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -510,7 +519,8 @@
     "targetWordsTxt": "the people who are in your care",
     "alignmentTargetWords": 7,
     "alignmentTxt": "τῶν κλήρων = the people who are in your care",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

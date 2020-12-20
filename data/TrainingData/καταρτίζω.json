@@ -39,7 +39,8 @@
     "targetWordsTxt": "mending",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καταρτίζοντας = mending",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,8 @@
     "targetWordsTxt": "fully trained",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατηρτισμένος = fully trained",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +138,8 @@
     "targetWordsTxt": "prepared",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κατηρτισμένα = prepared",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,7 +192,8 @@
     "targetWordsTxt": "joined together",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατηρτισμένοι = joined together",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,7 +246,8 @@
     "targetWordsTxt": "Be restored",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καταρτίζεσθε = Be restored",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,7 +300,8 @@
     "targetWordsTxt": "should restore",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καταρτίζετε = should restore",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -348,7 +354,53 @@
     "targetWordsTxt": "we may",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καταρτίσαι = we may",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555627",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "21",
+    "alignment_num": "0",
+    "orig_lang_words": ",1539881,",
+    "target_lang_words": ",1349346,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539881,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "21",
+        "word_num": 0,
+        "word": "καταρτίσαι",
+        "occurrence": 1,
+        "strong": "G26750",
+        "lemma": "καταρτίζω",
+        "morph": "Gr,V,OAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "καταρτίσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349346,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "21",
+        "word_num": 0,
+        "word": "equip",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "equip",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καταρτίσαι = equip",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -410,7 +462,8 @@
     "targetWordsTxt": "you have prepared",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κατηρτίσω = you have prepared",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -463,51 +516,8 @@
     "targetWordsTxt": "was created",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατηρτίσθαι = was created",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555627",
-    "book_id": "heb",
-    "chapter": "13",
-    "verse": "21",
-    "alignment_num": "0",
-    "orig_lang_words": ",1539881,",
-    "target_lang_words": ",1349346,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539881,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "21",
-        "word_num": 0,
-        "word": "καταρτίσαι",
-        "occurrence": 1,
-        "strong": "G26750",
-        "lemma": "καταρτίζω",
-        "morph": "Gr,V,OAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "καταρτίσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349346,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "21",
-        "word_num": 0,
-        "word": "equip",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "equip",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καταρτίσαι = equip",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -581,7 +591,8 @@
     "targetWordsTxt": "will perfect you",
     "alignmentTargetWords": 3,
     "alignmentTxt": "αὐτὸς καταρτίσει = will perfect you",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

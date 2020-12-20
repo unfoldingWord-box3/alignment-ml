@@ -51,60 +51,8 @@
     "targetWordsTxt": "wickedness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς κακίας = wickedness",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520361",
-    "book_id": "rom",
-    "chapter": "1",
-    "verse": "29",
-    "alignment_num": "5",
-    "orig_lang_words": ",1503128,",
-    "target_lang_words": ",1297495,1297496,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503128,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "29",
-        "word_num": 5,
-        "word": "κακίᾳ",
-        "occurrence": 1,
-        "strong": "G25490",
-        "lemma": "κακία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "κακίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1297495,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "29",
-        "word_num": 9,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1297496,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "29",
-        "word_num": 10,
-        "word": "malice",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and malice",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κακίᾳ = and malice",
-    "frequency": 0.1,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -166,192 +114,8 @@
     "targetWordsTxt": "of bad behavior",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κακίας = of bad behavior",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531609",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "20",
-    "alignment_num": "9",
-    "orig_lang_words": ",1515098,",
-    "target_lang_words": ",1314533,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515098,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "20",
-        "word_num": 8,
-        "word": "κακίᾳ",
-        "occurrence": 1,
-        "strong": "G25490",
-        "lemma": "κακία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "κακίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1314533,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "20",
-        "word_num": 12,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακίᾳ = evil",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541074",
-    "book_id": "eph",
-    "chapter": "4",
-    "verse": "31",
-    "alignment_num": "16",
-    "orig_lang_words": ",1524817,",
-    "target_lang_words": ",1328275,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1524817,
-        "book_id": "eph",
-        "chapter": "4",
-        "verse": "31",
-        "word_num": 15,
-        "word": "κακίᾳ",
-        "occurrence": 1,
-        "strong": "G25490",
-        "lemma": "κακία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "κακίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1328275,
-        "book_id": "eph",
-        "chapter": "4",
-        "verse": "31",
-        "word_num": 18,
-        "word": "malice",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "malice",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακίᾳ = malice",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544444",
-    "book_id": "col",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "10",
-    "orig_lang_words": ",1528338,",
-    "target_lang_words": ",1333080,1333081,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528338,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 9,
-        "word": "κακίαν",
-        "occurrence": 1,
-        "strong": "G25490",
-        "lemma": "κακία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "κακίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1333080,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 13,
-        "word": "evil",
-        "occurrence": 1
-      },
-      {
-        "id": 1333081,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 14,
-        "word": "intentions",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil intentions",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κακίαν = evil intentions",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550473",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "3",
-    "alignment_num": "16",
-    "orig_lang_words": ",1534496,",
-    "target_lang_words": ",1341560,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534496,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 14,
-        "word": "κακίᾳ",
-        "occurrence": 1,
-        "strong": "G25490",
-        "lemma": "κακία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "κακίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341560,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 22,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακίᾳ = evil",
-    "frequency": 0.2,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -404,51 +168,8 @@
     "targetWordsTxt": "of evil",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κακίας = of evil",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557735",
-    "book_id": "1pe",
-    "chapter": "2",
-    "verse": "1",
-    "alignment_num": "3",
-    "orig_lang_words": ",1542108,",
-    "target_lang_words": ",1352455,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542108,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "1",
-        "word_num": 3,
-        "word": "κακίαν",
-        "occurrence": 1,
-        "strong": "G25490",
-        "lemma": "κακία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "κακίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1352455,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "1",
-        "word_num": 4,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακίαν = evil",
-    "frequency": 0.1,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -513,7 +234,296 @@
     "targetWordsTxt": "for wickedness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς κακίας = for wickedness",
-    "frequency": 0.1,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520361",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "29",
+    "alignment_num": "5",
+    "orig_lang_words": ",1503128,",
+    "target_lang_words": ",1297495,1297496,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503128,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "29",
+        "word_num": 5,
+        "word": "κακίᾳ",
+        "occurrence": 1,
+        "strong": "G25490",
+        "lemma": "κακία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "κακίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1297495,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "29",
+        "word_num": 9,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1297496,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "29",
+        "word_num": 10,
+        "word": "malice",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and malice",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κακίᾳ = and malice",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531609",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "20",
+    "alignment_num": "9",
+    "orig_lang_words": ",1515098,",
+    "target_lang_words": ",1314533,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515098,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "20",
+        "word_num": 8,
+        "word": "κακίᾳ",
+        "occurrence": 1,
+        "strong": "G25490",
+        "lemma": "κακία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "κακίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1314533,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "20",
+        "word_num": 12,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακίᾳ = evil",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541074",
+    "book_id": "eph",
+    "chapter": "4",
+    "verse": "31",
+    "alignment_num": "16",
+    "orig_lang_words": ",1524817,",
+    "target_lang_words": ",1328275,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524817,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "31",
+        "word_num": 15,
+        "word": "κακίᾳ",
+        "occurrence": 1,
+        "strong": "G25490",
+        "lemma": "κακία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "κακίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1328275,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "31",
+        "word_num": 18,
+        "word": "malice",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "malice",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακίᾳ = malice",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550473",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "3",
+    "alignment_num": "16",
+    "orig_lang_words": ",1534496,",
+    "target_lang_words": ",1341560,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534496,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 14,
+        "word": "κακίᾳ",
+        "occurrence": 1,
+        "strong": "G25490",
+        "lemma": "κακία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "κακίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341560,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 22,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακίᾳ = evil",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544444",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "10",
+    "orig_lang_words": ",1528338,",
+    "target_lang_words": ",1333080,1333081,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528338,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 9,
+        "word": "κακίαν",
+        "occurrence": 1,
+        "strong": "G25490",
+        "lemma": "κακία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κακίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1333080,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 13,
+        "word": "evil",
+        "occurrence": 1
+      },
+      {
+        "id": 1333081,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 14,
+        "word": "intentions",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil intentions",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κακίαν = evil intentions",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557735",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "1",
+    "alignment_num": "3",
+    "orig_lang_words": ",1542108,",
+    "target_lang_words": ",1352455,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542108,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 3,
+        "word": "κακίαν",
+        "occurrence": 1,
+        "strong": "G25490",
+        "lemma": "κακία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κακίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352455,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 4,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακίαν = evil",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -39,248 +39,8 @@
     "targetWordsTxt": "Son",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνον = Son",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "462362",
-    "book_id": "mrk",
-    "chapter": "7",
-    "verse": "27",
-    "alignment_num": "4",
-    "orig_lang_words": ",1442342,",
-    "target_lang_words": ",1217689,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1442342,
-        "book_id": "mrk",
-        "chapter": "7",
-        "verse": "27",
-        "word_num": 7,
-        "word": "τέκνα",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τέκνα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1217689,
-        "book_id": "mrk",
-        "chapter": "7",
-        "verse": "27",
-        "word_num": 6,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "462371",
-    "book_id": "mrk",
-    "chapter": "7",
-    "verse": "27",
-    "alignment_num": "13",
-    "orig_lang_words": ",1442350,1442351,",
-    "target_lang_words": ",1217701,1217702,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1442350,
-        "book_id": "mrk",
-        "chapter": "7",
-        "verse": "27",
-        "word_num": 15,
-        "word": "τῶν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GNP,"
-      },
-      {
-        "id": 1442351,
-        "book_id": "mrk",
-        "chapter": "7",
-        "verse": "27",
-        "word_num": 16,
-        "word": "τέκνων",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "τῶν τέκνων",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1217701,
-        "book_id": "mrk",
-        "chapter": "7",
-        "verse": "27",
-        "word_num": 18,
-        "word": "children",
-        "occurrence": 2
-      },
-      {
-        "id": 1217702,
-        "book_id": "mrk",
-        "chapter": "7",
-        "verse": "27",
-        "word_num": 19,
-        "word": "s",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children's",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῶν τέκνων = children's",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "464250",
-    "book_id": "mrk",
-    "chapter": "10",
-    "verse": "24",
-    "alignment_num": "11",
-    "orig_lang_words": ",1444401,",
-    "target_lang_words": ",1220388,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1444401,
-        "book_id": "mrk",
-        "chapter": "10",
-        "verse": "24",
-        "word_num": 15,
-        "word": "τέκνα",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,VNP,"
-      }
-    ],
-    "origWordsTxt": "τέκνα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1220388,
-        "book_id": "mrk",
-        "chapter": "10",
-        "verse": "24",
-        "word_num": 15,
-        "word": "Children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνα = Children",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "464330",
-    "book_id": "mrk",
-    "chapter": "10",
-    "verse": "29",
-    "alignment_num": "19",
-    "orig_lang_words": ",1444487,",
-    "target_lang_words": ",1220500,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1444487,
-        "book_id": "mrk",
-        "chapter": "10",
-        "verse": "29",
-        "word_num": 20,
-        "word": "τέκνα",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τέκνα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1220500,
-        "book_id": "mrk",
-        "chapter": "10",
-        "verse": "29",
-        "word_num": 24,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "464356",
-    "book_id": "mrk",
-    "chapter": "10",
-    "verse": "30",
-    "alignment_num": "17",
-    "orig_lang_words": ",1444512,",
-    "target_lang_words": ",1220531,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1444512,
-        "book_id": "mrk",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 17,
-        "word": "τέκνα",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τέκνα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1220531,
-        "book_id": "mrk",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 21,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -333,7 +93,8 @@
     "targetWordsTxt": "a child",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέκνον = a child",
-    "frequency": 0.023529411764705882,
+    "frequency": 0.15384615384615385,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -386,51 +147,8 @@
     "targetWordsTxt": "his child",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέκνον = his child",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "466176",
-    "book_id": "mrk",
-    "chapter": "13",
-    "verse": "12",
-    "alignment_num": "8",
-    "orig_lang_words": ",1446505,",
-    "target_lang_words": ",1223150,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1446505,
-        "book_id": "mrk",
-        "chapter": "13",
-        "verse": "12",
-        "word_num": 11,
-        "word": "τέκνα",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "τέκνα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1223150,
-        "book_id": "mrk",
-        "chapter": "13",
-        "verse": "12",
-        "word_num": 12,
-        "word": "Children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνα = Children",
-    "frequency": 0.023529411764705882,
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -483,7 +201,680 @@
     "targetWordsTxt": "a child",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέκνον = a child",
-    "frequency": 0.023529411764705882,
+    "frequency": 0.15384615384615385,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470297",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "48",
+    "alignment_num": "10",
+    "orig_lang_words": ",1451038,",
+    "target_lang_words": ",1229274,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1451038,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "48",
+        "word_num": 11,
+        "word": "τέκνον",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,VNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1229274,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "48",
+        "word_num": 14,
+        "word": "Child",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Child",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνον = Child",
+    "frequency": 0.23076923076923078,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "480959",
+    "book_id": "luk",
+    "chapter": "15",
+    "verse": "31",
+    "alignment_num": "4",
+    "orig_lang_words": ",1461873,",
+    "target_lang_words": ",1243689,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1461873,
+        "book_id": "luk",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 4,
+        "word": "τέκνον",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,VNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1243689,
+        "book_id": "luk",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 5,
+        "word": "Child",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Child",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνον = Child",
+    "frequency": 0.23076923076923078,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481451",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "25",
+    "alignment_num": "3",
+    "orig_lang_words": ",1462375,",
+    "target_lang_words": ",1244369,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462375,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 3,
+        "word": "τέκνον",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,VNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1244369,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 3,
+        "word": "Child",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Child",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνον = Child",
+    "frequency": 0.23076923076923078,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527755",
+    "book_id": "1co",
+    "chapter": "4",
+    "verse": "17",
+    "alignment_num": "10",
+    "orig_lang_words": ",1511140,",
+    "target_lang_words": ",1308762,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511140,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "17",
+        "word_num": 8,
+        "word": "τέκνον",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308762,
+        "book_id": "1co",
+        "chapter": "4",
+        "verse": "17",
+        "word_num": 14,
+        "word": "child",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "child",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνον = child",
+    "frequency": 0.15384615384615385,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542702",
+    "book_id": "php",
+    "chapter": "2",
+    "verse": "22",
+    "alignment_num": "6",
+    "orig_lang_words": ",1526486,",
+    "target_lang_words": ",1330462,1330463,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526486,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 8,
+        "word": "τέκνον",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1330462,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 7,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1330463,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 8,
+        "word": "son",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a son",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τέκνον = a son",
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547414",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "18",
+    "alignment_num": "5",
+    "orig_lang_words": ",1531458,",
+    "target_lang_words": ",1337247,1337248,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531458,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 5,
+        "word": "τέκνον",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,VNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1337247,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 8,
+        "word": "my",
+        "occurrence": 1
+      },
+      {
+        "id": 1337248,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 9,
+        "word": "child",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "my child",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τέκνον = my child",
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549085",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "1",
+    "alignment_num": "3",
+    "orig_lang_words": ",1533103,",
+    "target_lang_words": ",1339590,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533103,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 2,
+        "word": "τέκνον",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,VNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339590,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 3,
+        "word": "child",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "child",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνον = child",
+    "frequency": 0.15384615384615385,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566968",
+    "book_id": "rev",
+    "chapter": "12",
+    "verse": "4",
+    "alignment_num": "28",
+    "orig_lang_words": ",1552289,1552290,",
+    "target_lang_words": ",1365837,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1552289,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "4",
+        "word_num": 30,
+        "word": "τὸ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1552290,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "4",
+        "word_num": 31,
+        "word": "τέκνον",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ τέκνον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365837,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "4",
+        "word_num": 41,
+        "word": "child",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "child",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ τέκνον = child",
+    "frequency": 0.15384615384615385,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566983",
+    "book_id": "rev",
+    "chapter": "12",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1552308,1552309,",
+    "target_lang_words": ",1365861,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1552308,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "5",
+        "word_num": 15,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1552309,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "5",
+        "word_num": 16,
+        "word": "τέκνον",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ τέκνον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365861,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "5",
+        "word_num": 23,
+        "word": "child",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "child",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ τέκνον = child",
+    "frequency": 0.15384615384615385,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "462362",
+    "book_id": "mrk",
+    "chapter": "7",
+    "verse": "27",
+    "alignment_num": "4",
+    "orig_lang_words": ",1442342,",
+    "target_lang_words": ",1217689,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1442342,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 7,
+        "word": "τέκνα",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τέκνα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1217689,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 6,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνα = children",
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "464250",
+    "book_id": "mrk",
+    "chapter": "10",
+    "verse": "24",
+    "alignment_num": "11",
+    "orig_lang_words": ",1444401,",
+    "target_lang_words": ",1220388,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1444401,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "24",
+        "word_num": 15,
+        "word": "τέκνα",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,VNP,"
+      }
+    ],
+    "origWordsTxt": "τέκνα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1220388,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "24",
+        "word_num": 15,
+        "word": "Children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνα = Children",
+    "frequency": 0.037037037037037035,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "464330",
+    "book_id": "mrk",
+    "chapter": "10",
+    "verse": "29",
+    "alignment_num": "19",
+    "orig_lang_words": ",1444487,",
+    "target_lang_words": ",1220500,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1444487,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "29",
+        "word_num": 20,
+        "word": "τέκνα",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τέκνα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1220500,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "29",
+        "word_num": 24,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνα = children",
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "464356",
+    "book_id": "mrk",
+    "chapter": "10",
+    "verse": "30",
+    "alignment_num": "17",
+    "orig_lang_words": ",1444512,",
+    "target_lang_words": ",1220531,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1444512,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "30",
+        "word_num": 17,
+        "word": "τέκνα",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τέκνα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1220531,
+        "book_id": "mrk",
+        "chapter": "10",
+        "verse": "30",
+        "word_num": 21,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνα = children",
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "466176",
+    "book_id": "mrk",
+    "chapter": "13",
+    "verse": "12",
+    "alignment_num": "8",
+    "orig_lang_words": ",1446505,",
+    "target_lang_words": ",1223150,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1446505,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "12",
+        "word_num": 11,
+        "word": "τέκνα",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τέκνα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1223150,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "12",
+        "word_num": 12,
+        "word": "Children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνα = Children",
+    "frequency": 0.037037037037037035,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -536,51 +927,8 @@
     "targetWordsTxt": "their children",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέκνα = their children",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "470297",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "48",
-    "alignment_num": "10",
-    "orig_lang_words": ",1451038,",
-    "target_lang_words": ",1229274,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1451038,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "48",
-        "word_num": 11,
-        "word": "τέκνον",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,VNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1229274,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "48",
-        "word_num": 14,
-        "word": "Child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Child",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνον = Child",
-    "frequency": 0.03529411764705882,
+    "frequency": 0.018518518518518517,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -624,107 +972,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473970",
-    "book_id": "luk",
-    "chapter": "7",
-    "verse": "35",
-    "alignment_num": "6",
-    "orig_lang_words": ",1454759,1454760,",
-    "target_lang_words": ",1234231,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1454759,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "35",
-        "word_num": 6,
-        "word": "τῶν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GNP,"
-      },
-      {
-        "id": 1454760,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "35",
-        "word_num": 7,
-        "word": "τέκνων",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "τῶν τέκνων",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1234231,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "35",
-        "word_num": 7,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῶν τέκνων = children",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "477413",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "13",
-    "alignment_num": "11",
-    "orig_lang_words": ",1458273,",
-    "target_lang_words": ",1238840,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458273,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 10,
-        "word": "τέκνοις",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "τέκνοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1238840,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 14,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνοις = children",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -780,7 +1029,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = children",
-    "frequency": 0.10588235294117647,
+    "frequency": 0.16666666666666666,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -836,95 +1086,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = children",
-    "frequency": 0.10588235294117647,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "480959",
-    "book_id": "luk",
-    "chapter": "15",
-    "verse": "31",
-    "alignment_num": "4",
-    "orig_lang_words": ",1461873,",
-    "target_lang_words": ",1243689,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1461873,
-        "book_id": "luk",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 4,
-        "word": "τέκνον",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,VNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1243689,
-        "book_id": "luk",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 5,
-        "word": "Child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Child",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνον = Child",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481451",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "25",
-    "alignment_num": "3",
-    "orig_lang_words": ",1462375,",
-    "target_lang_words": ",1244369,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462375,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 3,
-        "word": "τέκνον",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,VNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1244369,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 3,
-        "word": "Child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Child",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνον = Child",
-    "frequency": 0.03529411764705882,
+    "frequency": 0.16666666666666666,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -968,7 +1131,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1024,7 +1188,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = children",
-    "frequency": 0.10588235294117647,
+    "frequency": 0.16666666666666666,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1068,7 +1233,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1124,7 +1290,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = children",
-    "frequency": 0.10588235294117647,
+    "frequency": 0.16666666666666666,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1168,7 +1335,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1212,7 +1380,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1256,192 +1425,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503093",
-    "book_id": "act",
-    "chapter": "2",
-    "verse": "39",
-    "alignment_num": "8",
-    "orig_lang_words": ",1485351,",
-    "target_lang_words": ",1273936,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485351,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "39",
-        "word_num": 7,
-        "word": "τέκνοις",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "τέκνοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1273936,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "39",
-        "word_num": 9,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνοις = children",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505510",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "5",
-    "alignment_num": "28",
-    "orig_lang_words": ",1487842,",
-    "target_lang_words": ",1277136,1277137,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487842,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "5",
-        "word_num": 26,
-        "word": "τέκνου",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1277136,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "5",
-        "word_num": 39,
-        "word": "a",
-        "occurrence": 3
-      },
-      {
-        "id": 1277137,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "5",
-        "word_num": 40,
-        "word": "child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a child",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τέκνου = a child",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510338",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "33",
-    "alignment_num": "6",
-    "orig_lang_words": ",1492797,",
-    "target_lang_words": ",1283642,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492797,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "33",
-        "word_num": 6,
-        "word": "τέκνοις",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "τέκνοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1283642,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "33",
-        "word_num": 8,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνοις = children",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "515105",
-    "book_id": "act",
-    "chapter": "21",
-    "verse": "5",
-    "alignment_num": "13",
-    "orig_lang_words": ",1497732,",
-    "target_lang_words": ",1290114,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1497732,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "5",
-        "word_num": 15,
-        "word": "τέκνοις",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "τέκνοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1290114,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "5",
-        "word_num": 19,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνοις = children",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1485,7 +1470,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1529,7 +1515,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1591,51 +1578,8 @@
     "targetWordsTxt": "we are children",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τέκνα = we are children",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523035",
-    "book_id": "rom",
-    "chapter": "8",
-    "verse": "21",
-    "alignment_num": "15",
-    "orig_lang_words": ",1506064,",
-    "target_lang_words": ",1301675,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1506064,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 17,
-        "word": "τέκνων",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "τέκνων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1301675,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 26,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνων = children",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.018518518518518517,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1697,7 +1641,8 @@
     "targetWordsTxt": "truly his children",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τέκνα = truly his children",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.018518518518518517,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1741,7 +1686,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1797,7 +1743,8 @@
     "targetWordsTxt": "are",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ταῦτα τέκνα = are",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.018518518518518517,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1841,7 +1788,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1885,51 +1833,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "527755",
-    "book_id": "1co",
-    "chapter": "4",
-    "verse": "17",
-    "alignment_num": "10",
-    "orig_lang_words": ",1511140,",
-    "target_lang_words": ",1308762,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1511140,
-        "book_id": "1co",
-        "chapter": "4",
-        "verse": "17",
-        "word_num": 8,
-        "word": "τέκνον",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1308762,
-        "book_id": "1co",
-        "chapter": "4",
-        "verse": "17",
-        "word_num": 14,
-        "word": "child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "child",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνον = child",
-    "frequency": 0.023529411764705882,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1985,60 +1890,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = children",
-    "frequency": 0.10588235294117647,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534868",
-    "book_id": "2co",
-    "chapter": "6",
-    "verse": "13",
-    "alignment_num": "4",
-    "orig_lang_words": ",1518462,",
-    "target_lang_words": ",1319203,1319204,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518462,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 5,
-        "word": "τέκνοις",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "τέκνοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1319203,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 7,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1319204,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 8,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to children",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τέκνοις = to children",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.16666666666666666,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2082,51 +1935,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537023",
-    "book_id": "2co",
-    "chapter": "12",
-    "verse": "14",
-    "alignment_num": "32",
-    "orig_lang_words": ",1520673,",
-    "target_lang_words": ",1322380,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520673,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "14",
-        "word_num": 30,
-        "word": "τέκνοις",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "τέκνοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1322380,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "14",
-        "word_num": 42,
-        "word": "children",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνοις = children",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2179,63 +1989,8 @@
     "targetWordsTxt": "little children",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέκνα = little children",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538870",
-    "book_id": "gal",
-    "chapter": "4",
-    "verse": "25",
-    "alignment_num": "16",
-    "orig_lang_words": ",1522590,1522591,",
-    "target_lang_words": ",1325261,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1522590,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "25",
-        "word_num": 17,
-        "word": "τῶν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GNP,"
-      },
-      {
-        "id": 1522591,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "25",
-        "word_num": 18,
-        "word": "τέκνων",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "τῶν τέκνων",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1325261,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "25",
-        "word_num": 20,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῶν τέκνων = children",
-    "frequency": 0.023529411764705882,
+    "frequency": 0.018518518518518517,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2279,7 +2034,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2323,7 +2079,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2367,7 +2124,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2411,7 +2169,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2455,7 +2214,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2499,7 +2259,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2555,7 +2316,8 @@
     "targetWordsTxt": "Children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = Children",
-    "frequency": 0.023529411764705882,
+    "frequency": 0.037037037037037035,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2611,7 +2373,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = children",
-    "frequency": 0.10588235294117647,
+    "frequency": 0.16666666666666666,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2655,60 +2418,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542702",
-    "book_id": "php",
-    "chapter": "2",
-    "verse": "22",
-    "alignment_num": "6",
-    "orig_lang_words": ",1526486,",
-    "target_lang_words": ",1330462,1330463,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526486,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "22",
-        "word_num": 8,
-        "word": "τέκνον",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1330462,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "22",
-        "word_num": 7,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1330463,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "22",
-        "word_num": 8,
-        "word": "son",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a son",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τέκνον = a son",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2764,7 +2475,8 @@
     "targetWordsTxt": "Children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = Children",
-    "frequency": 0.023529411764705882,
+    "frequency": 0.037037037037037035,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2820,7 +2532,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = children",
-    "frequency": 0.10588235294117647,
+    "frequency": 0.16666666666666666,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2864,7 +2577,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2908,104 +2622,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547161",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "2",
-    "alignment_num": "1",
-    "orig_lang_words": ",1531209,",
-    "target_lang_words": ",1336877,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531209,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 2,
-        "word": "τέκνῳ",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνῳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1336877,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 2,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνῳ = a",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547414",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "18",
-    "alignment_num": "5",
-    "orig_lang_words": ",1531458,",
-    "target_lang_words": ",1337247,1337248,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531458,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 5,
-        "word": "τέκνον",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,VNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1337247,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 8,
-        "word": "my",
-        "occurrence": 1
-      },
-      {
-        "id": 1337248,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 9,
-        "word": "child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "my child",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τέκνον = my child",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3058,60 +2676,8 @@
     "targetWordsTxt": "his children",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέκνα = his children",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547779",
-    "book_id": "1ti",
-    "chapter": "3",
-    "verse": "12",
-    "alignment_num": "8",
-    "orig_lang_words": ",1531812,",
-    "target_lang_words": ",1337761,1337762,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531812,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "12",
-        "word_num": 5,
-        "word": "τέκνων",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "τέκνων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1337761,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "12",
-        "word_num": 9,
-        "word": "their",
-        "occurrence": 1
-      },
-      {
-        "id": 1337762,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "12",
-        "word_num": 10,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "their children",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τέκνων = their children",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.018518518518518517,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3155,139 +2721,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548784",
-    "book_id": "2ti",
-    "chapter": "1",
-    "verse": "2",
-    "alignment_num": "2",
-    "orig_lang_words": ",1532800,",
-    "target_lang_words": ",1339189,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532800,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 2,
-        "word": "τέκνῳ",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνῳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339189,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 3,
-        "word": "child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "child",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνῳ = child",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549085",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "1",
-    "alignment_num": "3",
-    "orig_lang_words": ",1533103,",
-    "target_lang_words": ",1339590,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533103,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "1",
-        "word_num": 2,
-        "word": "τέκνον",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,VNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339590,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "1",
-        "word_num": 3,
-        "word": "child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "child",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνον = child",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550036",
-    "book_id": "tit",
-    "chapter": "1",
-    "verse": "4",
-    "alignment_num": "1",
-    "orig_lang_words": ",1534068,",
-    "target_lang_words": ",1340928,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534068,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "4",
-        "word_num": 2,
-        "word": "τέκνῳ",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνῳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1340928,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "4",
-        "word_num": 2,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνῳ = a",
-    "frequency": 0.023529411764705882,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3331,51 +2766,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550780",
-    "book_id": "phm",
-    "chapter": "1",
-    "verse": "10",
-    "alignment_num": "4",
-    "orig_lang_words": ",1534817,",
-    "target_lang_words": ",1341985,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534817,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 5,
-        "word": "τέκνου",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "τέκνου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341985,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 6,
-        "word": "child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "child",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέκνου = child",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3419,7 +2811,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3463,7 +2856,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3516,7 +2910,8 @@
     "targetWordsTxt": "They are",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέκνα = They are",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.018518518518518517,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3560,7 +2955,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3604,7 +3000,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3648,7 +3045,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3704,7 +3102,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = children",
-    "frequency": 0.10588235294117647,
+    "frequency": 0.16666666666666666,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3760,119 +3159,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ τέκνα = children",
-    "frequency": 0.10588235294117647,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561837",
-    "book_id": "2jn",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "6",
-    "orig_lang_words": ",1546618,1546619,",
-    "target_lang_words": ",1358636,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1546618,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 5,
-        "word": "τοῖς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNP,"
-      },
-      {
-        "id": 1546619,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 6,
-        "word": "τέκνοις",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "τοῖς τέκνοις",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358636,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 9,
-        "word": "children",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "children",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῖς τέκνοις = children",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561891",
-    "book_id": "2jn",
-    "chapter": "1",
-    "verse": "4",
-    "alignment_num": "5",
-    "orig_lang_words": ",1546677,1546678,",
-    "target_lang_words": ",1358702,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1546677,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "4",
-        "word_num": 5,
-        "word": "τῶν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GNP,"
-      },
-      {
-        "id": 1546678,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "4",
-        "word_num": 6,
-        "word": "τέκνων",
-        "occurrence": 1,
-        "strong": "G50430",
-        "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "τῶν τέκνων",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358702,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "4",
-        "word_num": 8,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῶν τέκνων = of",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.16666666666666666,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3916,7 +3204,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3960,7 +3249,8 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέκνα = children",
-    "frequency": 0.38823529411764707,
+    "frequency": 0.6111111111111112,
+    "matchCount": 33,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4028,119 +3318,914 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ τὰ τέκνα = children",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.018518518518518517,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "566968",
-    "book_id": "rev",
-    "chapter": "12",
-    "verse": "4",
-    "alignment_num": "28",
-    "orig_lang_words": ",1552289,1552290,",
-    "target_lang_words": ",1365837,",
+    "id": "462371",
+    "book_id": "mrk",
+    "chapter": "7",
+    "verse": "27",
+    "alignment_num": "13",
+    "orig_lang_words": ",1442350,1442351,",
+    "target_lang_words": ",1217701,1217702,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1552289,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "4",
-        "word_num": 30,
-        "word": "τὸ",
-        "occurrence": 2,
+        "id": 1442350,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 15,
+        "word": "τῶν",
+        "occurrence": 1,
         "strong": "G35880",
         "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
+        "morph": "Gr,EA,,,,GNP,"
       },
       {
-        "id": 1552290,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "4",
-        "word_num": 31,
-        "word": "τέκνον",
+        "id": 1442351,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 16,
+        "word": "τέκνων",
         "occurrence": 1,
         "strong": "G50430",
         "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,ANS,"
+        "morph": "Gr,N,,,,,GNP,"
       }
     ],
-    "origWordsTxt": "τὸ τέκνον",
+    "origWordsTxt": "τῶν τέκνων",
     "alignmentOrigWords": 2,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1365837,
-        "book_id": "rev",
-        "chapter": "12",
+        "id": 1217701,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 18,
+        "word": "children",
+        "occurrence": 2
+      },
+      {
+        "id": 1217702,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 19,
+        "word": "s",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children's",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν τέκνων = children's",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473970",
+    "book_id": "luk",
+    "chapter": "7",
+    "verse": "35",
+    "alignment_num": "6",
+    "orig_lang_words": ",1454759,1454760,",
+    "target_lang_words": ",1234231,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1454759,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "35",
+        "word_num": 6,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1454760,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "35",
+        "word_num": 7,
+        "word": "τέκνων",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν τέκνων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1234231,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "35",
+        "word_num": 7,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν τέκνων = children",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523035",
+    "book_id": "rom",
+    "chapter": "8",
+    "verse": "21",
+    "alignment_num": "15",
+    "orig_lang_words": ",1506064,",
+    "target_lang_words": ",1301675,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506064,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 17,
+        "word": "τέκνων",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τέκνων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1301675,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 26,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνων = children",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538870",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "25",
+    "alignment_num": "16",
+    "orig_lang_words": ",1522590,1522591,",
+    "target_lang_words": ",1325261,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1522590,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "25",
+        "word_num": 17,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1522591,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "25",
+        "word_num": 18,
+        "word": "τέκνων",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν τέκνων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325261,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "25",
+        "word_num": 20,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν τέκνων = children",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547779",
+    "book_id": "1ti",
+    "chapter": "3",
+    "verse": "12",
+    "alignment_num": "8",
+    "orig_lang_words": ",1531812,",
+    "target_lang_words": ",1337761,1337762,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531812,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 5,
+        "word": "τέκνων",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τέκνων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1337761,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 9,
+        "word": "their",
+        "occurrence": 1
+      },
+      {
+        "id": 1337762,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 10,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "their children",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τέκνων = their children",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561891",
+    "book_id": "2jn",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "5",
+    "orig_lang_words": ",1546677,1546678,",
+    "target_lang_words": ",1358702,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546677,
+        "book_id": "2jn",
+        "chapter": "1",
         "verse": "4",
-        "word_num": 41,
+        "word_num": 5,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1546678,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 6,
+        "word": "τέκνων",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν τέκνων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358702,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 8,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν τέκνων = of",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "477413",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "13",
+    "alignment_num": "11",
+    "orig_lang_words": ",1458273,",
+    "target_lang_words": ",1238840,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458273,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 10,
+        "word": "τέκνοις",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τέκνοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1238840,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 14,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνοις = children",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503093",
+    "book_id": "act",
+    "chapter": "2",
+    "verse": "39",
+    "alignment_num": "8",
+    "orig_lang_words": ",1485351,",
+    "target_lang_words": ",1273936,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485351,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "39",
+        "word_num": 7,
+        "word": "τέκνοις",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τέκνοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1273936,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "39",
+        "word_num": 9,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνοις = children",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510338",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "33",
+    "alignment_num": "6",
+    "orig_lang_words": ",1492797,",
+    "target_lang_words": ",1283642,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492797,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "33",
+        "word_num": 6,
+        "word": "τέκνοις",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τέκνοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283642,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "33",
+        "word_num": 8,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνοις = children",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "515105",
+    "book_id": "act",
+    "chapter": "21",
+    "verse": "5",
+    "alignment_num": "13",
+    "orig_lang_words": ",1497732,",
+    "target_lang_words": ",1290114,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1497732,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "5",
+        "word_num": 15,
+        "word": "τέκνοις",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τέκνοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1290114,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "5",
+        "word_num": 19,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνοις = children",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534868",
+    "book_id": "2co",
+    "chapter": "6",
+    "verse": "13",
+    "alignment_num": "4",
+    "orig_lang_words": ",1518462,",
+    "target_lang_words": ",1319203,1319204,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518462,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 5,
+        "word": "τέκνοις",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τέκνοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1319203,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 7,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1319204,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 8,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to children",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τέκνοις = to children",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537023",
+    "book_id": "2co",
+    "chapter": "12",
+    "verse": "14",
+    "alignment_num": "32",
+    "orig_lang_words": ",1520673,",
+    "target_lang_words": ",1322380,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520673,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "14",
+        "word_num": 30,
+        "word": "τέκνοις",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τέκνοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1322380,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "14",
+        "word_num": 42,
+        "word": "children",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνοις = children",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561837",
+    "book_id": "2jn",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "6",
+    "orig_lang_words": ",1546618,1546619,",
+    "target_lang_words": ",1358636,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546618,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 5,
+        "word": "τοῖς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNP,"
+      },
+      {
+        "id": 1546619,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 6,
+        "word": "τέκνοις",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τοῖς τέκνοις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358636,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 9,
+        "word": "children",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "children",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῖς τέκνοις = children",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505510",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "5",
+    "alignment_num": "28",
+    "orig_lang_words": ",1487842,",
+    "target_lang_words": ",1277136,1277137,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487842,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "5",
+        "word_num": 26,
+        "word": "τέκνου",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1277136,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "5",
+        "word_num": 39,
+        "word": "a",
+        "occurrence": 3
+      },
+      {
+        "id": 1277137,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "5",
+        "word_num": 40,
+        "word": "child",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a child",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τέκνου = a child",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550780",
+    "book_id": "phm",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "4",
+    "orig_lang_words": ",1534817,",
+    "target_lang_words": ",1341985,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534817,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 5,
+        "word": "τέκνου",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341985,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 6,
         "word": "child",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "child",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ τέκνον = child",
-    "frequency": 0.023529411764705882,
+    "alignmentTxt": "τέκνου = child",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "566983",
-    "book_id": "rev",
-    "chapter": "12",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1552308,1552309,",
-    "target_lang_words": ",1365861,",
-    "origSpan": 1,
+    "id": "547161",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "2",
+    "alignment_num": "1",
+    "orig_lang_words": ",1531209,",
+    "target_lang_words": ",1336877,",
+    "origSpan": 0,
     "origWords": [
       {
-        "id": 1552308,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "5",
-        "word_num": 15,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNS,"
-      },
-      {
-        "id": 1552309,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "5",
-        "word_num": 16,
-        "word": "τέκνον",
+        "id": 1531209,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 2,
+        "word": "τέκνῳ",
         "occurrence": 1,
         "strong": "G50430",
         "lemma": "τέκνον",
-        "morph": "Gr,N,,,,,NNS,"
+        "morph": "Gr,N,,,,,DNS,"
       }
     ],
-    "origWordsTxt": "τὸ τέκνον",
-    "alignmentOrigWords": 2,
+    "origWordsTxt": "τέκνῳ",
+    "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1365861,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "5",
-        "word_num": 23,
+        "id": 1336877,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 2,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνῳ = a",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548784",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "2",
+    "alignment_num": "2",
+    "orig_lang_words": ",1532800,",
+    "target_lang_words": ",1339189,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532800,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 2,
+        "word": "τέκνῳ",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339189,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 3,
         "word": "child",
-        "occurrence": 2
+        "occurrence": 1
       }
     ],
     "targetWordsTxt": "child",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ τέκνον = child",
-    "frequency": 0.023529411764705882,
+    "alignmentTxt": "τέκνῳ = child",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550036",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "1",
+    "orig_lang_words": ",1534068,",
+    "target_lang_words": ",1340928,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534068,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 2,
+        "word": "τέκνῳ",
+        "occurrence": 1,
+        "strong": "G50430",
+        "lemma": "τέκνον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τέκνῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340928,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 2,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέκνῳ = a",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

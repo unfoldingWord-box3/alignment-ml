@@ -57,7 +57,8 @@
     "targetWordsTxt": "was also named",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπεκλήθη = was also named",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -113,7 +114,95 @@
     "targetWordsTxt": "calls",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἂν ἐπικαλέσηται = calls",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523995",
+    "book_id": "rom",
+    "chapter": "10",
+    "verse": "13",
+    "alignment_num": "2",
+    "orig_lang_words": ",1507091,1507092,1507093,",
+    "target_lang_words": ",1303126,1303127,1303128,",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 1507091,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 2,
+        "word": "ὃς",
+        "occurrence": 1,
+        "strong": "G37390",
+        "lemma": "ὅς",
+        "morph": "Gr,RD,,,,NMS,"
+      },
+      {
+        "id": 1507092,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 3,
+        "word": "ἂν",
+        "occurrence": 1,
+        "strong": "G03020",
+        "lemma": "ἄν",
+        "morph": "Gr,T,,,,,,,,,"
+      },
+      {
+        "id": 1507093,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 4,
+        "word": "ἐπικαλέσηται",
+        "occurrence": 1,
+        "strong": "G19410",
+        "lemma": "ἐπικαλέω",
+        "morph": "Gr,V,SAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ὃς ἂν ἐπικαλέσηται",
+    "alignmentOrigWords": 3,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1303126,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 2,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1303127,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 3,
+        "word": "calls",
+        "occurrence": 1
+      },
+      {
+        "id": 1303128,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 4,
+        "word": "on",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who calls on",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ὃς ἂν ἐπικαλέσηται = who calls on",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -166,7 +255,8 @@
     "targetWordsTxt": "was called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπικληθεὶς = was called",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -237,272 +327,8 @@
     "targetWordsTxt": "he was calling out",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐπικαλούμενον = he was calling out",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "507408",
-    "book_id": "act",
-    "chapter": "9",
-    "verse": "14",
-    "alignment_num": "9",
-    "orig_lang_words": ",1489802,",
-    "target_lang_words": ",1279678,1279679,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1489802,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 10,
-        "word": "ἐπικαλουμένους",
-        "occurrence": 1,
-        "strong": "G19410",
-        "lemma": "ἐπικαλέω",
-        "morph": "Gr,V,PPM,AMP,"
-      }
-    ],
-    "origWordsTxt": "ἐπικαλουμένους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1279678,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 12,
-        "word": "calls",
-        "occurrence": 1
-      },
-      {
-        "id": 1279679,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 13,
-        "word": "upon",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "calls upon",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπικαλουμένους = calls upon",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "507537",
-    "book_id": "act",
-    "chapter": "9",
-    "verse": "21",
-    "alignment_num": "15",
-    "orig_lang_words": ",1489937,",
-    "target_lang_words": ",1279847,1279848,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1489937,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "21",
-        "word_num": 15,
-        "word": "ἐπικαλουμένους",
-        "occurrence": 1,
-        "strong": "G19410",
-        "lemma": "ἐπικαλέω",
-        "morph": "Gr,V,PPM,AMP,"
-      }
-    ],
-    "origWordsTxt": "ἐπικαλουμένους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1279847,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "21",
-        "word_num": 19,
-        "word": "called",
-        "occurrence": 1
-      },
-      {
-        "id": 1279848,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "21",
-        "word_num": 20,
-        "word": "on",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "called on",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπικαλουμένους = called on",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508043",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "5",
-    "alignment_num": "11",
-    "orig_lang_words": ",1490446,",
-    "target_lang_words": ",1280525,1280526,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490446,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "5",
-        "word_num": 11,
-        "word": "ἐπικαλεῖται",
-        "occurrence": 1,
-        "strong": "G19410",
-        "lemma": "ἐπικαλέω",
-        "morph": "Gr,V,IPP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπικαλεῖται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1280525,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "5",
-        "word_num": 12,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1280526,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "5",
-        "word_num": 13,
-        "word": "called",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is called",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπικαλεῖται = is called",
-    "frequency": 0.06896551724137931,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508236",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "18",
-    "alignment_num": "6",
-    "orig_lang_words": ",1490636,",
-    "target_lang_words": ",1280789,1280790,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490636,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 6,
-        "word": "ἐπικαλούμενος",
-        "occurrence": 1,
-        "strong": "G19410",
-        "lemma": "ἐπικαλέω",
-        "morph": "Gr,V,PPP,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἐπικαλούμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1280789,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 8,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1280790,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 9,
-        "word": "called",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "was called",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπικαλούμενος = was called",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508478",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "32",
-    "alignment_num": "8",
-    "orig_lang_words": ",1490885,",
-    "target_lang_words": ",1281133,1281134,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490885,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "32",
-        "word_num": 8,
-        "word": "ἐπικαλεῖται",
-        "occurrence": 1,
-        "strong": "G19410",
-        "lemma": "ἐπικαλέω",
-        "morph": "Gr,V,IPP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπικαλεῖται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1281133,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "32",
-        "word_num": 9,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1281134,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "32",
-        "word_num": 10,
-        "word": "called",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is called",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπικαλεῖται = is called",
-    "frequency": 0.06896551724137931,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -555,7 +381,353 @@
     "targetWordsTxt": "is called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπικαλούμενον = is called",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "507408",
+    "book_id": "act",
+    "chapter": "9",
+    "verse": "14",
+    "alignment_num": "9",
+    "orig_lang_words": ",1489802,",
+    "target_lang_words": ",1279678,1279679,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1489802,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 10,
+        "word": "ἐπικαλουμένους",
+        "occurrence": 1,
+        "strong": "G19410",
+        "lemma": "ἐπικαλέω",
+        "morph": "Gr,V,PPM,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἐπικαλουμένους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1279678,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 12,
+        "word": "calls",
+        "occurrence": 1
+      },
+      {
+        "id": 1279679,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 13,
+        "word": "upon",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "calls upon",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπικαλουμένους = calls upon",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "507537",
+    "book_id": "act",
+    "chapter": "9",
+    "verse": "21",
+    "alignment_num": "15",
+    "orig_lang_words": ",1489937,",
+    "target_lang_words": ",1279847,1279848,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1489937,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 15,
+        "word": "ἐπικαλουμένους",
+        "occurrence": 1,
+        "strong": "G19410",
+        "lemma": "ἐπικαλέω",
+        "morph": "Gr,V,PPM,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἐπικαλουμένους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1279847,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 19,
+        "word": "called",
+        "occurrence": 1
+      },
+      {
+        "id": 1279848,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 20,
+        "word": "on",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "called on",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπικαλουμένους = called on",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523991",
+    "book_id": "rom",
+    "chapter": "10",
+    "verse": "12",
+    "alignment_num": "16",
+    "orig_lang_words": ",1507086,1507087,",
+    "target_lang_words": ",1303120,1303121,1303122,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1507086,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "12",
+        "word_num": 16,
+        "word": "τοὺς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,AMP,"
+      },
+      {
+        "id": 1507087,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "12",
+        "word_num": 17,
+        "word": "ἐπικαλουμένους",
+        "occurrence": 1,
+        "strong": "G19410",
+        "lemma": "ἐπικαλέω",
+        "morph": "Gr,V,PPM,AMP,"
+      }
+    ],
+    "origWordsTxt": "τοὺς ἐπικαλουμένους",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1303120,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "12",
+        "word_num": 23,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1303121,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "12",
+        "word_num": 24,
+        "word": "call",
+        "occurrence": 1
+      },
+      {
+        "id": 1303122,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "12",
+        "word_num": 25,
+        "word": "upon",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who call upon",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "τοὺς ἐπικαλουμένους = who call upon",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508043",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "5",
+    "alignment_num": "11",
+    "orig_lang_words": ",1490446,",
+    "target_lang_words": ",1280525,1280526,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490446,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "5",
+        "word_num": 11,
+        "word": "ἐπικαλεῖται",
+        "occurrence": 1,
+        "strong": "G19410",
+        "lemma": "ἐπικαλέω",
+        "morph": "Gr,V,IPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπικαλεῖται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1280525,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "5",
+        "word_num": 12,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1280526,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "5",
+        "word_num": 13,
+        "word": "called",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is called",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπικαλεῖται = is called",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508478",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "32",
+    "alignment_num": "8",
+    "orig_lang_words": ",1490885,",
+    "target_lang_words": ",1281133,1281134,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490885,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 8,
+        "word": "ἐπικαλεῖται",
+        "occurrence": 1,
+        "strong": "G19410",
+        "lemma": "ἐπικαλέω",
+        "morph": "Gr,V,IPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπικαλεῖται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1281133,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 9,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1281134,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 10,
+        "word": "called",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is called",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπικαλεῖται = is called",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508236",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "18",
+    "alignment_num": "6",
+    "orig_lang_words": ",1490636,",
+    "target_lang_words": ",1280789,1280790,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490636,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 6,
+        "word": "ἐπικαλούμενος",
+        "occurrence": 1,
+        "strong": "G19410",
+        "lemma": "ἐπικαλέω",
+        "morph": "Gr,V,PPP,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἐπικαλούμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1280789,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 8,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1280790,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 9,
+        "word": "called",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "was called",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπικαλούμενος = was called",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -608,7 +780,8 @@
     "targetWordsTxt": "was called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπικαλουμένου = was called",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -652,7 +825,8 @@
     "targetWordsTxt": "called",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπικληθέντα = called",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -834,7 +1008,8 @@
     "targetWordsTxt": "who have been called by my name",
     "alignmentTargetWords": 7,
     "alignmentTxt": "ἐφ’ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ’ αὐτούς = who have been called by my name",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -887,7 +1062,8 @@
     "targetWordsTxt": "calling on",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπικαλεσάμενος = calling on",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -940,7 +1116,53 @@
     "targetWordsTxt": "I appeal",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπικαλοῦμαι = I appeal",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533475",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "23",
+    "alignment_num": "2",
+    "orig_lang_words": ",1517025,",
+    "target_lang_words": ",1317197,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1517025,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 5,
+        "word": "ἐπικαλοῦμαι",
+        "occurrence": 1,
+        "strong": "G19410",
+        "lemma": "ἐπικαλέω",
+        "morph": "Gr,V,IPM1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπικαλοῦμαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1317197,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 2,
+        "word": "call",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "call",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπικαλοῦμαι = call",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1002,7 +1224,8 @@
     "targetWordsTxt": "you have appealed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπικέκλησαι = you have appealed",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1046,7 +1269,8 @@
     "targetWordsTxt": "when",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπικαλεσαμένου = when",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1090,7 +1314,8 @@
     "targetWordsTxt": "appealed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπικαλεσαμένου = appealed",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1143,7 +1368,8 @@
     "targetWordsTxt": "he had",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπεκέκλητο = he had",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1196,167 +1422,8 @@
     "targetWordsTxt": "to appeal",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπικαλέσασθαι = to appeal",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523991",
-    "book_id": "rom",
-    "chapter": "10",
-    "verse": "12",
-    "alignment_num": "16",
-    "orig_lang_words": ",1507086,1507087,",
-    "target_lang_words": ",1303120,1303121,1303122,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1507086,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "12",
-        "word_num": 16,
-        "word": "τοὺς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,RD,,,,AMP,"
-      },
-      {
-        "id": 1507087,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "12",
-        "word_num": 17,
-        "word": "ἐπικαλουμένους",
-        "occurrence": 1,
-        "strong": "G19410",
-        "lemma": "ἐπικαλέω",
-        "morph": "Gr,V,PPM,AMP,"
-      }
-    ],
-    "origWordsTxt": "τοὺς ἐπικαλουμένους",
-    "alignmentOrigWords": 2,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1303120,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "12",
-        "word_num": 23,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1303121,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "12",
-        "word_num": 24,
-        "word": "call",
-        "occurrence": 1
-      },
-      {
-        "id": 1303122,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "12",
-        "word_num": 25,
-        "word": "upon",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who call upon",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "τοὺς ἐπικαλουμένους = who call upon",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523995",
-    "book_id": "rom",
-    "chapter": "10",
-    "verse": "13",
-    "alignment_num": "2",
-    "orig_lang_words": ",1507091,1507092,1507093,",
-    "target_lang_words": ",1303126,1303127,1303128,",
-    "origSpan": 2,
-    "origWords": [
-      {
-        "id": 1507091,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 2,
-        "word": "ὃς",
-        "occurrence": 1,
-        "strong": "G37390",
-        "lemma": "ὅς",
-        "morph": "Gr,RD,,,,NMS,"
-      },
-      {
-        "id": 1507092,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 3,
-        "word": "ἂν",
-        "occurrence": 1,
-        "strong": "G03020",
-        "lemma": "ἄν",
-        "morph": "Gr,T,,,,,,,,,"
-      },
-      {
-        "id": 1507093,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 4,
-        "word": "ἐπικαλέσηται",
-        "occurrence": 1,
-        "strong": "G19410",
-        "lemma": "ἐπικαλέω",
-        "morph": "Gr,V,SAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ὃς ἂν ἐπικαλέσηται",
-    "alignmentOrigWords": 3,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1303126,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 2,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1303127,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 3,
-        "word": "calls",
-        "occurrence": 1
-      },
-      {
-        "id": 1303128,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 4,
-        "word": "on",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who calls on",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ὃς ἂν ἐπικαλέσηται = who calls on",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1418,7 +1485,8 @@
     "targetWordsTxt": "can they call",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπικαλέσωνται = can they call",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1474,51 +1542,8 @@
     "targetWordsTxt": "those",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῖς ἐπικαλουμένοις = those",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533475",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "23",
-    "alignment_num": "2",
-    "orig_lang_words": ",1517025,",
-    "target_lang_words": ",1317197,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1517025,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "23",
-        "word_num": 5,
-        "word": "ἐπικαλοῦμαι",
-        "occurrence": 1,
-        "strong": "G19410",
-        "lemma": "ἐπικαλέω",
-        "morph": "Gr,V,IPM1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπικαλοῦμαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1317197,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "23",
-        "word_num": 2,
-        "word": "call",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "call",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπικαλοῦμαι = call",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1562,7 +1587,8 @@
     "targetWordsTxt": "call",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπικαλουμένων = call",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1624,7 +1650,8 @@
     "targetWordsTxt": "to be called",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπικαλεῖσθαι = to be called",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1698,7 +1725,8 @@
     "targetWordsTxt": "have been called",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὸ ἐπικληθὲν = have been called",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1751,7 +1779,8 @@
     "targetWordsTxt": "you call",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπικαλεῖσθε = you call",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

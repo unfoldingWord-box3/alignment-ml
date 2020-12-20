@@ -39,7 +39,8 @@
     "targetWordsTxt": "haste",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπουδῆς = haste",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -95,7 +96,53 @@
     "targetWordsTxt": "quickly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετὰ σπουδῆς = quickly",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535413",
+    "book_id": "2co",
+    "chapter": "8",
+    "verse": "8",
+    "alignment_num": "13",
+    "orig_lang_words": ",1519016,",
+    "target_lang_words": ",1319990,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519016,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "8",
+        "word_num": 8,
+        "word": "σπουδῆς",
+        "occurrence": 1,
+        "strong": "G47100",
+        "lemma": "σπουδή",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "σπουδῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319990,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "8",
+        "word_num": 18,
+        "word": "diligence",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "diligence",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπουδῆς = diligence",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -139,7 +186,8 @@
     "targetWordsTxt": "care",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπουδῇ = care",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -204,7 +252,53 @@
     "targetWordsTxt": "Concerning diligence",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῇ σπουδῇ = Concerning diligence",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535387",
+    "book_id": "2co",
+    "chapter": "8",
+    "verse": "7",
+    "alignment_num": "12",
+    "orig_lang_words": ",1518993,",
+    "target_lang_words": ",1319955,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518993,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 12,
+        "word": "σπουδῇ",
+        "occurrence": 1,
+        "strong": "G47100",
+        "lemma": "σπουδή",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σπουδῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319955,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 18,
+        "word": "diligence",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "diligence",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπουδῇ = diligence",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -257,7 +351,8 @@
     "targetWordsTxt": "what earnestness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σπουδήν = what earnestness",
-    "frequency": 0.08333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -313,95 +408,8 @@
     "targetWordsTxt": "earnestness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν σπουδὴν = earnestness",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535387",
-    "book_id": "2co",
-    "chapter": "8",
-    "verse": "7",
-    "alignment_num": "12",
-    "orig_lang_words": ",1518993,",
-    "target_lang_words": ",1319955,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518993,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "7",
-        "word_num": 12,
-        "word": "σπουδῇ",
-        "occurrence": 1,
-        "strong": "G47100",
-        "lemma": "σπουδή",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σπουδῇ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1319955,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "7",
-        "word_num": 18,
-        "word": "diligence",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "diligence",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπουδῇ = diligence",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535413",
-    "book_id": "2co",
-    "chapter": "8",
-    "verse": "8",
-    "alignment_num": "13",
-    "orig_lang_words": ",1519016,",
-    "target_lang_words": ",1319990,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519016,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "8",
-        "word_num": 8,
-        "word": "σπουδῆς",
-        "occurrence": 1,
-        "strong": "G47100",
-        "lemma": "σπουδή",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "σπουδῆς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1319990,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "8",
-        "word_num": 18,
-        "word": "diligence",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "diligence",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπουδῆς = diligence",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -445,7 +453,8 @@
     "targetWordsTxt": "earnestness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπουδὴν = earnestness",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -489,7 +498,8 @@
     "targetWordsTxt": "diligence",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπουδὴν = diligence",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -554,7 +564,8 @@
     "targetWordsTxt": "your best",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σπουδὴν πᾶσαν = your best",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -598,7 +609,8 @@
     "targetWordsTxt": "effort",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπουδὴν = effort",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

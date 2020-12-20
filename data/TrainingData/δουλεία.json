@@ -66,7 +66,8 @@
     "targetWordsTxt": "that makes you slaves",
     "alignmentTargetWords": 4,
     "alignmentTxt": "δουλείας = that makes you slaves",
-    "frequency": 0.2,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -122,7 +123,116 @@
     "targetWordsTxt": "slavery",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς δουλείας = slavery",
-    "frequency": 0.2,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538971",
+    "book_id": "gal",
+    "chapter": "5",
+    "verse": "1",
+    "alignment_num": "12",
+    "orig_lang_words": ",1522695,",
+    "target_lang_words": ",1325425,1325426,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522695,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 11,
+        "word": "δουλείας",
+        "occurrence": 1,
+        "strong": "G13970",
+        "lemma": "δουλεία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "δουλείας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1325425,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 19,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1325426,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 20,
+        "word": "slavery",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of slavery",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δουλείας = of slavery",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551462",
+    "book_id": "heb",
+    "chapter": "2",
+    "verse": "15",
+    "alignment_num": "8",
+    "orig_lang_words": ",1535540,",
+    "target_lang_words": ",1343006,1343007,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535540,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 12,
+        "word": "δουλείας",
+        "occurrence": 1,
+        "strong": "G13970",
+        "lemma": "δουλεία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "δουλείας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1343006,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 14,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1343007,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 15,
+        "word": "slavery",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to slavery",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δουλείας = to slavery",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -184,113 +294,8 @@
     "targetWordsTxt": "who are slaves",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δουλείαν = who are slaves",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538971",
-    "book_id": "gal",
-    "chapter": "5",
-    "verse": "1",
-    "alignment_num": "12",
-    "orig_lang_words": ",1522695,",
-    "target_lang_words": ",1325425,1325426,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522695,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "1",
-        "word_num": 11,
-        "word": "δουλείας",
-        "occurrence": 1,
-        "strong": "G13970",
-        "lemma": "δουλεία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "δουλείας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1325425,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "1",
-        "word_num": 19,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1325426,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "1",
-        "word_num": 20,
-        "word": "slavery",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of slavery",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δουλείας = of slavery",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551462",
-    "book_id": "heb",
-    "chapter": "2",
-    "verse": "15",
-    "alignment_num": "8",
-    "orig_lang_words": ",1535540,",
-    "target_lang_words": ",1343006,1343007,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535540,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 12,
-        "word": "δουλείας",
-        "occurrence": 1,
-        "strong": "G13970",
-        "lemma": "δουλεία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "δουλείας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1343006,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 14,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1343007,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 15,
-        "word": "slavery",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to slavery",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δουλείας = to slavery",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

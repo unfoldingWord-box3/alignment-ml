@@ -51,7 +51,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν σταυρὸν = cross",
-    "frequency": 0.13636363636363635,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -107,95 +108,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν σταυρὸν = cross",
-    "frequency": 0.13636363636363635,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "468009",
-    "book_id": "mrk",
-    "chapter": "15",
-    "verse": "30",
-    "alignment_num": "5",
-    "orig_lang_words": ",1448487,",
-    "target_lang_words": ",1225803,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1448487,
-        "book_id": "mrk",
-        "chapter": "15",
-        "verse": "30",
-        "word_num": 5,
-        "word": "σταυροῦ",
-        "occurrence": 1,
-        "strong": "G47160",
-        "lemma": "σταυρός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "σταυροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1225803,
-        "book_id": "mrk",
-        "chapter": "15",
-        "verse": "30",
-        "word_num": 7,
-        "word": "cross",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "cross",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σταυροῦ = cross",
-    "frequency": 0.36363636363636365,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "468038",
-    "book_id": "mrk",
-    "chapter": "15",
-    "verse": "32",
-    "alignment_num": "10",
-    "orig_lang_words": ",1448514,",
-    "target_lang_words": ",1225844,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1448514,
-        "book_id": "mrk",
-        "chapter": "15",
-        "verse": "32",
-        "word_num": 9,
-        "word": "σταυροῦ",
-        "occurrence": 1,
-        "strong": "G47160",
-        "lemma": "σταυρός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "σταυροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1225844,
-        "book_id": "mrk",
-        "chapter": "15",
-        "verse": "32",
-        "word_num": 12,
-        "word": "cross",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "cross",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σταυροῦ = cross",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -251,7 +165,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν σταυρὸν = cross",
-    "frequency": 0.13636363636363635,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,7 +210,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σταυρὸν = cross",
-    "frequency": 0.13636363636363635,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -339,7 +255,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σταυρὸν = cross",
-    "frequency": 0.13636363636363635,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -383,7 +300,152 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σταυρὸν = cross",
-    "frequency": 0.13636363636363635,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554914",
+    "book_id": "heb",
+    "chapter": "12",
+    "verse": "2",
+    "alignment_num": "16",
+    "orig_lang_words": ",1539148,",
+    "target_lang_words": ",1348271,1348272,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539148,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "2",
+        "word_num": 16,
+        "word": "σταυρὸν",
+        "occurrence": 1,
+        "strong": "G47160",
+        "lemma": "σταυρός",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "σταυρὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1348271,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "2",
+        "word_num": 23,
+        "word": "the",
+        "occurrence": 4
+      },
+      {
+        "id": 1348272,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "2",
+        "word_num": 24,
+        "word": "cross",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the cross",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σταυρὸν = the cross",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "468009",
+    "book_id": "mrk",
+    "chapter": "15",
+    "verse": "30",
+    "alignment_num": "5",
+    "orig_lang_words": ",1448487,",
+    "target_lang_words": ",1225803,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1448487,
+        "book_id": "mrk",
+        "chapter": "15",
+        "verse": "30",
+        "word_num": 5,
+        "word": "σταυροῦ",
+        "occurrence": 1,
+        "strong": "G47160",
+        "lemma": "σταυρός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "σταυροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1225803,
+        "book_id": "mrk",
+        "chapter": "15",
+        "verse": "30",
+        "word_num": 7,
+        "word": "cross",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "cross",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σταυροῦ = cross",
+    "frequency": 0.8,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "468038",
+    "book_id": "mrk",
+    "chapter": "15",
+    "verse": "32",
+    "alignment_num": "10",
+    "orig_lang_words": ",1448514,",
+    "target_lang_words": ",1225844,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1448514,
+        "book_id": "mrk",
+        "chapter": "15",
+        "verse": "32",
+        "word_num": 9,
+        "word": "σταυροῦ",
+        "occurrence": 1,
+        "strong": "G47160",
+        "lemma": "σταυρός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "σταυροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1225844,
+        "book_id": "mrk",
+        "chapter": "15",
+        "verse": "32",
+        "word_num": 12,
+        "word": "cross",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "cross",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σταυροῦ = cross",
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -427,51 +489,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σταυροῦ = cross",
-    "frequency": 0.36363636363636365,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500544",
-    "book_id": "jhn",
-    "chapter": "19",
-    "verse": "25",
-    "alignment_num": "4",
-    "orig_lang_words": ",1482658,",
-    "target_lang_words": ",1270489,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1482658,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "25",
-        "word_num": 4,
-        "word": "σταυρῷ",
-        "occurrence": 1,
-        "strong": "G47160",
-        "lemma": "σταυρός",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "σταυρῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1270489,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "25",
-        "word_num": 4,
-        "word": "cross",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "cross",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σταυρῷ = cross",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -515,51 +534,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σταυροῦ = cross",
-    "frequency": 0.36363636363636365,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526679",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "17",
-    "alignment_num": "14",
-    "orig_lang_words": ",1510017,",
-    "target_lang_words": ",1307200,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510017,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "17",
-        "word_num": 16,
-        "word": "σταυρὸς",
-        "occurrence": 1,
-        "strong": "G47160",
-        "lemma": "σταυρός",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "σταυρὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307200,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "17",
-        "word_num": 20,
-        "word": "cross",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "cross",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σταυρὸς = cross",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -603,7 +579,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σταυροῦ = cross",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -647,95 +624,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σταυροῦ = cross",
-    "frequency": 0.36363636363636365,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539430",
-    "book_id": "gal",
-    "chapter": "6",
-    "verse": "12",
-    "alignment_num": "15",
-    "orig_lang_words": ",1523163,",
-    "target_lang_words": ",1326130,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523163,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 12,
-        "word": "σταυρῷ",
-        "occurrence": 1,
-        "strong": "G47160",
-        "lemma": "σταυρός",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "σταυρῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326130,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 31,
-        "word": "cross",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "cross",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σταυρῷ = cross",
-    "frequency": 0.18181818181818182,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539456",
-    "book_id": "gal",
-    "chapter": "6",
-    "verse": "14",
-    "alignment_num": "8",
-    "orig_lang_words": ",1523195,",
-    "target_lang_words": ",1326167,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523195,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "14",
-        "word_num": 9,
-        "word": "σταυρῷ",
-        "occurrence": 1,
-        "strong": "G47160",
-        "lemma": "σταυρός",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "σταυρῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326167,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "14",
-        "word_num": 8,
-        "word": "cross",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "cross",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σταυρῷ = cross",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -779,7 +669,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σταυροῦ = cross",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -841,7 +732,8 @@
     "targetWordsTxt": "on a cross",
     "alignmentTargetWords": 3,
     "alignmentTxt": "σταυροῦ = on a cross",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -885,7 +777,8 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σταυροῦ = cross",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -971,7 +864,143 @@
     "targetWordsTxt": "of his cross",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τοῦ σταυροῦ αὐτοῦ = of his cross",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.1,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500544",
+    "book_id": "jhn",
+    "chapter": "19",
+    "verse": "25",
+    "alignment_num": "4",
+    "orig_lang_words": ",1482658,",
+    "target_lang_words": ",1270489,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1482658,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "25",
+        "word_num": 4,
+        "word": "σταυρῷ",
+        "occurrence": 1,
+        "strong": "G47160",
+        "lemma": "σταυρός",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "σταυρῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1270489,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "25",
+        "word_num": 4,
+        "word": "cross",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "cross",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σταυρῷ = cross",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539430",
+    "book_id": "gal",
+    "chapter": "6",
+    "verse": "12",
+    "alignment_num": "15",
+    "orig_lang_words": ",1523163,",
+    "target_lang_words": ",1326130,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523163,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 12,
+        "word": "σταυρῷ",
+        "occurrence": 1,
+        "strong": "G47160",
+        "lemma": "σταυρός",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "σταυρῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326130,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 31,
+        "word": "cross",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "cross",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σταυρῷ = cross",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539456",
+    "book_id": "gal",
+    "chapter": "6",
+    "verse": "14",
+    "alignment_num": "8",
+    "orig_lang_words": ",1523195,",
+    "target_lang_words": ",1326167,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523195,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 9,
+        "word": "σταυρῷ",
+        "occurrence": 1,
+        "strong": "G47160",
+        "lemma": "σταυρός",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "σταυρῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326167,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "14",
+        "word_num": 8,
+        "word": "cross",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "cross",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σταυρῷ = cross",
+    "frequency": 1.0,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1015,60 +1044,53 @@
     "targetWordsTxt": "cross",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σταυρῷ = cross",
-    "frequency": 0.18181818181818182,
+    "frequency": 1.0,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "554914",
-    "book_id": "heb",
-    "chapter": "12",
-    "verse": "2",
-    "alignment_num": "16",
-    "orig_lang_words": ",1539148,",
-    "target_lang_words": ",1348271,1348272,",
+    "id": "526679",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "17",
+    "alignment_num": "14",
+    "orig_lang_words": ",1510017,",
+    "target_lang_words": ",1307200,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1539148,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "2",
+        "id": 1510017,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "17",
         "word_num": 16,
-        "word": "σταυρὸν",
+        "word": "σταυρὸς",
         "occurrence": 1,
         "strong": "G47160",
         "lemma": "σταυρός",
-        "morph": "Gr,N,,,,,AMS,"
+        "morph": "Gr,N,,,,,NMS,"
       }
     ],
-    "origWordsTxt": "σταυρὸν",
+    "origWordsTxt": "σταυρὸς",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1348271,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "2",
-        "word_num": 23,
-        "word": "the",
-        "occurrence": 4
-      },
-      {
-        "id": 1348272,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "2",
-        "word_num": 24,
+        "id": 1307200,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 20,
         "word": "cross",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "the cross",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "σταυρὸν = the cross",
-    "frequency": 0.045454545454545456,
+    "targetWordsTxt": "cross",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σταυρὸς = cross",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

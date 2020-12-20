@@ -48,7 +48,8 @@
     "targetWordsTxt": "an end",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέλος = an end",
-    "frequency": 0.029411764705882353,
+    "frequency": 0.03571428571428571,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,8 @@
     "targetWordsTxt": "end",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέλος = end",
-    "frequency": 0.2647058823529412,
+    "frequency": 0.32142857142857145,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +147,8 @@
     "targetWordsTxt": "the end",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέλος = the end",
-    "frequency": 0.08823529411764706,
+    "frequency": 0.10714285714285714,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,7 +192,8 @@
     "targetWordsTxt": "end",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέλος = end",
-    "frequency": 0.2647058823529412,
+    "frequency": 0.32142857142857145,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -233,7 +237,8 @@
     "targetWordsTxt": "continually",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέλος = continually",
-    "frequency": 0.029411764705882353,
+    "frequency": 0.03571428571428571,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -277,7 +282,8 @@
     "targetWordsTxt": "end",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέλος = end",
-    "frequency": 0.2647058823529412,
+    "frequency": 0.32142857142857145,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -351,7 +357,8 @@
     "targetWordsTxt": "are being completed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τέλος ἔχει = are being completed",
-    "frequency": 0.029411764705882353,
+    "frequency": 0.03571428571428571,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -404,7 +411,8 @@
     "targetWordsTxt": "the end",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέλος = the end",
-    "frequency": 0.08823529411764706,
+    "frequency": 0.10714285714285714,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -448,7 +456,8 @@
     "targetWordsTxt": "outcome",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέλος = outcome",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.07142857142857142,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -492,7 +501,8 @@
     "targetWordsTxt": "result",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέλος = result",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.07142857142857142,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -554,7 +564,8 @@
     "targetWordsTxt": "is the fulfillment",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τέλος = is the fulfillment",
-    "frequency": 0.029411764705882353,
+    "frequency": 0.03571428571428571,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -628,7 +639,8 @@
     "targetWordsTxt": "toll is due",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὸ τέλος = toll is due",
-    "frequency": 0.029411764705882353,
+    "frequency": 0.03571428571428571,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -684,104 +696,8 @@
     "targetWordsTxt": "toll",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ τέλος = toll",
-    "frequency": 0.029411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526525",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "8",
-    "alignment_num": "6",
-    "orig_lang_words": ",1509858,",
-    "target_lang_words": ",1306992,1306993,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1509858,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 5,
-        "word": "τέλους",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "τέλους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1306992,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 6,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1306993,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 7,
-        "word": "end",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the end",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τέλους = the end",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529851",
-    "book_id": "1co",
-    "chapter": "10",
-    "verse": "11",
-    "alignment_num": "13",
-    "orig_lang_words": ",1513289,",
-    "target_lang_words": ",1311903,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513289,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 13,
-        "word": "τέλη",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "τέλη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1311903,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 18,
-        "word": "end",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "end",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέλη = end",
-    "frequency": 0.029411764705882353,
+    "frequency": 0.03571428571428571,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -825,51 +741,8 @@
     "targetWordsTxt": "end",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέλος = end",
-    "frequency": 0.2647058823529412,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533305",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "17",
-    "orig_lang_words": ",1516848,",
-    "target_lang_words": ",1316967,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516848,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 16,
-        "word": "τέλους",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "τέλους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1316967,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 24,
-        "word": "completely",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "completely",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέλους = completely",
-    "frequency": 0.029411764705882353,
+    "frequency": 0.32142857142857145,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -913,7 +786,8 @@
     "targetWordsTxt": "end",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέλος = end",
-    "frequency": 0.2647058823529412,
+    "frequency": 0.32142857142857145,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -969,7 +843,8 @@
     "targetWordsTxt": "end",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ τέλος = end",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.07142857142857142,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1034,7 +909,8 @@
     "targetWordsTxt": "end is",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸ τέλος = end is",
-    "frequency": 0.029411764705882353,
+    "frequency": 0.03571428571428571,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1087,7 +963,8 @@
     "targetWordsTxt": "the end",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέλος = the end",
-    "frequency": 0.08823529411764706,
+    "frequency": 0.10714285714285714,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1131,60 +1008,8 @@
     "targetWordsTxt": "goal",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τέλος = goal",
-    "frequency": 0.029411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551712",
-    "book_id": "heb",
-    "chapter": "3",
-    "verse": "14",
-    "alignment_num": "13",
-    "orig_lang_words": ",1535796,",
-    "target_lang_words": ",1343394,1343395,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535796,
-        "book_id": "heb",
-        "chapter": "3",
-        "verse": "14",
-        "word_num": 11,
-        "word": "τέλους",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "τέλους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1343394,
-        "book_id": "heb",
-        "chapter": "3",
-        "verse": "14",
-        "word_num": 18,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1343395,
-        "book_id": "heb",
-        "chapter": "3",
-        "verse": "14",
-        "word_num": 19,
-        "word": "end",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the end",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τέλους = the end",
-    "frequency": 0.11764705882352941,
+    "frequency": 0.03571428571428571,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1240,7 +1065,521 @@
     "targetWordsTxt": "end",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ τέλος = end",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.07142857142857142,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552611",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "3",
+    "alignment_num": "8",
+    "orig_lang_words": ",1536739,",
+    "target_lang_words": ",1344754,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536739,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 8,
+        "word": "τέλος",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τέλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344754,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 14,
+        "word": "end",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "end",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέλος = end",
+    "frequency": 0.32142857142857145,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557155",
+    "book_id": "jas",
+    "chapter": "5",
+    "verse": "11",
+    "alignment_num": "11",
+    "orig_lang_words": ",1541525,",
+    "target_lang_words": ",1351570,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541525,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 10,
+        "word": "τέλος",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τέλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1351570,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 20,
+        "word": "purpose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "purpose",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέλος = purpose",
+    "frequency": 0.03571428571428571,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557471",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1541839,",
+    "target_lang_words": ",1352054,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541839,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 2,
+        "word": "τέλος",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τέλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352054,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 7,
+        "word": "result",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "result",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέλος = result",
+    "frequency": 0.07142857142857142,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558223",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "1",
+    "orig_lang_words": ",1542620,",
+    "target_lang_words": ",1353221,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542620,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 2,
+        "word": "τέλος",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τέλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1353221,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 1,
+        "word": "finally",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "finally",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέλος = finally",
+    "frequency": 0.03571428571428571,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558532",
+    "book_id": "1pe",
+    "chapter": "4",
+    "verse": "7",
+    "alignment_num": "2",
+    "orig_lang_words": ",1542958,",
+    "target_lang_words": ",1353765,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542958,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 3,
+        "word": "τέλος",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τέλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1353765,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 2,
+        "word": "end",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "end",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέλος = end",
+    "frequency": 0.32142857142857145,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558676",
+    "book_id": "1pe",
+    "chapter": "4",
+    "verse": "17",
+    "alignment_num": "14",
+    "orig_lang_words": ",1543134,",
+    "target_lang_words": ",1354017,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543134,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "17",
+        "word_num": 19,
+        "word": "τέλος",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τέλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1354017,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "17",
+        "word_num": 22,
+        "word": "outcome",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "outcome",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέλος = outcome",
+    "frequency": 0.07142857142857142,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570719",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "6",
+    "alignment_num": "15",
+    "orig_lang_words": ",1556442,",
+    "target_lang_words": ",1370850,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556442,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "6",
+        "word_num": 14,
+        "word": "τέλος",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τέλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1370850,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "6",
+        "word_num": 20,
+        "word": "end",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "end",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέλος = end",
+    "frequency": 0.32142857142857145,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571373",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "13",
+    "alignment_num": "15",
+    "orig_lang_words": ",1557183,",
+    "target_lang_words": ",1371785,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1557183,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "13",
+        "word_num": 15,
+        "word": "τέλος",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τέλος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371785,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "13",
+        "word_num": 16,
+        "word": "end",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "end",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέλος = end",
+    "frequency": 0.32142857142857145,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526525",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "8",
+    "alignment_num": "6",
+    "orig_lang_words": ",1509858,",
+    "target_lang_words": ",1306992,1306993,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509858,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 5,
+        "word": "τέλους",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τέλους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1306992,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 6,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1306993,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 7,
+        "word": "end",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the end",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τέλους = the end",
+    "frequency": 0.8,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533305",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "17",
+    "orig_lang_words": ",1516848,",
+    "target_lang_words": ",1316967,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516848,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 16,
+        "word": "τέλους",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τέλους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1316967,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 24,
+        "word": "completely",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "completely",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τέλους = completely",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551712",
+    "book_id": "heb",
+    "chapter": "3",
+    "verse": "14",
+    "alignment_num": "13",
+    "orig_lang_words": ",1535796,",
+    "target_lang_words": ",1343394,1343395,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535796,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 11,
+        "word": "τέλους",
+        "occurrence": 1,
+        "strong": "G50560",
+        "lemma": "τέλος",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τέλους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1343394,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 18,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1343395,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 19,
+        "word": "end",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the end",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τέλους = the end",
+    "frequency": 0.8,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1293,271 +1632,8 @@
     "targetWordsTxt": "the end",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέλους = the end",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552611",
-    "book_id": "heb",
-    "chapter": "7",
-    "verse": "3",
-    "alignment_num": "8",
-    "orig_lang_words": ",1536739,",
-    "target_lang_words": ",1344754,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536739,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 8,
-        "word": "τέλος",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τέλος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344754,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 14,
-        "word": "end",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "end",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέλος = end",
-    "frequency": 0.2647058823529412,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557155",
-    "book_id": "jas",
-    "chapter": "5",
-    "verse": "11",
-    "alignment_num": "11",
-    "orig_lang_words": ",1541525,",
-    "target_lang_words": ",1351570,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541525,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 10,
-        "word": "τέλος",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τέλος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1351570,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 20,
-        "word": "purpose",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "purpose",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέλος = purpose",
-    "frequency": 0.029411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557471",
-    "book_id": "1pe",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "2",
-    "orig_lang_words": ",1541839,",
-    "target_lang_words": ",1352054,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541839,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 2,
-        "word": "τέλος",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τέλος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1352054,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 7,
-        "word": "result",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "result",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέλος = result",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558223",
-    "book_id": "1pe",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "1",
-    "orig_lang_words": ",1542620,",
-    "target_lang_words": ",1353221,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542620,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 2,
-        "word": "τέλος",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τέλος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1353221,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 1,
-        "word": "finally",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "finally",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέλος = finally",
-    "frequency": 0.029411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558532",
-    "book_id": "1pe",
-    "chapter": "4",
-    "verse": "7",
-    "alignment_num": "2",
-    "orig_lang_words": ",1542958,",
-    "target_lang_words": ",1353765,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542958,
-        "book_id": "1pe",
-        "chapter": "4",
-        "verse": "7",
-        "word_num": 3,
-        "word": "τέλος",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τέλος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1353765,
-        "book_id": "1pe",
-        "chapter": "4",
-        "verse": "7",
-        "word_num": 2,
-        "word": "end",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "end",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέλος = end",
-    "frequency": 0.2647058823529412,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558676",
-    "book_id": "1pe",
-    "chapter": "4",
-    "verse": "17",
-    "alignment_num": "14",
-    "orig_lang_words": ",1543134,",
-    "target_lang_words": ",1354017,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543134,
-        "book_id": "1pe",
-        "chapter": "4",
-        "verse": "17",
-        "word_num": 19,
-        "word": "τέλος",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τέλος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1354017,
-        "book_id": "1pe",
-        "chapter": "4",
-        "verse": "17",
-        "word_num": 22,
-        "word": "outcome",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "outcome",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέλος = outcome",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.8,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1610,95 +1686,53 @@
     "targetWordsTxt": "the end",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τέλους = the end",
-    "frequency": 0.11764705882352941,
+    "frequency": 0.8,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "570719",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "6",
-    "alignment_num": "15",
-    "orig_lang_words": ",1556442,",
-    "target_lang_words": ",1370850,",
+    "id": "529851",
+    "book_id": "1co",
+    "chapter": "10",
+    "verse": "11",
+    "alignment_num": "13",
+    "orig_lang_words": ",1513289,",
+    "target_lang_words": ",1311903,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1556442,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "6",
-        "word_num": 14,
-        "word": "τέλος",
+        "id": 1513289,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 13,
+        "word": "τέλη",
         "occurrence": 1,
         "strong": "G50560",
         "lemma": "τέλος",
-        "morph": "Gr,N,,,,,NNS,"
+        "morph": "Gr,N,,,,,NNP,"
       }
     ],
-    "origWordsTxt": "τέλος",
+    "origWordsTxt": "τέλη",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1370850,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "6",
-        "word_num": 20,
+        "id": 1311903,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 18,
         "word": "end",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "end",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "τέλος = end",
-    "frequency": 0.2647058823529412,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571373",
-    "book_id": "rev",
-    "chapter": "22",
-    "verse": "13",
-    "alignment_num": "15",
-    "orig_lang_words": ",1557183,",
-    "target_lang_words": ",1371785,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1557183,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "13",
-        "word_num": 15,
-        "word": "τέλος",
-        "occurrence": 1,
-        "strong": "G50560",
-        "lemma": "τέλος",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τέλος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371785,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "13",
-        "word_num": 16,
-        "word": "end",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "end",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τέλος = end",
-    "frequency": 0.2647058823529412,
+    "alignmentTxt": "τέλη = end",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

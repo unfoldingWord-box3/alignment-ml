@@ -39,104 +39,8 @@
     "targetWordsTxt": "We",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πειθαρχεῖν = We",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504945",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "32",
-    "alignment_num": "14",
-    "orig_lang_words": ",1487267,",
-    "target_lang_words": ",1276375,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487267,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "32",
-        "word_num": 17,
-        "word": "πειθαρχοῦσιν",
-        "occurrence": 1,
-        "strong": "G39800",
-        "lemma": "πειθαρχέω",
-        "morph": "Gr,V,PPA,DMP,"
-      }
-    ],
-    "origWordsTxt": "πειθαρχοῦσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276375,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "32",
-        "word_num": 19,
-        "word": "obey",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "obey",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πειθαρχοῦσιν = obey",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "518918",
-    "book_id": "act",
-    "chapter": "27",
-    "verse": "21",
-    "alignment_num": "14",
-    "orig_lang_words": ",1501617,",
-    "target_lang_words": ",1295453,1295454,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1501617,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "21",
-        "word_num": 16,
-        "word": "πειθαρχήσαντάς",
-        "occurrence": 1,
-        "strong": "G39800",
-        "lemma": "πειθαρχέω",
-        "morph": "Gr,V,PAA,AMP,"
-      }
-    ],
-    "origWordsTxt": "πειθαρχήσαντάς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1295453,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "21",
-        "word_num": 24,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1295454,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "21",
-        "word_num": 25,
-        "word": "listened",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "have listened",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πειθαρχήσαντάς = have listened",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +102,107 @@
     "targetWordsTxt": "to obey them",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πειθαρχεῖν = to obey them",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504945",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "32",
+    "alignment_num": "14",
+    "orig_lang_words": ",1487267,",
+    "target_lang_words": ",1276375,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487267,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "32",
+        "word_num": 17,
+        "word": "πειθαρχοῦσιν",
+        "occurrence": 1,
+        "strong": "G39800",
+        "lemma": "πειθαρχέω",
+        "morph": "Gr,V,PPA,DMP,"
+      }
+    ],
+    "origWordsTxt": "πειθαρχοῦσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276375,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "32",
+        "word_num": 19,
+        "word": "obey",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "obey",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πειθαρχοῦσιν = obey",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518918",
+    "book_id": "act",
+    "chapter": "27",
+    "verse": "21",
+    "alignment_num": "14",
+    "orig_lang_words": ",1501617,",
+    "target_lang_words": ",1295453,1295454,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501617,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "21",
+        "word_num": 16,
+        "word": "πειθαρχήσαντάς",
+        "occurrence": 1,
+        "strong": "G39800",
+        "lemma": "πειθαρχέω",
+        "morph": "Gr,V,PAA,AMP,"
+      }
+    ],
+    "origWordsTxt": "πειθαρχήσαντάς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1295453,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "21",
+        "word_num": 24,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1295454,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "21",
+        "word_num": 25,
+        "word": "listened",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "have listened",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πειθαρχήσαντάς = have listened",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

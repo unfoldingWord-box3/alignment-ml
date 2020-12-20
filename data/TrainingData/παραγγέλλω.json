@@ -39,60 +39,8 @@
     "targetWordsTxt": "instructed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παρήγγειλεν = instructed",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "462608",
-    "book_id": "mrk",
-    "chapter": "8",
-    "verse": "6",
-    "alignment_num": "1",
-    "orig_lang_words": ",1442600,",
-    "target_lang_words": ",1218027,1218028,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1442600,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "6",
-        "word_num": 1,
-        "word": "παραγγέλλει",
-        "occurrence": 1,
-        "strong": "G38530",
-        "lemma": "παραγγέλλω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "παραγγέλλει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1218027,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "6",
-        "word_num": 1,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1218028,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "6",
-        "word_num": 2,
-        "word": "commanded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he commanded",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "παραγγέλλει = he commanded",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +84,8 @@
     "targetWordsTxt": "commanded",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παρήγγειλεν = commanded",
-    "frequency": 0.06896551724137931,
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +147,8 @@
     "targetWordsTxt": "he had commanded",
     "alignmentTargetWords": 3,
     "alignmentTxt": "παρήγγειλεν = he had commanded",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,7 +192,8 @@
     "targetWordsTxt": "commanded",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παρήγγειλεν = commanded",
-    "frequency": 0.06896551724137931,
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,7 +246,8 @@
     "targetWordsTxt": "commanding them",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παρήγγειλεν = commanding them",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -348,8 +300,174 @@
     "targetWordsTxt": "he commanded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παρήγγειλεν = he commanded",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508656",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "42",
+    "alignment_num": "0",
+    "orig_lang_words": ",1491070,",
+    "target_lang_words": ",1281368,1281369,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491070,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "42",
+        "word_num": 1,
+        "word": "παρήγγειλεν",
+        "occurrence": 1,
+        "strong": "G38530",
+        "lemma": "παραγγέλλω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "παρήγγειλεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1281368,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "42",
+        "word_num": 0,
+        "word": "He",
+        "occurrence": 1
+      },
+      {
+        "id": 1281369,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "42",
+        "word_num": 1,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "He commanded",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "παρήγγειλεν = He commanded",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "462608",
+    "book_id": "mrk",
+    "chapter": "8",
+    "verse": "6",
+    "alignment_num": "1",
+    "orig_lang_words": ",1442600,",
+    "target_lang_words": ",1218027,1218028,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1442600,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "6",
+        "word_num": 1,
+        "word": "παραγγέλλει",
+        "occurrence": 1,
+        "strong": "G38530",
+        "lemma": "παραγγέλλω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "παραγγέλλει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1218027,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "6",
+        "word_num": 1,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1218028,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "6",
+        "word_num": 2,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he commanded",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "παραγγέλλει = he commanded",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513084",
+    "book_id": "act",
+    "chapter": "17",
+    "verse": "30",
+    "alignment_num": "8",
+    "orig_lang_words": ",1495632,1495634,",
+    "target_lang_words": ",1287379,",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 1495632,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "30",
+        "word_num": 9,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,ANP,"
+      },
+      {
+        "id": 1495634,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "30",
+        "word_num": 11,
+        "word": "παραγγέλλει",
+        "occurrence": 1,
+        "strong": "G38530",
+        "lemma": "παραγγέλλω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "τὰ παραγγέλλει",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1287379,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "30",
+        "word_num": 9,
+        "word": "commands",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "commands",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ παραγγέλλει = commands",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 1,
     "targetWordsBetween": 0
   },
   {
@@ -410,7 +528,71 @@
     "targetWordsTxt": "they commanded them",
     "alignmentTargetWords": 3,
     "alignmentTxt": "παρήγγειλαν = they commanded them",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505088",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "40",
+    "alignment_num": "6",
+    "orig_lang_words": ",1487412,",
+    "target_lang_words": ",1276585,1276586,1276587,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487412,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "40",
+        "word_num": 5,
+        "word": "παρήγγειλαν",
+        "occurrence": 1,
+        "strong": "G38530",
+        "lemma": "παραγγέλλω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "παρήγγειλαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1276585,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "40",
+        "word_num": 9,
+        "word": "and",
+        "occurrence": 2
+      },
+      {
+        "id": 1276586,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "40",
+        "word_num": 10,
+        "word": "commanded",
+        "occurrence": 1
+      },
+      {
+        "id": 1276587,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "40",
+        "word_num": 11,
+        "word": "them",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "and commanded them",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "παρήγγειλαν = and commanded them",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -484,122 +666,62 @@
     "targetWordsTxt": "We strictly charged",
     "alignmentTargetWords": 3,
     "alignmentTxt": "παραγγελίᾳ παρηγγείλαμεν = We strictly charged",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "505088",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "40",
-    "alignment_num": "6",
-    "orig_lang_words": ",1487412,",
-    "target_lang_words": ",1276585,1276586,1276587,",
+    "id": "545930",
+    "book_id": "1th",
+    "chapter": "4",
+    "verse": "11",
+    "alignment_num": "14",
+    "orig_lang_words": ",1529923,",
+    "target_lang_words": ",1335119,1335120,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1487412,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "40",
-        "word_num": 5,
-        "word": "παρήγγειλαν",
+        "id": 1529923,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 15,
+        "word": "παρηγγείλαμεν",
         "occurrence": 1,
         "strong": "G38530",
         "lemma": "παραγγέλλω",
-        "morph": "Gr,V,IAA3,,P,"
+        "morph": "Gr,V,IAA1,,P,"
       }
     ],
-    "origWordsTxt": "παρήγγειλαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1276585,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "40",
-        "word_num": 9,
-        "word": "and",
-        "occurrence": 2
-      },
-      {
-        "id": 1276586,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "40",
-        "word_num": 10,
-        "word": "commanded",
-        "occurrence": 1
-      },
-      {
-        "id": 1276587,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "40",
-        "word_num": 11,
-        "word": "them",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "and commanded them",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "παρήγγειλαν = and commanded them",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508656",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "42",
-    "alignment_num": "0",
-    "orig_lang_words": ",1491070,",
-    "target_lang_words": ",1281368,1281369,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491070,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "42",
-        "word_num": 1,
-        "word": "παρήγγειλεν",
-        "occurrence": 1,
-        "strong": "G38530",
-        "lemma": "παραγγέλλω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "παρήγγειλεν",
+    "origWordsTxt": "παρηγγείλαμεν",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1281368,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "42",
-        "word_num": 0,
-        "word": "He",
+        "id": 1335119,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 26,
+        "word": "we",
         "occurrence": 1
       },
       {
-        "id": 1281369,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "42",
-        "word_num": 1,
+        "id": 1335120,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 27,
         "word": "commanded",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "He commanded",
+    "targetWordsTxt": "we commanded",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "παρήγγειλεν = He commanded",
-    "frequency": 0.034482758620689655,
+    "alignmentTxt": "παρηγγείλαμεν = we commanded",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -661,7 +783,8 @@
     "targetWordsTxt": "to command them",
     "alignmentTargetWords": 3,
     "alignmentTxt": "παραγγέλλειν = to command them",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -714,213 +837,8 @@
     "targetWordsTxt": "I command",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παραγγέλλω = I command",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "512221",
-    "book_id": "act",
-    "chapter": "16",
-    "verse": "23",
-    "alignment_num": "7",
-    "orig_lang_words": ",1494742,",
-    "target_lang_words": ",1286220,1286221,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494742,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "23",
-        "word_num": 8,
-        "word": "παραγγείλαντες",
-        "occurrence": 1,
-        "strong": "G38530",
-        "lemma": "παραγγέλλω",
-        "morph": "Gr,V,PAA,NMP,"
-      }
-    ],
-    "origWordsTxt": "παραγγείλαντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1286220,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "23",
-        "word_num": 13,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1286221,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "23",
-        "word_num": 14,
-        "word": "commanded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and commanded",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "παραγγείλαντες = and commanded",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513084",
-    "book_id": "act",
-    "chapter": "17",
-    "verse": "30",
-    "alignment_num": "8",
-    "orig_lang_words": ",1495632,1495634,",
-    "target_lang_words": ",1287379,",
-    "origSpan": 2,
-    "origWords": [
-      {
-        "id": 1495632,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "30",
-        "word_num": 9,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,RD,,,,ANP,"
-      },
-      {
-        "id": 1495634,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "30",
-        "word_num": 11,
-        "word": "παραγγέλλει",
-        "occurrence": 1,
-        "strong": "G38530",
-        "lemma": "παραγγέλλω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "τὰ παραγγέλλει",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1287379,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "30",
-        "word_num": 9,
-        "word": "commands",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "commands",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ παραγγέλλει = commands",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 1,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516800",
-    "book_id": "act",
-    "chapter": "23",
-    "verse": "22",
-    "alignment_num": "6",
-    "orig_lang_words": ",1499467,",
-    "target_lang_words": ",1292424,1292425,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499467,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "22",
-        "word_num": 7,
-        "word": "παραγγείλας",
-        "occurrence": 1,
-        "strong": "G38530",
-        "lemma": "παραγγέλλω",
-        "morph": "Gr,V,PAA,NMS,"
-      }
-    ],
-    "origWordsTxt": "παραγγείλας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1292424,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "22",
-        "word_num": 8,
-        "word": "instructing",
-        "occurrence": 1
-      },
-      {
-        "id": 1292425,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "22",
-        "word_num": 9,
-        "word": "him",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "instructing him",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "παραγγείλας = instructing him",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516921",
-    "book_id": "act",
-    "chapter": "23",
-    "verse": "30",
-    "alignment_num": "13",
-    "orig_lang_words": ",1499588,",
-    "target_lang_words": ",1292606,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499588,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "30",
-        "word_num": 12,
-        "word": "παραγγείλας",
-        "occurrence": 1,
-        "strong": "G38530",
-        "lemma": "παραγγέλλω",
-        "morph": "Gr,V,PAA,NMS,"
-      }
-    ],
-    "origWordsTxt": "παραγγείλας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1292606,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "30",
-        "word_num": 23,
-        "word": "instructing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "instructing",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παραγγείλας = instructing",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -991,7 +909,215 @@
     "targetWordsTxt": "I give this command",
     "alignmentTargetWords": 4,
     "alignmentTxt": "παραγγέλλω = I give this command",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548629",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "13",
+    "alignment_num": "0",
+    "orig_lang_words": ",1532644,",
+    "target_lang_words": ",1338967,1338968,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532644,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 0,
+        "word": "παραγγέλλω",
+        "occurrence": 1,
+        "strong": "G38530",
+        "lemma": "παραγγέλλω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "παραγγέλλω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1338967,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 0,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1338968,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 1,
+        "word": "charge",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I charge",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "παραγγέλλω = I charge",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512221",
+    "book_id": "act",
+    "chapter": "16",
+    "verse": "23",
+    "alignment_num": "7",
+    "orig_lang_words": ",1494742,",
+    "target_lang_words": ",1286220,1286221,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494742,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "23",
+        "word_num": 8,
+        "word": "παραγγείλαντες",
+        "occurrence": 1,
+        "strong": "G38530",
+        "lemma": "παραγγέλλω",
+        "morph": "Gr,V,PAA,NMP,"
+      }
+    ],
+    "origWordsTxt": "παραγγείλαντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1286220,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "23",
+        "word_num": 13,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1286221,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "23",
+        "word_num": 14,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and commanded",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "παραγγείλαντες = and commanded",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516800",
+    "book_id": "act",
+    "chapter": "23",
+    "verse": "22",
+    "alignment_num": "6",
+    "orig_lang_words": ",1499467,",
+    "target_lang_words": ",1292424,1292425,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499467,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "22",
+        "word_num": 7,
+        "word": "παραγγείλας",
+        "occurrence": 1,
+        "strong": "G38530",
+        "lemma": "παραγγέλλω",
+        "morph": "Gr,V,PAA,NMS,"
+      }
+    ],
+    "origWordsTxt": "παραγγείλας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1292424,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "22",
+        "word_num": 8,
+        "word": "instructing",
+        "occurrence": 1
+      },
+      {
+        "id": 1292425,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "22",
+        "word_num": 9,
+        "word": "him",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "instructing him",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "παραγγείλας = instructing him",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516921",
+    "book_id": "act",
+    "chapter": "23",
+    "verse": "30",
+    "alignment_num": "13",
+    "orig_lang_words": ",1499588,",
+    "target_lang_words": ",1292606,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499588,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "30",
+        "word_num": 12,
+        "word": "παραγγείλας",
+        "occurrence": 1,
+        "strong": "G38530",
+        "lemma": "παραγγέλλω",
+        "morph": "Gr,V,PAA,NMS,"
+      }
+    ],
+    "origWordsTxt": "παραγγείλας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1292606,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "30",
+        "word_num": 23,
+        "word": "instructing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "instructing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παραγγείλας = instructing",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1035,60 +1161,8 @@
     "targetWordsTxt": "instructions",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παραγγέλλων = instructions",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545930",
-    "book_id": "1th",
-    "chapter": "4",
-    "verse": "11",
-    "alignment_num": "14",
-    "orig_lang_words": ",1529923,",
-    "target_lang_words": ",1335119,1335120,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529923,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 15,
-        "word": "παρηγγείλαμεν",
-        "occurrence": 1,
-        "strong": "G38530",
-        "lemma": "παραγγέλλω",
-        "morph": "Gr,V,IAA1,,P,"
-      }
-    ],
-    "origWordsTxt": "παρηγγείλαμεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1335119,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 26,
-        "word": "we",
-        "occurrence": 1
-      },
-      {
-        "id": 1335120,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 27,
-        "word": "commanded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "we commanded",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "παρηγγείλαμεν = we commanded",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1141,7 +1215,8 @@
     "targetWordsTxt": "we command",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παραγγέλλομεν = we command",
-    "frequency": 0.10344827586206896,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1194,60 +1269,8 @@
     "targetWordsTxt": "we command",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παραγγέλλομεν = we command",
-    "frequency": 0.10344827586206896,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547027",
-    "book_id": "2th",
-    "chapter": "3",
-    "verse": "10",
-    "alignment_num": "6",
-    "orig_lang_words": ",1531075,",
-    "target_lang_words": ",1336690,1336691,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531075,
-        "book_id": "2th",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 7,
-        "word": "παρηγγέλλομεν",
-        "occurrence": 1,
-        "strong": "G38530",
-        "lemma": "παραγγέλλω",
-        "morph": "Gr,V,IIA1,,P,"
-      }
-    ],
-    "origWordsTxt": "παρηγγέλλομεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1336690,
-        "book_id": "2th",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 7,
-        "word": "we",
-        "occurrence": 2
-      },
-      {
-        "id": 1336691,
-        "book_id": "2th",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 8,
-        "word": "commanded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "we commanded",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "παρηγγέλλομεν = we commanded",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1300,7 +1323,62 @@
     "targetWordsTxt": "we command",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παραγγέλλομεν = we command",
-    "frequency": 0.10344827586206896,
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547027",
+    "book_id": "2th",
+    "chapter": "3",
+    "verse": "10",
+    "alignment_num": "6",
+    "orig_lang_words": ",1531075,",
+    "target_lang_words": ",1336690,1336691,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531075,
+        "book_id": "2th",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 7,
+        "word": "παρηγγέλλομεν",
+        "occurrence": 1,
+        "strong": "G38530",
+        "lemma": "παραγγέλλω",
+        "morph": "Gr,V,IIA1,,P,"
+      }
+    ],
+    "origWordsTxt": "παρηγγέλλομεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1336690,
+        "book_id": "2th",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 7,
+        "word": "we",
+        "occurrence": 2
+      },
+      {
+        "id": 1336691,
+        "book_id": "2th",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 8,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we commanded",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "παρηγγέλλομεν = we commanded",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1362,7 +1440,8 @@
     "targetWordsTxt": "you can command",
     "alignmentTargetWords": 3,
     "alignmentTxt": "παραγγείλῃς = you can command",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1406,7 +1485,8 @@
     "targetWordsTxt": "Command",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παράγγελλε = Command",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1450,60 +1530,8 @@
     "targetWordsTxt": "command",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παράγγελλε = command",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548629",
-    "book_id": "1ti",
-    "chapter": "6",
-    "verse": "13",
-    "alignment_num": "0",
-    "orig_lang_words": ",1532644,",
-    "target_lang_words": ",1338967,1338968,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532644,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 0,
-        "word": "παραγγέλλω",
-        "occurrence": 1,
-        "strong": "G38530",
-        "lemma": "παραγγέλλω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "παραγγέλλω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1338967,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 0,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1338968,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 1,
-        "word": "charge",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I charge",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "παραγγέλλω = I charge",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1556,7 +1584,8 @@
     "targetWordsTxt": "command them",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παράγγελλε = command them",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

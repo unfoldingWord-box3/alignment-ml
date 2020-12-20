@@ -39,7 +39,8 @@
     "targetWordsTxt": "sanctification",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγιασμόν = sanctification",
-    "frequency": 0.2,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,271 +84,8 @@
     "targetWordsTxt": "sanctification",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγιασμόν = sanctification",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526871",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "30",
-    "alignment_num": "17",
-    "orig_lang_words": ",1510231,",
-    "target_lang_words": ",1307488,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510231,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "30",
-        "word_num": 17,
-        "word": "ἁγιασμὸς",
-        "occurrence": 1,
-        "strong": "G00380",
-        "lemma": "ἁγιασμός",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἁγιασμὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307488,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "30",
-        "word_num": 20,
-        "word": "sanctification",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sanctification",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁγιασμὸς = sanctification",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545807",
-    "book_id": "1th",
-    "chapter": "4",
-    "verse": "3",
-    "alignment_num": "8",
-    "orig_lang_words": ",1529788,",
-    "target_lang_words": ",1334951,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529788,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "3",
-        "word_num": 7,
-        "word": "ἁγιασμὸς",
-        "occurrence": 1,
-        "strong": "G00380",
-        "lemma": "ἁγιασμός",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἁγιασμὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1334951,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "3",
-        "word_num": 8,
-        "word": "sanctification",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sanctification",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁγιασμὸς = sanctification",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545820",
-    "book_id": "1th",
-    "chapter": "4",
-    "verse": "4",
-    "alignment_num": "8",
-    "orig_lang_words": ",1529803,",
-    "target_lang_words": ",1334969,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529803,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "4",
-        "word_num": 8,
-        "word": "ἁγιασμῷ",
-        "occurrence": 1,
-        "strong": "G00380",
-        "lemma": "ἁγιασμός",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "ἁγιασμῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1334969,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "4",
-        "word_num": 12,
-        "word": "holiness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "holiness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁγιασμῷ = holiness",
-    "frequency": 0.3,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545868",
-    "book_id": "1th",
-    "chapter": "4",
-    "verse": "7",
-    "alignment_num": "9",
-    "orig_lang_words": ",1529852,",
-    "target_lang_words": ",1335026,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529852,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "7",
-        "word_num": 10,
-        "word": "ἁγιασμῷ",
-        "occurrence": 1,
-        "strong": "G00380",
-        "lemma": "ἁγιασμός",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "ἁγιασμῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1335026,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "7",
-        "word_num": 10,
-        "word": "holiness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "holiness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁγιασμῷ = holiness",
-    "frequency": 0.3,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546806",
-    "book_id": "2th",
-    "chapter": "2",
-    "verse": "13",
-    "alignment_num": "20",
-    "orig_lang_words": ",1530843,",
-    "target_lang_words": ",1336386,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530843,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 22,
-        "word": "ἁγιασμῷ",
-        "occurrence": 1,
-        "strong": "G00380",
-        "lemma": "ἁγιασμός",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "ἁγιασμῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1336386,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 25,
-        "word": "sanctification",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sanctification",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁγιασμῷ = sanctification",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547638",
-    "book_id": "1ti",
-    "chapter": "2",
-    "verse": "15",
-    "alignment_num": "12",
-    "orig_lang_words": ",1531682,",
-    "target_lang_words": ",1337560,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531682,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 12,
-        "word": "ἁγιασμῷ",
-        "occurrence": 1,
-        "strong": "G00380",
-        "lemma": "ἁγιασμός",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "ἁγιασμῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337560,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 18,
-        "word": "holiness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "holiness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁγιασμῷ = holiness",
-    "frequency": 0.3,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -391,7 +129,278 @@
     "targetWordsTxt": "holiness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγιασμόν = holiness",
-    "frequency": 0.1,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526871",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "30",
+    "alignment_num": "17",
+    "orig_lang_words": ",1510231,",
+    "target_lang_words": ",1307488,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510231,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "30",
+        "word_num": 17,
+        "word": "ἁγιασμὸς",
+        "occurrence": 1,
+        "strong": "G00380",
+        "lemma": "ἁγιασμός",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἁγιασμὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307488,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "30",
+        "word_num": 20,
+        "word": "sanctification",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sanctification",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁγιασμὸς = sanctification",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545807",
+    "book_id": "1th",
+    "chapter": "4",
+    "verse": "3",
+    "alignment_num": "8",
+    "orig_lang_words": ",1529788,",
+    "target_lang_words": ",1334951,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529788,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 7,
+        "word": "ἁγιασμὸς",
+        "occurrence": 1,
+        "strong": "G00380",
+        "lemma": "ἁγιασμός",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἁγιασμὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334951,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 8,
+        "word": "sanctification",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sanctification",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁγιασμὸς = sanctification",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545820",
+    "book_id": "1th",
+    "chapter": "4",
+    "verse": "4",
+    "alignment_num": "8",
+    "orig_lang_words": ",1529803,",
+    "target_lang_words": ",1334969,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529803,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 8,
+        "word": "ἁγιασμῷ",
+        "occurrence": 1,
+        "strong": "G00380",
+        "lemma": "ἁγιασμός",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ἁγιασμῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334969,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 12,
+        "word": "holiness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "holiness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁγιασμῷ = holiness",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545868",
+    "book_id": "1th",
+    "chapter": "4",
+    "verse": "7",
+    "alignment_num": "9",
+    "orig_lang_words": ",1529852,",
+    "target_lang_words": ",1335026,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529852,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 10,
+        "word": "ἁγιασμῷ",
+        "occurrence": 1,
+        "strong": "G00380",
+        "lemma": "ἁγιασμός",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ἁγιασμῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1335026,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 10,
+        "word": "holiness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "holiness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁγιασμῷ = holiness",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546806",
+    "book_id": "2th",
+    "chapter": "2",
+    "verse": "13",
+    "alignment_num": "20",
+    "orig_lang_words": ",1530843,",
+    "target_lang_words": ",1336386,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530843,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 22,
+        "word": "ἁγιασμῷ",
+        "occurrence": 1,
+        "strong": "G00380",
+        "lemma": "ἁγιασμός",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ἁγιασμῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336386,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 25,
+        "word": "sanctification",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sanctification",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁγιασμῷ = sanctification",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547638",
+    "book_id": "1ti",
+    "chapter": "2",
+    "verse": "15",
+    "alignment_num": "12",
+    "orig_lang_words": ",1531682,",
+    "target_lang_words": ",1337560,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531682,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 12,
+        "word": "ἁγιασμῷ",
+        "occurrence": 1,
+        "strong": "G00380",
+        "lemma": "ἁγιασμός",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ἁγιασμῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337560,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 18,
+        "word": "holiness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "holiness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁγιασμῷ = holiness",
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -444,7 +453,8 @@
     "targetWordsTxt": "set apart",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁγιασμῷ = set apart",
-    "frequency": 0.1,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

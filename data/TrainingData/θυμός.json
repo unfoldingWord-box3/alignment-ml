@@ -48,7 +48,8 @@
     "targetWordsTxt": "with rage",
     "alignmentTargetWords": 2,
     "alignmentTxt": "θυμοῦ = with rage",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,392 @@
     "targetWordsTxt": "with anger",
     "alignmentTargetWords": 2,
     "alignmentTxt": "θυμοῦ = with anger",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.1,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567874",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "8",
+    "alignment_num": "18",
+    "orig_lang_words": ",1553285,1553286,",
+    "target_lang_words": ",1367048,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1553285,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "8",
+        "word_num": 14,
+        "word": "τοῦ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GMS,"
+      },
+      {
+        "id": 1553286,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "8",
+        "word_num": 15,
+        "word": "θυμοῦ",
+        "occurrence": 1,
+        "strong": "G23720",
+        "lemma": "θυμός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ θυμοῦ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367048,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "8",
+        "word_num": 23,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ θυμοῦ = of",
+    "frequency": 0.2,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567914",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "10",
+    "alignment_num": "8",
+    "orig_lang_words": ",1553332,",
+    "target_lang_words": ",1367092,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553332,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 7,
+        "word": "θυμοῦ",
+        "occurrence": 1,
+        "strong": "G23720",
+        "lemma": "θυμός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "θυμοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367092,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 9,
+        "word": "wrath",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wrath",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυμοῦ = wrath",
+    "frequency": 0.4,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568159",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "19",
+    "alignment_num": "21",
+    "orig_lang_words": ",1553599,",
+    "target_lang_words": ",1367417,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553599,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "19",
+        "word_num": 22,
+        "word": "θυμοῦ",
+        "occurrence": 1,
+        "strong": "G23720",
+        "lemma": "θυμός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "θυμοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367417,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "19",
+        "word_num": 28,
+        "word": "wrath",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wrath",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυμοῦ = wrath",
+    "frequency": 0.4,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568344",
+    "book_id": "rev",
+    "chapter": "15",
+    "verse": "7",
+    "alignment_num": "15",
+    "orig_lang_words": ",1553803,",
+    "target_lang_words": ",1367654,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553803,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "7",
+        "word_num": 15,
+        "word": "θυμοῦ",
+        "occurrence": 1,
+        "strong": "G23720",
+        "lemma": "θυμός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "θυμοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367654,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "7",
+        "word_num": 18,
+        "word": "wrath",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wrath",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυμοῦ = wrath",
+    "frequency": 0.4,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568395",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "1",
+    "alignment_num": "19",
+    "orig_lang_words": ",1553861,",
+    "target_lang_words": ",1367718,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553861,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "1",
+        "word_num": 18,
+        "word": "θυμοῦ",
+        "occurrence": 1,
+        "strong": "G23720",
+        "lemma": "θυμός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "θυμοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367718,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "1",
+        "word_num": 23,
+        "word": "wrath",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wrath",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυμοῦ = wrath",
+    "frequency": 0.4,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568773",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "19",
+    "alignment_num": "28",
+    "orig_lang_words": ",1554270,",
+    "target_lang_words": ",1368235,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554270,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "19",
+        "word_num": 30,
+        "word": "θυμοῦ",
+        "occurrence": 1,
+        "strong": "G23720",
+        "lemma": "θυμός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "θυμοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368235,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "19",
+        "word_num": 34,
+        "word": "fury",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fury",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυμοῦ = fury",
+    "frequency": 0.2,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569278",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "3",
+    "alignment_num": "8",
+    "orig_lang_words": ",1554804,1554805,",
+    "target_lang_words": ",1368904,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1554804,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "3",
+        "word_num": 4,
+        "word": "τοῦ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GMS,"
+      },
+      {
+        "id": 1554805,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "3",
+        "word_num": 5,
+        "word": "θυμοῦ",
+        "occurrence": 1,
+        "strong": "G23720",
+        "lemma": "θυμός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ θυμοῦ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368904,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "3",
+        "word_num": 9,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ θυμοῦ = of",
+    "frequency": 0.2,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570061",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "15",
+    "alignment_num": "27",
+    "orig_lang_words": ",1555716,",
+    "target_lang_words": ",1369974,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555716,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "15",
+        "word_num": 29,
+        "word": "θυμοῦ",
+        "occurrence": 1,
+        "strong": "G23720",
+        "lemma": "θυμός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "θυμοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369974,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "15",
+        "word_num": 33,
+        "word": "fury",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fury",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυμοῦ = fury",
+    "frequency": 0.2,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -172,7 +558,8 @@
     "targetWordsTxt": "fierce anger will come",
     "alignmentTargetWords": 4,
     "alignmentTxt": "θυμός = fierce anger will come",
-    "frequency": 0.05555555555555555,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -234,7 +621,8 @@
     "targetWordsTxt": "outbursts of anger",
     "alignmentTargetWords": 3,
     "alignmentTxt": "θυμοί = outbursts of anger",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -296,7 +684,8 @@
     "targetWordsTxt": "outbursts of anger",
     "alignmentTargetWords": 3,
     "alignmentTxt": "θυμοί = outbursts of anger",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -340,283 +729,8 @@
     "targetWordsTxt": "rage",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θυμὸς = rage",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544443",
-    "book_id": "col",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "9",
-    "orig_lang_words": ",1528337,",
-    "target_lang_words": ",1333079,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528337,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 8,
-        "word": "θυμόν",
-        "occurrence": 1,
-        "strong": "G23720",
-        "lemma": "θυμός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "θυμόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1333079,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 12,
-        "word": "anger",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "anger",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυμόν = anger",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554679",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "27",
-    "alignment_num": "8",
-    "orig_lang_words": ",1538909,",
-    "target_lang_words": ",1347927,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538909,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "27",
-        "word_num": 6,
-        "word": "θυμὸν",
-        "occurrence": 1,
-        "strong": "G23720",
-        "lemma": "θυμός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "θυμὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1347927,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "27",
-        "word_num": 12,
-        "word": "anger",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "anger",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυμὸν = anger",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567157",
-    "book_id": "rev",
-    "chapter": "12",
-    "verse": "12",
-    "alignment_num": "21",
-    "orig_lang_words": ",1552500,",
-    "target_lang_words": ",1366084,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1552500,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "12",
-        "word_num": 22,
-        "word": "θυμὸν",
-        "occurrence": 1,
-        "strong": "G23720",
-        "lemma": "θυμός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "θυμὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366084,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "12",
-        "word_num": 30,
-        "word": "with",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "with",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυμὸν = with",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567874",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "8",
-    "alignment_num": "18",
-    "orig_lang_words": ",1553285,1553286,",
-    "target_lang_words": ",1367048,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1553285,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "8",
-        "word_num": 14,
-        "word": "τοῦ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GMS,"
-      },
-      {
-        "id": 1553286,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "8",
-        "word_num": 15,
-        "word": "θυμοῦ",
-        "occurrence": 1,
-        "strong": "G23720",
-        "lemma": "θυμός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "τοῦ θυμοῦ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367048,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "8",
-        "word_num": 23,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ θυμοῦ = of",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567914",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "10",
-    "alignment_num": "8",
-    "orig_lang_words": ",1553332,",
-    "target_lang_words": ",1367092,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553332,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "10",
-        "word_num": 7,
-        "word": "θυμοῦ",
-        "occurrence": 1,
-        "strong": "G23720",
-        "lemma": "θυμός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "θυμοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367092,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "10",
-        "word_num": 9,
-        "word": "wrath",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wrath",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυμοῦ = wrath",
-    "frequency": 0.2222222222222222,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568159",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "19",
-    "alignment_num": "21",
-    "orig_lang_words": ",1553599,",
-    "target_lang_words": ",1367417,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553599,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "19",
-        "word_num": 22,
-        "word": "θυμοῦ",
-        "occurrence": 1,
-        "strong": "G23720",
-        "lemma": "θυμός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "θυμοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367417,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "19",
-        "word_num": 28,
-        "word": "wrath",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wrath",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυμοῦ = wrath",
-    "frequency": 0.2222222222222222,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -660,239 +774,143 @@
     "targetWordsTxt": "wrath",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θυμὸς = wrath",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "568344",
-    "book_id": "rev",
-    "chapter": "15",
-    "verse": "7",
-    "alignment_num": "15",
-    "orig_lang_words": ",1553803,",
-    "target_lang_words": ",1367654,",
+    "id": "544443",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "9",
+    "orig_lang_words": ",1528337,",
+    "target_lang_words": ",1333079,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1553803,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "7",
-        "word_num": 15,
-        "word": "θυμοῦ",
+        "id": 1528337,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 8,
+        "word": "θυμόν",
         "occurrence": 1,
         "strong": "G23720",
         "lemma": "θυμός",
-        "morph": "Gr,N,,,,,GMS,"
+        "morph": "Gr,N,,,,,AMS,"
       }
     ],
-    "origWordsTxt": "θυμοῦ",
+    "origWordsTxt": "θυμόν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1367654,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "7",
-        "word_num": 18,
-        "word": "wrath",
+        "id": 1333079,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 12,
+        "word": "anger",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "wrath",
+    "targetWordsTxt": "anger",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "θυμοῦ = wrath",
-    "frequency": 0.2222222222222222,
+    "alignmentTxt": "θυμόν = anger",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "568395",
-    "book_id": "rev",
-    "chapter": "16",
-    "verse": "1",
-    "alignment_num": "19",
-    "orig_lang_words": ",1553861,",
-    "target_lang_words": ",1367718,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553861,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "1",
-        "word_num": 18,
-        "word": "θυμοῦ",
-        "occurrence": 1,
-        "strong": "G23720",
-        "lemma": "θυμός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "θυμοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367718,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "1",
-        "word_num": 23,
-        "word": "wrath",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wrath",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυμοῦ = wrath",
-    "frequency": 0.2222222222222222,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568773",
-    "book_id": "rev",
-    "chapter": "16",
-    "verse": "19",
-    "alignment_num": "28",
-    "orig_lang_words": ",1554270,",
-    "target_lang_words": ",1368235,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554270,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "19",
-        "word_num": 30,
-        "word": "θυμοῦ",
-        "occurrence": 1,
-        "strong": "G23720",
-        "lemma": "θυμός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "θυμοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1368235,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "19",
-        "word_num": 34,
-        "word": "fury",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "fury",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυμοῦ = fury",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569278",
-    "book_id": "rev",
-    "chapter": "18",
-    "verse": "3",
+    "id": "554679",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "27",
     "alignment_num": "8",
-    "orig_lang_words": ",1554804,1554805,",
-    "target_lang_words": ",1368904,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1554804,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "3",
-        "word_num": 4,
-        "word": "τοῦ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GMS,"
-      },
-      {
-        "id": 1554805,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "3",
-        "word_num": 5,
-        "word": "θυμοῦ",
-        "occurrence": 1,
-        "strong": "G23720",
-        "lemma": "θυμός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "τοῦ θυμοῦ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1368904,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "3",
-        "word_num": 9,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ θυμοῦ = of",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "570061",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "15",
-    "alignment_num": "27",
-    "orig_lang_words": ",1555716,",
-    "target_lang_words": ",1369974,",
+    "orig_lang_words": ",1538909,",
+    "target_lang_words": ",1347927,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1555716,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "15",
-        "word_num": 29,
-        "word": "θυμοῦ",
+        "id": 1538909,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "27",
+        "word_num": 6,
+        "word": "θυμὸν",
         "occurrence": 1,
         "strong": "G23720",
         "lemma": "θυμός",
-        "morph": "Gr,N,,,,,GMS,"
+        "morph": "Gr,N,,,,,AMS,"
       }
     ],
-    "origWordsTxt": "θυμοῦ",
+    "origWordsTxt": "θυμὸν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1369974,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "15",
-        "word_num": 33,
-        "word": "fury",
+        "id": 1347927,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "27",
+        "word_num": 12,
+        "word": "anger",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "fury",
+    "targetWordsTxt": "anger",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "θυμοῦ = fury",
-    "frequency": 0.1111111111111111,
+    "alignmentTxt": "θυμὸν = anger",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567157",
+    "book_id": "rev",
+    "chapter": "12",
+    "verse": "12",
+    "alignment_num": "21",
+    "orig_lang_words": ",1552500,",
+    "target_lang_words": ",1366084,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1552500,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "12",
+        "word_num": 22,
+        "word": "θυμὸν",
+        "occurrence": 1,
+        "strong": "G23720",
+        "lemma": "θυμός",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "θυμὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366084,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "12",
+        "word_num": 30,
+        "word": "with",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "with",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυμὸν = with",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

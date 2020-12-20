@@ -39,51 +39,8 @@
     "targetWordsTxt": "known",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φανερὸν = known",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "460084",
-    "book_id": "mrk",
-    "chapter": "4",
-    "verse": "22",
-    "alignment_num": "14",
-    "orig_lang_words": ",1439931,",
-    "target_lang_words": ",1214536,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1439931,
-        "book_id": "mrk",
-        "chapter": "4",
-        "verse": "22",
-        "word_num": 15,
-        "word": "φανερόν",
-        "occurrence": 1,
-        "strong": "G53180",
-        "lemma": "φανερός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "φανερόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1214536,
-        "book_id": "mrk",
-        "chapter": "4",
-        "verse": "22",
-        "word_num": 24,
-        "word": "light",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "light",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "φανερόν = light",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +93,8 @@
     "targetWordsTxt": "well known",
     "alignmentTargetWords": 2,
     "alignmentTxt": "φανερὸν = well known",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,7 +147,8 @@
     "targetWordsTxt": "become visible",
     "alignmentTargetWords": 2,
     "alignmentTxt": "φανερὸν = become visible",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -233,7 +192,143 @@
     "targetWordsTxt": "visibility",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φανερὸν = visibility",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505661",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "13",
+    "alignment_num": "13",
+    "orig_lang_words": ",1487997,",
+    "target_lang_words": ",1277339,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487997,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "13",
+        "word_num": 10,
+        "word": "φανερὸν",
+        "occurrence": 1,
+        "strong": "G53180",
+        "lemma": "φανερός",
+        "morph": "Gr,NP,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "φανερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1277339,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "13",
+        "word_num": 17,
+        "word": "known",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "known",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "φανερὸν = known",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527327",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "13",
+    "alignment_num": "4",
+    "orig_lang_words": ",1510707,",
+    "target_lang_words": ",1308124,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510707,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 3,
+        "word": "φανερὸν",
+        "occurrence": 1,
+        "strong": "G53180",
+        "lemma": "φανερός",
+        "morph": "Gr,NP,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "φανερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308124,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "13",
+        "word_num": 7,
+        "word": "evident",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evident",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "φανερὸν = evident",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "460084",
+    "book_id": "mrk",
+    "chapter": "4",
+    "verse": "22",
+    "alignment_num": "14",
+    "orig_lang_words": ",1439931,",
+    "target_lang_words": ",1214536,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1439931,
+        "book_id": "mrk",
+        "chapter": "4",
+        "verse": "22",
+        "word_num": 15,
+        "word": "φανερόν",
+        "occurrence": 1,
+        "strong": "G53180",
+        "lemma": "φανερός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "φανερόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1214536,
+        "book_id": "mrk",
+        "chapter": "4",
+        "verse": "22",
+        "word_num": 24,
+        "word": "light",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "light",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "φανερόν = light",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,51 +390,8 @@
     "targetWordsTxt": "it is evident",
     "alignmentTargetWords": 3,
     "alignmentTxt": "φανερόν = it is evident",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505661",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "13",
-    "alignment_num": "13",
-    "orig_lang_words": ",1487997,",
-    "target_lang_words": ",1277339,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487997,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "13",
-        "word_num": 10,
-        "word": "φανερὸν",
-        "occurrence": 1,
-        "strong": "G53180",
-        "lemma": "φανερός",
-        "morph": "Gr,NP,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "φανερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1277339,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "13",
-        "word_num": 17,
-        "word": "known",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "known",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "φανερὸν = known",
-    "frequency": 0.11764705882352941,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -383,7 +435,8 @@
     "targetWordsTxt": "visible",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φανερόν = visible",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -478,7 +531,8 @@
     "targetWordsTxt": "is merely one outwardly",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐν τῷ φανερῷ = is merely one outwardly",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -564,51 +618,8 @@
     "targetWordsTxt": "is merely outward",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐν τῷ φανερῷ = is merely outward",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "527327",
-    "book_id": "1co",
-    "chapter": "3",
-    "verse": "13",
-    "alignment_num": "4",
-    "orig_lang_words": ",1510707,",
-    "target_lang_words": ",1308124,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510707,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "13",
-        "word_num": 3,
-        "word": "φανερὸν",
-        "occurrence": 1,
-        "strong": "G53180",
-        "lemma": "φανερός",
-        "morph": "Gr,NP,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "φανερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1308124,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "13",
-        "word_num": 7,
-        "word": "evident",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evident",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "φανερὸν = evident",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -652,7 +663,8 @@
     "targetWordsTxt": "evident",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φανεροὶ = evident",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -696,7 +708,8 @@
     "targetWordsTxt": "revealed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φανερὰ = revealed",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -740,60 +753,8 @@
     "targetWordsTxt": "evident",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φανερὰ = evident",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542122",
-    "book_id": "php",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "6",
-    "orig_lang_words": ",1525878,",
-    "target_lang_words": ",1329601,1329602,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525878,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 4,
-        "word": "φανεροὺς",
-        "occurrence": 1,
-        "strong": "G53180",
-        "lemma": "φανερός",
-        "morph": "Gr,NP,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "φανεροὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1329601,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 8,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1329602,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 9,
-        "word": "light",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to light",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "φανεροὺς = to light",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -855,7 +816,62 @@
     "targetWordsTxt": "may be evident",
     "alignmentTargetWords": 3,
     "alignmentTxt": "φανερὰ = may be evident",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542122",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "6",
+    "orig_lang_words": ",1525878,",
+    "target_lang_words": ",1329601,1329602,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525878,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 4,
+        "word": "φανεροὺς",
+        "occurrence": 1,
+        "strong": "G53180",
+        "lemma": "φανερός",
+        "morph": "Gr,NP,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "φανεροὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1329601,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 8,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1329602,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 9,
+        "word": "light",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to light",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "φανεροὺς = to light",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -899,7 +915,8 @@
     "targetWordsTxt": "revealed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φανερά = revealed",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

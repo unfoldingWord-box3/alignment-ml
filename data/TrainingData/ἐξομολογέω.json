@@ -39,7 +39,53 @@
     "targetWordsTxt": "confessing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐξομολογούμενοι = confessing",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513966",
+    "book_id": "act",
+    "chapter": "19",
+    "verse": "18",
+    "alignment_num": "5",
+    "orig_lang_words": ",1496541,",
+    "target_lang_words": ",1288521,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1496541,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "18",
+        "word_num": 5,
+        "word": "ἐξομολογούμενοι",
+        "occurrence": 1,
+        "strong": "G18430",
+        "lemma": "ἐξομολογέω",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἐξομολογούμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1288521,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "18",
+        "word_num": 7,
+        "word": "confessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "confessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐξομολογούμενοι = confessing",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +138,8 @@
     "targetWordsTxt": "I praise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐξομολογοῦμαί = I praise",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,51 +192,8 @@
     "targetWordsTxt": "he agreed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐξωμολόγησεν = he agreed",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513966",
-    "book_id": "act",
-    "chapter": "19",
-    "verse": "18",
-    "alignment_num": "5",
-    "orig_lang_words": ",1496541,",
-    "target_lang_words": ",1288521,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1496541,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "18",
-        "word_num": 5,
-        "word": "ἐξομολογούμενοι",
-        "occurrence": 1,
-        "strong": "G18430",
-        "lemma": "ἐξομολογέω",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἐξομολογούμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1288521,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "18",
-        "word_num": 7,
-        "word": "confessing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "confessing",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐξομολογούμενοι = confessing",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,7 +246,8 @@
     "targetWordsTxt": "will confess",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐξομολογήσεται = will confess",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -313,7 +318,8 @@
     "targetWordsTxt": "I will give praise",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐξομολογήσομαί = I will give praise",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -366,7 +372,8 @@
     "targetWordsTxt": "should confess",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐξομολογήσηται = should confess",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -410,7 +417,8 @@
     "targetWordsTxt": "confess",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐξομολογεῖσθε = confess",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

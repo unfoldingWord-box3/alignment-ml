@@ -39,7 +39,53 @@
     "targetWordsTxt": "seeds",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπερμάτων = seeds",
-    "frequency": 0.05555555555555555,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532413",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "38",
+    "alignment_num": "9",
+    "orig_lang_words": ",1515930,",
+    "target_lang_words": ",1315719,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515930,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "38",
+        "word_num": 11,
+        "word": "σπερμάτων",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "σπερμάτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1315719,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "38",
+        "word_num": 15,
+        "word": "seeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "seeds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπερμάτων = seeds",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +129,8 @@
     "targetWordsTxt": "offspring",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπέρμα = offspring",
-    "frequency": 0.1388888888888889,
+    "frequency": 0.2777777777777778,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,7 +174,8 @@
     "targetWordsTxt": "offspring",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπέρμα = offspring",
-    "frequency": 0.1388888888888889,
+    "frequency": 0.2777777777777778,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -171,7 +219,8 @@
     "targetWordsTxt": "offspring",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπέρμα = offspring",
-    "frequency": 0.1388888888888889,
+    "frequency": 0.2777777777777778,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -215,51 +264,8 @@
     "targetWordsTxt": "offspring",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπέρμα = offspring",
-    "frequency": 0.1388888888888889,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469233",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "55",
-    "alignment_num": "10",
-    "orig_lang_words": ",1449924,",
-    "target_lang_words": ",1227813,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1449924,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "55",
-        "word_num": 10,
-        "word": "σπέρματι",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1227813,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "55",
-        "word_num": 11,
-        "word": "seed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "seed",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρματι = seed",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.2777777777777778,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -303,51 +309,8 @@
     "targetWordsTxt": "offspring",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπέρμα = offspring",
-    "frequency": 0.1388888888888889,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492721",
-    "book_id": "jhn",
-    "chapter": "7",
-    "verse": "42",
-    "alignment_num": "11",
-    "orig_lang_words": ",1474141,",
-    "target_lang_words": ",1259602,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1474141,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "42",
-        "word_num": 7,
-        "word": "σπέρματος",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1259602,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "42",
-        "word_num": 12,
-        "word": "descendants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "descendants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρματος = descendants",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.2777777777777778,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -391,7 +354,8 @@
     "targetWordsTxt": "descendants",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπέρμα = descendants",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -435,107 +399,8 @@
     "targetWordsTxt": "descendants",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπέρμα = descendants",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503676",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "25",
-    "alignment_num": "23",
-    "orig_lang_words": ",1485968,1485969,",
-    "target_lang_words": ",1274716,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1485968,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 22,
-        "word": "τῷ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1485969,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 23,
-        "word": "σπέρματί",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ σπέρματί",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274716,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 23,
-        "word": "seed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "seed",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ σπέρματί = seed",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505503",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "5",
-    "alignment_num": "21",
-    "orig_lang_words": ",1487835,",
-    "target_lang_words": ",1277128,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487835,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "5",
-        "word_num": 19,
-        "word": "σπέρματι",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1277128,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "5",
-        "word_num": 31,
-        "word": "descendants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "descendants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρματι = descendants",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.5,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -591,128 +456,578 @@
     "targetWordsTxt": "descendants",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ σπέρμα = descendants",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.1111111111111111,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "510180",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "23",
-    "alignment_num": "2",
-    "orig_lang_words": ",1492637,1492638,",
-    "target_lang_words": ",1283429,",
+    "id": "521462",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "18",
+    "alignment_num": "18",
+    "orig_lang_words": ",1504355,1504356,",
+    "target_lang_words": ",1299287,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1492637,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "23",
-        "word_num": 4,
-        "word": "τοῦ",
-        "occurrence": 1,
+        "id": 1504355,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 18,
+        "word": "τὸ",
+        "occurrence": 3,
         "strong": "G35880",
         "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GNS,"
+        "morph": "Gr,EA,,,,NNS,"
       },
       {
-        "id": 1492638,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "23",
-        "word_num": 5,
-        "word": "σπέρματος",
+        "id": 1504356,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 19,
+        "word": "σπέρμα",
         "occurrence": 1,
         "strong": "G46900",
         "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,GNS,"
+        "morph": "Gr,N,,,,,NNS,"
       }
     ],
-    "origWordsTxt": "τοῦ σπέρματος",
+    "origWordsTxt": "τὸ σπέρμα",
     "alignmentOrigWords": 2,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1283429,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "23",
-        "word_num": 2,
+        "id": 1299287,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 25,
         "word": "descendants",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "descendants",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ σπέρματος = descendants",
-    "frequency": 0.027777777777777776,
+    "alignmentTxt": "τὸ σπέρμα = descendants",
+    "frequency": 0.1111111111111111,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "519930",
+    "id": "523432",
     "book_id": "rom",
-    "chapter": "1",
-    "verse": "3",
+    "chapter": "9",
+    "verse": "7",
     "alignment_num": "4",
-    "orig_lang_words": ",1502654,1502655,",
-    "target_lang_words": ",1296854,1296855,",
-    "origSpan": 1,
+    "orig_lang_words": ",1506476,",
+    "target_lang_words": ",1302258,",
+    "origSpan": 0,
     "origWords": [
       {
-        "id": 1502654,
+        "id": 1506476,
         "book_id": "rom",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 6,
-        "word": "ἐκ",
-        "occurrence": 1,
-        "strong": "G15370",
-        "lemma": "ἐκ",
-        "morph": "Gr,P,,,,,G,,,"
-      },
-      {
-        "id": 1502655,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 7,
-        "word": "σπέρματος",
+        "chapter": "9",
+        "verse": "7",
+        "word_num": 3,
+        "word": "σπέρμα",
         "occurrence": 1,
         "strong": "G46900",
         "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,GNS,"
+        "morph": "Gr,N,,,,,NNS,"
       }
     ],
-    "origWordsTxt": "ἐκ σπέρματος",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
+    "origWordsTxt": "σπέρμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1296854,
+        "id": 1302258,
         "book_id": "rom",
-        "chapter": "1",
-        "verse": "3",
+        "chapter": "9",
+        "verse": "7",
         "word_num": 5,
-        "word": "a",
+        "word": "descendants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "descendants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπέρμα = descendants",
+    "frequency": 0.5,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523438",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "7",
+    "alignment_num": "10",
+    "orig_lang_words": ",1506485,",
+    "target_lang_words": ",1302269,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506485,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "7",
+        "word_num": 12,
+        "word": "σπέρμα",
+        "occurrence": 2,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1302269,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "7",
+        "word_num": 16,
+        "word": "descendants",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "descendants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπέρμα = descendants",
+    "frequency": 0.5,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523457",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "8",
+    "alignment_num": "17",
+    "orig_lang_words": ",1506504,",
+    "target_lang_words": ",1302295,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506504,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "8",
+        "word_num": 18,
+        "word": "σπέρμα",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "σπέρμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1302295,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "8",
+        "word_num": 22,
+        "word": "descendants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "descendants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπέρμα = descendants",
+    "frequency": 0.5,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523752",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "29",
+    "alignment_num": "10",
+    "orig_lang_words": ",1506828,",
+    "target_lang_words": ",1302776,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506828,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "29",
+        "word_num": 10,
+        "word": "σπέρμα",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "σπέρμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1302776,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "29",
+        "word_num": 14,
+        "word": "descendants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "descendants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπέρμα = descendants",
+    "frequency": 0.5,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536587",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "22",
+    "alignment_num": "7",
+    "orig_lang_words": ",1520233,",
+    "target_lang_words": ",1321716,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520233,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 6,
+        "word": "σπέρμα",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1321716,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 14,
+        "word": "descendants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "descendants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπέρμα = descendants",
+    "frequency": 0.5,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538396",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "19",
+    "alignment_num": "9",
+    "orig_lang_words": ",1522092,",
+    "target_lang_words": ",1324501,1324502,1324503,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522092,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 12,
+        "word": "σπέρμα",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1324501,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 16,
+        "word": "descendant",
         "occurrence": 1
       },
       {
-        "id": 1296855,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 6,
-        "word": "descendant",
+        "id": 1324502,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 17,
+        "word": "of",
+        "occurrence": 3
+      },
+      {
+        "id": 1324503,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 18,
+        "word": "Abraham",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "a descendant",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐκ σπέρματος = a descendant",
+    "targetWordsTxt": "descendant of Abraham",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "σπέρμα = descendant of Abraham",
     "frequency": 0.05555555555555555,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538527",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "29",
+    "alignment_num": "7",
+    "orig_lang_words": ",1522235,",
+    "target_lang_words": ",1324708,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522235,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "29",
+        "word_num": 7,
+        "word": "σπέρμα",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1324708,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "29",
+        "word_num": 11,
+        "word": "descendants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "descendants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπέρμα = descendants",
+    "frequency": 0.5,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554556",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "18",
+    "alignment_num": "6",
+    "orig_lang_words": ",1538787,",
+    "target_lang_words": ",1347731,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538787,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "18",
+        "word_num": 8,
+        "word": "σπέρμα",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1347731,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "18",
+        "word_num": 9,
+        "word": "descendants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "descendants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπέρμα = descendants",
+    "frequency": 0.5,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560800",
+    "book_id": "1jn",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "9",
+    "orig_lang_words": ",1545427,",
+    "target_lang_words": ",1357243,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545427,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 10,
+        "word": "σπέρμα",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1357243,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 15,
+        "word": "seed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "seed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπέρμα = seed",
+    "frequency": 0.05555555555555555,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469233",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "55",
+    "alignment_num": "10",
+    "orig_lang_words": ",1449924,",
+    "target_lang_words": ",1227813,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449924,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "55",
+        "word_num": 10,
+        "word": "σπέρματι",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1227813,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "55",
+        "word_num": 11,
+        "word": "seed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "seed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπέρματι = seed",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505503",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "5",
+    "alignment_num": "21",
+    "orig_lang_words": ",1487835,",
+    "target_lang_words": ",1277128,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487835,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "5",
+        "word_num": 19,
+        "word": "σπέρματι",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1277128,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "5",
+        "word_num": 31,
+        "word": "descendants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "descendants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σπέρματι = descendants",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -768,7 +1083,8 @@
     "targetWordsTxt": "to",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῷ σπέρματι = to",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -851,239 +1167,233 @@
     "targetWordsTxt": "of Abraham's descendants",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τῷ σπέρματι = of Abraham's descendants",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "521462",
-    "book_id": "rom",
-    "chapter": "4",
-    "verse": "18",
-    "alignment_num": "18",
-    "orig_lang_words": ",1504355,1504356,",
-    "target_lang_words": ",1299287,",
+    "id": "538332",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "16",
+    "alignment_num": "7",
+    "orig_lang_words": ",1522018,1522019,",
+    "target_lang_words": ",1324408,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1504355,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 18,
-        "word": "τὸ",
-        "occurrence": 3,
+        "id": 1522018,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 7,
+        "word": "τῷ",
+        "occurrence": 2,
         "strong": "G35880",
         "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNS,"
+        "morph": "Gr,EA,,,,DNS,"
       },
       {
-        "id": 1504356,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 19,
-        "word": "σπέρμα",
+        "id": 1522019,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 8,
+        "word": "σπέρματι",
         "occurrence": 1,
         "strong": "G46900",
         "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,NNS,"
+        "morph": "Gr,N,,,,,DNS,"
       }
     ],
-    "origWordsTxt": "τὸ σπέρμα",
+    "origWordsTxt": "τῷ σπέρματι",
     "alignmentOrigWords": 2,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1299287,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 25,
-        "word": "descendants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "descendants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ σπέρμα = descendants",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523432",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "7",
-    "alignment_num": "4",
-    "orig_lang_words": ",1506476,",
-    "target_lang_words": ",1302258,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1506476,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "7",
-        "word_num": 3,
-        "word": "σπέρμα",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1302258,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "7",
-        "word_num": 5,
-        "word": "descendants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "descendants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρμα = descendants",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523438",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "7",
-    "alignment_num": "10",
-    "orig_lang_words": ",1506485,",
-    "target_lang_words": ",1302269,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1506485,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "7",
-        "word_num": 12,
-        "word": "σπέρμα",
-        "occurrence": 2,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1302269,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "7",
-        "word_num": 16,
-        "word": "descendants",
+        "id": 1324408,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 8,
+        "word": "to",
         "occurrence": 2
       }
     ],
-    "targetWordsTxt": "descendants",
+    "targetWordsTxt": "to",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρμα = descendants",
-    "frequency": 0.25,
+    "alignmentTxt": "τῷ σπέρματι = to",
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "523457",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "8",
-    "alignment_num": "17",
-    "orig_lang_words": ",1506504,",
-    "target_lang_words": ",1302295,",
+    "id": "492721",
+    "book_id": "jhn",
+    "chapter": "7",
+    "verse": "42",
+    "alignment_num": "11",
+    "orig_lang_words": ",1474141,",
+    "target_lang_words": ",1259602,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1506504,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "8",
-        "word_num": 18,
-        "word": "σπέρμα",
+        "id": 1474141,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "42",
+        "word_num": 7,
+        "word": "σπέρματος",
         "occurrence": 1,
         "strong": "G46900",
         "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,ANS,"
+        "morph": "Gr,N,,,,,GNS,"
       }
     ],
-    "origWordsTxt": "σπέρμα",
+    "origWordsTxt": "σπέρματος",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1302295,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "8",
-        "word_num": 22,
+        "id": 1259602,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "42",
+        "word_num": 12,
         "word": "descendants",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "descendants",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρμα = descendants",
-    "frequency": 0.25,
+    "alignmentTxt": "σπέρματος = descendants",
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "523752",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "29",
-    "alignment_num": "10",
-    "orig_lang_words": ",1506828,",
-    "target_lang_words": ",1302776,",
-    "origSpan": 0,
+    "id": "510180",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "23",
+    "alignment_num": "2",
+    "orig_lang_words": ",1492637,1492638,",
+    "target_lang_words": ",1283429,",
+    "origSpan": 1,
     "origWords": [
       {
-        "id": 1506828,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "29",
-        "word_num": 10,
-        "word": "σπέρμα",
+        "id": 1492637,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 4,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNS,"
+      },
+      {
+        "id": 1492638,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 5,
+        "word": "σπέρματος",
         "occurrence": 1,
         "strong": "G46900",
         "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,ANS,"
+        "morph": "Gr,N,,,,,GNS,"
       }
     ],
-    "origWordsTxt": "σπέρμα",
-    "alignmentOrigWords": 1,
+    "origWordsTxt": "τοῦ σπέρματος",
+    "alignmentOrigWords": 2,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1302776,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "29",
-        "word_num": 14,
+        "id": 1283429,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 2,
         "word": "descendants",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "descendants",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρμα = descendants",
+    "alignmentTxt": "τοῦ σπέρματος = descendants",
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519930",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "4",
+    "orig_lang_words": ",1502654,1502655,",
+    "target_lang_words": ",1296854,1296855,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1502654,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 6,
+        "word": "ἐκ",
+        "occurrence": 1,
+        "strong": "G15370",
+        "lemma": "ἐκ",
+        "morph": "Gr,P,,,,,G,,,"
+      },
+      {
+        "id": 1502655,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 7,
+        "word": "σπέρματος",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἐκ σπέρματος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1296854,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 5,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1296855,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 6,
+        "word": "descendant",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a descendant",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐκ σπέρματος = a descendant",
     "frequency": 0.25,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1148,151 +1458,350 @@
     "targetWordsTxt": "a descendant",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐκ σπέρματος = a descendant",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532413",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "38",
-    "alignment_num": "9",
-    "orig_lang_words": ",1515930,",
-    "target_lang_words": ",1315719,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515930,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "38",
-        "word_num": 11,
-        "word": "σπερμάτων",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "σπερμάτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1315719,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "38",
-        "word_num": 15,
-        "word": "seeds",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "seeds",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπερμάτων = seeds",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536587",
-    "book_id": "2co",
-    "chapter": "11",
-    "verse": "22",
-    "alignment_num": "7",
-    "orig_lang_words": ",1520233,",
-    "target_lang_words": ",1321716,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520233,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "22",
-        "word_num": 6,
-        "word": "σπέρμα",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1321716,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "22",
-        "word_num": 14,
-        "word": "descendants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "descendants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρμα = descendants",
     "frequency": 0.25,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "538332",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "16",
+    "id": "549171",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "8",
     "alignment_num": "7",
-    "orig_lang_words": ",1522018,1522019,",
-    "target_lang_words": ",1324408,",
+    "orig_lang_words": ",1533185,",
+    "target_lang_words": ",1339715,1339716,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533185,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 7,
+        "word": "σπέρματος",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1339715,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 8,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1339716,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 9,
+        "word": "seed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the seed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σπέρματος = the seed",
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551472",
+    "book_id": "heb",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "6",
+    "orig_lang_words": ",1535547,",
+    "target_lang_words": ",1343028,1343029,1343030,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535547,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 6,
+        "word": "σπέρματος",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1343028,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 15,
+        "word": "with",
+        "occurrence": 2
+      },
+      {
+        "id": 1343029,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 16,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1343030,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 17,
+        "word": "seed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "with the seed",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "σπέρματος = with the seed",
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554444",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "11",
+    "alignment_num": "8",
+    "orig_lang_words": ",1538662,",
+    "target_lang_words": ",1347549,1347550,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538662,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "11",
+        "word_num": 7,
+        "word": "σπέρματος",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "σπέρματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1347549,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "11",
+        "word_num": 9,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1347550,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "11",
+        "word_num": 10,
+        "word": "child",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a child",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σπέρματος = a child",
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567266",
+    "book_id": "rev",
+    "chapter": "12",
+    "verse": "17",
+    "alignment_num": "14",
+    "orig_lang_words": ",1552613,1552614,",
+    "target_lang_words": ",1366235,",
     "origSpan": 1,
     "origWords": [
       {
-        "id": 1522018,
-        "book_id": "gal",
+        "id": 1552613,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 14,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNS,"
+      },
+      {
+        "id": 1552614,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 15,
+        "word": "σπέρματος",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ σπέρματος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366235,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 17,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ σπέρματος = of",
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503676",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "25",
+    "alignment_num": "23",
+    "orig_lang_words": ",1485968,1485969,",
+    "target_lang_words": ",1274716,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1485968,
+        "book_id": "act",
         "chapter": "3",
-        "verse": "16",
-        "word_num": 7,
+        "verse": "25",
+        "word_num": 22,
         "word": "τῷ",
-        "occurrence": 2,
+        "occurrence": 1,
         "strong": "G35880",
         "lemma": "ὁ",
         "morph": "Gr,EA,,,,DNS,"
       },
       {
-        "id": 1522019,
-        "book_id": "gal",
+        "id": 1485969,
+        "book_id": "act",
         "chapter": "3",
-        "verse": "16",
-        "word_num": 8,
-        "word": "σπέρματι",
+        "verse": "25",
+        "word_num": 23,
+        "word": "σπέρματί",
         "occurrence": 1,
         "strong": "G46900",
         "lemma": "σπέρμα",
         "morph": "Gr,N,,,,,DNS,"
       }
     ],
-    "origWordsTxt": "τῷ σπέρματι",
+    "origWordsTxt": "τῷ σπέρματί",
     "alignmentOrigWords": 2,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1324408,
+        "id": 1274716,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 23,
+        "word": "seed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "seed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῷ σπέρματί = seed",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538345",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "16",
+    "alignment_num": "20",
+    "orig_lang_words": ",1522034,1522035,",
+    "target_lang_words": ",1324426,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1522034,
         "book_id": "gal",
         "chapter": "3",
         "verse": "16",
-        "word_num": 8,
+        "word_num": 23,
+        "word": "τῷ",
+        "occurrence": 3,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1522035,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 24,
+        "word": "σπέρματί",
+        "occurrence": 1,
+        "strong": "G46900",
+        "lemma": "σπέρμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ σπέρματί",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1324426,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 26,
         "word": "to",
-        "occurrence": 2
+        "occurrence": 6
       }
     ],
     "targetWordsTxt": "to",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ σπέρματι = to",
-    "frequency": 0.05555555555555555,
+    "alignmentTxt": "τῷ σπέρματί = to",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1357,481 +1866,8 @@
     "targetWordsTxt": "to descendants",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῖς σπέρμασιν = to descendants",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538345",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "16",
-    "alignment_num": "20",
-    "orig_lang_words": ",1522034,1522035,",
-    "target_lang_words": ",1324426,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1522034,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 23,
-        "word": "τῷ",
-        "occurrence": 3,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1522035,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 24,
-        "word": "σπέρματί",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ σπέρματί",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1324426,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 26,
-        "word": "to",
-        "occurrence": 6
-      }
-    ],
-    "targetWordsTxt": "to",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ σπέρματί = to",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538396",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "19",
-    "alignment_num": "9",
-    "orig_lang_words": ",1522092,",
-    "target_lang_words": ",1324501,1324502,1324503,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522092,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 12,
-        "word": "σπέρμα",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1324501,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 16,
-        "word": "descendant",
-        "occurrence": 1
-      },
-      {
-        "id": 1324502,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 17,
-        "word": "of",
-        "occurrence": 3
-      },
-      {
-        "id": 1324503,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 18,
-        "word": "Abraham",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "descendant of Abraham",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "σπέρμα = descendant of Abraham",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538527",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "29",
-    "alignment_num": "7",
-    "orig_lang_words": ",1522235,",
-    "target_lang_words": ",1324708,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522235,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "29",
-        "word_num": 7,
-        "word": "σπέρμα",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1324708,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "29",
-        "word_num": 11,
-        "word": "descendants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "descendants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρμα = descendants",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549171",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "8",
-    "alignment_num": "7",
-    "orig_lang_words": ",1533185,",
-    "target_lang_words": ",1339715,1339716,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533185,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 7,
-        "word": "σπέρματος",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1339715,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 8,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1339716,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 9,
-        "word": "seed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the seed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "σπέρματος = the seed",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551472",
-    "book_id": "heb",
-    "chapter": "2",
-    "verse": "16",
-    "alignment_num": "6",
-    "orig_lang_words": ",1535547,",
-    "target_lang_words": ",1343028,1343029,1343030,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535547,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 6,
-        "word": "σπέρματος",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1343028,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 15,
-        "word": "with",
-        "occurrence": 2
-      },
-      {
-        "id": 1343029,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 16,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1343030,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 17,
-        "word": "seed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "with the seed",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "σπέρματος = with the seed",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554444",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "11",
-    "alignment_num": "8",
-    "orig_lang_words": ",1538662,",
-    "target_lang_words": ",1347549,1347550,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538662,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "11",
-        "word_num": 7,
-        "word": "σπέρματος",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1347549,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "11",
-        "word_num": 9,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1347550,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "11",
-        "word_num": 10,
-        "word": "child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a child",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "σπέρματος = a child",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554556",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "18",
-    "alignment_num": "6",
-    "orig_lang_words": ",1538787,",
-    "target_lang_words": ",1347731,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538787,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "18",
-        "word_num": 8,
-        "word": "σπέρμα",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1347731,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "18",
-        "word_num": 9,
-        "word": "descendants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "descendants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρμα = descendants",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "560800",
-    "book_id": "1jn",
-    "chapter": "3",
-    "verse": "9",
-    "alignment_num": "9",
-    "orig_lang_words": ",1545427,",
-    "target_lang_words": ",1357243,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1545427,
-        "book_id": "1jn",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 10,
-        "word": "σπέρμα",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "σπέρμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1357243,
-        "book_id": "1jn",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 15,
-        "word": "seed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "seed",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σπέρμα = seed",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567266",
-    "book_id": "rev",
-    "chapter": "12",
-    "verse": "17",
-    "alignment_num": "14",
-    "orig_lang_words": ",1552613,1552614,",
-    "target_lang_words": ",1366235,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1552613,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 14,
-        "word": "τοῦ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GNS,"
-      },
-      {
-        "id": 1552614,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 15,
-        "word": "σπέρματος",
-        "occurrence": 1,
-        "strong": "G46900",
-        "lemma": "σπέρμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "τοῦ σπέρματος",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366235,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 17,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ σπέρματος = of",
-    "frequency": 0.027777777777777776,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

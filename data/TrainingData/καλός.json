@@ -51,7 +51,53 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν καλήν = good",
-    "frequency": 0.0125,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557908",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "12",
+    "alignment_num": "2",
+    "orig_lang_words": ",1542286,",
+    "target_lang_words": ",1352718,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542286,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 7,
+        "word": "καλήν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NS,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "καλήν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352718,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 3,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλήν = good",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -107,7 +153,278 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν καλὴν = good",
-    "frequency": 0.0125,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547426",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "18",
+    "alignment_num": "17",
+    "orig_lang_words": ",1531471,",
+    "target_lang_words": ",1337265,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531471,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 18,
+        "word": "καλὴν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "καλὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337265,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 26,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὴν = good",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547717",
+    "book_id": "1ti",
+    "chapter": "3",
+    "verse": "7",
+    "alignment_num": "4",
+    "orig_lang_words": ",1531756,",
+    "target_lang_words": ",1337681,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531756,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 4,
+        "word": "καλὴν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "καλὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337681,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 5,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὴν = good",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548624",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "12",
+    "alignment_num": "18",
+    "orig_lang_words": ",1532639,",
+    "target_lang_words": ",1338962,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532639,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 16,
+        "word": "καλὴν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "καλὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338962,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 24,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὴν = good",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548643",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "13",
+    "alignment_num": "14",
+    "orig_lang_words": ",1532662,",
+    "target_lang_words": ",1338987,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532662,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 18,
+        "word": "καλὴν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "καλὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338987,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 20,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὴν = good",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549007",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "14",
+    "alignment_num": "1",
+    "orig_lang_words": ",1533030,",
+    "target_lang_words": ",1339491,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533030,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 1,
+        "word": "καλὴν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "καλὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339491,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 1,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὴν = good",
+    "frequency": 0.7142857142857143,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555589",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "18",
+    "alignment_num": "8",
+    "orig_lang_words": ",1539841,",
+    "target_lang_words": ",1349288,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539841,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 6,
+        "word": "καλὴν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "καλὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349288,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 11,
+        "word": "clean",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "clean",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὴν = clean",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -151,7 +468,8 @@
     "targetWordsTxt": "right",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλόν = right",
-    "frequency": 0.0125,
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -195,7 +513,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλόν = good",
-    "frequency": 0.0375,
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -239,7 +558,8 @@
     "targetWordsTxt": "better",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλόν = better",
-    "frequency": 0.05,
+    "frequency": 0.4444444444444444,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -283,7 +603,8 @@
     "targetWordsTxt": "better",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλόν = better",
-    "frequency": 0.05,
+    "frequency": 0.4444444444444444,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -327,7 +648,8 @@
     "targetWordsTxt": "better",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλόν = better",
-    "frequency": 0.05,
+    "frequency": 0.4444444444444444,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -371,7 +693,152 @@
     "targetWordsTxt": "better",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλόν = better",
-    "frequency": 0.05,
+    "frequency": 0.4444444444444444,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473216",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "43",
+    "alignment_num": "14",
+    "orig_lang_words": ",1454002,",
+    "target_lang_words": ",1233172,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1454002,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "43",
+        "word_num": 14,
+        "word": "καλόν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "καλόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1233172,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "43",
+        "word_num": 20,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλόν = good",
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "475927",
+    "book_id": "luk",
+    "chapter": "9",
+    "verse": "33",
+    "alignment_num": "13",
+    "orig_lang_words": ",1456726,",
+    "target_lang_words": ",1236852,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1456726,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "33",
+        "word_num": 15,
+        "word": "καλόν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NP,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "καλόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1236852,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "33",
+        "word_num": 18,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλόν = good",
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547909",
+    "book_id": "1ti",
+    "chapter": "4",
+    "verse": "4",
+    "alignment_num": "4",
+    "orig_lang_words": ",1531940,",
+    "target_lang_words": ",1337942,1337943,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531940,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 4,
+        "word": "καλόν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NP,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "καλόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1337942,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 5,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1337943,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 6,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is good",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καλόν = is good",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -424,7 +891,8 @@
     "targetWordsTxt": "is good",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καλὸν = is good",
-    "frequency": 0.05,
+    "frequency": 0.12903225806451613,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -468,7 +936,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -512,7 +981,8 @@
     "targetWordsTxt": "better",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = better",
-    "frequency": 0.0125,
+    "frequency": 0.03225806451612903,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -556,7 +1026,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -600,7 +1071,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -644,183 +1116,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473216",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "43",
-    "alignment_num": "14",
-    "orig_lang_words": ",1454002,",
-    "target_lang_words": ",1233172,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454002,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "43",
-        "word_num": 14,
-        "word": "καλόν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "καλόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1233172,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "43",
-        "word_num": 20,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλόν = good",
-    "frequency": 0.0375,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "474520",
-    "book_id": "luk",
-    "chapter": "8",
-    "verse": "15",
-    "alignment_num": "4",
-    "orig_lang_words": ",1455314,",
-    "target_lang_words": ",1234976,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1455314,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 4,
-        "word": "καλῇ",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "καλῇ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1234976,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 5,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλῇ = good",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "474530",
-    "book_id": "luk",
-    "chapter": "8",
-    "verse": "15",
-    "alignment_num": "14",
-    "orig_lang_words": ",1455321,",
-    "target_lang_words": ",1234989,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1455321,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 11,
-        "word": "καλῇ",
-        "occurrence": 2,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "καλῇ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1234989,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 18,
-        "word": "honest",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "honest",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλῇ = honest",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "475927",
-    "book_id": "luk",
-    "chapter": "9",
-    "verse": "33",
-    "alignment_num": "13",
-    "orig_lang_words": ",1456726,",
-    "target_lang_words": ",1236852,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1456726,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "33",
-        "word_num": 15,
-        "word": "καλόν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NP,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "καλόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1236852,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "33",
-        "word_num": 18,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλόν = good",
-    "frequency": 0.0375,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -873,51 +1170,8 @@
     "targetWordsTxt": "is good",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καλὸν = is good",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "484316",
-    "book_id": "luk",
-    "chapter": "21",
-    "verse": "5",
-    "alignment_num": "10",
-    "orig_lang_words": ",1465267,",
-    "target_lang_words": ",1248379,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1465267,
-        "book_id": "luk",
-        "chapter": "21",
-        "verse": "5",
-        "word_num": 8,
-        "word": "καλοῖς",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "καλοῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1248379,
-        "book_id": "luk",
-        "chapter": "21",
-        "verse": "5",
-        "word_num": 13,
-        "word": "beautiful",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "beautiful",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλοῖς = beautiful",
-    "frequency": 0.0125,
+    "frequency": 0.12903225806451613,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -961,7 +1215,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1005,369 +1260,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494512",
-    "book_id": "jhn",
-    "chapter": "10",
-    "verse": "11",
-    "alignment_num": "3",
-    "orig_lang_words": ",1476221,1476222,",
-    "target_lang_words": ",1262200,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1476221,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 4,
-        "word": "ὁ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1476222,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 5,
-        "word": "καλός",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AR,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ καλός",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1262200,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 3,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ καλός = good",
-    "frequency": 0.025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494515",
-    "book_id": "jhn",
-    "chapter": "10",
-    "verse": "11",
-    "alignment_num": "6",
-    "orig_lang_words": ",1476225,1476226,",
-    "target_lang_words": ",1262203,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1476225,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 8,
-        "word": "ὁ",
-        "occurrence": 4,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1476226,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 9,
-        "word": "καλὸς",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AR,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ καλὸς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1262203,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 6,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ καλὸς = good",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494566",
-    "book_id": "jhn",
-    "chapter": "10",
-    "verse": "14",
-    "alignment_num": "3",
-    "orig_lang_words": ",1476277,1476278,",
-    "target_lang_words": ",1262267,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1476277,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "14",
-        "word_num": 4,
-        "word": "ὁ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1476278,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "14",
-        "word_num": 5,
-        "word": "καλός",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AR,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ καλός",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1262267,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "14",
-        "word_num": 3,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ καλός = good",
-    "frequency": 0.025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494833",
-    "book_id": "jhn",
-    "chapter": "10",
-    "verse": "32",
-    "alignment_num": "6",
-    "orig_lang_words": ",1476564,",
-    "target_lang_words": ",1262620,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1476564,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "32",
-        "word_num": 6,
-        "word": "καλὰ",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "καλὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1262620,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "32",
-        "word_num": 8,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὰ = good",
-    "frequency": 0.025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494853",
-    "book_id": "jhn",
-    "chapter": "10",
-    "verse": "33",
-    "alignment_num": "9",
-    "orig_lang_words": ",1476581,",
-    "target_lang_words": ",1262644,1262645,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1476581,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "33",
-        "word_num": 5,
-        "word": "καλοῦ",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "καλοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1262644,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "33",
-        "word_num": 10,
-        "word": "any",
-        "occurrence": 1
-      },
-      {
-        "id": 1262645,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "33",
-        "word_num": 11,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "any good",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καλοῦ = any good",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "518694",
-    "book_id": "act",
-    "chapter": "27",
-    "verse": "8",
-    "alignment_num": "10",
-    "orig_lang_words": ",1501399,",
-    "target_lang_words": ",1295127,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1501399,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "8",
-        "word_num": 9,
-        "word": "Καλοὺς",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "Καλοὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1295127,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "8",
-        "word_num": 15,
-        "word": "Fair",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Fair",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Καλοὺς = Fair",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522552",
-    "book_id": "rom",
-    "chapter": "7",
-    "verse": "16",
-    "alignment_num": "12",
-    "orig_lang_words": ",1505559,",
-    "target_lang_words": ",1300934,1300935,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505559,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "16",
-        "word_num": 11,
-        "word": "καλός",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "καλός",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1300934,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "16",
-        "word_num": 18,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1300935,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "16",
-        "word_num": 19,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is good",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καλός = is good",
-    "frequency": 0.0125,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1411,7 +1305,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1464,60 +1359,8 @@
     "targetWordsTxt": "is good",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καλὸν = is good",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524873",
-    "book_id": "rom",
-    "chapter": "12",
-    "verse": "17",
-    "alignment_num": "6",
-    "orig_lang_words": ",1508054,",
-    "target_lang_words": ",1304505,1304506,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508054,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 6,
-        "word": "καλὰ",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "καλὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1304505,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 7,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1304506,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 8,
-        "word": "things",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good things",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καλὰ = good things",
-    "frequency": 0.0125,
+    "frequency": 0.12903225806451613,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1579,7 +1422,8 @@
     "targetWordsTxt": "It is good",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καλὸν = It is good",
-    "frequency": 0.025,
+    "frequency": 0.06451612903225806,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1623,7 +1467,8 @@
     "targetWordsTxt": "is",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = is",
-    "frequency": 0.0125,
+    "frequency": 0.03225806451612903,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1685,7 +1530,8 @@
     "targetWordsTxt": "It is good",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καλὸν = It is good",
-    "frequency": 0.025,
+    "frequency": 0.06451612903225806,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1747,7 +1593,8 @@
     "targetWordsTxt": "it is good",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καλὸν = it is good",
-    "frequency": 0.025,
+    "frequency": 0.06451612903225806,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1791,7 +1638,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1835,7 +1683,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1906,69 +1755,8 @@
     "targetWordsTxt": "it would be better",
     "alignmentTargetWords": 4,
     "alignmentTxt": "καλὸν = it would be better",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535610",
-    "book_id": "2co",
-    "chapter": "8",
-    "verse": "21",
-    "alignment_num": "2",
-    "orig_lang_words": ",1519231,",
-    "target_lang_words": ",1320293,1320294,1320295,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519231,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 2,
-        "word": "καλὰ",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "καλὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1320293,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 4,
-        "word": "what",
-        "occurrence": 1
-      },
-      {
-        "id": 1320294,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 5,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1320295,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 6,
-        "word": "right",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "what is right",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "καλὰ = what is right",
-    "frequency": 0.0125,
+    "frequency": 0.03225806451612903,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2021,7 +1809,8 @@
     "targetWordsTxt": "is right",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καλὸν = is right",
-    "frequency": 0.0125,
+    "frequency": 0.03225806451612903,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2074,69 +1863,8 @@
     "targetWordsTxt": "it is",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καλὸν = it is",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538760",
-    "book_id": "gal",
-    "chapter": "4",
-    "verse": "18",
-    "alignment_num": "6",
-    "orig_lang_words": ",1522474,",
-    "target_lang_words": ",1325097,1325098,1325099,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522474,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 4,
-        "word": "καλῷ",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NS,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "καλῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1325097,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 9,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1325098,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 10,
-        "word": "good",
-        "occurrence": 2
-      },
-      {
-        "id": 1325099,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 11,
-        "word": "purpose",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a good purpose",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "καλῷ = a good purpose",
-    "frequency": 0.0125,
+    "frequency": 0.03225806451612903,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2204,7 +1932,8 @@
     "targetWordsTxt": "But",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ δὲ καλὸν = But",
-    "frequency": 0.0125,
+    "frequency": 0.03225806451612903,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2266,104 +1995,8 @@
     "targetWordsTxt": "what is good",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καλὸν = what is good",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547252",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "8",
-    "alignment_num": "5",
-    "orig_lang_words": ",1531291,",
-    "target_lang_words": ",1337013,1337014,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531291,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 3,
-        "word": "καλὸς",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "καλὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1337013,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 6,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1337014,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 7,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is good",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καλὸς = is good",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547426",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "18",
-    "alignment_num": "17",
-    "orig_lang_words": ",1531471,",
-    "target_lang_words": ",1337265,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531471,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 18,
-        "word": "καλὴν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "καλὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337265,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 26,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὴν = good",
-    "frequency": 0.0625,
+    "frequency": 0.03225806451612903,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2416,95 +2049,8 @@
     "targetWordsTxt": "is good",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καλὸν = is good",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547650",
-    "book_id": "1ti",
-    "chapter": "3",
-    "verse": "1",
-    "alignment_num": "9",
-    "orig_lang_words": ",1531692,",
-    "target_lang_words": ",1337579,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531692,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 7,
-        "word": "καλοῦ",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "καλοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337579,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 14,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλοῦ = good",
-    "frequency": 0.025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547717",
-    "book_id": "1ti",
-    "chapter": "3",
-    "verse": "7",
-    "alignment_num": "4",
-    "orig_lang_words": ",1531756,",
-    "target_lang_words": ",1337681,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531756,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 4,
-        "word": "καλὴν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "καλὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337681,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 5,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὴν = good",
-    "frequency": 0.0625,
+    "frequency": 0.12903225806451613,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2548,248 +2094,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547909",
-    "book_id": "1ti",
-    "chapter": "4",
-    "verse": "4",
-    "alignment_num": "4",
-    "orig_lang_words": ",1531940,",
-    "target_lang_words": ",1337942,1337943,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531940,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "4",
-        "word_num": 4,
-        "word": "καλόν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NP,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "καλόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1337942,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "4",
-        "word_num": 5,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1337943,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "4",
-        "word_num": 6,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is good",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καλόν = is good",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547930",
-    "book_id": "1ti",
-    "chapter": "4",
-    "verse": "6",
-    "alignment_num": "7",
-    "orig_lang_words": ",1531958,",
-    "target_lang_words": ",1337977,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531958,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "6",
-        "word_num": 4,
-        "word": "καλὸς",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "καλὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337977,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "6",
-        "word_num": 11,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὸς = good",
-    "frequency": 0.025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547944",
-    "book_id": "1ti",
-    "chapter": "4",
-    "verse": "6",
-    "alignment_num": "21",
-    "orig_lang_words": ",1531970,",
-    "target_lang_words": ",1337993,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531970,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "6",
-        "word_num": 16,
-        "word": "καλῆς",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "καλῆς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337993,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "6",
-        "word_num": 27,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλῆς = good",
-    "frequency": 0.0125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548202",
-    "book_id": "1ti",
-    "chapter": "5",
-    "verse": "10",
-    "alignment_num": "1",
-    "orig_lang_words": ",1532222,",
-    "target_lang_words": ",1338350,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532222,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 2,
-        "word": "καλοῖς",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "καλοῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338350,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 2,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλοῖς = good",
-    "frequency": 0.025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548414",
-    "book_id": "1ti",
-    "chapter": "5",
-    "verse": "25",
-    "alignment_num": "1",
-    "orig_lang_words": ",1532431,1532432,",
-    "target_lang_words": ",1338668,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1532431,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "25",
-        "word_num": 4,
-        "word": "τὰ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNP,"
-      },
-      {
-        "id": 1532432,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "25",
-        "word_num": 5,
-        "word": "καλὰ",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AR,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "τὰ καλὰ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338668,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "25",
-        "word_num": 1,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ καλὰ = good",
-    "frequency": 0.0125,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2833,139 +2139,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548624",
-    "book_id": "1ti",
-    "chapter": "6",
-    "verse": "12",
-    "alignment_num": "18",
-    "orig_lang_words": ",1532639,",
-    "target_lang_words": ",1338962,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532639,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 16,
-        "word": "καλὴν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "καλὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338962,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 24,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὴν = good",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548643",
-    "book_id": "1ti",
-    "chapter": "6",
-    "verse": "13",
-    "alignment_num": "14",
-    "orig_lang_words": ",1532662,",
-    "target_lang_words": ",1338987,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532662,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 18,
-        "word": "καλὴν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "καλὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338987,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 20,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὴν = good",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548728",
-    "book_id": "1ti",
-    "chapter": "6",
-    "verse": "18",
-    "alignment_num": "3",
-    "orig_lang_words": ",1532743,",
-    "target_lang_words": ",1339097,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532743,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "18",
-        "word_num": 4,
-        "word": "καλοῖς",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "καλοῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339097,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "18",
-        "word_num": 9,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλοῖς = good",
-    "frequency": 0.025,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3009,95 +2184,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549007",
-    "book_id": "2ti",
-    "chapter": "1",
-    "verse": "14",
-    "alignment_num": "1",
-    "orig_lang_words": ",1533030,",
-    "target_lang_words": ",1339491,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533030,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 1,
-        "word": "καλὴν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "καλὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339491,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 1,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὴν = good",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549115",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "3",
-    "alignment_num": "3",
-    "orig_lang_words": ",1533133,",
-    "target_lang_words": ",1339632,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533133,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "3",
-        "word_num": 2,
-        "word": "καλὸς",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "καλὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339632,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "3",
-        "word_num": 6,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὸς = good",
-    "frequency": 0.025,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3141,271 +2229,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550305",
-    "book_id": "tit",
-    "chapter": "2",
-    "verse": "7",
-    "alignment_num": "6",
-    "orig_lang_words": ",1534334,",
-    "target_lang_words": ",1341330,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534334,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "7",
-        "word_num": 5,
-        "word": "καλῶν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "καλῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341330,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "7",
-        "word_num": 9,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλῶν = good",
-    "frequency": 0.075,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550419",
-    "book_id": "tit",
-    "chapter": "2",
-    "verse": "14",
-    "alignment_num": "19",
-    "orig_lang_words": ",1534445,",
-    "target_lang_words": ",1341488,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534445,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 17,
-        "word": "καλῶν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "καλῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341488,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 23,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλῶν = good",
-    "frequency": 0.075,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550552",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "16",
-    "orig_lang_words": ",1534571,",
-    "target_lang_words": ",1341670,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534571,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 11,
-        "word": "καλῶν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "καλῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341670,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 27,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλῶν = good",
-    "frequency": 0.075,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550556",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "20",
-    "orig_lang_words": ",1534579,",
-    "target_lang_words": ",1341675,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534579,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 19,
-        "word": "καλὰ",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NP,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "καλὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341675,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 32,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὰ = good",
-    "frequency": 0.025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550628",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "14",
-    "alignment_num": "6",
-    "orig_lang_words": ",1534650,",
-    "target_lang_words": ",1341773,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534650,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "14",
-        "word_num": 5,
-        "word": "καλῶν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "καλῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341773,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "14",
-        "word_num": 9,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλῶν = good",
-    "frequency": 0.075,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552263",
-    "book_id": "heb",
-    "chapter": "5",
-    "verse": "14",
-    "alignment_num": "15",
-    "orig_lang_words": ",1536382,",
-    "target_lang_words": ",1344228,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536382,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 16,
-        "word": "καλοῦ",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NS,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "καλοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344228,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 16,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλοῦ = good",
-    "frequency": 0.025,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3449,51 +2274,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554056",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "24",
-    "alignment_num": "7",
-    "orig_lang_words": ",1538257,",
-    "target_lang_words": ",1346937,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538257,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "24",
-        "word_num": 7,
-        "word": "καλῶν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "καλῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346937,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "24",
-        "word_num": 12,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλῶν = good",
-    "frequency": 0.075,
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3555,51 +2337,8 @@
     "targetWordsTxt": "it is good",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καλὸν = it is good",
-    "frequency": 0.025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555589",
-    "book_id": "heb",
-    "chapter": "13",
-    "verse": "18",
-    "alignment_num": "8",
-    "orig_lang_words": ",1539841,",
-    "target_lang_words": ",1349288,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539841,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 6,
-        "word": "καλὴν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "καλὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349288,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 11,
-        "word": "clean",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "clean",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὴν = clean",
-    "frequency": 0.0125,
+    "frequency": 0.06451612903225806,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3643,7 +2382,1208 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλὸν = good",
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556989",
+    "book_id": "jas",
+    "chapter": "4",
+    "verse": "17",
+    "alignment_num": "3",
+    "orig_lang_words": ",1541344,",
+    "target_lang_words": ",1351316,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541344,
+        "book_id": "jas",
+        "chapter": "4",
+        "verse": "17",
+        "word_num": 2,
+        "word": "καλὸν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "καλὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1351316,
+        "book_id": "jas",
+        "chapter": "4",
+        "verse": "17",
+        "word_num": 7,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὸν = good",
+    "frequency": 0.5161290322580645,
+    "matchCount": 16,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "474520",
+    "book_id": "luk",
+    "chapter": "8",
+    "verse": "15",
+    "alignment_num": "4",
+    "orig_lang_words": ",1455314,",
+    "target_lang_words": ",1234976,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1455314,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 4,
+        "word": "καλῇ",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "καλῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1234976,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 5,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλῇ = good",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "474530",
+    "book_id": "luk",
+    "chapter": "8",
+    "verse": "15",
+    "alignment_num": "14",
+    "orig_lang_words": ",1455321,",
+    "target_lang_words": ",1234989,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1455321,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 11,
+        "word": "καλῇ",
+        "occurrence": 2,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "καλῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1234989,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 18,
+        "word": "honest",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "honest",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλῇ = honest",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "484316",
+    "book_id": "luk",
+    "chapter": "21",
+    "verse": "5",
+    "alignment_num": "10",
+    "orig_lang_words": ",1465267,",
+    "target_lang_words": ",1248379,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1465267,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "5",
+        "word_num": 8,
+        "word": "καλοῖς",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "καλοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1248379,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "5",
+        "word_num": 13,
+        "word": "beautiful",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "beautiful",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλοῖς = beautiful",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548202",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "10",
+    "alignment_num": "1",
+    "orig_lang_words": ",1532222,",
+    "target_lang_words": ",1338350,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532222,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 2,
+        "word": "καλοῖς",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "καλοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338350,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 2,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλοῖς = good",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548728",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "18",
+    "alignment_num": "3",
+    "orig_lang_words": ",1532743,",
+    "target_lang_words": ",1339097,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532743,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 4,
+        "word": "καλοῖς",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "καλοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339097,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 9,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλοῖς = good",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494512",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "11",
+    "alignment_num": "3",
+    "orig_lang_words": ",1476221,1476222,",
+    "target_lang_words": ",1262200,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1476221,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 4,
+        "word": "ὁ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1476222,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 5,
+        "word": "καλός",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AR,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ καλός",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262200,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 3,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ καλός = good",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494566",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "14",
+    "alignment_num": "3",
+    "orig_lang_words": ",1476277,1476278,",
+    "target_lang_words": ",1262267,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1476277,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "14",
+        "word_num": 4,
+        "word": "ὁ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1476278,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "14",
+        "word_num": 5,
+        "word": "καλός",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AR,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ καλός",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262267,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "14",
+        "word_num": 3,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ καλός = good",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522552",
+    "book_id": "rom",
+    "chapter": "7",
+    "verse": "16",
+    "alignment_num": "12",
+    "orig_lang_words": ",1505559,",
+    "target_lang_words": ",1300934,1300935,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505559,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "16",
+        "word_num": 11,
+        "word": "καλός",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "καλός",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1300934,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "16",
+        "word_num": 18,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1300935,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "16",
+        "word_num": 19,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is good",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καλός = is good",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494515",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "11",
+    "alignment_num": "6",
+    "orig_lang_words": ",1476225,1476226,",
+    "target_lang_words": ",1262203,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1476225,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 8,
+        "word": "ὁ",
+        "occurrence": 4,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1476226,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 9,
+        "word": "καλὸς",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AR,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ καλὸς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262203,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 6,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ καλὸς = good",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547252",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "8",
+    "alignment_num": "5",
+    "orig_lang_words": ",1531291,",
+    "target_lang_words": ",1337013,1337014,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531291,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 3,
+        "word": "καλὸς",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "καλὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1337013,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 6,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1337014,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 7,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is good",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καλὸς = is good",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547930",
+    "book_id": "1ti",
+    "chapter": "4",
+    "verse": "6",
+    "alignment_num": "7",
+    "orig_lang_words": ",1531958,",
+    "target_lang_words": ",1337977,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531958,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 4,
+        "word": "καλὸς",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "καλὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337977,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 11,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὸς = good",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549115",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "3",
+    "alignment_num": "3",
+    "orig_lang_words": ",1533133,",
+    "target_lang_words": ",1339632,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533133,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "3",
+        "word_num": 2,
+        "word": "καλὸς",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "καλὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339632,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "3",
+        "word_num": 6,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὸς = good",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494833",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "32",
+    "alignment_num": "6",
+    "orig_lang_words": ",1476564,",
+    "target_lang_words": ",1262620,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476564,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 6,
+        "word": "καλὰ",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "καλὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262620,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "32",
+        "word_num": 8,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὰ = good",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524873",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "17",
+    "alignment_num": "6",
+    "orig_lang_words": ",1508054,",
+    "target_lang_words": ",1304505,1304506,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508054,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 6,
+        "word": "καλὰ",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "καλὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1304505,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 7,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1304506,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 8,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good things",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καλὰ = good things",
     "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535610",
+    "book_id": "2co",
+    "chapter": "8",
+    "verse": "21",
+    "alignment_num": "2",
+    "orig_lang_words": ",1519231,",
+    "target_lang_words": ",1320293,1320294,1320295,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519231,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 2,
+        "word": "καλὰ",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "καλὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1320293,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 4,
+        "word": "what",
+        "occurrence": 1
+      },
+      {
+        "id": 1320294,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 5,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1320295,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 6,
+        "word": "right",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "what is right",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "καλὰ = what is right",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548414",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "25",
+    "alignment_num": "1",
+    "orig_lang_words": ",1532431,1532432,",
+    "target_lang_words": ",1338668,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1532431,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "25",
+        "word_num": 4,
+        "word": "τὰ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1532432,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "25",
+        "word_num": 5,
+        "word": "καλὰ",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AR,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ καλὰ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338668,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "25",
+        "word_num": 1,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ καλὰ = good",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550556",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "20",
+    "orig_lang_words": ",1534579,",
+    "target_lang_words": ",1341675,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534579,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 19,
+        "word": "καλὰ",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NP,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "καλὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341675,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 32,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλὰ = good",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494853",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "33",
+    "alignment_num": "9",
+    "orig_lang_words": ",1476581,",
+    "target_lang_words": ",1262644,1262645,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476581,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "33",
+        "word_num": 5,
+        "word": "καλοῦ",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "καλοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1262644,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "33",
+        "word_num": 10,
+        "word": "any",
+        "occurrence": 1
+      },
+      {
+        "id": 1262645,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "33",
+        "word_num": 11,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "any good",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καλοῦ = any good",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547650",
+    "book_id": "1ti",
+    "chapter": "3",
+    "verse": "1",
+    "alignment_num": "9",
+    "orig_lang_words": ",1531692,",
+    "target_lang_words": ",1337579,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531692,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 7,
+        "word": "καλοῦ",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "καλοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337579,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 14,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλοῦ = good",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552263",
+    "book_id": "heb",
+    "chapter": "5",
+    "verse": "14",
+    "alignment_num": "15",
+    "orig_lang_words": ",1536382,",
+    "target_lang_words": ",1344228,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536382,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 16,
+        "word": "καλοῦ",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NS,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "καλοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344228,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 16,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλοῦ = good",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518694",
+    "book_id": "act",
+    "chapter": "27",
+    "verse": "8",
+    "alignment_num": "10",
+    "orig_lang_words": ",1501399,",
+    "target_lang_words": ",1295127,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501399,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "8",
+        "word_num": 9,
+        "word": "Καλοὺς",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "Καλοὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1295127,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "8",
+        "word_num": 15,
+        "word": "Fair",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Fair",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Καλοὺς = Fair",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538760",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "18",
+    "alignment_num": "6",
+    "orig_lang_words": ",1522474,",
+    "target_lang_words": ",1325097,1325098,1325099,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522474,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 4,
+        "word": "καλῷ",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,NS,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "καλῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1325097,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 9,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1325098,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 10,
+        "word": "good",
+        "occurrence": 2
+      },
+      {
+        "id": 1325099,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 11,
+        "word": "purpose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a good purpose",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "καλῷ = a good purpose",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547944",
+    "book_id": "1ti",
+    "chapter": "4",
+    "verse": "6",
+    "alignment_num": "21",
+    "orig_lang_words": ",1531970,",
+    "target_lang_words": ",1337993,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531970,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 16,
+        "word": "καλῆς",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "καλῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337993,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 27,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλῆς = good",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3708,95 +3648,233 @@
     "targetWordsTxt": "a good",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς καλῆς = a good",
-    "frequency": 0.0125,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "556989",
-    "book_id": "jas",
-    "chapter": "4",
-    "verse": "17",
-    "alignment_num": "3",
-    "orig_lang_words": ",1541344,",
-    "target_lang_words": ",1351316,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541344,
-        "book_id": "jas",
-        "chapter": "4",
-        "verse": "17",
-        "word_num": 2,
-        "word": "καλὸν",
-        "occurrence": 1,
-        "strong": "G25700",
-        "lemma": "καλός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "καλὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1351316,
-        "book_id": "jas",
-        "chapter": "4",
-        "verse": "17",
-        "word_num": 7,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καλὸν = good",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557908",
-    "book_id": "1pe",
+    "id": "550305",
+    "book_id": "tit",
     "chapter": "2",
-    "verse": "12",
-    "alignment_num": "2",
-    "orig_lang_words": ",1542286,",
-    "target_lang_words": ",1352718,",
+    "verse": "7",
+    "alignment_num": "6",
+    "orig_lang_words": ",1534334,",
+    "target_lang_words": ",1341330,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1542286,
-        "book_id": "1pe",
+        "id": 1534334,
+        "book_id": "tit",
         "chapter": "2",
-        "verse": "12",
-        "word_num": 7,
-        "word": "καλήν",
+        "verse": "7",
+        "word_num": 5,
+        "word": "καλῶν",
         "occurrence": 1,
         "strong": "G25700",
         "lemma": "καλός",
-        "morph": "Gr,NS,,,,AFS,"
+        "morph": "Gr,AA,,,,GNP,"
       }
     ],
-    "origWordsTxt": "καλήν",
+    "origWordsTxt": "καλῶν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1352718,
-        "book_id": "1pe",
+        "id": 1341330,
+        "book_id": "tit",
         "chapter": "2",
-        "verse": "12",
-        "word_num": 3,
+        "verse": "7",
+        "word_num": 9,
         "word": "good",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "καλήν = good",
-    "frequency": 0.0125,
+    "alignmentTxt": "καλῶν = good",
+    "frequency": 1.0,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550419",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "14",
+    "alignment_num": "19",
+    "orig_lang_words": ",1534445,",
+    "target_lang_words": ",1341488,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534445,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 17,
+        "word": "καλῶν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "καλῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341488,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 23,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλῶν = good",
+    "frequency": 1.0,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550552",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "16",
+    "orig_lang_words": ",1534571,",
+    "target_lang_words": ",1341670,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534571,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 11,
+        "word": "καλῶν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "καλῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341670,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 27,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλῶν = good",
+    "frequency": 1.0,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550628",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "14",
+    "alignment_num": "6",
+    "orig_lang_words": ",1534650,",
+    "target_lang_words": ",1341773,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534650,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 5,
+        "word": "καλῶν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "καλῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341773,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 9,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλῶν = good",
+    "frequency": 1.0,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554056",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "24",
+    "alignment_num": "7",
+    "orig_lang_words": ",1538257,",
+    "target_lang_words": ",1346937,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538257,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "24",
+        "word_num": 7,
+        "word": "καλῶν",
+        "occurrence": 1,
+        "strong": "G25700",
+        "lemma": "καλός",
+        "morph": "Gr,AA,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "καλῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346937,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "24",
+        "word_num": 12,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καλῶν = good",
+    "frequency": 1.0,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3840,7 +3918,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καλῶν = good",
-    "frequency": 0.075,
+    "frequency": 1.0,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3917,7 +3996,8 @@
     "targetWordsTxt": "faithfully administering",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὡς καλοὶ οἰκονόμοι = faithfully administering",
-    "frequency": 0.0125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

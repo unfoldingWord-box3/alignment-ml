@@ -39,7 +39,143 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερόν = temple",
-    "frequency": 0.06779661016949153,
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469976",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "27",
+    "alignment_num": "7",
+    "orig_lang_words": ",1450707,",
+    "target_lang_words": ",1228854,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1450707,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 7,
+        "word": "ἱερόν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1228854,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 8,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερόν = temple",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503276",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "32",
+    "orig_lang_words": ",1485543,",
+    "target_lang_words": ",1274165,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485543,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 30,
+        "word": "ἱερόν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274165,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 46,
+        "word": "temple",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερόν = temple",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "515475",
+    "book_id": "act",
+    "chapter": "21",
+    "verse": "26",
+    "alignment_num": "14",
+    "orig_lang_words": ",1498122,",
+    "target_lang_words": ",1290627,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498122,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "26",
+        "word_num": 15,
+        "word": "ἱερόν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1290627,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "26",
+        "word_num": 16,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερόν = temple",
+    "frequency": 1.0,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +219,548 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482303",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "10",
+    "alignment_num": "5",
+    "orig_lang_words": ",1463233,",
+    "target_lang_words": ",1245560,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463233,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 5,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1245560,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 6,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483493",
+    "book_id": "luk",
+    "chapter": "19",
+    "verse": "45",
+    "alignment_num": "4",
+    "orig_lang_words": ",1464447,",
+    "target_lang_words": ",1247249,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464447,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "45",
+        "word_num": 4,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1247249,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "45",
+        "word_num": 4,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492235",
+    "book_id": "jhn",
+    "chapter": "7",
+    "verse": "14",
+    "alignment_num": "10",
+    "orig_lang_words": ",1473659,",
+    "target_lang_words": ",1258978,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473659,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "14",
+        "word_num": 9,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258978,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "14",
+        "word_num": 12,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503236",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "1",
+    "alignment_num": "7",
+    "orig_lang_words": ",1485505,",
+    "target_lang_words": ",1274110,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485505,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 7,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274110,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 9,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503287",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "3",
+    "alignment_num": "10",
+    "orig_lang_words": ",1485553,",
+    "target_lang_words": ",1274177,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485553,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 9,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274177,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 11,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503361",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "11",
+    "orig_lang_words": ",1485629,",
+    "target_lang_words": ",1274276,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485629,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 11,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274276,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 16,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504732",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "21",
+    "alignment_num": "4",
+    "orig_lang_words": ",1487042,",
+    "target_lang_words": ",1276099,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487042,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "21",
+        "word_num": 8,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276099,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "21",
+        "word_num": 9,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514126",
+    "book_id": "act",
+    "chapter": "19",
+    "verse": "27",
+    "alignment_num": "14",
+    "orig_lang_words": ",1496721,",
+    "target_lang_words": ",1288738,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1496721,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "27",
+        "word_num": 18,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1288738,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "27",
+        "word_num": 19,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "515546",
+    "book_id": "act",
+    "chapter": "21",
+    "verse": "28",
+    "alignment_num": "28",
+    "orig_lang_words": ",1498195,",
+    "target_lang_words": ",1290708,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498195,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "28",
+        "word_num": 29,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1290708,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "28",
+        "word_num": 34,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "515570",
+    "book_id": "act",
+    "chapter": "21",
+    "verse": "29",
+    "alignment_num": "18",
+    "orig_lang_words": ",1498218,",
+    "target_lang_words": ",1290737,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498218,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "29",
+        "word_num": 16,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1290737,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "29",
+        "word_num": 22,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "517099",
+    "book_id": "act",
+    "chapter": "24",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1499768,",
+    "target_lang_words": ",1292846,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499768,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "6",
+        "word_num": 3,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1292846,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "6",
+        "word_num": 6,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "517593",
+    "book_id": "act",
+    "chapter": "25",
+    "verse": "8",
+    "alignment_num": "12",
+    "orig_lang_words": ",1500276,",
+    "target_lang_words": ",1293567,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500276,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "8",
+        "word_num": 13,
+        "word": "ἱερὸν",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἱερὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1293567,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "8",
+        "word_num": 14,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱερὸν = temple",
+    "frequency": 1.0,
+    "matchCount": 13,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,51 +804,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "464993",
-    "book_id": "mrk",
-    "chapter": "11",
-    "verse": "16",
-    "alignment_num": "10",
-    "orig_lang_words": ",1445201,",
-    "target_lang_words": ",1221471,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1445201,
-        "book_id": "mrk",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 9,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1221471,
-        "book_id": "mrk",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 11,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = temple",
-    "frequency": 0.15254237288135594,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -215,7 +849,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -268,95 +903,8 @@
     "targetWordsTxt": "temple courts",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἱερῷ = temple courts",
-    "frequency": 0.01694915254237288,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "465990",
-    "book_id": "mrk",
-    "chapter": "13",
-    "verse": "1",
-    "alignment_num": "5",
-    "orig_lang_words": ",1446302,",
-    "target_lang_words": ",1222881,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1446302,
-        "book_id": "mrk",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 5,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1222881,
-        "book_id": "mrk",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 7,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = temple",
-    "frequency": 0.15254237288135594,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "466030",
-    "book_id": "mrk",
-    "chapter": "13",
-    "verse": "3",
-    "alignment_num": "10",
-    "orig_lang_words": ",1446347,",
-    "target_lang_words": ",1222936,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1446347,
-        "book_id": "mrk",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 10,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1222936,
-        "book_id": "mrk",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 12,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = temple",
-    "frequency": 0.15254237288135594,
+    "frequency": 0.037037037037037035,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -400,95 +948,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469976",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "27",
-    "alignment_num": "7",
-    "orig_lang_words": ",1450707,",
-    "target_lang_words": ",1228854,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1450707,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "27",
-        "word_num": 7,
-        "word": "ἱερόν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1228854,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "27",
-        "word_num": 8,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερόν = temple",
-    "frequency": 0.06779661016949153,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "470125",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "37",
-    "alignment_num": "10",
-    "orig_lang_words": ",1450865,",
-    "target_lang_words": ",1229042,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1450865,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "37",
-        "word_num": 11,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1229042,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "37",
-        "word_num": 12,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = temple",
-    "frequency": 0.15254237288135594,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -532,139 +993,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "471093",
-    "book_id": "luk",
-    "chapter": "4",
-    "verse": "9",
-    "alignment_num": "11",
-    "orig_lang_words": ",1451842,",
-    "target_lang_words": ",1230298,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1451842,
-        "book_id": "luk",
-        "chapter": "4",
-        "verse": "9",
-        "word_num": 11,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1230298,
-        "book_id": "luk",
-        "chapter": "4",
-        "verse": "9",
-        "word_num": 15,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = temple",
-    "frequency": 0.15254237288135594,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482303",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "10",
-    "alignment_num": "5",
-    "orig_lang_words": ",1463233,",
-    "target_lang_words": ",1245560,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463233,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 5,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1245560,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 6,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "483493",
-    "book_id": "luk",
-    "chapter": "19",
-    "verse": "45",
-    "alignment_num": "4",
-    "orig_lang_words": ",1464447,",
-    "target_lang_words": ",1247249,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1464447,
-        "book_id": "luk",
-        "chapter": "19",
-        "verse": "45",
-        "word_num": 4,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1247249,
-        "book_id": "luk",
-        "chapter": "19",
-        "verse": "45",
-        "word_num": 4,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -708,7 +1038,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -752,51 +1083,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "484312",
-    "book_id": "luk",
-    "chapter": "21",
-    "verse": "5",
-    "alignment_num": "6",
-    "orig_lang_words": ",1465264,",
-    "target_lang_words": ",1248373,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1465264,
-        "book_id": "luk",
-        "chapter": "21",
-        "verse": "5",
-        "word_num": 5,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1248373,
-        "book_id": "luk",
-        "chapter": "21",
-        "verse": "5",
-        "word_num": 7,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = temple",
-    "frequency": 0.15254237288135594,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -840,7 +1128,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -884,51 +1173,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485601",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "52",
-    "alignment_num": "11",
-    "orig_lang_words": ",1466570,",
-    "target_lang_words": ",1250171,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1466570,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "52",
-        "word_num": 12,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1250171,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "52",
-        "word_num": 15,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = of",
-    "frequency": 0.1016949152542373,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -972,7 +1218,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1016,7 +1263,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1060,51 +1308,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488525",
-    "book_id": "jhn",
-    "chapter": "2",
-    "verse": "15",
-    "alignment_num": "10",
-    "orig_lang_words": ",1469602,",
-    "target_lang_words": ",1254019,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1469602,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 9,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1254019,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 15,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = temple",
-    "frequency": 0.15254237288135594,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1148,51 +1353,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492235",
-    "book_id": "jhn",
-    "chapter": "7",
-    "verse": "14",
-    "alignment_num": "10",
-    "orig_lang_words": ",1473659,",
-    "target_lang_words": ",1258978,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1473659,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "14",
-        "word_num": 9,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258978,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "14",
-        "word_num": 12,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1236,7 +1398,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1280,51 +1443,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493692",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "59",
-    "alignment_num": "14",
-    "orig_lang_words": ",1475354,",
-    "target_lang_words": ",1261070,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475354,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "59",
-        "word_num": 14,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1261070,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "59",
-        "word_num": 18,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = temple",
-    "frequency": 0.15254237288135594,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1368,7 +1488,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1412,7 +1533,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1456,7 +1578,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1500,315 +1623,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503236",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "1",
-    "alignment_num": "7",
-    "orig_lang_words": ",1485505,",
-    "target_lang_words": ",1274110,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485505,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 7,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274110,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 9,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503263",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "2",
-    "alignment_num": "19",
-    "orig_lang_words": ",1485531,",
-    "target_lang_words": ",1274142,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485531,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 18,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274142,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 23,
-        "word": "of",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = of",
-    "frequency": 0.1016949152542373,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503276",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "2",
-    "alignment_num": "32",
-    "orig_lang_words": ",1485543,",
-    "target_lang_words": ",1274165,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485543,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 30,
-        "word": "ἱερόν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274165,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 46,
-        "word": "temple",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερόν = temple",
-    "frequency": 0.06779661016949153,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503287",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "3",
-    "alignment_num": "10",
-    "orig_lang_words": ",1485553,",
-    "target_lang_words": ",1274177,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485553,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 9,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274177,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 11,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503361",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "11",
-    "orig_lang_words": ",1485629,",
-    "target_lang_words": ",1274276,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485629,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 11,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274276,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 16,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503390",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "10",
-    "alignment_num": "13",
-    "orig_lang_words": ",1485664,",
-    "target_lang_words": ",1274308,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485664,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 16,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274308,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 16,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = of",
-    "frequency": 0.1016949152542373,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503713",
-    "book_id": "act",
-    "chapter": "4",
-    "verse": "1",
-    "alignment_num": "11",
-    "orig_lang_words": ",1486011,",
-    "target_lang_words": ",1274761,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1486011,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "1",
-        "word_num": 14,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274761,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "1",
-        "word_num": 12,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = of",
-    "frequency": 0.1016949152542373,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1852,95 +1668,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504732",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "21",
-    "alignment_num": "4",
-    "orig_lang_words": ",1487042,",
-    "target_lang_words": ",1276099,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487042,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "21",
-        "word_num": 8,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276099,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "21",
-        "word_num": 9,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504799",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "24",
-    "alignment_num": "5",
-    "orig_lang_words": ",1487114,",
-    "target_lang_words": ",1276185,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487114,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "24",
-        "word_num": 10,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276185,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "24",
-        "word_num": 5,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = of",
-    "frequency": 0.1016949152542373,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1984,7 +1713,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2028,95 +1758,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "514126",
-    "book_id": "act",
-    "chapter": "19",
-    "verse": "27",
-    "alignment_num": "14",
-    "orig_lang_words": ",1496721,",
-    "target_lang_words": ",1288738,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1496721,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "27",
-        "word_num": 18,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1288738,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "27",
-        "word_num": 19,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "515475",
-    "book_id": "act",
-    "chapter": "21",
-    "verse": "26",
-    "alignment_num": "14",
-    "orig_lang_words": ",1498122,",
-    "target_lang_words": ",1290627,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1498122,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "26",
-        "word_num": 15,
-        "word": "ἱερόν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1290627,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "26",
-        "word_num": 16,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερόν = temple",
-    "frequency": 0.06779661016949153,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2160,139 +1803,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "515546",
-    "book_id": "act",
-    "chapter": "21",
-    "verse": "28",
-    "alignment_num": "28",
-    "orig_lang_words": ",1498195,",
-    "target_lang_words": ",1290708,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1498195,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "28",
-        "word_num": 29,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1290708,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "28",
-        "word_num": 34,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "515570",
-    "book_id": "act",
-    "chapter": "21",
-    "verse": "29",
-    "alignment_num": "18",
-    "orig_lang_words": ",1498218,",
-    "target_lang_words": ",1290737,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1498218,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "29",
-        "word_num": 16,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1290737,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "29",
-        "word_num": 22,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "515585",
-    "book_id": "act",
-    "chapter": "21",
-    "verse": "30",
-    "alignment_num": "14",
-    "orig_lang_words": ",1498240,",
-    "target_lang_words": ",1290757,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1498240,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "30",
-        "word_num": 18,
-        "word": "ἱεροῦ",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ἱεροῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1290757,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "30",
-        "word_num": 19,
-        "word": "of",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱεροῦ = of",
-    "frequency": 0.1016949152542373,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2336,51 +1848,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "517099",
-    "book_id": "act",
-    "chapter": "24",
-    "verse": "6",
-    "alignment_num": "5",
-    "orig_lang_words": ",1499768,",
-    "target_lang_words": ",1292846,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499768,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "6",
-        "word_num": 3,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1292846,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "6",
-        "word_num": 6,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2424,7 +1893,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2468,51 +1938,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "517593",
-    "book_id": "act",
-    "chapter": "25",
-    "verse": "8",
-    "alignment_num": "12",
-    "orig_lang_words": ",1500276,",
-    "target_lang_words": ",1293567,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1500276,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "8",
-        "word_num": 13,
-        "word": "ἱερὸν",
-        "occurrence": 1,
-        "strong": "G24110",
-        "lemma": "ἱερόν",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἱερὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1293567,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "8",
-        "word_num": 14,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἱερὸν = temple",
-    "frequency": 0.22033898305084745,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2556,7 +1983,638 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱερῷ = temple",
-    "frequency": 0.4406779661016949,
+    "frequency": 0.9629629629629629,
+    "matchCount": 26,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "464993",
+    "book_id": "mrk",
+    "chapter": "11",
+    "verse": "16",
+    "alignment_num": "10",
+    "orig_lang_words": ",1445201,",
+    "target_lang_words": ",1221471,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1445201,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 9,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1221471,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 11,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = temple",
+    "frequency": 0.6,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "465990",
+    "book_id": "mrk",
+    "chapter": "13",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1446302,",
+    "target_lang_words": ",1222881,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1446302,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 5,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1222881,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 7,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = temple",
+    "frequency": 0.6,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "466030",
+    "book_id": "mrk",
+    "chapter": "13",
+    "verse": "3",
+    "alignment_num": "10",
+    "orig_lang_words": ",1446347,",
+    "target_lang_words": ",1222936,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1446347,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 10,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1222936,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 12,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = temple",
+    "frequency": 0.6,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470125",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "37",
+    "alignment_num": "10",
+    "orig_lang_words": ",1450865,",
+    "target_lang_words": ",1229042,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1450865,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "37",
+        "word_num": 11,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1229042,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "37",
+        "word_num": 12,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = temple",
+    "frequency": 0.6,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "471093",
+    "book_id": "luk",
+    "chapter": "4",
+    "verse": "9",
+    "alignment_num": "11",
+    "orig_lang_words": ",1451842,",
+    "target_lang_words": ",1230298,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1451842,
+        "book_id": "luk",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 11,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1230298,
+        "book_id": "luk",
+        "chapter": "4",
+        "verse": "9",
+        "word_num": 15,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = temple",
+    "frequency": 0.6,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "484312",
+    "book_id": "luk",
+    "chapter": "21",
+    "verse": "5",
+    "alignment_num": "6",
+    "orig_lang_words": ",1465264,",
+    "target_lang_words": ",1248373,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1465264,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "5",
+        "word_num": 5,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1248373,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "5",
+        "word_num": 7,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = temple",
+    "frequency": 0.6,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485601",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "52",
+    "alignment_num": "11",
+    "orig_lang_words": ",1466570,",
+    "target_lang_words": ",1250171,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1466570,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "52",
+        "word_num": 12,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1250171,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "52",
+        "word_num": 15,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = of",
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488525",
+    "book_id": "jhn",
+    "chapter": "2",
+    "verse": "15",
+    "alignment_num": "10",
+    "orig_lang_words": ",1469602,",
+    "target_lang_words": ",1254019,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469602,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 9,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254019,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 15,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = temple",
+    "frequency": 0.6,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493692",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "59",
+    "alignment_num": "14",
+    "orig_lang_words": ",1475354,",
+    "target_lang_words": ",1261070,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475354,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "59",
+        "word_num": 14,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1261070,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "59",
+        "word_num": 18,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = temple",
+    "frequency": 0.6,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503263",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "19",
+    "orig_lang_words": ",1485531,",
+    "target_lang_words": ",1274142,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485531,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 18,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274142,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 23,
+        "word": "of",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = of",
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503390",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "10",
+    "alignment_num": "13",
+    "orig_lang_words": ",1485664,",
+    "target_lang_words": ",1274308,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485664,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 16,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274308,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 16,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = of",
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503713",
+    "book_id": "act",
+    "chapter": "4",
+    "verse": "1",
+    "alignment_num": "11",
+    "orig_lang_words": ",1486011,",
+    "target_lang_words": ",1274761,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1486011,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "1",
+        "word_num": 14,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274761,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "1",
+        "word_num": 12,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = of",
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504799",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "24",
+    "alignment_num": "5",
+    "orig_lang_words": ",1487114,",
+    "target_lang_words": ",1276185,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487114,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "24",
+        "word_num": 10,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276185,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "24",
+        "word_num": 5,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = of",
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "515585",
+    "book_id": "act",
+    "chapter": "21",
+    "verse": "30",
+    "alignment_num": "14",
+    "orig_lang_words": ",1498240,",
+    "target_lang_words": ",1290757,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498240,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "30",
+        "word_num": 18,
+        "word": "ἱεροῦ",
+        "occurrence": 1,
+        "strong": "G24110",
+        "lemma": "ἱερόν",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ἱεροῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1290757,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "30",
+        "word_num": 19,
+        "word": "of",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἱεροῦ = of",
+    "frequency": 0.4,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2600,7 +2658,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἱεροῦ = temple",
-    "frequency": 0.15254237288135594,
+    "frequency": 0.6,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

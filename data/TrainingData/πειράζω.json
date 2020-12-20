@@ -48,7 +48,197 @@
     "targetWordsTxt": "being tempted",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πειραζόμενος = being tempted",
-    "frequency": 0.03125,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470973",
+    "book_id": "luk",
+    "chapter": "4",
+    "verse": "2",
+    "alignment_num": "0",
+    "orig_lang_words": ",1451721,",
+    "target_lang_words": ",1230130,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1451721,
+        "book_id": "luk",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 2,
+        "word": "πειραζόμενος",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,PPP,NMS,"
+      }
+    ],
+    "origWordsTxt": "πειραζόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1230130,
+        "book_id": "luk",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 0,
+        "word": "where",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "where",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πειραζόμενος = where",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554539",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "17",
+    "alignment_num": "2",
+    "orig_lang_words": ",1538770,",
+    "target_lang_words": ",1347703,1347704,1347705,1347706,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538770,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "17",
+        "word_num": 5,
+        "word": "πειραζόμενος",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,PPP,NMS,"
+      }
+    ],
+    "origWordsTxt": "πειραζόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1347703,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "17",
+        "word_num": 3,
+        "word": "when",
+        "occurrence": 1
+      },
+      {
+        "id": 1347704,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "17",
+        "word_num": 4,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1347705,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "17",
+        "word_num": 5,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1347706,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "17",
+        "word_num": 6,
+        "word": "tested",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "when he was tested",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "πειραζόμενος = when he was tested",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555858",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "3",
+    "orig_lang_words": ",1540133,",
+    "target_lang_words": ",1349686,1349687,1349688,1349689,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540133,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 1,
+        "word": "πειραζόμενος",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,PPP,NMS,"
+      }
+    ],
+    "origWordsTxt": "πειραζόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1349686,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 4,
+        "word": "when",
+        "occurrence": 1
+      },
+      {
+        "id": 1349687,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 5,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1349688,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 6,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1349689,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 7,
+        "word": "tempted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "when he is tempted",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "πειραζόμενος = when he is tempted",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +291,8 @@
     "targetWordsTxt": "to test",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πειράζοντες = to test",
-    "frequency": 0.0625,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,104 +345,8 @@
     "targetWordsTxt": "to test",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πειράζοντες = to test",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "465488",
-    "book_id": "mrk",
-    "chapter": "12",
-    "verse": "15",
-    "alignment_num": "8",
-    "orig_lang_words": ",1445748,",
-    "target_lang_words": ",1222196,1222197,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1445748,
-        "book_id": "mrk",
-        "chapter": "12",
-        "verse": "15",
-        "word_num": 10,
-        "word": "πειράζετε",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,IPA2,,P,"
-      }
-    ],
-    "origWordsTxt": "πειράζετε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1222196,
-        "book_id": "mrk",
-        "chapter": "12",
-        "verse": "15",
-        "word_num": 11,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 1222197,
-        "book_id": "mrk",
-        "chapter": "12",
-        "verse": "15",
-        "word_num": 12,
-        "word": "test",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you test",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πειράζετε = you test",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "470973",
-    "book_id": "luk",
-    "chapter": "4",
-    "verse": "2",
-    "alignment_num": "0",
-    "orig_lang_words": ",1451721,",
-    "target_lang_words": ",1230130,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1451721,
-        "book_id": "luk",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 2,
-        "word": "πειραζόμενος",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,PPP,NMS,"
-      }
-    ],
-    "origWordsTxt": "πειραζόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1230130,
-        "book_id": "luk",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 0,
-        "word": "where",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "where",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πειραζόμενος = where",
-    "frequency": 0.03125,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -304,166 +399,62 @@
     "targetWordsTxt": "tested him",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πειράζοντες = tested him",
-    "frequency": 0.03125,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "490974",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "6",
-    "alignment_num": "3",
-    "orig_lang_words": ",1472273,",
-    "target_lang_words": ",1257305,1257306,",
+    "id": "465488",
+    "book_id": "mrk",
+    "chapter": "12",
+    "verse": "15",
+    "alignment_num": "8",
+    "orig_lang_words": ",1445748,",
+    "target_lang_words": ",1222196,1222197,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1472273,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "6",
-        "word_num": 3,
-        "word": "πειράζων",
+        "id": 1445748,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "15",
+        "word_num": 10,
+        "word": "πειράζετε",
         "occurrence": 1,
         "strong": "G39850",
         "lemma": "πειράζω",
-        "morph": "Gr,V,PPA,NMS,"
+        "morph": "Gr,V,IPA2,,P,"
       }
     ],
-    "origWordsTxt": "πειράζων",
+    "origWordsTxt": "πειράζετε",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1257305,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "6",
-        "word_num": 4,
-        "word": "to",
+        "id": 1222196,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "15",
+        "word_num": 11,
+        "word": "you",
         "occurrence": 1
       },
       {
-        "id": 1257306,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "6",
-        "word_num": 5,
+        "id": 1222197,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "15",
+        "word_num": 12,
         "word": "test",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "to test",
+    "targetWordsTxt": "you test",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "πειράζων = to test",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504521",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "9",
-    "alignment_num": "9",
-    "orig_lang_words": ",1486834,",
-    "target_lang_words": ",1275821,1275822,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1486834,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 9,
-        "word": "πειράσαι",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "πειράσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1275821,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 13,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1275822,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 14,
-        "word": "test",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to test",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πειράσαι = to test",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "507615",
-    "book_id": "act",
-    "chapter": "9",
-    "verse": "26",
-    "alignment_num": "3",
-    "orig_lang_words": ",1490018,",
-    "target_lang_words": ",1279958,1279959,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490018,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "26",
-        "word_num": 4,
-        "word": "ἐπείραζεν",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπείραζεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1279958,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "26",
-        "word_num": 6,
-        "word": "he",
-        "occurrence": 2
-      },
-      {
-        "id": 1279959,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "26",
-        "word_num": 7,
-        "word": "attempted",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he attempted",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπείραζεν = he attempted",
-    "frequency": 0.03125,
+    "alignmentTxt": "πειράζετε = you test",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -516,7 +507,314 @@
     "targetWordsTxt": "you test",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πειράζετε = you test",
-    "frequency": 0.0625,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537241",
+    "book_id": "2co",
+    "chapter": "13",
+    "verse": "5",
+    "alignment_num": "0",
+    "orig_lang_words": ",1520884,",
+    "target_lang_words": ",1322715,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520884,
+        "book_id": "2co",
+        "chapter": "13",
+        "verse": "5",
+        "word_num": 1,
+        "word": "πειράζετε",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,MPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "πειράζετε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1322715,
+        "book_id": "2co",
+        "chapter": "13",
+        "verse": "5",
+        "word_num": 0,
+        "word": "Examine",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Examine",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πειράζετε = Examine",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490974",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "6",
+    "alignment_num": "3",
+    "orig_lang_words": ",1472273,",
+    "target_lang_words": ",1257305,1257306,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1472273,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 3,
+        "word": "πειράζων",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "πειράζων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1257305,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 4,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1257306,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 5,
+        "word": "test",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to test",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πειράζων = to test",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545597",
+    "book_id": "1th",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1529573,",
+    "target_lang_words": ",1334694,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529573,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 17,
+        "word": "πειράζων",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "πειράζων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334694,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 21,
+        "word": "tempter",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "tempter",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πειράζων = tempter",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504521",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "9",
+    "alignment_num": "9",
+    "orig_lang_words": ",1486834,",
+    "target_lang_words": ",1275821,1275822,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1486834,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 9,
+        "word": "πειράσαι",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "πειράσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1275821,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 13,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1275822,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 14,
+        "word": "test",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to test",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πειράσαι = to test",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563919",
+    "book_id": "rev",
+    "chapter": "3",
+    "verse": "10",
+    "alignment_num": "20",
+    "orig_lang_words": ",1548881,",
+    "target_lang_words": ",1361671,1361672,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1548881,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 22,
+        "word": "πειράσαι",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "πειράσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1361671,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 28,
+        "word": "to",
+        "occurrence": 3
+      },
+      {
+        "id": 1361672,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 29,
+        "word": "test",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to test",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πειράσαι = to test",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "507615",
+    "book_id": "act",
+    "chapter": "9",
+    "verse": "26",
+    "alignment_num": "3",
+    "orig_lang_words": ",1490018,",
+    "target_lang_words": ",1279958,1279959,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490018,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "26",
+        "word_num": 4,
+        "word": "ἐπείραζεν",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπείραζεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1279958,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "26",
+        "word_num": 6,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 1279959,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "26",
+        "word_num": 7,
+        "word": "attempted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he attempted",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπείραζεν = he attempted",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -569,7 +867,8 @@
     "targetWordsTxt": "they attempted",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπείραζον = they attempted",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -613,7 +912,53 @@
     "targetWordsTxt": "tried",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐπείρασεν = tried",
-    "frequency": 0.03125,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545598",
+    "book_id": "1th",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "15",
+    "orig_lang_words": ",1529570,",
+    "target_lang_words": ",1334695,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529570,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 14,
+        "word": "ἐπείρασεν",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπείρασεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334695,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 22,
+        "word": "had",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "had",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπείρασεν = had",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -657,7 +1002,8 @@
     "targetWordsTxt": "might",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πειράζῃ = might",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -737,7 +1083,53 @@
     "targetWordsTxt": "put him to the test",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ἐπείρασαν = put him to the test",
-    "frequency": 0.03125,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551625",
+    "book_id": "heb",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "3",
+    "orig_lang_words": ",1535706,",
+    "target_lang_words": ",1343272,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535706,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 1,
+        "word": "ἐπείρασαν",
+        "occurrence": 1,
+        "strong": "G39850",
+        "lemma": "πειράζω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐπείρασαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1343272,
+        "book_id": "heb",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 3,
+        "word": "rebelled",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "rebelled",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐπείρασαν = rebelled",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -799,51 +1191,8 @@
     "targetWordsTxt": "to be tempted",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πειρασθῆναι = to be tempted",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537241",
-    "book_id": "2co",
-    "chapter": "13",
-    "verse": "5",
-    "alignment_num": "0",
-    "orig_lang_words": ",1520884,",
-    "target_lang_words": ",1322715,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520884,
-        "book_id": "2co",
-        "chapter": "13",
-        "verse": "5",
-        "word_num": 1,
-        "word": "πειράζετε",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,MPA2,,P,"
-      }
-    ],
-    "origWordsTxt": "πειράζετε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1322715,
-        "book_id": "2co",
-        "chapter": "13",
-        "verse": "5",
-        "word_num": 0,
-        "word": "Examine",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Examine",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πειράζετε = Examine",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -887,95 +1236,8 @@
     "targetWordsTxt": "may",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πειρασθῇς = may",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545598",
-    "book_id": "1th",
-    "chapter": "3",
-    "verse": "5",
-    "alignment_num": "15",
-    "orig_lang_words": ",1529570,",
-    "target_lang_words": ",1334695,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529570,
-        "book_id": "1th",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 14,
-        "word": "ἐπείρασεν",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπείρασεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1334695,
-        "book_id": "1th",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 22,
-        "word": "had",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "had",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπείρασεν = had",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545597",
-    "book_id": "1th",
-    "chapter": "3",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1529573,",
-    "target_lang_words": ",1334694,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529573,
-        "book_id": "1th",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 17,
-        "word": "πειράζων",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,PPA,NMS,"
-      }
-    ],
-    "origWordsTxt": "πειράζων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1334694,
-        "book_id": "1th",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 21,
-        "word": "tempter",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "tempter",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πειράζων = tempter",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1037,7 +1299,8 @@
     "targetWordsTxt": "and was tempted",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πειρασθείς = and was tempted",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1120,51 +1383,8 @@
     "targetWordsTxt": "those who are tempted",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τοῖς πειραζομένοις = those who are tempted",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551625",
-    "book_id": "heb",
-    "chapter": "3",
-    "verse": "9",
-    "alignment_num": "3",
-    "orig_lang_words": ",1535706,",
-    "target_lang_words": ",1343272,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535706,
-        "book_id": "heb",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 1,
-        "word": "ἐπείρασαν",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐπείρασαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1343272,
-        "book_id": "heb",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 3,
-        "word": "rebelled",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "rebelled",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐπείρασαν = rebelled",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1226,78 +1446,8 @@
     "targetWordsTxt": "one who has",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πεπειρασμένον = one who has",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554539",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "17",
-    "alignment_num": "2",
-    "orig_lang_words": ",1538770,",
-    "target_lang_words": ",1347703,1347704,1347705,1347706,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538770,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "17",
-        "word_num": 5,
-        "word": "πειραζόμενος",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,PPP,NMS,"
-      }
-    ],
-    "origWordsTxt": "πειραζόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1347703,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "17",
-        "word_num": 3,
-        "word": "when",
-        "occurrence": 1
-      },
-      {
-        "id": 1347704,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "17",
-        "word_num": 4,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1347705,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "17",
-        "word_num": 5,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1347706,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "17",
-        "word_num": 6,
-        "word": "tested",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "when he was tested",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "πειραζόμενος = when he was tested",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1386,78 +1536,8 @@
     "targetWordsTxt": "they were put to the test",
     "alignmentTargetWords": 6,
     "alignmentTxt": "ἐπειράσθησαν = they were put to the test",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555858",
-    "book_id": "jas",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "3",
-    "orig_lang_words": ",1540133,",
-    "target_lang_words": ",1349686,1349687,1349688,1349689,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540133,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 1,
-        "word": "πειραζόμενος",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,PPP,NMS,"
-      }
-    ],
-    "origWordsTxt": "πειραζόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1349686,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 4,
-        "word": "when",
-        "occurrence": 1
-      },
-      {
-        "id": 1349687,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 5,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1349688,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 6,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1349689,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 7,
-        "word": "tempted",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "when he is tempted",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "πειραζόμενος = when he is tempted",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1519,7 +1599,8 @@
     "targetWordsTxt": "I am tempted",
     "alignmentTargetWords": 3,
     "alignmentTxt": "πειράζομαι = I am tempted",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1563,7 +1644,8 @@
     "targetWordsTxt": "does",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πειράζει = does",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1616,7 +1698,8 @@
     "targetWordsTxt": "is tempted",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πειράζεται = is tempted",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1690,7 +1773,8 @@
     "targetWordsTxt": "You have tested",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καὶ ἐπείρασας = You have tested",
-    "frequency": 0.03125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1761,60 +1845,8 @@
     "targetWordsTxt": "you will be tested",
     "alignmentTargetWords": 4,
     "alignmentTxt": "πειρασθῆτε = you will be tested",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563919",
-    "book_id": "rev",
-    "chapter": "3",
-    "verse": "10",
-    "alignment_num": "20",
-    "orig_lang_words": ",1548881,",
-    "target_lang_words": ",1361671,1361672,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1548881,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 22,
-        "word": "πειράσαι",
-        "occurrence": 1,
-        "strong": "G39850",
-        "lemma": "πειράζω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "πειράσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1361671,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 28,
-        "word": "to",
-        "occurrence": 3
-      },
-      {
-        "id": 1361672,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 29,
-        "word": "test",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to test",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πειράσαι = to test",
-    "frequency": 0.0625,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

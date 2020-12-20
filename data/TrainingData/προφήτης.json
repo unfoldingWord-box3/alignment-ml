@@ -39,7 +39,8 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτῃ = prophet",
-    "frequency": 0.009345794392523364,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,8 @@
     "targetWordsTxt": "A prophet",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προφήτης = A prophet",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.04,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -175,104 +177,8 @@
     "targetWordsTxt": "He is a prophet",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ὅτι προφήτης = He is a prophet",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "461296",
-    "book_id": "mrk",
-    "chapter": "6",
-    "verse": "15",
-    "alignment_num": "12",
-    "orig_lang_words": ",1441202,",
-    "target_lang_words": ",1216228,1216229,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1441202,
-        "book_id": "mrk",
-        "chapter": "6",
-        "verse": "15",
-        "word_num": 14,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1216228,
-        "book_id": "mrk",
-        "chapter": "6",
-        "verse": "15",
-        "word_num": 17,
-        "word": "former",
-        "occurrence": 1
-      },
-      {
-        "id": 1216229,
-        "book_id": "mrk",
-        "chapter": "6",
-        "verse": "15",
-        "word_num": 18,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "former prophets",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφητῶν = former prophets",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "462944",
-    "book_id": "mrk",
-    "chapter": "8",
-    "verse": "28",
-    "alignment_num": "13",
-    "orig_lang_words": ",1442952,",
-    "target_lang_words": ",1218517,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1442952,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "28",
-        "word_num": 17,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1218517,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "28",
-        "word_num": 15,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
+    "frequency": 0.04,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -325,51 +231,8 @@
     "targetWordsTxt": "a prophet",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προφήτης = a prophet",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469438",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "70",
-    "alignment_num": "7",
-    "orig_lang_words": ",1450145,",
-    "target_lang_words": ",1228086,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1450145,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "70",
-        "word_num": 8,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1228086,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "70",
-        "word_num": 9,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
+    "frequency": 0.32,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -422,95 +285,8 @@
     "targetWordsTxt": "a prophet",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προφήτης = a prophet",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "470445",
-    "book_id": "luk",
-    "chapter": "3",
-    "verse": "4",
-    "alignment_num": "7",
-    "orig_lang_words": ",1451186,",
-    "target_lang_words": ",1229469,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1451186,
-        "book_id": "luk",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 7,
-        "word": "προφήτου",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1229469,
-        "book_id": "luk",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 13,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophet",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτου = prophet",
-    "frequency": 0.056074766355140186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "471206",
-    "book_id": "luk",
-    "chapter": "4",
-    "verse": "17",
-    "alignment_num": "2",
-    "orig_lang_words": ",1451965,",
-    "target_lang_words": ",1230451,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1451965,
-        "book_id": "luk",
-        "chapter": "4",
-        "verse": "17",
-        "word_num": 5,
-        "word": "προφήτου",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1230451,
-        "book_id": "luk",
-        "chapter": "4",
-        "verse": "17",
-        "word_num": 3,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτου = of",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.32,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -554,95 +330,8 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = prophet",
-    "frequency": 0.09345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "471394",
-    "book_id": "luk",
-    "chapter": "4",
-    "verse": "27",
-    "alignment_num": "9",
-    "orig_lang_words": ",1452158,",
-    "target_lang_words": ",1230712,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1452158,
-        "book_id": "luk",
-        "chapter": "4",
-        "verse": "27",
-        "word_num": 10,
-        "word": "προφήτου",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1230712,
-        "book_id": "luk",
-        "chapter": "4",
-        "verse": "27",
-        "word_num": 13,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophet",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτου = prophet",
-    "frequency": 0.056074766355140186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "472863",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "23",
-    "alignment_num": "18",
-    "orig_lang_words": ",1453646,",
-    "target_lang_words": ",1232659,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1453646,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "23",
-        "word_num": 22,
-        "word": "προφήταις",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "προφήταις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1232659,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "23",
-        "word_num": 21,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήταις = prophets",
-    "frequency": 0.08411214953271028,
+    "frequency": 0.4,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -698,113 +387,8 @@
     "targetWordsTxt": "A",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὅτι προφήτης = A",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473818",
-    "book_id": "luk",
-    "chapter": "7",
-    "verse": "26",
-    "alignment_num": "4",
-    "orig_lang_words": ",1454607,",
-    "target_lang_words": ",1234013,1234014,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454607,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "26",
-        "word_num": 4,
-        "word": "προφήτην",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1234013,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "26",
-        "word_num": 8,
-        "word": "A",
-        "occurrence": 1
-      },
-      {
-        "id": 1234014,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "26",
-        "word_num": 9,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "A prophet",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφήτην = A prophet",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473824",
-    "book_id": "luk",
-    "chapter": "7",
-    "verse": "26",
-    "alignment_num": "10",
-    "orig_lang_words": ",1454613,",
-    "target_lang_words": ",1234023,1234024,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454613,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "26",
-        "word_num": 10,
-        "word": "προφήτου",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1234023,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "26",
-        "word_num": 18,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1234024,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "26",
-        "word_num": 19,
-        "word": "prophet",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "a prophet",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφήτου = a prophet",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.04,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -857,7 +441,8 @@
     "targetWordsTxt": "a prophet",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προφήτης = a prophet",
-    "frequency": 0.07476635514018691,
+    "frequency": 0.32,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -901,7 +486,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = of",
-    "frequency": 0.018691588785046728,
+    "frequency": 0.08,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -945,553 +531,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = of",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "476873",
-    "book_id": "luk",
-    "chapter": "10",
-    "verse": "24",
-    "alignment_num": "5",
-    "orig_lang_words": ",1457718,",
-    "target_lang_words": ",1238081,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1457718,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "24",
-        "word_num": 5,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1238081,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "24",
-        "word_num": 7,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "478034",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "47",
-    "alignment_num": "6",
-    "orig_lang_words": ",1458907,",
-    "target_lang_words": ",1239686,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458907,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "47",
-        "word_num": 7,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1239686,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "47",
-        "word_num": 8,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = of",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "478071",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "49",
-    "alignment_num": "11",
-    "orig_lang_words": ",1458942,",
-    "target_lang_words": ",1239731,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458942,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "49",
-        "word_num": 11,
-        "word": "προφήτας",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "προφήτας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1239731,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "49",
-        "word_num": 14,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτας = prophets",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "478088",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "50",
-    "alignment_num": "8",
-    "orig_lang_words": ",1458957,",
-    "target_lang_words": ",1239755,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458957,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "50",
-        "word_num": 6,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1239755,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "50",
-        "word_num": 10,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = of",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "479685",
-    "book_id": "luk",
-    "chapter": "13",
-    "verse": "28",
-    "alignment_num": "18",
-    "orig_lang_words": ",1460585,",
-    "target_lang_words": ",1241941,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1460585,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "28",
-        "word_num": 19,
-        "word": "προφήτας",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "προφήτας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1241941,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "28",
-        "word_num": 23,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτας = prophets",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "479779",
-    "book_id": "luk",
-    "chapter": "13",
-    "verse": "33",
-    "alignment_num": "14",
-    "orig_lang_words": ",1460678,",
-    "target_lang_words": ",1242062,1242063,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1460678,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "33",
-        "word_num": 13,
-        "word": "προφήτην",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1242062,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "33",
-        "word_num": 21,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1242063,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "33",
-        "word_num": 22,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a prophet",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφήτην = a prophet",
-    "frequency": 0.037383177570093455,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "479788",
-    "book_id": "luk",
-    "chapter": "13",
-    "verse": "34",
-    "alignment_num": "5",
-    "orig_lang_words": ",1460687,",
-    "target_lang_words": ",1242074,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1460687,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "34",
-        "word_num": 5,
-        "word": "προφήτας",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "προφήτας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1242074,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "34",
-        "word_num": 5,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτας = prophets",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481288",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "16",
-    "alignment_num": "4",
-    "orig_lang_words": ",1462207,",
-    "target_lang_words": ",1244142,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462207,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "16",
-        "word_num": 4,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1244142,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "16",
-        "word_num": 4,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481538",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "29",
-    "alignment_num": "7",
-    "orig_lang_words": ",1462463,",
-    "target_lang_words": ",1244490,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462463,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "29",
-        "word_num": 7,
-        "word": "προφήτας",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "προφήτας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1244490,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "29",
-        "word_num": 8,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτας = prophets",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481566",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "31",
-    "alignment_num": "10",
-    "orig_lang_words": ",1462488,",
-    "target_lang_words": ",1244529,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462488,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "31",
-        "word_num": 7,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1244529,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "31",
-        "word_num": 14,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482656",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "31",
-    "alignment_num": "17",
-    "orig_lang_words": ",1463601,",
-    "target_lang_words": ",1246046,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463601,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "31",
-        "word_num": 18,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1246046,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "31",
-        "word_num": 27,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "483646",
-    "book_id": "luk",
-    "chapter": "20",
-    "verse": "6",
-    "alignment_num": "15",
-    "orig_lang_words": ",1464599,",
-    "target_lang_words": ",1247457,1247458,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1464599,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "6",
-        "word_num": 14,
-        "word": "προφήτην",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1247457,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "6",
-        "word_num": 19,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1247458,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "6",
-        "word_num": 20,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a prophet",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφήτην = a prophet",
-    "frequency": 0.037383177570093455,
+    "frequency": 0.08,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1544,139 +585,8 @@
     "targetWordsTxt": "a prophet",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προφήτης = a prophet",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487139",
-    "book_id": "luk",
-    "chapter": "24",
-    "verse": "25",
-    "alignment_num": "16",
-    "orig_lang_words": ",1468122,",
-    "target_lang_words": ",1252170,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468122,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "25",
-        "word_num": 18,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1252170,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "25",
-        "word_num": 18,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487161",
-    "book_id": "luk",
-    "chapter": "24",
-    "verse": "27",
-    "alignment_num": "8",
-    "orig_lang_words": ",1468143,",
-    "target_lang_words": ",1252198,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468143,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "27",
-        "word_num": 8,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1252198,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "27",
-        "word_num": 8,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487421",
-    "book_id": "luk",
-    "chapter": "24",
-    "verse": "44",
-    "alignment_num": "27",
-    "orig_lang_words": ",1468409,",
-    "target_lang_words": ",1252557,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468409,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "44",
-        "word_num": 28,
-        "word": "προφήταις",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "προφήταις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1252557,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "44",
-        "word_num": 34,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήταις = prophets",
-    "frequency": 0.08411214953271028,
+    "frequency": 0.32,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1720,7 +630,8 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = prophet",
-    "frequency": 0.09345794392523364,
+    "frequency": 0.4,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1764,7 +675,8 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = prophet",
-    "frequency": 0.09345794392523364,
+    "frequency": 0.4,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1808,51 +720,8 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = prophet",
-    "frequency": 0.09345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488191",
-    "book_id": "jhn",
-    "chapter": "1",
-    "verse": "45",
-    "alignment_num": "14",
-    "orig_lang_words": ",1469231,",
-    "target_lang_words": ",1253573,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1469231,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "45",
-        "word_num": 15,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1253573,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "45",
-        "word_num": 17,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
+    "frequency": 0.4,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1905,7 +774,8 @@
     "targetWordsTxt": "a prophet",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προφήτης = a prophet",
-    "frequency": 0.07476635514018691,
+    "frequency": 0.32,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1958,7 +828,8 @@
     "targetWordsTxt": "a prophet",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προφήτης = a prophet",
-    "frequency": 0.07476635514018691,
+    "frequency": 0.32,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2002,51 +873,8 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = prophet",
-    "frequency": 0.09345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491628",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "45",
-    "alignment_num": "4",
-    "orig_lang_words": ",1472984,",
-    "target_lang_words": ",1258203,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1472984,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "45",
-        "word_num": 4,
-        "word": "προφήταις",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "προφήταις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258203,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "45",
-        "word_num": 5,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήταις = prophets",
-    "frequency": 0.08411214953271028,
+    "frequency": 0.4,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2090,7 +918,8 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = prophet",
-    "frequency": 0.09345794392523364,
+    "frequency": 0.4,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2134,95 +963,8 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = prophet",
-    "frequency": 0.09345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493562",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "52",
-    "alignment_num": "12",
-    "orig_lang_words": ",1475215,",
-    "target_lang_words": ",1260904,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475215,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "52",
-        "word_num": 13,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1260904,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "52",
-        "word_num": 16,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493588",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "53",
-    "alignment_num": "11",
-    "orig_lang_words": ",1475244,",
-    "target_lang_words": ",1260934,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475244,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "53",
-        "word_num": 12,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1260934,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "53",
-        "word_num": 13,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
+    "frequency": 0.4,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2287,95 +1029,8 @@
     "targetWordsTxt": "a prophet",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὅτι προφήτης = a prophet",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "496486",
-    "book_id": "jhn",
-    "chapter": "12",
-    "verse": "38",
-    "alignment_num": "5",
-    "orig_lang_words": ",1478351,",
-    "target_lang_words": ",1264853,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1478351,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "38",
-        "word_num": 5,
-        "word": "προφήτου",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1264853,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "38",
-        "word_num": 7,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophet",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτου = prophet",
-    "frequency": 0.056074766355140186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502672",
-    "book_id": "act",
-    "chapter": "2",
-    "verse": "16",
-    "alignment_num": "7",
-    "orig_lang_words": ",1484906,",
-    "target_lang_words": ",1273374,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484906,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 7,
-        "word": "προφήτου",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1273374,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 8,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophet",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτου = prophet",
-    "frequency": 0.056074766355140186,
+    "frequency": 0.04,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2428,377 +1083,8 @@
     "targetWordsTxt": "a prophet",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προφήτης = a prophet",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503550",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "18",
-    "alignment_num": "6",
-    "orig_lang_words": ",1485834,",
-    "target_lang_words": ",1274535,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485834,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 9,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274535,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 9,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = of",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503601",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "21",
-    "alignment_num": "17",
-    "orig_lang_words": ",1485887,",
-    "target_lang_words": ",1274616,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485887,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 20,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274616,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 25,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503610",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "22",
-    "alignment_num": "8",
-    "orig_lang_words": ",1485892,",
-    "target_lang_words": ",1274629,1274630,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485892,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "22",
-        "word_num": 4,
-        "word": "προφήτην",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1274629,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "22",
-        "word_num": 12,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1274630,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "22",
-        "word_num": 13,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a prophet",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφήτην = a prophet",
-    "frequency": 0.037383177570093455,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503633",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "23",
-    "alignment_num": "9",
-    "orig_lang_words": ",1485923,",
-    "target_lang_words": ",1274663,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485923,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "23",
-        "word_num": 9,
-        "word": "προφήτου",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274663,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "23",
-        "word_num": 13,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophet",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτου = prophet",
-    "frequency": 0.056074766355140186,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503641",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "24",
-    "alignment_num": "3",
-    "orig_lang_words": ",1485933,",
-    "target_lang_words": ",1274674,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485933,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "24",
-        "word_num": 4,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274674,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "24",
-        "word_num": 3,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503657",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "25",
-    "alignment_num": "4",
-    "orig_lang_words": ",1485951,",
-    "target_lang_words": ",1274697,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485951,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 5,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274697,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "25",
-        "word_num": 4,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = of",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506068",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "37",
-    "alignment_num": "11",
-    "orig_lang_words": ",1488417,",
-    "target_lang_words": ",1277897,1277898,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1488417,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "37",
-        "word_num": 9,
-        "word": "προφήτην",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1277897,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "37",
-        "word_num": 15,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1277898,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "37",
-        "word_num": 16,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a prophet",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφήτην = a prophet",
-    "frequency": 0.037383177570093455,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506181",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "42",
-    "alignment_num": "17",
-    "orig_lang_words": ",1488536,",
-    "target_lang_words": ",1278049,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1488536,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "42",
-        "word_num": 17,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1278049,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "42",
-        "word_num": 21,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = of",
-    "frequency": 0.07476635514018691,
+    "frequency": 0.32,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2842,139 +1128,8 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = prophet",
-    "frequency": 0.09345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506353",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "52",
-    "alignment_num": "1",
-    "orig_lang_words": ",1488706,",
-    "target_lang_words": ",1278282,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1488706,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "52",
-        "word_num": 2,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1278282,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "52",
-        "word_num": 1,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = of",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506957",
-    "book_id": "act",
-    "chapter": "8",
-    "verse": "28",
-    "alignment_num": "10",
-    "orig_lang_words": ",1489326,",
-    "target_lang_words": ",1279086,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1489326,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "28",
-        "word_num": 12,
-        "word": "προφήτην",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1279086,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "28",
-        "word_num": 12,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophet",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτην = prophet",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506978",
-    "book_id": "act",
-    "chapter": "8",
-    "verse": "30",
-    "alignment_num": "8",
-    "orig_lang_words": ",1489349,",
-    "target_lang_words": ",1279113,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1489349,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "30",
-        "word_num": 9,
-        "word": "προφήτην",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1279113,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "30",
-        "word_num": 11,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophet",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτην = prophet",
-    "frequency": 0.018691588785046728,
+    "frequency": 0.4,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3018,421 +1173,8 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = prophet",
-    "frequency": 0.09345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508678",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "43",
-    "alignment_num": "3",
-    "orig_lang_words": ",1491092,",
-    "target_lang_words": ",1281405,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491092,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "43",
-        "word_num": 3,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1281405,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "43",
-        "word_num": 4,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "509226",
-    "book_id": "act",
-    "chapter": "11",
-    "verse": "27",
-    "alignment_num": "4",
-    "orig_lang_words": ",1491662,",
-    "target_lang_words": ",1282119,1282120,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491662,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "27",
-        "word_num": 8,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1282119,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "27",
-        "word_num": 4,
-        "word": "some",
-        "occurrence": 1
-      },
-      {
-        "id": 1282120,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "27",
-        "word_num": 5,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "some prophets",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφῆται = some prophets",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "509763",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "1",
-    "alignment_num": "2",
-    "orig_lang_words": ",1492217,",
-    "target_lang_words": ",1282863,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492217,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 8,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1282863,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 3,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510040",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "15",
-    "alignment_num": "8",
-    "orig_lang_words": ",1492489,",
-    "target_lang_words": ",1283233,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492489,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "15",
-        "word_num": 8,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1283233,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "15",
-        "word_num": 8,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510131",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "20",
-    "alignment_num": "9",
-    "orig_lang_words": ",1492585,",
-    "target_lang_words": ",1283359,1283360,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492585,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "20",
-        "word_num": 12,
-        "word": "προφήτου",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1283359,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "20",
-        "word_num": 14,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1283360,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "20",
-        "word_num": 15,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the prophet",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφήτου = the prophet",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510264",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "27",
-    "alignment_num": "14",
-    "orig_lang_words": ",1492721,",
-    "target_lang_words": ",1283538,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492721,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "27",
-        "word_num": 15,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1283538,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "27",
-        "word_num": 18,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = of",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510453",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "40",
-    "alignment_num": "6",
-    "orig_lang_words": ",1492915,",
-    "target_lang_words": ",1283810,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492915,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "40",
-        "word_num": 8,
-        "word": "προφήταις",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "προφήταις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1283810,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "40",
-        "word_num": 11,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήταις = prophets",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511412",
-    "book_id": "act",
-    "chapter": "15",
-    "verse": "15",
-    "alignment_num": "2",
-    "orig_lang_words": ",1493900,",
-    "target_lang_words": ",1285092,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1493900,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "15",
-        "word_num": 6,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1285092,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "15",
-        "word_num": 2,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = of",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511673",
-    "book_id": "act",
-    "chapter": "15",
-    "verse": "32",
-    "alignment_num": "6",
-    "orig_lang_words": ",1494171,",
-    "target_lang_words": ",1285460,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494171,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "32",
-        "word_num": 6,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1285460,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "32",
-        "word_num": 6,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
+    "frequency": 0.4,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3476,86 +1218,421 @@
     "targetWordsTxt": "prophet",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήτης = prophet",
-    "frequency": 0.09345794392523364,
+    "frequency": 0.4,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "517237",
-    "book_id": "act",
-    "chapter": "24",
-    "verse": "14",
-    "alignment_num": "27",
-    "orig_lang_words": ",1499906,",
-    "target_lang_words": ",1293056,",
+    "id": "531869",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "37",
+    "alignment_num": "4",
+    "orig_lang_words": ",1515362,",
+    "target_lang_words": ",1314918,1314919,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1499906,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "14",
-        "word_num": 26,
-        "word": "προφήταις",
+        "id": 1515362,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "37",
+        "word_num": 3,
+        "word": "προφήτης",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,DMP,"
+        "morph": "Gr,N,,,,,NMS,"
       }
     ],
-    "origWordsTxt": "προφήταις",
+    "origWordsTxt": "προφήτης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1314918,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "37",
+        "word_num": 6,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1314919,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "37",
+        "word_num": 7,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a prophet",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφήτης = a prophet",
+    "frequency": 0.32,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550164",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "12",
+    "alignment_num": "5",
+    "orig_lang_words": ",1534199,",
+    "target_lang_words": ",1341117,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534199,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 6,
+        "word": "προφήτης",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτης",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1293056,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "14",
-        "word_num": 45,
+        "id": 1341117,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 6,
         "word": "prophets",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήταις = prophets",
-    "frequency": 0.08411214953271028,
+    "alignmentTxt": "προφήτης = prophets",
+    "frequency": 0.04,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "518402",
-    "book_id": "act",
-    "chapter": "26",
-    "verse": "22",
-    "alignment_num": "22",
-    "orig_lang_words": ",1501088,",
-    "target_lang_words": ",1294702,",
+    "id": "461296",
+    "book_id": "mrk",
+    "chapter": "6",
+    "verse": "15",
+    "alignment_num": "12",
+    "orig_lang_words": ",1441202,",
+    "target_lang_words": ",1216228,1216229,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1501088,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "22",
-        "word_num": 23,
-        "word": "προφῆται",
+        "id": 1441202,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "15",
+        "word_num": 14,
+        "word": "προφητῶν",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
+        "morph": "Gr,N,,,,,GMP,"
       }
     ],
-    "origWordsTxt": "προφῆται",
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1216228,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "15",
+        "word_num": 17,
+        "word": "former",
+        "occurrence": 1
+      },
+      {
+        "id": 1216229,
+        "book_id": "mrk",
+        "chapter": "6",
+        "verse": "15",
+        "word_num": 18,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "former prophets",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφητῶν = former prophets",
+    "frequency": 0.037037037037037035,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "462944",
+    "book_id": "mrk",
+    "chapter": "8",
+    "verse": "28",
+    "alignment_num": "13",
+    "orig_lang_words": ",1442952,",
+    "target_lang_words": ",1218517,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1442952,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "28",
+        "word_num": 17,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1294702,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "22",
+        "id": 1218517,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "28",
+        "word_num": 15,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469438",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "70",
+    "alignment_num": "7",
+    "orig_lang_words": ",1450145,",
+    "target_lang_words": ",1228086,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1450145,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "70",
+        "word_num": 8,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1228086,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "70",
+        "word_num": 9,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "478034",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "47",
+    "alignment_num": "6",
+    "orig_lang_words": ",1458907,",
+    "target_lang_words": ",1239686,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458907,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "47",
+        "word_num": 7,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1239686,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "47",
+        "word_num": 8,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = of",
+    "frequency": 0.2962962962962963,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "478088",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "50",
+    "alignment_num": "8",
+    "orig_lang_words": ",1458957,",
+    "target_lang_words": ",1239755,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458957,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "50",
+        "word_num": 6,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1239755,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "50",
+        "word_num": 10,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = of",
+    "frequency": 0.2962962962962963,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481566",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "31",
+    "alignment_num": "10",
+    "orig_lang_words": ",1462488,",
+    "target_lang_words": ",1244529,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462488,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "31",
+        "word_num": 7,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1244529,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "31",
+        "word_num": 14,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482656",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "31",
+    "alignment_num": "17",
+    "orig_lang_words": ",1463601,",
+    "target_lang_words": ",1246046,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463601,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "31",
+        "word_num": 18,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1246046,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "31",
         "word_num": 27,
         "word": "prophets",
         "occurrence": 1
@@ -3563,52 +1640,414 @@
     ],
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "518487",
-    "book_id": "act",
-    "chapter": "26",
+    "id": "487161",
+    "book_id": "luk",
+    "chapter": "24",
     "verse": "27",
-    "alignment_num": "2",
-    "orig_lang_words": ",1501175,",
-    "target_lang_words": ",1294819,",
+    "alignment_num": "8",
+    "orig_lang_words": ",1468143,",
+    "target_lang_words": ",1252198,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1501175,
-        "book_id": "act",
-        "chapter": "26",
+        "id": 1468143,
+        "book_id": "luk",
+        "chapter": "24",
         "verse": "27",
-        "word_num": 4,
-        "word": "προφήταις",
+        "word_num": 8,
+        "word": "προφητῶν",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,DMP,"
+        "morph": "Gr,N,,,,,GMP,"
       }
     ],
-    "origWordsTxt": "προφήταις",
+    "origWordsTxt": "προφητῶν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1294819,
-        "book_id": "act",
-        "chapter": "26",
+        "id": 1252198,
+        "book_id": "luk",
+        "chapter": "24",
         "verse": "27",
-        "word_num": 4,
+        "word_num": 8,
         "word": "prophets",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήταις = prophets",
-    "frequency": 0.08411214953271028,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503550",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "18",
+    "alignment_num": "6",
+    "orig_lang_words": ",1485834,",
+    "target_lang_words": ",1274535,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485834,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 9,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274535,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 9,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = of",
+    "frequency": 0.2962962962962963,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503601",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "21",
+    "alignment_num": "17",
+    "orig_lang_words": ",1485887,",
+    "target_lang_words": ",1274616,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485887,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 20,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274616,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 25,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503657",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "25",
+    "alignment_num": "4",
+    "orig_lang_words": ",1485951,",
+    "target_lang_words": ",1274697,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485951,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 5,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274697,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "25",
+        "word_num": 4,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = of",
+    "frequency": 0.2962962962962963,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506181",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "42",
+    "alignment_num": "17",
+    "orig_lang_words": ",1488536,",
+    "target_lang_words": ",1278049,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488536,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "42",
+        "word_num": 17,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1278049,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "42",
+        "word_num": 21,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = of",
+    "frequency": 0.2962962962962963,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506353",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "52",
+    "alignment_num": "1",
+    "orig_lang_words": ",1488706,",
+    "target_lang_words": ",1278282,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488706,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "52",
+        "word_num": 2,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1278282,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "52",
+        "word_num": 1,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = of",
+    "frequency": 0.2962962962962963,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510040",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "15",
+    "alignment_num": "8",
+    "orig_lang_words": ",1492489,",
+    "target_lang_words": ",1283233,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492489,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "15",
+        "word_num": 8,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283233,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "15",
+        "word_num": 8,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510264",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "27",
+    "alignment_num": "14",
+    "orig_lang_words": ",1492721,",
+    "target_lang_words": ",1283538,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492721,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "27",
+        "word_num": 15,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283538,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "27",
+        "word_num": 18,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = of",
+    "frequency": 0.2962962962962963,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511412",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "15",
+    "alignment_num": "2",
+    "orig_lang_words": ",1493900,",
+    "target_lang_words": ",1285092,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1493900,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "15",
+        "word_num": 6,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1285092,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "15",
+        "word_num": 2,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = of",
+    "frequency": 0.2962962962962963,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3652,51 +2091,8 @@
     "targetWordsTxt": "from",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητῶν = from",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "519785",
-    "book_id": "act",
-    "chapter": "28",
-    "verse": "25",
-    "alignment_num": "18",
-    "orig_lang_words": ",1502510,",
-    "target_lang_words": ",1296662,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502510,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "25",
-        "word_num": 21,
-        "word": "προφήτου",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1296662,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "25",
-        "word_num": 25,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophet",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτου = prophet",
-    "frequency": 0.056074766355140186,
+    "frequency": 0.037037037037037035,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3752,7 +2148,8 @@
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῶν προφητῶν = prophets",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.037037037037037035,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3796,216 +2193,8 @@
     "targetWordsTxt": "Prophets",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητῶν = Prophets",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524171",
-    "book_id": "rom",
-    "chapter": "11",
-    "verse": "3",
-    "alignment_num": "3",
-    "orig_lang_words": ",1507282,1507283,",
-    "target_lang_words": ",1303393,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1507282,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "3",
-        "word_num": 1,
-        "word": "τοὺς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AMP,"
-      },
-      {
-        "id": 1507283,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "3",
-        "word_num": 2,
-        "word": "προφήτας",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "τοὺς προφήτας",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1303393,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "3",
-        "word_num": 5,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοὺς προφήτας = prophets",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531074",
-    "book_id": "1co",
-    "chapter": "12",
-    "verse": "28",
-    "alignment_num": "12",
-    "orig_lang_words": ",1514548,",
-    "target_lang_words": ",1313708,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1514548,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 12,
-        "word": "προφήτας",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "προφήτας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1313708,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 12,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτας = prophets",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531092",
-    "book_id": "1co",
-    "chapter": "12",
-    "verse": "29",
-    "alignment_num": "6",
-    "orig_lang_words": ",1514565,",
-    "target_lang_words": ",1313732,1313733,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1514565,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "29",
-        "word_num": 5,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "προφῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1313732,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "29",
-        "word_num": 8,
-        "word": "are",
-        "occurrence": 3
-      },
-      {
-        "id": 1313733,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "29",
-        "word_num": 9,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "are prophets",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφῆται = are prophets",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531768",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "29",
-    "alignment_num": "4",
-    "orig_lang_words": ",1515260,1515261,",
-    "target_lang_words": ",1314769,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1515260,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "29",
-        "word_num": 0,
-        "word": "προφῆται",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
-      },
-      {
-        "id": 1515261,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "29",
-        "word_num": 1,
-        "word": "δὲ",
-        "occurrence": 1,
-        "strong": "G11610",
-        "lemma": "δέ",
-        "morph": "Gr,CC,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "προφῆται δὲ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1314769,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "29",
-        "word_num": 4,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται δὲ = prophets",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.037037037037037035,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4058,113 +2247,8 @@
     "targetWordsTxt": "of prophets",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προφητῶν = of prophets",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531799",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "32",
-    "alignment_num": "4",
-    "orig_lang_words": ",1515293,",
-    "target_lang_words": ",1314821,1314822,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515293,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "32",
-        "word_num": 3,
-        "word": "προφήταις",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "προφήταις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1314821,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "32",
-        "word_num": 8,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1314822,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "32",
-        "word_num": 9,
-        "word": "prophets",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "the prophets",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφήταις = the prophets",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531869",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "37",
-    "alignment_num": "4",
-    "orig_lang_words": ",1515362,",
-    "target_lang_words": ",1314918,1314919,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515362,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "37",
-        "word_num": 3,
-        "word": "προφήτης",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτης",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1314918,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "37",
-        "word_num": 6,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1314919,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "37",
-        "word_num": 7,
-        "word": "prophet",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a prophet",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφήτης = a prophet",
-    "frequency": 0.07476635514018691,
+    "frequency": 0.07407407407407407,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4208,227 +2292,8 @@
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540349",
-    "book_id": "eph",
-    "chapter": "3",
-    "verse": "5",
-    "alignment_num": "22",
-    "orig_lang_words": ",1524094,",
-    "target_lang_words": ",1327329,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1524094,
-        "book_id": "eph",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 17,
-        "word": "προφήταις",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "προφήταις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1327329,
-        "book_id": "eph",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 27,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήταις = prophets",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540734",
-    "book_id": "eph",
-    "chapter": "4",
-    "verse": "11",
-    "alignment_num": "8",
-    "orig_lang_words": ",1524487,",
-    "target_lang_words": ",1327825,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1524487,
-        "book_id": "eph",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 8,
-        "word": "προφήτας",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "προφήτας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1327825,
-        "book_id": "eph",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 8,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτας = prophets",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545430",
-    "book_id": "1th",
-    "chapter": "2",
-    "verse": "15",
-    "alignment_num": "8",
-    "orig_lang_words": ",1529390,",
-    "target_lang_words": ",1334455,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529390,
-        "book_id": "1th",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 8,
-        "word": "προφήτας",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "προφήτας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1334455,
-        "book_id": "1th",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 8,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτας = prophets",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550164",
-    "book_id": "tit",
-    "chapter": "1",
-    "verse": "12",
-    "alignment_num": "5",
-    "orig_lang_words": ",1534199,",
-    "target_lang_words": ",1341117,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534199,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 6,
-        "word": "προφήτης",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "προφήτης",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341117,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 6,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτης = prophets",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550974",
-    "book_id": "heb",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "7",
-    "orig_lang_words": ",1535027,",
-    "target_lang_words": ",1342289,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535027,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 11,
-        "word": "προφήταις",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "προφήταις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1342289,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 9,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήταις = prophets",
-    "frequency": 0.08411214953271028,
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4472,104 +2337,665 @@
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "557138",
-    "book_id": "jas",
-    "chapter": "5",
-    "verse": "10",
-    "alignment_num": "8",
-    "orig_lang_words": ",1541508,",
-    "target_lang_words": ",1351540,",
+    "id": "559613",
+    "book_id": "2pe",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "7",
+    "orig_lang_words": ",1544157,",
+    "target_lang_words": ",1355555,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1541508,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 9,
-        "word": "προφήτας",
+        "id": 1544157,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 7,
+        "word": "προφητῶν",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMP,"
+        "morph": "Gr,N,,,,,GMP,"
       }
     ],
-    "origWordsTxt": "προφήτας",
+    "origWordsTxt": "προφητῶν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1351540,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 11,
+        "id": 1355555,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 14,
         "word": "prophets",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτας = prophets",
-    "frequency": 0.08411214953271028,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "557477",
-    "book_id": "1pe",
-    "chapter": "1",
-    "verse": "10",
-    "alignment_num": "0",
-    "orig_lang_words": ",1541851,",
-    "target_lang_words": ",1352063,1352064,",
+    "id": "568488",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1553964,",
+    "target_lang_words": ",1367846,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1541851,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 6,
-        "word": "προφῆται",
+        "id": 1553964,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "6",
+        "word_num": 4,
+        "word": "προφητῶν",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
+        "morph": "Gr,N,,,,,GMP,"
       }
     ],
-    "origWordsTxt": "προφῆται",
+    "origWordsTxt": "προφητῶν",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1352063,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 0,
-        "word": "The",
-        "occurrence": 1
-      },
-      {
-        "id": 1352064,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 1,
+        "id": 1367846,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "6",
+        "word_num": 10,
         "word": "prophets",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "The prophets",
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569745",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "24",
+    "alignment_num": "1",
+    "orig_lang_words": ",1555361,",
+    "target_lang_words": ",1369545,1369546,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555361,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "24",
+        "word_num": 4,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1369545,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "24",
+        "word_num": 2,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1369546,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "24",
+        "word_num": 3,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of prophets",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "προφῆται = The prophets",
-    "frequency": 0.009345794392523364,
+    "alignmentTxt": "προφητῶν = of prophets",
+    "frequency": 0.07407407407407407,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571245",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "6",
+    "alignment_num": "15",
+    "orig_lang_words": ",1557039,",
+    "target_lang_words": ",1371580,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1557039,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "6",
+        "word_num": 17,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371580,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "6",
+        "word_num": 21,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571300",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "9",
+    "alignment_num": "12",
+    "orig_lang_words": ",1557103,",
+    "target_lang_words": ",1371666,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1557103,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "9",
+        "word_num": 13,
+        "word": "προφητῶν",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "προφητῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371666,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "9",
+        "word_num": 20,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφητῶν = prophets",
+    "frequency": 0.48148148148148145,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470445",
+    "book_id": "luk",
+    "chapter": "3",
+    "verse": "4",
+    "alignment_num": "7",
+    "orig_lang_words": ",1451186,",
+    "target_lang_words": ",1229469,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1451186,
+        "book_id": "luk",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 7,
+        "word": "προφήτου",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1229469,
+        "book_id": "luk",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 13,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophet",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτου = prophet",
+    "frequency": 0.6,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "471206",
+    "book_id": "luk",
+    "chapter": "4",
+    "verse": "17",
+    "alignment_num": "2",
+    "orig_lang_words": ",1451965,",
+    "target_lang_words": ",1230451,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1451965,
+        "book_id": "luk",
+        "chapter": "4",
+        "verse": "17",
+        "word_num": 5,
+        "word": "προφήτου",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1230451,
+        "book_id": "luk",
+        "chapter": "4",
+        "verse": "17",
+        "word_num": 3,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτου = of",
+    "frequency": 0.1,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "471394",
+    "book_id": "luk",
+    "chapter": "4",
+    "verse": "27",
+    "alignment_num": "9",
+    "orig_lang_words": ",1452158,",
+    "target_lang_words": ",1230712,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1452158,
+        "book_id": "luk",
+        "chapter": "4",
+        "verse": "27",
+        "word_num": 10,
+        "word": "προφήτου",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1230712,
+        "book_id": "luk",
+        "chapter": "4",
+        "verse": "27",
+        "word_num": 13,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophet",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτου = prophet",
+    "frequency": 0.6,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473824",
+    "book_id": "luk",
+    "chapter": "7",
+    "verse": "26",
+    "alignment_num": "10",
+    "orig_lang_words": ",1454613,",
+    "target_lang_words": ",1234023,1234024,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1454613,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "26",
+        "word_num": 10,
+        "word": "προφήτου",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1234023,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "26",
+        "word_num": 18,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1234024,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "26",
+        "word_num": 19,
+        "word": "prophet",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "a prophet",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφήτου = a prophet",
+    "frequency": 0.1,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "496486",
+    "book_id": "jhn",
+    "chapter": "12",
+    "verse": "38",
+    "alignment_num": "5",
+    "orig_lang_words": ",1478351,",
+    "target_lang_words": ",1264853,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1478351,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "38",
+        "word_num": 5,
+        "word": "προφήτου",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1264853,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "38",
+        "word_num": 7,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophet",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτου = prophet",
+    "frequency": 0.6,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502672",
+    "book_id": "act",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "7",
+    "orig_lang_words": ",1484906,",
+    "target_lang_words": ",1273374,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484906,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 7,
+        "word": "προφήτου",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1273374,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 8,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophet",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτου = prophet",
+    "frequency": 0.6,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503633",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "23",
+    "alignment_num": "9",
+    "orig_lang_words": ",1485923,",
+    "target_lang_words": ",1274663,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485923,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "23",
+        "word_num": 9,
+        "word": "προφήτου",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274663,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "23",
+        "word_num": 13,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophet",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτου = prophet",
+    "frequency": 0.6,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510131",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "20",
+    "alignment_num": "9",
+    "orig_lang_words": ",1492585,",
+    "target_lang_words": ",1283359,1283360,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492585,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "20",
+        "word_num": 12,
+        "word": "προφήτου",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1283359,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "20",
+        "word_num": 14,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1283360,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "20",
+        "word_num": 15,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the prophet",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφήτου = the prophet",
+    "frequency": 0.1,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519785",
+    "book_id": "act",
+    "chapter": "28",
+    "verse": "25",
+    "alignment_num": "18",
+    "orig_lang_words": ",1502510,",
+    "target_lang_words": ",1296662,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502510,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "25",
+        "word_num": 21,
+        "word": "προφήτου",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1296662,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "25",
+        "word_num": 25,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophet",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτου = prophet",
+    "frequency": 0.6,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4634,139 +3060,422 @@
     "targetWordsTxt": "prophet's",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ προφήτου = prophet's",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "559613",
-    "book_id": "2pe",
+    "id": "472863",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "23",
+    "alignment_num": "18",
+    "orig_lang_words": ",1453646,",
+    "target_lang_words": ",1232659,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1453646,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "23",
+        "word_num": 22,
+        "word": "προφήταις",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "προφήταις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1232659,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "23",
+        "word_num": 21,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήταις = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "487421",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "44",
+    "alignment_num": "27",
+    "orig_lang_words": ",1468409,",
+    "target_lang_words": ",1252557,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1468409,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "44",
+        "word_num": 28,
+        "word": "προφήταις",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "προφήταις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1252557,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "44",
+        "word_num": 34,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήταις = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491628",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "45",
+    "alignment_num": "4",
+    "orig_lang_words": ",1472984,",
+    "target_lang_words": ",1258203,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1472984,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "45",
+        "word_num": 4,
+        "word": "προφήταις",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "προφήταις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258203,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "45",
+        "word_num": 5,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήταις = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510453",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "40",
+    "alignment_num": "6",
+    "orig_lang_words": ",1492915,",
+    "target_lang_words": ",1283810,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492915,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "40",
+        "word_num": 8,
+        "word": "προφήταις",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "προφήταις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283810,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "40",
+        "word_num": 11,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήταις = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "517237",
+    "book_id": "act",
+    "chapter": "24",
+    "verse": "14",
+    "alignment_num": "27",
+    "orig_lang_words": ",1499906,",
+    "target_lang_words": ",1293056,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499906,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "14",
+        "word_num": 26,
+        "word": "προφήταις",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "προφήταις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1293056,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "14",
+        "word_num": 45,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήταις = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518487",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "27",
+    "alignment_num": "2",
+    "orig_lang_words": ",1501175,",
+    "target_lang_words": ",1294819,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501175,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "27",
+        "word_num": 4,
+        "word": "προφήταις",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "προφήταις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1294819,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "27",
+        "word_num": 4,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήταις = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531799",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "32",
+    "alignment_num": "4",
+    "orig_lang_words": ",1515293,",
+    "target_lang_words": ",1314821,1314822,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515293,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "32",
+        "word_num": 3,
+        "word": "προφήταις",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "προφήταις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1314821,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "32",
+        "word_num": 8,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1314822,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "32",
+        "word_num": 9,
+        "word": "prophets",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "the prophets",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφήταις = the prophets",
+    "frequency": 0.1,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540349",
+    "book_id": "eph",
     "chapter": "3",
-    "verse": "2",
-    "alignment_num": "7",
-    "orig_lang_words": ",1544157,",
-    "target_lang_words": ",1355555,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1544157,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 7,
-        "word": "προφητῶν",
-        "occurrence": 1,
-        "strong": "G43960",
-        "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355555,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 14,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prophets",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566352",
-    "book_id": "rev",
-    "chapter": "10",
-    "verse": "7",
+    "verse": "5",
     "alignment_num": "22",
-    "orig_lang_words": ",1551589,",
-    "target_lang_words": ",1365008,",
+    "orig_lang_words": ",1524094,",
+    "target_lang_words": ",1327329,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1551589,
-        "book_id": "rev",
-        "chapter": "10",
-        "verse": "7",
-        "word_num": 24,
-        "word": "προφήτας",
+        "id": 1524094,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 17,
+        "word": "προφήταις",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,AMP,"
+        "morph": "Gr,N,,,,,DMP,"
       }
     ],
-    "origWordsTxt": "προφήτας",
+    "origWordsTxt": "προφήταις",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1365008,
-        "book_id": "rev",
-        "chapter": "10",
-        "verse": "7",
-        "word_num": 38,
+        "id": 1327329,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 27,
         "word": "prophets",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προφήτας = prophets",
-    "frequency": 0.08411214953271028,
+    "alignmentTxt": "προφήταις = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "566661",
-    "book_id": "rev",
-    "chapter": "11",
-    "verse": "10",
-    "alignment_num": "16",
-    "orig_lang_words": ",1551934,",
-    "target_lang_words": ",1365420,",
+    "id": "550974",
+    "book_id": "heb",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "7",
+    "orig_lang_words": ",1535027,",
+    "target_lang_words": ",1342289,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1551934,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "10",
-        "word_num": 19,
-        "word": "προφῆται",
+        "id": 1535027,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 11,
+        "word": "προφήταις",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,NMP,"
+        "morph": "Gr,N,,,,,DMP,"
       }
     ],
-    "origWordsTxt": "προφῆται",
+    "origWordsTxt": "προφήταις",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1365420,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "10",
-        "word_num": 23,
+        "id": 1342289,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 9,
         "word": "prophets",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προφῆται = prophets",
-    "frequency": 0.11214953271028037,
+    "alignmentTxt": "προφήταις = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4810,51 +3519,1127 @@
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προφήταις = prophets",
-    "frequency": 0.08411214953271028,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "568488",
-    "book_id": "rev",
-    "chapter": "16",
-    "verse": "6",
-    "alignment_num": "5",
-    "orig_lang_words": ",1553964,",
-    "target_lang_words": ",1367846,",
+    "id": "473818",
+    "book_id": "luk",
+    "chapter": "7",
+    "verse": "26",
+    "alignment_num": "4",
+    "orig_lang_words": ",1454607,",
+    "target_lang_words": ",1234013,1234014,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1553964,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "6",
+        "id": 1454607,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "26",
         "word_num": 4,
-        "word": "προφητῶν",
+        "word": "προφήτην",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
+        "morph": "Gr,N,,,,,AMS,"
       }
     ],
-    "origWordsTxt": "προφητῶν",
+    "origWordsTxt": "προφήτην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1234013,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "26",
+        "word_num": 8,
+        "word": "A",
+        "occurrence": 1
+      },
+      {
+        "id": 1234014,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "26",
+        "word_num": 9,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "A prophet",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφήτην = A prophet",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "479779",
+    "book_id": "luk",
+    "chapter": "13",
+    "verse": "33",
+    "alignment_num": "14",
+    "orig_lang_words": ",1460678,",
+    "target_lang_words": ",1242062,1242063,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1460678,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "33",
+        "word_num": 13,
+        "word": "προφήτην",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1242062,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "33",
+        "word_num": 21,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1242063,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "33",
+        "word_num": 22,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a prophet",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφήτην = a prophet",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483646",
+    "book_id": "luk",
+    "chapter": "20",
+    "verse": "6",
+    "alignment_num": "15",
+    "orig_lang_words": ",1464599,",
+    "target_lang_words": ",1247457,1247458,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464599,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 14,
+        "word": "προφήτην",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1247457,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 19,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1247458,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 20,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a prophet",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφήτην = a prophet",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503610",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "22",
+    "alignment_num": "8",
+    "orig_lang_words": ",1485892,",
+    "target_lang_words": ",1274629,1274630,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485892,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "22",
+        "word_num": 4,
+        "word": "προφήτην",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1274629,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "22",
+        "word_num": 12,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1274630,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "22",
+        "word_num": 13,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a prophet",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφήτην = a prophet",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506068",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "37",
+    "alignment_num": "11",
+    "orig_lang_words": ",1488417,",
+    "target_lang_words": ",1277897,1277898,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488417,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "37",
+        "word_num": 9,
+        "word": "προφήτην",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1277897,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "37",
+        "word_num": 15,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1277898,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "37",
+        "word_num": 16,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a prophet",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφήτην = a prophet",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506957",
+    "book_id": "act",
+    "chapter": "8",
+    "verse": "28",
+    "alignment_num": "10",
+    "orig_lang_words": ",1489326,",
+    "target_lang_words": ",1279086,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1489326,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "28",
+        "word_num": 12,
+        "word": "προφήτην",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτην",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1367846,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "6",
-        "word_num": 10,
+        "id": 1279086,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "28",
+        "word_num": 12,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophet",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτην = prophet",
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506978",
+    "book_id": "act",
+    "chapter": "8",
+    "verse": "30",
+    "alignment_num": "8",
+    "orig_lang_words": ",1489349,",
+    "target_lang_words": ",1279113,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1489349,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "30",
+        "word_num": 9,
+        "word": "προφήτην",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "προφήτην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1279113,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "30",
+        "word_num": 11,
+        "word": "prophet",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophet",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτην = prophet",
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "476873",
+    "book_id": "luk",
+    "chapter": "10",
+    "verse": "24",
+    "alignment_num": "5",
+    "orig_lang_words": ",1457718,",
+    "target_lang_words": ",1238081,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1457718,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "24",
+        "word_num": 5,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1238081,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "24",
+        "word_num": 7,
         "word": "prophets",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481288",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "16",
+    "alignment_num": "4",
+    "orig_lang_words": ",1462207,",
+    "target_lang_words": ",1244142,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462207,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "16",
+        "word_num": 4,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1244142,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "16",
+        "word_num": 4,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "487139",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "25",
+    "alignment_num": "16",
+    "orig_lang_words": ",1468122,",
+    "target_lang_words": ",1252170,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1468122,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "25",
+        "word_num": 18,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1252170,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "25",
+        "word_num": 18,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488191",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "45",
+    "alignment_num": "14",
+    "orig_lang_words": ",1469231,",
+    "target_lang_words": ",1253573,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469231,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "45",
+        "word_num": 15,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1253573,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "45",
+        "word_num": 17,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493562",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "52",
+    "alignment_num": "12",
+    "orig_lang_words": ",1475215,",
+    "target_lang_words": ",1260904,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475215,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "52",
+        "word_num": 13,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260904,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "52",
+        "word_num": 16,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493588",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "53",
+    "alignment_num": "11",
+    "orig_lang_words": ",1475244,",
+    "target_lang_words": ",1260934,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475244,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "53",
+        "word_num": 12,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260934,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "53",
+        "word_num": 13,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503641",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "24",
+    "alignment_num": "3",
+    "orig_lang_words": ",1485933,",
+    "target_lang_words": ",1274674,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485933,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "24",
+        "word_num": 4,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274674,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "24",
+        "word_num": 3,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508678",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "43",
+    "alignment_num": "3",
+    "orig_lang_words": ",1491092,",
+    "target_lang_words": ",1281405,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491092,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "43",
+        "word_num": 3,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1281405,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "43",
+        "word_num": 4,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "509226",
+    "book_id": "act",
+    "chapter": "11",
+    "verse": "27",
+    "alignment_num": "4",
+    "orig_lang_words": ",1491662,",
+    "target_lang_words": ",1282119,1282120,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491662,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "27",
+        "word_num": 8,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1282119,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "27",
+        "word_num": 4,
+        "word": "some",
+        "occurrence": 1
+      },
+      {
+        "id": 1282120,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "27",
+        "word_num": 5,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "some prophets",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφῆται = some prophets",
+    "frequency": 0.058823529411764705,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "509763",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "1",
+    "alignment_num": "2",
+    "orig_lang_words": ",1492217,",
+    "target_lang_words": ",1282863,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492217,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 8,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1282863,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 3,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511673",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "32",
+    "alignment_num": "6",
+    "orig_lang_words": ",1494171,",
+    "target_lang_words": ",1285460,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494171,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "32",
+        "word_num": 6,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1285460,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "32",
+        "word_num": 6,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518402",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "22",
+    "alignment_num": "22",
+    "orig_lang_words": ",1501088,",
+    "target_lang_words": ",1294702,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501088,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "22",
+        "word_num": 23,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1294702,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "22",
+        "word_num": 27,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531092",
+    "book_id": "1co",
+    "chapter": "12",
+    "verse": "29",
+    "alignment_num": "6",
+    "orig_lang_words": ",1514565,",
+    "target_lang_words": ",1313732,1313733,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1514565,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "29",
+        "word_num": 5,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1313732,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "29",
+        "word_num": 8,
+        "word": "are",
+        "occurrence": 3
+      },
+      {
+        "id": 1313733,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "29",
+        "word_num": 9,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "are prophets",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφῆται = are prophets",
+    "frequency": 0.058823529411764705,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531768",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "29",
+    "alignment_num": "4",
+    "orig_lang_words": ",1515260,1515261,",
+    "target_lang_words": ",1314769,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1515260,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "29",
+        "word_num": 0,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      },
+      {
+        "id": 1515261,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "29",
+        "word_num": 1,
+        "word": "δὲ",
+        "occurrence": 1,
+        "strong": "G11610",
+        "lemma": "δέ",
+        "morph": "Gr,CC,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "προφῆται δὲ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1314769,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "29",
+        "word_num": 4,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται δὲ = prophets",
+    "frequency": 0.058823529411764705,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557477",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "0",
+    "orig_lang_words": ",1541851,",
+    "target_lang_words": ",1352063,1352064,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541851,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 6,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1352063,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 0,
+        "word": "The",
+        "occurrence": 1
+      },
+      {
+        "id": 1352064,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 1,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "The prophets",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προφῆται = The prophets",
+    "frequency": 0.058823529411764705,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566661",
+    "book_id": "rev",
+    "chapter": "11",
+    "verse": "10",
+    "alignment_num": "16",
+    "orig_lang_words": ",1551934,",
+    "target_lang_words": ",1365420,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551934,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "10",
+        "word_num": 19,
+        "word": "προφῆται",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "προφῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365420,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "10",
+        "word_num": 23,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφῆται = prophets",
+    "frequency": 0.7058823529411765,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4910,148 +4695,470 @@
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οἱ προφῆται = prophets",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.058823529411764705,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "569745",
-    "book_id": "rev",
-    "chapter": "18",
-    "verse": "24",
-    "alignment_num": "1",
-    "orig_lang_words": ",1555361,",
-    "target_lang_words": ",1369545,1369546,",
+    "id": "478071",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "49",
+    "alignment_num": "11",
+    "orig_lang_words": ",1458942,",
+    "target_lang_words": ",1239731,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1555361,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "24",
-        "word_num": 4,
-        "word": "προφητῶν",
+        "id": 1458942,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "49",
+        "word_num": 11,
+        "word": "προφήτας",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
+        "morph": "Gr,N,,,,,AMP,"
       }
     ],
-    "origWordsTxt": "προφητῶν",
+    "origWordsTxt": "προφήτας",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1369545,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "24",
-        "word_num": 2,
-        "word": "of",
+        "id": 1239731,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "49",
+        "word_num": 14,
+        "word": "prophets",
         "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτας = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "479685",
+    "book_id": "luk",
+    "chapter": "13",
+    "verse": "28",
+    "alignment_num": "18",
+    "orig_lang_words": ",1460585,",
+    "target_lang_words": ",1241941,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1460585,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "28",
+        "word_num": 19,
+        "word": "προφήτας",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "προφήτας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1241941,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "28",
+        "word_num": 23,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτας = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "479788",
+    "book_id": "luk",
+    "chapter": "13",
+    "verse": "34",
+    "alignment_num": "5",
+    "orig_lang_words": ",1460687,",
+    "target_lang_words": ",1242074,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1460687,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "34",
+        "word_num": 5,
+        "word": "προφήτας",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "προφήτας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1242074,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "34",
+        "word_num": 5,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτας = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481538",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "29",
+    "alignment_num": "7",
+    "orig_lang_words": ",1462463,",
+    "target_lang_words": ",1244490,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462463,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "29",
+        "word_num": 7,
+        "word": "προφήτας",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "προφήτας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1244490,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "29",
+        "word_num": 8,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτας = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524171",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "3",
+    "alignment_num": "3",
+    "orig_lang_words": ",1507282,1507283,",
+    "target_lang_words": ",1303393,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1507282,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "3",
+        "word_num": 1,
+        "word": "τοὺς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMP,"
       },
       {
-        "id": 1369546,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "24",
-        "word_num": 3,
-        "word": "prophets",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of prophets",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προφητῶν = of prophets",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571245",
-    "book_id": "rev",
-    "chapter": "22",
-    "verse": "6",
-    "alignment_num": "15",
-    "orig_lang_words": ",1557039,",
-    "target_lang_words": ",1371580,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1557039,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "6",
-        "word_num": 17,
-        "word": "προφητῶν",
+        "id": 1507283,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "3",
+        "word_num": 2,
+        "word": "προφήτας",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
+        "morph": "Gr,N,,,,,AMP,"
       }
     ],
-    "origWordsTxt": "προφητῶν",
-    "alignmentOrigWords": 1,
+    "origWordsTxt": "τοὺς προφήτας",
+    "alignmentOrigWords": 2,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1371580,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "6",
-        "word_num": 21,
+        "id": 1303393,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "3",
+        "word_num": 5,
         "word": "prophets",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
+    "alignmentTxt": "τοὺς προφήτας = prophets",
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "571300",
-    "book_id": "rev",
-    "chapter": "22",
-    "verse": "9",
+    "id": "531074",
+    "book_id": "1co",
+    "chapter": "12",
+    "verse": "28",
     "alignment_num": "12",
-    "orig_lang_words": ",1557103,",
-    "target_lang_words": ",1371666,",
+    "orig_lang_words": ",1514548,",
+    "target_lang_words": ",1313708,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1557103,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "9",
-        "word_num": 13,
-        "word": "προφητῶν",
+        "id": 1514548,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 12,
+        "word": "προφήτας",
         "occurrence": 1,
         "strong": "G43960",
         "lemma": "προφήτης",
-        "morph": "Gr,N,,,,,GMP,"
+        "morph": "Gr,N,,,,,AMP,"
       }
     ],
-    "origWordsTxt": "προφητῶν",
+    "origWordsTxt": "προφήτας",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1371666,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "9",
-        "word_num": 20,
+        "id": 1313708,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 12,
         "word": "prophets",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προφητῶν = prophets",
-    "frequency": 0.12149532710280374,
+    "alignmentTxt": "προφήτας = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540734",
+    "book_id": "eph",
+    "chapter": "4",
+    "verse": "11",
+    "alignment_num": "8",
+    "orig_lang_words": ",1524487,",
+    "target_lang_words": ",1327825,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524487,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 8,
+        "word": "προφήτας",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "προφήτας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1327825,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 8,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτας = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545430",
+    "book_id": "1th",
+    "chapter": "2",
+    "verse": "15",
+    "alignment_num": "8",
+    "orig_lang_words": ",1529390,",
+    "target_lang_words": ",1334455,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529390,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 8,
+        "word": "προφήτας",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "προφήτας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334455,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 8,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτας = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557138",
+    "book_id": "jas",
+    "chapter": "5",
+    "verse": "10",
+    "alignment_num": "8",
+    "orig_lang_words": ",1541508,",
+    "target_lang_words": ",1351540,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541508,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 9,
+        "word": "προφήτας",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "προφήτας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1351540,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 11,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτας = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566352",
+    "book_id": "rev",
+    "chapter": "10",
+    "verse": "7",
+    "alignment_num": "22",
+    "orig_lang_words": ",1551589,",
+    "target_lang_words": ",1365008,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551589,
+        "book_id": "rev",
+        "chapter": "10",
+        "verse": "7",
+        "word_num": 24,
+        "word": "προφήτας",
+        "occurrence": 1,
+        "strong": "G43960",
+        "lemma": "προφήτης",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "προφήτας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365008,
+        "book_id": "rev",
+        "chapter": "10",
+        "verse": "7",
+        "word_num": 38,
+        "word": "prophets",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prophets",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προφήτας = prophets",
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

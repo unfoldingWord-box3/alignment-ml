@@ -48,7 +48,8 @@
     "targetWordsTxt": "to curse",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀναθεματίζειν = to curse",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,62 @@
     "targetWordsTxt": "putting",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀνεθεμάτισαν = putting",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516774",
+    "book_id": "act",
+    "chapter": "23",
+    "verse": "21",
+    "alignment_num": "15",
+    "orig_lang_words": ",1499441,",
+    "target_lang_words": ",1292388,1292389,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499441,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "21",
+        "word_num": 14,
+        "word": "ἀνεθεμάτισαν",
+        "occurrence": 1,
+        "strong": "G03320",
+        "lemma": "ἀναθεματίζω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀνεθεμάτισαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1292388,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "21",
+        "word_num": 21,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1292389,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "21",
+        "word_num": 22,
+        "word": "put",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "have put",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀνεθεμάτισαν = have put",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,60 +210,8 @@
     "targetWordsTxt": "We have put",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀνεθεματίσαμεν = We have put",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516774",
-    "book_id": "act",
-    "chapter": "23",
-    "verse": "21",
-    "alignment_num": "15",
-    "orig_lang_words": ",1499441,",
-    "target_lang_words": ",1292388,1292389,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499441,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "21",
-        "word_num": 14,
-        "word": "ἀνεθεμάτισαν",
-        "occurrence": 1,
-        "strong": "G03320",
-        "lemma": "ἀναθεματίζω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀνεθεμάτισαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1292388,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "21",
-        "word_num": 21,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1292389,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "21",
-        "word_num": 22,
-        "word": "put",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "have put",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀνεθεμάτισαν = have put",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

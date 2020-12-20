@@ -48,204 +48,8 @@
     "targetWordsTxt": "is unrighteous",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἄδικος = is unrighteous",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481191",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "10",
-    "alignment_num": "16",
-    "orig_lang_words": ",1462108,",
-    "target_lang_words": ",1244003,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462108,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "10",
-        "word_num": 17,
-        "word": "ἄδικός",
-        "occurrence": 1,
-        "strong": "G00940",
-        "lemma": "ἄδικος",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἄδικός",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1244003,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "10",
-        "word_num": 22,
-        "word": "unrighteous",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "unrighteous",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἄδικός = unrighteous",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481201",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "11",
-    "alignment_num": "7",
-    "orig_lang_words": ",1462113,1462114,",
-    "target_lang_words": ",1244015,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1462113,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 3,
-        "word": "τῷ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DMS,"
-      },
-      {
-        "id": 1462114,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 4,
-        "word": "ἀδίκῳ",
-        "occurrence": 1,
-        "strong": "G00940",
-        "lemma": "ἄδικος",
-        "morph": "Gr,AA,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "τῷ ἀδίκῳ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1244015,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 9,
-        "word": "unrighteous",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unrighteous",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ ἀδίκῳ = unrighteous",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482330",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "11",
-    "alignment_num": "18",
-    "orig_lang_words": ",1463262,",
-    "target_lang_words": ",1245593,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463262,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "11",
-        "word_num": 20,
-        "word": "ἄδικοι",
-        "occurrence": 1,
-        "strong": "G00940",
-        "lemma": "ἄδικος",
-        "morph": "Gr,NS,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἄδικοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1245593,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "11",
-        "word_num": 20,
-        "word": "unrighteous",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "unrighteous",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἄδικοι = unrighteous",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "517253",
-    "book_id": "act",
-    "chapter": "24",
-    "verse": "15",
-    "alignment_num": "15",
-    "orig_lang_words": ",1499924,",
-    "target_lang_words": ",1293084,1293085,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499924,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "15",
-        "word_num": 16,
-        "word": "ἀδίκων",
-        "occurrence": 1,
-        "strong": "G00940",
-        "lemma": "ἄδικος",
-        "morph": "Gr,NS,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "ἀδίκων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1293084,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "15",
-        "word_num": 27,
-        "word": "the",
-        "occurrence": 3
-      },
-      {
-        "id": 1293085,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "15",
-        "word_num": 28,
-        "word": "wicked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the wicked",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀδίκων = the wicked",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -301,51 +105,200 @@
     "targetWordsTxt": "unrighteous",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μὴ ἄδικος = unrighteous",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "528050",
-    "book_id": "1co",
+    "id": "552403",
+    "book_id": "heb",
     "chapter": "6",
-    "verse": "1",
-    "alignment_num": "11",
-    "orig_lang_words": ",1511447,",
-    "target_lang_words": ",1309208,",
+    "verse": "10",
+    "alignment_num": "2",
+    "orig_lang_words": ",1536521,",
+    "target_lang_words": ",1344433,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1511447,
-        "book_id": "1co",
+        "id": 1536521,
+        "book_id": "heb",
         "chapter": "6",
-        "verse": "1",
-        "word_num": 11,
-        "word": "ἀδίκων",
+        "verse": "10",
+        "word_num": 2,
+        "word": "ἄδικος",
         "occurrence": 1,
         "strong": "G00940",
         "lemma": "ἄδικος",
-        "morph": "Gr,NS,,,,GMP,"
+        "morph": "Gr,NP,,,,NMS,"
       }
     ],
-    "origWordsTxt": "ἀδίκων",
+    "origWordsTxt": "ἄδικος",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1309208,
-        "book_id": "1co",
+        "id": 1344433,
+        "book_id": "heb",
         "chapter": "6",
-        "verse": "1",
-        "word_num": 18,
+        "verse": "10",
+        "word_num": 2,
+        "word": "is",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἄδικος = is",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481191",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "10",
+    "alignment_num": "16",
+    "orig_lang_words": ",1462108,",
+    "target_lang_words": ",1244003,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462108,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "10",
+        "word_num": 17,
+        "word": "ἄδικός",
+        "occurrence": 1,
+        "strong": "G00940",
+        "lemma": "ἄδικος",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἄδικός",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1244003,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "10",
+        "word_num": 22,
+        "word": "unrighteous",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "unrighteous",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἄδικός = unrighteous",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481201",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "11",
+    "alignment_num": "7",
+    "orig_lang_words": ",1462113,1462114,",
+    "target_lang_words": ",1244015,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1462113,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "11",
+        "word_num": 3,
+        "word": "τῷ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DMS,"
+      },
+      {
+        "id": 1462114,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "11",
+        "word_num": 4,
+        "word": "ἀδίκῳ",
+        "occurrence": 1,
+        "strong": "G00940",
+        "lemma": "ἄδικος",
+        "morph": "Gr,AA,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "τῷ ἀδίκῳ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1244015,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "11",
+        "word_num": 9,
         "word": "unrighteous",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "unrighteous",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀδίκων = unrighteous",
-    "frequency": 0.09090909090909091,
+    "alignmentTxt": "τῷ ἀδίκῳ = unrighteous",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482330",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "11",
+    "alignment_num": "18",
+    "orig_lang_words": ",1463262,",
+    "target_lang_words": ",1245593,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463262,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "11",
+        "word_num": 20,
+        "word": "ἄδικοι",
+        "occurrence": 1,
+        "strong": "G00940",
+        "lemma": "ἄδικος",
+        "morph": "Gr,NS,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἄδικοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1245593,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "11",
+        "word_num": 20,
+        "word": "unrighteous",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "unrighteous",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἄδικοι = unrighteous",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -398,51 +351,107 @@
     "targetWordsTxt": "the unrighteous",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἄδικοι = the unrighteous",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "552403",
-    "book_id": "heb",
-    "chapter": "6",
-    "verse": "10",
-    "alignment_num": "2",
-    "orig_lang_words": ",1536521,",
-    "target_lang_words": ",1344433,",
+    "id": "517253",
+    "book_id": "act",
+    "chapter": "24",
+    "verse": "15",
+    "alignment_num": "15",
+    "orig_lang_words": ",1499924,",
+    "target_lang_words": ",1293084,1293085,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1536521,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 2,
-        "word": "ἄδικος",
+        "id": 1499924,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "15",
+        "word_num": 16,
+        "word": "ἀδίκων",
         "occurrence": 1,
         "strong": "G00940",
         "lemma": "ἄδικος",
-        "morph": "Gr,NP,,,,NMS,"
+        "morph": "Gr,NS,,,,GMP,"
       }
     ],
-    "origWordsTxt": "ἄδικος",
+    "origWordsTxt": "ἀδίκων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1293084,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "15",
+        "word_num": 27,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1293085,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "15",
+        "word_num": 28,
+        "word": "wicked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the wicked",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀδίκων = the wicked",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528050",
+    "book_id": "1co",
+    "chapter": "6",
+    "verse": "1",
+    "alignment_num": "11",
+    "orig_lang_words": ",1511447,",
+    "target_lang_words": ",1309208,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511447,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "1",
+        "word_num": 11,
+        "word": "ἀδίκων",
+        "occurrence": 1,
+        "strong": "G00940",
+        "lemma": "ἄδικος",
+        "morph": "Gr,NS,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀδίκων",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1344433,
-        "book_id": "heb",
+        "id": 1309208,
+        "book_id": "1co",
         "chapter": "6",
-        "verse": "10",
-        "word_num": 2,
-        "word": "is",
+        "verse": "1",
+        "word_num": 18,
+        "word": "unrighteous",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "is",
+    "targetWordsTxt": "unrighteous",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἄδικος = is",
-    "frequency": 0.09090909090909091,
+    "alignmentTxt": "ἀδίκων = unrighteous",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -513,7 +522,8 @@
     "targetWordsTxt": "us who were unrighteous",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἀδίκων = us who were unrighteous",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -566,7 +576,8 @@
     "targetWordsTxt": "unrighteous men",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀδίκους = unrighteous men",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -51,7 +51,92 @@
     "targetWordsTxt": "circumcision",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν περιτομήν = circumcision",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537888",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "27",
+    "orig_lang_words": ",1521565,1521566,",
+    "target_lang_words": ",1323708,1323709,1323710,1323711,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1521565,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 30,
+        "word": "τὴν",
+        "occurrence": 3,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFS,"
+      },
+      {
+        "id": 1521566,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 31,
+        "word": "περιτομήν",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τὴν περιτομήν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1323708,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 48,
+        "word": "those",
+        "occurrence": 1
+      },
+      {
+        "id": 1323709,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 49,
+        "word": "who",
+        "occurrence": 2
+      },
+      {
+        "id": 1323710,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 50,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 1323711,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 51,
+        "word": "circumcised",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "those who are circumcised",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "τὴν περιτομήν = those who are circumcised",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -95,275 +180,8 @@
     "targetWordsTxt": "circumcision",
     "alignmentTargetWords": 1,
     "alignmentTxt": "περιτομὴν = circumcision",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505556",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "8",
-    "alignment_num": "4",
-    "orig_lang_words": ",1487890,",
-    "target_lang_words": ",1277201,1277202,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487890,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "8",
-        "word_num": 4,
-        "word": "περιτομῆς",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομῆς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1277201,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "8",
-        "word_num": 6,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1277202,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "8",
-        "word_num": 7,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of circumcision",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "περιτομῆς = of circumcision",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508712",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "45",
-    "alignment_num": "3",
-    "orig_lang_words": ",1491128,",
-    "target_lang_words": ",1281446,1281447,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491128,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "45",
-        "word_num": 4,
-        "word": "περιτομῆς",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομῆς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1281446,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "45",
-        "word_num": 3,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1281447,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "45",
-        "word_num": 4,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the circumcision",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "περιτομῆς = the circumcision",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508799",
-    "book_id": "act",
-    "chapter": "11",
-    "verse": "2",
-    "alignment_num": "8",
-    "orig_lang_words": ",1491223,",
-    "target_lang_words": ",1281557,1281558,1281559,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491223,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "2",
-        "word_num": 11,
-        "word": "περιτομῆς",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομῆς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1281557,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "2",
-        "word_num": 10,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1281558,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "2",
-        "word_num": 11,
-        "word": "circumcision",
-        "occurrence": 1
-      },
-      {
-        "id": 1281559,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "2",
-        "word_num": 12,
-        "word": "group",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the circumcision group",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "περιτομῆς = the circumcision group",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520730",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "25",
-    "alignment_num": "1",
-    "orig_lang_words": ",1503532,",
-    "target_lang_words": ",1298112,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503532,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 0,
-        "word": "περιτομὴ",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομὴ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298112,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 1,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "circumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "περιτομὴ = circumcision",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520742",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "25",
-    "alignment_num": "13",
-    "orig_lang_words": ",1503544,1503545,",
-    "target_lang_words": ",1298128,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1503544,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 12,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1503545,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 13,
-        "word": "περιτομή",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ περιτομή",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298128,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 17,
-        "word": "circumcision",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "circumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ περιτομή = circumcision",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -407,213 +225,8 @@
     "targetWordsTxt": "circumcision",
     "alignmentTargetWords": 1,
     "alignmentTxt": "περιτομὴν = circumcision",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520773",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "27",
-    "alignment_num": "12",
-    "orig_lang_words": ",1503579,",
-    "target_lang_words": ",1298174,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503579,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "27",
-        "word_num": 14,
-        "word": "περιτομῆς",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομῆς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298174,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "27",
-        "word_num": 24,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "circumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "περιτομῆς = circumcision",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520783",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "28",
-    "alignment_num": "7",
-    "orig_lang_words": ",1503597,",
-    "target_lang_words": ",1298192,1298193,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503597,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "28",
-        "word_num": 15,
-        "word": "περιτομή",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομή",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1298192,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "28",
-        "word_num": 12,
-        "word": "is",
-        "occurrence": 3
-      },
-      {
-        "id": 1298193,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "28",
-        "word_num": 13,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is circumcision",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "περιτομή = is circumcision",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520793",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "29",
-    "alignment_num": "5",
-    "orig_lang_words": ",1503605,",
-    "target_lang_words": ",1298212,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503605,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "29",
-        "word_num": 7,
-        "word": "περιτομὴ",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομὴ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298212,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "29",
-        "word_num": 10,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "circumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "περιτομὴ = circumcision",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520819",
-    "book_id": "rom",
-    "chapter": "3",
-    "verse": "1",
-    "alignment_num": "10",
-    "orig_lang_words": ",1503631,1503632,",
-    "target_lang_words": ",1298250,1298251,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1503631,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 10,
-        "word": "τῆς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GFS,"
-      },
-      {
-        "id": 1503632,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 11,
-        "word": "περιτομῆς",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "τῆς περιτομῆς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1298250,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 12,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1298251,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 13,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of circumcision",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τῆς περιτομῆς = of circumcision",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -666,7 +279,8 @@
     "targetWordsTxt": "the circumcision",
     "alignmentTargetWords": 2,
     "alignmentTxt": "περιτομὴν = the circumcision",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -749,95 +363,335 @@
     "targetWordsTxt": "those of the circumcision",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τὴν περιτομὴν = those of the circumcision",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "521300",
-    "book_id": "rom",
-    "chapter": "4",
-    "verse": "10",
-    "alignment_num": "5",
-    "orig_lang_words": ",1504173,",
-    "target_lang_words": ",1299011,",
+    "id": "539077",
+    "book_id": "gal",
+    "chapter": "5",
+    "verse": "11",
+    "alignment_num": "6",
+    "orig_lang_words": ",1522800,",
+    "target_lang_words": ",1325585,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1504173,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "10",
+        "id": 1522800,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "11",
         "word_num": 4,
-        "word": "περιτομῇ",
+        "word": "περιτομὴν",
         "occurrence": 1,
         "strong": "G40610",
         "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,DFS,"
+        "morph": "Gr,N,,,,,AFS,"
       }
     ],
-    "origWordsTxt": "περιτομῇ",
+    "origWordsTxt": "περιτομὴν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1299011,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "10",
-        "word_num": 9,
+        "id": 1325585,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 6,
         "word": "circumcision",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "circumcision",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "περιτομῇ = circumcision",
-    "frequency": 0.08333333333333333,
+    "alignmentTxt": "περιτομὴν = circumcision",
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "521306",
-    "book_id": "rom",
-    "chapter": "4",
-    "verse": "10",
-    "alignment_num": "11",
-    "orig_lang_words": ",1504180,",
-    "target_lang_words": ",1299019,",
+    "id": "505556",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "8",
+    "alignment_num": "4",
+    "orig_lang_words": ",1487890,",
+    "target_lang_words": ",1277201,1277202,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1504180,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "10",
-        "word_num": 11,
-        "word": "περιτομῇ",
-        "occurrence": 2,
+        "id": 1487890,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 4,
+        "word": "περιτομῆς",
+        "occurrence": 1,
         "strong": "G40610",
         "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,DFS,"
+        "morph": "Gr,N,,,,,GFS,"
       }
     ],
-    "origWordsTxt": "περιτομῇ",
+    "origWordsTxt": "περιτομῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1277201,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 6,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1277202,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 7,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of circumcision",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "περιτομῆς = of circumcision",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508712",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "45",
+    "alignment_num": "3",
+    "orig_lang_words": ",1491128,",
+    "target_lang_words": ",1281446,1281447,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491128,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "45",
+        "word_num": 4,
+        "word": "περιτομῆς",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1281446,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "45",
+        "word_num": 3,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1281447,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "45",
+        "word_num": 4,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the circumcision",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "περιτομῆς = the circumcision",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508799",
+    "book_id": "act",
+    "chapter": "11",
+    "verse": "2",
+    "alignment_num": "8",
+    "orig_lang_words": ",1491223,",
+    "target_lang_words": ",1281557,1281558,1281559,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491223,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "2",
+        "word_num": 11,
+        "word": "περιτομῆς",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1281557,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "2",
+        "word_num": 10,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1281558,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "2",
+        "word_num": 11,
+        "word": "circumcision",
+        "occurrence": 1
+      },
+      {
+        "id": 1281559,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "2",
+        "word_num": 12,
+        "word": "group",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the circumcision group",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "περιτομῆς = the circumcision group",
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520773",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "27",
+    "alignment_num": "12",
+    "orig_lang_words": ",1503579,",
+    "target_lang_words": ",1298174,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503579,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 14,
+        "word": "περιτομῆς",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομῆς",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1299019,
+        "id": 1298174,
         "book_id": "rom",
-        "chapter": "4",
-        "verse": "10",
-        "word_num": 17,
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 24,
         "word": "circumcision",
-        "occurrence": 2
+        "occurrence": 1
       }
     ],
     "targetWordsTxt": "circumcision",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "περιτομῇ = circumcision",
-    "frequency": 0.08333333333333333,
+    "alignmentTxt": "περιτομῆς = circumcision",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520819",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "1",
+    "alignment_num": "10",
+    "orig_lang_words": ",1503631,1503632,",
+    "target_lang_words": ",1298250,1298251,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503631,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 10,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1503632,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 11,
+        "word": "περιτομῆς",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς περιτομῆς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1298250,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 12,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1298251,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 13,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of circumcision",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τῆς περιτομῆς = of circumcision",
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -890,7 +744,8 @@
     "targetWordsTxt": "of circumcision",
     "alignmentTargetWords": 2,
     "alignmentTxt": "περιτομῆς = of circumcision",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -952,7 +807,8 @@
     "targetWordsTxt": "of the circumcision",
     "alignmentTargetWords": 3,
     "alignmentTxt": "περιτομῆς = of the circumcision",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1017,7 +873,8 @@
     "targetWordsTxt": "who are",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐκ περιτομῆς = who are",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1079,63 +936,8 @@
     "targetWordsTxt": "of the circumcision",
     "alignmentTargetWords": 3,
     "alignmentTxt": "περιτομῆς = of the circumcision",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "528675",
-    "book_id": "1co",
-    "chapter": "7",
-    "verse": "19",
-    "alignment_num": "0",
-    "orig_lang_words": ",1512085,1512086,",
-    "target_lang_words": ",1310097,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1512085,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 0,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1512086,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 1,
-        "word": "περιτομὴ",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ περιτομὴ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1310097,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 0,
-        "word": "Circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Circumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ περιτομὴ = Circumcision",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1281,7 +1083,8 @@
     "targetWordsTxt": "had been entrusted with the gospel to those who are circumcised",
     "alignmentTargetWords": 11,
     "alignmentTxt": "τῆς περιτομῆς = had been entrusted with the gospel to those who are circumcised",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1373,90 +1176,8 @@
     "targetWordsTxt": "to those who are circumcised",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τῆς περιτομῆς = to those who are circumcised",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537888",
-    "book_id": "gal",
-    "chapter": "2",
-    "verse": "9",
-    "alignment_num": "27",
-    "orig_lang_words": ",1521565,1521566,",
-    "target_lang_words": ",1323708,1323709,1323710,1323711,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1521565,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 30,
-        "word": "τὴν",
-        "occurrence": 3,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFS,"
-      },
-      {
-        "id": 1521566,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 31,
-        "word": "περιτομήν",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "τὴν περιτομήν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1323708,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 48,
-        "word": "those",
-        "occurrence": 1
-      },
-      {
-        "id": 1323709,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 49,
-        "word": "who",
-        "occurrence": 2
-      },
-      {
-        "id": 1323710,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 50,
-        "word": "are",
-        "occurrence": 1
-      },
-      {
-        "id": 1323711,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 51,
-        "word": "circumcised",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "those who are circumcised",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "τὴν περιτομήν = those who are circumcised",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1560,139 +1281,8 @@
     "targetWordsTxt": "those who were demanding circumcision",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τοὺς ἐκ περιτομῆς = those who were demanding circumcision",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539021",
-    "book_id": "gal",
-    "chapter": "5",
-    "verse": "6",
-    "alignment_num": "5",
-    "orig_lang_words": ",1522745,",
-    "target_lang_words": ",1325508,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522745,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 5,
-        "word": "περιτομή",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομή",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1325508,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 5,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "circumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "περιτομή = circumcision",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539077",
-    "book_id": "gal",
-    "chapter": "5",
-    "verse": "11",
-    "alignment_num": "6",
-    "orig_lang_words": ",1522800,",
-    "target_lang_words": ",1325585,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522800,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 4,
-        "word": "περιτομὴν",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1325585,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 6,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "circumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "περιτομὴν = circumcision",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539471",
-    "book_id": "gal",
-    "chapter": "6",
-    "verse": "15",
-    "alignment_num": "2",
-    "orig_lang_words": ",1523210,",
-    "target_lang_words": ",1326189,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523210,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "15",
-        "word_num": 2,
-        "word": "περιτομή",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομή",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326189,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "15",
-        "word_num": 2,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "circumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "περιτομή = circumcision",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1736,7 +1326,500 @@
     "targetWordsTxt": "circumcised",
     "alignmentTargetWords": 1,
     "alignmentTxt": "περιτομῆς = circumcised",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544851",
+    "book_id": "col",
+    "chapter": "4",
+    "verse": "11",
+    "alignment_num": "16",
+    "orig_lang_words": ",1528762,",
+    "target_lang_words": ",1333671,1333672,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528762,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 8,
+        "word": "περιτομῆς",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1333671,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 21,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1333672,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 22,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the circumcision",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "περιτομῆς = the circumcision",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550144",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "11",
+    "orig_lang_words": ",1534178,",
+    "target_lang_words": ",1341088,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534178,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 12,
+        "word": "περιτομῆς",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341088,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 14,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "circumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "περιτομῆς = circumcision",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520730",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "25",
+    "alignment_num": "1",
+    "orig_lang_words": ",1503532,",
+    "target_lang_words": ",1298112,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503532,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 0,
+        "word": "περιτομὴ",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομὴ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298112,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 1,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "circumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "περιτομὴ = circumcision",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520793",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "29",
+    "alignment_num": "5",
+    "orig_lang_words": ",1503605,",
+    "target_lang_words": ",1298212,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503605,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "29",
+        "word_num": 7,
+        "word": "περιτομὴ",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομὴ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298212,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "29",
+        "word_num": 10,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "circumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "περιτομὴ = circumcision",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528675",
+    "book_id": "1co",
+    "chapter": "7",
+    "verse": "19",
+    "alignment_num": "0",
+    "orig_lang_words": ",1512085,1512086,",
+    "target_lang_words": ",1310097,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1512085,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 0,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1512086,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 1,
+        "word": "περιτομὴ",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ περιτομὴ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1310097,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 0,
+        "word": "Circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Circumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ περιτομὴ = Circumcision",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544479",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "11",
+    "alignment_num": "6",
+    "orig_lang_words": ",1528376,",
+    "target_lang_words": ",1333140,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528376,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 6,
+        "word": "περιτομὴ",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομὴ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333140,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 9,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "circumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "περιτομὴ = circumcision",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520742",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "25",
+    "alignment_num": "13",
+    "orig_lang_words": ",1503544,1503545,",
+    "target_lang_words": ",1298128,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503544,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 12,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1503545,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 13,
+        "word": "περιτομή",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ περιτομή",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298128,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 17,
+        "word": "circumcision",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "circumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ περιτομή = circumcision",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520783",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "28",
+    "alignment_num": "7",
+    "orig_lang_words": ",1503597,",
+    "target_lang_words": ",1298192,1298193,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503597,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "28",
+        "word_num": 15,
+        "word": "περιτομή",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομή",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1298192,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "28",
+        "word_num": 12,
+        "word": "is",
+        "occurrence": 3
+      },
+      {
+        "id": 1298193,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "28",
+        "word_num": 13,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is circumcision",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "περιτομή = is circumcision",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539021",
+    "book_id": "gal",
+    "chapter": "5",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1522745,",
+    "target_lang_words": ",1325508,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522745,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 5,
+        "word": "περιτομή",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομή",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325508,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 5,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "circumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "περιτομή = circumcision",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539471",
+    "book_id": "gal",
+    "chapter": "6",
+    "verse": "15",
+    "alignment_num": "2",
+    "orig_lang_words": ",1523210,",
+    "target_lang_words": ",1326189,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523210,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "15",
+        "word_num": 2,
+        "word": "περιτομή",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομή",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326189,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "15",
+        "word_num": 2,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "circumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "περιτομή = circumcision",
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1780,7 +1863,98 @@
     "targetWordsTxt": "circumcision",
     "alignmentTargetWords": 1,
     "alignmentTxt": "περιτομή = circumcision",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521300",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "10",
+    "alignment_num": "5",
+    "orig_lang_words": ",1504173,",
+    "target_lang_words": ",1299011,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504173,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "10",
+        "word_num": 4,
+        "word": "περιτομῇ",
+        "occurrence": 1,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299011,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "10",
+        "word_num": 9,
+        "word": "circumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "circumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "περιτομῇ = circumcision",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521306",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "10",
+    "alignment_num": "11",
+    "orig_lang_words": ",1504180,",
+    "target_lang_words": ",1299019,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504180,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "10",
+        "word_num": 11,
+        "word": "περιτομῇ",
+        "occurrence": 2,
+        "strong": "G40610",
+        "lemma": "περιτομή",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "περιτομῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299019,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "10",
+        "word_num": 17,
+        "word": "circumcision",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "circumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "περιτομῇ = circumcision",
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1842,7 +2016,8 @@
     "targetWordsTxt": "I was circumcised",
     "alignmentTargetWords": 3,
     "alignmentTxt": "περιτομῇ = I was circumcised",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1904,7 +2079,8 @@
     "targetWordsTxt": "with a circumcision",
     "alignmentTargetWords": 3,
     "alignmentTxt": "περιτομῇ = with a circumcision",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1948,148 +2124,8 @@
     "targetWordsTxt": "circumcision",
     "alignmentTargetWords": 1,
     "alignmentTxt": "περιτομῇ = circumcision",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544479",
-    "book_id": "col",
-    "chapter": "3",
-    "verse": "11",
-    "alignment_num": "6",
-    "orig_lang_words": ",1528376,",
-    "target_lang_words": ",1333140,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528376,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 6,
-        "word": "περιτομὴ",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομὴ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1333140,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 9,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "circumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "περιτομὴ = circumcision",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544851",
-    "book_id": "col",
-    "chapter": "4",
-    "verse": "11",
-    "alignment_num": "16",
-    "orig_lang_words": ",1528762,",
-    "target_lang_words": ",1333671,1333672,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528762,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 8,
-        "word": "περιτομῆς",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομῆς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1333671,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 21,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1333672,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 22,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the circumcision",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "περιτομῆς = the circumcision",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550144",
-    "book_id": "tit",
-    "chapter": "1",
-    "verse": "10",
-    "alignment_num": "11",
-    "orig_lang_words": ",1534178,",
-    "target_lang_words": ",1341088,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534178,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 12,
-        "word": "περιτομῆς",
-        "occurrence": 1,
-        "strong": "G40610",
-        "lemma": "περιτομή",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "περιτομῆς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341088,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 14,
-        "word": "circumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "circumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "περιτομῆς = circumcision",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

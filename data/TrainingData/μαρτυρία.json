@@ -39,7 +39,893 @@
     "targetWordsTxt": "testimony",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μαρτυρίαν = testimony",
-    "frequency": 0.24324324324324326,
+    "frequency": 0.47368421052631576,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "487602",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "7",
+    "alignment_num": "3",
+    "orig_lang_words": ",1468601,",
+    "target_lang_words": ",1252792,1252793,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1468601,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 3,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1252792,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 3,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1252793,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 4,
+        "word": "witness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a witness",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μαρτυρίαν = a witness",
+    "frequency": 0.05263157894736842,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488875",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "11",
+    "alignment_num": "14",
+    "orig_lang_words": ",1469982,1469983,",
+    "target_lang_words": ",1254487,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1469982,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 13,
+        "word": "τὴν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFS,"
+      },
+      {
+        "id": 1469983,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 14,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τὴν μαρτυρίαν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254487,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 25,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὴν μαρτυρίαν = testimony",
+    "frequency": 0.21052631578947367,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489238",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "32",
+    "alignment_num": "11",
+    "orig_lang_words": ",1470373,1470374,",
+    "target_lang_words": ",1254955,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1470373,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "32",
+        "word_num": 7,
+        "word": "τὴν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFS,"
+      },
+      {
+        "id": 1470374,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "32",
+        "word_num": 8,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τὴν μαρτυρίαν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254955,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "32",
+        "word_num": 14,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὴν μαρτυρίαν = testimony",
+    "frequency": 0.21052631578947367,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489241",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "33",
+    "alignment_num": "2",
+    "orig_lang_words": ",1470381,1470382,",
+    "target_lang_words": ",1254961,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1470381,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "33",
+        "word_num": 3,
+        "word": "τὴν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFS,"
+      },
+      {
+        "id": 1470382,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "33",
+        "word_num": 4,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τὴν μαρτυρίαν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254961,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "33",
+        "word_num": 5,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὴν μαρτυρίαν = testimony",
+    "frequency": 0.21052631578947367,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490688",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "34",
+    "alignment_num": "2",
+    "orig_lang_words": ",1471980,",
+    "target_lang_words": ",1256920,1256921,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471980,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "34",
+        "word_num": 6,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1256920,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "34",
+        "word_num": 2,
+        "word": "testimony",
+        "occurrence": 1
+      },
+      {
+        "id": 1256921,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "34",
+        "word_num": 3,
+        "word": "that",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony that",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μαρτυρίαν = testimony that",
+    "frequency": 0.10526315789473684,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490718",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "36",
+    "alignment_num": "2",
+    "orig_lang_words": ",1472010,",
+    "target_lang_words": ",1256961,1256962,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1472010,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "36",
+        "word_num": 4,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1256961,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "36",
+        "word_num": 2,
+        "word": "testimony",
+        "occurrence": 1
+      },
+      {
+        "id": 1256962,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "36",
+        "word_num": 3,
+        "word": "that",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony that",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μαρτυρίαν = testimony that",
+    "frequency": 0.10526315789473684,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516119",
+    "book_id": "act",
+    "chapter": "22",
+    "verse": "18",
+    "alignment_num": "16",
+    "orig_lang_words": ",1498773,",
+    "target_lang_words": ",1291473,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498773,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "18",
+        "word_num": 16,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1291473,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "18",
+        "word_num": 20,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = testimony",
+    "frequency": 0.47368421052631576,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547716",
+    "book_id": "1ti",
+    "chapter": "3",
+    "verse": "7",
+    "alignment_num": "3",
+    "orig_lang_words": ",1531755,",
+    "target_lang_words": ",1337680,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531755,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 3,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337680,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 4,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = a",
+    "frequency": 0.05263157894736842,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561588",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "9",
+    "alignment_num": "3",
+    "orig_lang_words": ",1546342,",
+    "target_lang_words": ",1358276,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546342,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 2,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358276,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 4,
+        "word": "witness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "witness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = witness",
+    "frequency": 0.10526315789473684,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561613",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "10",
+    "alignment_num": "7",
+    "orig_lang_words": ",1546374,",
+    "target_lang_words": ",1358310,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546374,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 9,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358310,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 10,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = testimony",
+    "frequency": 0.47368421052631576,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561631",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "10",
+    "alignment_num": "25",
+    "orig_lang_words": ",1546390,",
+    "target_lang_words": ",1358334,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546390,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 25,
+        "word": "μαρτυρίαν",
+        "occurrence": 2,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358334,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 34,
+        "word": "witness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "witness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = witness",
+    "frequency": 0.10526315789473684,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562750",
+    "book_id": "rev",
+    "chapter": "1",
+    "verse": "2",
+    "alignment_num": "7",
+    "orig_lang_words": ",1547571,",
+    "target_lang_words": ",1359973,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547571,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 8,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1359973,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "2",
+        "word_num": 9,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = testimony",
+    "frequency": 0.47368421052631576,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562914",
+    "book_id": "rev",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "27",
+    "orig_lang_words": ",1547756,",
+    "target_lang_words": ",1360202,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547756,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 30,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1360202,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 37,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = testimony",
+    "frequency": 0.47368421052631576,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564919",
+    "book_id": "rev",
+    "chapter": "6",
+    "verse": "9",
+    "alignment_num": "20",
+    "orig_lang_words": ",1550002,",
+    "target_lang_words": ",1363058,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550002,
+        "book_id": "rev",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 22,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1363058,
+        "book_id": "rev",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 31,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = testimony",
+    "frequency": 0.47368421052631576,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566586",
+    "book_id": "rev",
+    "chapter": "11",
+    "verse": "7",
+    "alignment_num": "3",
+    "orig_lang_words": ",1551845,1551846,",
+    "target_lang_words": ",1365320,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1551845,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "7",
+        "word_num": 3,
+        "word": "τὴν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFS,"
+      },
+      {
+        "id": 1551846,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "7",
+        "word_num": 4,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τὴν μαρτυρίαν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365320,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "7",
+        "word_num": 6,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὴν μαρτυρίαν = testimony",
+    "frequency": 0.21052631578947367,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567276",
+    "book_id": "rev",
+    "chapter": "12",
+    "verse": "17",
+    "alignment_num": "24",
+    "orig_lang_words": ",1552625,",
+    "target_lang_words": ",1366250,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1552625,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 26,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366250,
+        "book_id": "rev",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 32,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = testimony",
+    "frequency": 0.47368421052631576,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569955",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "10",
+    "alignment_num": "19",
+    "orig_lang_words": ",1555597,",
+    "target_lang_words": ",1369837,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555597,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "10",
+        "word_num": 23,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369837,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "10",
+        "word_num": 32,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = testimony",
+    "frequency": 0.47368421052631576,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570298",
+    "book_id": "rev",
+    "chapter": "20",
+    "verse": "4",
+    "alignment_num": "12",
+    "orig_lang_words": ",1555983,",
+    "target_lang_words": ",1370296,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555983,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "4",
+        "word_num": 18,
+        "word": "μαρτυρίαν",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1370296,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "4",
+        "word_num": 19,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρίαν = testimony",
+    "frequency": 0.47368421052631576,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +969,8 @@
     "targetWordsTxt": "testimony",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μαρτυρίαι = testimony",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -139,7 +1026,722 @@
     "targetWordsTxt": "testimony",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἡ μαρτυρία = testimony",
-    "frequency": 0.16216216216216217,
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "487777",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "19",
+    "alignment_num": "3",
+    "orig_lang_words": ",1468785,",
+    "target_lang_words": ",1253024,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1468785,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 4,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1253024,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 3,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρία = testimony",
+    "frequency": 0.3333333333333333,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490657",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "31",
+    "alignment_num": "6",
+    "orig_lang_words": ",1471943,1471944,",
+    "target_lang_words": ",1256881,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1471943,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 5,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1471944,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 6,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ μαρτυρία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256881,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 7,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ μαρτυρία = testimony",
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490671",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "32",
+    "alignment_num": "9",
+    "orig_lang_words": ",1471961,",
+    "target_lang_words": ",1256898,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471961,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "32",
+        "word_num": 12,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256898,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "32",
+        "word_num": 12,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρία = testimony",
+    "frequency": 0.3333333333333333,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492893",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "13",
+    "alignment_num": "10",
+    "orig_lang_words": ",1474485,1474486,",
+    "target_lang_words": ",1260030,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1474485,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "13",
+        "word_num": 9,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1474486,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "13",
+        "word_num": 10,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ μαρτυρία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260030,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "13",
+        "word_num": 11,
+        "word": "witness",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "witness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ μαρτυρία = witness",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492908",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "14",
+    "alignment_num": "11",
+    "orig_lang_words": ",1474503,1474504,",
+    "target_lang_words": ",1260048,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1474503,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "14",
+        "word_num": 12,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1474504,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "14",
+        "word_num": 13,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ μαρτυρία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260048,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "14",
+        "word_num": 14,
+        "word": "witness",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "witness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ μαρτυρία = witness",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492965",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "17",
+    "alignment_num": "8",
+    "orig_lang_words": ",1474565,",
+    "target_lang_words": ",1260119,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1474565,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "17",
+        "word_num": 12,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260119,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "17",
+        "word_num": 9,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρία = testimony",
+    "frequency": 0.3333333333333333,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500721",
+    "book_id": "jhn",
+    "chapter": "19",
+    "verse": "35",
+    "alignment_num": "4",
+    "orig_lang_words": ",1482852,1482853,",
+    "target_lang_words": ",1270737,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1482852,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "35",
+        "word_num": 8,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1482853,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "35",
+        "word_num": 9,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ μαρτυρία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1270737,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "35",
+        "word_num": 9,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ μαρτυρία = testimony",
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501924",
+    "book_id": "jhn",
+    "chapter": "21",
+    "verse": "24",
+    "alignment_num": "14",
+    "orig_lang_words": ",1484129,1484130,",
+    "target_lang_words": ",1272380,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1484129,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "24",
+        "word_num": 17,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1484130,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "24",
+        "word_num": 18,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ μαρτυρία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1272380,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "24",
+        "word_num": 19,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ μαρτυρία = testimony",
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550175",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "1",
+    "orig_lang_words": ",1534207,1534208,",
+    "target_lang_words": ",1341129,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1534207,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 0,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1534208,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 1,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ μαρτυρία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341129,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 1,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ μαρτυρία = testimony",
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561591",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "9",
+    "alignment_num": "6",
+    "orig_lang_words": ",1546347,",
+    "target_lang_words": ",1358280,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546347,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 7,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358280,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 8,
+        "word": "witness",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "witness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρία = witness",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561597",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "9",
+    "alignment_num": "12",
+    "orig_lang_words": ",1546356,",
+    "target_lang_words": ",1358287,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546356,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 16,
+        "word": "μαρτυρία",
+        "occurrence": 2,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358287,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "9",
+        "word_num": 15,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρία = testimony",
+    "frequency": 0.3333333333333333,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561641",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "11",
+    "alignment_num": "3",
+    "orig_lang_words": ",1546403,",
+    "target_lang_words": ",1358345,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546403,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 4,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358345,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 3,
+        "word": "witness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "witness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρία = witness",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562245",
+    "book_id": "3jn",
+    "chapter": "1",
+    "verse": "12",
+    "alignment_num": "17",
+    "orig_lang_words": ",1547038,1547039,",
+    "target_lang_words": ",1359207,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1547038,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 16,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1547039,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 17,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ μαρτυρία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1359207,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 22,
+        "word": "testimony",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ μαρτυρία = testimony",
+    "frequency": 0.4,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569961",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "10",
+    "alignment_num": "25",
+    "orig_lang_words": ",1555604,",
+    "target_lang_words": ",1369844,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555604,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "10",
+        "word_num": 30,
+        "word": "μαρτυρία",
+        "occurrence": 1,
+        "strong": "G31410",
+        "lemma": "μαρτυρία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "μαρτυρία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369844,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "10",
+        "word_num": 39,
+        "word": "testimony",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "testimony",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μαρτυρία = testimony",
+    "frequency": 0.3333333333333333,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -201,1398 +1803,8 @@
     "targetWordsTxt": "of a witness",
     "alignmentTargetWords": 3,
     "alignmentTxt": "μαρτυρίας = of a witness",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487602",
-    "book_id": "jhn",
-    "chapter": "1",
-    "verse": "7",
-    "alignment_num": "3",
-    "orig_lang_words": ",1468601,",
-    "target_lang_words": ",1252792,1252793,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468601,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "7",
-        "word_num": 3,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1252792,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "7",
-        "word_num": 3,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1252793,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "7",
-        "word_num": 4,
-        "word": "witness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a witness",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μαρτυρίαν = a witness",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487777",
-    "book_id": "jhn",
-    "chapter": "1",
-    "verse": "19",
-    "alignment_num": "3",
-    "orig_lang_words": ",1468785,",
-    "target_lang_words": ",1253024,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468785,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 4,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1253024,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 3,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρία = testimony",
-    "frequency": 0.13513513513513514,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488875",
-    "book_id": "jhn",
-    "chapter": "3",
-    "verse": "11",
-    "alignment_num": "14",
-    "orig_lang_words": ",1469982,1469983,",
-    "target_lang_words": ",1254487,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1469982,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 13,
-        "word": "τὴν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFS,"
-      },
-      {
-        "id": 1469983,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 14,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "τὴν μαρτυρίαν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1254487,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 25,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὴν μαρτυρίαν = testimony",
-    "frequency": 0.10810810810810811,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "489238",
-    "book_id": "jhn",
-    "chapter": "3",
-    "verse": "32",
-    "alignment_num": "11",
-    "orig_lang_words": ",1470373,1470374,",
-    "target_lang_words": ",1254955,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1470373,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "32",
-        "word_num": 7,
-        "word": "τὴν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFS,"
-      },
-      {
-        "id": 1470374,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "32",
-        "word_num": 8,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "τὴν μαρτυρίαν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1254955,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "32",
-        "word_num": 14,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὴν μαρτυρίαν = testimony",
-    "frequency": 0.10810810810810811,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "489241",
-    "book_id": "jhn",
-    "chapter": "3",
-    "verse": "33",
-    "alignment_num": "2",
-    "orig_lang_words": ",1470381,1470382,",
-    "target_lang_words": ",1254961,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1470381,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "33",
-        "word_num": 3,
-        "word": "τὴν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFS,"
-      },
-      {
-        "id": 1470382,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "33",
-        "word_num": 4,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "τὴν μαρτυρίαν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1254961,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "33",
-        "word_num": 5,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὴν μαρτυρίαν = testimony",
-    "frequency": 0.10810810810810811,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490657",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "31",
-    "alignment_num": "6",
-    "orig_lang_words": ",1471943,1471944,",
-    "target_lang_words": ",1256881,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1471943,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 5,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1471944,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 6,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ μαρτυρία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1256881,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 7,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ μαρτυρία = testimony",
-    "frequency": 0.16216216216216217,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490671",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "32",
-    "alignment_num": "9",
-    "orig_lang_words": ",1471961,",
-    "target_lang_words": ",1256898,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471961,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "32",
-        "word_num": 12,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1256898,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "32",
-        "word_num": 12,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρία = testimony",
-    "frequency": 0.13513513513513514,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490688",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "34",
-    "alignment_num": "2",
-    "orig_lang_words": ",1471980,",
-    "target_lang_words": ",1256920,1256921,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471980,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "34",
-        "word_num": 6,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1256920,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "34",
-        "word_num": 2,
-        "word": "testimony",
-        "occurrence": 1
-      },
-      {
-        "id": 1256921,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "34",
-        "word_num": 3,
-        "word": "that",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony that",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μαρτυρίαν = testimony that",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490718",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "36",
-    "alignment_num": "2",
-    "orig_lang_words": ",1472010,",
-    "target_lang_words": ",1256961,1256962,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1472010,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "36",
-        "word_num": 4,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1256961,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "36",
-        "word_num": 2,
-        "word": "testimony",
-        "occurrence": 1
-      },
-      {
-        "id": 1256962,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "36",
-        "word_num": 3,
-        "word": "that",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony that",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μαρτυρίαν = testimony that",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492893",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "13",
-    "alignment_num": "10",
-    "orig_lang_words": ",1474485,1474486,",
-    "target_lang_words": ",1260030,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1474485,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "13",
-        "word_num": 9,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1474486,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "13",
-        "word_num": 10,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ μαρτυρία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1260030,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "13",
-        "word_num": 11,
-        "word": "witness",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "witness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ μαρτυρία = witness",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492908",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "14",
-    "alignment_num": "11",
-    "orig_lang_words": ",1474503,1474504,",
-    "target_lang_words": ",1260048,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1474503,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "14",
-        "word_num": 12,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1474504,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "14",
-        "word_num": 13,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ μαρτυρία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1260048,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "14",
-        "word_num": 14,
-        "word": "witness",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "witness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ μαρτυρία = witness",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492965",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "17",
-    "alignment_num": "8",
-    "orig_lang_words": ",1474565,",
-    "target_lang_words": ",1260119,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1474565,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "17",
-        "word_num": 12,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1260119,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "17",
-        "word_num": 9,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρία = testimony",
-    "frequency": 0.13513513513513514,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500721",
-    "book_id": "jhn",
-    "chapter": "19",
-    "verse": "35",
-    "alignment_num": "4",
-    "orig_lang_words": ",1482852,1482853,",
-    "target_lang_words": ",1270737,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1482852,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "35",
-        "word_num": 8,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1482853,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "35",
-        "word_num": 9,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ μαρτυρία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1270737,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "35",
-        "word_num": 9,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ μαρτυρία = testimony",
-    "frequency": 0.16216216216216217,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501924",
-    "book_id": "jhn",
-    "chapter": "21",
-    "verse": "24",
-    "alignment_num": "14",
-    "orig_lang_words": ",1484129,1484130,",
-    "target_lang_words": ",1272380,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1484129,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "24",
-        "word_num": 17,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1484130,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "24",
-        "word_num": 18,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ μαρτυρία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1272380,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "24",
-        "word_num": 19,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ μαρτυρία = testimony",
-    "frequency": 0.16216216216216217,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516119",
-    "book_id": "act",
-    "chapter": "22",
-    "verse": "18",
-    "alignment_num": "16",
-    "orig_lang_words": ",1498773,",
-    "target_lang_words": ",1291473,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1498773,
-        "book_id": "act",
-        "chapter": "22",
-        "verse": "18",
-        "word_num": 16,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1291473,
-        "book_id": "act",
-        "chapter": "22",
-        "verse": "18",
-        "word_num": 20,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = testimony",
-    "frequency": 0.24324324324324326,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547716",
-    "book_id": "1ti",
-    "chapter": "3",
-    "verse": "7",
-    "alignment_num": "3",
-    "orig_lang_words": ",1531755,",
-    "target_lang_words": ",1337680,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531755,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 3,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337680,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 4,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = a",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550175",
-    "book_id": "tit",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "1",
-    "orig_lang_words": ",1534207,1534208,",
-    "target_lang_words": ",1341129,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1534207,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 0,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1534208,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 1,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ μαρτυρία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341129,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 1,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ μαρτυρία = testimony",
-    "frequency": 0.16216216216216217,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561588",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "9",
-    "alignment_num": "3",
-    "orig_lang_words": ",1546342,",
-    "target_lang_words": ",1358276,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546342,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 2,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358276,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 4,
-        "word": "witness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "witness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = witness",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561591",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "9",
-    "alignment_num": "6",
-    "orig_lang_words": ",1546347,",
-    "target_lang_words": ",1358280,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546347,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 7,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358280,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 8,
-        "word": "witness",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "witness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρία = witness",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561597",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "9",
-    "alignment_num": "12",
-    "orig_lang_words": ",1546356,",
-    "target_lang_words": ",1358287,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546356,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 16,
-        "word": "μαρτυρία",
-        "occurrence": 2,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358287,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "9",
-        "word_num": 15,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρία = testimony",
-    "frequency": 0.13513513513513514,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561613",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "10",
-    "alignment_num": "7",
-    "orig_lang_words": ",1546374,",
-    "target_lang_words": ",1358310,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546374,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 9,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358310,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 10,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = testimony",
-    "frequency": 0.24324324324324326,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561631",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "10",
-    "alignment_num": "25",
-    "orig_lang_words": ",1546390,",
-    "target_lang_words": ",1358334,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546390,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 25,
-        "word": "μαρτυρίαν",
-        "occurrence": 2,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358334,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 34,
-        "word": "witness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "witness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = witness",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561641",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "11",
-    "alignment_num": "3",
-    "orig_lang_words": ",1546403,",
-    "target_lang_words": ",1358345,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546403,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 4,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358345,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 3,
-        "word": "witness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "witness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρία = witness",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562245",
-    "book_id": "3jn",
-    "chapter": "1",
-    "verse": "12",
-    "alignment_num": "17",
-    "orig_lang_words": ",1547038,1547039,",
-    "target_lang_words": ",1359207,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1547038,
-        "book_id": "3jn",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 16,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1547039,
-        "book_id": "3jn",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 17,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ μαρτυρία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1359207,
-        "book_id": "3jn",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 22,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ μαρτυρία = testimony",
-    "frequency": 0.16216216216216217,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562750",
-    "book_id": "rev",
-    "chapter": "1",
-    "verse": "2",
-    "alignment_num": "7",
-    "orig_lang_words": ",1547571,",
-    "target_lang_words": ",1359973,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1547571,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 8,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1359973,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "2",
-        "word_num": 9,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = testimony",
-    "frequency": 0.24324324324324326,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562914",
-    "book_id": "rev",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "27",
-    "orig_lang_words": ",1547756,",
-    "target_lang_words": ",1360202,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1547756,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 30,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1360202,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 37,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = testimony",
-    "frequency": 0.24324324324324326,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564919",
-    "book_id": "rev",
-    "chapter": "6",
-    "verse": "9",
-    "alignment_num": "20",
-    "orig_lang_words": ",1550002,",
-    "target_lang_words": ",1363058,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550002,
-        "book_id": "rev",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 22,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1363058,
-        "book_id": "rev",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 31,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = testimony",
-    "frequency": 0.24324324324324326,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566586",
-    "book_id": "rev",
-    "chapter": "11",
-    "verse": "7",
-    "alignment_num": "3",
-    "orig_lang_words": ",1551845,1551846,",
-    "target_lang_words": ",1365320,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1551845,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "7",
-        "word_num": 3,
-        "word": "τὴν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFS,"
-      },
-      {
-        "id": 1551846,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "7",
-        "word_num": 4,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "τὴν μαρτυρίαν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1365320,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "7",
-        "word_num": 6,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὴν μαρτυρίαν = testimony",
-    "frequency": 0.10810810810810811,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1648,183 +1860,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς μαρτυρίας = of",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567276",
-    "book_id": "rev",
-    "chapter": "12",
-    "verse": "17",
-    "alignment_num": "24",
-    "orig_lang_words": ",1552625,",
-    "target_lang_words": ",1366250,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1552625,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 26,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366250,
-        "book_id": "rev",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 32,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = testimony",
-    "frequency": 0.24324324324324326,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569955",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "10",
-    "alignment_num": "19",
-    "orig_lang_words": ",1555597,",
-    "target_lang_words": ",1369837,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555597,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "10",
-        "word_num": 23,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369837,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "10",
-        "word_num": 32,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = testimony",
-    "frequency": 0.24324324324324326,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569961",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "10",
-    "alignment_num": "25",
-    "orig_lang_words": ",1555604,",
-    "target_lang_words": ",1369844,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555604,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "10",
-        "word_num": 30,
-        "word": "μαρτυρία",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369844,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "10",
-        "word_num": 39,
-        "word": "testimony",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρία = testimony",
-    "frequency": 0.13513513513513514,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "570298",
-    "book_id": "rev",
-    "chapter": "20",
-    "verse": "4",
-    "alignment_num": "12",
-    "orig_lang_words": ",1555983,",
-    "target_lang_words": ",1370296,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555983,
-        "book_id": "rev",
-        "chapter": "20",
-        "verse": "4",
-        "word_num": 18,
-        "word": "μαρτυρίαν",
-        "occurrence": 1,
-        "strong": "G31410",
-        "lemma": "μαρτυρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μαρτυρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1370296,
-        "book_id": "rev",
-        "chapter": "20",
-        "verse": "4",
-        "word_num": 19,
-        "word": "testimony",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testimony",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μαρτυρίαν = testimony",
-    "frequency": 0.24324324324324326,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

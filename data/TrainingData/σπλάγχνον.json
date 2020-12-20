@@ -48,7 +48,8 @@
     "targetWordsTxt": "the tender",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σπλάγχνα = the tender",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -113,72 +114,8 @@
     "targetWordsTxt": "inward parts",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὰ σπλάγχνα = inward parts",
-    "frequency": 0.2727272727272727,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534863",
-    "book_id": "2co",
-    "chapter": "6",
-    "verse": "12",
-    "alignment_num": "9",
-    "orig_lang_words": ",1518454,1518455,",
-    "target_lang_words": ",1319194,1319195,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1518454,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 7,
-        "word": "τοῖς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNP,"
-      },
-      {
-        "id": 1518455,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 8,
-        "word": "σπλάγχνοις",
-        "occurrence": 1,
-        "strong": "G46980",
-        "lemma": "σπλάγχνον",
-        "morph": "Gr,N,,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "τοῖς σπλάγχνοις",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1319194,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 12,
-        "word": "inward",
-        "occurrence": 1
-      },
-      {
-        "id": 1319195,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 13,
-        "word": "parts",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "inward parts",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τοῖς σπλάγχνοις = inward parts",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -234,60 +171,8 @@
     "targetWordsTxt": "affections",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ σπλάγχνα = affections",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542057",
-    "book_id": "php",
-    "chapter": "1",
-    "verse": "8",
-    "alignment_num": "9",
-    "orig_lang_words": ",1525813,",
-    "target_lang_words": ",1329510,1329511,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525813,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 10,
-        "word": "σπλάγχνοις",
-        "occurrence": 1,
-        "strong": "G46980",
-        "lemma": "σπλάγχνον",
-        "morph": "Gr,N,,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "σπλάγχνοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1329510,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 13,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1329511,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 14,
-        "word": "affections",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the affections",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "σπλάγχνοις = the affections",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -331,7 +216,8 @@
     "targetWordsTxt": "affections",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σπλάγχνα = affections",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -384,7 +270,8 @@
     "targetWordsTxt": "inward parts",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σπλάγχνα = inward parts",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -437,7 +324,8 @@
     "targetWordsTxt": "inward parts",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σπλάγχνα = inward parts",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -490,7 +378,8 @@
     "targetWordsTxt": "inward parts",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σπλάγχνα = inward parts",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -555,7 +444,8 @@
     "targetWordsTxt": "inward parts",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὰ σπλάγχνα = inward parts",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -620,7 +510,128 @@
     "targetWordsTxt": "inward parts",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὰ σπλάγχνα = inward parts",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534863",
+    "book_id": "2co",
+    "chapter": "6",
+    "verse": "12",
+    "alignment_num": "9",
+    "orig_lang_words": ",1518454,1518455,",
+    "target_lang_words": ",1319194,1319195,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1518454,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 7,
+        "word": "τοῖς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNP,"
+      },
+      {
+        "id": 1518455,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 8,
+        "word": "σπλάγχνοις",
+        "occurrence": 1,
+        "strong": "G46980",
+        "lemma": "σπλάγχνον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "τοῖς σπλάγχνοις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1319194,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 12,
+        "word": "inward",
+        "occurrence": 1
+      },
+      {
+        "id": 1319195,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 13,
+        "word": "parts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "inward parts",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τοῖς σπλάγχνοις = inward parts",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542057",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "8",
+    "alignment_num": "9",
+    "orig_lang_words": ",1525813,",
+    "target_lang_words": ",1329510,1329511,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525813,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 10,
+        "word": "σπλάγχνοις",
+        "occurrence": 1,
+        "strong": "G46980",
+        "lemma": "σπλάγχνον",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "σπλάγχνοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1329510,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 13,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1329511,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 14,
+        "word": "affections",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the affections",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σπλάγχνοις = the affections",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

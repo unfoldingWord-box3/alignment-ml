@@ -51,7 +51,8 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οἱ κακοὶ = evil",
-    "frequency": 0.020833333333333332,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -95,7 +96,368 @@
     "targetWordsTxt": "wrong",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακόν = wrong",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512312",
+    "book_id": "act",
+    "chapter": "16",
+    "verse": "28",
+    "alignment_num": "9",
+    "orig_lang_words": ",1494835,",
+    "target_lang_words": ",1286340,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494835,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "28",
+        "word_num": 9,
+        "word": "κακόν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "κακόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1286340,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "28",
+        "word_num": 11,
+        "word": "harm",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "harm",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακόν = harm",
+    "frequency": 0.25,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519402",
+    "book_id": "act",
+    "chapter": "28",
+    "verse": "5",
+    "alignment_num": "11",
+    "orig_lang_words": ",1502116,",
+    "target_lang_words": ",1296122,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502116,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "5",
+        "word_num": 11,
+        "word": "κακόν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "κακόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1296122,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "5",
+        "word_num": 12,
+        "word": "harm",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "harm",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακόν = harm",
+    "frequency": 0.25,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520531",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "8",
+    "orig_lang_words": ",1503317,1503318,",
+    "target_lang_words": ",1297776,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503317,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 9,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1503318,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 10,
+        "word": "κακόν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ κακόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297776,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 13,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ κακόν = evil",
+    "frequency": 0.25,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524929",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "21",
+    "alignment_num": "6",
+    "orig_lang_words": ",1508116,1508117,",
+    "target_lang_words": ",1304591,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1508116,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 10,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1508117,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 11,
+        "word": "κακόν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ κακόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304591,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 8,
+        "word": "evil",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ κακόν = evil",
+    "frequency": 0.25,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526302",
+    "book_id": "rom",
+    "chapter": "16",
+    "verse": "19",
+    "alignment_num": "19",
+    "orig_lang_words": ",1509611,",
+    "target_lang_words": ",1306679,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509611,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "19",
+        "word_num": 23,
+        "word": "κακόν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "κακόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1306679,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "19",
+        "word_num": 29,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακόν = evil",
+    "frequency": 0.25,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531220",
+    "book_id": "1co",
+    "chapter": "13",
+    "verse": "5",
+    "alignment_num": "13",
+    "orig_lang_words": ",1514688,1514689,",
+    "target_lang_words": ",1313913,1313914,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1514688,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "5",
+        "word_num": 10,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1514689,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "5",
+        "word_num": 11,
+        "word": "κακόν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ κακόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1313913,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "5",
+        "word_num": 21,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1313914,
+        "book_id": "1co",
+        "chapter": "13",
+        "verse": "5",
+        "word_num": 22,
+        "word": "wrongs",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of wrongs",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τὸ κακόν = of wrongs",
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556595",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "8",
+    "orig_lang_words": ",1540926,",
+    "target_lang_words": ",1350760,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540926,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 8,
+        "word": "κακόν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "κακόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350760,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 12,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακόν = evil",
+    "frequency": 0.25,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -160,7 +522,53 @@
     "targetWordsTxt": "evil things",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὰ κακά = evil things",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558293",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "12",
+    "alignment_num": "14",
+    "orig_lang_words": ",1542694,",
+    "target_lang_words": ",1353334,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542694,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 16,
+        "word": "κακά",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "κακά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1353334,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 25,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακά = evil",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -204,51 +612,8 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακὸν = evil",
-    "frequency": 0.14583333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499766",
-    "book_id": "jhn",
-    "chapter": "18",
-    "verse": "23",
-    "alignment_num": "9",
-    "orig_lang_words": ",1481816,",
-    "target_lang_words": ",1269411,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481816,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "23",
-        "word_num": 9,
-        "word": "κακοῦ",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "κακοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1269411,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "23",
-        "word_num": 10,
-        "word": "wrong",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wrong",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακοῦ = wrong",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.4375,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -313,95 +678,8 @@
     "targetWordsTxt": "an evildoer",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κακὸν ποιῶν = an evildoer",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "507392",
-    "book_id": "act",
-    "chapter": "9",
-    "verse": "13",
-    "alignment_num": "11",
-    "orig_lang_words": ",1489785,",
-    "target_lang_words": ",1279657,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1489785,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 12,
-        "word": "κακὰ",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "κακὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1279657,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 14,
-        "word": "harm",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "harm",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακὰ = harm",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "512312",
-    "book_id": "act",
-    "chapter": "16",
-    "verse": "28",
-    "alignment_num": "9",
-    "orig_lang_words": ",1494835,",
-    "target_lang_words": ",1286340,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494835,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "28",
-        "word_num": 9,
-        "word": "κακόν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "κακόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1286340,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "28",
-        "word_num": 11,
-        "word": "harm",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "harm",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακόν = harm",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -445,207 +723,8 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακὸν = evil",
-    "frequency": 0.14583333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "519402",
-    "book_id": "act",
-    "chapter": "28",
-    "verse": "5",
-    "alignment_num": "11",
-    "orig_lang_words": ",1502116,",
-    "target_lang_words": ",1296122,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502116,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "5",
-        "word_num": 11,
-        "word": "κακόν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "κακόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1296122,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "5",
-        "word_num": 12,
-        "word": "harm",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "harm",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακόν = harm",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520375",
-    "book_id": "rom",
-    "chapter": "1",
-    "verse": "30",
-    "alignment_num": "6",
-    "orig_lang_words": ",1503142,",
-    "target_lang_words": ",1297522,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503142,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "30",
-        "word_num": 6,
-        "word": "κακῶν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "κακῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1297522,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "30",
-        "word_num": 11,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακῶν = evil",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520531",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "9",
-    "alignment_num": "8",
-    "orig_lang_words": ",1503317,1503318,",
-    "target_lang_words": ",1297776,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1503317,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 9,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1503318,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 10,
-        "word": "κακόν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ κακόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1297776,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 13,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ κακόν = evil",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520913",
-    "book_id": "rom",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "10",
-    "orig_lang_words": ",1503749,1503750,",
-    "target_lang_words": ",1298411,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1503749,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 12,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1503750,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 13,
-        "word": "κακὰ",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ κακὰ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298411,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 20,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ κακὰ = evil",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.4375,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -698,7 +777,8 @@
     "targetWordsTxt": "the evil",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κακὸν = the evil",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -754,7 +834,8 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ κακὸν = evil",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.125,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -798,237 +879,8 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακὸν = evil",
-    "frequency": 0.14583333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524871",
-    "book_id": "rom",
-    "chapter": "12",
-    "verse": "17",
-    "alignment_num": "4",
-    "orig_lang_words": ",1508051,",
-    "target_lang_words": ",1304503,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508051,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 3,
-        "word": "κακοῦ",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "κακοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1304503,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 5,
-        "word": "evil",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακοῦ = evil",
-    "frequency": 0.10416666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524926",
-    "book_id": "rom",
-    "chapter": "12",
-    "verse": "21",
-    "alignment_num": "3",
-    "orig_lang_words": ",1508109,1508110,",
-    "target_lang_words": ",1304588,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1508109,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 3,
-        "word": "τοῦ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GNS,"
-      },
-      {
-        "id": 1508110,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 4,
-        "word": "κακοῦ",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "τοῦ κακοῦ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1304588,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 5,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ κακοῦ = evil",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524929",
-    "book_id": "rom",
-    "chapter": "12",
-    "verse": "21",
-    "alignment_num": "6",
-    "orig_lang_words": ",1508116,1508117,",
-    "target_lang_words": ",1304591,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1508116,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 10,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1508117,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 11,
-        "word": "κακόν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ κακόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1304591,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 8,
-        "word": "evil",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ κακόν = evil",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524970",
-    "book_id": "rom",
-    "chapter": "13",
-    "verse": "3",
-    "alignment_num": "6",
-    "orig_lang_words": ",1508164,1508165,",
-    "target_lang_words": ",1304652,1304653,1304654,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1508164,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 10,
-        "word": "τῷ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1508165,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 11,
-        "word": "κακῷ",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ κακῷ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1304652,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 10,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1304653,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 11,
-        "word": "evil",
-        "occurrence": 1
-      },
-      {
-        "id": 1304654,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 12,
-        "word": "deeds",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "to evil deeds",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "τῷ κακῷ = to evil deeds",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.4375,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1102,7 +954,8 @@
     "targetWordsTxt": "what is evil",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὸ κακὸν = what is evil",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1158,7 +1011,8 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ κακὸν = evil",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.125,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1202,7 +1056,8 @@
     "targetWordsTxt": "harm",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακὸν = harm",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1264,213 +1119,8 @@
     "targetWordsTxt": "it is evil",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κακὸν = it is evil",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526302",
-    "book_id": "rom",
-    "chapter": "16",
-    "verse": "19",
-    "alignment_num": "19",
-    "orig_lang_words": ",1509611,",
-    "target_lang_words": ",1306679,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1509611,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "19",
-        "word_num": 23,
-        "word": "κακόν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "κακόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1306679,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "19",
-        "word_num": 29,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακόν = evil",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529779",
-    "book_id": "1co",
-    "chapter": "10",
-    "verse": "6",
-    "alignment_num": "11",
-    "orig_lang_words": ",1513218,",
-    "target_lang_words": ",1311796,1311797,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513218,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "6",
-        "word_num": 11,
-        "word": "κακῶν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "κακῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1311796,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "6",
-        "word_num": 13,
-        "word": "evil",
-        "occurrence": 1
-      },
-      {
-        "id": 1311797,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "6",
-        "word_num": 14,
-        "word": "things",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "evil things",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κακῶν = evil things",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531220",
-    "book_id": "1co",
-    "chapter": "13",
-    "verse": "5",
-    "alignment_num": "13",
-    "orig_lang_words": ",1514688,1514689,",
-    "target_lang_words": ",1313913,1313914,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1514688,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "5",
-        "word_num": 10,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1514689,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "5",
-        "word_num": 11,
-        "word": "κακόν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ κακόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1313913,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "5",
-        "word_num": 21,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1313914,
-        "book_id": "1co",
-        "chapter": "13",
-        "verse": "5",
-        "word_num": 22,
-        "word": "wrongs",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of wrongs",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τὸ κακόν = of wrongs",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532348",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "33",
-    "alignment_num": "2",
-    "orig_lang_words": ",1515865,",
-    "target_lang_words": ",1315621,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515865,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "33",
-        "word_num": 6,
-        "word": "κακαί",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,AA,,,,NFP,"
-      }
-    ],
-    "origWordsTxt": "κακαί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1315621,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "33",
-        "word_num": 4,
-        "word": "Bad",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Bad",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακαί = Bad",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1514,7 +1164,8 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακὸν = evil",
-    "frequency": 0.14583333333333334,
+    "frequency": 0.4375,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1558,95 +1209,8 @@
     "targetWordsTxt": "wrong",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακὸν = wrong",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542856",
-    "book_id": "php",
-    "chapter": "3",
-    "verse": "2",
-    "alignment_num": "5",
-    "orig_lang_words": ",1526638,",
-    "target_lang_words": ",1330702,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526638,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 5,
-        "word": "κακοὺς",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,AA,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "κακοὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1330702,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 9,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακοὺς = evil",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544411",
-    "book_id": "col",
-    "chapter": "3",
-    "verse": "5",
-    "alignment_num": "10",
-    "orig_lang_words": ",1528305,",
-    "target_lang_words": ",1333033,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528305,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 12,
-        "word": "κακήν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "κακήν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1333033,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "5",
-        "word_num": 14,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακήν = evil",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1690,324 +1254,8 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακὸν = evil",
-    "frequency": 0.14583333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546244",
-    "book_id": "1th",
-    "chapter": "5",
-    "verse": "15",
-    "alignment_num": "6",
-    "orig_lang_words": ",1530256,",
-    "target_lang_words": ",1335593,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530256,
-        "book_id": "1th",
-        "chapter": "5",
-        "verse": "15",
-        "word_num": 5,
-        "word": "κακοῦ",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "κακοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1335593,
-        "book_id": "1th",
-        "chapter": "5",
-        "verse": "15",
-        "word_num": 8,
-        "word": "evil",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακοῦ = evil",
-    "frequency": 0.10416666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548578",
-    "book_id": "1ti",
-    "chapter": "6",
-    "verse": "10",
-    "alignment_num": "7",
-    "orig_lang_words": ",1532592,",
-    "target_lang_words": ",1338899,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532592,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 4,
-        "word": "κακῶν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "κακῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338899,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 12,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακῶν = evil",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549867",
-    "book_id": "2ti",
-    "chapter": "4",
-    "verse": "14",
-    "alignment_num": "5",
-    "orig_lang_words": ",1533891,",
-    "target_lang_words": ",1340693,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533891,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 5,
-        "word": "κακὰ",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "κακὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1340693,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 5,
-        "word": "harm",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "harm",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακὰ = harm",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550170",
-    "book_id": "tit",
-    "chapter": "1",
-    "verse": "12",
-    "alignment_num": "11",
-    "orig_lang_words": ",1534203,",
-    "target_lang_words": ",1341124,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534203,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 10,
-        "word": "κακὰ",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,AA,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "κακὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341124,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 13,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακὰ = evil",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552265",
-    "book_id": "heb",
-    "chapter": "5",
-    "verse": "14",
-    "alignment_num": "17",
-    "orig_lang_words": ",1536385,",
-    "target_lang_words": ",1344230,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536385,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 19,
-        "word": "κακοῦ",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "κακοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344230,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 18,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακοῦ = evil",
-    "frequency": 0.10416666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555865",
-    "book_id": "jas",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "10",
-    "orig_lang_words": ",1540144,",
-    "target_lang_words": ",1349700,1349701,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540144,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 12,
-        "word": "κακῶν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "κακῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1349700,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 18,
-        "word": "by",
-        "occurrence": 2
-      },
-      {
-        "id": 1349701,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 19,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "by evil",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κακῶν = by evil",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556595",
-    "book_id": "jas",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "8",
-    "orig_lang_words": ",1540926,",
-    "target_lang_words": ",1350760,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540926,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 8,
-        "word": "κακόν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,NS,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "κακόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350760,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 12,
-        "word": "evil",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "evil",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακόν = evil",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.4375,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2051,7 +1299,335 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακὸν = evil",
-    "frequency": 0.14583333333333334,
+    "frequency": 0.4375,
+    "matchCount": 7,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562213",
+    "book_id": "3jn",
+    "chapter": "1",
+    "verse": "11",
+    "alignment_num": "4",
+    "orig_lang_words": ",1547006,",
+    "target_lang_words": ",1359163,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547006,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 4,
+        "word": "κακὸν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "κακὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1359163,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 6,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακὸν = evil",
+    "frequency": 0.4375,
+    "matchCount": 7,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568412",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "2",
+    "alignment_num": "12",
+    "orig_lang_words": ",1553882,",
+    "target_lang_words": ",1367738,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553882,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "2",
+        "word_num": 15,
+        "word": "κακὸν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,AA,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "κακὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367738,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "2",
+        "word_num": 14,
+        "word": "ugly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "ugly",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακὸν = ugly",
+    "frequency": 0.0625,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499766",
+    "book_id": "jhn",
+    "chapter": "18",
+    "verse": "23",
+    "alignment_num": "9",
+    "orig_lang_words": ",1481816,",
+    "target_lang_words": ",1269411,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481816,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "23",
+        "word_num": 9,
+        "word": "κακοῦ",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "κακοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1269411,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "23",
+        "word_num": 10,
+        "word": "wrong",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wrong",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακοῦ = wrong",
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524871",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "17",
+    "alignment_num": "4",
+    "orig_lang_words": ",1508051,",
+    "target_lang_words": ",1304503,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508051,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 3,
+        "word": "κακοῦ",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "κακοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304503,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 5,
+        "word": "evil",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακοῦ = evil",
+    "frequency": 0.625,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524926",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "21",
+    "alignment_num": "3",
+    "orig_lang_words": ",1508109,1508110,",
+    "target_lang_words": ",1304588,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1508109,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 3,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNS,"
+      },
+      {
+        "id": 1508110,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 4,
+        "word": "κακοῦ",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ κακοῦ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304588,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 5,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ κακοῦ = evil",
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546244",
+    "book_id": "1th",
+    "chapter": "5",
+    "verse": "15",
+    "alignment_num": "6",
+    "orig_lang_words": ",1530256,",
+    "target_lang_words": ",1335593,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530256,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 5,
+        "word": "κακοῦ",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "κακοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1335593,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 8,
+        "word": "evil",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακοῦ = evil",
+    "frequency": 0.625,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552265",
+    "book_id": "heb",
+    "chapter": "5",
+    "verse": "14",
+    "alignment_num": "17",
+    "orig_lang_words": ",1536385,",
+    "target_lang_words": ",1344230,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536385,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 19,
+        "word": "κακοῦ",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "κακοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344230,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 18,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακοῦ = evil",
+    "frequency": 0.625,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2095,7 +1671,8 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακοῦ = evil",
-    "frequency": 0.10416666666666667,
+    "frequency": 0.625,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2139,7 +1716,8 @@
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κακοῦ = evil",
-    "frequency": 0.10416666666666667,
+    "frequency": 0.625,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2201,95 +1779,608 @@
     "targetWordsTxt": "what is bad",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κακοῦ = what is bad",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "558293",
-    "book_id": "1pe",
-    "chapter": "3",
-    "verse": "12",
-    "alignment_num": "14",
-    "orig_lang_words": ",1542694,",
-    "target_lang_words": ",1353334,",
+    "id": "507392",
+    "book_id": "act",
+    "chapter": "9",
+    "verse": "13",
+    "alignment_num": "11",
+    "orig_lang_words": ",1489785,",
+    "target_lang_words": ",1279657,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1542694,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "12",
-        "word_num": 16,
-        "word": "κακά",
+        "id": 1489785,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 12,
+        "word": "κακὰ",
         "occurrence": 1,
         "strong": "G25560",
         "lemma": "κακός",
         "morph": "Gr,NS,,,,ANP,"
       }
     ],
-    "origWordsTxt": "κακά",
+    "origWordsTxt": "κακὰ",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1353334,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "12",
-        "word_num": 25,
-        "word": "evil",
+        "id": 1279657,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 14,
+        "word": "harm",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "evil",
+    "targetWordsTxt": "harm",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "κακά = evil",
-    "frequency": 0.020833333333333332,
+    "alignmentTxt": "κακὰ = harm",
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "562213",
-    "book_id": "3jn",
-    "chapter": "1",
-    "verse": "11",
-    "alignment_num": "4",
-    "orig_lang_words": ",1547006,",
-    "target_lang_words": ",1359163,",
-    "origSpan": 0,
+    "id": "520913",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "10",
+    "orig_lang_words": ",1503749,1503750,",
+    "target_lang_words": ",1298411,",
+    "origSpan": 1,
     "origWords": [
       {
-        "id": 1547006,
-        "book_id": "3jn",
-        "chapter": "1",
-        "verse": "11",
-        "word_num": 4,
-        "word": "κακὸν",
+        "id": 1503749,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 12,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1503750,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 13,
+        "word": "κακὰ",
         "occurrence": 1,
         "strong": "G25560",
         "lemma": "κακός",
-        "morph": "Gr,NS,,,,ANS,"
+        "morph": "Gr,NS,,,,ANP,"
       }
     ],
-    "origWordsTxt": "κακὸν",
-    "alignmentOrigWords": 1,
+    "origWordsTxt": "τὰ κακὰ",
+    "alignmentOrigWords": 2,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1359163,
-        "book_id": "3jn",
-        "chapter": "1",
-        "verse": "11",
-        "word_num": 6,
+        "id": 1298411,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 20,
         "word": "evil",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "evil",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "κακὸν = evil",
-    "frequency": 0.14583333333333334,
+    "alignmentTxt": "τὰ κακὰ = evil",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549867",
+    "book_id": "2ti",
+    "chapter": "4",
+    "verse": "14",
+    "alignment_num": "5",
+    "orig_lang_words": ",1533891,",
+    "target_lang_words": ",1340693,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533891,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 5,
+        "word": "κακὰ",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "κακὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340693,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 5,
+        "word": "harm",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "harm",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακὰ = harm",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550170",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "12",
+    "alignment_num": "11",
+    "orig_lang_words": ",1534203,",
+    "target_lang_words": ",1341124,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534203,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 10,
+        "word": "κακὰ",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,AA,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "κακὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341124,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 13,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακὰ = evil",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520375",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "30",
+    "alignment_num": "6",
+    "orig_lang_words": ",1503142,",
+    "target_lang_words": ",1297522,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503142,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "30",
+        "word_num": 6,
+        "word": "κακῶν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "κακῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297522,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "30",
+        "word_num": 11,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακῶν = evil",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "529779",
+    "book_id": "1co",
+    "chapter": "10",
+    "verse": "6",
+    "alignment_num": "11",
+    "orig_lang_words": ",1513218,",
+    "target_lang_words": ",1311796,1311797,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513218,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "6",
+        "word_num": 11,
+        "word": "κακῶν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "κακῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1311796,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "6",
+        "word_num": 13,
+        "word": "evil",
+        "occurrence": 1
+      },
+      {
+        "id": 1311797,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "6",
+        "word_num": 14,
+        "word": "things",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "evil things",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κακῶν = evil things",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548578",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "10",
+    "alignment_num": "7",
+    "orig_lang_words": ",1532592,",
+    "target_lang_words": ",1338899,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532592,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 4,
+        "word": "κακῶν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "κακῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338899,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 12,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακῶν = evil",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555865",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "10",
+    "orig_lang_words": ",1540144,",
+    "target_lang_words": ",1349700,1349701,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540144,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 12,
+        "word": "κακῶν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "κακῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1349700,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 18,
+        "word": "by",
+        "occurrence": 2
+      },
+      {
+        "id": 1349701,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 19,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "by evil",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κακῶν = by evil",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524970",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "3",
+    "alignment_num": "6",
+    "orig_lang_words": ",1508164,1508165,",
+    "target_lang_words": ",1304652,1304653,1304654,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1508164,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 10,
+        "word": "τῷ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1508165,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 11,
+        "word": "κακῷ",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,NS,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ κακῷ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1304652,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 10,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1304653,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 11,
+        "word": "evil",
+        "occurrence": 1
+      },
+      {
+        "id": 1304654,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 12,
+        "word": "deeds",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "to evil deeds",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "τῷ κακῷ = to evil deeds",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532348",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "33",
+    "alignment_num": "2",
+    "orig_lang_words": ",1515865,",
+    "target_lang_words": ",1315621,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515865,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "33",
+        "word_num": 6,
+        "word": "κακαί",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,AA,,,,NFP,"
+      }
+    ],
+    "origWordsTxt": "κακαί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1315621,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "33",
+        "word_num": 4,
+        "word": "Bad",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Bad",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακαί = Bad",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542856",
+    "book_id": "php",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "5",
+    "orig_lang_words": ",1526638,",
+    "target_lang_words": ",1330702,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526638,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 5,
+        "word": "κακοὺς",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,AA,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "κακοὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1330702,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 9,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακοὺς = evil",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544411",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "5",
+    "alignment_num": "10",
+    "orig_lang_words": ",1528305,",
+    "target_lang_words": ",1333033,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528305,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 12,
+        "word": "κακήν",
+        "occurrence": 1,
+        "strong": "G25560",
+        "lemma": "κακός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κακήν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333033,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "5",
+        "word_num": 14,
+        "word": "evil",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "evil",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κακήν = evil",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2351,51 +2442,8 @@
     "targetWordsTxt": "the evil people",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κακούς = the evil people",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568412",
-    "book_id": "rev",
-    "chapter": "16",
-    "verse": "2",
-    "alignment_num": "12",
-    "orig_lang_words": ",1553882,",
-    "target_lang_words": ",1367738,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553882,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "2",
-        "word_num": 15,
-        "word": "κακὸν",
-        "occurrence": 1,
-        "strong": "G25560",
-        "lemma": "κακός",
-        "morph": "Gr,AA,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "κακὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367738,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "2",
-        "word_num": 14,
-        "word": "ugly",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "ugly",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κακὸν = ugly",
-    "frequency": 0.020833333333333332,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

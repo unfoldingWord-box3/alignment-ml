@@ -48,7 +48,53 @@
     "targetWordsTxt": "they thought",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἔδοξαν = they thought",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "495187",
+    "book_id": "jhn",
+    "chapter": "11",
+    "verse": "13",
+    "alignment_num": "8",
+    "orig_lang_words": ",1476942,",
+    "target_lang_words": ",1263093,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476942,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 10,
+        "word": "ἔδοξαν",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἔδοξαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1263093,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 9,
+        "word": "thought",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "thought",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔδοξαν = thought",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -131,7 +177,167 @@
     "targetWordsTxt": "those who are considered",
     "alignmentTargetWords": 4,
     "alignmentTxt": "οἱ δοκοῦντες = those who are considered",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537834",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "6",
+    "alignment_num": "15",
+    "orig_lang_words": ",1521504,1521505,",
+    "target_lang_words": ",1323599,1323600,1323601,1323602,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1521504,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 20,
+        "word": "οἱ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NMP,"
+      },
+      {
+        "id": 1521505,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 21,
+        "word": "δοκοῦντες",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,PPA,NMP,"
+      }
+    ],
+    "origWordsTxt": "οἱ δοκοῦντες",
+    "alignmentOrigWords": 2,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1323599,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 25,
+        "word": "those",
+        "occurrence": 2
+      },
+      {
+        "id": 1323600,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 26,
+        "word": "who",
+        "occurrence": 2
+      },
+      {
+        "id": 1323601,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 27,
+        "word": "seemed",
+        "occurrence": 2
+      },
+      {
+        "id": 1323602,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 28,
+        "word": "important",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "those who seemed important",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "οἱ δοκοῦντες = those who seemed important",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537866",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "5",
+    "orig_lang_words": ",1521547,1521548,",
+    "target_lang_words": ",1323665,1323666,1323667,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1521547,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 12,
+        "word": "οἱ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NMP,"
+      },
+      {
+        "id": 1521548,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 13,
+        "word": "δοκοῦντες",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,PPA,NMP,"
+      }
+    ],
+    "origWordsTxt": "οἱ δοκοῦντες",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1323665,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 5,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1323666,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 6,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 1323667,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 7,
+        "word": "recognized",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who were recognized",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "οἱ δοκοῦντες = who were recognized",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -193,7 +399,53 @@
     "targetWordsTxt": "it seemed good",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἔδοξε = it seemed good",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511516",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "22",
+    "alignment_num": "10",
+    "orig_lang_words": ",1493999,",
+    "target_lang_words": ",1285242,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1493999,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "22",
+        "word_num": 1,
+        "word": "ἔδοξε",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἔδοξε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1285242,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "22",
+        "word_num": 10,
+        "word": "decided",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "decided",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔδοξε = decided",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -246,7 +498,8 @@
     "targetWordsTxt": "he thinks",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοκεῖ = he thinks",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -290,7 +543,584 @@
     "targetWordsTxt": "think",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δοκεῖ = think",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485165",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "24",
+    "alignment_num": "9",
+    "orig_lang_words": ",1466127,",
+    "target_lang_words": ",1249565,1249566,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1466127,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "24",
+        "word_num": 9,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1249565,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "24",
+        "word_num": 13,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1249566,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "24",
+        "word_num": 14,
+        "word": "considered",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was considered",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δοκεῖ = was considered",
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "495850",
+    "book_id": "jhn",
+    "chapter": "11",
+    "verse": "56",
+    "alignment_num": "12",
+    "orig_lang_words": ",1477658,",
+    "target_lang_words": ",1263989,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1477658,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "56",
+        "word_num": 13,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1263989,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "56",
+        "word_num": 18,
+        "word": "do",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "do",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δοκεῖ = do",
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512853",
+    "book_id": "act",
+    "chapter": "17",
+    "verse": "18",
+    "alignment_num": "22",
+    "orig_lang_words": ",1495398,",
+    "target_lang_words": ",1287062,1287063,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495398,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "18",
+        "word_num": 24,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1287062,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "18",
+        "word_num": 25,
+        "word": "He",
+        "occurrence": 1
+      },
+      {
+        "id": 1287063,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "18",
+        "word_num": 26,
+        "word": "seems",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "He seems",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δοκεῖ = He seems",
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "517983",
+    "book_id": "act",
+    "chapter": "25",
+    "verse": "27",
+    "alignment_num": "1",
+    "orig_lang_words": ",1500664,",
+    "target_lang_words": ",1294111,1294112,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500664,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "27",
+        "word_num": 3,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1294111,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "27",
+        "word_num": 1,
+        "word": "it",
+        "occurrence": 1
+      },
+      {
+        "id": 1294112,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "27",
+        "word_num": 2,
+        "word": "seems",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "it seems",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δοκεῖ = it seems",
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527405",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "18",
+    "alignment_num": "8",
+    "orig_lang_words": ",1510790,",
+    "target_lang_words": ",1308237,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510790,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 5,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308237,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 9,
+        "word": "thinks",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "thinks",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δοκεῖ = thinks",
+    "frequency": 0.35714285714285715,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "529054",
+    "book_id": "1co",
+    "chapter": "8",
+    "verse": "2",
+    "alignment_num": "2",
+    "orig_lang_words": ",1512477,",
+    "target_lang_words": ",1310700,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1512477,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "2",
+        "word_num": 2,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1310700,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "2",
+        "word_num": 2,
+        "word": "thinks",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "thinks",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δοκεῖ = thinks",
+    "frequency": 0.35714285714285715,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "530361",
+    "book_id": "1co",
+    "chapter": "11",
+    "verse": "16",
+    "alignment_num": "3",
+    "orig_lang_words": ",1513819,",
+    "target_lang_words": ",1312705,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513819,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 3,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1312705,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 3,
+        "word": "wants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δοκεῖ = wants",
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531867",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "37",
+    "alignment_num": "2",
+    "orig_lang_words": ",1515361,",
+    "target_lang_words": ",1314914,1314915,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515361,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "37",
+        "word_num": 2,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1314914,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "37",
+        "word_num": 2,
+        "word": "thinks",
+        "occurrence": 1
+      },
+      {
+        "id": 1314915,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "37",
+        "word_num": 3,
+        "word": "himself",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "thinks himself",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δοκεῖ = thinks himself",
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539304",
+    "book_id": "gal",
+    "chapter": "6",
+    "verse": "3",
+    "alignment_num": "3",
+    "orig_lang_words": ",1523033,",
+    "target_lang_words": ",1325921,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523033,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "3",
+        "word_num": 2,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325921,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "3",
+        "word_num": 3,
+        "word": "thinks",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "thinks",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δοκεῖ = thinks",
+    "frequency": 0.35714285714285715,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542893",
+    "book_id": "php",
+    "chapter": "3",
+    "verse": "4",
+    "alignment_num": "11",
+    "orig_lang_words": ",1526671,",
+    "target_lang_words": ",1330756,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526671,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 9,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1330756,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 14,
+        "word": "thinks",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "thinks",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δοκεῖ = thinks",
+    "frequency": 0.35714285714285715,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555058",
+    "book_id": "heb",
+    "chapter": "12",
+    "verse": "11",
+    "alignment_num": "5",
+    "orig_lang_words": ",1539299,",
+    "target_lang_words": ",1348481,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539299,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "11",
+        "word_num": 8,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1348481,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "11",
+        "word_num": 6,
+        "word": "seem",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "seem",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δοκεῖ = seem",
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556037",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "26",
+    "alignment_num": "2",
+    "orig_lang_words": ",1540325,",
+    "target_lang_words": ",1349959,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540325,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "26",
+        "word_num": 2,
+        "word": "δοκεῖ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349959,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "26",
+        "word_num": 2,
+        "word": "thinks",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "thinks",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δοκεῖ = thinks",
+    "frequency": 0.35714285714285715,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -334,7 +1164,8 @@
     "targetWordsTxt": "you",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δοκεῖτε = you",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -396,7 +1227,8 @@
     "targetWordsTxt": "Do you think",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δοκεῖτε = Do you think",
-    "frequency": 0.05660377358490566,
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -458,7 +1290,8 @@
     "targetWordsTxt": "Do you think",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δοκεῖτε = Do you think",
-    "frequency": 0.05660377358490566,
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -520,157 +1353,8 @@
     "targetWordsTxt": "do you think",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δοκεῖτε = do you think",
-    "frequency": 0.03773584905660377,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482959",
-    "book_id": "luk",
-    "chapter": "19",
-    "verse": "11",
-    "alignment_num": "15",
-    "orig_lang_words": ",1463913,",
-    "target_lang_words": ",1246500,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463913,
-        "book_id": "luk",
-        "chapter": "19",
-        "verse": "11",
-        "word_num": 14,
-        "word": "δοκεῖν",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1246500,
-        "book_id": "luk",
-        "chapter": "19",
-        "verse": "11",
-        "word_num": 22,
-        "word": "thought",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "thought",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοκεῖν = thought",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485165",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "24",
-    "alignment_num": "9",
-    "orig_lang_words": ",1466127,",
-    "target_lang_words": ",1249565,1249566,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1466127,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "24",
-        "word_num": 9,
-        "word": "δοκεῖ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1249565,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "24",
-        "word_num": 13,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1249566,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "24",
-        "word_num": 14,
-        "word": "considered",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was considered",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δοκεῖ = was considered",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487314",
-    "book_id": "luk",
-    "chapter": "24",
-    "verse": "37",
-    "alignment_num": "5",
-    "orig_lang_words": ",1468299,",
-    "target_lang_words": ",1252413,1252414,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468299,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "37",
-        "word_num": 5,
-        "word": "ἐδόκουν",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐδόκουν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1252413,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "37",
-        "word_num": 8,
-        "word": "thinking",
-        "occurrence": 1
-      },
-      {
-        "id": 1252414,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "37",
-        "word_num": 9,
-        "word": "that",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "thinking that",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδόκουν = thinking that",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -723,7 +1407,8 @@
     "targetWordsTxt": "think that",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοκεῖτε = think that",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -767,139 +1452,287 @@
     "targetWordsTxt": "think",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δοκεῖτε = think",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "495187",
-    "book_id": "jhn",
-    "chapter": "11",
-    "verse": "13",
-    "alignment_num": "8",
-    "orig_lang_words": ",1476942,",
-    "target_lang_words": ",1263093,",
+    "id": "537087",
+    "book_id": "2co",
+    "chapter": "12",
+    "verse": "19",
+    "alignment_num": "0",
+    "orig_lang_words": ",1520732,",
+    "target_lang_words": ",1322483,1322484,1322485,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1476942,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 10,
-        "word": "ἔδοξαν",
+        "id": 1520732,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 1,
+        "word": "δοκεῖτε",
         "occurrence": 1,
         "strong": "G13800",
         "lemma": "δοκέω",
-        "morph": "Gr,V,IAA3,,P,"
+        "morph": "Gr,V,IPA2,,P,"
       }
     ],
-    "origWordsTxt": "ἔδοξαν",
+    "origWordsTxt": "δοκεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1322483,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 0,
+        "word": "Do",
+        "occurrence": 1
+      },
+      {
+        "id": 1322484,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 1,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1322485,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 2,
+        "word": "think",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Do you think",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δοκεῖτε = Do you think",
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554119",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "29",
+    "alignment_num": "4",
+    "orig_lang_words": ",1538318,",
+    "target_lang_words": ",1347036,1347037,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538318,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "29",
+        "word_num": 1,
+        "word": "δοκεῖτε",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1347036,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "29",
+        "word_num": 5,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1347037,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "29",
+        "word_num": 6,
+        "word": "think",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you think",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δοκεῖτε = you think",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556810",
+    "book_id": "jas",
+    "chapter": "4",
+    "verse": "5",
+    "alignment_num": "1",
+    "orig_lang_words": ",1541154,",
+    "target_lang_words": ",1351052,1351053,1351054,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541154,
+        "book_id": "jas",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 1,
+        "word": "δοκεῖτε",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1351052,
+        "book_id": "jas",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 1,
+        "word": "do",
+        "occurrence": 1
+      },
+      {
+        "id": 1351053,
+        "book_id": "jas",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 2,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1351054,
+        "book_id": "jas",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 3,
+        "word": "think",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "do you think",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δοκεῖτε = do you think",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482959",
+    "book_id": "luk",
+    "chapter": "19",
+    "verse": "11",
+    "alignment_num": "15",
+    "orig_lang_words": ",1463913,",
+    "target_lang_words": ",1246500,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463913,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "11",
+        "word_num": 14,
+        "word": "δοκεῖν",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "δοκεῖν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1263093,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 9,
+        "id": 1246500,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "11",
+        "word_num": 22,
         "word": "thought",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "thought",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἔδοξαν = thought",
-    "frequency": 0.018867924528301886,
+    "alignmentTxt": "δοκεῖν = thought",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "495439",
-    "book_id": "jhn",
-    "chapter": "11",
-    "verse": "31",
-    "alignment_num": "22",
-    "orig_lang_words": ",1477222,",
-    "target_lang_words": ",1263425,",
+    "id": "487314",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "37",
+    "alignment_num": "5",
+    "orig_lang_words": ",1468299,",
+    "target_lang_words": ",1252413,1252414,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1477222,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "31",
-        "word_num": 23,
-        "word": "δόξαντες",
+        "id": 1468299,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "37",
+        "word_num": 5,
+        "word": "ἐδόκουν",
         "occurrence": 1,
         "strong": "G13800",
         "lemma": "δοκέω",
-        "morph": "Gr,V,PAA,NMP,"
+        "morph": "Gr,V,IIA3,,P,"
       }
     ],
-    "origWordsTxt": "δόξαντες",
+    "origWordsTxt": "ἐδόκουν",
     "alignmentOrigWords": 1,
-    "targetSpan": 0,
+    "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1263425,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "31",
-        "word_num": 28,
+        "id": 1252413,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "37",
+        "word_num": 8,
         "word": "thinking",
         "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "thinking",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δόξαντες = thinking",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "495850",
-    "book_id": "jhn",
-    "chapter": "11",
-    "verse": "56",
-    "alignment_num": "12",
-    "orig_lang_words": ",1477658,",
-    "target_lang_words": ",1263989,",
-    "origSpan": 0,
-    "origWords": [
+      },
       {
-        "id": 1477658,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "56",
-        "word_num": 13,
-        "word": "δοκεῖ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1263989,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "56",
-        "word_num": 18,
-        "word": "do",
+        "id": 1252414,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "37",
+        "word_num": 9,
+        "word": "that",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "do",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοκεῖ = do",
-    "frequency": 0.018867924528301886,
+    "targetWordsTxt": "thinking that",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδόκουν = thinking that",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -943,528 +1776,53 @@
     "targetWordsTxt": "thought",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐδόκουν = thought",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "498341",
+    "id": "495439",
     "book_id": "jhn",
-    "chapter": "16",
-    "verse": "2",
-    "alignment_num": "10",
-    "orig_lang_words": ",1480328,",
-    "target_lang_words": ",1267420,1267421,1267422,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480328,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "2",
-        "word_num": 11,
-        "word": "δόξῃ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δόξῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1267420,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "2",
-        "word_num": 18,
-        "word": "will",
-        "occurrence": 2
-      },
-      {
-        "id": 1267421,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "2",
-        "word_num": 19,
-        "word": "think",
-        "occurrence": 1
-      },
-      {
-        "id": 1267422,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "2",
-        "word_num": 20,
-        "word": "that",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will think that",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δόξῃ = will think that",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501098",
-    "book_id": "jhn",
-    "chapter": "20",
-    "verse": "15",
-    "alignment_num": "9",
-    "orig_lang_words": ",1483246,",
-    "target_lang_words": ",1271244,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483246,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "15",
-        "word_num": 9,
-        "word": "δοκοῦσα",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,PPA,NFS,"
-      }
-    ],
-    "origWordsTxt": "δοκοῦσα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1271244,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "15",
-        "word_num": 15,
-        "word": "thought",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "thought",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοκοῦσα = thought",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "509457",
-    "book_id": "act",
-    "chapter": "12",
-    "verse": "9",
-    "alignment_num": "16",
-    "orig_lang_words": ",1491897,",
-    "target_lang_words": ",1282434,1282435,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491897,
-        "book_id": "act",
-        "chapter": "12",
-        "verse": "9",
-        "word_num": 14,
-        "word": "ἐδόκει",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδόκει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1282434,
-        "book_id": "act",
-        "chapter": "12",
-        "verse": "9",
-        "word_num": 22,
-        "word": "he",
-        "occurrence": 3
-      },
-      {
-        "id": 1282435,
-        "book_id": "act",
-        "chapter": "12",
-        "verse": "9",
-        "word_num": 23,
-        "word": "thought",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he thought",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδόκει = he thought",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511516",
-    "book_id": "act",
-    "chapter": "15",
-    "verse": "22",
-    "alignment_num": "10",
-    "orig_lang_words": ",1493999,",
-    "target_lang_words": ",1285242,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1493999,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "22",
-        "word_num": 1,
-        "word": "ἔδοξε",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἔδοξε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1285242,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "22",
-        "word_num": 10,
-        "word": "decided",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "decided",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἔδοξε = decided",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511577",
-    "book_id": "act",
-    "chapter": "15",
-    "verse": "25",
-    "alignment_num": "1",
-    "orig_lang_words": ",1494072,",
-    "target_lang_words": ",1285324,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494072,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "25",
-        "word_num": 0,
-        "word": "ἔδοξεν",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἔδοξεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1285324,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "25",
-        "word_num": 1,
-        "word": "decided",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "decided",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἔδοξεν = decided",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511617",
-    "book_id": "act",
-    "chapter": "15",
-    "verse": "28",
-    "alignment_num": "1",
-    "orig_lang_words": ",1494113,",
-    "target_lang_words": ",1285376,1285377,1285378,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494113,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "28",
-        "word_num": 0,
-        "word": "ἔδοξεν",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἔδοξεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1285376,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "28",
-        "word_num": 1,
-        "word": "it",
-        "occurrence": 1
-      },
-      {
-        "id": 1285377,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "28",
-        "word_num": 2,
-        "word": "seemed",
-        "occurrence": 1
-      },
-      {
-        "id": 1285378,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "28",
-        "word_num": 3,
-        "word": "right",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "it seemed right",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἔδοξεν = it seemed right",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511697",
-    "book_id": "act",
-    "chapter": "15",
-    "verse": "34",
-    "alignment_num": "1",
-    "orig_lang_words": ",1494194,",
-    "target_lang_words": ",1285494,1285495,1285496,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494194,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "34",
-        "word_num": 0,
-        "word": "ἔδοξεν",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἔδοξεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1285494,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "34",
-        "word_num": 1,
-        "word": "it",
-        "occurrence": 1
-      },
-      {
-        "id": 1285495,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "34",
-        "word_num": 2,
-        "word": "seemed",
-        "occurrence": 1
-      },
-      {
-        "id": 1285496,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "34",
-        "word_num": 3,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "it seemed good",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἔδοξεν = it seemed good",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "512853",
-    "book_id": "act",
-    "chapter": "17",
-    "verse": "18",
+    "chapter": "11",
+    "verse": "31",
     "alignment_num": "22",
-    "orig_lang_words": ",1495398,",
-    "target_lang_words": ",1287062,1287063,",
+    "orig_lang_words": ",1477222,",
+    "target_lang_words": ",1263425,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1495398,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "18",
-        "word_num": 24,
-        "word": "δοκεῖ",
+        "id": 1477222,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "31",
+        "word_num": 23,
+        "word": "δόξαντες",
         "occurrence": 1,
         "strong": "G13800",
         "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
+        "morph": "Gr,V,PAA,NMP,"
       }
     ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1287062,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "18",
-        "word_num": 25,
-        "word": "He",
-        "occurrence": 1
-      },
-      {
-        "id": 1287063,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "18",
-        "word_num": 26,
-        "word": "seems",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "He seems",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δοκεῖ = He seems",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "517983",
-    "book_id": "act",
-    "chapter": "25",
-    "verse": "27",
-    "alignment_num": "1",
-    "orig_lang_words": ",1500664,",
-    "target_lang_words": ",1294111,1294112,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1500664,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "27",
-        "word_num": 3,
-        "word": "δοκεῖ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1294111,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "27",
-        "word_num": 1,
-        "word": "it",
-        "occurrence": 1
-      },
-      {
-        "id": 1294112,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "27",
-        "word_num": 2,
-        "word": "seems",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "it seems",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δοκεῖ = it seems",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "518127",
-    "book_id": "act",
-    "chapter": "26",
-    "verse": "9",
-    "alignment_num": "2",
-    "orig_lang_words": ",1500813,",
-    "target_lang_words": ",1294323,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1500813,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "9",
-        "word_num": 3,
-        "word": "ἔδοξα",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IAA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἔδοξα",
+    "origWordsTxt": "δόξαντες",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1294323,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "9",
-        "word_num": 3,
-        "word": "thought",
+        "id": 1263425,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "31",
+        "word_num": 28,
+        "word": "thinking",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "thought",
+    "targetWordsTxt": "thinking",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἔδοξα = thought",
-    "frequency": 0.018867924528301886,
+    "alignmentTxt": "δόξαντες = thinking",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1526,51 +1884,431 @@
     "targetWordsTxt": "they thought that",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δόξαντες = they thought that",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "527405",
-    "book_id": "1co",
-    "chapter": "3",
-    "verse": "18",
-    "alignment_num": "8",
-    "orig_lang_words": ",1510790,",
-    "target_lang_words": ",1308237,",
+    "id": "498341",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "2",
+    "alignment_num": "10",
+    "orig_lang_words": ",1480328,",
+    "target_lang_words": ",1267420,1267421,1267422,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1510790,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 5,
-        "word": "δοκεῖ",
+        "id": 1480328,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "2",
+        "word_num": 11,
+        "word": "δόξῃ",
         "occurrence": 1,
         "strong": "G13800",
         "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
+        "morph": "Gr,V,SAA3,,S,"
       }
     ],
-    "origWordsTxt": "δοκεῖ",
+    "origWordsTxt": "δόξῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1267420,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "2",
+        "word_num": 18,
+        "word": "will",
+        "occurrence": 2
+      },
+      {
+        "id": 1267421,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "2",
+        "word_num": 19,
+        "word": "think",
+        "occurrence": 1
+      },
+      {
+        "id": 1267422,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "2",
+        "word_num": 20,
+        "word": "that",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will think that",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δόξῃ = will think that",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536489",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "16",
+    "alignment_num": "2",
+    "orig_lang_words": ",1520141,",
+    "target_lang_words": ",1321572,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520141,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 5,
+        "word": "δόξῃ",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δόξῃ",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1308237,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 9,
-        "word": "thinks",
+        "id": 1321572,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 3,
+        "word": "Let",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "thinks",
+    "targetWordsTxt": "Let",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "δοκεῖ = thinks",
-    "frequency": 0.09433962264150944,
+    "alignmentTxt": "δόξῃ = Let",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501098",
+    "book_id": "jhn",
+    "chapter": "20",
+    "verse": "15",
+    "alignment_num": "9",
+    "orig_lang_words": ",1483246,",
+    "target_lang_words": ",1271244,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483246,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "15",
+        "word_num": 9,
+        "word": "δοκοῦσα",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,PPA,NFS,"
+      }
+    ],
+    "origWordsTxt": "δοκοῦσα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1271244,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "15",
+        "word_num": 15,
+        "word": "thought",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "thought",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δοκοῦσα = thought",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "509457",
+    "book_id": "act",
+    "chapter": "12",
+    "verse": "9",
+    "alignment_num": "16",
+    "orig_lang_words": ",1491897,",
+    "target_lang_words": ",1282434,1282435,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491897,
+        "book_id": "act",
+        "chapter": "12",
+        "verse": "9",
+        "word_num": 14,
+        "word": "ἐδόκει",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδόκει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1282434,
+        "book_id": "act",
+        "chapter": "12",
+        "verse": "9",
+        "word_num": 22,
+        "word": "he",
+        "occurrence": 3
+      },
+      {
+        "id": 1282435,
+        "book_id": "act",
+        "chapter": "12",
+        "verse": "9",
+        "word_num": 23,
+        "word": "thought",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he thought",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδόκει = he thought",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511577",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "25",
+    "alignment_num": "1",
+    "orig_lang_words": ",1494072,",
+    "target_lang_words": ",1285324,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494072,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "25",
+        "word_num": 0,
+        "word": "ἔδοξεν",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἔδοξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1285324,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "25",
+        "word_num": 1,
+        "word": "decided",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "decided",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔδοξεν = decided",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511617",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "28",
+    "alignment_num": "1",
+    "orig_lang_words": ",1494113,",
+    "target_lang_words": ",1285376,1285377,1285378,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494113,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "28",
+        "word_num": 0,
+        "word": "ἔδοξεν",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἔδοξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1285376,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "28",
+        "word_num": 1,
+        "word": "it",
+        "occurrence": 1
+      },
+      {
+        "id": 1285377,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "28",
+        "word_num": 2,
+        "word": "seemed",
+        "occurrence": 1
+      },
+      {
+        "id": 1285378,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "28",
+        "word_num": 3,
+        "word": "right",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "it seemed right",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἔδοξεν = it seemed right",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511697",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "34",
+    "alignment_num": "1",
+    "orig_lang_words": ",1494194,",
+    "target_lang_words": ",1285494,1285495,1285496,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494194,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "34",
+        "word_num": 0,
+        "word": "ἔδοξεν",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἔδοξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1285494,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "34",
+        "word_num": 1,
+        "word": "it",
+        "occurrence": 1
+      },
+      {
+        "id": 1285495,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "34",
+        "word_num": 2,
+        "word": "seemed",
+        "occurrence": 1
+      },
+      {
+        "id": 1285496,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "34",
+        "word_num": 3,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "it seemed good",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἔδοξεν = it seemed good",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518127",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1500813,",
+    "target_lang_words": ",1294323,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500813,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "9",
+        "word_num": 3,
+        "word": "ἔδοξα",
+        "occurrence": 1,
+        "strong": "G13800",
+        "lemma": "δοκέω",
+        "morph": "Gr,V,IAA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἔδοξα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1294323,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "9",
+        "word_num": 3,
+        "word": "thought",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "thought",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔδοξα = thought",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1623,7 +2361,8 @@
     "targetWordsTxt": "I think",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοκῶ = I think",
-    "frequency": 0.018867924528301886,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1685,51 +2424,8 @@
     "targetWordsTxt": "I think that",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δοκῶ = I think that",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529054",
-    "book_id": "1co",
-    "chapter": "8",
-    "verse": "2",
-    "alignment_num": "2",
-    "orig_lang_words": ",1512477,",
-    "target_lang_words": ",1310700,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1512477,
-        "book_id": "1co",
-        "chapter": "8",
-        "verse": "2",
-        "word_num": 2,
-        "word": "δοκεῖ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1310700,
-        "book_id": "1co",
-        "chapter": "8",
-        "verse": "2",
-        "word_num": 2,
-        "word": "thinks",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "thinks",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοκεῖ = thinks",
-    "frequency": 0.09433962264150944,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1812,51 +2508,8 @@
     "targetWordsTxt": "the one who thinks",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ὁ δοκῶν = the one who thinks",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "530361",
-    "book_id": "1co",
-    "chapter": "11",
-    "verse": "16",
-    "alignment_num": "3",
-    "orig_lang_words": ",1513819,",
-    "target_lang_words": ",1312705,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513819,
-        "book_id": "1co",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 3,
-        "word": "δοκεῖ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1312705,
-        "book_id": "1co",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 3,
-        "word": "wants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοκεῖ = wants",
-    "frequency": 0.018867924528301886,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1909,7 +2562,8 @@
     "targetWordsTxt": "that appear",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοκοῦντα = that appear",
-    "frequency": 0.018867924528301886,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1962,60 +2616,8 @@
     "targetWordsTxt": "we think",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοκοῦμεν = we think",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531867",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "37",
-    "alignment_num": "2",
-    "orig_lang_words": ",1515361,",
-    "target_lang_words": ",1314914,1314915,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515361,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "37",
-        "word_num": 2,
-        "word": "δοκεῖ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1314914,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "37",
-        "word_num": 2,
-        "word": "thinks",
-        "occurrence": 1
-      },
-      {
-        "id": 1314915,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "37",
-        "word_num": 3,
-        "word": "himself",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "thinks himself",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δοκεῖ = thinks himself",
-    "frequency": 0.018867924528301886,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2068,113 +2670,8 @@
     "targetWordsTxt": "it would",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δόξω = it would",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536489",
-    "book_id": "2co",
-    "chapter": "11",
-    "verse": "16",
-    "alignment_num": "2",
-    "orig_lang_words": ",1520141,",
-    "target_lang_words": ",1321572,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520141,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 5,
-        "word": "δόξῃ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δόξῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1321572,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 3,
-        "word": "Let",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Let",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δόξῃ = Let",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537087",
-    "book_id": "2co",
-    "chapter": "12",
-    "verse": "19",
-    "alignment_num": "0",
-    "orig_lang_words": ",1520732,",
-    "target_lang_words": ",1322483,1322484,1322485,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520732,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 1,
-        "word": "δοκεῖτε",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA2,,P,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖτε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1322483,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 0,
-        "word": "Do",
-        "occurrence": 1
-      },
-      {
-        "id": 1322484,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 1,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 1322485,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 2,
-        "word": "think",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Do you think",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δοκεῖτε = Do you think",
-    "frequency": 0.05660377358490566,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2284,7 +2781,8 @@
     "targetWordsTxt": "to those who seemed to be important",
     "alignmentTargetWords": 7,
     "alignmentTxt": "τοῖς δοκοῦσιν = to those who seemed to be important",
-    "frequency": 0.018867924528301886,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2358,252 +2856,8 @@
     "targetWordsTxt": "those who seemed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τῶν δοκούντων = those who seemed",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537834",
-    "book_id": "gal",
-    "chapter": "2",
-    "verse": "6",
-    "alignment_num": "15",
-    "orig_lang_words": ",1521504,1521505,",
-    "target_lang_words": ",1323599,1323600,1323601,1323602,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1521504,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 20,
-        "word": "οἱ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,RD,,,,NMP,"
-      },
-      {
-        "id": 1521505,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 21,
-        "word": "δοκοῦντες",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,PPA,NMP,"
-      }
-    ],
-    "origWordsTxt": "οἱ δοκοῦντες",
-    "alignmentOrigWords": 2,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1323599,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 25,
-        "word": "those",
-        "occurrence": 2
-      },
-      {
-        "id": 1323600,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 26,
-        "word": "who",
-        "occurrence": 2
-      },
-      {
-        "id": 1323601,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 27,
-        "word": "seemed",
-        "occurrence": 2
-      },
-      {
-        "id": 1323602,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 28,
-        "word": "important",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "those who seemed important",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "οἱ δοκοῦντες = those who seemed important",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537866",
-    "book_id": "gal",
-    "chapter": "2",
-    "verse": "9",
-    "alignment_num": "5",
-    "orig_lang_words": ",1521547,1521548,",
-    "target_lang_words": ",1323665,1323666,1323667,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1521547,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 12,
-        "word": "οἱ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,RD,,,,NMP,"
-      },
-      {
-        "id": 1521548,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 13,
-        "word": "δοκοῦντες",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,PPA,NMP,"
-      }
-    ],
-    "origWordsTxt": "οἱ δοκοῦντες",
-    "alignmentOrigWords": 2,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1323665,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 5,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1323666,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 6,
-        "word": "were",
-        "occurrence": 1
-      },
-      {
-        "id": 1323667,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 7,
-        "word": "recognized",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who were recognized",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "οἱ δοκοῦντες = who were recognized",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539304",
-    "book_id": "gal",
-    "chapter": "6",
-    "verse": "3",
-    "alignment_num": "3",
-    "orig_lang_words": ",1523033,",
-    "target_lang_words": ",1325921,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523033,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "3",
-        "word_num": 2,
-        "word": "δοκεῖ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1325921,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "3",
-        "word_num": 3,
-        "word": "thinks",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "thinks",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοκεῖ = thinks",
-    "frequency": 0.09433962264150944,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542893",
-    "book_id": "php",
-    "chapter": "3",
-    "verse": "4",
-    "alignment_num": "11",
-    "orig_lang_words": ",1526671,",
-    "target_lang_words": ",1330756,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526671,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 9,
-        "word": "δοκεῖ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1330756,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 14,
-        "word": "thinks",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "thinks",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοκεῖ = thinks",
-    "frequency": 0.09433962264150944,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2656,60 +2910,8 @@
     "targetWordsTxt": "might seem",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοκῇ = might seem",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554119",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "29",
-    "alignment_num": "4",
-    "orig_lang_words": ",1538318,",
-    "target_lang_words": ",1347036,1347037,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538318,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "29",
-        "word_num": 1,
-        "word": "δοκεῖτε",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA2,,P,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖτε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1347036,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "29",
-        "word_num": 5,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 1347037,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "29",
-        "word_num": 6,
-        "word": "think",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you think",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δοκεῖτε = you think",
-    "frequency": 0.018867924528301886,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2774,157 +2976,8 @@
     "targetWordsTxt": "thought best",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸ δοκοῦν = thought best",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555058",
-    "book_id": "heb",
-    "chapter": "12",
-    "verse": "11",
-    "alignment_num": "5",
-    "orig_lang_words": ",1539299,",
-    "target_lang_words": ",1348481,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539299,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "11",
-        "word_num": 8,
-        "word": "δοκεῖ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1348481,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "11",
-        "word_num": 6,
-        "word": "seem",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "seem",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοκεῖ = seem",
-    "frequency": 0.018867924528301886,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556037",
-    "book_id": "jas",
-    "chapter": "1",
-    "verse": "26",
-    "alignment_num": "2",
-    "orig_lang_words": ",1540325,",
-    "target_lang_words": ",1349959,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540325,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "26",
-        "word_num": 2,
-        "word": "δοκεῖ",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349959,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "26",
-        "word_num": 2,
-        "word": "thinks",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "thinks",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοκεῖ = thinks",
-    "frequency": 0.09433962264150944,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556810",
-    "book_id": "jas",
-    "chapter": "4",
-    "verse": "5",
-    "alignment_num": "1",
-    "orig_lang_words": ",1541154,",
-    "target_lang_words": ",1351052,1351053,1351054,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541154,
-        "book_id": "jas",
-        "chapter": "4",
-        "verse": "5",
-        "word_num": 1,
-        "word": "δοκεῖτε",
-        "occurrence": 1,
-        "strong": "G13800",
-        "lemma": "δοκέω",
-        "morph": "Gr,V,IPA2,,P,"
-      }
-    ],
-    "origWordsTxt": "δοκεῖτε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1351052,
-        "book_id": "jas",
-        "chapter": "4",
-        "verse": "5",
-        "word_num": 1,
-        "word": "do",
-        "occurrence": 1
-      },
-      {
-        "id": 1351053,
-        "book_id": "jas",
-        "chapter": "4",
-        "verse": "5",
-        "word_num": 2,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 1351054,
-        "book_id": "jas",
-        "chapter": "4",
-        "verse": "5",
-        "word_num": 3,
-        "word": "think",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "do you think",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δοκεῖτε = do you think",
-    "frequency": 0.03773584905660377,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

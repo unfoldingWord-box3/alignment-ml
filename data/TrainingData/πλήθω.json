@@ -66,7 +66,8 @@
     "targetWordsTxt": "he will be filled",
     "alignmentTargetWords": 4,
     "alignmentTxt": "πλησθήσεται = he will be filled",
-    "frequency": 0.045454545454545456,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -119,166 +120,8 @@
     "targetWordsTxt": "were fulfilled",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπλήσθησαν = were fulfilled",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469071",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "41",
-    "alignment_num": "15",
-    "orig_lang_words": ",1449755,",
-    "target_lang_words": ",1227584,1227585,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1449755,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "41",
-        "word_num": 18,
-        "word": "ἐπλήσθη",
-        "occurrence": 1,
-        "strong": "G41300",
-        "lemma": "πλήθω",
-        "morph": "Gr,V,IAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπλήσθη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1227584,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "41",
-        "word_num": 18,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1227585,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "41",
-        "word_num": 19,
-        "word": "filled",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was filled",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπλήσθη = was filled",
-    "frequency": 0.13636363636363635,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469251",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "57",
-    "alignment_num": "3",
-    "orig_lang_words": ",1449946,",
-    "target_lang_words": ",1227832,1227833,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1449946,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "57",
-        "word_num": 3,
-        "word": "ἐπλήσθη",
-        "occurrence": 1,
-        "strong": "G41300",
-        "lemma": "πλήθω",
-        "morph": "Gr,V,IAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπλήσθη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1227832,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "57",
-        "word_num": 3,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1227833,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "57",
-        "word_num": 4,
-        "word": "completed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was completed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπλήσθη = was completed",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469399",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "67",
-    "alignment_num": "4",
-    "orig_lang_words": ",1450107,",
-    "target_lang_words": ",1228031,1228032,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1450107,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "67",
-        "word_num": 5,
-        "word": "ἐπλήσθη",
-        "occurrence": 1,
-        "strong": "G41300",
-        "lemma": "πλήθω",
-        "morph": "Gr,V,IAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐπλήσθη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1228031,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "67",
-        "word_num": 4,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1228032,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "67",
-        "word_num": 5,
-        "word": "filled",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was filled",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐπλήσθη = was filled",
-    "frequency": 0.13636363636363635,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -331,7 +174,8 @@
     "targetWordsTxt": "were fulfilled",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπλήσθησαν = were fulfilled",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -393,7 +237,8 @@
     "targetWordsTxt": "had been fulfilled",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπλήσθησαν = had been fulfilled",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -455,7 +300,8 @@
     "targetWordsTxt": "had been fulfilled",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπλήσθησαν = had been fulfilled",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -508,51 +354,8 @@
     "targetWordsTxt": "was filled",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπλήσθησαν = was filled",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "471831",
-    "book_id": "luk",
-    "chapter": "5",
-    "verse": "7",
-    "alignment_num": "16",
-    "orig_lang_words": ",1452598,",
-    "target_lang_words": ",1231299,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1452598,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "7",
-        "word_num": 15,
-        "word": "ἔπλησαν",
-        "occurrence": 1,
-        "strong": "G41300",
-        "lemma": "πλήθω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἔπλησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1231299,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "7",
-        "word_num": 21,
-        "word": "filled",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "filled",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἔπλησαν = filled",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -605,7 +408,8 @@
     "targetWordsTxt": "were filled",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπλήσθησαν = were filled",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -658,60 +462,8 @@
     "targetWordsTxt": "were filled",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπλήσθησαν = were filled",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "484565",
-    "book_id": "luk",
-    "chapter": "21",
-    "verse": "22",
-    "alignment_num": "5",
-    "orig_lang_words": ",1465517,",
-    "target_lang_words": ",1248712,1248713,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1465517,
-        "book_id": "luk",
-        "chapter": "21",
-        "verse": "22",
-        "word_num": 6,
-        "word": "πλησθῆναι",
-        "occurrence": 1,
-        "strong": "G41300",
-        "lemma": "πλήθω",
-        "morph": "Gr,V,NAP,,,,,"
-      }
-    ],
-    "origWordsTxt": "πλησθῆναι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1248712,
-        "book_id": "luk",
-        "chapter": "21",
-        "verse": "22",
-        "word_num": 6,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1248713,
-        "book_id": "luk",
-        "chapter": "21",
-        "verse": "22",
-        "word_num": 7,
-        "word": "fulfill",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to fulfill",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πλησθῆναι = to fulfill",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -764,7 +516,8 @@
     "targetWordsTxt": "They were",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπλήσθησαν = They were",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -826,60 +579,8 @@
     "targetWordsTxt": "they were filled",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπλήσθησαν = they were filled",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503820",
-    "book_id": "act",
-    "chapter": "4",
-    "verse": "8",
-    "alignment_num": "2",
-    "orig_lang_words": ",1486115,",
-    "target_lang_words": ",1274897,1274898,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1486115,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "8",
-        "word_num": 2,
-        "word": "πλησθεὶς",
-        "occurrence": 1,
-        "strong": "G41300",
-        "lemma": "πλήθω",
-        "morph": "Gr,V,PAP,NMS,"
-      }
-    ],
-    "origWordsTxt": "πλησθεὶς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1274897,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "8",
-        "word_num": 2,
-        "word": "filled",
-        "occurrence": 1
-      },
-      {
-        "id": 1274898,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "8",
-        "word_num": 3,
-        "word": "with",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "filled with",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πλησθεὶς = filled with",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -932,7 +633,8 @@
     "targetWordsTxt": "they were",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπλήσθησαν = they were",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1003,104 +705,8 @@
     "targetWordsTxt": "and they were filled",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐπλήσθησαν = and they were filled",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "507479",
-    "book_id": "act",
-    "chapter": "9",
-    "verse": "17",
-    "alignment_num": "32",
-    "orig_lang_words": ",1489877,",
-    "target_lang_words": ",1279769,1279770,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1489877,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "17",
-        "word_num": 33,
-        "word": "πλησθῇς",
-        "occurrence": 1,
-        "strong": "G41300",
-        "lemma": "πλήθω",
-        "morph": "Gr,V,SAP2,,S,"
-      }
-    ],
-    "origWordsTxt": "πλησθῇς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1279769,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "17",
-        "word_num": 43,
-        "word": "be",
-        "occurrence": 1
-      },
-      {
-        "id": 1279770,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "17",
-        "word_num": 44,
-        "word": "filled",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "be filled",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πλησθῇς = be filled",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "509919",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "9",
-    "alignment_num": "5",
-    "orig_lang_words": ",1492370,",
-    "target_lang_words": ",1283072,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492370,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "9",
-        "word_num": 5,
-        "word": "πλησθεὶς",
-        "occurrence": 1,
-        "strong": "G41300",
-        "lemma": "πλήθω",
-        "morph": "Gr,V,PAP,NMS,"
-      }
-    ],
-    "origWordsTxt": "πλησθεὶς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1283072,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "9",
-        "word_num": 6,
-        "word": "filled",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "filled",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πλησθεὶς = filled",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1162,7 +768,170 @@
     "targetWordsTxt": "they were filled",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐπλήσθησαν = they were filled",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469071",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "41",
+    "alignment_num": "15",
+    "orig_lang_words": ",1449755,",
+    "target_lang_words": ",1227584,1227585,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449755,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "41",
+        "word_num": 18,
+        "word": "ἐπλήσθη",
+        "occurrence": 1,
+        "strong": "G41300",
+        "lemma": "πλήθω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπλήσθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1227584,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "41",
+        "word_num": 18,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1227585,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "41",
+        "word_num": 19,
+        "word": "filled",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was filled",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπλήσθη = was filled",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469251",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "57",
+    "alignment_num": "3",
+    "orig_lang_words": ",1449946,",
+    "target_lang_words": ",1227832,1227833,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449946,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "57",
+        "word_num": 3,
+        "word": "ἐπλήσθη",
+        "occurrence": 1,
+        "strong": "G41300",
+        "lemma": "πλήθω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπλήσθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1227832,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "57",
+        "word_num": 3,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1227833,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "57",
+        "word_num": 4,
+        "word": "completed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was completed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπλήσθη = was completed",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469399",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "67",
+    "alignment_num": "4",
+    "orig_lang_words": ",1450107,",
+    "target_lang_words": ",1228031,1228032,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1450107,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "67",
+        "word_num": 5,
+        "word": "ἐπλήσθη",
+        "occurrence": 1,
+        "strong": "G41300",
+        "lemma": "πλήθω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐπλήσθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1228031,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "67",
+        "word_num": 4,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1228032,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "67",
+        "word_num": 5,
+        "word": "filled",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was filled",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐπλήσθη = was filled",
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1215,7 +984,260 @@
     "targetWordsTxt": "was filled",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐπλήσθη = was filled",
-    "frequency": 0.13636363636363635,
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "471831",
+    "book_id": "luk",
+    "chapter": "5",
+    "verse": "7",
+    "alignment_num": "16",
+    "orig_lang_words": ",1452598,",
+    "target_lang_words": ",1231299,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1452598,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 15,
+        "word": "ἔπλησαν",
+        "occurrence": 1,
+        "strong": "G41300",
+        "lemma": "πλήθω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἔπλησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1231299,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 21,
+        "word": "filled",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "filled",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἔπλησαν = filled",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "484565",
+    "book_id": "luk",
+    "chapter": "21",
+    "verse": "22",
+    "alignment_num": "5",
+    "orig_lang_words": ",1465517,",
+    "target_lang_words": ",1248712,1248713,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1465517,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "22",
+        "word_num": 6,
+        "word": "πλησθῆναι",
+        "occurrence": 1,
+        "strong": "G41300",
+        "lemma": "πλήθω",
+        "morph": "Gr,V,NAP,,,,,"
+      }
+    ],
+    "origWordsTxt": "πλησθῆναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1248712,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "22",
+        "word_num": 6,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1248713,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "22",
+        "word_num": 7,
+        "word": "fulfill",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to fulfill",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πλησθῆναι = to fulfill",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503820",
+    "book_id": "act",
+    "chapter": "4",
+    "verse": "8",
+    "alignment_num": "2",
+    "orig_lang_words": ",1486115,",
+    "target_lang_words": ",1274897,1274898,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1486115,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 2,
+        "word": "πλησθεὶς",
+        "occurrence": 1,
+        "strong": "G41300",
+        "lemma": "πλήθω",
+        "morph": "Gr,V,PAP,NMS,"
+      }
+    ],
+    "origWordsTxt": "πλησθεὶς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1274897,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 2,
+        "word": "filled",
+        "occurrence": 1
+      },
+      {
+        "id": 1274898,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 3,
+        "word": "with",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "filled with",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πλησθεὶς = filled with",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "509919",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "9",
+    "alignment_num": "5",
+    "orig_lang_words": ",1492370,",
+    "target_lang_words": ",1283072,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492370,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "9",
+        "word_num": 5,
+        "word": "πλησθεὶς",
+        "occurrence": 1,
+        "strong": "G41300",
+        "lemma": "πλήθω",
+        "morph": "Gr,V,PAP,NMS,"
+      }
+    ],
+    "origWordsTxt": "πλησθεὶς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283072,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "9",
+        "word_num": 6,
+        "word": "filled",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "filled",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πλησθεὶς = filled",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "507479",
+    "book_id": "act",
+    "chapter": "9",
+    "verse": "17",
+    "alignment_num": "32",
+    "orig_lang_words": ",1489877,",
+    "target_lang_words": ",1279769,1279770,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1489877,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "17",
+        "word_num": 33,
+        "word": "πλησθῇς",
+        "occurrence": 1,
+        "strong": "G41300",
+        "lemma": "πλήθω",
+        "morph": "Gr,V,SAP2,,S,"
+      }
+    ],
+    "origWordsTxt": "πλησθῇς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1279769,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "17",
+        "word_num": 43,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 1279770,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "17",
+        "word_num": 44,
+        "word": "filled",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "be filled",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πλησθῇς = be filled",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

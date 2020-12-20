@@ -75,7 +75,71 @@
     "targetWordsTxt": "have been ordered to do",
     "alignmentTargetWords": 5,
     "alignmentTxt": "διατεταγμένον = have been ordered to do",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516935",
+    "book_id": "act",
+    "chapter": "23",
+    "verse": "31",
+    "alignment_num": "6",
+    "orig_lang_words": ",1499603,",
+    "target_lang_words": ",1292623,1292624,1292625,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499603,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "31",
+        "word_num": 6,
+        "word": "διατεταγμένον",
+        "occurrence": 1,
+        "strong": "G12990",
+        "lemma": "διατάσσω",
+        "morph": "Gr,V,PEP,ANS,"
+      }
+    ],
+    "origWordsTxt": "διατεταγμένον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1292623,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "31",
+        "word_num": 7,
+        "word": "had",
+        "occurrence": 1
+      },
+      {
+        "id": 1292624,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "31",
+        "word_num": 8,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1292625,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "31",
+        "word_num": 9,
+        "word": "ordered",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "had been ordered",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "διατεταγμένον = had been ordered",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -128,7 +192,62 @@
     "targetWordsTxt": "he ordered",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διέταξεν = he ordered",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "529467",
+    "book_id": "1co",
+    "chapter": "9",
+    "verse": "14",
+    "alignment_num": "3",
+    "orig_lang_words": ",1512906,",
+    "target_lang_words": ",1311309,1311310,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1512906,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 4,
+        "word": "διέταξεν",
+        "occurrence": 1,
+        "strong": "G12990",
+        "lemma": "διατάσσω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "διέταξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1311309,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 6,
+        "word": "commanded",
+        "occurrence": 1
+      },
+      {
+        "id": 1311310,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 7,
+        "word": "that",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "commanded that",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διέταξεν = commanded that",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -181,7 +300,8 @@
     "targetWordsTxt": "were commanded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διαταχθέντα = were commanded",
-    "frequency": 0.13333333333333333,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -234,7 +354,8 @@
     "targetWordsTxt": "were commanded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διαταχθέντα = were commanded",
-    "frequency": 0.13333333333333333,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -287,7 +408,8 @@
     "targetWordsTxt": "had commanded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διετάξατο = had commanded",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -352,7 +474,8 @@
     "targetWordsTxt": "had commanded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸ διατεταχέναι = had commanded",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -432,69 +555,8 @@
     "targetWordsTxt": "he had arranged to do",
     "alignmentTargetWords": 5,
     "alignmentTxt": "διατεταγμένος = he had arranged to do",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516935",
-    "book_id": "act",
-    "chapter": "23",
-    "verse": "31",
-    "alignment_num": "6",
-    "orig_lang_words": ",1499603,",
-    "target_lang_words": ",1292623,1292624,1292625,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499603,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "31",
-        "word_num": 6,
-        "word": "διατεταγμένον",
-        "occurrence": 1,
-        "strong": "G12990",
-        "lemma": "διατάσσω",
-        "morph": "Gr,V,PEP,ANS,"
-      }
-    ],
-    "origWordsTxt": "διατεταγμένον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1292623,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "31",
-        "word_num": 7,
-        "word": "had",
-        "occurrence": 1
-      },
-      {
-        "id": 1292624,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "31",
-        "word_num": 8,
-        "word": "been",
-        "occurrence": 1
-      },
-      {
-        "id": 1292625,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "31",
-        "word_num": 9,
-        "word": "ordered",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "had been ordered",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "διατεταγμένον = had been ordered",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -556,7 +618,8 @@
     "targetWordsTxt": "Then he commanded",
     "alignmentTargetWords": 3,
     "alignmentTxt": "διαταξάμενος = Then he commanded",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -609,60 +672,8 @@
     "targetWordsTxt": "I direct",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διατάσσομαι = I direct",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529467",
-    "book_id": "1co",
-    "chapter": "9",
-    "verse": "14",
-    "alignment_num": "3",
-    "orig_lang_words": ",1512906,",
-    "target_lang_words": ",1311309,1311310,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1512906,
-        "book_id": "1co",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 4,
-        "word": "διέταξεν",
-        "occurrence": 1,
-        "strong": "G12990",
-        "lemma": "διατάσσω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "διέταξεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1311309,
-        "book_id": "1co",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 6,
-        "word": "commanded",
-        "occurrence": 1
-      },
-      {
-        "id": 1311310,
-        "book_id": "1co",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 7,
-        "word": "that",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "commanded that",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διέταξεν = commanded that",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -733,7 +744,8 @@
     "targetWordsTxt": "I will give directions",
     "alignmentTargetWords": 4,
     "alignmentTxt": "διατάξομαι = I will give directions",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -786,7 +798,8 @@
     "targetWordsTxt": "I directed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διέταξα = I directed",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -875,7 +888,8 @@
     "targetWordsTxt": "The law was put into force",
     "alignmentTargetWords": 6,
     "alignmentTxt": "διαταγεὶς = The law was put into force",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -919,7 +933,8 @@
     "targetWordsTxt": "directed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διεταξάμην = directed",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -39,7 +39,62 @@
     "targetWordsTxt": "may",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγιασθήτω = may",
-    "frequency": 0.04,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571341",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "11",
+    "alignment_num": "14",
+    "orig_lang_words": ",1557150,",
+    "target_lang_words": ",1371741,1371742,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1557150,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 18,
+        "word": "ἁγιασθήτω",
+        "occurrence": 1,
+        "strong": "G00370",
+        "lemma": "ἁγιάζω",
+        "morph": "Gr,V,MAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἁγιασθήτω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1371741,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 40,
+        "word": "let",
+        "occurrence": 4
+      },
+      {
+        "id": 1371742,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 41,
+        "word": "him",
+        "occurrence": 4
+      }
+    ],
+    "targetWordsTxt": "let him",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἁγιασθήτω = let him",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +147,8 @@
     "targetWordsTxt": "set apart",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἡγίασεν = set apart",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +192,8 @@
     "targetWordsTxt": "Set",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγίασον = Set",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,7 +246,8 @@
     "targetWordsTxt": "have set",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁγιάζω = have set",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,7 +300,53 @@
     "targetWordsTxt": "set apart",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἡγιασμένοι = set apart",
-    "frequency": 0.04,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553875",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "10",
+    "alignment_num": "4",
+    "orig_lang_words": ",1538062,",
+    "target_lang_words": ",1346666,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538062,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "10",
+        "word_num": 3,
+        "word": "ἡγιασμένοι",
+        "occurrence": 1,
+        "strong": "G00370",
+        "lemma": "ἁγιάζω",
+        "morph": "Gr,V,PEP,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἡγιασμένοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346666,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "10",
+        "word_num": 6,
+        "word": "sanctified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sanctified",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡγιασμένοι = sanctified",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -304,7 +408,8 @@
     "targetWordsTxt": "are being sanctified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἡγιασμένοις = are being sanctified",
-    "frequency": 0.04,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -366,51 +471,8 @@
     "targetWordsTxt": "have been sanctified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἡγιασμένοις = have been sanctified",
-    "frequency": 0.04,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525768",
-    "book_id": "rom",
-    "chapter": "15",
-    "verse": "16",
-    "alignment_num": "20",
-    "orig_lang_words": ",1509042,",
-    "target_lang_words": ",1305900,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1509042,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "16",
-        "word_num": 22,
-        "word": "ἡγιασμένη",
-        "occurrence": 1,
-        "strong": "G00370",
-        "lemma": "ἁγιάζω",
-        "morph": "Gr,V,PEP,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡγιασμένη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1305900,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "16",
-        "word_num": 39,
-        "word": "consecrated",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "consecrated",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡγιασμένη = consecrated",
-    "frequency": 0.04,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -499,7 +561,53 @@
     "targetWordsTxt": "to those who have been sanctified",
     "alignmentTargetWords": 6,
     "alignmentTxt": "ἡγιασμένοις = to those who have been sanctified",
-    "frequency": 0.04,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525768",
+    "book_id": "rom",
+    "chapter": "15",
+    "verse": "16",
+    "alignment_num": "20",
+    "orig_lang_words": ",1509042,",
+    "target_lang_words": ",1305900,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509042,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "16",
+        "word_num": 22,
+        "word": "ἡγιασμένη",
+        "occurrence": 1,
+        "strong": "G00370",
+        "lemma": "ἁγιάζω",
+        "morph": "Gr,V,PEP,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡγιασμένη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1305900,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "16",
+        "word_num": 39,
+        "word": "consecrated",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "consecrated",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡγιασμένη = consecrated",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -573,7 +681,8 @@
     "targetWordsTxt": "you were sanctified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀλλὰ ἡγιάσθητε = you were sanctified",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -626,7 +735,8 @@
     "targetWordsTxt": "is sanctified",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἡγίασται = is sanctified",
-    "frequency": 0.08,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -679,7 +789,8 @@
     "targetWordsTxt": "is sanctified",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἡγίασται = is sanctified",
-    "frequency": 0.08,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -741,7 +852,53 @@
     "targetWordsTxt": "he might sanctify",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἁγιάσῃ = he might sanctify",
-    "frequency": 0.04,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555499",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "12",
+    "alignment_num": "8",
+    "orig_lang_words": ",1539745,",
+    "target_lang_words": ",1349159,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539745,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "12",
+        "word_num": 4,
+        "word": "ἁγιάσῃ",
+        "occurrence": 1,
+        "strong": "G00370",
+        "lemma": "ἁγιάζω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἁγιάσῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349159,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "12",
+        "word_num": 11,
+        "word": "sanctify",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sanctify",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁγιάσῃ = sanctify",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -785,7 +942,8 @@
     "targetWordsTxt": "May",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγιάσαι = May",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -847,7 +1005,8 @@
     "targetWordsTxt": "it is sanctified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἁγιάζεται = it is sanctified",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -918,7 +1077,8 @@
     "targetWordsTxt": "having been set apart",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἡγιασμένον = having been set apart",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -971,7 +1131,8 @@
     "targetWordsTxt": "who sanctifies",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁγιάζων = who sanctifies",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1033,7 +1194,8 @@
     "targetWordsTxt": "who are sanctified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἁγιαζόμενοι = who are sanctified",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1113,51 +1275,8 @@
     "targetWordsTxt": "sets them apart to God",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ἁγιάζει = sets them apart to God",
-    "frequency": 0.04,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553875",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "10",
-    "alignment_num": "4",
-    "orig_lang_words": ",1538062,",
-    "target_lang_words": ",1346666,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538062,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "10",
-        "word_num": 3,
-        "word": "ἡγιασμένοι",
-        "occurrence": 1,
-        "strong": "G00370",
-        "lemma": "ἁγιάζω",
-        "morph": "Gr,V,PEP,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἡγιασμένοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346666,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "10",
-        "word_num": 6,
-        "word": "sanctified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sanctified",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡγιασμένοι = sanctified",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1249,7 +1368,8 @@
     "targetWordsTxt": "those who are being sanctified",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τοὺς ἁγιαζομένους = those who are being sanctified",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1311,51 +1431,8 @@
     "targetWordsTxt": "he was sanctified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἡγιάσθη = he was sanctified",
-    "frequency": 0.04,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555499",
-    "book_id": "heb",
-    "chapter": "13",
-    "verse": "12",
-    "alignment_num": "8",
-    "orig_lang_words": ",1539745,",
-    "target_lang_words": ",1349159,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539745,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "12",
-        "word_num": 4,
-        "word": "ἁγιάσῃ",
-        "occurrence": 1,
-        "strong": "G00370",
-        "lemma": "ἁγιάζω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἁγιάσῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349159,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "12",
-        "word_num": 11,
-        "word": "sanctify",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sanctify",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁγιάσῃ = sanctify",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1408,60 +1485,8 @@
     "targetWordsTxt": "set apart",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁγιάσατε = set apart",
-    "frequency": 0.04,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571341",
-    "book_id": "rev",
-    "chapter": "22",
-    "verse": "11",
-    "alignment_num": "14",
-    "orig_lang_words": ",1557150,",
-    "target_lang_words": ",1371741,1371742,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1557150,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 18,
-        "word": "ἁγιασθήτω",
-        "occurrence": 1,
-        "strong": "G00370",
-        "lemma": "ἁγιάζω",
-        "morph": "Gr,V,MAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἁγιασθήτω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1371741,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 40,
-        "word": "let",
-        "occurrence": 4
-      },
-      {
-        "id": 1371742,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 41,
-        "word": "him",
-        "occurrence": 4
-      }
-    ],
-    "targetWordsTxt": "let him",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἁγιασθήτω = let him",
-    "frequency": 0.04,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

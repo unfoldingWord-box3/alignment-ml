@@ -39,7 +39,8 @@
     "targetWordsTxt": "rejoiced",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἠγαλλίασεν = rejoiced",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,60 +102,8 @@
     "targetWordsTxt": "he rejoiced greatly",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠγαλλιάσατο = he rejoiced greatly",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490710",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "35",
-    "alignment_num": "10",
-    "orig_lang_words": ",1471999,",
-    "target_lang_words": ",1256951,1256952,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471999,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "35",
-        "word_num": 11,
-        "word": "ἀγαλλιαθῆναι",
-        "occurrence": 1,
-        "strong": "G00210",
-        "lemma": "ἀγαλλιάω",
-        "morph": "Gr,V,NAP,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀγαλλιαθῆναι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1256951,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "35",
-        "word_num": 13,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1256952,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "35",
-        "word_num": 14,
-        "word": "rejoice",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to rejoice",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαλλιαθῆναι = to rejoice",
-    "frequency": 0.1,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +147,8 @@
     "targetWordsTxt": "rejoiced",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἠγαλλιάσατο = rejoiced",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,7 +192,8 @@
     "targetWordsTxt": "rejoiced",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἠγαλλιάσατο = rejoiced",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,7 +246,62 @@
     "targetWordsTxt": "rejoiced greatly",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἠγαλλιάσατο = rejoiced greatly",
-    "frequency": 0.1,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490710",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "35",
+    "alignment_num": "10",
+    "orig_lang_words": ",1471999,",
+    "target_lang_words": ",1256951,1256952,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471999,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "35",
+        "word_num": 11,
+        "word": "ἀγαλλιαθῆναι",
+        "occurrence": 1,
+        "strong": "G00210",
+        "lemma": "ἀγαλλιάω",
+        "morph": "Gr,V,NAP,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀγαλλιαθῆναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1256951,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "35",
+        "word_num": 13,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1256952,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "35",
+        "word_num": 14,
+        "word": "rejoice",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to rejoice",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαλλιαθῆναι = to rejoice",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -366,7 +372,8 @@
     "targetWordsTxt": "You are very glad",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἀγαλλιᾶσθε = You are very glad",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -419,7 +426,8 @@
     "targetWordsTxt": "and rejoice",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀγαλλιᾶσθε = and rejoice",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -481,7 +489,8 @@
     "targetWordsTxt": "and be glad",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀγαλλιώμενοι = and be glad",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -525,7 +534,8 @@
     "targetWordsTxt": "exult",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀγαλλιῶμεν = exult",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -39,7 +39,8 @@
     "targetWordsTxt": "commanded",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσέταξεν = commanded",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,62 @@
     "targetWordsTxt": "what",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσέταξεν = what",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508756",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "48",
+    "alignment_num": "1",
+    "orig_lang_words": ",1491176,",
+    "target_lang_words": ",1281505,1281506,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491176,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "48",
+        "word_num": 0,
+        "word": "προσέταξεν",
+        "occurrence": 1,
+        "strong": "G43670",
+        "lemma": "προστάσσω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσέταξεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1281505,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "48",
+        "word_num": 1,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1281506,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "48",
+        "word_num": 2,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he commanded",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσέταξεν = he commanded",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,60 +201,8 @@
     "targetWordsTxt": "have been instructed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προστεταγμένα = have been instructed",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508756",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "48",
-    "alignment_num": "1",
-    "orig_lang_words": ",1491176,",
-    "target_lang_words": ",1281505,1281506,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491176,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "48",
-        "word_num": 0,
-        "word": "προσέταξεν",
-        "occurrence": 1,
-        "strong": "G43670",
-        "lemma": "προστάσσω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσέταξεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1281505,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "48",
-        "word_num": 1,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1281506,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "48",
-        "word_num": 2,
-        "word": "commanded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he commanded",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσέταξεν = he commanded",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -251,7 +255,8 @@
     "targetWordsTxt": "their appointed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προστεταγμένους = their appointed",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

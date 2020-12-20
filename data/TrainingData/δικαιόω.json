@@ -39,7 +39,8 @@
     "targetWordsTxt": "declared",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐδικαίωσαν = declared",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,215 @@
     "targetWordsTxt": "is justified",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐδικαιώθη = is justified",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521196",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "2",
+    "alignment_num": "3",
+    "orig_lang_words": ",1504064,",
+    "target_lang_words": ",1298854,1298855,1298856,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504064,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 5,
+        "word": "ἐδικαιώθη",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδικαιώθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1298854,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 3,
+        "word": "had",
+        "occurrence": 1
+      },
+      {
+        "id": 1298855,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 4,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1298856,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 5,
+        "word": "justified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "had been justified",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐδικαιώθη = had been justified",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547845",
+    "book_id": "1ti",
+    "chapter": "3",
+    "verse": "16",
+    "alignment_num": "12",
+    "orig_lang_words": ",1531878,",
+    "target_lang_words": ",1337852,1337853,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531878,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 12,
+        "word": "ἐδικαιώθη",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδικαιώθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1337852,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 14,
+        "word": "was",
+        "occurrence": 2
+      },
+      {
+        "id": 1337853,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 15,
+        "word": "justified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was justified",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδικαιώθη = was justified",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556376",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "21",
+    "alignment_num": "0",
+    "orig_lang_words": ",1540693,",
+    "target_lang_words": ",1350447,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540693,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 7,
+        "word": "ἐδικαιώθη",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδικαιώθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350447,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 0,
+        "word": "Was",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Was",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐδικαιώθη = Was",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556435",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "25",
+    "alignment_num": "3",
+    "orig_lang_words": ",1540757,",
+    "target_lang_words": ",1350531,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540757,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 9,
+        "word": "ἐδικαιώθη",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδικαιώθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350531,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 6,
+        "word": "was",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐδικαιώθη = was",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +354,8 @@
     "targetWordsTxt": "to justify",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δικαιῶσαι = to justify",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,7 +399,8 @@
     "targetWordsTxt": "justify",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δικαιοῦντες = justify",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -233,7 +444,8 @@
     "targetWordsTxt": "justified",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεδικαιωμένος = justified",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -277,7 +489,71 @@
     "targetWordsTxt": "justified",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δικαιωθῆναι = justified",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538026",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "3",
+    "orig_lang_words": ",1521707,",
+    "target_lang_words": ",1323935,1323936,1323937,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521707,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 3,
+        "word": "δικαιωθῆναι",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,NAP,,,,,"
+      }
+    ],
+    "origWordsTxt": "δικαιωθῆναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1323935,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 5,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1323936,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 6,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 1323937,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 7,
+        "word": "justified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to be justified",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δικαιωθῆναι = to be justified",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -330,7 +606,161 @@
     "targetWordsTxt": "is justified",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δικαιοῦται = is justified",
-    "frequency": 0.08108108108108109,
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537991",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "5",
+    "orig_lang_words": ",1521669,",
+    "target_lang_words": ",1323878,1323879,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521669,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 4,
+        "word": "δικαιοῦται",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,IPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "δικαιοῦται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1323878,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 6,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1323879,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 7,
+        "word": "justified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is justified",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δικαιοῦται = is justified",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538250",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "11",
+    "alignment_num": "4",
+    "orig_lang_words": ",1521933,",
+    "target_lang_words": ",1324284,1324285,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521933,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 5,
+        "word": "δικαιοῦται",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,IPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "δικαιοῦται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1324284,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 7,
+        "word": "is",
+        "occurrence": 2
+      },
+      {
+        "id": 1324285,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 8,
+        "word": "justified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is justified",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δικαιοῦται = is justified",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556424",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "24",
+    "alignment_num": "4",
+    "orig_lang_words": ",1540741,",
+    "target_lang_words": ",1350515,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540741,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 4,
+        "word": "δικαιοῦται",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,IPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "δικαιοῦται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350515,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 7,
+        "word": "that",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "that",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δικαιοῦται = that",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -401,7 +831,8 @@
     "targetWordsTxt": "who will be justified",
     "alignmentTargetWords": 4,
     "alignmentTxt": "δικαιωθήσονται = who will be justified",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -511,7 +942,8 @@
     "targetWordsTxt": "you might be shown to be righteous",
     "alignmentTargetWords": 7,
     "alignmentTxt": "ἂν δικαιωθῇς = you might be shown to be righteous",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -573,7 +1005,71 @@
     "targetWordsTxt": "will be justified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δικαιωθήσεται = will be justified",
-    "frequency": 0.05405405405405406,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538022",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "36",
+    "orig_lang_words": ",1521701,",
+    "target_lang_words": ",1323927,1323928,1323929,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521701,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 36,
+        "word": "δικαιωθήσεται",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,IFP3,,S,"
+      }
+    ],
+    "origWordsTxt": "δικαιωθήσεται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1323927,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 55,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1323928,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 56,
+        "word": "be",
+        "occurrence": 2
+      },
+      {
+        "id": 1323929,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 57,
+        "word": "justified",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "will be justified",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δικαιωθήσεται = will be justified",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -635,7 +1131,8 @@
     "targetWordsTxt": "and they are",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δικαιούμενοι = and they are",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -679,175 +1176,8 @@
     "targetWordsTxt": "justify",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δικαιοῦντα = justify",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521146",
-    "book_id": "rom",
-    "chapter": "3",
-    "verse": "28",
-    "alignment_num": "3",
-    "orig_lang_words": ",1504007,",
-    "target_lang_words": ",1298774,1298775,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504007,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "28",
-        "word_num": 2,
-        "word": "δικαιοῦσθαι",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,NPP,,,,,"
-      }
-    ],
-    "origWordsTxt": "δικαιοῦσθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1298774,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "28",
-        "word_num": 6,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1298775,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "28",
-        "word_num": 7,
-        "word": "justified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is justified",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δικαιοῦσθαι = is justified",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521166",
-    "book_id": "rom",
-    "chapter": "3",
-    "verse": "30",
-    "alignment_num": "4",
-    "orig_lang_words": ",1504029,",
-    "target_lang_words": ",1298809,1298810,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504029,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "30",
-        "word_num": 5,
-        "word": "δικαιώσει",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δικαιώσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1298809,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "30",
-        "word_num": 6,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1298810,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "30",
-        "word_num": 7,
-        "word": "justify",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will justify",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δικαιώσει = will justify",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521196",
-    "book_id": "rom",
-    "chapter": "4",
-    "verse": "2",
-    "alignment_num": "3",
-    "orig_lang_words": ",1504064,",
-    "target_lang_words": ",1298854,1298855,1298856,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504064,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 5,
-        "word": "ἐδικαιώθη",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,IAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδικαιώθη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1298854,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 3,
-        "word": "had",
-        "occurrence": 1
-      },
-      {
-        "id": 1298855,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 4,
-        "word": "been",
-        "occurrence": 1
-      },
-      {
-        "id": 1298856,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 5,
-        "word": "justified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "had been justified",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐδικαιώθη = had been justified",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -930,7 +1260,116 @@
     "targetWordsTxt": "the one who justifies",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τὸν δικαιοῦντα = the one who justifies",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521146",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "28",
+    "alignment_num": "3",
+    "orig_lang_words": ",1504007,",
+    "target_lang_words": ",1298774,1298775,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504007,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "28",
+        "word_num": 2,
+        "word": "δικαιοῦσθαι",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,NPP,,,,,"
+      }
+    ],
+    "origWordsTxt": "δικαιοῦσθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1298774,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "28",
+        "word_num": 6,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1298775,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "28",
+        "word_num": 7,
+        "word": "justified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is justified",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δικαιοῦσθαι = is justified",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521166",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "30",
+    "alignment_num": "4",
+    "orig_lang_words": ",1504029,",
+    "target_lang_words": ",1298809,1298810,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504029,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "30",
+        "word_num": 5,
+        "word": "δικαιώσει",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δικαιώσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1298809,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "30",
+        "word_num": 6,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1298810,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "30",
+        "word_num": 7,
+        "word": "justify",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will justify",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δικαιώσει = will justify",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -992,7 +1431,8 @@
     "targetWordsTxt": "we are justified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δικαιωθέντες = we are justified",
-    "frequency": 0.05405405405405406,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1054,7 +1494,71 @@
     "targetWordsTxt": "we are justified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δικαιωθέντες = we are justified",
-    "frequency": 0.05405405405405406,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550525",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "7",
+    "alignment_num": "1",
+    "orig_lang_words": ",1534550,",
+    "target_lang_words": ",1341625,1341626,1341627,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534550,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 1,
+        "word": "δικαιωθέντες",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,PAP,NMP,"
+      }
+    ],
+    "origWordsTxt": "δικαιωθέντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1341625,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 2,
+        "word": "having",
+        "occurrence": 1
+      },
+      {
+        "id": 1341626,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 3,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 1341627,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 4,
+        "word": "justified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "having been justified",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δικαιωθέντες = having been justified",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1116,7 +1620,8 @@
     "targetWordsTxt": "is declared righteous",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεδικαίωται = is declared righteous",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1160,7 +1665,8 @@
     "targetWordsTxt": "he",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐδικαίωσεν = he",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1213,7 +1719,8 @@
     "targetWordsTxt": "he justified",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐδικαίωσεν = he justified",
-    "frequency": 0.02702702702702703,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1266,7 +1773,8 @@
     "targetWordsTxt": "who justifies",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δικαιῶν = who justifies",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1319,7 +1827,8 @@
     "targetWordsTxt": "I am",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεδικαίωμαι = I am",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1393,60 +1902,8 @@
     "targetWordsTxt": "you were justified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀλλὰ ἐδικαιώθητε = you were justified",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537991",
-    "book_id": "gal",
-    "chapter": "2",
-    "verse": "16",
-    "alignment_num": "5",
-    "orig_lang_words": ",1521669,",
-    "target_lang_words": ",1323878,1323879,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1521669,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 4,
-        "word": "δικαιοῦται",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,IPP3,,S,"
-      }
-    ],
-    "origWordsTxt": "δικαιοῦται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1323878,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 6,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1323879,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 7,
-        "word": "justified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is justified",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δικαιοῦται = is justified",
-    "frequency": 0.08108108108108109,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1517,237 +1974,8 @@
     "targetWordsTxt": "we might be justified",
     "alignmentTargetWords": 4,
     "alignmentTxt": "δικαιωθῶμεν = we might be justified",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538022",
-    "book_id": "gal",
-    "chapter": "2",
-    "verse": "16",
-    "alignment_num": "36",
-    "orig_lang_words": ",1521701,",
-    "target_lang_words": ",1323927,1323928,1323929,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1521701,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 36,
-        "word": "δικαιωθήσεται",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,IFP3,,S,"
-      }
-    ],
-    "origWordsTxt": "δικαιωθήσεται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1323927,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 55,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1323928,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 56,
-        "word": "be",
-        "occurrence": 2
-      },
-      {
-        "id": 1323929,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 57,
-        "word": "justified",
-        "occurrence": 3
-      }
-    ],
-    "targetWordsTxt": "will be justified",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δικαιωθήσεται = will be justified",
-    "frequency": 0.05405405405405406,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538026",
-    "book_id": "gal",
-    "chapter": "2",
-    "verse": "17",
-    "alignment_num": "3",
-    "orig_lang_words": ",1521707,",
-    "target_lang_words": ",1323935,1323936,1323937,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1521707,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 3,
-        "word": "δικαιωθῆναι",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,NAP,,,,,"
-      }
-    ],
-    "origWordsTxt": "δικαιωθῆναι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1323935,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 5,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1323936,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 6,
-        "word": "be",
-        "occurrence": 1
-      },
-      {
-        "id": 1323937,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 7,
-        "word": "justified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to be justified",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δικαιωθῆναι = to be justified",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538196",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "6",
-    "orig_lang_words": ",1521876,",
-    "target_lang_words": ",1324202,1324203,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1521876,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 7,
-        "word": "δικαιοῖ",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δικαιοῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1324202,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 6,
-        "word": "would",
-        "occurrence": 1
-      },
-      {
-        "id": 1324203,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 7,
-        "word": "justify",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "would justify",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δικαιοῖ = would justify",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538250",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "11",
-    "alignment_num": "4",
-    "orig_lang_words": ",1521933,",
-    "target_lang_words": ",1324284,1324285,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1521933,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 5,
-        "word": "δικαιοῦται",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,IPP3,,S,"
-      }
-    ],
-    "origWordsTxt": "δικαιοῦται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1324284,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 7,
-        "word": "is",
-        "occurrence": 2
-      },
-      {
-        "id": 1324285,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 8,
-        "word": "justified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is justified",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δικαιοῦται = is justified",
-    "frequency": 0.08108108108108109,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1818,7 +2046,62 @@
     "targetWordsTxt": "we might be justified",
     "alignmentTargetWords": 4,
     "alignmentTxt": "δικαιωθῶμεν = we might be justified",
-    "frequency": 0.05405405405405406,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538196",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "6",
+    "orig_lang_words": ",1521876,",
+    "target_lang_words": ",1324202,1324203,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521876,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 7,
+        "word": "δικαιοῖ",
+        "occurrence": 1,
+        "strong": "G13440",
+        "lemma": "δικαιόω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δικαιοῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1324202,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 6,
+        "word": "would",
+        "occurrence": 1
+      },
+      {
+        "id": 1324203,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 7,
+        "word": "justify",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "would justify",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δικαιοῖ = would justify",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1880,254 +2163,8 @@
     "targetWordsTxt": "would be justified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δικαιοῦσθε = would be justified",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547845",
-    "book_id": "1ti",
-    "chapter": "3",
-    "verse": "16",
-    "alignment_num": "12",
-    "orig_lang_words": ",1531878,",
-    "target_lang_words": ",1337852,1337853,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531878,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 12,
-        "word": "ἐδικαιώθη",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,IAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδικαιώθη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1337852,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 14,
-        "word": "was",
-        "occurrence": 2
-      },
-      {
-        "id": 1337853,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 15,
-        "word": "justified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was justified",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδικαιώθη = was justified",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550525",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "7",
-    "alignment_num": "1",
-    "orig_lang_words": ",1534550,",
-    "target_lang_words": ",1341625,1341626,1341627,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534550,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 1,
-        "word": "δικαιωθέντες",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,PAP,NMP,"
-      }
-    ],
-    "origWordsTxt": "δικαιωθέντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1341625,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 2,
-        "word": "having",
-        "occurrence": 1
-      },
-      {
-        "id": 1341626,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 3,
-        "word": "been",
-        "occurrence": 1
-      },
-      {
-        "id": 1341627,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 4,
-        "word": "justified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "having been justified",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δικαιωθέντες = having been justified",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556376",
-    "book_id": "jas",
-    "chapter": "2",
-    "verse": "21",
-    "alignment_num": "0",
-    "orig_lang_words": ",1540693,",
-    "target_lang_words": ",1350447,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540693,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 7,
-        "word": "ἐδικαιώθη",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,IAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδικαιώθη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350447,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 0,
-        "word": "Was",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Was",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐδικαιώθη = Was",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556424",
-    "book_id": "jas",
-    "chapter": "2",
-    "verse": "24",
-    "alignment_num": "4",
-    "orig_lang_words": ",1540741,",
-    "target_lang_words": ",1350515,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540741,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 4,
-        "word": "δικαιοῦται",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,IPP3,,S,"
-      }
-    ],
-    "origWordsTxt": "δικαιοῦται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350515,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 7,
-        "word": "that",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "that",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δικαιοῦται = that",
-    "frequency": 0.02702702702702703,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556435",
-    "book_id": "jas",
-    "chapter": "2",
-    "verse": "25",
-    "alignment_num": "3",
-    "orig_lang_words": ",1540757,",
-    "target_lang_words": ",1350531,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540757,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 9,
-        "word": "ἐδικαιώθη",
-        "occurrence": 1,
-        "strong": "G13440",
-        "lemma": "δικαιόω",
-        "morph": "Gr,V,IAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδικαιώθη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350531,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 6,
-        "word": "was",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐδικαιώθη = was",
-    "frequency": 0.02702702702702703,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

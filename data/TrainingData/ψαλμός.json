@@ -48,60 +48,8 @@
     "targetWordsTxt": "of Psalms",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Ψαλμῶν = of Psalms",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487423",
-    "book_id": "luk",
-    "chapter": "24",
-    "verse": "44",
-    "alignment_num": "29",
-    "orig_lang_words": ",1468411,",
-    "target_lang_words": ",1252559,1252560,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468411,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "44",
-        "word_num": 30,
-        "word": "ψαλμοῖς",
-        "occurrence": 1,
-        "strong": "G55680",
-        "lemma": "ψαλμός",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "ψαλμοῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1252559,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "44",
-        "word_num": 36,
-        "word": "the",
-        "occurrence": 3
-      },
-      {
-        "id": 1252560,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "44",
-        "word_num": 37,
-        "word": "Psalms",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the Psalms",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ψαλμοῖς = the Psalms",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,104 +102,62 @@
     "targetWordsTxt": "of Psalms",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Ψαλμῶν = of Psalms",
-    "frequency": 0.2857142857142857,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "510348",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "33",
-    "alignment_num": "16",
-    "orig_lang_words": ",1492805,",
-    "target_lang_words": ",1283655,",
+    "id": "487423",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "44",
+    "alignment_num": "29",
+    "orig_lang_words": ",1468411,",
+    "target_lang_words": ",1252559,1252560,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1492805,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "33",
-        "word_num": 14,
-        "word": "ψαλμῷ",
+        "id": 1468411,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "44",
+        "word_num": 30,
+        "word": "ψαλμοῖς",
         "occurrence": 1,
         "strong": "G55680",
         "lemma": "ψαλμός",
-        "morph": "Gr,N,,,,,DMS,"
+        "morph": "Gr,N,,,,,DMP,"
       }
     ],
-    "origWordsTxt": "ψαλμῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1283655,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "33",
-        "word_num": 21,
-        "word": "Psalm",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Psalm",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ψαλμῷ = Psalm",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531723",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "26",
-    "alignment_num": "8",
-    "orig_lang_words": ",1515216,",
-    "target_lang_words": ",1314695,1314696,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515216,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "26",
-        "word_num": 7,
-        "word": "ψαλμὸν",
-        "occurrence": 1,
-        "strong": "G55680",
-        "lemma": "ψαλμός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "ψαλμὸν",
+    "origWordsTxt": "ψαλμοῖς",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1314695,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "26",
-        "word_num": 13,
-        "word": "a",
-        "occurrence": 1
+        "id": 1252559,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "44",
+        "word_num": 36,
+        "word": "the",
+        "occurrence": 3
       },
       {
-        "id": 1314696,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "26",
-        "word_num": 14,
-        "word": "psalm",
+        "id": 1252560,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "44",
+        "word_num": 37,
+        "word": "Psalms",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "a psalm",
+    "targetWordsTxt": "the Psalms",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "ψαλμὸν = a psalm",
-    "frequency": 0.14285714285714285,
+    "alignmentTxt": "ψαλμοῖς = the Psalms",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,7 +201,8 @@
     "targetWordsTxt": "psalms",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ψαλμοῖς = psalms",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -348,7 +255,107 @@
     "targetWordsTxt": "with psalms",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ψαλμοῖς = with psalms",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510348",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "33",
+    "alignment_num": "16",
+    "orig_lang_words": ",1492805,",
+    "target_lang_words": ",1283655,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492805,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "33",
+        "word_num": 14,
+        "word": "ψαλμῷ",
+        "occurrence": 1,
+        "strong": "G55680",
+        "lemma": "ψαλμός",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ψαλμῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283655,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "33",
+        "word_num": 21,
+        "word": "Psalm",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Psalm",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ψαλμῷ = Psalm",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531723",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "26",
+    "alignment_num": "8",
+    "orig_lang_words": ",1515216,",
+    "target_lang_words": ",1314695,1314696,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515216,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "26",
+        "word_num": 7,
+        "word": "ψαλμὸν",
+        "occurrence": 1,
+        "strong": "G55680",
+        "lemma": "ψαλμός",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ψαλμὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1314695,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "26",
+        "word_num": 13,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1314696,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "26",
+        "word_num": 14,
+        "word": "psalm",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a psalm",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ψαλμὸν = a psalm",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -39,7 +39,8 @@
     "targetWordsTxt": "placed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τασσόμενος = placed",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "appointed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τεταγμένοι = appointed",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +147,71 @@
     "targetWordsTxt": "So they appointed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἔταξαν = So they appointed",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532931",
+    "book_id": "1co",
+    "chapter": "16",
+    "verse": "15",
+    "alignment_num": "11",
+    "orig_lang_words": ",1516460,",
+    "target_lang_words": ",1316458,1316459,1316460,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516460,
+        "book_id": "1co",
+        "chapter": "16",
+        "verse": "15",
+        "word_num": 18,
+        "word": "ἔταξαν",
+        "occurrence": 1,
+        "strong": "G50210",
+        "lemma": "τάσσω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἔταξαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1316458,
+        "book_id": "1co",
+        "chapter": "16",
+        "verse": "15",
+        "word_num": 16,
+        "word": "they",
+        "occurrence": 2
+      },
+      {
+        "id": 1316459,
+        "book_id": "1co",
+        "chapter": "16",
+        "verse": "15",
+        "word_num": 17,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1316460,
+        "book_id": "1co",
+        "chapter": "16",
+        "verse": "15",
+        "word_num": 18,
+        "word": "devoted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they have devoted",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἔταξαν = they have devoted",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -207,7 +273,8 @@
     "targetWordsTxt": "has been appointed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τέτακταί = has been appointed",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -278,7 +345,8 @@
     "targetWordsTxt": "when they had set",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ταξάμενοι = when they had set",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -352,69 +420,8 @@
     "targetWordsTxt": "have been appointed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τεταγμέναι εἰσίν = have been appointed",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532931",
-    "book_id": "1co",
-    "chapter": "16",
-    "verse": "15",
-    "alignment_num": "11",
-    "orig_lang_words": ",1516460,",
-    "target_lang_words": ",1316458,1316459,1316460,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516460,
-        "book_id": "1co",
-        "chapter": "16",
-        "verse": "15",
-        "word_num": 18,
-        "word": "ἔταξαν",
-        "occurrence": 1,
-        "strong": "G50210",
-        "lemma": "τάσσω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἔταξαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1316458,
-        "book_id": "1co",
-        "chapter": "16",
-        "verse": "15",
-        "word_num": 16,
-        "word": "they",
-        "occurrence": 2
-      },
-      {
-        "id": 1316459,
-        "book_id": "1co",
-        "chapter": "16",
-        "verse": "15",
-        "word_num": 17,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1316460,
-        "book_id": "1co",
-        "chapter": "16",
-        "verse": "15",
-        "word_num": 18,
-        "word": "devoted",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they have devoted",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἔταξαν = they have devoted",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

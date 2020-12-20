@@ -39,7 +39,152 @@
     "targetWordsTxt": "Give",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπόδοτε = Give",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483945",
+    "book_id": "luk",
+    "chapter": "20",
+    "verse": "25",
+    "alignment_num": "6",
+    "orig_lang_words": ",1464896,",
+    "target_lang_words": ",1247884,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464896,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "25",
+        "word_num": 6,
+        "word": "ἀπόδοτε",
+        "occurrence": 1,
+        "strong": "G05910",
+        "lemma": "ἀποδίδωμι",
+        "morph": "Gr,V,MAA2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπόδοτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1247884,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "25",
+        "word_num": 6,
+        "word": "give",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "give",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπόδοτε = give",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525038",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "7",
+    "alignment_num": "0",
+    "orig_lang_words": ",1508238,",
+    "target_lang_words": ",1304760,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508238,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "7",
+        "word_num": 0,
+        "word": "ἀπόδοτε",
+        "occurrence": 1,
+        "strong": "G05910",
+        "lemma": "ἀποδίδωμι",
+        "morph": "Gr,V,MAA2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπόδοτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304760,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "7",
+        "word_num": 0,
+        "word": "Pay",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Pay",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπόδοτε = Pay",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569338",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "6",
+    "alignment_num": "0",
+    "orig_lang_words": ",1554876,",
+    "target_lang_words": ",1368986,1368987,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554876,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 0,
+        "word": "ἀπόδοτε",
+        "occurrence": 1,
+        "strong": "G05910",
+        "lemma": "ἀποδίδωμι",
+        "morph": "Gr,V,MAA2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπόδοτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1368986,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 0,
+        "word": "Give",
+        "occurrence": 1
+      },
+      {
+        "id": 1368987,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 1,
+        "word": "back",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Give back",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπόδοτε = Give back",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +246,8 @@
     "targetWordsTxt": "gave it back",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀποδοὺς = gave it back",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,7 +300,125 @@
     "targetWordsTxt": "to repay",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποδοῦναι = to repay",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514362",
+    "book_id": "act",
+    "chapter": "19",
+    "verse": "40",
+    "alignment_num": "14",
+    "orig_lang_words": ",1496957,",
+    "target_lang_words": ",1289082,1289083,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1496957,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "40",
+        "word_num": 15,
+        "word": "ἀποδοῦναι",
+        "occurrence": 1,
+        "strong": "G05910",
+        "lemma": "ἀποδίδωμι",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποδοῦναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1289082,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "40",
+        "word_num": 24,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1289083,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "40",
+        "word_num": 25,
+        "word": "give",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to give",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποδοῦναι = to give",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571352",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "12",
+    "alignment_num": "8",
+    "orig_lang_words": ",1557161,",
+    "target_lang_words": ",1371758,1371759,1371760,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1557161,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "12",
+        "word_num": 9,
+        "word": "ἀποδοῦναι",
+        "occurrence": 1,
+        "strong": "G05910",
+        "lemma": "ἀποδίδωμι",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποδοῦναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1371758,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "12",
+        "word_num": 11,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1371759,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "12",
+        "word_num": 12,
+        "word": "pay",
+        "occurrence": 1
+      },
+      {
+        "id": 1371760,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "12",
+        "word_num": 13,
+        "word": "back",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to pay back",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀποδοῦναι = to pay back",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +462,62 @@
     "targetWordsTxt": "gave",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέδωκεν = gave",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569343",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1554881,",
+    "target_lang_words": ",1368993,1368994,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554881,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 5,
+        "word": "ἀπέδωκεν",
+        "occurrence": 1,
+        "strong": "G05910",
+        "lemma": "ἀποδίδωμι",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέδωκεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1368993,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 7,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1368994,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 8,
+        "word": "given",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has given",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπέδωκεν = has given",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -251,7 +570,8 @@
     "targetWordsTxt": "will repay",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποδώσω = will repay",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -313,7 +633,8 @@
     "targetWordsTxt": "you have paid",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀποδῷς = you have paid",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -357,7 +678,8 @@
     "targetWordsTxt": "Give",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπόδος = Give",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -419,51 +741,8 @@
     "targetWordsTxt": "I will restore",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀποδίδωμι = I will restore",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "483945",
-    "book_id": "luk",
-    "chapter": "20",
-    "verse": "25",
-    "alignment_num": "6",
-    "orig_lang_words": ",1464896,",
-    "target_lang_words": ",1247884,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1464896,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "25",
-        "word_num": 6,
-        "word": "ἀπόδοτε",
-        "occurrence": 1,
-        "strong": "G05910",
-        "lemma": "ἀποδίδωμι",
-        "morph": "Gr,V,MAA2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀπόδοτε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1247884,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "25",
-        "word_num": 6,
-        "word": "give",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "give",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπόδοτε = give",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -516,7 +795,8 @@
     "targetWordsTxt": "were proclaiming",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπεδίδουν = were proclaiming",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -569,7 +849,8 @@
     "targetWordsTxt": "you sold",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπέδοσθε = you sold",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -631,60 +912,8 @@
     "targetWordsTxt": "they sold him",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀπέδοντο = they sold him",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "514362",
-    "book_id": "act",
-    "chapter": "19",
-    "verse": "40",
-    "alignment_num": "14",
-    "orig_lang_words": ",1496957,",
-    "target_lang_words": ",1289082,1289083,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1496957,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "40",
-        "word_num": 15,
-        "word": "ἀποδοῦναι",
-        "occurrence": 1,
-        "strong": "G05910",
-        "lemma": "ἀποδίδωμι",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποδοῦναι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1289082,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "40",
-        "word_num": 24,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1289083,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "40",
-        "word_num": 25,
-        "word": "give",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to give",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποδοῦναι = to give",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -746,7 +975,116 @@
     "targetWordsTxt": "will pay back",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀποδώσει = will pay back",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549785",
+    "book_id": "2ti",
+    "chapter": "4",
+    "verse": "8",
+    "alignment_num": "13",
+    "orig_lang_words": ",1533803,",
+    "target_lang_words": ",1340590,1340591,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533803,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 8,
+        "word": "ἀποδώσει",
+        "occurrence": 1,
+        "strong": "G05910",
+        "lemma": "ἀποδίδωμι",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποδώσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1340590,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 16,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1340591,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 17,
+        "word": "award",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will award",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποδώσει = will award",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549871",
+    "book_id": "2ti",
+    "chapter": "4",
+    "verse": "14",
+    "alignment_num": "9",
+    "orig_lang_words": ",1533893,",
+    "target_lang_words": ",1340698,1340699,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533893,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 7,
+        "word": "ἀποδώσει",
+        "occurrence": 1,
+        "strong": "G05910",
+        "lemma": "ἀποδίδωμι",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποδώσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1340698,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 10,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1340699,
+        "book_id": "2ti",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 11,
+        "word": "repay",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will repay",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποδώσει = will repay",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -790,51 +1128,62 @@
     "targetWordsTxt": "Repay",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποδιδόντες = Repay",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "525038",
-    "book_id": "rom",
-    "chapter": "13",
-    "verse": "7",
-    "alignment_num": "0",
-    "orig_lang_words": ",1508238,",
-    "target_lang_words": ",1304760,",
+    "id": "558231",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "1",
+    "orig_lang_words": ",1542628,",
+    "target_lang_words": ",1353236,1353237,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1508238,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "7",
-        "word_num": 0,
-        "word": "ἀπόδοτε",
+        "id": 1542628,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 1,
+        "word": "ἀποδιδόντες",
         "occurrence": 1,
         "strong": "G05910",
         "lemma": "ἀποδίδωμι",
-        "morph": "Gr,V,MAA2,,P,"
+        "morph": "Gr,V,PPA,NMP,"
       }
     ],
-    "origWordsTxt": "ἀπόδοτε",
+    "origWordsTxt": "ἀποδιδόντες",
     "alignmentOrigWords": 1,
-    "targetSpan": 0,
+    "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1304760,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "7",
-        "word_num": 0,
-        "word": "Pay",
+        "id": 1353236,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 2,
+        "word": "pay",
+        "occurrence": 1
+      },
+      {
+        "id": 1353237,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 3,
+        "word": "back",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "Pay",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπόδοτε = Pay",
-    "frequency": 0.03333333333333333,
+    "targetWordsTxt": "pay back",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποδιδόντες = pay back",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -887,7 +1236,8 @@
     "targetWordsTxt": "should give",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποδιδότω = should give",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -940,7 +1290,8 @@
     "targetWordsTxt": "pays back",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποδῷ = pays back",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1005,113 +1356,8 @@
     "targetWordsTxt": "to repay",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀμοιβὰς ἀποδιδόναι = to repay",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549785",
-    "book_id": "2ti",
-    "chapter": "4",
-    "verse": "8",
-    "alignment_num": "13",
-    "orig_lang_words": ",1533803,",
-    "target_lang_words": ",1340590,1340591,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533803,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "8",
-        "word_num": 8,
-        "word": "ἀποδώσει",
-        "occurrence": 1,
-        "strong": "G05910",
-        "lemma": "ἀποδίδωμι",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποδώσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1340590,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "8",
-        "word_num": 16,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1340591,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "8",
-        "word_num": 17,
-        "word": "award",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will award",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποδώσει = will award",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549871",
-    "book_id": "2ti",
-    "chapter": "4",
-    "verse": "14",
-    "alignment_num": "9",
-    "orig_lang_words": ",1533893,",
-    "target_lang_words": ",1340698,1340699,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533893,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 7,
-        "word": "ἀποδώσει",
-        "occurrence": 1,
-        "strong": "G05910",
-        "lemma": "ἀποδίδωμι",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποδώσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1340698,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 10,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1340699,
-        "book_id": "2ti",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 11,
-        "word": "repay",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will repay",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποδώσει = will repay",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1164,7 +1410,8 @@
     "targetWordsTxt": "it produces",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποδίδωσιν = it produces",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1208,7 +1455,8 @@
     "targetWordsTxt": "sold",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέδετο = sold",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1279,60 +1527,8 @@
     "targetWordsTxt": "those who will give",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἀποδώσοντες = those who will give",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558231",
-    "book_id": "1pe",
-    "chapter": "3",
-    "verse": "9",
-    "alignment_num": "1",
-    "orig_lang_words": ",1542628,",
-    "target_lang_words": ",1353236,1353237,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542628,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 1,
-        "word": "ἀποδιδόντες",
-        "occurrence": 1,
-        "strong": "G05910",
-        "lemma": "ἀποδίδωμι",
-        "morph": "Gr,V,PPA,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἀποδιδόντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1353236,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 2,
-        "word": "pay",
-        "occurrence": 1
-      },
-      {
-        "id": 1353237,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 3,
-        "word": "back",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "pay back",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποδιδόντες = pay back",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1385,113 +1581,8 @@
     "targetWordsTxt": "will give",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποδώσουσιν = will give",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569338",
-    "book_id": "rev",
-    "chapter": "18",
-    "verse": "6",
-    "alignment_num": "0",
-    "orig_lang_words": ",1554876,",
-    "target_lang_words": ",1368986,1368987,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554876,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 0,
-        "word": "ἀπόδοτε",
-        "occurrence": 1,
-        "strong": "G05910",
-        "lemma": "ἀποδίδωμι",
-        "morph": "Gr,V,MAA2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀπόδοτε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1368986,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 0,
-        "word": "Give",
-        "occurrence": 1
-      },
-      {
-        "id": 1368987,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 1,
-        "word": "back",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Give back",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀπόδοτε = Give back",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569343",
-    "book_id": "rev",
-    "chapter": "18",
-    "verse": "6",
-    "alignment_num": "5",
-    "orig_lang_words": ",1554881,",
-    "target_lang_words": ",1368993,1368994,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554881,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 5,
-        "word": "ἀπέδωκεν",
-        "occurrence": 1,
-        "strong": "G05910",
-        "lemma": "ἀποδίδωμι",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέδωκεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1368993,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 7,
-        "word": "has",
-        "occurrence": 1
-      },
-      {
-        "id": 1368994,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 8,
-        "word": "given",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "has given",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀπέδωκεν = has given",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1535,69 +1626,8 @@
     "targetWordsTxt": "bearing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποδιδούς = bearing",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571352",
-    "book_id": "rev",
-    "chapter": "22",
-    "verse": "12",
-    "alignment_num": "8",
-    "orig_lang_words": ",1557161,",
-    "target_lang_words": ",1371758,1371759,1371760,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1557161,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "12",
-        "word_num": 9,
-        "word": "ἀποδοῦναι",
-        "occurrence": 1,
-        "strong": "G05910",
-        "lemma": "ἀποδίδωμι",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποδοῦναι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1371758,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "12",
-        "word_num": 11,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1371759,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "12",
-        "word_num": 12,
-        "word": "pay",
-        "occurrence": 1
-      },
-      {
-        "id": 1371760,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "12",
-        "word_num": 13,
-        "word": "back",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to pay back",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀποδοῦναι = to pay back",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -39,7 +39,53 @@
     "targetWordsTxt": "honors",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τιμᾷ = honors",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490513",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "23",
+    "alignment_num": "16",
+    "orig_lang_words": ",1471786,",
+    "target_lang_words": ",1256684,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471786,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "23",
+        "word_num": 15,
+        "word": "τιμᾷ",
+        "occurrence": 1,
+        "strong": "G50910",
+        "lemma": "τιμάω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "τιμᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256684,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "23",
+        "word_num": 23,
+        "word": "honor",
+        "occurrence": 4
+      }
+    ],
+    "targetWordsTxt": "honor",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τιμᾷ = honor",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +129,8 @@
     "targetWordsTxt": "Honor",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τίμα = Honor",
-    "frequency": 0.2,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,7 +174,8 @@
     "targetWordsTxt": "honor",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τίμα = honor",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -171,7 +219,98 @@
     "targetWordsTxt": "honor",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τίμα = honor",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541564",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "2",
+    "alignment_num": "0",
+    "orig_lang_words": ",1525302,",
+    "target_lang_words": ",1328868,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525302,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "2",
+        "word_num": 0,
+        "word": "τίμα",
+        "occurrence": 1,
+        "strong": "G50910",
+        "lemma": "τιμάω",
+        "morph": "Gr,V,MPA2,,S,"
+      }
+    ],
+    "origWordsTxt": "τίμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1328868,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "2",
+        "word_num": 0,
+        "word": "Honor",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Honor",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τίμα = Honor",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548111",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "3",
+    "alignment_num": "0",
+    "orig_lang_words": ",1532133,",
+    "target_lang_words": ",1338216,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532133,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "3",
+        "word_num": 1,
+        "word": "τίμα",
+        "occurrence": 1,
+        "strong": "G50910",
+        "lemma": "τιμάω",
+        "morph": "Gr,V,MPA2,,S,"
+      }
+    ],
+    "origWordsTxt": "τίμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338216,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "3",
+        "word_num": 0,
+        "word": "Honor",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Honor",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τίμα = Honor",
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -224,7 +363,8 @@
     "targetWordsTxt": "will honor",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τιμῶσι = will honor",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -277,7 +417,8 @@
     "targetWordsTxt": "they honor",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τιμῶσι = they honor",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -321,51 +462,8 @@
     "targetWordsTxt": "who",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τιμῶν = who",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490513",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "23",
-    "alignment_num": "16",
-    "orig_lang_words": ",1471786,",
-    "target_lang_words": ",1256684,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471786,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "23",
-        "word_num": 15,
-        "word": "τιμᾷ",
-        "occurrence": 1,
-        "strong": "G50910",
-        "lemma": "τιμάω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "τιμᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1256684,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "23",
-        "word_num": 23,
-        "word": "honor",
-        "occurrence": 4
-      }
-    ],
-    "targetWordsTxt": "honor",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τιμᾷ = honor",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -418,7 +516,8 @@
     "targetWordsTxt": "I honor",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τιμῶ = I honor",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -471,7 +570,8 @@
     "targetWordsTxt": "will honor",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τιμήσει = will honor",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -515,95 +615,8 @@
     "targetWordsTxt": "honored",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐτίμησαν = honored",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541564",
-    "book_id": "eph",
-    "chapter": "6",
-    "verse": "2",
-    "alignment_num": "0",
-    "orig_lang_words": ",1525302,",
-    "target_lang_words": ",1328868,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525302,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "2",
-        "word_num": 0,
-        "word": "τίμα",
-        "occurrence": 1,
-        "strong": "G50910",
-        "lemma": "τιμάω",
-        "morph": "Gr,V,MPA2,,S,"
-      }
-    ],
-    "origWordsTxt": "τίμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1328868,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "2",
-        "word_num": 0,
-        "word": "Honor",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Honor",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τίμα = Honor",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548111",
-    "book_id": "1ti",
-    "chapter": "5",
-    "verse": "3",
-    "alignment_num": "0",
-    "orig_lang_words": ",1532133,",
-    "target_lang_words": ",1338216,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532133,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "3",
-        "word_num": 1,
-        "word": "τίμα",
-        "occurrence": 1,
-        "strong": "G50910",
-        "lemma": "τιμάω",
-        "morph": "Gr,V,MPA2,,S,"
-      }
-    ],
-    "origWordsTxt": "τίμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338216,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "3",
-        "word_num": 0,
-        "word": "Honor",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Honor",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τίμα = Honor",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -647,7 +660,8 @@
     "targetWordsTxt": "Honor",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τιμήσατε = Honor",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -691,7 +705,8 @@
     "targetWordsTxt": "Honor",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τιμᾶτε = Honor",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

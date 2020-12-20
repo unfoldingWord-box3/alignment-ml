@@ -48,7 +48,8 @@
     "targetWordsTxt": "are possible",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δυνατὰ = are possible",
-    "frequency": 0.06896551724137931,
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,98 @@
     "targetWordsTxt": "are possible",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δυνατὰ = are possible",
-    "frequency": 0.06896551724137931,
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482584",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "27",
+    "alignment_num": "8",
+    "orig_lang_words": ",1463524,",
+    "target_lang_words": ",1245949,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463524,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "27",
+        "word_num": 7,
+        "word": "δυνατὰ",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NP,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "δυνατὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1245949,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "27",
+        "word_num": 11,
+        "word": "possible",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "possible",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατὰ = possible",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536005",
+    "book_id": "2co",
+    "chapter": "10",
+    "verse": "4",
+    "alignment_num": "9",
+    "orig_lang_words": ",1519642,",
+    "target_lang_words": ",1320850,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519642,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "4",
+        "word_num": 9,
+        "word": "δυνατὰ",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NP,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "δυνατὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320850,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "4",
+        "word_num": 10,
+        "word": "are",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "are",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατὰ = are",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +237,200 @@
     "targetWordsTxt": "possible",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δυνατὸν = possible",
-    "frequency": 0.13793103448275862,
+    "frequency": 0.8,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502825",
+    "book_id": "act",
+    "chapter": "2",
+    "verse": "24",
+    "alignment_num": "12",
+    "orig_lang_words": ",1485075,",
+    "target_lang_words": ",1273584,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485075,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 12,
+        "word": "δυνατὸν",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NP,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "δυνατὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1273584,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 19,
+        "word": "possible",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "possible",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατὸν = possible",
+    "frequency": 0.8,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514639",
+    "book_id": "act",
+    "chapter": "20",
+    "verse": "16",
+    "alignment_num": "17",
+    "orig_lang_words": ",1497251,",
+    "target_lang_words": ",1289486,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1497251,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "16",
+        "word_num": 18,
+        "word": "δυνατὸν",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NP,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "δυνατὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1289486,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "16",
+        "word_num": 27,
+        "word": "possible",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "possible",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατὸν = possible",
+    "frequency": 0.8,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523639",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "22",
+    "alignment_num": "9",
+    "orig_lang_words": ",1506713,1506714,",
+    "target_lang_words": ",1302601,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1506713,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "22",
+        "word_num": 10,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1506714,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "22",
+        "word_num": 11,
+        "word": "δυνατὸν",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ δυνατὸν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1302601,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "22",
+        "word_num": 15,
+        "word": "power",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "power",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ δυνατὸν = power",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538728",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "15",
+    "alignment_num": "10",
+    "orig_lang_words": ",1522446,",
+    "target_lang_words": ",1325036,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522446,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 10,
+        "word": "δυνατὸν",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NS,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "δυνατὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325036,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 13,
+        "word": "possible",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "possible",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατὸν = possible",
+    "frequency": 0.8,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +483,53 @@
     "targetWordsTxt": "were possible",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δυνατόν = were possible",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524878",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "18",
+    "alignment_num": "1",
+    "orig_lang_words": ",1508059,",
+    "target_lang_words": ",1304514,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508059,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "18",
+        "word_num": 1,
+        "word": "δυνατόν",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NS,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "δυνατόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304514,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "18",
+        "word_num": 1,
+        "word": "possible",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "possible",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατόν = possible",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -251,7 +582,8 @@
     "targetWordsTxt": "are possible",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δυνατά = are possible",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -304,7 +636,8 @@
     "targetWordsTxt": "Mighty One",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δυνατός = Mighty One",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -348,51 +681,143 @@
     "targetWordsTxt": "able",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δυνατός = able",
-    "frequency": 0.10344827586206896,
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "482584",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "27",
-    "alignment_num": "8",
-    "orig_lang_words": ",1463524,",
-    "target_lang_words": ",1245949,",
+    "id": "521501",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "21",
+    "alignment_num": "6",
+    "orig_lang_words": ",1504401,",
+    "target_lang_words": ",1299354,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1463524,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "27",
-        "word_num": 7,
-        "word": "δυνατὰ",
+        "id": 1504401,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "21",
+        "word_num": 5,
+        "word": "δυνατός",
         "occurrence": 1,
         "strong": "G14150",
         "lemma": "δυνατός",
-        "morph": "Gr,NP,,,,NNP,"
+        "morph": "Gr,NS,,,,NMS,"
       }
     ],
-    "origWordsTxt": "δυνατὰ",
+    "origWordsTxt": "δυνατός",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1245949,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "27",
-        "word_num": 11,
-        "word": "possible",
+        "id": 1299354,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "21",
+        "word_num": 12,
+        "word": "able",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "possible",
+    "targetWordsTxt": "able",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατὰ = possible",
-    "frequency": 0.034482758620689655,
+    "alignmentTxt": "δυνατός = able",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536932",
+    "book_id": "2co",
+    "chapter": "12",
+    "verse": "10",
+    "alignment_num": "20",
+    "orig_lang_words": ",1520580,",
+    "target_lang_words": ",1322256,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520580,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "10",
+        "word_num": 18,
+        "word": "δυνατός",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "δυνατός",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1322256,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "10",
+        "word_num": 27,
+        "word": "strong",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "strong",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατός = strong",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548982",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "12",
+    "alignment_num": "19",
+    "orig_lang_words": ",1533003,",
+    "target_lang_words": ",1339456,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533003,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 16,
+        "word": "δυνατός",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "δυνατός",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339456,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 27,
+        "word": "able",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "able",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατός = able",
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -436,51 +861,8 @@
     "targetWordsTxt": "mighty",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δυνατὸς = mighty",
-    "frequency": 0.10344827586206896,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502825",
-    "book_id": "act",
-    "chapter": "2",
-    "verse": "24",
-    "alignment_num": "12",
-    "orig_lang_words": ",1485075,",
-    "target_lang_words": ",1273584,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485075,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 12,
-        "word": "δυνατὸν",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NP,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "δυνατὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1273584,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 19,
-        "word": "possible",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "possible",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατὸν = possible",
-    "frequency": 0.13793103448275862,
+    "frequency": 0.375,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -524,7 +906,8 @@
     "targetWordsTxt": "mighty",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δυνατὸς = mighty",
-    "frequency": 0.10344827586206896,
+    "frequency": 0.375,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -586,7 +969,8 @@
     "targetWordsTxt": "that I could",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δυνατὸς = that I could",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -630,51 +1014,197 @@
     "targetWordsTxt": "mighty",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δυνατὸς = mighty",
-    "frequency": 0.10344827586206896,
+    "frequency": 0.375,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "514639",
-    "book_id": "act",
-    "chapter": "20",
-    "verse": "16",
-    "alignment_num": "17",
-    "orig_lang_words": ",1497251,",
-    "target_lang_words": ",1289486,",
+    "id": "524473",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "23",
+    "alignment_num": "12",
+    "orig_lang_words": ",1507609,",
+    "target_lang_words": ",1303882,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1497251,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "16",
-        "word_num": 18,
-        "word": "δυνατὸν",
+        "id": 1507609,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "23",
+        "word_num": 8,
+        "word": "δυνατὸς",
         "occurrence": 1,
         "strong": "G14150",
         "lemma": "δυνατός",
-        "morph": "Gr,NP,,,,NNS,"
+        "morph": "Gr,NP,,,,NMS,"
       }
     ],
-    "origWordsTxt": "δυνατὸν",
+    "origWordsTxt": "δυνατὸς",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1289486,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "16",
-        "word_num": 27,
-        "word": "possible",
+        "id": 1303882,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "23",
+        "word_num": 18,
+        "word": "able",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "possible",
+    "targetWordsTxt": "able",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατὸν = possible",
-    "frequency": 0.13793103448275862,
+    "alignmentTxt": "δυνατὸς = able",
+    "frequency": 0.375,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550123",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "9",
+    "orig_lang_words": ",1534153,",
+    "target_lang_words": ",1341060,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534153,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 8,
+        "word": "δυνατὸς",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "δυνατὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341060,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 20,
+        "word": "able",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "able",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατὸς = able",
+    "frequency": 0.375,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554561",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "19",
+    "alignment_num": "3",
+    "orig_lang_words": ",1538794,",
+    "target_lang_words": ",1347739,1347740,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538794,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "19",
+        "word_num": 6,
+        "word": "δυνατὸς",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "δυνατὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1347739,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "19",
+        "word_num": 4,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1347740,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "19",
+        "word_num": 5,
+        "word": "able",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was able",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δυνατὸς = was able",
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556491",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "14",
+    "orig_lang_words": ",1540805,",
+    "target_lang_words": ",1350609,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540805,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 13,
+        "word": "δυνατὸς",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "δυνατὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350609,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 19,
+        "word": "able",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "able",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατὸς = able",
+    "frequency": 0.375,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -736,195 +1266,8 @@
     "targetWordsTxt": "who are leaders",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δυνατοὶ = who are leaders",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521501",
-    "book_id": "rom",
-    "chapter": "4",
-    "verse": "21",
-    "alignment_num": "6",
-    "orig_lang_words": ",1504401,",
-    "target_lang_words": ",1299354,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504401,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "21",
-        "word_num": 5,
-        "word": "δυνατός",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "δυνατός",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1299354,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "21",
-        "word_num": 12,
-        "word": "able",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "able",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατός = able",
-    "frequency": 0.10344827586206896,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523639",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "22",
-    "alignment_num": "9",
-    "orig_lang_words": ",1506713,1506714,",
-    "target_lang_words": ",1302601,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1506713,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "22",
-        "word_num": 10,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1506714,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "22",
-        "word_num": 11,
-        "word": "δυνατὸν",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ δυνατὸν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1302601,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "22",
-        "word_num": 15,
-        "word": "power",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "power",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ δυνατὸν = power",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524473",
-    "book_id": "rom",
-    "chapter": "11",
-    "verse": "23",
-    "alignment_num": "12",
-    "orig_lang_words": ",1507609,",
-    "target_lang_words": ",1303882,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1507609,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "23",
-        "word_num": 8,
-        "word": "δυνατὸς",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "δυνατὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1303882,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "23",
-        "word_num": 18,
-        "word": "able",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "able",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατὸς = able",
-    "frequency": 0.10344827586206896,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524878",
-    "book_id": "rom",
-    "chapter": "12",
-    "verse": "18",
-    "alignment_num": "1",
-    "orig_lang_words": ",1508059,",
-    "target_lang_words": ",1304514,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508059,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "18",
-        "word_num": 1,
-        "word": "δυνατόν",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NS,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "δυνατόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1304514,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "18",
-        "word_num": 1,
-        "word": "possible",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "possible",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατόν = possible",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -998,7 +1341,53 @@
     "targetWordsTxt": "who are strong",
     "alignmentTargetWords": 3,
     "alignmentTxt": "οἱ δυνατοὶ = who are strong",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537318",
+    "book_id": "2co",
+    "chapter": "13",
+    "verse": "9",
+    "alignment_num": "8",
+    "orig_lang_words": ",1520958,",
+    "target_lang_words": ",1322828,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520958,
+        "book_id": "2co",
+        "chapter": "13",
+        "verse": "9",
+        "word_num": 7,
+        "word": "δυνατοὶ",
+        "occurrence": 1,
+        "strong": "G14150",
+        "lemma": "δυνατός",
+        "morph": "Gr,NP,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "δυνατοὶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1322828,
+        "book_id": "2co",
+        "chapter": "13",
+        "verse": "9",
+        "word_num": 10,
+        "word": "strong",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "strong",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δυνατοὶ = strong",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1051,368 +1440,8 @@
     "targetWordsTxt": "were powerful",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δυνατοί = were powerful",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536005",
-    "book_id": "2co",
-    "chapter": "10",
-    "verse": "4",
-    "alignment_num": "9",
-    "orig_lang_words": ",1519642,",
-    "target_lang_words": ",1320850,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519642,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "4",
-        "word_num": 9,
-        "word": "δυνατὰ",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NP,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "δυνατὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1320850,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "4",
-        "word_num": 10,
-        "word": "are",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "are",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατὰ = are",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536932",
-    "book_id": "2co",
-    "chapter": "12",
-    "verse": "10",
-    "alignment_num": "20",
-    "orig_lang_words": ",1520580,",
-    "target_lang_words": ",1322256,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520580,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "10",
-        "word_num": 18,
-        "word": "δυνατός",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "δυνατός",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1322256,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "10",
-        "word_num": 27,
-        "word": "strong",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "strong",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατός = strong",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537318",
-    "book_id": "2co",
-    "chapter": "13",
-    "verse": "9",
-    "alignment_num": "8",
-    "orig_lang_words": ",1520958,",
-    "target_lang_words": ",1322828,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520958,
-        "book_id": "2co",
-        "chapter": "13",
-        "verse": "9",
-        "word_num": 7,
-        "word": "δυνατοὶ",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NP,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "δυνατοὶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1322828,
-        "book_id": "2co",
-        "chapter": "13",
-        "verse": "9",
-        "word_num": 10,
-        "word": "strong",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "strong",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατοὶ = strong",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538728",
-    "book_id": "gal",
-    "chapter": "4",
-    "verse": "15",
-    "alignment_num": "10",
-    "orig_lang_words": ",1522446,",
-    "target_lang_words": ",1325036,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522446,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "15",
-        "word_num": 10,
-        "word": "δυνατὸν",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NS,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "δυνατὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1325036,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "15",
-        "word_num": 13,
-        "word": "possible",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "possible",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατὸν = possible",
-    "frequency": 0.13793103448275862,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548982",
-    "book_id": "2ti",
-    "chapter": "1",
-    "verse": "12",
-    "alignment_num": "19",
-    "orig_lang_words": ",1533003,",
-    "target_lang_words": ",1339456,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533003,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 16,
-        "word": "δυνατός",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "δυνατός",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339456,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 27,
-        "word": "able",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "able",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατός = able",
-    "frequency": 0.10344827586206896,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550123",
-    "book_id": "tit",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "9",
-    "orig_lang_words": ",1534153,",
-    "target_lang_words": ",1341060,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534153,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 8,
-        "word": "δυνατὸς",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "δυνατὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341060,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 20,
-        "word": "able",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "able",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατὸς = able",
-    "frequency": 0.10344827586206896,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554561",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "19",
-    "alignment_num": "3",
-    "orig_lang_words": ",1538794,",
-    "target_lang_words": ",1347739,1347740,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538794,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "19",
-        "word_num": 6,
-        "word": "δυνατὸς",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "δυνατὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1347739,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "19",
-        "word_num": 4,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1347740,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "19",
-        "word_num": 5,
-        "word": "able",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was able",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δυνατὸς = was able",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556491",
-    "book_id": "jas",
-    "chapter": "3",
-    "verse": "2",
-    "alignment_num": "14",
-    "orig_lang_words": ",1540805,",
-    "target_lang_words": ",1350609,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540805,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 13,
-        "word": "δυνατὸς",
-        "occurrence": 1,
-        "strong": "G14150",
-        "lemma": "δυνατός",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "δυνατὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350609,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 19,
-        "word": "able",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "able",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δυνατὸς = able",
-    "frequency": 0.10344827586206896,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

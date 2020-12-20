@@ -48,7 +48,62 @@
     "targetWordsTxt": "we will",
     "alignmentTargetWords": 2,
     "alignmentTxt": "συνζήσομεν = we will",
-    "frequency": 0.6666666666666666,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549217",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "11",
+    "alignment_num": "7",
+    "orig_lang_words": ",1533231,",
+    "target_lang_words": ",1339782,1339783,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533231,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 7,
+        "word": "συνζήσομεν",
+        "occurrence": 1,
+        "strong": "G48000",
+        "lemma": "συνζάω",
+        "morph": "Gr,V,IFA1,,P,"
+      }
+    ],
+    "origWordsTxt": "συνζήσομεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1339782,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 11,
+        "word": "we",
+        "occurrence": 2
+      },
+      {
+        "id": 1339783,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 12,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "συνζήσομεν = we will",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -110,60 +165,8 @@
     "targetWordsTxt": "to live together",
     "alignmentTargetWords": 3,
     "alignmentTxt": "συνζῆν = to live together",
-    "frequency": 0.3333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549217",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "11",
-    "alignment_num": "7",
-    "orig_lang_words": ",1533231,",
-    "target_lang_words": ",1339782,1339783,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533231,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 7,
-        "word": "συνζήσομεν",
-        "occurrence": 1,
-        "strong": "G48000",
-        "lemma": "συνζάω",
-        "morph": "Gr,V,IFA1,,P,"
-      }
-    ],
-    "origWordsTxt": "συνζήσομεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1339782,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 11,
-        "word": "we",
-        "occurrence": 2
-      },
-      {
-        "id": 1339783,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 12,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "we will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "συνζήσομεν = we will",
-    "frequency": 0.6666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

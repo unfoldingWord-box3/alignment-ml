@@ -39,95 +39,8 @@
     "targetWordsTxt": "honored",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τίμιος = honored",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "514774",
-    "book_id": "act",
-    "chapter": "20",
-    "verse": "24",
-    "alignment_num": "7",
-    "orig_lang_words": ",1497388,",
-    "target_lang_words": ",1289659,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1497388,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "24",
-        "word_num": 6,
-        "word": "τιμίαν",
-        "occurrence": 1,
-        "strong": "G50930",
-        "lemma": "τίμιος",
-        "morph": "Gr,NS,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "τιμίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1289659,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "24",
-        "word_num": 10,
-        "word": "or",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "or",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τιμίαν = or",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "527318",
-    "book_id": "1co",
-    "chapter": "3",
-    "verse": "12",
-    "alignment_num": "9",
-    "orig_lang_words": ",1510700,",
-    "target_lang_words": ",1308111,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510700,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "12",
-        "word_num": 10,
-        "word": "τιμίους",
-        "occurrence": 1,
-        "strong": "G50930",
-        "lemma": "τίμιος",
-        "morph": "Gr,AA,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "τιμίους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1308111,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "12",
-        "word_num": 10,
-        "word": "precious",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "precious",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τιμίους = precious",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -171,7 +84,98 @@
     "targetWordsTxt": "Let",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τίμιος = Let",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514774",
+    "book_id": "act",
+    "chapter": "20",
+    "verse": "24",
+    "alignment_num": "7",
+    "orig_lang_words": ",1497388,",
+    "target_lang_words": ",1289659,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1497388,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "24",
+        "word_num": 6,
+        "word": "τιμίαν",
+        "occurrence": 1,
+        "strong": "G50930",
+        "lemma": "τίμιος",
+        "morph": "Gr,NS,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τιμίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1289659,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "24",
+        "word_num": 10,
+        "word": "or",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "or",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τιμίαν = or",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527318",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "12",
+    "alignment_num": "9",
+    "orig_lang_words": ",1510700,",
+    "target_lang_words": ",1308111,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510700,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 10,
+        "word": "τιμίους",
+        "occurrence": 1,
+        "strong": "G50930",
+        "lemma": "τίμιος",
+        "morph": "Gr,AA,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "τιμίους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308111,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 10,
+        "word": "precious",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "precious",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τιμίους = precious",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -215,7 +219,8 @@
     "targetWordsTxt": "valuable",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τίμιον = valuable",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -277,51 +282,8 @@
     "targetWordsTxt": "with the precious",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τιμίῳ = with the precious",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558940",
-    "book_id": "2pe",
-    "chapter": "1",
-    "verse": "4",
-    "alignment_num": "4",
-    "orig_lang_words": ",1543437,",
-    "target_lang_words": ",1354490,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543437,
-        "book_id": "2pe",
-        "chapter": "1",
-        "verse": "4",
-        "word_num": 3,
-        "word": "τίμια",
-        "occurrence": 1,
-        "strong": "G50930",
-        "lemma": "τίμιος",
-        "morph": "Gr,AA,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τίμια",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1354490,
-        "book_id": "2pe",
-        "chapter": "1",
-        "verse": "4",
-        "word_num": 5,
-        "word": "precious",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "precious",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τίμια = precious",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -365,51 +327,8 @@
     "targetWordsTxt": "precious",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τιμίῳ = precious",
-    "frequency": 0.2727272727272727,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569471",
-    "book_id": "rev",
-    "chapter": "18",
-    "verse": "12",
-    "alignment_num": "3",
-    "orig_lang_words": ",1555027,",
-    "target_lang_words": ",1369172,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555027,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "12",
-        "word_num": 6,
-        "word": "τιμίου",
-        "occurrence": 1,
-        "strong": "G50930",
-        "lemma": "τίμιος",
-        "morph": "Gr,AA,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "τιμίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369172,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "12",
-        "word_num": 4,
-        "word": "precious",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "precious",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τιμίου = precious",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -453,7 +372,8 @@
     "targetWordsTxt": "precious",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τιμίῳ = precious",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -497,7 +417,98 @@
     "targetWordsTxt": "precious",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τιμίῳ = precious",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558940",
+    "book_id": "2pe",
+    "chapter": "1",
+    "verse": "4",
+    "alignment_num": "4",
+    "orig_lang_words": ",1543437,",
+    "target_lang_words": ",1354490,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543437,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 3,
+        "word": "τίμια",
+        "occurrence": 1,
+        "strong": "G50930",
+        "lemma": "τίμιος",
+        "morph": "Gr,AA,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τίμια",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1354490,
+        "book_id": "2pe",
+        "chapter": "1",
+        "verse": "4",
+        "word_num": 5,
+        "word": "precious",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "precious",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τίμια = precious",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569471",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "12",
+    "alignment_num": "3",
+    "orig_lang_words": ",1555027,",
+    "target_lang_words": ",1369172,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555027,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "12",
+        "word_num": 6,
+        "word": "τιμίου",
+        "occurrence": 1,
+        "strong": "G50930",
+        "lemma": "τίμιος",
+        "morph": "Gr,AA,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "τιμίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369172,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "12",
+        "word_num": 4,
+        "word": "precious",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "precious",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τιμίου = precious",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

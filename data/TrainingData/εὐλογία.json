@@ -57,7 +57,8 @@
     "targetWordsTxt": "of the blessing",
     "alignmentTargetWords": 3,
     "alignmentTxt": "εὐλογίας = of the blessing",
-    "frequency": 0.0625,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,8 @@
     "targetWordsTxt": "flattering",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εὐλογίας = flattering",
-    "frequency": 0.0625,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -166,280 +168,8 @@
     "targetWordsTxt": "of blessing",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς εὐλογίας = of blessing",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535761",
-    "book_id": "2co",
-    "chapter": "9",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1519390,",
-    "target_lang_words": ",1320510,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519390,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "5",
-        "word_num": 14,
-        "word": "εὐλογίαν",
-        "occurrence": 1,
-        "strong": "G21290",
-        "lemma": "εὐλογία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "εὐλογίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1320510,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "5",
-        "word_num": 21,
-        "word": "gift",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "gift",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εὐλογίαν = gift",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535768",
-    "book_id": "2co",
-    "chapter": "9",
-    "verse": "5",
-    "alignment_num": "21",
-    "orig_lang_words": ",1519397,",
-    "target_lang_words": ",1320522,1320523,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519397,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "5",
-        "word_num": 21,
-        "word": "εὐλογίαν",
-        "occurrence": 2,
-        "strong": "G21290",
-        "lemma": "εὐλογία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "εὐλογίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1320522,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "5",
-        "word_num": 33,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1320523,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "5",
-        "word_num": 34,
-        "word": "blessing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a blessing",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "εὐλογίαν = a blessing",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535785",
-    "book_id": "2co",
-    "chapter": "9",
-    "verse": "6",
-    "alignment_num": "12",
-    "orig_lang_words": ",1519414,",
-    "target_lang_words": ",1320551,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519414,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "6",
-        "word_num": 12,
-        "word": "εὐλογίαις",
-        "occurrence": 1,
-        "strong": "G21290",
-        "lemma": "εὐλογία",
-        "morph": "Gr,N,,,,,DFP,"
-      }
-    ],
-    "origWordsTxt": "εὐλογίαις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1320551,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "6",
-        "word_num": 22,
-        "word": "blessings",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blessings",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εὐλογίαις = blessings",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535790",
-    "book_id": "2co",
-    "chapter": "9",
-    "verse": "6",
-    "alignment_num": "17",
-    "orig_lang_words": ",1519416,",
-    "target_lang_words": ",1320556,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519416,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "6",
-        "word_num": 14,
-        "word": "εὐλογίαις",
-        "occurrence": 2,
-        "strong": "G21290",
-        "lemma": "εὐλογία",
-        "morph": "Gr,N,,,,,DFP,"
-      }
-    ],
-    "origWordsTxt": "εὐλογίαις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1320556,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "6",
-        "word_num": 27,
-        "word": "blessings",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "blessings",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εὐλογίαις = blessings",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538296",
-    "book_id": "gal",
-    "chapter": "3",
-    "verse": "14",
-    "alignment_num": "2",
-    "orig_lang_words": ",1521983,",
-    "target_lang_words": ",1324349,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1521983,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "14",
-        "word_num": 5,
-        "word": "εὐλογία",
-        "occurrence": 1,
-        "strong": "G21290",
-        "lemma": "εὐλογία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "εὐλογία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1324349,
-        "book_id": "gal",
-        "chapter": "3",
-        "verse": "14",
-        "word_num": 3,
-        "word": "blessing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blessing",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εὐλογία = blessing",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539567",
-    "book_id": "eph",
-    "chapter": "1",
-    "verse": "3",
-    "alignment_num": "16",
-    "orig_lang_words": ",1523310,",
-    "target_lang_words": ",1326309,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523310,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 15,
-        "word": "εὐλογίᾳ",
-        "occurrence": 1,
-        "strong": "G21290",
-        "lemma": "εὐλογία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "εὐλογίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326309,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 18,
-        "word": "blessing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blessing",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εὐλογίᾳ = blessing",
-    "frequency": 0.0625,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -492,7 +222,107 @@
     "targetWordsTxt": "a blessing",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εὐλογίας = a blessing",
-    "frequency": 0.0625,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535761",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1519390,",
+    "target_lang_words": ",1320510,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519390,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 14,
+        "word": "εὐλογίαν",
+        "occurrence": 1,
+        "strong": "G21290",
+        "lemma": "εὐλογία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320510,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 21,
+        "word": "gift",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gift",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογίαν = gift",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535768",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "5",
+    "alignment_num": "21",
+    "orig_lang_words": ",1519397,",
+    "target_lang_words": ",1320522,1320523,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519397,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 21,
+        "word": "εὐλογίαν",
+        "occurrence": 2,
+        "strong": "G21290",
+        "lemma": "εὐλογία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1320522,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 33,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1320523,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "5",
+        "word_num": 34,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a blessing",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εὐλογίαν = a blessing",
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -536,51 +366,8 @@
     "targetWordsTxt": "blessing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εὐλογίαν = blessing",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556622",
-    "book_id": "jas",
-    "chapter": "3",
-    "verse": "10",
-    "alignment_num": "5",
-    "orig_lang_words": ",1540953,",
-    "target_lang_words": ",1350794,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540953,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 5,
-        "word": "εὐλογία",
-        "occurrence": 1,
-        "strong": "G21290",
-        "lemma": "εὐλογία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "εὐλογία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350794,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 6,
-        "word": "blessing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blessing",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εὐλογία = blessing",
-    "frequency": 0.125,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -633,7 +420,8 @@
     "targetWordsTxt": "a blessing",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εὐλογίαν = a blessing",
-    "frequency": 0.125,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -677,7 +465,188 @@
     "targetWordsTxt": "praise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εὐλογίαν = praise",
-    "frequency": 0.0625,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535785",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "6",
+    "alignment_num": "12",
+    "orig_lang_words": ",1519414,",
+    "target_lang_words": ",1320551,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519414,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 12,
+        "word": "εὐλογίαις",
+        "occurrence": 1,
+        "strong": "G21290",
+        "lemma": "εὐλογία",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "εὐλογίαις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320551,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 22,
+        "word": "blessings",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessings",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογίαις = blessings",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535790",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "6",
+    "alignment_num": "17",
+    "orig_lang_words": ",1519416,",
+    "target_lang_words": ",1320556,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519416,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 14,
+        "word": "εὐλογίαις",
+        "occurrence": 2,
+        "strong": "G21290",
+        "lemma": "εὐλογία",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "εὐλογίαις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320556,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 27,
+        "word": "blessings",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "blessings",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογίαις = blessings",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538296",
+    "book_id": "gal",
+    "chapter": "3",
+    "verse": "14",
+    "alignment_num": "2",
+    "orig_lang_words": ",1521983,",
+    "target_lang_words": ",1324349,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521983,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 5,
+        "word": "εὐλογία",
+        "occurrence": 1,
+        "strong": "G21290",
+        "lemma": "εὐλογία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1324349,
+        "book_id": "gal",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 3,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογία = blessing",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556622",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "10",
+    "alignment_num": "5",
+    "orig_lang_words": ",1540953,",
+    "target_lang_words": ",1350794,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540953,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 5,
+        "word": "εὐλογία",
+        "occurrence": 1,
+        "strong": "G21290",
+        "lemma": "εὐλογία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350794,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 6,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογία = blessing",
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -742,7 +711,8 @@
     "targetWordsTxt": "be praise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἡ εὐλογία = be praise",
-    "frequency": 0.0625,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -786,7 +756,53 @@
     "targetWordsTxt": "praise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εὐλογία = praise",
-    "frequency": 0.0625,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539567",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "16",
+    "orig_lang_words": ",1523310,",
+    "target_lang_words": ",1326309,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523310,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 15,
+        "word": "εὐλογίᾳ",
+        "occurrence": 1,
+        "strong": "G21290",
+        "lemma": "εὐλογία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "εὐλογίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326309,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 18,
+        "word": "blessing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blessing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εὐλογίᾳ = blessing",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

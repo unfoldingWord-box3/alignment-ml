@@ -66,7 +66,152 @@
     "targetWordsTxt": "he has raised up",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ὕψωσεν = he has raised up",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488906",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "14",
+    "alignment_num": "2",
+    "orig_lang_words": ",1470022,",
+    "target_lang_words": ",1254530,1254531,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1470022,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 3,
+        "word": "ὕψωσεν",
+        "occurrence": 1,
+        "strong": "G53120",
+        "lemma": "ὑψόω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ὕψωσεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1254530,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 3,
+        "word": "lifted",
+        "occurrence": 1
+      },
+      {
+        "id": 1254531,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "14",
+        "word_num": 4,
+        "word": "up",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "lifted up",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ὕψωσεν = lifted up",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504916",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "31",
+    "alignment_num": "1",
+    "orig_lang_words": ",1487238,",
+    "target_lang_words": ",1276334,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487238,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 6,
+        "word": "ὕψωσεν",
+        "occurrence": 1,
+        "strong": "G53120",
+        "lemma": "ὑψόω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ὕψωσεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276334,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 1,
+        "word": "exalted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "exalted",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὕψωσεν = exalted",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510086",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "17",
+    "alignment_num": "10",
+    "orig_lang_words": ",1492538,",
+    "target_lang_words": ",1283291,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492538,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "17",
+        "word_num": 13,
+        "word": "ὕψωσεν",
+        "occurrence": 1,
+        "strong": "G53120",
+        "lemma": "ὑψόω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ὕψωσεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283291,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "17",
+        "word_num": 10,
+        "word": "made",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "made",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὕψωσεν = made",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -119,7 +264,8 @@
     "targetWordsTxt": "you will",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὑψωθήσῃ = you will",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -163,7 +309,53 @@
     "targetWordsTxt": "exalts",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὑψῶν = exalts",
-    "frequency": 0.11764705882352941,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482380",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "14",
+    "alignment_num": "13",
+    "orig_lang_words": ",1463318,",
+    "target_lang_words": ",1245664,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463318,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "14",
+        "word_num": 14,
+        "word": "ὑψῶν",
+        "occurrence": 1,
+        "strong": "G53120",
+        "lemma": "ὑψόω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὑψῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1245664,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "14",
+        "word_num": 20,
+        "word": "exalts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "exalts",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὑψῶν = exalts",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -225,51 +417,8 @@
     "targetWordsTxt": "will be exalted",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ὑψωθήσεται = will be exalted",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482380",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "14",
-    "alignment_num": "13",
-    "orig_lang_words": ",1463318,",
-    "target_lang_words": ",1245664,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463318,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "14",
-        "word_num": 14,
-        "word": "ὑψῶν",
-        "occurrence": 1,
-        "strong": "G53120",
-        "lemma": "ὑψόω",
-        "morph": "Gr,V,PPA,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὑψῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1245664,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "14",
-        "word_num": 20,
-        "word": "exalts",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "exalts",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὑψῶν = exalts",
-    "frequency": 0.11764705882352941,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -331,60 +480,8 @@
     "targetWordsTxt": "will be exalted",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ὑψωθήσεται = will be exalted",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488906",
-    "book_id": "jhn",
-    "chapter": "3",
-    "verse": "14",
-    "alignment_num": "2",
-    "orig_lang_words": ",1470022,",
-    "target_lang_words": ",1254530,1254531,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1470022,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "14",
-        "word_num": 3,
-        "word": "ὕψωσεν",
-        "occurrence": 1,
-        "strong": "G53120",
-        "lemma": "ὑψόω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ὕψωσεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1254530,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "14",
-        "word_num": 3,
-        "word": "lifted",
-        "occurrence": 1
-      },
-      {
-        "id": 1254531,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "14",
-        "word_num": 4,
-        "word": "up",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "lifted up",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ὕψωσεν = lifted up",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -446,7 +543,71 @@
     "targetWordsTxt": "be lifted up",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ὑψωθῆναι = be lifted up",
-    "frequency": 0.11764705882352941,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "496413",
+    "book_id": "jhn",
+    "chapter": "12",
+    "verse": "34",
+    "alignment_num": "22",
+    "orig_lang_words": ",1478270,",
+    "target_lang_words": ",1264750,1264751,1264752,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1478270,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "34",
+        "word_num": 23,
+        "word": "ὑψωθῆναι",
+        "occurrence": 1,
+        "strong": "G53120",
+        "lemma": "ὑψόω",
+        "morph": "Gr,V,NAP,,,,,"
+      }
+    ],
+    "origWordsTxt": "ὑψωθῆναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1264750,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "34",
+        "word_num": 26,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 1264751,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "34",
+        "word_num": 27,
+        "word": "lifted",
+        "occurrence": 1
+      },
+      {
+        "id": 1264752,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "34",
+        "word_num": 28,
+        "word": "up",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "be lifted up",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ὑψωθῆναι = be lifted up",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -517,7 +678,8 @@
     "targetWordsTxt": "you have lifted up",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ὑψώσητε = you have lifted up",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -570,69 +732,8 @@
     "targetWordsTxt": "lifted up",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὑψωθῶ = lifted up",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "496413",
-    "book_id": "jhn",
-    "chapter": "12",
-    "verse": "34",
-    "alignment_num": "22",
-    "orig_lang_words": ",1478270,",
-    "target_lang_words": ",1264750,1264751,1264752,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1478270,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "34",
-        "word_num": 23,
-        "word": "ὑψωθῆναι",
-        "occurrence": 1,
-        "strong": "G53120",
-        "lemma": "ὑψόω",
-        "morph": "Gr,V,NAP,,,,,"
-      }
-    ],
-    "origWordsTxt": "ὑψωθῆναι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1264750,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "34",
-        "word_num": 26,
-        "word": "be",
-        "occurrence": 1
-      },
-      {
-        "id": 1264751,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "34",
-        "word_num": 27,
-        "word": "lifted",
-        "occurrence": 1
-      },
-      {
-        "id": 1264752,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "34",
-        "word_num": 28,
-        "word": "up",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "be lifted up",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ὑψωθῆναι = be lifted up",
-    "frequency": 0.11764705882352941,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -694,95 +795,8 @@
     "targetWordsTxt": "having been exalted",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ὑψωθεὶς = having been exalted",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504916",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "31",
-    "alignment_num": "1",
-    "orig_lang_words": ",1487238,",
-    "target_lang_words": ",1276334,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487238,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 6,
-        "word": "ὕψωσεν",
-        "occurrence": 1,
-        "strong": "G53120",
-        "lemma": "ὑψόω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ὕψωσεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276334,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 1,
-        "word": "exalted",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "exalted",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὕψωσεν = exalted",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510086",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "17",
-    "alignment_num": "10",
-    "orig_lang_words": ",1492538,",
-    "target_lang_words": ",1283291,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492538,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "17",
-        "word_num": 13,
-        "word": "ὕψωσεν",
-        "occurrence": 1,
-        "strong": "G53120",
-        "lemma": "ὑψόω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ὕψωσεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1283291,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "17",
-        "word_num": 10,
-        "word": "made",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "made",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὕψωσεν = made",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -844,7 +858,8 @@
     "targetWordsTxt": "might be exalted",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ὑψωθῆτε = might be exalted",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -906,7 +921,8 @@
     "targetWordsTxt": "he will lift",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ὑψώσει = he will lift",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -968,7 +984,8 @@
     "targetWordsTxt": "he may lift",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ὑψώσῃ = he may lift",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

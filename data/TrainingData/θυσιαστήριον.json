@@ -39,7 +39,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θυσιαστηρίου = of",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,341 @@
     "targetWordsTxt": "altar",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θυσιαστηρίου = altar",
-    "frequency": 0.35294117647058826,
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "529953",
+    "book_id": "1co",
+    "chapter": "10",
+    "verse": "18",
+    "alignment_num": "11",
+    "orig_lang_words": ",1513396,",
+    "target_lang_words": ",1312067,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513396,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 12,
+        "word": "θυσιαστηρίου",
+        "occurrence": 1,
+        "strong": "G23790",
+        "lemma": "θυσιαστήριον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θυσιαστηρίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1312067,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 18,
+        "word": "altar",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "altar",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυσιαστηρίου = altar",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564908",
+    "book_id": "rev",
+    "chapter": "6",
+    "verse": "9",
+    "alignment_num": "9",
+    "orig_lang_words": ",1549989,",
+    "target_lang_words": ",1363039,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549989,
+        "book_id": "rev",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 9,
+        "word": "θυσιαστηρίου",
+        "occurrence": 1,
+        "strong": "G23790",
+        "lemma": "θυσιαστήριον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θυσιαστηρίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1363039,
+        "book_id": "rev",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 12,
+        "word": "altar",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "altar",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυσιαστηρίου = altar",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565511",
+    "book_id": "rev",
+    "chapter": "8",
+    "verse": "3",
+    "alignment_num": "11",
+    "orig_lang_words": ",1550631,",
+    "target_lang_words": ",1363862,1363863,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550631,
+        "book_id": "rev",
+        "chapter": "8",
+        "verse": "3",
+        "word_num": 8,
+        "word": "θυσιαστηρίου",
+        "occurrence": 1,
+        "strong": "G23790",
+        "lemma": "θυσιαστήριον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θυσιαστηρίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1363862,
+        "book_id": "rev",
+        "chapter": "8",
+        "verse": "3",
+        "word_num": 12,
+        "word": "incense",
+        "occurrence": 2
+      },
+      {
+        "id": 1363863,
+        "book_id": "rev",
+        "chapter": "8",
+        "verse": "3",
+        "word_num": 13,
+        "word": "altar",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "incense altar",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θυσιαστηρίου = incense altar",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565559",
+    "book_id": "rev",
+    "chapter": "8",
+    "verse": "5",
+    "alignment_num": "12",
+    "orig_lang_words": ",1550686,",
+    "target_lang_words": ",1363927,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550686,
+        "book_id": "rev",
+        "chapter": "8",
+        "verse": "5",
+        "word_num": 13,
+        "word": "θυσιαστηρίου",
+        "occurrence": 1,
+        "strong": "G23790",
+        "lemma": "θυσιαστήριον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θυσιαστηρίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1363927,
+        "book_id": "rev",
+        "chapter": "8",
+        "verse": "5",
+        "word_num": 14,
+        "word": "altar",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "altar",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυσιαστηρίου = altar",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566010",
+    "book_id": "rev",
+    "chapter": "9",
+    "verse": "13",
+    "alignment_num": "14",
+    "orig_lang_words": ",1551184,",
+    "target_lang_words": ",1364547,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551184,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 13,
+        "word": "θυσιαστηρίου",
+        "occurrence": 1,
+        "strong": "G23790",
+        "lemma": "θυσιαστήριον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θυσιαστηρίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1364547,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 18,
+        "word": "altar",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "altar",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυσιαστηρίου = altar",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568107",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "18",
+    "alignment_num": "5",
+    "orig_lang_words": ",1553540,",
+    "target_lang_words": ",1367342,1367343,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553540,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "18",
+        "word_num": 5,
+        "word": "θυσιαστηρίου",
+        "occurrence": 1,
+        "strong": "G23790",
+        "lemma": "θυσιαστήριον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θυσιαστηρίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1367342,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "18",
+        "word_num": 7,
+        "word": "incense",
+        "occurrence": 1
+      },
+      {
+        "id": 1367343,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "18",
+        "word_num": 8,
+        "word": "altar",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "incense altar",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "θυσιαστηρίου = incense altar",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568500",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "7",
+    "alignment_num": "3",
+    "orig_lang_words": ",1553976,",
+    "target_lang_words": ",1367864,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553976,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "7",
+        "word_num": 3,
+        "word": "θυσιαστηρίου",
+        "occurrence": 1,
+        "strong": "G23790",
+        "lemma": "θυσιαστήριον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "θυσιαστηρίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367864,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "7",
+        "word_num": 4,
+        "word": "altar",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "altar",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θυσιαστηρίου = altar",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -139,7 +474,8 @@
     "targetWordsTxt": "altars",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ θυσιαστήριά = altars",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -213,7 +549,8 @@
     "targetWordsTxt": "at the altar",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τῷ θυσιαστηρίῳ = at the altar",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -257,51 +594,8 @@
     "targetWordsTxt": "altar",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θυσιαστηρίῳ = altar",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529953",
-    "book_id": "1co",
-    "chapter": "10",
-    "verse": "18",
-    "alignment_num": "11",
-    "orig_lang_words": ",1513396,",
-    "target_lang_words": ",1312067,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513396,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 12,
-        "word": "θυσιαστηρίου",
-        "occurrence": 1,
-        "strong": "G23790",
-        "lemma": "θυσιαστήριον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θυσιαστηρίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1312067,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 18,
-        "word": "altar",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "altar",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυσιαστηρίου = altar",
-    "frequency": 0.35294117647058826,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -345,7 +639,8 @@
     "targetWordsTxt": "altar",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θυσιαστηρίῳ = altar",
-    "frequency": 0.11764705882352941,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -398,7 +693,8 @@
     "targetWordsTxt": "an altar",
     "alignmentTargetWords": 2,
     "alignmentTxt": "θυσιαστήριον = an altar",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -442,104 +738,8 @@
     "targetWordsTxt": "altar",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θυσιαστήριον = altar",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564908",
-    "book_id": "rev",
-    "chapter": "6",
-    "verse": "9",
-    "alignment_num": "9",
-    "orig_lang_words": ",1549989,",
-    "target_lang_words": ",1363039,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1549989,
-        "book_id": "rev",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 9,
-        "word": "θυσιαστηρίου",
-        "occurrence": 1,
-        "strong": "G23790",
-        "lemma": "θυσιαστήριον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θυσιαστηρίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1363039,
-        "book_id": "rev",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 12,
-        "word": "altar",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "altar",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυσιαστηρίου = altar",
-    "frequency": 0.35294117647058826,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565511",
-    "book_id": "rev",
-    "chapter": "8",
-    "verse": "3",
-    "alignment_num": "11",
-    "orig_lang_words": ",1550631,",
-    "target_lang_words": ",1363862,1363863,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550631,
-        "book_id": "rev",
-        "chapter": "8",
-        "verse": "3",
-        "word_num": 8,
-        "word": "θυσιαστηρίου",
-        "occurrence": 1,
-        "strong": "G23790",
-        "lemma": "θυσιαστήριον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θυσιαστηρίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1363862,
-        "book_id": "rev",
-        "chapter": "8",
-        "verse": "3",
-        "word_num": 12,
-        "word": "incense",
-        "occurrence": 2
-      },
-      {
-        "id": 1363863,
-        "book_id": "rev",
-        "chapter": "8",
-        "verse": "3",
-        "word_num": 13,
-        "word": "altar",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "incense altar",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θυσιαστηρίου = incense altar",
-    "frequency": 0.11764705882352941,
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -592,95 +792,8 @@
     "targetWordsTxt": "incense altar",
     "alignmentTargetWords": 2,
     "alignmentTxt": "θυσιαστήριον = incense altar",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565559",
-    "book_id": "rev",
-    "chapter": "8",
-    "verse": "5",
-    "alignment_num": "12",
-    "orig_lang_words": ",1550686,",
-    "target_lang_words": ",1363927,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550686,
-        "book_id": "rev",
-        "chapter": "8",
-        "verse": "5",
-        "word_num": 13,
-        "word": "θυσιαστηρίου",
-        "occurrence": 1,
-        "strong": "G23790",
-        "lemma": "θυσιαστήριον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θυσιαστηρίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1363927,
-        "book_id": "rev",
-        "chapter": "8",
-        "verse": "5",
-        "word_num": 14,
-        "word": "altar",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "altar",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυσιαστηρίου = altar",
-    "frequency": 0.35294117647058826,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566010",
-    "book_id": "rev",
-    "chapter": "9",
-    "verse": "13",
-    "alignment_num": "14",
-    "orig_lang_words": ",1551184,",
-    "target_lang_words": ",1364547,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1551184,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 13,
-        "word": "θυσιαστηρίου",
-        "occurrence": 1,
-        "strong": "G23790",
-        "lemma": "θυσιαστήριον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θυσιαστηρίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1364547,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 18,
-        "word": "altar",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "altar",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυσιαστηρίου = altar",
-    "frequency": 0.35294117647058826,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -724,104 +837,8 @@
     "targetWordsTxt": "altar",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θυσιαστήριον = altar",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568107",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "18",
-    "alignment_num": "5",
-    "orig_lang_words": ",1553540,",
-    "target_lang_words": ",1367342,1367343,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553540,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "18",
-        "word_num": 5,
-        "word": "θυσιαστηρίου",
-        "occurrence": 1,
-        "strong": "G23790",
-        "lemma": "θυσιαστήριον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θυσιαστηρίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1367342,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "18",
-        "word_num": 7,
-        "word": "incense",
-        "occurrence": 1
-      },
-      {
-        "id": 1367343,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "18",
-        "word_num": 8,
-        "word": "altar",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "incense altar",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "θυσιαστηρίου = incense altar",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568500",
-    "book_id": "rev",
-    "chapter": "16",
-    "verse": "7",
-    "alignment_num": "3",
-    "orig_lang_words": ",1553976,",
-    "target_lang_words": ",1367864,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553976,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "7",
-        "word_num": 3,
-        "word": "θυσιαστηρίου",
-        "occurrence": 1,
-        "strong": "G23790",
-        "lemma": "θυσιαστήριον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "θυσιαστηρίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367864,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "7",
-        "word_num": 4,
-        "word": "altar",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "altar",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θυσιαστηρίου = altar",
-    "frequency": 0.35294117647058826,
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

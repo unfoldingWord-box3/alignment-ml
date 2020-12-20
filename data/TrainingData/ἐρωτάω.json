@@ -39,7 +39,314 @@
     "targetWordsTxt": "asked",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἠρώτων = asked",
-    "frequency": 0.05172413793103448,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489775",
+    "book_id": "jhn",
+    "chapter": "4",
+    "verse": "31",
+    "alignment_num": "5",
+    "orig_lang_words": ",1470955,",
+    "target_lang_words": ",1255664,1255665,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1470955,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "31",
+        "word_num": 3,
+        "word": "ἠρώτων",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1255664,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "31",
+        "word_num": 5,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 1255665,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "31",
+        "word_num": 6,
+        "word": "urging",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "were urging",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἠρώτων = were urging",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489919",
+    "book_id": "jhn",
+    "chapter": "4",
+    "verse": "40",
+    "alignment_num": "7",
+    "orig_lang_words": ",1471113,",
+    "target_lang_words": ",1255853,1255854,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471113,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "40",
+        "word_num": 7,
+        "word": "ἠρώτων",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1255853,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "40",
+        "word_num": 7,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1255854,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "40",
+        "word_num": 8,
+        "word": "asked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they asked",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἠρώτων = they asked",
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493896",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "15",
+    "alignment_num": "5",
+    "orig_lang_words": ",1475571,",
+    "target_lang_words": ",1261352,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475571,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "15",
+        "word_num": 2,
+        "word": "ἠρώτων",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1261352,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "15",
+        "word_num": 5,
+        "word": "asked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "asked",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἠρώτων = asked",
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "496204",
+    "book_id": "jhn",
+    "chapter": "12",
+    "verse": "21",
+    "alignment_num": "9",
+    "orig_lang_words": ",1478038,",
+    "target_lang_words": ",1264477,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1478038,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 10,
+        "word": "ἠρώτων",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1264477,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 13,
+        "word": "asked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "asked",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἠρώτων = asked",
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502038",
+    "book_id": "act",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "4",
+    "orig_lang_words": ",1484246,",
+    "target_lang_words": ",1272543,1272544,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484246,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 4,
+        "word": "ἠρώτων",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1272543,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 6,
+        "word": "they",
+        "occurrence": 2
+      },
+      {
+        "id": 1272544,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 7,
+        "word": "asked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they asked",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἠρώτων = they asked",
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512487",
+    "book_id": "act",
+    "chapter": "16",
+    "verse": "39",
+    "alignment_num": "6",
+    "orig_lang_words": ",1495011,",
+    "target_lang_words": ",1286581,1286582,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495011,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "39",
+        "word_num": 6,
+        "word": "ἠρώτων",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1286581,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "39",
+        "word_num": 11,
+        "word": "asking",
+        "occurrence": 1
+      },
+      {
+        "id": 1286582,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "39",
+        "word_num": 12,
+        "word": "them",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "asking them",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἠρώτων = asking them",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -104,7 +411,8 @@
     "targetWordsTxt": "She begged",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καὶ ἠρώτα = She begged",
-    "frequency": 0.017241379310344827,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -157,7 +465,161 @@
     "targetWordsTxt": "he asked",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἠρώτα = he asked",
-    "frequency": 0.017241379310344827,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473976",
+    "book_id": "luk",
+    "chapter": "7",
+    "verse": "36",
+    "alignment_num": "5",
+    "orig_lang_words": ",1454762,",
+    "target_lang_words": ",1234237,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1454762,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "36",
+        "word_num": 0,
+        "word": "ἠρώτα",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1234237,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "36",
+        "word_num": 5,
+        "word": "requested",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "requested",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἠρώτα = requested",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490037",
+    "book_id": "jhn",
+    "chapter": "4",
+    "verse": "47",
+    "alignment_num": "14",
+    "orig_lang_words": ",1471242,",
+    "target_lang_words": ",1256005,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471242,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "47",
+        "word_num": 15,
+        "word": "ἠρώτα",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256005,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "47",
+        "word_num": 16,
+        "word": "asked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "asked",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἠρώτα = asked",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503288",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "3",
+    "alignment_num": "11",
+    "orig_lang_words": ",1485554,",
+    "target_lang_words": ",1274178,1274179,1274180,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485554,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 10,
+        "word": "ἠρώτα",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1274178,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 12,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 1274179,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 13,
+        "word": "asked",
+        "occurrence": 1
+      },
+      {
+        "id": 1274180,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 14,
+        "word": "them",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he asked them",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἠρώτα = he asked them",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -210,754 +672,8 @@
     "targetWordsTxt": "they asked",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἠρώτησαν = they asked",
-    "frequency": 0.06896551724137931,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "471753",
-    "book_id": "luk",
-    "chapter": "5",
-    "verse": "3",
-    "alignment_num": "9",
-    "orig_lang_words": ",1452518,",
-    "target_lang_words": ",1231186,1231187,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1452518,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "3",
-        "word_num": 9,
-        "word": "ἠρώτησεν",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1231186,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "3",
-        "word_num": 12,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1231187,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "3",
-        "word_num": 13,
-        "word": "asked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and asked",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἠρώτησεν = and asked",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473396",
-    "book_id": "luk",
-    "chapter": "7",
-    "verse": "3",
-    "alignment_num": "11",
-    "orig_lang_words": ",1454182,",
-    "target_lang_words": ",1233410,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454182,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 11,
-        "word": "ἐρωτῶν",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,PPA,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1233410,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 13,
-        "word": "asking",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "asking",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτῶν = asking",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473976",
-    "book_id": "luk",
-    "chapter": "7",
-    "verse": "36",
-    "alignment_num": "5",
-    "orig_lang_words": ",1454762,",
-    "target_lang_words": ",1234237,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454762,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "36",
-        "word_num": 0,
-        "word": "ἠρώτα",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1234237,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "36",
-        "word_num": 5,
-        "word": "requested",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "requested",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἠρώτα = requested",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "474990",
-    "book_id": "luk",
-    "chapter": "8",
-    "verse": "37",
-    "alignment_num": "10",
-    "orig_lang_words": ",1455771,",
-    "target_lang_words": ",1235609,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1455771,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "37",
-        "word_num": 1,
-        "word": "ἠρώτησεν",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1235609,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "37",
-        "word_num": 10,
-        "word": "asked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "asked",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἠρώτησεν = asked",
-    "frequency": 0.05172413793103448,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "476174",
-    "book_id": "luk",
-    "chapter": "9",
-    "verse": "45",
-    "alignment_num": "17",
-    "orig_lang_words": ",1456975,",
-    "target_lang_words": ",1237172,1237173,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1456975,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "45",
-        "word_num": 17,
-        "word": "ἐρωτῆσαι",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῆσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1237172,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "45",
-        "word_num": 24,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1237173,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "45",
-        "word_num": 25,
-        "word": "ask",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to ask",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτῆσαι = to ask",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "477860",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "37",
-    "alignment_num": "4",
-    "orig_lang_words": ",1458729,",
-    "target_lang_words": ",1239449,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458729,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "37",
-        "word_num": 4,
-        "word": "ἐρωτᾷ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1239449,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "37",
-        "word_num": 8,
-        "word": "asked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "asked",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτᾷ = asked",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "480146",
-    "book_id": "luk",
-    "chapter": "14",
-    "verse": "18",
-    "alignment_num": "18",
-    "orig_lang_words": ",1461035,1461036,",
-    "target_lang_words": ",1242601,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1461035,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "18",
-        "word_num": 18,
-        "word": "ἐρωτῶ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA1,,S,"
-      },
-      {
-        "id": 1461036,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "18",
-        "word_num": 19,
-        "word": "σε",
-        "occurrence": 1,
-        "strong": "G47710",
-        "lemma": "σύ",
-        "morph": "Gr,RP,,,2A,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῶ σε",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1242601,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "18",
-        "word_num": 28,
-        "word": "Please",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Please",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτῶ σε = Please",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "480160",
-    "book_id": "luk",
-    "chapter": "14",
-    "verse": "19",
-    "alignment_num": "12",
-    "orig_lang_words": ",1461051,1461052,",
-    "target_lang_words": ",1242622,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1461051,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "19",
-        "word_num": 11,
-        "word": "ἐρωτῶ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA1,,S,"
-      },
-      {
-        "id": 1461052,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "19",
-        "word_num": 12,
-        "word": "σε",
-        "occurrence": 1,
-        "strong": "G47710",
-        "lemma": "σύ",
-        "morph": "Gr,RP,,,2A,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῶ σε",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1242622,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "19",
-        "word_num": 18,
-        "word": "Please",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Please",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτῶ σε = Please",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "480393",
-    "book_id": "luk",
-    "chapter": "14",
-    "verse": "32",
-    "alignment_num": "10",
-    "orig_lang_words": ",1461293,",
-    "target_lang_words": ",1242918,1242919,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1461293,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "32",
-        "word_num": 10,
-        "word": "ἐρωτᾷ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1242918,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "32",
-        "word_num": 13,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1242919,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "32",
-        "word_num": 14,
-        "word": "asks",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and asks",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτᾷ = and asks",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481500",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "27",
-    "alignment_num": "2",
-    "orig_lang_words": ",1462425,",
-    "target_lang_words": ",1244442,1244443,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462425,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "27",
-        "word_num": 2,
-        "word": "ἐρωτῶ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1244442,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "27",
-        "word_num": 3,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1244443,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "27",
-        "word_num": 4,
-        "word": "beg",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I beg",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτῶ = I beg",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "483278",
-    "book_id": "luk",
-    "chapter": "19",
-    "verse": "31",
-    "alignment_num": "3",
-    "orig_lang_words": ",1464229,",
-    "target_lang_words": ",1246958,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1464229,
-        "book_id": "luk",
-        "chapter": "19",
-        "verse": "31",
-        "word_num": 4,
-        "word": "ἐρωτᾷ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,SPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1246958,
-        "book_id": "luk",
-        "chapter": "19",
-        "verse": "31",
-        "word_num": 3,
-        "word": "asks",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "asks",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτᾷ = asks",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "483599",
-    "book_id": "luk",
-    "chapter": "20",
-    "verse": "3",
-    "alignment_num": "6",
-    "orig_lang_words": ",1464552,",
-    "target_lang_words": ",1247397,1247398,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1464552,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "3",
-        "word_num": 5,
-        "word": "ἐρωτήσω",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IFA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτήσω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1247397,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "3",
-        "word_num": 9,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1247398,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "3",
-        "word_num": 10,
-        "word": "ask",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will ask",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτήσω = will ask",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485851",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "68",
-    "alignment_num": "2",
-    "orig_lang_words": ",1466815,",
-    "target_lang_words": ",1250500,1250501,1250502,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1466815,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "68",
-        "word_num": 2,
-        "word": "ἐρωτήσω",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,SAA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτήσω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1250500,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "68",
-        "word_num": 2,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1250501,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "68",
-        "word_num": 3,
-        "word": "ask",
-        "occurrence": 1
-      },
-      {
-        "id": 1250502,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "68",
-        "word_num": 4,
-        "word": "you",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I ask you",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐρωτήσω = I ask you",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485942",
-    "book_id": "luk",
-    "chapter": "23",
-    "verse": "3",
-    "alignment_num": "2",
-    "orig_lang_words": ",1466906,",
-    "target_lang_words": ",1250616,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1466906,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "3",
-        "word_num": 3,
-        "word": "ἠρώτησεν",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1250616,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "3",
-        "word_num": 2,
-        "word": "questioned",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "questioned",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἠρώτησεν = questioned",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487790",
-    "book_id": "jhn",
-    "chapter": "1",
-    "verse": "19",
-    "alignment_num": "16",
-    "orig_lang_words": ",1468798,",
-    "target_lang_words": ",1253039,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468798,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 17,
-        "word": "ἐρωτήσωσιν",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,SAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτήσωσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1253039,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 18,
-        "word": "ask",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "ask",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτήσωσιν = ask",
-    "frequency": 0.017241379310344827,
+    "frequency": 0.5,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1010,7 +726,8 @@
     "targetWordsTxt": "they asked",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἠρώτησαν = they asked",
-    "frequency": 0.06896551724137931,
+    "frequency": 0.5,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1063,157 +780,8 @@
     "targetWordsTxt": "they asked",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἠρώτησαν = they asked",
-    "frequency": 0.06896551724137931,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "489775",
-    "book_id": "jhn",
-    "chapter": "4",
-    "verse": "31",
-    "alignment_num": "5",
-    "orig_lang_words": ",1470955,",
-    "target_lang_words": ",1255664,1255665,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1470955,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "31",
-        "word_num": 3,
-        "word": "ἠρώτων",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1255664,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "31",
-        "word_num": 5,
-        "word": "were",
-        "occurrence": 1
-      },
-      {
-        "id": 1255665,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "31",
-        "word_num": 6,
-        "word": "urging",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "were urging",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἠρώτων = were urging",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "489919",
-    "book_id": "jhn",
-    "chapter": "4",
-    "verse": "40",
-    "alignment_num": "7",
-    "orig_lang_words": ",1471113,",
-    "target_lang_words": ",1255853,1255854,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471113,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "40",
-        "word_num": 7,
-        "word": "ἠρώτων",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1255853,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "40",
-        "word_num": 7,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1255854,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "40",
-        "word_num": 8,
-        "word": "asked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they asked",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἠρώτων = they asked",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490037",
-    "book_id": "jhn",
-    "chapter": "4",
-    "verse": "47",
-    "alignment_num": "14",
-    "orig_lang_words": ",1471242,",
-    "target_lang_words": ",1256005,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471242,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "47",
-        "word_num": 15,
-        "word": "ἠρώτα",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1256005,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "47",
-        "word_num": 16,
-        "word": "asked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "asked",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἠρώτα = asked",
-    "frequency": 0.017241379310344827,
+    "frequency": 0.5,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1266,7 +834,8 @@
     "targetWordsTxt": "They asked",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἠρώτησαν = They asked",
-    "frequency": 0.017241379310344827,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1310,51 +879,8 @@
     "targetWordsTxt": "asked",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἠρώτησαν = asked",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493896",
-    "book_id": "jhn",
-    "chapter": "9",
-    "verse": "15",
-    "alignment_num": "5",
-    "orig_lang_words": ",1475571,",
-    "target_lang_words": ",1261352,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475571,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "15",
-        "word_num": 2,
-        "word": "ἠρώτων",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1261352,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "15",
-        "word_num": 5,
-        "word": "asked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "asked",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἠρώτων = asked",
-    "frequency": 0.05172413793103448,
+    "frequency": 0.25,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1419,739 +945,8 @@
     "targetWordsTxt": "They asked",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καὶ ἠρώτησαν = They asked",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494032",
-    "book_id": "jhn",
-    "chapter": "9",
-    "verse": "21",
-    "alignment_num": "16",
-    "orig_lang_words": ",1475718,",
-    "target_lang_words": ",1261534,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475718,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "21",
-        "word_num": 16,
-        "word": "ἐρωτήσατε",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,MAA2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτήσατε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1261534,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "21",
-        "word_num": 18,
-        "word": "Ask",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Ask",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτήσατε = Ask",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "496204",
-    "book_id": "jhn",
-    "chapter": "12",
-    "verse": "21",
-    "alignment_num": "9",
-    "orig_lang_words": ",1478038,",
-    "target_lang_words": ",1264477,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1478038,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 10,
-        "word": "ἠρώτων",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1264477,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 13,
-        "word": "asked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "asked",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἠρώτων = asked",
-    "frequency": 0.05172413793103448,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "497558",
-    "book_id": "jhn",
-    "chapter": "14",
-    "verse": "16",
-    "alignment_num": "1",
-    "orig_lang_words": ",1479501,",
-    "target_lang_words": ",1266344,1266345,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1479501,
-        "book_id": "jhn",
-        "chapter": "14",
-        "verse": "16",
-        "word_num": 1,
-        "word": "ἐρωτήσω",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IFA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτήσω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1266344,
-        "book_id": "jhn",
-        "chapter": "14",
-        "verse": "16",
-        "word_num": 2,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1266345,
-        "book_id": "jhn",
-        "chapter": "14",
-        "verse": "16",
-        "word_num": 3,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτήσω = will pray",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498392",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "5",
-    "alignment_num": "10",
-    "orig_lang_words": ",1480381,",
-    "target_lang_words": ",1267497,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480381,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "5",
-        "word_num": 11,
-        "word": "ἐρωτᾷ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1267497,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "5",
-        "word_num": 13,
-        "word": "asks",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "asks",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτᾷ = asks",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498603",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "19",
-    "alignment_num": "4",
-    "orig_lang_words": ",1480593,",
-    "target_lang_words": ",1267803,1267804,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480593,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "19",
-        "word_num": 5,
-        "word": "ἐρωτᾶν",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτᾶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1267803,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "19",
-        "word_num": 5,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1267804,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "19",
-        "word_num": 6,
-        "word": "ask",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to ask",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτᾶν = to ask",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498699",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "23",
-    "alignment_num": "3",
-    "orig_lang_words": ",1480697,",
-    "target_lang_words": ",1267944,1267945,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480697,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "23",
-        "word_num": 7,
-        "word": "ἐρωτήσετε",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IFA2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτήσετε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1267944,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "23",
-        "word_num": 3,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 1267945,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "23",
-        "word_num": 4,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτήσετε = you will",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498771",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "26",
-    "alignment_num": "14",
-    "orig_lang_words": ",1480767,",
-    "target_lang_words": ",1268050,1268051,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480767,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "26",
-        "word_num": 15,
-        "word": "ἐρωτήσω",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IFA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτήσω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1268050,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "26",
-        "word_num": 18,
-        "word": "will",
-        "occurrence": 2
-      },
-      {
-        "id": 1268051,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "26",
-        "word_num": 19,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτήσω = will pray",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498835",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "30",
-    "alignment_num": "11",
-    "orig_lang_words": ",1480833,",
-    "target_lang_words": ",1268137,1268138,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480833,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "30",
-        "word_num": 12,
-        "word": "ἐρωτᾷ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,SPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1268137,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "30",
-        "word_num": 15,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1268138,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "30",
-        "word_num": 16,
-        "word": "ask",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to ask",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτᾷ = to ask",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499031",
-    "book_id": "jhn",
-    "chapter": "17",
-    "verse": "9",
-    "alignment_num": "1",
-    "orig_lang_words": ",1481039,",
-    "target_lang_words": ",1268407,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481039,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "9",
-        "word_num": 3,
-        "word": "ἐρωτῶ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1268407,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "9",
-        "word_num": 1,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "pray",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτῶ = pray",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499034",
-    "book_id": "jhn",
-    "chapter": "17",
-    "verse": "9",
-    "alignment_num": "4",
-    "orig_lang_words": ",1481044,",
-    "target_lang_words": ",1268410,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481044,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "9",
-        "word_num": 8,
-        "word": "ἐρωτῶ",
-        "occurrence": 2,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1268410,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "9",
-        "word_num": 4,
-        "word": "I",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "I",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτῶ = I",
-    "frequency": 0.05172413793103448,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499158",
-    "book_id": "jhn",
-    "chapter": "17",
-    "verse": "15",
-    "alignment_num": "0",
-    "orig_lang_words": ",1481175,",
-    "target_lang_words": ",1268580,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481175,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "15",
-        "word_num": 1,
-        "word": "ἐρωτῶ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1268580,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "15",
-        "word_num": 0,
-        "word": "I",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτῶ = I",
-    "frequency": 0.05172413793103448,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499225",
-    "book_id": "jhn",
-    "chapter": "17",
-    "verse": "20",
-    "alignment_num": "1",
-    "orig_lang_words": ",1481241,",
-    "target_lang_words": ",1268663,1268664,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481241,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "20",
-        "word_num": 4,
-        "word": "ἐρωτῶ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1268663,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "20",
-        "word_num": 1,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1268664,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "20",
-        "word_num": 2,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτῶ = I pray",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499691",
-    "book_id": "jhn",
-    "chapter": "18",
-    "verse": "19",
-    "alignment_num": "3",
-    "orig_lang_words": ",1481736,",
-    "target_lang_words": ",1269315,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481736,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "19",
-        "word_num": 3,
-        "word": "ἠρώτησεν",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1269315,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "19",
-        "word_num": 4,
-        "word": "asked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "asked",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἠρώτησεν = asked",
-    "frequency": 0.05172413793103448,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499728",
-    "book_id": "jhn",
-    "chapter": "18",
-    "verse": "21",
-    "alignment_num": "1",
-    "orig_lang_words": ",1481777,",
-    "target_lang_words": ",1269357,1269358,1269359,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481777,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "21",
-        "word_num": 2,
-        "word": "ἐρωτᾷς",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA2,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτᾷς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1269357,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "21",
-        "word_num": 1,
-        "word": "do",
-        "occurrence": 1
-      },
-      {
-        "id": 1269358,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "21",
-        "word_num": 2,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 1269359,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "21",
-        "word_num": 3,
-        "word": "ask",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "do you ask",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐρωτᾷς = do you ask",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499730",
-    "book_id": "jhn",
-    "chapter": "18",
-    "verse": "21",
-    "alignment_num": "3",
-    "orig_lang_words": ",1481778,",
-    "target_lang_words": ",1269361,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481778,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "21",
-        "word_num": 3,
-        "word": "ἐρώτησον",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,MAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρώτησον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1269361,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "21",
-        "word_num": 5,
-        "word": "Ask",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Ask",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρώτησον = Ask",
-    "frequency": 0.017241379310344827,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2195,166 +990,8 @@
     "targetWordsTxt": "asked",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἠρώτησαν = asked",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500769",
-    "book_id": "jhn",
-    "chapter": "19",
-    "verse": "38",
-    "alignment_num": "14",
-    "orig_lang_words": ",1482887,",
-    "target_lang_words": ",1270802,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1482887,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "38",
-        "word_num": 3,
-        "word": "ἠρώτησεν",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1270802,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "38",
-        "word_num": 18,
-        "word": "asked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "asked",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἠρώτησεν = asked",
-    "frequency": 0.05172413793103448,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502038",
-    "book_id": "act",
-    "chapter": "1",
-    "verse": "6",
-    "alignment_num": "4",
-    "orig_lang_words": ",1484246,",
-    "target_lang_words": ",1272543,1272544,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484246,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 4,
-        "word": "ἠρώτων",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1272543,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 6,
-        "word": "they",
-        "occurrence": 2
-      },
-      {
-        "id": 1272544,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 7,
-        "word": "asked",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they asked",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἠρώτων = they asked",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503288",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "3",
-    "alignment_num": "11",
-    "orig_lang_words": ",1485554,",
-    "target_lang_words": ",1274178,1274179,1274180,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485554,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 10,
-        "word": "ἠρώτα",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἠρώτα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1274178,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 12,
-        "word": "he",
-        "occurrence": 2
-      },
-      {
-        "id": 1274179,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 13,
-        "word": "asked",
-        "occurrence": 1
-      },
-      {
-        "id": 1274180,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 14,
-        "word": "them",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he asked them",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἠρώτα = he asked them",
-    "frequency": 0.017241379310344827,
+    "frequency": 0.25,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2407,122 +1044,242 @@
     "targetWordsTxt": "they asked",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἠρώτησαν = they asked",
-    "frequency": 0.06896551724137931,
+    "frequency": 0.5,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "512487",
-    "book_id": "act",
-    "chapter": "16",
-    "verse": "39",
-    "alignment_num": "6",
-    "orig_lang_words": ",1495011,",
-    "target_lang_words": ",1286581,1286582,",
+    "id": "471753",
+    "book_id": "luk",
+    "chapter": "5",
+    "verse": "3",
+    "alignment_num": "9",
+    "orig_lang_words": ",1452518,",
+    "target_lang_words": ",1231186,1231187,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1495011,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "39",
-        "word_num": 6,
-        "word": "ἠρώτων",
+        "id": 1452518,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "3",
+        "word_num": 9,
+        "word": "ἠρώτησεν",
         "occurrence": 1,
         "strong": "G20650",
         "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IIA3,,P,"
+        "morph": "Gr,V,IAA3,,S,"
       }
     ],
-    "origWordsTxt": "ἠρώτων",
+    "origWordsTxt": "ἠρώτησεν",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1286581,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "39",
-        "word_num": 11,
-        "word": "asking",
-        "occurrence": 1
-      },
-      {
-        "id": 1286582,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "39",
+        "id": 1231186,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "3",
         "word_num": 12,
-        "word": "them",
-        "occurrence": 3
-      }
-    ],
-    "targetWordsTxt": "asking them",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἠρώτων = asking them",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513493",
-    "book_id": "act",
-    "chapter": "18",
-    "verse": "20",
-    "alignment_num": "0",
-    "orig_lang_words": ",1496060,",
-    "target_lang_words": ",1287927,1287928,1287929,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1496060,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "20",
-        "word_num": 0,
-        "word": "ἐρωτώντων",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,PPA,GMP,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτώντων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1287927,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "20",
-        "word_num": 0,
-        "word": "When",
+        "word": "and",
         "occurrence": 1
       },
       {
-        "id": 1287928,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "20",
-        "word_num": 1,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1287929,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "20",
-        "word_num": 2,
+        "id": 1231187,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "3",
+        "word_num": 13,
         "word": "asked",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "When they asked",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐρωτώντων = When they asked",
-    "frequency": 0.017241379310344827,
+    "targetWordsTxt": "and asked",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἠρώτησεν = and asked",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "474990",
+    "book_id": "luk",
+    "chapter": "8",
+    "verse": "37",
+    "alignment_num": "10",
+    "orig_lang_words": ",1455771,",
+    "target_lang_words": ",1235609,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1455771,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "37",
+        "word_num": 1,
+        "word": "ἠρώτησεν",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1235609,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "37",
+        "word_num": 10,
+        "word": "asked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "asked",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἠρώτησεν = asked",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485942",
+    "book_id": "luk",
+    "chapter": "23",
+    "verse": "3",
+    "alignment_num": "2",
+    "orig_lang_words": ",1466906,",
+    "target_lang_words": ",1250616,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1466906,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "3",
+        "word_num": 3,
+        "word": "ἠρώτησεν",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1250616,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "3",
+        "word_num": 2,
+        "word": "questioned",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "questioned",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἠρώτησεν = questioned",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499691",
+    "book_id": "jhn",
+    "chapter": "18",
+    "verse": "19",
+    "alignment_num": "3",
+    "orig_lang_words": ",1481736,",
+    "target_lang_words": ",1269315,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481736,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "19",
+        "word_num": 3,
+        "word": "ἠρώτησεν",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1269315,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "19",
+        "word_num": 4,
+        "word": "asked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "asked",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἠρώτησεν = asked",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500769",
+    "book_id": "jhn",
+    "chapter": "19",
+    "verse": "38",
+    "alignment_num": "14",
+    "orig_lang_words": ",1482887,",
+    "target_lang_words": ",1270802,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1482887,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "38",
+        "word_num": 3,
+        "word": "ἠρώτησεν",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἠρώτησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1270802,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "38",
+        "word_num": 18,
+        "word": "asked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "asked",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἠρώτησεν = asked",
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2584,7 +1341,1400 @@
     "targetWordsTxt": "and asked me",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠρώτησεν = and asked me",
-    "frequency": 0.017241379310344827,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473396",
+    "book_id": "luk",
+    "chapter": "7",
+    "verse": "3",
+    "alignment_num": "11",
+    "orig_lang_words": ",1454182,",
+    "target_lang_words": ",1233410,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1454182,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 11,
+        "word": "ἐρωτῶν",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1233410,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 13,
+        "word": "asking",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "asking",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτῶν = asking",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "476174",
+    "book_id": "luk",
+    "chapter": "9",
+    "verse": "45",
+    "alignment_num": "17",
+    "orig_lang_words": ",1456975,",
+    "target_lang_words": ",1237172,1237173,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1456975,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "45",
+        "word_num": 17,
+        "word": "ἐρωτῆσαι",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῆσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1237172,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "45",
+        "word_num": 24,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1237173,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "45",
+        "word_num": 25,
+        "word": "ask",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to ask",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτῆσαι = to ask",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "477860",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "37",
+    "alignment_num": "4",
+    "orig_lang_words": ",1458729,",
+    "target_lang_words": ",1239449,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458729,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 4,
+        "word": "ἐρωτᾷ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1239449,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 8,
+        "word": "asked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "asked",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτᾷ = asked",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "480393",
+    "book_id": "luk",
+    "chapter": "14",
+    "verse": "32",
+    "alignment_num": "10",
+    "orig_lang_words": ",1461293,",
+    "target_lang_words": ",1242918,1242919,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1461293,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "32",
+        "word_num": 10,
+        "word": "ἐρωτᾷ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1242918,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "32",
+        "word_num": 13,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1242919,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "32",
+        "word_num": 14,
+        "word": "asks",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and asks",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτᾷ = and asks",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483278",
+    "book_id": "luk",
+    "chapter": "19",
+    "verse": "31",
+    "alignment_num": "3",
+    "orig_lang_words": ",1464229,",
+    "target_lang_words": ",1246958,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464229,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "31",
+        "word_num": 4,
+        "word": "ἐρωτᾷ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,SPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1246958,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "31",
+        "word_num": 3,
+        "word": "asks",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "asks",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτᾷ = asks",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498392",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "5",
+    "alignment_num": "10",
+    "orig_lang_words": ",1480381,",
+    "target_lang_words": ",1267497,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480381,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "5",
+        "word_num": 11,
+        "word": "ἐρωτᾷ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1267497,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "5",
+        "word_num": 13,
+        "word": "asks",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "asks",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτᾷ = asks",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498835",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "30",
+    "alignment_num": "11",
+    "orig_lang_words": ",1480833,",
+    "target_lang_words": ",1268137,1268138,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480833,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "30",
+        "word_num": 12,
+        "word": "ἐρωτᾷ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,SPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1268137,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "30",
+        "word_num": 15,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1268138,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "30",
+        "word_num": 16,
+        "word": "ask",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to ask",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτᾷ = to ask",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "480146",
+    "book_id": "luk",
+    "chapter": "14",
+    "verse": "18",
+    "alignment_num": "18",
+    "orig_lang_words": ",1461035,1461036,",
+    "target_lang_words": ",1242601,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1461035,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "18",
+        "word_num": 18,
+        "word": "ἐρωτῶ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA1,,S,"
+      },
+      {
+        "id": 1461036,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "18",
+        "word_num": 19,
+        "word": "σε",
+        "occurrence": 1,
+        "strong": "G47710",
+        "lemma": "σύ",
+        "morph": "Gr,RP,,,2A,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῶ σε",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1242601,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "18",
+        "word_num": 28,
+        "word": "Please",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Please",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτῶ σε = Please",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "480160",
+    "book_id": "luk",
+    "chapter": "14",
+    "verse": "19",
+    "alignment_num": "12",
+    "orig_lang_words": ",1461051,1461052,",
+    "target_lang_words": ",1242622,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1461051,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "19",
+        "word_num": 11,
+        "word": "ἐρωτῶ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA1,,S,"
+      },
+      {
+        "id": 1461052,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "19",
+        "word_num": 12,
+        "word": "σε",
+        "occurrence": 1,
+        "strong": "G47710",
+        "lemma": "σύ",
+        "morph": "Gr,RP,,,2A,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῶ σε",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1242622,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "19",
+        "word_num": 18,
+        "word": "Please",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Please",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτῶ σε = Please",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481500",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "27",
+    "alignment_num": "2",
+    "orig_lang_words": ",1462425,",
+    "target_lang_words": ",1244442,1244443,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462425,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "27",
+        "word_num": 2,
+        "word": "ἐρωτῶ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1244442,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "27",
+        "word_num": 3,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1244443,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "27",
+        "word_num": 4,
+        "word": "beg",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I beg",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτῶ = I beg",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499031",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "9",
+    "alignment_num": "1",
+    "orig_lang_words": ",1481039,",
+    "target_lang_words": ",1268407,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481039,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "9",
+        "word_num": 3,
+        "word": "ἐρωτῶ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1268407,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "9",
+        "word_num": 1,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "pray",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτῶ = pray",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499034",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "9",
+    "alignment_num": "4",
+    "orig_lang_words": ",1481044,",
+    "target_lang_words": ",1268410,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481044,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "9",
+        "word_num": 8,
+        "word": "ἐρωτῶ",
+        "occurrence": 2,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1268410,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "9",
+        "word_num": 4,
+        "word": "I",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "I",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτῶ = I",
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499158",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "15",
+    "alignment_num": "0",
+    "orig_lang_words": ",1481175,",
+    "target_lang_words": ",1268580,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481175,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "15",
+        "word_num": 1,
+        "word": "ἐρωτῶ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1268580,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "15",
+        "word_num": 0,
+        "word": "I",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτῶ = I",
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499225",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "20",
+    "alignment_num": "1",
+    "orig_lang_words": ",1481241,",
+    "target_lang_words": ",1268663,1268664,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481241,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "20",
+        "word_num": 4,
+        "word": "ἐρωτῶ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1268663,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "20",
+        "word_num": 1,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1268664,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "20",
+        "word_num": 2,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτῶ = I pray",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543183",
+    "book_id": "php",
+    "chapter": "4",
+    "verse": "3",
+    "alignment_num": "1",
+    "orig_lang_words": ",1526978,",
+    "target_lang_words": ",1331208,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526978,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 1,
+        "word": "ἐρωτῶ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1331208,
+        "book_id": "php",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 1,
+        "word": "I",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτῶ = I",
+    "frequency": 0.3333333333333333,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561904",
+    "book_id": "2jn",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "1",
+    "orig_lang_words": ",1546691,",
+    "target_lang_words": ",1358719,1358720,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546691,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 2,
+        "word": "ἐρωτῶ",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1358719,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 1,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1358720,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 2,
+        "word": "plead",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I plead",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτῶ = I plead",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483599",
+    "book_id": "luk",
+    "chapter": "20",
+    "verse": "3",
+    "alignment_num": "6",
+    "orig_lang_words": ",1464552,",
+    "target_lang_words": ",1247397,1247398,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464552,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "3",
+        "word_num": 5,
+        "word": "ἐρωτήσω",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IFA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτήσω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1247397,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "3",
+        "word_num": 9,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1247398,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "3",
+        "word_num": 10,
+        "word": "ask",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will ask",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτήσω = will ask",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485851",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "68",
+    "alignment_num": "2",
+    "orig_lang_words": ",1466815,",
+    "target_lang_words": ",1250500,1250501,1250502,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1466815,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "68",
+        "word_num": 2,
+        "word": "ἐρωτήσω",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,SAA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτήσω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1250500,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "68",
+        "word_num": 2,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1250501,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "68",
+        "word_num": 3,
+        "word": "ask",
+        "occurrence": 1
+      },
+      {
+        "id": 1250502,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "68",
+        "word_num": 4,
+        "word": "you",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I ask you",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐρωτήσω = I ask you",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497558",
+    "book_id": "jhn",
+    "chapter": "14",
+    "verse": "16",
+    "alignment_num": "1",
+    "orig_lang_words": ",1479501,",
+    "target_lang_words": ",1266344,1266345,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1479501,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 1,
+        "word": "ἐρωτήσω",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IFA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτήσω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1266344,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 2,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1266345,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 3,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτήσω = will pray",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498771",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "26",
+    "alignment_num": "14",
+    "orig_lang_words": ",1480767,",
+    "target_lang_words": ",1268050,1268051,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480767,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "26",
+        "word_num": 15,
+        "word": "ἐρωτήσω",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IFA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτήσω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1268050,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "26",
+        "word_num": 18,
+        "word": "will",
+        "occurrence": 2
+      },
+      {
+        "id": 1268051,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "26",
+        "word_num": 19,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτήσω = will pray",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "487790",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "19",
+    "alignment_num": "16",
+    "orig_lang_words": ",1468798,",
+    "target_lang_words": ",1253039,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1468798,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 17,
+        "word": "ἐρωτήσωσιν",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,SAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτήσωσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1253039,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 18,
+        "word": "ask",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "ask",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτήσωσιν = ask",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494032",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "21",
+    "alignment_num": "16",
+    "orig_lang_words": ",1475718,",
+    "target_lang_words": ",1261534,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475718,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 16,
+        "word": "ἐρωτήσατε",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,MAA2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτήσατε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1261534,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 18,
+        "word": "Ask",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Ask",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρωτήσατε = Ask",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498603",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "19",
+    "alignment_num": "4",
+    "orig_lang_words": ",1480593,",
+    "target_lang_words": ",1267803,1267804,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480593,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "19",
+        "word_num": 5,
+        "word": "ἐρωτᾶν",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτᾶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1267803,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "19",
+        "word_num": 5,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1267804,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "19",
+        "word_num": 6,
+        "word": "ask",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to ask",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτᾶν = to ask",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498699",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "23",
+    "alignment_num": "3",
+    "orig_lang_words": ",1480697,",
+    "target_lang_words": ",1267944,1267945,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480697,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "23",
+        "word_num": 7,
+        "word": "ἐρωτήσετε",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IFA2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτήσετε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1267944,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "23",
+        "word_num": 3,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1267945,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "23",
+        "word_num": 4,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐρωτήσετε = you will",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499728",
+    "book_id": "jhn",
+    "chapter": "18",
+    "verse": "21",
+    "alignment_num": "1",
+    "orig_lang_words": ",1481777,",
+    "target_lang_words": ",1269357,1269358,1269359,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481777,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "21",
+        "word_num": 2,
+        "word": "ἐρωτᾷς",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,IPA2,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτᾷς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1269357,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "21",
+        "word_num": 1,
+        "word": "do",
+        "occurrence": 1
+      },
+      {
+        "id": 1269358,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "21",
+        "word_num": 2,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1269359,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "21",
+        "word_num": 3,
+        "word": "ask",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "do you ask",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐρωτᾷς = do you ask",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499730",
+    "book_id": "jhn",
+    "chapter": "18",
+    "verse": "21",
+    "alignment_num": "3",
+    "orig_lang_words": ",1481778,",
+    "target_lang_words": ",1269361,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481778,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "21",
+        "word_num": 3,
+        "word": "ἐρώτησον",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,MAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρώτησον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1269361,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "21",
+        "word_num": 5,
+        "word": "Ask",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Ask",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρώτησον = Ask",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513493",
+    "book_id": "act",
+    "chapter": "18",
+    "verse": "20",
+    "alignment_num": "0",
+    "orig_lang_words": ",1496060,",
+    "target_lang_words": ",1287927,1287928,1287929,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1496060,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "20",
+        "word_num": 0,
+        "word": "ἐρωτώντων",
+        "occurrence": 1,
+        "strong": "G20650",
+        "lemma": "ἐρωτάω",
+        "morph": "Gr,V,PPA,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἐρωτώντων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1287927,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "20",
+        "word_num": 0,
+        "word": "When",
+        "occurrence": 1
+      },
+      {
+        "id": 1287928,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "20",
+        "word_num": 1,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1287929,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "20",
+        "word_num": 2,
+        "word": "asked",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "When they asked",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐρωτώντων = When they asked",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2649,51 +2799,8 @@
     "targetWordsTxt": "to ask",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῦ ἐρωτῆσαί = to ask",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543183",
-    "book_id": "php",
-    "chapter": "4",
-    "verse": "3",
-    "alignment_num": "1",
-    "orig_lang_words": ",1526978,",
-    "target_lang_words": ",1331208,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526978,
-        "book_id": "php",
-        "chapter": "4",
-        "verse": "3",
-        "word_num": 1,
-        "word": "ἐρωτῶ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1331208,
-        "book_id": "php",
-        "chapter": "4",
-        "verse": "3",
-        "word_num": 1,
-        "word": "I",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρωτῶ = I",
-    "frequency": 0.05172413793103448,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2746,7 +2853,8 @@
     "targetWordsTxt": "we encourage",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐρωτῶμεν = we encourage",
-    "frequency": 0.017241379310344827,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2799,7 +2907,8 @@
     "targetWordsTxt": "we ask",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐρωτῶμεν = we ask",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2852,7 +2961,8 @@
     "targetWordsTxt": "we ask",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐρωτῶμεν = we ask",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2914,60 +3024,8 @@
     "targetWordsTxt": "he should pray",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐρωτήσῃ = he should pray",
-    "frequency": 0.017241379310344827,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561904",
-    "book_id": "2jn",
-    "chapter": "1",
-    "verse": "5",
-    "alignment_num": "1",
-    "orig_lang_words": ",1546691,",
-    "target_lang_words": ",1358719,1358720,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546691,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 2,
-        "word": "ἐρωτῶ",
-        "occurrence": 1,
-        "strong": "G20650",
-        "lemma": "ἐρωτάω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρωτῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1358719,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 1,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1358720,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 2,
-        "word": "plead",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I plead",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐρωτῶ = I plead",
-    "frequency": 0.017241379310344827,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -39,7 +39,8 @@
     "targetWordsTxt": "statement",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ῥῆμα = statement",
-    "frequency": 0.031746031746031744,
+    "frequency": 0.125,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "words",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ῥῆμα = words",
-    "frequency": 0.015873015873015872,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -151,120 +153,9 @@
     "targetWordsTxt": "nothing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐκ πᾶν ῥῆμα = nothing",
-    "frequency": 0.015873015873015872,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 4,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469025",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "38",
-    "alignment_num": "11",
-    "orig_lang_words": ",1449702,1449703,",
-    "target_lang_words": ",1227529,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1449702,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "38",
-        "word_num": 10,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1449703,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "38",
-        "word_num": 11,
-        "word": "ῥῆμά",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ῥῆμά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1227529,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "38",
-        "word_num": 20,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "word",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ ῥῆμά = word",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469365",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "65",
-    "alignment_num": "11",
-    "orig_lang_words": ",1450076,1450077,",
-    "target_lang_words": ",1227986,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1450076,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "65",
-        "word_num": 17,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNP,"
-      },
-      {
-        "id": 1450077,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "65",
-        "word_num": 18,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ῥήματα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1227986,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "65",
-        "word_num": 13,
-        "word": "matters",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "matters",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ῥήματα = matters",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
@@ -319,163 +210,8 @@
     "targetWordsTxt": "thing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ ῥῆμα = thing",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469804",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "17",
-    "alignment_num": "5",
-    "orig_lang_words": ",1450527,",
-    "target_lang_words": ",1228618,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1450527,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 5,
-        "word": "ῥήματος",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ῥήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1228618,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 11,
-        "word": "message",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "message",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματος = message",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469829",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "19",
-    "alignment_num": "5",
-    "orig_lang_words": ",1450553,1450554,",
-    "target_lang_words": ",1228652,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1450553,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "19",
-        "word_num": 5,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1450554,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "19",
-        "word_num": 6,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ῥήματα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1228652,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "19",
-        "word_num": 5,
-        "word": "things",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "things",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ῥήματα = things",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "470016",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "29",
-    "alignment_num": "10",
-    "orig_lang_words": ",1450747,1450748,",
-    "target_lang_words": ",1228901,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1450747,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "29",
-        "word_num": 7,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1450748,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "29",
-        "word_num": 8,
-        "word": "ῥῆμά",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ῥῆμά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1228901,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "29",
-        "word_num": 11,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "word",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ ῥῆμά = word",
-    "frequency": 0.031746031746031744,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -519,51 +255,8 @@
     "targetWordsTxt": "word",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ῥῆμα = word",
-    "frequency": 0.07936507936507936,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "470356",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "51",
-    "alignment_num": "18",
-    "orig_lang_words": ",1451098,",
-    "target_lang_words": ",1229352,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1451098,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "51",
-        "word_num": 19,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1229352,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "51",
-        "word_num": 21,
-        "word": "things",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "things",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = things",
-    "frequency": 0.015873015873015872,
+    "frequency": 0.3125,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -616,119 +309,8 @@
     "targetWordsTxt": "the word",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ῥῆμα = the word",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "471799",
-    "book_id": "luk",
-    "chapter": "5",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1452565,1452566,",
-    "target_lang_words": ",1231252,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1452565,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 13,
-        "word": "τῷ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1452566,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 14,
-        "word": "ῥήματί",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ ῥήματί",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1231252,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 18,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "word",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ ῥήματί = word",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473362",
-    "book_id": "luk",
-    "chapter": "7",
-    "verse": "1",
-    "alignment_num": "4",
-    "orig_lang_words": ",1454148,1454149,",
-    "target_lang_words": ",1233367,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1454148,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "1",
-        "word_num": 3,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1454149,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "1",
-        "word_num": 4,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ῥήματα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1233367,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "1",
-        "word_num": 6,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ῥήματα = words",
-    "frequency": 0.07936507936507936,
+    "frequency": 0.125,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -784,63 +366,8 @@
     "targetWordsTxt": "statement",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ ῥῆμα = statement",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "476178",
-    "book_id": "luk",
-    "chapter": "9",
-    "verse": "45",
-    "alignment_num": "21",
-    "orig_lang_words": ",1456978,1456979,",
-    "target_lang_words": ",1237177,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1456978,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "45",
-        "word_num": 20,
-        "word": "τοῦ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GNS,"
-      },
-      {
-        "id": 1456979,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "45",
-        "word_num": 21,
-        "word": "ῥήματος",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "τοῦ ῥήματος",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1237177,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "45",
-        "word_num": 29,
-        "word": "statement",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "statement",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοῦ ῥήματος = statement",
-    "frequency": 0.015873015873015872,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -896,7 +423,1832 @@
     "targetWordsTxt": "word",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ ῥῆμα = word",
-    "frequency": 0.015873015873015872,
+    "frequency": 0.0625,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508558",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "37",
+    "alignment_num": "3",
+    "orig_lang_words": ",1490969,",
+    "target_lang_words": ",1281243,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490969,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "37",
+        "word_num": 4,
+        "word": "ῥῆμα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ῥῆμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1281243,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "37",
+        "word_num": 3,
+        "word": "message",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "message",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥῆμα = message",
+    "frequency": 0.0625,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519776",
+    "book_id": "act",
+    "chapter": "28",
+    "verse": "25",
+    "alignment_num": "9",
+    "orig_lang_words": ",1502498,",
+    "target_lang_words": ",1296653,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502498,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "25",
+        "word_num": 9,
+        "word": "ῥῆμα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ῥῆμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1296653,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "25",
+        "word_num": 16,
+        "word": "statement",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "statement",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥῆμα = statement",
+    "frequency": 0.125,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523931",
+    "book_id": "rom",
+    "chapter": "10",
+    "verse": "8",
+    "alignment_num": "18",
+    "orig_lang_words": ",1507021,",
+    "target_lang_words": ",1303035,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507021,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "8",
+        "word_num": 20,
+        "word": "ῥῆμα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ῥῆμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1303035,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "8",
+        "word_num": 20,
+        "word": "word",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "word",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥῆμα = word",
+    "frequency": 0.3125,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537164",
+    "book_id": "2co",
+    "chapter": "13",
+    "verse": "1",
+    "alignment_num": "6",
+    "orig_lang_words": ",1520816,",
+    "target_lang_words": ",1322609,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520816,
+        "book_id": "2co",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 13,
+        "word": "ῥῆμα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ῥῆμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1322609,
+        "book_id": "2co",
+        "chapter": "13",
+        "verse": "1",
+        "word_num": 12,
+        "word": "matter",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "matter",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥῆμα = matter",
+    "frequency": 0.0625,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541814",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "17",
+    "alignment_num": "14",
+    "orig_lang_words": ",1525559,",
+    "target_lang_words": ",1329183,1329184,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525559,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "17",
+        "word_num": 13,
+        "word": "ῥῆμα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ῥῆμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1329183,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "17",
+        "word_num": 14,
+        "word": "the",
+        "occurrence": 4
+      },
+      {
+        "id": 1329184,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "17",
+        "word_num": 15,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the word",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ῥῆμα = the word",
+    "frequency": 0.125,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552329",
+    "book_id": "heb",
+    "chapter": "6",
+    "verse": "5",
+    "alignment_num": "4",
+    "orig_lang_words": ",1536448,",
+    "target_lang_words": ",1344318,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536448,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 4,
+        "word": "ῥῆμα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ῥῆμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344318,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 6,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "word",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥῆμα = word",
+    "frequency": 0.3125,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557719",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "25",
+    "alignment_num": "2",
+    "orig_lang_words": ",1542090,",
+    "target_lang_words": ",1352433,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542090,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 2,
+        "word": "ῥῆμα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ῥῆμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352433,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 2,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "word",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥῆμα = word",
+    "frequency": 0.3125,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557726",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "25",
+    "alignment_num": "9",
+    "orig_lang_words": ",1542100,",
+    "target_lang_words": ",1352442,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542100,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 12,
+        "word": "ῥῆμα",
+        "occurrence": 2,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ῥῆμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352442,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 11,
+        "word": "word",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "word",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥῆμα = word",
+    "frequency": 0.3125,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469025",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "38",
+    "alignment_num": "11",
+    "orig_lang_words": ",1449702,1449703,",
+    "target_lang_words": ",1227529,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1449702,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "38",
+        "word_num": 10,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1449703,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "38",
+        "word_num": 11,
+        "word": "ῥῆμά",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ῥῆμά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1227529,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "38",
+        "word_num": 20,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "word",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ῥῆμά = word",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470016",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "29",
+    "alignment_num": "10",
+    "orig_lang_words": ",1450747,1450748,",
+    "target_lang_words": ",1228901,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1450747,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "29",
+        "word_num": 7,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1450748,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "29",
+        "word_num": 8,
+        "word": "ῥῆμά",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ῥῆμά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1228901,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "29",
+        "word_num": 11,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "word",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ῥῆμά = word",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523917",
+    "book_id": "rom",
+    "chapter": "10",
+    "verse": "8",
+    "alignment_num": "4",
+    "orig_lang_words": ",1507007,",
+    "target_lang_words": ",1303021,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507007,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "8",
+        "word_num": 6,
+        "word": "ῥῆμά",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ῥῆμά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1303021,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "8",
+        "word_num": 6,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "word",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥῆμά = word",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469365",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "65",
+    "alignment_num": "11",
+    "orig_lang_words": ",1450076,1450077,",
+    "target_lang_words": ",1227986,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1450076,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "65",
+        "word_num": 17,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1450077,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "65",
+        "word_num": 18,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ῥήματα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1227986,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "65",
+        "word_num": 13,
+        "word": "matters",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "matters",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ῥήματα = matters",
+    "frequency": 0.041666666666666664,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469829",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "19",
+    "alignment_num": "5",
+    "orig_lang_words": ",1450553,1450554,",
+    "target_lang_words": ",1228652,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1450553,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 5,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1450554,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 6,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ῥήματα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1228652,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 5,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "things",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ῥήματα = things",
+    "frequency": 0.08333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470356",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "51",
+    "alignment_num": "18",
+    "orig_lang_words": ",1451098,",
+    "target_lang_words": ",1229352,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1451098,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "51",
+        "word_num": 19,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1229352,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "51",
+        "word_num": 21,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "things",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = things",
+    "frequency": 0.041666666666666664,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473362",
+    "book_id": "luk",
+    "chapter": "7",
+    "verse": "1",
+    "alignment_num": "4",
+    "orig_lang_words": ",1454148,1454149,",
+    "target_lang_words": ",1233367,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1454148,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 3,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1454149,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 4,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ῥήματα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1233367,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "1",
+        "word_num": 6,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ῥήματα = words",
+    "frequency": 0.20833333333333334,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "486886",
+    "book_id": "luk",
+    "chapter": "24",
+    "verse": "11",
+    "alignment_num": "2",
+    "orig_lang_words": ",1467864,1467865,",
+    "target_lang_words": ",1251844,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1467864,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 6,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1467865,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 7,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ῥήματα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1251844,
+        "book_id": "luk",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 2,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ῥήματα = words",
+    "frequency": 0.20833333333333334,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489253",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "34",
+    "alignment_num": "6",
+    "orig_lang_words": ",1470395,",
+    "target_lang_words": ",1254977,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1470395,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "34",
+        "word_num": 6,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254977,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "34",
+        "word_num": 9,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491906",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "63",
+    "alignment_num": "9",
+    "orig_lang_words": ",1473299,",
+    "target_lang_words": ",1258560,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473299,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "63",
+        "word_num": 11,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258560,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "63",
+        "word_num": 12,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491988",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "68",
+    "alignment_num": "9",
+    "orig_lang_words": ",1473389,",
+    "target_lang_words": ",1258674,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473389,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "68",
+        "word_num": 8,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258674,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "68",
+        "word_num": 12,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493007",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "20",
+    "alignment_num": "2",
+    "orig_lang_words": ",1474609,1474610,",
+    "target_lang_words": ",1260176,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1474609,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "20",
+        "word_num": 1,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1474610,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "20",
+        "word_num": 2,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ῥήματα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260176,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "20",
+        "word_num": 3,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ῥήματα = words",
+    "frequency": 0.20833333333333334,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493482",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "47",
+    "alignment_num": "5",
+    "orig_lang_words": ",1475126,",
+    "target_lang_words": ",1260802,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475126,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "47",
+        "word_num": 6,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260802,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "47",
+        "word_num": 7,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494686",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "21",
+    "alignment_num": "6",
+    "orig_lang_words": ",1476402,",
+    "target_lang_words": ",1262422,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476402,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "21",
+        "word_num": 4,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262422,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "21",
+        "word_num": 6,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497467",
+    "book_id": "jhn",
+    "chapter": "14",
+    "verse": "10",
+    "alignment_num": "16",
+    "orig_lang_words": ",1479400,",
+    "target_lang_words": ",1266222,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1479400,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 14,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1266222,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 17,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499011",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "8",
+    "alignment_num": "4",
+    "orig_lang_words": ",1481014,",
+    "target_lang_words": ",1268383,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481014,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "8",
+        "word_num": 2,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1268383,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "8",
+        "word_num": 6,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504724",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "20",
+    "alignment_num": "12",
+    "orig_lang_words": ",1487030,",
+    "target_lang_words": ",1276086,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487030,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 11,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276086,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "20",
+        "word_num": 13,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505329",
+    "book_id": "act",
+    "chapter": "6",
+    "verse": "11",
+    "alignment_num": "8",
+    "orig_lang_words": ",1487648,",
+    "target_lang_words": ",1276908,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487648,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "11",
+        "word_num": 8,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276908,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "11",
+        "word_num": 12,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505363",
+    "book_id": "act",
+    "chapter": "6",
+    "verse": "13",
+    "alignment_num": "9",
+    "orig_lang_words": ",1487685,",
+    "target_lang_words": ",1276948,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487685,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 11,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276948,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 11,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508317",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "22",
+    "alignment_num": "31",
+    "orig_lang_words": ",1490718,",
+    "target_lang_words": ",1280900,1280901,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490718,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "22",
+        "word_num": 31,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1280900,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "22",
+        "word_num": 42,
+        "word": "a",
+        "occurrence": 4
+      },
+      {
+        "id": 1280901,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "22",
+        "word_num": 43,
+        "word": "message",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a message",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ῥήματα = a message",
+    "frequency": 0.08333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508697",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "44",
+    "alignment_num": "6",
+    "orig_lang_words": ",1491110,1491111,",
+    "target_lang_words": ",1281428,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1491110,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "44",
+        "word_num": 4,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1491111,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "44",
+        "word_num": 5,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ῥήματα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1281428,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "44",
+        "word_num": 6,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "things",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ῥήματα = things",
+    "frequency": 0.08333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508981",
+    "book_id": "act",
+    "chapter": "11",
+    "verse": "14",
+    "alignment_num": "4",
+    "orig_lang_words": ",1491408,",
+    "target_lang_words": ",1281806,1281807,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491408,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "14",
+        "word_num": 2,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1281806,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "14",
+        "word_num": 5,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1281807,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "14",
+        "word_num": 6,
+        "word": "message",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a message",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ῥήματα = a message",
+    "frequency": 0.08333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510487",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "42",
+    "alignment_num": "8",
+    "orig_lang_words": ",1492951,",
+    "target_lang_words": ",1283861,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492951,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "42",
+        "word_num": 11,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283861,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "42",
+        "word_num": 12,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512471",
+    "book_id": "act",
+    "chapter": "16",
+    "verse": "38",
+    "alignment_num": "5",
+    "orig_lang_words": ",1494996,1494997,",
+    "target_lang_words": ",1286555,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1494996,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "38",
+        "word_num": 6,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1494997,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "38",
+        "word_num": 7,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ῥήματα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1286555,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "38",
+        "word_num": 5,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ῥήματα = words",
+    "frequency": 0.20833333333333334,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518460",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "25",
+    "alignment_num": "13",
+    "orig_lang_words": ",1501143,",
+    "target_lang_words": ",1294779,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501143,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "25",
+        "word_num": 12,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1294779,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "25",
+        "word_num": 17,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524070",
+    "book_id": "rom",
+    "chapter": "10",
+    "verse": "18",
+    "alignment_num": "15",
+    "orig_lang_words": ",1507178,1507179,",
+    "target_lang_words": ",1303243,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1507178,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 20,
+        "word": "τὰ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1507179,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 21,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ῥήματα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1303243,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 21,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ῥήματα = words",
+    "frequency": 0.20833333333333334,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536806",
+    "book_id": "2co",
+    "chapter": "12",
+    "verse": "4",
+    "alignment_num": "7",
+    "orig_lang_words": ",1520455,",
+    "target_lang_words": ",1322062,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520455,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "4",
+        "word_num": 8,
+        "word": "ῥήματα",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1322062,
+        "book_id": "2co",
+        "chapter": "12",
+        "verse": "4",
+        "word_num": 10,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματα = words",
+    "frequency": 0.5416666666666666,
+    "matchCount": 13,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469804",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "5",
+    "orig_lang_words": ",1450527,",
+    "target_lang_words": ",1228618,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1450527,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 5,
+        "word": "ῥήματος",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ῥήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1228618,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 11,
+        "word": "message",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "message",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματος = message",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "476178",
+    "book_id": "luk",
+    "chapter": "9",
+    "verse": "45",
+    "alignment_num": "21",
+    "orig_lang_words": ",1456978,1456979,",
+    "target_lang_words": ",1237177,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1456978,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "45",
+        "word_num": 20,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNS,"
+      },
+      {
+        "id": 1456979,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "45",
+        "word_num": 21,
+        "word": "ῥήματος",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "τοῦ ῥήματος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1237177,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "45",
+        "word_num": 29,
+        "word": "statement",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "statement",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοῦ ῥήματος = statement",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -958,7 +2310,8 @@
     "targetWordsTxt": "what he said",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ῥήματος = what he said",
-    "frequency": 0.015873015873015872,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1002,7 +2355,164 @@
     "targetWordsTxt": "word",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ῥήματος = word",
-    "frequency": 0.031746031746031744,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "509010",
+    "book_id": "act",
+    "chapter": "11",
+    "verse": "16",
+    "alignment_num": "3",
+    "orig_lang_words": ",1491442,",
+    "target_lang_words": ",1281843,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491442,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 3,
+        "word": "ῥήματος",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ῥήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1281843,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 4,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "word",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματος = word",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524053",
+    "book_id": "rom",
+    "chapter": "10",
+    "verse": "17",
+    "alignment_num": "6",
+    "orig_lang_words": ",1507156,",
+    "target_lang_words": ",1303218,1303219,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507156,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "17",
+        "word_num": 9,
+        "word": "ῥήματος",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "ῥήματος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1303218,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "17",
+        "word_num": 8,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1303219,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "17",
+        "word_num": 9,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the word",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ῥήματος = the word",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "471799",
+    "book_id": "luk",
+    "chapter": "5",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1452565,1452566,",
+    "target_lang_words": ",1231252,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1452565,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 13,
+        "word": "τῷ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1452566,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 14,
+        "word": "ῥήματί",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ ῥήματί",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1231252,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 18,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "word",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῷ ῥήματί = word",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1058,383 +2568,8 @@
     "targetWordsTxt": "words",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῶν ῥημάτων = words",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "486886",
-    "book_id": "luk",
-    "chapter": "24",
-    "verse": "11",
-    "alignment_num": "2",
-    "orig_lang_words": ",1467864,1467865,",
-    "target_lang_words": ",1251844,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1467864,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "11",
-        "word_num": 6,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNP,"
-      },
-      {
-        "id": 1467865,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "11",
-        "word_num": 7,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ῥήματα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1251844,
-        "book_id": "luk",
-        "chapter": "24",
-        "verse": "11",
-        "word_num": 2,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ῥήματα = words",
-    "frequency": 0.07936507936507936,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "489253",
-    "book_id": "jhn",
-    "chapter": "3",
-    "verse": "34",
-    "alignment_num": "6",
-    "orig_lang_words": ",1470395,",
-    "target_lang_words": ",1254977,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1470395,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "34",
-        "word_num": 6,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1254977,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "34",
-        "word_num": 9,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490905",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "47",
-    "alignment_num": "10",
-    "orig_lang_words": ",1472197,",
-    "target_lang_words": ",1257204,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1472197,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "47",
-        "word_num": 10,
-        "word": "ῥήμασιν",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "ῥήμασιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1257204,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "47",
-        "word_num": 13,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήμασιν = words",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491906",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "63",
-    "alignment_num": "9",
-    "orig_lang_words": ",1473299,",
-    "target_lang_words": ",1258560,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1473299,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "63",
-        "word_num": 11,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258560,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "63",
-        "word_num": 12,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491988",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "68",
-    "alignment_num": "9",
-    "orig_lang_words": ",1473389,",
-    "target_lang_words": ",1258674,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1473389,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "68",
-        "word_num": 8,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258674,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "68",
-        "word_num": 12,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493007",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "20",
-    "alignment_num": "2",
-    "orig_lang_words": ",1474609,1474610,",
-    "target_lang_words": ",1260176,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1474609,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "20",
-        "word_num": 1,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1474610,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "20",
-        "word_num": 2,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ῥήματα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1260176,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "20",
-        "word_num": 3,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ῥήματα = words",
-    "frequency": 0.07936507936507936,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493482",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "47",
-    "alignment_num": "5",
-    "orig_lang_words": ",1475126,",
-    "target_lang_words": ",1260802,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475126,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "47",
-        "word_num": 6,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1260802,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "47",
-        "word_num": 7,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494686",
-    "book_id": "jhn",
-    "chapter": "10",
-    "verse": "21",
-    "alignment_num": "6",
-    "orig_lang_words": ",1476402,",
-    "target_lang_words": ",1262422,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1476402,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "21",
-        "word_num": 4,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1262422,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "21",
-        "word_num": 6,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1490,295 +2625,8 @@
     "targetWordsTxt": "words",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῶν ῥημάτων = words",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "496646",
-    "book_id": "jhn",
-    "chapter": "12",
-    "verse": "48",
-    "alignment_num": "7",
-    "orig_lang_words": ",1478518,1478519,",
-    "target_lang_words": ",1265074,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1478518,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "48",
-        "word_num": 6,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1478519,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "48",
-        "word_num": 7,
-        "word": "ῥήματά",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ῥήματά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1265074,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "48",
-        "word_num": 11,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ῥήματά = words",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "497467",
-    "book_id": "jhn",
-    "chapter": "14",
-    "verse": "10",
-    "alignment_num": "16",
-    "orig_lang_words": ",1479400,",
-    "target_lang_words": ",1266222,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1479400,
-        "book_id": "jhn",
-        "chapter": "14",
-        "verse": "10",
-        "word_num": 14,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1266222,
-        "book_id": "jhn",
-        "chapter": "14",
-        "verse": "10",
-        "word_num": 17,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "497972",
-    "book_id": "jhn",
-    "chapter": "15",
-    "verse": "7",
-    "alignment_num": "6",
-    "orig_lang_words": ",1479937,1479938,",
-    "target_lang_words": ",1266919,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1479937,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "7",
-        "word_num": 5,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNP,"
-      },
-      {
-        "id": 1479938,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "7",
-        "word_num": 6,
-        "word": "ῥήματά",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ῥήματά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1266919,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "7",
-        "word_num": 8,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ῥήματά = words",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499011",
-    "book_id": "jhn",
-    "chapter": "17",
-    "verse": "8",
-    "alignment_num": "4",
-    "orig_lang_words": ",1481014,",
-    "target_lang_words": ",1268383,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481014,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "8",
-        "word_num": 2,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1268383,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "8",
-        "word_num": 6,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502649",
-    "book_id": "act",
-    "chapter": "2",
-    "verse": "14",
-    "alignment_num": "28",
-    "orig_lang_words": ",1484884,",
-    "target_lang_words": ",1273347,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484884,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 28,
-        "word": "ῥήματά",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματά",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1273347,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 35,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματά = words",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504724",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "20",
-    "alignment_num": "12",
-    "orig_lang_words": ",1487030,",
-    "target_lang_words": ",1276086,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487030,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "20",
-        "word_num": 11,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276086,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "20",
-        "word_num": 13,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1822,1056 +2670,8 @@
     "targetWordsTxt": "things",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ῥημάτων = things",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505329",
-    "book_id": "act",
-    "chapter": "6",
-    "verse": "11",
-    "alignment_num": "8",
-    "orig_lang_words": ",1487648,",
-    "target_lang_words": ",1276908,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487648,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "11",
-        "word_num": 8,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276908,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "11",
-        "word_num": 12,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505363",
-    "book_id": "act",
-    "chapter": "6",
-    "verse": "13",
-    "alignment_num": "9",
-    "orig_lang_words": ",1487685,",
-    "target_lang_words": ",1276948,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487685,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 11,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276948,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 11,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508317",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "22",
-    "alignment_num": "31",
-    "orig_lang_words": ",1490718,",
-    "target_lang_words": ",1280900,1280901,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490718,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "22",
-        "word_num": 31,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1280900,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "22",
-        "word_num": 42,
-        "word": "a",
-        "occurrence": 4
-      },
-      {
-        "id": 1280901,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "22",
-        "word_num": 43,
-        "word": "message",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a message",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ῥήματα = a message",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508558",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "37",
-    "alignment_num": "3",
-    "orig_lang_words": ",1490969,",
-    "target_lang_words": ",1281243,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490969,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "37",
-        "word_num": 4,
-        "word": "ῥῆμα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ῥῆμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1281243,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "37",
-        "word_num": 3,
-        "word": "message",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "message",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥῆμα = message",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508697",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "44",
-    "alignment_num": "6",
-    "orig_lang_words": ",1491110,1491111,",
-    "target_lang_words": ",1281428,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1491110,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "44",
-        "word_num": 4,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1491111,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "44",
-        "word_num": 5,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ῥήματα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1281428,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "44",
-        "word_num": 6,
-        "word": "things",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "things",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ῥήματα = things",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508981",
-    "book_id": "act",
-    "chapter": "11",
-    "verse": "14",
-    "alignment_num": "4",
-    "orig_lang_words": ",1491408,",
-    "target_lang_words": ",1281806,1281807,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491408,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "14",
-        "word_num": 2,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1281806,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "14",
-        "word_num": 5,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1281807,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "14",
-        "word_num": 6,
-        "word": "message",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a message",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ῥήματα = a message",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "509010",
-    "book_id": "act",
-    "chapter": "11",
-    "verse": "16",
-    "alignment_num": "3",
-    "orig_lang_words": ",1491442,",
-    "target_lang_words": ",1281843,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491442,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 3,
-        "word": "ῥήματος",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ῥήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1281843,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 4,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "word",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματος = word",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510487",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "42",
-    "alignment_num": "8",
-    "orig_lang_words": ",1492951,",
-    "target_lang_words": ",1283861,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492951,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "42",
-        "word_num": 11,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1283861,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "42",
-        "word_num": 12,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "512471",
-    "book_id": "act",
-    "chapter": "16",
-    "verse": "38",
-    "alignment_num": "5",
-    "orig_lang_words": ",1494996,1494997,",
-    "target_lang_words": ",1286555,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1494996,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "38",
-        "word_num": 6,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1494997,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "38",
-        "word_num": 7,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ῥήματα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1286555,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "38",
-        "word_num": 5,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ῥήματα = words",
-    "frequency": 0.07936507936507936,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "518460",
-    "book_id": "act",
-    "chapter": "26",
-    "verse": "25",
-    "alignment_num": "13",
-    "orig_lang_words": ",1501143,",
-    "target_lang_words": ",1294779,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1501143,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "25",
-        "word_num": 12,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1294779,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "25",
-        "word_num": 17,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "519776",
-    "book_id": "act",
-    "chapter": "28",
-    "verse": "25",
-    "alignment_num": "9",
-    "orig_lang_words": ",1502498,",
-    "target_lang_words": ",1296653,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502498,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "25",
-        "word_num": 9,
-        "word": "ῥῆμα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ῥῆμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1296653,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "25",
-        "word_num": 16,
-        "word": "statement",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "statement",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥῆμα = statement",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523917",
-    "book_id": "rom",
-    "chapter": "10",
-    "verse": "8",
-    "alignment_num": "4",
-    "orig_lang_words": ",1507007,",
-    "target_lang_words": ",1303021,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1507007,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "8",
-        "word_num": 6,
-        "word": "ῥῆμά",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "ῥῆμά",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1303021,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "8",
-        "word_num": 6,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "word",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥῆμά = word",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523931",
-    "book_id": "rom",
-    "chapter": "10",
-    "verse": "8",
-    "alignment_num": "18",
-    "orig_lang_words": ",1507021,",
-    "target_lang_words": ",1303035,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1507021,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "8",
-        "word_num": 20,
-        "word": "ῥῆμα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "ῥῆμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1303035,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "8",
-        "word_num": 20,
-        "word": "word",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "word",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥῆμα = word",
-    "frequency": 0.07936507936507936,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524053",
-    "book_id": "rom",
-    "chapter": "10",
-    "verse": "17",
-    "alignment_num": "6",
-    "orig_lang_words": ",1507156,",
-    "target_lang_words": ",1303218,1303219,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1507156,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "17",
-        "word_num": 9,
-        "word": "ῥήματος",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "ῥήματος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1303218,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "17",
-        "word_num": 8,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1303219,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "17",
-        "word_num": 9,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the word",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ῥήματος = the word",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524070",
-    "book_id": "rom",
-    "chapter": "10",
-    "verse": "18",
-    "alignment_num": "15",
-    "orig_lang_words": ",1507178,1507179,",
-    "target_lang_words": ",1303243,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1507178,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 20,
-        "word": "τὰ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNP,"
-      },
-      {
-        "id": 1507179,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 21,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ῥήματα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1303243,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 21,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ῥήματα = words",
-    "frequency": 0.07936507936507936,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536806",
-    "book_id": "2co",
-    "chapter": "12",
-    "verse": "4",
-    "alignment_num": "7",
-    "orig_lang_words": ",1520455,",
-    "target_lang_words": ",1322062,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520455,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "4",
-        "word_num": 8,
-        "word": "ῥήματα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ῥήματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1322062,
-        "book_id": "2co",
-        "chapter": "12",
-        "verse": "4",
-        "word_num": 10,
-        "word": "words",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "words",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματα = words",
-    "frequency": 0.20634920634920634,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537164",
-    "book_id": "2co",
-    "chapter": "13",
-    "verse": "1",
-    "alignment_num": "6",
-    "orig_lang_words": ",1520816,",
-    "target_lang_words": ",1322609,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520816,
-        "book_id": "2co",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 13,
-        "word": "ῥῆμα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "ῥῆμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1322609,
-        "book_id": "2co",
-        "chapter": "13",
-        "verse": "1",
-        "word_num": 12,
-        "word": "matter",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "matter",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥῆμα = matter",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541434",
-    "book_id": "eph",
-    "chapter": "5",
-    "verse": "26",
-    "alignment_num": "10",
-    "orig_lang_words": ",1525167,",
-    "target_lang_words": ",1328707,1328708,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525167,
-        "book_id": "eph",
-        "chapter": "5",
-        "verse": "26",
-        "word_num": 9,
-        "word": "ῥήματι",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "ῥήματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1328707,
-        "book_id": "eph",
-        "chapter": "5",
-        "verse": "26",
-        "word_num": 15,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1328708,
-        "book_id": "eph",
-        "chapter": "5",
-        "verse": "26",
-        "word_num": 16,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the word",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ῥήματι = the word",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541814",
-    "book_id": "eph",
-    "chapter": "6",
-    "verse": "17",
-    "alignment_num": "14",
-    "orig_lang_words": ",1525559,",
-    "target_lang_words": ",1329183,1329184,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525559,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "17",
-        "word_num": 13,
-        "word": "ῥῆμα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "ῥῆμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1329183,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "17",
-        "word_num": 14,
-        "word": "the",
-        "occurrence": 4
-      },
-      {
-        "id": 1329184,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "17",
-        "word_num": 15,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the word",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ῥῆμα = the word",
-    "frequency": 0.031746031746031744,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551011",
-    "book_id": "heb",
-    "chapter": "1",
-    "verse": "3",
-    "alignment_num": "14",
-    "orig_lang_words": ",1535062,",
-    "target_lang_words": ",1342348,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535062,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 15,
-        "word": "ῥήματι",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "ῥήματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1342348,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 21,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "word",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματι = word",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552329",
-    "book_id": "heb",
-    "chapter": "6",
-    "verse": "5",
-    "alignment_num": "4",
-    "orig_lang_words": ",1536448,",
-    "target_lang_words": ",1344318,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536448,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 4,
-        "word": "ῥῆμα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ῥῆμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344318,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 6,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "word",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥῆμα = word",
-    "frequency": 0.07936507936507936,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554289",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "3",
-    "alignment_num": "5",
-    "orig_lang_words": ",1538496,",
-    "target_lang_words": ",1347300,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538496,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "3",
-        "word_num": 5,
-        "word": "ῥήματι",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "ῥήματι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1347300,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "3",
-        "word_num": 9,
-        "word": "by",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "by",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥήματι = by",
-    "frequency": 0.015873015873015872,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2933,95 +2733,8 @@
     "targetWordsTxt": "that speaks words",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ῥημάτων = that speaks words",
-    "frequency": 0.015873015873015872,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557719",
-    "book_id": "1pe",
-    "chapter": "1",
-    "verse": "25",
-    "alignment_num": "2",
-    "orig_lang_words": ",1542090,",
-    "target_lang_words": ",1352433,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542090,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "25",
-        "word_num": 2,
-        "word": "ῥῆμα",
-        "occurrence": 1,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "ῥῆμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1352433,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "25",
-        "word_num": 2,
-        "word": "word",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "word",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥῆμα = word",
-    "frequency": 0.07936507936507936,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557726",
-    "book_id": "1pe",
-    "chapter": "1",
-    "verse": "25",
-    "alignment_num": "9",
-    "orig_lang_words": ",1542100,",
-    "target_lang_words": ",1352442,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542100,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "25",
-        "word_num": 12,
-        "word": "ῥῆμα",
-        "occurrence": 2,
-        "strong": "G44870",
-        "lemma": "ῥῆμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "ῥῆμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1352442,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "25",
-        "word_num": 11,
-        "word": "word",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "word",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥῆμα = word",
-    "frequency": 0.07936507936507936,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3065,7 +2778,8 @@
     "targetWordsTxt": "words",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ῥημάτων = words",
-    "frequency": 0.031746031746031744,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3109,7 +2823,356 @@
     "targetWordsTxt": "words",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ῥημάτων = words",
-    "frequency": 0.031746031746031744,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490905",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "47",
+    "alignment_num": "10",
+    "orig_lang_words": ",1472197,",
+    "target_lang_words": ",1257204,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1472197,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "47",
+        "word_num": 10,
+        "word": "ῥήμασιν",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ῥήμασιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1257204,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "47",
+        "word_num": 13,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήμασιν = words",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "496646",
+    "book_id": "jhn",
+    "chapter": "12",
+    "verse": "48",
+    "alignment_num": "7",
+    "orig_lang_words": ",1478518,1478519,",
+    "target_lang_words": ",1265074,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1478518,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "48",
+        "word_num": 6,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1478519,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "48",
+        "word_num": 7,
+        "word": "ῥήματά",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ῥήματά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1265074,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "48",
+        "word_num": 11,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ῥήματά = words",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497972",
+    "book_id": "jhn",
+    "chapter": "15",
+    "verse": "7",
+    "alignment_num": "6",
+    "orig_lang_words": ",1479937,1479938,",
+    "target_lang_words": ",1266919,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1479937,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "7",
+        "word_num": 5,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1479938,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "7",
+        "word_num": 6,
+        "word": "ῥήματά",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ῥήματά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1266919,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "7",
+        "word_num": 8,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ῥήματά = words",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502649",
+    "book_id": "act",
+    "chapter": "2",
+    "verse": "14",
+    "alignment_num": "28",
+    "orig_lang_words": ",1484884,",
+    "target_lang_words": ",1273347,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484884,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 28,
+        "word": "ῥήματά",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ῥήματά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1273347,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 35,
+        "word": "words",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "words",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματά = words",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541434",
+    "book_id": "eph",
+    "chapter": "5",
+    "verse": "26",
+    "alignment_num": "10",
+    "orig_lang_words": ",1525167,",
+    "target_lang_words": ",1328707,1328708,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525167,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "26",
+        "word_num": 9,
+        "word": "ῥήματι",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ῥήματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1328707,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "26",
+        "word_num": 15,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1328708,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "26",
+        "word_num": 16,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the word",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ῥήματι = the word",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551011",
+    "book_id": "heb",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "14",
+    "orig_lang_words": ",1535062,",
+    "target_lang_words": ",1342348,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535062,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 15,
+        "word": "ῥήματι",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ῥήματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1342348,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 21,
+        "word": "word",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "word",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματι = word",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554289",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "3",
+    "alignment_num": "5",
+    "orig_lang_words": ",1538496,",
+    "target_lang_words": ",1347300,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538496,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "3",
+        "word_num": 5,
+        "word": "ῥήματι",
+        "occurrence": 1,
+        "strong": "G44870",
+        "lemma": "ῥῆμα",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ῥήματι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1347300,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "3",
+        "word_num": 9,
+        "word": "by",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "by",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥήματι = by",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

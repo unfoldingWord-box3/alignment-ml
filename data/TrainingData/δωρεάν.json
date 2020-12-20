@@ -57,7 +57,107 @@
     "targetWordsTxt": "without a cause",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δωρεάν = without a cause",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570723",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "6",
+    "alignment_num": "19",
+    "orig_lang_words": ",1556454,",
+    "target_lang_words": ",1370859,1370860,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556454,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "6",
+        "word_num": 26,
+        "word": "δωρεάν",
+        "occurrence": 1,
+        "strong": "G14320",
+        "lemma": "δωρεάν",
+        "morph": "Gr,D,,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "δωρεάν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1370859,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "6",
+        "word_num": 29,
+        "word": "without",
+        "occurrence": 1
+      },
+      {
+        "id": 1370860,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "6",
+        "word_num": 30,
+        "word": "cost",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "without cost",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δωρεάν = without cost",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571452",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "17",
+    "alignment_num": "18",
+    "orig_lang_words": ",1557276,",
+    "target_lang_words": ",1371897,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1557276,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "17",
+        "word_num": 22,
+        "word": "δωρεάν",
+        "occurrence": 1,
+        "strong": "G14320",
+        "lemma": "δωρεάν",
+        "morph": "Gr,D,,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "δωρεάν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371897,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "17",
+        "word_num": 32,
+        "word": "freely",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "freely",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δωρεάν = freely",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +201,8 @@
     "targetWordsTxt": "freely",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δωρεὰν = freely",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +246,8 @@
     "targetWordsTxt": "freely",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δωρεὰν = freely",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +300,8 @@
     "targetWordsTxt": "for nothing",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δωρεὰν = for nothing",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -269,104 +372,8 @@
     "targetWordsTxt": "without paying for it",
     "alignmentTargetWords": 4,
     "alignmentTxt": "δωρεὰν = without paying for it",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "570723",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "6",
-    "alignment_num": "19",
-    "orig_lang_words": ",1556454,",
-    "target_lang_words": ",1370859,1370860,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556454,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "6",
-        "word_num": 26,
-        "word": "δωρεάν",
-        "occurrence": 1,
-        "strong": "G14320",
-        "lemma": "δωρεάν",
-        "morph": "Gr,D,,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "δωρεάν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1370859,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "6",
-        "word_num": 29,
-        "word": "without",
-        "occurrence": 1
-      },
-      {
-        "id": 1370860,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "6",
-        "word_num": 30,
-        "word": "cost",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "without cost",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δωρεάν = without cost",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571452",
-    "book_id": "rev",
-    "chapter": "22",
-    "verse": "17",
-    "alignment_num": "18",
-    "orig_lang_words": ",1557276,",
-    "target_lang_words": ",1371897,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1557276,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "17",
-        "word_num": 22,
-        "word": "δωρεάν",
-        "occurrence": 1,
-        "strong": "G14320",
-        "lemma": "δωρεάν",
-        "morph": "Gr,D,,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "δωρεάν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371897,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "17",
-        "word_num": 32,
-        "word": "freely",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "freely",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δωρεάν = freely",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

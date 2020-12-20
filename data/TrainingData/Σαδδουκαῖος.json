@@ -39,51 +39,8 @@
     "targetWordsTxt": "Sadducees",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Σαδδουκαῖοι = Sadducees",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "483973",
-    "book_id": "luk",
-    "chapter": "20",
-    "verse": "27",
-    "alignment_num": "2",
-    "orig_lang_words": ",1464926,",
-    "target_lang_words": ",1247929,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1464926,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "27",
-        "word_num": 4,
-        "word": "Σαδδουκαίων",
-        "occurrence": 1,
-        "strong": "G45230",
-        "lemma": "Σαδδουκαῖος",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "Σαδδουκαίων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1247929,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "27",
-        "word_num": 2,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σαδδουκαίων = of",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,139 +84,8 @@
     "targetWordsTxt": "Sadducees",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Σαδδουκαῖοι = Sadducees",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504678",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "17",
-    "alignment_num": "12",
-    "orig_lang_words": ",1486989,",
-    "target_lang_words": ",1276031,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1486989,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "17",
-        "word_num": 13,
-        "word": "Σαδδουκαίων",
-        "occurrence": 1,
-        "strong": "G45230",
-        "lemma": "Σαδδουκαῖος",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "Σαδδουκαίων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276031,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "17",
-        "word_num": 17,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σαδδουκαίων = of",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516447",
-    "book_id": "act",
-    "chapter": "23",
-    "verse": "6",
-    "alignment_num": "8",
-    "orig_lang_words": ",1499108,",
-    "target_lang_words": ",1291929,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499108,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "6",
-        "word_num": 9,
-        "word": "Σαδδουκαίων",
-        "occurrence": 1,
-        "strong": "G45230",
-        "lemma": "Σαδδουκαῖος",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "Σαδδουκαίων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1291929,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "6",
-        "word_num": 8,
-        "word": "Sadducees",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Sadducees",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σαδδουκαίων = Sadducees",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516480",
-    "book_id": "act",
-    "chapter": "23",
-    "verse": "7",
-    "alignment_num": "9",
-    "orig_lang_words": ",1499140,",
-    "target_lang_words": ",1291974,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499140,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "7",
-        "word_num": 9,
-        "word": "Σαδδουκαίων",
-        "occurrence": 1,
-        "strong": "G45230",
-        "lemma": "Σαδδουκαῖος",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "Σαδδουκαίων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1291974,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "7",
-        "word_num": 11,
-        "word": "Sadducees",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Sadducees",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σαδδουκαίων = Sadducees",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -312,7 +138,188 @@
     "targetWordsTxt": "the Sadducees",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Σαδδουκαῖοι = the Sadducees",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483973",
+    "book_id": "luk",
+    "chapter": "20",
+    "verse": "27",
+    "alignment_num": "2",
+    "orig_lang_words": ",1464926,",
+    "target_lang_words": ",1247929,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464926,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "27",
+        "word_num": 4,
+        "word": "Σαδδουκαίων",
+        "occurrence": 1,
+        "strong": "G45230",
+        "lemma": "Σαδδουκαῖος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "Σαδδουκαίων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1247929,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "27",
+        "word_num": 2,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σαδδουκαίων = of",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504678",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "17",
+    "alignment_num": "12",
+    "orig_lang_words": ",1486989,",
+    "target_lang_words": ",1276031,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1486989,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 13,
+        "word": "Σαδδουκαίων",
+        "occurrence": 1,
+        "strong": "G45230",
+        "lemma": "Σαδδουκαῖος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "Σαδδουκαίων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276031,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 17,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σαδδουκαίων = of",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516447",
+    "book_id": "act",
+    "chapter": "23",
+    "verse": "6",
+    "alignment_num": "8",
+    "orig_lang_words": ",1499108,",
+    "target_lang_words": ",1291929,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499108,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "6",
+        "word_num": 9,
+        "word": "Σαδδουκαίων",
+        "occurrence": 1,
+        "strong": "G45230",
+        "lemma": "Σαδδουκαῖος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "Σαδδουκαίων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1291929,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "6",
+        "word_num": 8,
+        "word": "Sadducees",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Sadducees",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σαδδουκαίων = Sadducees",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516480",
+    "book_id": "act",
+    "chapter": "23",
+    "verse": "7",
+    "alignment_num": "9",
+    "orig_lang_words": ",1499140,",
+    "target_lang_words": ",1291974,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499140,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "7",
+        "word_num": 9,
+        "word": "Σαδδουκαίων",
+        "occurrence": 1,
+        "strong": "G45230",
+        "lemma": "Σαδδουκαῖος",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "Σαδδουκαίων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1291974,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "7",
+        "word_num": 11,
+        "word": "Sadducees",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Sadducees",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σαδδουκαίων = Sadducees",
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

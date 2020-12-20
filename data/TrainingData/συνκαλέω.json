@@ -57,7 +57,8 @@
     "targetWordsTxt": "they called together",
     "alignmentTargetWords": 3,
     "alignmentTxt": "συνκαλοῦσιν = they called together",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -128,131 +129,8 @@
     "targetWordsTxt": "when he had called",
     "alignmentTargetWords": 4,
     "alignmentTxt": "συνκαλεσάμενος = when he had called",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "480515",
-    "book_id": "luk",
-    "chapter": "15",
-    "verse": "6",
-    "alignment_num": "5",
-    "orig_lang_words": ",1461420,",
-    "target_lang_words": ",1243085,1243086,1243087,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1461420,
-        "book_id": "luk",
-        "chapter": "15",
-        "verse": "6",
-        "word_num": 5,
-        "word": "συνκαλεῖ",
-        "occurrence": 1,
-        "strong": "G47790",
-        "lemma": "συνκαλέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "συνκαλεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1243085,
-        "book_id": "luk",
-        "chapter": "15",
-        "verse": "6",
-        "word_num": 7,
-        "word": "he",
-        "occurrence": 2
-      },
-      {
-        "id": 1243086,
-        "book_id": "luk",
-        "chapter": "15",
-        "verse": "6",
-        "word_num": 8,
-        "word": "calls",
-        "occurrence": 1
-      },
-      {
-        "id": 1243087,
-        "book_id": "luk",
-        "chapter": "15",
-        "verse": "6",
-        "word_num": 9,
-        "word": "together",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he calls together",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "συνκαλεῖ = he calls together",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "480578",
-    "book_id": "luk",
-    "chapter": "15",
-    "verse": "9",
-    "alignment_num": "2",
-    "orig_lang_words": ",1461485,",
-    "target_lang_words": ",1243173,1243174,1243175,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1461485,
-        "book_id": "luk",
-        "chapter": "15",
-        "verse": "9",
-        "word_num": 2,
-        "word": "συνκαλεῖ",
-        "occurrence": 1,
-        "strong": "G47790",
-        "lemma": "συνκαλέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "συνκαλεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1243173,
-        "book_id": "luk",
-        "chapter": "15",
-        "verse": "9",
-        "word_num": 6,
-        "word": "she",
-        "occurrence": 2
-      },
-      {
-        "id": 1243174,
-        "book_id": "luk",
-        "chapter": "15",
-        "verse": "9",
-        "word_num": 7,
-        "word": "calls",
-        "occurrence": 1
-      },
-      {
-        "id": 1243175,
-        "book_id": "luk",
-        "chapter": "15",
-        "verse": "9",
-        "word_num": 8,
-        "word": "together",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "she calls together",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "συνκαλεῖ = she calls together",
-    "frequency": 0.125,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -305,60 +183,8 @@
     "targetWordsTxt": "called together",
     "alignmentTargetWords": 2,
     "alignmentTxt": "συνκαλεσάμενος = called together",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504745",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "21",
-    "alignment_num": "17",
-    "orig_lang_words": ",1487053,",
-    "target_lang_words": ",1276115,1276116,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487053,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "21",
-        "word_num": 19,
-        "word": "συνεκάλεσαν",
-        "occurrence": 1,
-        "strong": "G47790",
-        "lemma": "συνκαλέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "συνεκάλεσαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1276115,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "21",
-        "word_num": 25,
-        "word": "calling",
-        "occurrence": 1
-      },
-      {
-        "id": 1276116,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "21",
-        "word_num": 26,
-        "word": "together",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "calling together",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "συνεκάλεσαν = calling together",
-    "frequency": 0.125,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -429,7 +255,188 @@
     "targetWordsTxt": "he had called together",
     "alignmentTargetWords": 4,
     "alignmentTxt": "συνκαλεσάμενος = he had called together",
-    "frequency": 0.125,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "480515",
+    "book_id": "luk",
+    "chapter": "15",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1461420,",
+    "target_lang_words": ",1243085,1243086,1243087,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1461420,
+        "book_id": "luk",
+        "chapter": "15",
+        "verse": "6",
+        "word_num": 5,
+        "word": "συνκαλεῖ",
+        "occurrence": 1,
+        "strong": "G47790",
+        "lemma": "συνκαλέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "συνκαλεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1243085,
+        "book_id": "luk",
+        "chapter": "15",
+        "verse": "6",
+        "word_num": 7,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 1243086,
+        "book_id": "luk",
+        "chapter": "15",
+        "verse": "6",
+        "word_num": 8,
+        "word": "calls",
+        "occurrence": 1
+      },
+      {
+        "id": 1243087,
+        "book_id": "luk",
+        "chapter": "15",
+        "verse": "6",
+        "word_num": 9,
+        "word": "together",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he calls together",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "συνκαλεῖ = he calls together",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "480578",
+    "book_id": "luk",
+    "chapter": "15",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1461485,",
+    "target_lang_words": ",1243173,1243174,1243175,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1461485,
+        "book_id": "luk",
+        "chapter": "15",
+        "verse": "9",
+        "word_num": 2,
+        "word": "συνκαλεῖ",
+        "occurrence": 1,
+        "strong": "G47790",
+        "lemma": "συνκαλέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "συνκαλεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1243173,
+        "book_id": "luk",
+        "chapter": "15",
+        "verse": "9",
+        "word_num": 6,
+        "word": "she",
+        "occurrence": 2
+      },
+      {
+        "id": 1243174,
+        "book_id": "luk",
+        "chapter": "15",
+        "verse": "9",
+        "word_num": 7,
+        "word": "calls",
+        "occurrence": 1
+      },
+      {
+        "id": 1243175,
+        "book_id": "luk",
+        "chapter": "15",
+        "verse": "9",
+        "word_num": 8,
+        "word": "together",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "she calls together",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "συνκαλεῖ = she calls together",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504745",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "21",
+    "alignment_num": "17",
+    "orig_lang_words": ",1487053,",
+    "target_lang_words": ",1276115,1276116,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487053,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "21",
+        "word_num": 19,
+        "word": "συνεκάλεσαν",
+        "occurrence": 1,
+        "strong": "G47790",
+        "lemma": "συνκαλέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "συνεκάλεσαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1276115,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "21",
+        "word_num": 25,
+        "word": "calling",
+        "occurrence": 1
+      },
+      {
+        "id": 1276116,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "21",
+        "word_num": 26,
+        "word": "together",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "calling together",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "συνεκάλεσαν = calling together",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -482,7 +489,8 @@
     "targetWordsTxt": "called together",
     "alignmentTargetWords": 2,
     "alignmentTxt": "συνκαλέσασθαι = called together",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

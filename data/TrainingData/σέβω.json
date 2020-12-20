@@ -48,7 +48,8 @@
     "targetWordsTxt": "They worship",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σέβονταί = They worship",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,104 +93,8 @@
     "targetWordsTxt": "devout",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σεβομένων = devout",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510641",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "50",
-    "alignment_num": "5",
-    "orig_lang_words": ",1493096,",
-    "target_lang_words": ",1284058,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1493096,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "50",
-        "word_num": 5,
-        "word": "σεβομένας",
-        "occurrence": 1,
-        "strong": "G45760",
-        "lemma": "σέβω",
-        "morph": "Gr,V,PPM,AFP,"
-      }
-    ],
-    "origWordsTxt": "σεβομένας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1284058,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "50",
-        "word_num": 6,
-        "word": "devout",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "devout",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σεβομένας = devout",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "512044",
-    "book_id": "act",
-    "chapter": "16",
-    "verse": "14",
-    "alignment_num": "7",
-    "orig_lang_words": ",1494554,",
-    "target_lang_words": ",1285970,1285971,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494554,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "14",
-        "word_num": 8,
-        "word": "σεβομένη",
-        "occurrence": 1,
-        "strong": "G45760",
-        "lemma": "σέβω",
-        "morph": "Gr,V,PPM,NFS,"
-      }
-    ],
-    "origWordsTxt": "σεβομένη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1285970,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "14",
-        "word_num": 14,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1285971,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "14",
-        "word_num": 15,
-        "word": "worshiped",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who worshiped",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "σεβομένη = who worshiped",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,7 +147,107 @@
     "targetWordsTxt": "of devout",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σεβομένων = of devout",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510641",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "50",
+    "alignment_num": "5",
+    "orig_lang_words": ",1493096,",
+    "target_lang_words": ",1284058,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1493096,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "50",
+        "word_num": 5,
+        "word": "σεβομένας",
+        "occurrence": 1,
+        "strong": "G45760",
+        "lemma": "σέβω",
+        "morph": "Gr,V,PPM,AFP,"
+      }
+    ],
+    "origWordsTxt": "σεβομένας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1284058,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "50",
+        "word_num": 6,
+        "word": "devout",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "devout",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σεβομένας = devout",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512044",
+    "book_id": "act",
+    "chapter": "16",
+    "verse": "14",
+    "alignment_num": "7",
+    "orig_lang_words": ",1494554,",
+    "target_lang_words": ",1285970,1285971,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494554,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "14",
+        "word_num": 8,
+        "word": "σεβομένη",
+        "occurrence": 1,
+        "strong": "G45760",
+        "lemma": "σέβω",
+        "morph": "Gr,V,PPM,NFS,"
+      }
+    ],
+    "origWordsTxt": "σεβομένη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1285970,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "14",
+        "word_num": 14,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1285971,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "14",
+        "word_num": 15,
+        "word": "worshiped",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who worshiped",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σεβομένη = who worshiped",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,7 +300,8 @@
     "targetWordsTxt": "worshiped God",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σεβομένοις = worshiped God",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -348,7 +354,8 @@
     "targetWordsTxt": "who worshiped",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σεβομένου = who worshiped",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -401,7 +408,8 @@
     "targetWordsTxt": "to worship",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σέβεσθαι = to worship",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -445,7 +453,8 @@
     "targetWordsTxt": "worships",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σέβεται = worships",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

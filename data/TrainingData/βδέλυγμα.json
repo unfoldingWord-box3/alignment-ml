@@ -39,7 +39,8 @@
     "targetWordsTxt": "abomination",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βδέλυγμα = abomination",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,113 +93,8 @@
     "targetWordsTxt": "is detestable",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βδέλυγμα = is detestable",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568906",
-    "book_id": "rev",
-    "chapter": "17",
-    "verse": "4",
-    "alignment_num": "22",
-    "orig_lang_words": ",1554409,",
-    "target_lang_words": ",1368403,1368404,1368405,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554409,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "4",
-        "word_num": 24,
-        "word": "βδελυγμάτων",
-        "occurrence": 1,
-        "strong": "G09460",
-        "lemma": "βδέλυγμα",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "βδελυγμάτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1368403,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "4",
-        "word_num": 27,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1368404,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "4",
-        "word_num": 28,
-        "word": "detestable",
-        "occurrence": 1
-      },
-      {
-        "id": 1368405,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "4",
-        "word_num": 29,
-        "word": "things",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of detestable things",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "βδελυγμάτων = of detestable things",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568927",
-    "book_id": "rev",
-    "chapter": "17",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1554433,",
-    "target_lang_words": ",1368432,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554433,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "5",
-        "word_num": 17,
-        "word": "βδελυγμάτων",
-        "occurrence": 1,
-        "strong": "G09460",
-        "lemma": "βδέλυγμα",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "βδελυγμάτων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1368432,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "5",
-        "word_num": 19,
-        "word": "abominations",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "abominations",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βδελυγμάτων = abominations",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -260,7 +156,116 @@
     "targetWordsTxt": "what is shameful",
     "alignmentTargetWords": 3,
     "alignmentTxt": "βδέλυγμα = what is shameful",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568906",
+    "book_id": "rev",
+    "chapter": "17",
+    "verse": "4",
+    "alignment_num": "22",
+    "orig_lang_words": ",1554409,",
+    "target_lang_words": ",1368403,1368404,1368405,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554409,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 24,
+        "word": "βδελυγμάτων",
+        "occurrence": 1,
+        "strong": "G09460",
+        "lemma": "βδέλυγμα",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "βδελυγμάτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1368403,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 27,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1368404,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 28,
+        "word": "detestable",
+        "occurrence": 1
+      },
+      {
+        "id": 1368405,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 29,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of detestable things",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "βδελυγμάτων = of detestable things",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568927",
+    "book_id": "rev",
+    "chapter": "17",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1554433,",
+    "target_lang_words": ",1368432,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554433,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "5",
+        "word_num": 17,
+        "word": "βδελυγμάτων",
+        "occurrence": 1,
+        "strong": "G09460",
+        "lemma": "βδέλυγμα",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "βδελυγμάτων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368432,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "5",
+        "word_num": 19,
+        "word": "abominations",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "abominations",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βδελυγμάτων = abominations",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

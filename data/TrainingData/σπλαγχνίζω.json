@@ -69,7 +69,62 @@
     "targetWordsTxt": "Moved with compassion",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καὶ σπλαγχνισθεὶς = Moved with compassion",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "463485",
+    "book_id": "mrk",
+    "chapter": "9",
+    "verse": "22",
+    "alignment_num": "17",
+    "orig_lang_words": ",1443548,",
+    "target_lang_words": ",1219257,1219258,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1443548,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "22",
+        "word_num": 19,
+        "word": "σπλαγχνισθεὶς",
+        "occurrence": 1,
+        "strong": "G46970",
+        "lemma": "σπλαγχνίζω",
+        "morph": "Gr,V,PAP,NMS,"
+      }
+    ],
+    "origWordsTxt": "σπλαγχνισθεὶς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1219257,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "22",
+        "word_num": 26,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1219258,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "22",
+        "word_num": 27,
+        "word": "compassion",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "have compassion",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σπλαγχνισθεὶς = have compassion",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -131,122 +186,8 @@
     "targetWordsTxt": "he had compassion",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐσπλαγχνίσθη = he had compassion",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "462550",
-    "book_id": "mrk",
-    "chapter": "8",
-    "verse": "2",
-    "alignment_num": "0",
-    "orig_lang_words": ",1442541,",
-    "target_lang_words": ",1217945,1217946,1217947,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1442541,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "2",
-        "word_num": 0,
-        "word": "σπλαγχνίζομαι",
-        "occurrence": 1,
-        "strong": "G46970",
-        "lemma": "σπλαγχνίζω",
-        "morph": "Gr,V,IPM1,,S,"
-      }
-    ],
-    "origWordsTxt": "σπλαγχνίζομαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1217945,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "2",
-        "word_num": 0,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1217946,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "2",
-        "word_num": 1,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1217947,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "2",
-        "word_num": 2,
-        "word": "compassion",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I have compassion",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "σπλαγχνίζομαι = I have compassion",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "463485",
-    "book_id": "mrk",
-    "chapter": "9",
-    "verse": "22",
-    "alignment_num": "17",
-    "orig_lang_words": ",1443548,",
-    "target_lang_words": ",1219257,1219258,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1443548,
-        "book_id": "mrk",
-        "chapter": "9",
-        "verse": "22",
-        "word_num": 19,
-        "word": "σπλαγχνισθεὶς",
-        "occurrence": 1,
-        "strong": "G46970",
-        "lemma": "σπλαγχνίζω",
-        "morph": "Gr,V,PAP,NMS,"
-      }
-    ],
-    "origWordsTxt": "σπλαγχνισθεὶς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1219257,
-        "book_id": "mrk",
-        "chapter": "9",
-        "verse": "22",
-        "word_num": 26,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1219258,
-        "book_id": "mrk",
-        "chapter": "9",
-        "verse": "22",
-        "word_num": 27,
-        "word": "compassion",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "have compassion",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "σπλαγχνισθεὶς = have compassion",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -290,7 +231,8 @@
     "targetWordsTxt": "he",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐσπλαγχνίσθη = he",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -370,7 +312,8 @@
     "targetWordsTxt": "he was moved with compassion",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ἐσπλαγχνίσθη = he was moved with compassion",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -441,7 +384,71 @@
     "targetWordsTxt": "was moved with compassion",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐσπλαγχνίσθη = was moved with compassion",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "462550",
+    "book_id": "mrk",
+    "chapter": "8",
+    "verse": "2",
+    "alignment_num": "0",
+    "orig_lang_words": ",1442541,",
+    "target_lang_words": ",1217945,1217946,1217947,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1442541,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "2",
+        "word_num": 0,
+        "word": "σπλαγχνίζομαι",
+        "occurrence": 1,
+        "strong": "G46970",
+        "lemma": "σπλαγχνίζω",
+        "morph": "Gr,V,IPM1,,S,"
+      }
+    ],
+    "origWordsTxt": "σπλαγχνίζομαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1217945,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "2",
+        "word_num": 0,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1217946,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "2",
+        "word_num": 1,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1217947,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "2",
+        "word_num": 2,
+        "word": "compassion",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I have compassion",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "σπλαγχνίζομαι = I have compassion",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

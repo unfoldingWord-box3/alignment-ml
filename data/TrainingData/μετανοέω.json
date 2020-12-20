@@ -39,7 +39,8 @@
     "targetWordsTxt": "Repent",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετανοεῖτε = Repent",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,8 @@
     "targetWordsTxt": "people should repent",
     "alignmentTargetWords": 3,
     "alignmentTxt": "μετανοῶσιν = people should repent",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -172,7 +174,8 @@
     "targetWordsTxt": "they would have repented",
     "alignmentTargetWords": 4,
     "alignmentTxt": "μετενόησαν = they would have repented",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -225,7 +228,197 @@
     "targetWordsTxt": "they repented",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετενόησαν = they repented",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566150",
+    "book_id": "rev",
+    "chapter": "9",
+    "verse": "20",
+    "alignment_num": "11",
+    "orig_lang_words": ",1551351,",
+    "target_lang_words": ",1364734,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551351,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 13,
+        "word": "μετενόησαν",
+        "occurrence": 1,
+        "strong": "G33400",
+        "lemma": "μετανοέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "μετενόησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1364734,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 14,
+        "word": "repent",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "repent",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετενόησαν = repent",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566179",
+    "book_id": "rev",
+    "chapter": "9",
+    "verse": "21",
+    "alignment_num": "1",
+    "orig_lang_words": ",1551390,",
+    "target_lang_words": ",1364770,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551390,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 2,
+        "word": "μετενόησαν",
+        "occurrence": 1,
+        "strong": "G33400",
+        "lemma": "μετανοέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "μετενόησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1364770,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 1,
+        "word": "they",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετενόησαν = they",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568546",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "9",
+    "alignment_num": "18",
+    "orig_lang_words": ",1554030,",
+    "target_lang_words": ",1367921,1367922,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554030,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "9",
+        "word_num": 22,
+        "word": "μετενόησαν",
+        "occurrence": 1,
+        "strong": "G33400",
+        "lemma": "μετανοέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "μετενόησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1367921,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "9",
+        "word_num": 23,
+        "word": "They",
+        "occurrence": 1
+      },
+      {
+        "id": 1367922,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "9",
+        "word_num": 24,
+        "word": "did",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "They did",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μετενόησαν = They did",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568588",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "11",
+    "alignment_num": "13",
+    "orig_lang_words": ",1554077,",
+    "target_lang_words": ",1367974,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554077,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "11",
+        "word_num": 17,
+        "word": "μετενόησαν",
+        "occurrence": 1,
+        "strong": "G33400",
+        "lemma": "μετανοέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "μετενόησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367974,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "11",
+        "word_num": 17,
+        "word": "they",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "they",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετενόησαν = they",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -269,7 +462,8 @@
     "targetWordsTxt": "you",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετανοῆτε = you",
-    "frequency": 0.06896551724137931,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -313,7 +507,8 @@
     "targetWordsTxt": "you",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετανοῆτε = you",
-    "frequency": 0.06896551724137931,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -366,7 +561,8 @@
     "targetWordsTxt": "who repents",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετανοοῦντι = who repents",
-    "frequency": 0.06896551724137931,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -419,7 +615,8 @@
     "targetWordsTxt": "who repents",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετανοοῦντι = who repents",
-    "frequency": 0.06896551724137931,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -481,7 +678,62 @@
     "targetWordsTxt": "they will repent",
     "alignmentTargetWords": 3,
     "alignmentTxt": "μετανοήσουσιν = they will repent",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563574",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "22",
+    "alignment_num": "13",
+    "orig_lang_words": ",1548500,",
+    "target_lang_words": ",1361175,1361176,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1548500,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 15,
+        "word": "μετανοήσουσιν",
+        "occurrence": 1,
+        "strong": "G33400",
+        "lemma": "μετανοέω",
+        "morph": "Gr,V,IFA3,,P,"
+      }
+    ],
+    "origWordsTxt": "μετανοήσουσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1361175,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 19,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1361176,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "22",
+        "word_num": 20,
+        "word": "repent",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they repent",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μετανοήσουσιν = they repent",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -534,7 +786,53 @@
     "targetWordsTxt": "he repents",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετανοήσῃ = he repents",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563552",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "21",
+    "alignment_num": "4",
+    "orig_lang_words": ",1548476,",
+    "target_lang_words": ",1361145,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1548476,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 5,
+        "word": "μετανοήσῃ",
+        "occurrence": 1,
+        "strong": "G33400",
+        "lemma": "μετανοέω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "μετανοήσῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361145,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 5,
+        "word": "repent",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "repent",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετανοήσῃ = repent",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -587,7 +885,8 @@
     "targetWordsTxt": "I repent",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετανοῶ = I repent",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -631,7 +930,8 @@
     "targetWordsTxt": "Repent",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετανοήσατε = Repent",
-    "frequency": 0.06896551724137931,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -675,7 +975,8 @@
     "targetWordsTxt": "Repent",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετανοήσατε = Repent",
-    "frequency": 0.06896551724137931,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -719,7 +1020,200 @@
     "targetWordsTxt": "repent",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετανόησον = repent",
-    "frequency": 0.10344827586206896,
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563201",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "5",
+    "alignment_num": "4",
+    "orig_lang_words": ",1548086,1548087,",
+    "target_lang_words": ",1360617,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548086,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 4,
+        "word": "καὶ",
+        "occurrence": 1,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1548087,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 5,
+        "word": "μετανόησον",
+        "occurrence": 1,
+        "strong": "G33400",
+        "lemma": "μετανοέω",
+        "morph": "Gr,V,MAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "καὶ μετανόησον",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1360617,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 7,
+        "word": "Repent",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Repent",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καὶ μετανόησον = Repent",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563435",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "0",
+    "orig_lang_words": ",1548338,",
+    "target_lang_words": ",1360971,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1548338,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 0,
+        "word": "μετανόησον",
+        "occurrence": 1,
+        "strong": "G33400",
+        "lemma": "μετανοέω",
+        "morph": "Gr,V,MAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "μετανόησον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1360971,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 0,
+        "word": "Repent",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Repent",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετανόησον = Repent",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563736",
+    "book_id": "rev",
+    "chapter": "3",
+    "verse": "3",
+    "alignment_num": "8",
+    "orig_lang_words": ",1548685,",
+    "target_lang_words": ",1361416,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1548685,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 9,
+        "word": "μετανόησον",
+        "occurrence": 1,
+        "strong": "G33400",
+        "lemma": "μετανοέω",
+        "morph": "Gr,V,MAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "μετανόησον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361416,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "3",
+        "word_num": 11,
+        "word": "repent",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "repent",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετανόησον = repent",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564099",
+    "book_id": "rev",
+    "chapter": "3",
+    "verse": "19",
+    "alignment_num": "9",
+    "orig_lang_words": ",1549084,",
+    "target_lang_words": ",1361924,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549084,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 10,
+        "word": "μετανόησον",
+        "occurrence": 1,
+        "strong": "G33400",
+        "lemma": "μετανοέω",
+        "morph": "Gr,V,MAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "μετανόησον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1361924,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 12,
+        "word": "repent",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "repent",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετανόησον = repent",
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -772,7 +1266,8 @@
     "targetWordsTxt": "to repent",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετανοεῖν = to repent",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -843,7 +1338,8 @@
     "targetWordsTxt": "that they should repent",
     "alignmentTargetWords": 4,
     "alignmentTxt": "μετανοεῖν = that they should repent",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -896,63 +1392,8 @@
     "targetWordsTxt": "who have",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετανοησάντων = who have",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563201",
-    "book_id": "rev",
-    "chapter": "2",
-    "verse": "5",
-    "alignment_num": "4",
-    "orig_lang_words": ",1548086,1548087,",
-    "target_lang_words": ",1360617,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1548086,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 4,
-        "word": "καὶ",
-        "occurrence": 1,
-        "strong": "G25320",
-        "lemma": "καί",
-        "morph": "Gr,CC,,,,,,,,"
-      },
-      {
-        "id": 1548087,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 5,
-        "word": "μετανόησον",
-        "occurrence": 1,
-        "strong": "G33400",
-        "lemma": "μετανοέω",
-        "morph": "Gr,V,MAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "καὶ μετανόησον",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1360617,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 7,
-        "word": "Repent",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Repent",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καὶ μετανόησον = Repent",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -996,95 +1437,8 @@
     "targetWordsTxt": "you",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετανοήσῃς = you",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563435",
-    "book_id": "rev",
-    "chapter": "2",
-    "verse": "16",
-    "alignment_num": "0",
-    "orig_lang_words": ",1548338,",
-    "target_lang_words": ",1360971,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1548338,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 0,
-        "word": "μετανόησον",
-        "occurrence": 1,
-        "strong": "G33400",
-        "lemma": "μετανοέω",
-        "morph": "Gr,V,MAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "μετανόησον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1360971,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 0,
-        "word": "Repent",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Repent",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετανόησον = Repent",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563552",
-    "book_id": "rev",
-    "chapter": "2",
-    "verse": "21",
-    "alignment_num": "4",
-    "orig_lang_words": ",1548476,",
-    "target_lang_words": ",1361145,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1548476,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 5,
-        "word": "μετανοήσῃ",
-        "occurrence": 1,
-        "strong": "G33400",
-        "lemma": "μετανοέω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "μετανοήσῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1361145,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 5,
-        "word": "repent",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "repent",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετανοήσῃ = repent",
-    "frequency": 0.034482758620689655,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1137,333 +1491,8 @@
     "targetWordsTxt": "to repent",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετανοῆσαι = to repent",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563574",
-    "book_id": "rev",
-    "chapter": "2",
-    "verse": "22",
-    "alignment_num": "13",
-    "orig_lang_words": ",1548500,",
-    "target_lang_words": ",1361175,1361176,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1548500,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "22",
-        "word_num": 15,
-        "word": "μετανοήσουσιν",
-        "occurrence": 1,
-        "strong": "G33400",
-        "lemma": "μετανοέω",
-        "morph": "Gr,V,IFA3,,P,"
-      }
-    ],
-    "origWordsTxt": "μετανοήσουσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1361175,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "22",
-        "word_num": 19,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1361176,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "22",
-        "word_num": 20,
-        "word": "repent",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they repent",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μετανοήσουσιν = they repent",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563736",
-    "book_id": "rev",
-    "chapter": "3",
-    "verse": "3",
-    "alignment_num": "8",
-    "orig_lang_words": ",1548685,",
-    "target_lang_words": ",1361416,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1548685,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 9,
-        "word": "μετανόησον",
-        "occurrence": 1,
-        "strong": "G33400",
-        "lemma": "μετανοέω",
-        "morph": "Gr,V,MAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "μετανόησον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1361416,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "3",
-        "word_num": 11,
-        "word": "repent",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "repent",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετανόησον = repent",
-    "frequency": 0.10344827586206896,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564099",
-    "book_id": "rev",
-    "chapter": "3",
-    "verse": "19",
-    "alignment_num": "9",
-    "orig_lang_words": ",1549084,",
-    "target_lang_words": ",1361924,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1549084,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 10,
-        "word": "μετανόησον",
-        "occurrence": 1,
-        "strong": "G33400",
-        "lemma": "μετανοέω",
-        "morph": "Gr,V,MAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "μετανόησον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1361924,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 12,
-        "word": "repent",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "repent",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετανόησον = repent",
-    "frequency": 0.10344827586206896,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566150",
-    "book_id": "rev",
-    "chapter": "9",
-    "verse": "20",
-    "alignment_num": "11",
-    "orig_lang_words": ",1551351,",
-    "target_lang_words": ",1364734,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1551351,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "20",
-        "word_num": 13,
-        "word": "μετενόησαν",
-        "occurrence": 1,
-        "strong": "G33400",
-        "lemma": "μετανοέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "μετενόησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1364734,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "20",
-        "word_num": 14,
-        "word": "repent",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "repent",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετενόησαν = repent",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566179",
-    "book_id": "rev",
-    "chapter": "9",
-    "verse": "21",
-    "alignment_num": "1",
-    "orig_lang_words": ",1551390,",
-    "target_lang_words": ",1364770,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1551390,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "21",
-        "word_num": 2,
-        "word": "μετενόησαν",
-        "occurrence": 1,
-        "strong": "G33400",
-        "lemma": "μετανοέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "μετενόησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1364770,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "21",
-        "word_num": 1,
-        "word": "they",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετενόησαν = they",
-    "frequency": 0.06896551724137931,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568546",
-    "book_id": "rev",
-    "chapter": "16",
-    "verse": "9",
-    "alignment_num": "18",
-    "orig_lang_words": ",1554030,",
-    "target_lang_words": ",1367921,1367922,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554030,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "9",
-        "word_num": 22,
-        "word": "μετενόησαν",
-        "occurrence": 1,
-        "strong": "G33400",
-        "lemma": "μετανοέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "μετενόησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1367921,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "9",
-        "word_num": 23,
-        "word": "They",
-        "occurrence": 1
-      },
-      {
-        "id": 1367922,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "9",
-        "word_num": 24,
-        "word": "did",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "They did",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μετενόησαν = They did",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568588",
-    "book_id": "rev",
-    "chapter": "16",
-    "verse": "11",
-    "alignment_num": "13",
-    "orig_lang_words": ",1554077,",
-    "target_lang_words": ",1367974,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554077,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 17,
-        "word": "μετενόησαν",
-        "occurrence": 1,
-        "strong": "G33400",
-        "lemma": "μετανοέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "μετενόησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367974,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 17,
-        "word": "they",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "they",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετενόησαν = they",
-    "frequency": 0.06896551724137931,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

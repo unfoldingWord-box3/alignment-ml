@@ -39,7 +39,8 @@
     "targetWordsTxt": "did",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐνετείλατο = did",
-    "frequency": 0.1,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,161 @@
     "targetWordsTxt": "he commands",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐνετείλατο = he commands",
-    "frequency": 0.1,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497846",
+    "book_id": "jhn",
+    "chapter": "14",
+    "verse": "31",
+    "alignment_num": "13",
+    "orig_lang_words": ",1479803,",
+    "target_lang_words": ",1266752,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1479803,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "31",
+        "word_num": 11,
+        "word": "ἐνετείλατο",
+        "occurrence": 1,
+        "strong": "G17810",
+        "lemma": "ἐντέλλω",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐνετείλατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1266752,
+        "book_id": "jhn",
+        "chapter": "14",
+        "verse": "31",
+        "word_num": 18,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "commanded",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐνετείλατο = commanded",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553607",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "20",
+    "alignment_num": "8",
+    "orig_lang_words": ",1537777,",
+    "target_lang_words": ",1346212,1346213,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537777,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 7,
+        "word": "ἐνετείλατο",
+        "occurrence": 1,
+        "strong": "G17810",
+        "lemma": "ἐντέλλω",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐνετείλατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1346212,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 12,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1346213,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 13,
+        "word": "commanded",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has commanded",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐνετείλατο = has commanded",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554609",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "22",
+    "alignment_num": "12",
+    "orig_lang_words": ",1538845,",
+    "target_lang_words": ",1347813,1347814,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538845,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 15,
+        "word": "ἐνετείλατο",
+        "occurrence": 1,
+        "strong": "G17810",
+        "lemma": "ἐντέλλω",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐνετείλατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1347813,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 20,
+        "word": "instructed",
+        "occurrence": 1
+      },
+      {
+        "id": 1347814,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "22",
+        "word_num": 21,
+        "word": "them",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "instructed them",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐνετείλατο = instructed them",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -163,51 +318,8 @@
     "targetWordsTxt": "He will give orders",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐντελεῖται = He will give orders",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "497846",
-    "book_id": "jhn",
-    "chapter": "14",
-    "verse": "31",
-    "alignment_num": "13",
-    "orig_lang_words": ",1479803,",
-    "target_lang_words": ",1266752,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1479803,
-        "book_id": "jhn",
-        "chapter": "14",
-        "verse": "31",
-        "word_num": 11,
-        "word": "ἐνετείλατο",
-        "occurrence": 1,
-        "strong": "G17810",
-        "lemma": "ἐντέλλω",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐνετείλατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1266752,
-        "book_id": "jhn",
-        "chapter": "14",
-        "verse": "31",
-        "word_num": 18,
-        "word": "commanded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "commanded",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐνετείλατο = commanded",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -251,7 +363,8 @@
     "targetWordsTxt": "command",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐντέλλομαι = command",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -304,7 +417,8 @@
     "targetWordsTxt": "I command",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐντέλλομαι = I command",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -384,7 +498,8 @@
     "targetWordsTxt": "after he had given commands",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ἐντειλάμενος = after he had given commands",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -428,113 +543,8 @@
     "targetWordsTxt": "has",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐντέταλται = has",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553607",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "20",
-    "alignment_num": "8",
-    "orig_lang_words": ",1537777,",
-    "target_lang_words": ",1346212,1346213,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537777,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "20",
-        "word_num": 7,
-        "word": "ἐνετείλατο",
-        "occurrence": 1,
-        "strong": "G17810",
-        "lemma": "ἐντέλλω",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐνετείλατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1346212,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "20",
-        "word_num": 12,
-        "word": "has",
-        "occurrence": 1
-      },
-      {
-        "id": 1346213,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "20",
-        "word_num": 13,
-        "word": "commanded",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "has commanded",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐνετείλατο = has commanded",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554609",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "22",
-    "alignment_num": "12",
-    "orig_lang_words": ",1538845,",
-    "target_lang_words": ",1347813,1347814,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538845,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "22",
-        "word_num": 15,
-        "word": "ἐνετείλατο",
-        "occurrence": 1,
-        "strong": "G17810",
-        "lemma": "ἐντέλλω",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐνετείλατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1347813,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "22",
-        "word_num": 20,
-        "word": "instructed",
-        "occurrence": 1
-      },
-      {
-        "id": 1347814,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "22",
-        "word_num": 21,
-        "word": "them",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "instructed them",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐνετείλατο = instructed them",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

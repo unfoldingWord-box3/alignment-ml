@@ -39,7 +39,8 @@
     "targetWordsTxt": "gives",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ζῳοποιεῖ = gives",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,62 @@
     "targetWordsTxt": "gives life",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ζῳοποιεῖ = gives life",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533884",
+    "book_id": "2co",
+    "chapter": "3",
+    "verse": "6",
+    "alignment_num": "19",
+    "orig_lang_words": ",1517440,",
+    "target_lang_words": ",1317780,1317781,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1517440,
+        "book_id": "2co",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 18,
+        "word": "ζῳοποιεῖ",
+        "occurrence": 1,
+        "strong": "G22270",
+        "lemma": "ζῳοποιέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ζῳοποιεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1317780,
+        "book_id": "2co",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 26,
+        "word": "gives",
+        "occurrence": 1
+      },
+      {
+        "id": 1317781,
+        "book_id": "2co",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 27,
+        "word": "life",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gives life",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ζῳοποιεῖ = gives life",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -166,7 +222,62 @@
     "targetWordsTxt": "who makes alive",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὸ ζῳοποιοῦν = who makes alive",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532525",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "45",
+    "alignment_num": "15",
+    "orig_lang_words": ",1516042,",
+    "target_lang_words": ",1315881,1315882,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516042,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "45",
+        "word_num": 16,
+        "word": "ζῳοποιοῦν",
+        "occurrence": 1,
+        "strong": "G22270",
+        "lemma": "ζῳοποιέω",
+        "morph": "Gr,V,PPA,ANS,"
+      }
+    ],
+    "origWordsTxt": "ζῳοποιοῦν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1315881,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "45",
+        "word_num": 18,
+        "word": "life",
+        "occurrence": 1
+      },
+      {
+        "id": 1315882,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "45",
+        "word_num": 19,
+        "word": "giving",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "life giving",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ζῳοποιοῦν = life giving",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -240,7 +351,53 @@
     "targetWordsTxt": "who gives life",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τοῦ ζῳοποιοῦντος = who gives life",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548634",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "13",
+    "alignment_num": "5",
+    "orig_lang_words": ",1532650,",
+    "target_lang_words": ",1338975,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532650,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 6,
+        "word": "ζῳοποιοῦντος",
+        "occurrence": 1,
+        "strong": "G22270",
+        "lemma": "ζῳοποιέω",
+        "morph": "Gr,V,PPA,GMS,"
+      }
+    ],
+    "origWordsTxt": "ζῳοποιοῦντος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338975,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 8,
+        "word": "causes",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "causes",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ζῳοποιοῦντος = causes",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -302,7 +459,8 @@
     "targetWordsTxt": "will give life",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ζῳοποιήσει = will give life",
-    "frequency": 0.08333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -373,7 +531,8 @@
     "targetWordsTxt": "will be made alive",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ζῳοποιηθήσονται = will be made alive",
-    "frequency": 0.08333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -435,113 +594,8 @@
     "targetWordsTxt": "come to life",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ζῳοποιεῖται = come to life",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532525",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "45",
-    "alignment_num": "15",
-    "orig_lang_words": ",1516042,",
-    "target_lang_words": ",1315881,1315882,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516042,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "45",
-        "word_num": 16,
-        "word": "ζῳοποιοῦν",
-        "occurrence": 1,
-        "strong": "G22270",
-        "lemma": "ζῳοποιέω",
-        "morph": "Gr,V,PPA,ANS,"
-      }
-    ],
-    "origWordsTxt": "ζῳοποιοῦν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1315881,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "45",
-        "word_num": 18,
-        "word": "life",
-        "occurrence": 1
-      },
-      {
-        "id": 1315882,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "45",
-        "word_num": 19,
-        "word": "giving",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "life giving",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ζῳοποιοῦν = life giving",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533884",
-    "book_id": "2co",
-    "chapter": "3",
-    "verse": "6",
-    "alignment_num": "19",
-    "orig_lang_words": ",1517440,",
-    "target_lang_words": ",1317780,1317781,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1517440,
-        "book_id": "2co",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 18,
-        "word": "ζῳοποιεῖ",
-        "occurrence": 1,
-        "strong": "G22270",
-        "lemma": "ζῳοποιέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ζῳοποιεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1317780,
-        "book_id": "2co",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 26,
-        "word": "gives",
-        "occurrence": 1
-      },
-      {
-        "id": 1317781,
-        "book_id": "2co",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 27,
-        "word": "life",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "gives life",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ζῳοποιεῖ = gives life",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -594,51 +648,8 @@
     "targetWordsTxt": "give life",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ζῳοποιῆσαι = give life",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548634",
-    "book_id": "1ti",
-    "chapter": "6",
-    "verse": "13",
-    "alignment_num": "5",
-    "orig_lang_words": ",1532650,",
-    "target_lang_words": ",1338975,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532650,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 6,
-        "word": "ζῳοποιοῦντος",
-        "occurrence": 1,
-        "strong": "G22270",
-        "lemma": "ζῳοποιέω",
-        "morph": "Gr,V,PPA,GMS,"
-      }
-    ],
-    "origWordsTxt": "ζῳοποιοῦντος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338975,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 8,
-        "word": "causes",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "causes",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ζῳοποιοῦντος = causes",
-    "frequency": 0.08333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -709,7 +720,8 @@
     "targetWordsTxt": "he was made alive",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ζῳοποιηθεὶς = he was made alive",
-    "frequency": 0.08333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

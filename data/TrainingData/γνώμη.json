@@ -69,7 +69,53 @@
     "targetWordsTxt": "so he decided",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐγένετο γνώμης = so he decided",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550831",
+    "book_id": "phm",
+    "chapter": "1",
+    "verse": "14",
+    "alignment_num": "8",
+    "orig_lang_words": ",1534864,",
+    "target_lang_words": ",1342064,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534864,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 4,
+        "word": "γνώμης",
+        "occurrence": 1,
+        "strong": "G11060",
+        "lemma": "γνώμη",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "γνώμης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1342064,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 10,
+        "word": "consent",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "consent",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γνώμης = consent",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -113,7 +159,8 @@
     "targetWordsTxt": "purpose",
     "alignmentTargetWords": 1,
     "alignmentTxt": "γνώμῃ = purpose",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -166,7 +213,8 @@
     "targetWordsTxt": "an opinion",
     "alignmentTargetWords": 2,
     "alignmentTxt": "γνώμην = an opinion",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -210,7 +258,8 @@
     "targetWordsTxt": "judgment",
     "alignmentTargetWords": 1,
     "alignmentTxt": "γνώμην = judgment",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -263,51 +312,8 @@
     "targetWordsTxt": "my opinion",
     "alignmentTargetWords": 2,
     "alignmentTxt": "γνώμην = my opinion",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550831",
-    "book_id": "phm",
-    "chapter": "1",
-    "verse": "14",
-    "alignment_num": "8",
-    "orig_lang_words": ",1534864,",
-    "target_lang_words": ",1342064,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534864,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 4,
-        "word": "γνώμης",
-        "occurrence": 1,
-        "strong": "G11060",
-        "lemma": "γνώμη",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "γνώμης",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1342064,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 10,
-        "word": "consent",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "consent",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "γνώμης = consent",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -351,7 +357,8 @@
     "targetWordsTxt": "mind",
     "alignmentTargetWords": 1,
     "alignmentTxt": "γνώμην = mind",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -407,7 +414,8 @@
     "targetWordsTxt": "purpose",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν γνώμην = purpose",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -451,7 +459,8 @@
     "targetWordsTxt": "purpose",
     "alignmentTargetWords": 1,
     "alignmentTxt": "γνώμην = purpose",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

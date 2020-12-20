@@ -39,104 +39,8 @@
     "targetWordsTxt": "wisdom",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σοφία = wisdom",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "470173",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "40",
-    "alignment_num": "7",
-    "orig_lang_words": ",1450914,",
-    "target_lang_words": ",1229116,1229117,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1450914,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "40",
-        "word_num": 7,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1229116,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "40",
-        "word_num": 9,
-        "word": "with",
-        "occurrence": 1
-      },
-      {
-        "id": 1229117,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "40",
-        "word_num": 10,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "with wisdom",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "σοφίᾳ = with wisdom",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "470364",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "52",
-    "alignment_num": "4",
-    "orig_lang_words": ",1451107,",
-    "target_lang_words": ",1229361,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1451107,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "52",
-        "word_num": 4,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1229361,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "52",
-        "word_num": 5,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίᾳ = wisdom",
-    "frequency": 0.20833333333333334,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -192,51 +96,8 @@
     "targetWordsTxt": "wisdom",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἡ σοφία = wisdom",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "477744",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "31",
-    "alignment_num": "25",
-    "orig_lang_words": ",1458611,",
-    "target_lang_words": ",1239290,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458611,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "31",
-        "word_num": 24,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1239290,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "31",
-        "word_num": 32,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
+    "frequency": 0.2,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -280,104 +141,434 @@
     "targetWordsTxt": "wisdom",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σοφία = wisdom",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "484472",
-    "book_id": "luk",
-    "chapter": "21",
-    "verse": "15",
-    "alignment_num": "6",
-    "orig_lang_words": ",1465421,",
-    "target_lang_words": ",1248596,",
+    "id": "526865",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "30",
+    "alignment_num": "11",
+    "orig_lang_words": ",1510224,",
+    "target_lang_words": ",1307482,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1465421,
-        "book_id": "luk",
-        "chapter": "21",
-        "verse": "15",
-        "word_num": 6,
-        "word": "σοφίαν",
+        "id": 1510224,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "30",
+        "word_num": 10,
+        "word": "σοφία",
         "occurrence": 1,
         "strong": "G46780",
         "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
+        "morph": "Gr,N,,,,,NFS,"
       }
     ],
-    "origWordsTxt": "σοφίαν",
+    "origWordsTxt": "σοφία",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1248596,
-        "book_id": "luk",
-        "chapter": "21",
-        "verse": "15",
-        "word_num": 7,
+        "id": 1307482,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "30",
+        "word_num": 14,
         "word": "wisdom",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "wisdom",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
+    "alignmentTxt": "σοφία = wisdom",
+    "frequency": 0.8,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "505186",
-    "book_id": "act",
-    "chapter": "6",
-    "verse": "3",
-    "alignment_num": "11",
-    "orig_lang_words": ",1487510,",
-    "target_lang_words": ",1276724,1276725,",
+    "id": "527419",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "19",
+    "alignment_num": "2",
+    "orig_lang_words": ",1510806,",
+    "target_lang_words": ",1308256,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1487510,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "3",
-        "word_num": 11,
-        "word": "σοφίας",
+        "id": 1510806,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 2,
+        "word": "σοφία",
         "occurrence": 1,
         "strong": "G46780",
         "lemma": "σοφία",
-        "morph": "Gr,N,,,,,GFS,"
+        "morph": "Gr,N,,,,,NFS,"
       }
     ],
-    "origWordsTxt": "σοφίας",
+    "origWordsTxt": "σοφία",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1276724,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "3",
-        "word_num": 16,
-        "word": "of",
-        "occurrence": 3
-      },
-      {
-        "id": 1276725,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "3",
-        "word_num": 17,
+        "id": 1308256,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 2,
         "word": "wisdom",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "of wisdom",
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφία = wisdom",
+    "frequency": 0.8,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540432",
+    "book_id": "eph",
+    "chapter": "3",
+    "verse": "10",
+    "alignment_num": "7",
+    "orig_lang_words": ",1524185,",
+    "target_lang_words": ",1327433,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524185,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 16,
+        "word": "σοφία",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "σοφία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1327433,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 8,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφία = wisdom",
+    "frequency": 0.8,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556693",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "15",
+    "alignment_num": "4",
+    "orig_lang_words": ",1541030,",
+    "target_lang_words": ",1350884,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541030,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 4,
+        "word": "σοφία",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "σοφία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350884,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 4,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφία = wisdom",
+    "frequency": 0.8,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556713",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "17",
+    "alignment_num": "2",
+    "orig_lang_words": ",1541051,",
+    "target_lang_words": ",1350912,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541051,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 3,
+        "word": "σοφία",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "σοφία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350912,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 2,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφία = wisdom",
+    "frequency": 0.8,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565340",
+    "book_id": "rev",
+    "chapter": "7",
+    "verse": "12",
+    "alignment_num": "9",
+    "orig_lang_words": ",1550450,",
+    "target_lang_words": ",1363635,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550450,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "12",
+        "word_num": 9,
+        "word": "σοφία",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "σοφία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1363635,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "12",
+        "word_num": 9,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφία = wisdom",
+    "frequency": 0.8,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567671",
+    "book_id": "rev",
+    "chapter": "13",
+    "verse": "18",
+    "alignment_num": "2",
+    "orig_lang_words": ",1553056,1553057,",
+    "target_lang_words": ",1366781,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1553056,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 1,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1553057,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 2,
+        "word": "σοφία",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ σοφία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366781,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 2,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ σοφία = wisdom",
+    "frequency": 0.2,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470173",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "40",
+    "alignment_num": "7",
+    "orig_lang_words": ",1450914,",
+    "target_lang_words": ",1229116,1229117,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1450914,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "40",
+        "word_num": 7,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1229116,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "40",
+        "word_num": 9,
+        "word": "with",
+        "occurrence": 1
+      },
+      {
+        "id": 1229117,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "40",
+        "word_num": 10,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "with wisdom",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "σοφίας = of wisdom",
-    "frequency": 0.10416666666666667,
+    "alignmentTxt": "σοφίᾳ = with wisdom",
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470364",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "52",
+    "alignment_num": "4",
+    "orig_lang_words": ",1451107,",
+    "target_lang_words": ",1229361,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1451107,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "52",
+        "word_num": 4,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1229361,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "52",
+        "word_num": 5,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίᾳ = wisdom",
+    "frequency": 0.7692307692307693,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -421,51 +612,8 @@
     "targetWordsTxt": "wisdom",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σοφίᾳ = wisdom",
-    "frequency": 0.20833333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505603",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "10",
-    "alignment_num": "11",
-    "orig_lang_words": ",1487940,",
-    "target_lang_words": ",1277264,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487940,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "10",
-        "word_num": 13,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1277264,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "10",
-        "word_num": 13,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
+    "frequency": 0.7692307692307693,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -518,7 +666,1061 @@
     "targetWordsTxt": "the wisdom",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σοφίᾳ = the wisdom",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526675",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "17",
+    "alignment_num": "10",
+    "orig_lang_words": ",1510011,",
+    "target_lang_words": ",1307195,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510011,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 10,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307195,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 15,
+        "word": "clever",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "clever",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίᾳ = clever",
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526733",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "21",
+    "alignment_num": "4",
+    "orig_lang_words": ",1510072,",
+    "target_lang_words": ",1307288,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510072,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 4,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307288,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 4,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίᾳ = wisdom",
+    "frequency": 0.7692307692307693,
+    "matchCount": 10,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526951",
+    "book_id": "1co",
+    "chapter": "2",
+    "verse": "5",
+    "alignment_num": "8",
+    "orig_lang_words": ",1510313,",
+    "target_lang_words": ",1307589,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510313,
+        "book_id": "1co",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 7,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307589,
+        "book_id": "1co",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 9,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίᾳ = wisdom",
+    "frequency": 0.7692307692307693,
+    "matchCount": 10,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533279",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "12",
+    "alignment_num": "24",
+    "orig_lang_words": ",1516818,",
+    "target_lang_words": ",1316930,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516818,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 21,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1316930,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 28,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίᾳ = wisdom",
+    "frequency": 0.7692307692307693,
+    "matchCount": 10,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539641",
+    "book_id": "eph",
+    "chapter": "1",
+    "verse": "8",
+    "alignment_num": "6",
+    "orig_lang_words": ",1523386,",
+    "target_lang_words": ",1326405,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523386,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 6,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326405,
+        "book_id": "eph",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 9,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίᾳ = wisdom",
+    "frequency": 0.7692307692307693,
+    "matchCount": 10,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543651",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "22",
+    "orig_lang_words": ",1527468,",
+    "target_lang_words": ",1331909,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527468,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 24,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1331909,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 34,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίᾳ = wisdom",
+    "frequency": 0.7692307692307693,
+    "matchCount": 10,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543980",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "28",
+    "alignment_num": "12",
+    "orig_lang_words": ",1527830,",
+    "target_lang_words": ",1332399,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527830,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "28",
+        "word_num": 12,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1332399,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "28",
+        "word_num": 17,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίᾳ = wisdom",
+    "frequency": 0.7692307692307693,
+    "matchCount": 10,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544563",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "16",
+    "alignment_num": "10",
+    "orig_lang_words": ",1528465,",
+    "target_lang_words": ",1333258,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528465,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 10,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333258,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 11,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίᾳ = wisdom",
+    "frequency": 0.7692307692307693,
+    "matchCount": 10,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544744",
+    "book_id": "col",
+    "chapter": "4",
+    "verse": "5",
+    "alignment_num": "2",
+    "orig_lang_words": ",1528660,",
+    "target_lang_words": ",1333513,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528660,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 1,
+        "word": "σοφίᾳ",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίᾳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333513,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "5",
+        "word_num": 2,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίᾳ = wisdom",
+    "frequency": 0.7692307692307693,
+    "matchCount": 10,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "477744",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "31",
+    "alignment_num": "25",
+    "orig_lang_words": ",1458611,",
+    "target_lang_words": ",1239290,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458611,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "31",
+        "word_num": 24,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1239290,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "31",
+        "word_num": 32,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "484472",
+    "book_id": "luk",
+    "chapter": "21",
+    "verse": "15",
+    "alignment_num": "6",
+    "orig_lang_words": ",1465421,",
+    "target_lang_words": ",1248596,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1465421,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "15",
+        "word_num": 6,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1248596,
+        "book_id": "luk",
+        "chapter": "21",
+        "verse": "15",
+        "word_num": 7,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505603",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "10",
+    "alignment_num": "11",
+    "orig_lang_words": ",1487940,",
+    "target_lang_words": ",1277264,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487940,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "10",
+        "word_num": 13,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1277264,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "10",
+        "word_num": 13,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526703",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "19",
+    "alignment_num": "4",
+    "orig_lang_words": ",1510042,",
+    "target_lang_words": ",1307244,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510042,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 4,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307244,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 8,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526726",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "20",
+    "alignment_num": "14",
+    "orig_lang_words": ",1510065,",
+    "target_lang_words": ",1307278,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510065,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 14,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307278,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 21,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526758",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "22",
+    "alignment_num": "8",
+    "orig_lang_words": ",1510102,",
+    "target_lang_words": ",1307322,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510102,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 7,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307322,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 10,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526780",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "24",
+    "alignment_num": "11",
+    "orig_lang_words": ",1510128,",
+    "target_lang_words": ",1307354,1307355,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510128,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 13,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1307354,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 17,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1307355,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 18,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the wisdom",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σοφίαν = the wisdom",
+    "frequency": 0.07692307692307693,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526958",
+    "book_id": "1co",
+    "chapter": "2",
+    "verse": "6",
+    "alignment_num": "2",
+    "orig_lang_words": ",1510319,",
+    "target_lang_words": ",1307599,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510319,
+        "book_id": "1co",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 0,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307599,
+        "book_id": "1co",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 4,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526964",
+    "book_id": "1co",
+    "chapter": "2",
+    "verse": "6",
+    "alignment_num": "8",
+    "orig_lang_words": ",1510325,",
+    "target_lang_words": ",1307605,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510325,
+        "book_id": "1co",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 6,
+        "word": "σοφίαν",
+        "occurrence": 2,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307605,
+        "book_id": "1co",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 10,
+        "word": "wisdom",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526978",
+    "book_id": "1co",
+    "chapter": "2",
+    "verse": "7",
+    "alignment_num": "3",
+    "orig_lang_words": ",1510342,",
+    "target_lang_words": ",1307625,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510342,
+        "book_id": "1co",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 3,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307625,
+        "book_id": "1co",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 5,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559848",
+    "book_id": "2pe",
+    "chapter": "3",
+    "verse": "15",
+    "alignment_num": "16",
+    "orig_lang_words": ",1544402,",
+    "target_lang_words": ",1355913,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1544402,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 19,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355913,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 23,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564656",
+    "book_id": "rev",
+    "chapter": "5",
+    "verse": "12",
+    "alignment_num": "14",
+    "orig_lang_words": ",1549708,",
+    "target_lang_words": ",1362689,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549708,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "12",
+        "word_num": 15,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1362689,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "12",
+        "word_num": 20,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569032",
+    "book_id": "rev",
+    "chapter": "17",
+    "verse": "9",
+    "alignment_num": "4",
+    "orig_lang_words": ",1554542,",
+    "target_lang_words": ",1368584,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554542,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "9",
+        "word_num": 5,
+        "word": "σοφίαν",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368584,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "9",
+        "word_num": 6,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wisdom",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σοφίαν = wisdom",
+    "frequency": 0.9230769230769231,
+    "matchCount": 12,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505186",
+    "book_id": "act",
+    "chapter": "6",
+    "verse": "3",
+    "alignment_num": "11",
+    "orig_lang_words": ",1487510,",
+    "target_lang_words": ",1276724,1276725,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487510,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "3",
+        "word_num": 11,
+        "word": "σοφίας",
+        "occurrence": 1,
+        "strong": "G46780",
+        "lemma": "σοφία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "σοφίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1276724,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "3",
+        "word_num": 16,
+        "word": "of",
+        "occurrence": 3
+      },
+      {
+        "id": 1276725,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "3",
+        "word_num": 17,
+        "word": "wisdom",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of wisdom",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "σοφίας = of wisdom",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -580,183 +1782,8 @@
     "targetWordsTxt": "of the wisdom",
     "alignmentTargetWords": 3,
     "alignmentTxt": "σοφίας = of the wisdom",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526675",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "17",
-    "alignment_num": "10",
-    "orig_lang_words": ",1510011,",
-    "target_lang_words": ",1307195,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510011,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "17",
-        "word_num": 10,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307195,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "17",
-        "word_num": 15,
-        "word": "clever",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "clever",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίᾳ = clever",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526703",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "19",
-    "alignment_num": "4",
-    "orig_lang_words": ",1510042,",
-    "target_lang_words": ",1307244,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510042,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 4,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307244,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 8,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526726",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "20",
-    "alignment_num": "14",
-    "orig_lang_words": ",1510065,",
-    "target_lang_words": ",1307278,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510065,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 14,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307278,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 21,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526733",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "21",
-    "alignment_num": "4",
-    "orig_lang_words": ",1510072,",
-    "target_lang_words": ",1307288,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510072,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 4,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307288,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 4,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίᾳ = wisdom",
-    "frequency": 0.20833333333333334,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -812,148 +1839,8 @@
     "targetWordsTxt": "wisdom",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς σοφίας = wisdom",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526758",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "22",
-    "alignment_num": "8",
-    "orig_lang_words": ",1510102,",
-    "target_lang_words": ",1307322,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510102,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "22",
-        "word_num": 7,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307322,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "22",
-        "word_num": 10,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526780",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "24",
-    "alignment_num": "11",
-    "orig_lang_words": ",1510128,",
-    "target_lang_words": ",1307354,1307355,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510128,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "24",
-        "word_num": 13,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1307354,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "24",
-        "word_num": 17,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1307355,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "24",
-        "word_num": 18,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the wisdom",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "σοφίαν = the wisdom",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526865",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "30",
-    "alignment_num": "11",
-    "orig_lang_words": ",1510224,",
-    "target_lang_words": ",1307482,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510224,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "30",
-        "word_num": 10,
-        "word": "σοφία",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "σοφία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307482,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "30",
-        "word_num": 14,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφία = wisdom",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -997,7 +1884,8 @@
     "targetWordsTxt": "wisdom",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σοφίας = wisdom",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1050,183 +1938,8 @@
     "targetWordsTxt": "of wisdom",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σοφίας = of wisdom",
-    "frequency": 0.10416666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526951",
-    "book_id": "1co",
-    "chapter": "2",
-    "verse": "5",
-    "alignment_num": "8",
-    "orig_lang_words": ",1510313,",
-    "target_lang_words": ",1307589,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510313,
-        "book_id": "1co",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 7,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307589,
-        "book_id": "1co",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 9,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίᾳ = wisdom",
-    "frequency": 0.20833333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526958",
-    "book_id": "1co",
-    "chapter": "2",
-    "verse": "6",
-    "alignment_num": "2",
-    "orig_lang_words": ",1510319,",
-    "target_lang_words": ",1307599,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510319,
-        "book_id": "1co",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 0,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307599,
-        "book_id": "1co",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 4,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526964",
-    "book_id": "1co",
-    "chapter": "2",
-    "verse": "6",
-    "alignment_num": "8",
-    "orig_lang_words": ",1510325,",
-    "target_lang_words": ",1307605,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510325,
-        "book_id": "1co",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 6,
-        "word": "σοφίαν",
-        "occurrence": 2,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307605,
-        "book_id": "1co",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 10,
-        "word": "wisdom",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526978",
-    "book_id": "1co",
-    "chapter": "2",
-    "verse": "7",
-    "alignment_num": "3",
-    "orig_lang_words": ",1510342,",
-    "target_lang_words": ",1307625,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510342,
-        "book_id": "1co",
-        "chapter": "2",
-        "verse": "7",
-        "word_num": 3,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307625,
-        "book_id": "1co",
-        "chapter": "2",
-        "verse": "7",
-        "word_num": 5,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1270,51 +1983,8 @@
     "targetWordsTxt": "by",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σοφίας = by",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "527419",
-    "book_id": "1co",
-    "chapter": "3",
-    "verse": "19",
-    "alignment_num": "2",
-    "orig_lang_words": ",1510806,",
-    "target_lang_words": ",1308256,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510806,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 2,
-        "word": "σοφία",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "σοφία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1308256,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 2,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφία = wisdom",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1367,95 +2037,8 @@
     "targetWordsTxt": "of wisdom",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σοφίας = of wisdom",
-    "frequency": 0.10416666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533279",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "12",
-    "alignment_num": "24",
-    "orig_lang_words": ",1516818,",
-    "target_lang_words": ",1316930,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516818,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 21,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1316930,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 28,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίᾳ = wisdom",
-    "frequency": 0.20833333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539641",
-    "book_id": "eph",
-    "chapter": "1",
-    "verse": "8",
-    "alignment_num": "6",
-    "orig_lang_words": ",1523386,",
-    "target_lang_words": ",1326405,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523386,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 6,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326405,
-        "book_id": "eph",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 9,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίᾳ = wisdom",
-    "frequency": 0.20833333333333334,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1508,139 +2091,8 @@
     "targetWordsTxt": "of wisdom",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σοφίας = of wisdom",
-    "frequency": 0.10416666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540432",
-    "book_id": "eph",
-    "chapter": "3",
-    "verse": "10",
-    "alignment_num": "7",
-    "orig_lang_words": ",1524185,",
-    "target_lang_words": ",1327433,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1524185,
-        "book_id": "eph",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 16,
-        "word": "σοφία",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "σοφία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1327433,
-        "book_id": "eph",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 8,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφία = wisdom",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543651",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "22",
-    "orig_lang_words": ",1527468,",
-    "target_lang_words": ",1331909,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1527468,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 24,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1331909,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 34,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίᾳ = wisdom",
-    "frequency": 0.20833333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543980",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "28",
-    "alignment_num": "12",
-    "orig_lang_words": ",1527830,",
-    "target_lang_words": ",1332399,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1527830,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "28",
-        "word_num": 12,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1332399,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "28",
-        "word_num": 17,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίᾳ = wisdom",
-    "frequency": 0.20833333333333334,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1705,7 +2157,8 @@
     "targetWordsTxt": "of wisdom",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς σοφίας = of wisdom",
-    "frequency": 0.020833333333333332,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1758,95 +2211,8 @@
     "targetWordsTxt": "the wisdom",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σοφίας = the wisdom",
-    "frequency": 0.020833333333333332,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544563",
-    "book_id": "col",
-    "chapter": "3",
-    "verse": "16",
-    "alignment_num": "10",
-    "orig_lang_words": ",1528465,",
-    "target_lang_words": ",1333258,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528465,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 10,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1333258,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 11,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίᾳ = wisdom",
-    "frequency": 0.20833333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544744",
-    "book_id": "col",
-    "chapter": "4",
-    "verse": "5",
-    "alignment_num": "2",
-    "orig_lang_words": ",1528660,",
-    "target_lang_words": ",1333513,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528660,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "5",
-        "word_num": 1,
-        "word": "σοφίᾳ",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1333513,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "5",
-        "word_num": 2,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίᾳ = wisdom",
-    "frequency": 0.20833333333333334,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1890,7 +2256,8 @@
     "targetWordsTxt": "wisdom",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σοφίας = wisdom",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1943,327 +2310,8 @@
     "targetWordsTxt": "of wisdom",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σοφίας = of wisdom",
-    "frequency": 0.10416666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556693",
-    "book_id": "jas",
-    "chapter": "3",
-    "verse": "15",
-    "alignment_num": "4",
-    "orig_lang_words": ",1541030,",
-    "target_lang_words": ",1350884,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541030,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 4,
-        "word": "σοφία",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "σοφία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350884,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 4,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφία = wisdom",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556713",
-    "book_id": "jas",
-    "chapter": "3",
-    "verse": "17",
-    "alignment_num": "2",
-    "orig_lang_words": ",1541051,",
-    "target_lang_words": ",1350912,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541051,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 3,
-        "word": "σοφία",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "σοφία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350912,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 2,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφία = wisdom",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559848",
-    "book_id": "2pe",
-    "chapter": "3",
-    "verse": "15",
-    "alignment_num": "16",
-    "orig_lang_words": ",1544402,",
-    "target_lang_words": ",1355913,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1544402,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 19,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355913,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 23,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564656",
-    "book_id": "rev",
-    "chapter": "5",
-    "verse": "12",
-    "alignment_num": "14",
-    "orig_lang_words": ",1549708,",
-    "target_lang_words": ",1362689,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1549708,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "12",
-        "word_num": 15,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1362689,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "12",
-        "word_num": 20,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565340",
-    "book_id": "rev",
-    "chapter": "7",
-    "verse": "12",
-    "alignment_num": "9",
-    "orig_lang_words": ",1550450,",
-    "target_lang_words": ",1363635,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550450,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "12",
-        "word_num": 9,
-        "word": "σοφία",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "σοφία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1363635,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "12",
-        "word_num": 9,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφία = wisdom",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567671",
-    "book_id": "rev",
-    "chapter": "13",
-    "verse": "18",
-    "alignment_num": "2",
-    "orig_lang_words": ",1553056,1553057,",
-    "target_lang_words": ",1366781,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1553056,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 1,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1553057,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 2,
-        "word": "σοφία",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ σοφία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366781,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 2,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ σοφία = wisdom",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569032",
-    "book_id": "rev",
-    "chapter": "17",
-    "verse": "9",
-    "alignment_num": "4",
-    "orig_lang_words": ",1554542,",
-    "target_lang_words": ",1368584,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554542,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "9",
-        "word_num": 5,
-        "word": "σοφίαν",
-        "occurrence": 1,
-        "strong": "G46780",
-        "lemma": "σοφία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "σοφίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1368584,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "9",
-        "word_num": 6,
-        "word": "wisdom",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wisdom",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σοφίαν = wisdom",
-    "frequency": 0.25,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

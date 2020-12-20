@@ -39,7 +39,8 @@
     "targetWordsTxt": "band",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεσμὸς = band",
-    "frequency": 0.05555555555555555,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,98 @@
     "targetWordsTxt": "chains",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεσμὰ = chains",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512279",
+    "book_id": "act",
+    "chapter": "16",
+    "verse": "26",
+    "alignment_num": "20",
+    "orig_lang_words": ",1494802,",
+    "target_lang_words": ",1286291,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494802,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "26",
+        "word_num": 20,
+        "word": "δεσμὰ",
+        "occurrence": 1,
+        "strong": "G11990",
+        "lemma": "δεσμός",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "δεσμὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1286291,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "26",
+        "word_num": 24,
+        "word": "chains",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chains",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεσμὰ = chains",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514762",
+    "book_id": "act",
+    "chapter": "20",
+    "verse": "23",
+    "alignment_num": "11",
+    "orig_lang_words": ",1497377,",
+    "target_lang_words": ",1289644,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1497377,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "23",
+        "word_num": 12,
+        "word": "δεσμὰ",
+        "occurrence": 1,
+        "strong": "G11990",
+        "lemma": "δεσμός",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "δεσμὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1289644,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "23",
+        "word_num": 13,
+        "word": "chains",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chains",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεσμὰ = chains",
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -139,95 +231,8 @@
     "targetWordsTxt": "bond",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ δεσμοῦ = bond",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "512279",
-    "book_id": "act",
-    "chapter": "16",
-    "verse": "26",
-    "alignment_num": "20",
-    "orig_lang_words": ",1494802,",
-    "target_lang_words": ",1286291,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494802,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "26",
-        "word_num": 20,
-        "word": "δεσμὰ",
-        "occurrence": 1,
-        "strong": "G11990",
-        "lemma": "δεσμός",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "δεσμὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1286291,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "26",
-        "word_num": 24,
-        "word": "chains",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chains",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δεσμὰ = chains",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "514762",
-    "book_id": "act",
-    "chapter": "20",
-    "verse": "23",
-    "alignment_num": "11",
-    "orig_lang_words": ",1497377,",
-    "target_lang_words": ",1289644,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1497377,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "23",
-        "word_num": 12,
-        "word": "δεσμὰ",
-        "occurrence": 1,
-        "strong": "G11990",
-        "lemma": "δεσμός",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "δεσμὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1289644,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "23",
-        "word_num": 13,
-        "word": "chains",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chains",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δεσμὰ = chains",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -271,7 +276,8 @@
     "targetWordsTxt": "imprisonment",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεσμῶν = imprisonment",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -336,7 +342,8 @@
     "targetWordsTxt": "prison chains",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῶν δεσμῶν = prison chains",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -389,7 +396,173 @@
     "targetWordsTxt": "of chains",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεσμῶν = of chains",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544959",
+    "book_id": "col",
+    "chapter": "4",
+    "verse": "18",
+    "alignment_num": "8",
+    "orig_lang_words": ",1528884,1528885,",
+    "target_lang_words": ",1333821,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1528884,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 8,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GMP,"
+      },
+      {
+        "id": 1528885,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 9,
+        "word": "δεσμῶν",
+        "occurrence": 1,
+        "strong": "G11990",
+        "lemma": "δεσμός",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "τῶν δεσμῶν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333821,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 10,
+        "word": "chains",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chains",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν δεσμῶν = chains",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549180",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "4",
+    "orig_lang_words": ",1533195,",
+    "target_lang_words": ",1339731,1339732,1339733,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533195,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 4,
+        "word": "δεσμῶν",
+        "occurrence": 1,
+        "strong": "G11990",
+        "lemma": "δεσμός",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "δεσμῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1339731,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 8,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1339732,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 9,
+        "word": "being",
+        "occurrence": 1
+      },
+      {
+        "id": 1339733,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 10,
+        "word": "chained",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of being chained",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δεσμῶν = of being chained",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554816",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "36",
+    "alignment_num": "9",
+    "orig_lang_words": ",1539049,",
+    "target_lang_words": ",1348124,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539049,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "36",
+        "word_num": 9,
+        "word": "δεσμῶν",
+        "occurrence": 1,
+        "strong": "G11990",
+        "lemma": "δεσμός",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "δεσμῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1348124,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "36",
+        "word_num": 10,
+        "word": "chains",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chains",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεσμῶν = chains",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -445,63 +618,8 @@
     "targetWordsTxt": "imprisonment",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῖς δεσμοῖς = imprisonment",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542118",
-    "book_id": "php",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "2",
-    "orig_lang_words": ",1525875,1525876,",
-    "target_lang_words": ",1329597,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1525875,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 1,
-        "word": "τοὺς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AMP,"
-      },
-      {
-        "id": 1525876,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 2,
-        "word": "δεσμούς",
-        "occurrence": 1,
-        "strong": "G11990",
-        "lemma": "δεσμός",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "τοὺς δεσμούς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1329597,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 4,
-        "word": "chains",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chains",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τοὺς δεσμούς = chains",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -566,7 +684,8 @@
     "targetWordsTxt": "because of",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῖς δεσμοῖς = because of",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -649,125 +768,8 @@
     "targetWordsTxt": "while I am in",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τοῖς δεσμοῖς = while I am in",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544959",
-    "book_id": "col",
-    "chapter": "4",
-    "verse": "18",
-    "alignment_num": "8",
-    "orig_lang_words": ",1528884,1528885,",
-    "target_lang_words": ",1333821,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1528884,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 8,
-        "word": "τῶν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GMP,"
-      },
-      {
-        "id": 1528885,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 9,
-        "word": "δεσμῶν",
-        "occurrence": 1,
-        "strong": "G11990",
-        "lemma": "δεσμός",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "τῶν δεσμῶν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1333821,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 10,
-        "word": "chains",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chains",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῶν δεσμῶν = chains",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549180",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "9",
-    "alignment_num": "4",
-    "orig_lang_words": ",1533195,",
-    "target_lang_words": ",1339731,1339732,1339733,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533195,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 4,
-        "word": "δεσμῶν",
-        "occurrence": 1,
-        "strong": "G11990",
-        "lemma": "δεσμός",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "δεσμῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1339731,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 8,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1339732,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 9,
-        "word": "being",
-        "occurrence": 1
-      },
-      {
-        "id": 1339733,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 10,
-        "word": "chained",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of being chained",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δεσμῶν = of being chained",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -811,7 +813,8 @@
     "targetWordsTxt": "chains",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεσμοῖς = chains",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -867,51 +870,8 @@
     "targetWordsTxt": "chains",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῖς δεσμοῖς = chains",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554816",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "36",
-    "alignment_num": "9",
-    "orig_lang_words": ",1539049,",
-    "target_lang_words": ",1348124,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539049,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "36",
-        "word_num": 9,
-        "word": "δεσμῶν",
-        "occurrence": 1,
-        "strong": "G11990",
-        "lemma": "δεσμός",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "δεσμῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1348124,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "36",
-        "word_num": 10,
-        "word": "chains",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chains",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δεσμῶν = chains",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -955,7 +915,65 @@
     "targetWordsTxt": "in",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεσμοῖς = in",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542118",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "2",
+    "orig_lang_words": ",1525875,1525876,",
+    "target_lang_words": ",1329597,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1525875,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 1,
+        "word": "τοὺς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMP,"
+      },
+      {
+        "id": 1525876,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 2,
+        "word": "δεσμούς",
+        "occurrence": 1,
+        "strong": "G11990",
+        "lemma": "δεσμός",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "τοὺς δεσμούς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329597,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 4,
+        "word": "chains",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chains",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τοὺς δεσμούς = chains",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

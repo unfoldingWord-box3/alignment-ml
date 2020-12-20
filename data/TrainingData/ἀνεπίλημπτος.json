@@ -48,51 +48,8 @@
     "targetWordsTxt": "without reproach",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀνεπίλημπτον = without reproach",
-    "frequency": 0.3333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548171",
-    "book_id": "1ti",
-    "chapter": "5",
-    "verse": "7",
-    "alignment_num": "5",
-    "orig_lang_words": ",1532191,",
-    "target_lang_words": ",1338303,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532191,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "7",
-        "word_num": 4,
-        "word": "ἀνεπίλημπτοι",
-        "occurrence": 1,
-        "strong": "G04230",
-        "lemma": "ἀνεπίλημπτος",
-        "morph": "Gr,NP,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἀνεπίλημπτοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338303,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "7",
-        "word_num": 9,
-        "word": "blameless",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blameless",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀνεπίλημπτοι = blameless",
-    "frequency": 0.3333333333333333,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +102,53 @@
     "targetWordsTxt": "or blame",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀνεπίλημπτον = or blame",
-    "frequency": 0.3333333333333333,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548171",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "7",
+    "alignment_num": "5",
+    "orig_lang_words": ",1532191,",
+    "target_lang_words": ",1338303,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532191,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 4,
+        "word": "ἀνεπίλημπτοι",
+        "occurrence": 1,
+        "strong": "G04230",
+        "lemma": "ἀνεπίλημπτος",
+        "morph": "Gr,NP,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀνεπίλημπτοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338303,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 9,
+        "word": "blameless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blameless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀνεπίλημπτοι = blameless",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -48,7 +48,8 @@
     "targetWordsTxt": "I kiss",
     "alignmentTargetWords": 2,
     "alignmentTxt": "φιλήσω = I kiss",
-    "frequency": 0.05,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,8 @@
     "targetWordsTxt": "love",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φιλούντων = love",
-    "frequency": 0.05,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +147,8 @@
     "targetWordsTxt": "to kiss",
     "alignmentTargetWords": 2,
     "alignmentTxt": "φιλῆσαι = to kiss",
-    "frequency": 0.05,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,7 +192,98 @@
     "targetWordsTxt": "loves",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φιλεῖ = loves",
-    "frequency": 0.1,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498780",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "27",
+    "alignment_num": "4",
+    "orig_lang_words": ",1480776,",
+    "target_lang_words": ",1268061,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480776,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "27",
+        "word_num": 4,
+        "word": "φιλεῖ",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "φιλεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1268061,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "27",
+        "word_num": 4,
+        "word": "loves",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "loves",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "φιλεῖ = loves",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533013",
+    "book_id": "1co",
+    "chapter": "16",
+    "verse": "22",
+    "alignment_num": "3",
+    "orig_lang_words": ",1516541,",
+    "target_lang_words": ",1316578,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516541,
+        "book_id": "1co",
+        "chapter": "16",
+        "verse": "22",
+        "word_num": 3,
+        "word": "φιλεῖ",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "φιλεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1316578,
+        "book_id": "1co",
+        "chapter": "16",
+        "verse": "22",
+        "word_num": 4,
+        "word": "love",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "love",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "φιλεῖ = love",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,7 +336,134 @@
     "targetWordsTxt": "you love",
     "alignmentTargetWords": 2,
     "alignmentTxt": "φιλεῖς = you love",
-    "frequency": 0.05,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501755",
+    "book_id": "jhn",
+    "chapter": "21",
+    "verse": "17",
+    "alignment_num": "5",
+    "orig_lang_words": ",1483945,",
+    "target_lang_words": ",1272129,1272130,1272131,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483945,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 6,
+        "word": "φιλεῖς",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,IPA2,,S,"
+      }
+    ],
+    "origWordsTxt": "φιλεῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1272129,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 11,
+        "word": "do",
+        "occurrence": 1
+      },
+      {
+        "id": 1272130,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 12,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1272131,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 13,
+        "word": "love",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "do you love",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "φιλεῖς = do you love",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501763",
+    "book_id": "jhn",
+    "chapter": "21",
+    "verse": "17",
+    "alignment_num": "13",
+    "orig_lang_words": ",1483955,",
+    "target_lang_words": ",1272145,1272146,1272147,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483955,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 16,
+        "word": "φιλεῖς",
+        "occurrence": 2,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,IPA2,,S,"
+      }
+    ],
+    "origWordsTxt": "φιλεῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1272145,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 27,
+        "word": "Do",
+        "occurrence": 1
+      },
+      {
+        "id": 1272146,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 28,
+        "word": "you",
+        "occurrence": 2
+      },
+      {
+        "id": 1272147,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 29,
+        "word": "love",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "Do you love",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "φιλεῖς = Do you love",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,7 +516,116 @@
     "targetWordsTxt": "he loved",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐφίλει = he loved",
-    "frequency": 0.05,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498157",
+    "book_id": "jhn",
+    "chapter": "15",
+    "verse": "19",
+    "alignment_num": "7",
+    "orig_lang_words": ",1480144,",
+    "target_lang_words": ",1267174,1267175,1267176,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480144,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "19",
+        "word_num": 10,
+        "word": "ἐφίλει",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐφίλει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1267174,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "19",
+        "word_num": 8,
+        "word": "would",
+        "occurrence": 1
+      },
+      {
+        "id": 1267175,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "19",
+        "word_num": 9,
+        "word": "love",
+        "occurrence": 1
+      },
+      {
+        "id": 1267176,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "19",
+        "word_num": 10,
+        "word": "you",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "would love you",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐφίλει = would love you",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500893",
+    "book_id": "jhn",
+    "chapter": "20",
+    "verse": "2",
+    "alignment_num": "14",
+    "orig_lang_words": ",1483032,",
+    "target_lang_words": ",1270974,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483032,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "2",
+        "word_num": 13,
+        "word": "ἐφίλει",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐφίλει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1270974,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "2",
+        "word_num": 15,
+        "word": "loved",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "loved",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐφίλει = loved",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -369,625 +699,8 @@
     "targetWordsTxt": "He who loves",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ὁ φιλῶν = He who loves",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498157",
-    "book_id": "jhn",
-    "chapter": "15",
-    "verse": "19",
-    "alignment_num": "7",
-    "orig_lang_words": ",1480144,",
-    "target_lang_words": ",1267174,1267175,1267176,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480144,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "19",
-        "word_num": 10,
-        "word": "ἐφίλει",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐφίλει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1267174,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "19",
-        "word_num": 8,
-        "word": "would",
-        "occurrence": 1
-      },
-      {
-        "id": 1267175,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "19",
-        "word_num": 9,
-        "word": "love",
-        "occurrence": 1
-      },
-      {
-        "id": 1267176,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "19",
-        "word_num": 10,
-        "word": "you",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "would love you",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐφίλει = would love you",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498780",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "27",
-    "alignment_num": "4",
-    "orig_lang_words": ",1480776,",
-    "target_lang_words": ",1268061,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480776,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "27",
-        "word_num": 4,
-        "word": "φιλεῖ",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "φιλεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1268061,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "27",
-        "word_num": 4,
-        "word": "loves",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "loves",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "φιλεῖ = loves",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498784",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "27",
-    "alignment_num": "8",
-    "orig_lang_words": ",1480781,",
-    "target_lang_words": ",1268065,1268066,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480781,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "27",
-        "word_num": 9,
-        "word": "πεφιλήκατε",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,IEA2,,P,"
-      }
-    ],
-    "origWordsTxt": "πεφιλήκατε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1268065,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "27",
-        "word_num": 8,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1268066,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "27",
-        "word_num": 9,
-        "word": "loved",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "have loved",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "πεφιλήκατε = have loved",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500893",
-    "book_id": "jhn",
-    "chapter": "20",
-    "verse": "2",
-    "alignment_num": "14",
-    "orig_lang_words": ",1483032,",
-    "target_lang_words": ",1270974,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483032,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "2",
-        "word_num": 13,
-        "word": "ἐφίλει",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐφίλει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1270974,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "2",
-        "word_num": 15,
-        "word": "loved",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "loved",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐφίλει = loved",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501719",
-    "book_id": "jhn",
-    "chapter": "21",
-    "verse": "15",
-    "alignment_num": "20",
-    "orig_lang_words": ",1483908,",
-    "target_lang_words": ",1272071,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483908,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "15",
-        "word_num": 22,
-        "word": "φιλῶ",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "φιλῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1272071,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "15",
-        "word_num": 30,
-        "word": "I",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "φιλῶ = I",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501742",
-    "book_id": "jhn",
-    "chapter": "21",
-    "verse": "16",
-    "alignment_num": "15",
-    "orig_lang_words": ",1483931,",
-    "target_lang_words": ",1272106,1272107,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483931,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "16",
-        "word_num": 15,
-        "word": "φιλῶ",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "φιλῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1272106,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "16",
-        "word_num": 25,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1272107,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "16",
-        "word_num": 26,
-        "word": "love",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "I love",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "φιλῶ = I love",
-    "frequency": 0.15,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501755",
-    "book_id": "jhn",
-    "chapter": "21",
-    "verse": "17",
-    "alignment_num": "5",
-    "orig_lang_words": ",1483945,",
-    "target_lang_words": ",1272129,1272130,1272131,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483945,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 6,
-        "word": "φιλεῖς",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,IPA2,,S,"
-      }
-    ],
-    "origWordsTxt": "φιλεῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1272129,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 11,
-        "word": "do",
-        "occurrence": 1
-      },
-      {
-        "id": 1272130,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 12,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 1272131,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 13,
-        "word": "love",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "do you love",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "φιλεῖς = do you love",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501763",
-    "book_id": "jhn",
-    "chapter": "21",
-    "verse": "17",
-    "alignment_num": "13",
-    "orig_lang_words": ",1483955,",
-    "target_lang_words": ",1272145,1272146,1272147,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483955,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 16,
-        "word": "φιλεῖς",
-        "occurrence": 2,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,IPA2,,S,"
-      }
-    ],
-    "origWordsTxt": "φιλεῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1272145,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 27,
-        "word": "Do",
-        "occurrence": 1
-      },
-      {
-        "id": 1272146,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 28,
-        "word": "you",
-        "occurrence": 2
-      },
-      {
-        "id": 1272147,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 29,
-        "word": "love",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "Do you love",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "φιλεῖς = Do you love",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501774",
-    "book_id": "jhn",
-    "chapter": "21",
-    "verse": "17",
-    "alignment_num": "24",
-    "orig_lang_words": ",1483967,",
-    "target_lang_words": ",1272161,1272162,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483967,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 28,
-        "word": "φιλῶ",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "φιλῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1272161,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 43,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1272162,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "17",
-        "word_num": 44,
-        "word": "love",
-        "occurrence": 3
-      }
-    ],
-    "targetWordsTxt": "I love",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "φιλῶ = I love",
-    "frequency": 0.15,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533013",
-    "book_id": "1co",
-    "chapter": "16",
-    "verse": "22",
-    "alignment_num": "3",
-    "orig_lang_words": ",1516541,",
-    "target_lang_words": ",1316578,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516541,
-        "book_id": "1co",
-        "chapter": "16",
-        "verse": "22",
-        "word_num": 3,
-        "word": "φιλεῖ",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "φιλεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1316578,
-        "book_id": "1co",
-        "chapter": "16",
-        "verse": "22",
-        "word_num": 4,
-        "word": "love",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "love",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "φιλεῖ = love",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550645",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "15",
-    "alignment_num": "8",
-    "orig_lang_words": ",1534669,",
-    "target_lang_words": ",1341795,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534669,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 8,
-        "word": "φιλοῦντας",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,PPA,AMP,"
-      }
-    ],
-    "origWordsTxt": "φιλοῦντας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341795,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 11,
-        "word": "love",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "love",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "φιλοῦντας = love",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564095",
-    "book_id": "rev",
-    "chapter": "3",
-    "verse": "19",
-    "alignment_num": "5",
-    "orig_lang_words": ",1549077,",
-    "target_lang_words": ",1361918,1361919,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1549077,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 3,
-        "word": "φιλῶ",
-        "occurrence": 1,
-        "strong": "G53680",
-        "lemma": "φιλέω",
-        "morph": "Gr,V,SPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "φιλῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1361918,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 6,
-        "word": "I",
-        "occurrence": 2
-      },
-      {
-        "id": 1361919,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 7,
-        "word": "love",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I love",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "φιλῶ = I love",
-    "frequency": 0.15,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1040,7 +753,314 @@
     "targetWordsTxt": "who loves",
     "alignmentTargetWords": 2,
     "alignmentTxt": "φιλῶν = who loves",
-    "frequency": 0.05,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498784",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "27",
+    "alignment_num": "8",
+    "orig_lang_words": ",1480781,",
+    "target_lang_words": ",1268065,1268066,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480781,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "27",
+        "word_num": 9,
+        "word": "πεφιλήκατε",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,IEA2,,P,"
+      }
+    ],
+    "origWordsTxt": "πεφιλήκατε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1268065,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "27",
+        "word_num": 8,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1268066,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "27",
+        "word_num": 9,
+        "word": "loved",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "have loved",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "πεφιλήκατε = have loved",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501719",
+    "book_id": "jhn",
+    "chapter": "21",
+    "verse": "15",
+    "alignment_num": "20",
+    "orig_lang_words": ",1483908,",
+    "target_lang_words": ",1272071,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483908,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "15",
+        "word_num": 22,
+        "word": "φιλῶ",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "φιλῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1272071,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "15",
+        "word_num": 30,
+        "word": "I",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "φιλῶ = I",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501742",
+    "book_id": "jhn",
+    "chapter": "21",
+    "verse": "16",
+    "alignment_num": "15",
+    "orig_lang_words": ",1483931,",
+    "target_lang_words": ",1272106,1272107,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483931,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "16",
+        "word_num": 15,
+        "word": "φιλῶ",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "φιλῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1272106,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "16",
+        "word_num": 25,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1272107,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "16",
+        "word_num": 26,
+        "word": "love",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "I love",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "φιλῶ = I love",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501774",
+    "book_id": "jhn",
+    "chapter": "21",
+    "verse": "17",
+    "alignment_num": "24",
+    "orig_lang_words": ",1483967,",
+    "target_lang_words": ",1272161,1272162,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483967,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 28,
+        "word": "φιλῶ",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "φιλῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1272161,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 43,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1272162,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "17",
+        "word_num": 44,
+        "word": "love",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "I love",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "φιλῶ = I love",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564095",
+    "book_id": "rev",
+    "chapter": "3",
+    "verse": "19",
+    "alignment_num": "5",
+    "orig_lang_words": ",1549077,",
+    "target_lang_words": ",1361918,1361919,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549077,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 3,
+        "word": "φιλῶ",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,SPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "φιλῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1361918,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 6,
+        "word": "I",
+        "occurrence": 2
+      },
+      {
+        "id": 1361919,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 7,
+        "word": "love",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I love",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "φιλῶ = I love",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550645",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "15",
+    "alignment_num": "8",
+    "orig_lang_words": ",1534669,",
+    "target_lang_words": ",1341795,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534669,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 8,
+        "word": "φιλοῦντας",
+        "occurrence": 1,
+        "strong": "G53680",
+        "lemma": "φιλέω",
+        "morph": "Gr,V,PPA,AMP,"
+      }
+    ],
+    "origWordsTxt": "φιλοῦντας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341795,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 11,
+        "word": "love",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "love",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "φιλοῦντας = love",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

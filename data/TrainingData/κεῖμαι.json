@@ -39,7 +39,8 @@
     "targetWordsTxt": "lying",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κείμενον = lying",
-    "frequency": 0.047619047619047616,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,413 +102,8 @@
     "targetWordsTxt": "who was lying",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κείμενον = who was lying",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "470065",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "34",
-    "alignment_num": "12",
-    "orig_lang_words": ",1450803,",
-    "target_lang_words": ",1228959,1228960,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1450803,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "34",
-        "word_num": 13,
-        "word": "κεῖται",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,IPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "κεῖται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1228959,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "34",
-        "word_num": 13,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1228960,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "34",
-        "word_num": 14,
-        "word": "appointed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is appointed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κεῖται = is appointed",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "470538",
-    "book_id": "luk",
-    "chapter": "3",
-    "verse": "9",
-    "alignment_num": "4",
-    "orig_lang_words": ",1451289,",
-    "target_lang_words": ",1229598,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1451289,
-        "book_id": "luk",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 10,
-        "word": "κεῖται",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,IPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "κεῖται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1229598,
-        "book_id": "luk",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 4,
-        "word": "is",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κεῖται = is",
-    "frequency": 0.09523809523809523,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "478490",
-    "book_id": "luk",
-    "chapter": "12",
-    "verse": "19",
-    "alignment_num": "9",
-    "orig_lang_words": ",1459370,",
-    "target_lang_words": ",1240297,1240298,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1459370,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 9,
-        "word": "κείμενα",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,PPM,ANP,"
-      }
-    ],
-    "origWordsTxt": "κείμενα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1240297,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 12,
-        "word": "stored",
-        "occurrence": 1
-      },
-      {
-        "id": 1240298,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 13,
-        "word": "up",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "stored up",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κείμενα = stored up",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "486695",
-    "book_id": "luk",
-    "chapter": "23",
-    "verse": "53",
-    "alignment_num": "16",
-    "orig_lang_words": ",1467673,",
-    "target_lang_words": ",1251597,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1467673,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "53",
-        "word_num": 16,
-        "word": "κείμενος",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "κείμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1251597,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "53",
-        "word_num": 30,
-        "word": "laid",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "laid",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κείμενος = laid",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488371",
-    "book_id": "jhn",
-    "chapter": "2",
-    "verse": "6",
-    "alignment_num": "9",
-    "orig_lang_words": ",1469437,",
-    "target_lang_words": ",1253817,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1469437,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 11,
-        "word": "κείμεναι",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,PPM,NFP,"
-      }
-    ],
-    "origWordsTxt": "κείμεναι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1253817,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 13,
-        "word": "standing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "standing",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κείμεναι = standing",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500613",
-    "book_id": "jhn",
-    "chapter": "19",
-    "verse": "29",
-    "alignment_num": "3",
-    "orig_lang_words": ",1482733,",
-    "target_lang_words": ",1270578,1270579,1270580,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1482733,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "29",
-        "word_num": 1,
-        "word": "ἔκειτο",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,IIM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἔκειτο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1270578,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "29",
-        "word_num": 6,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1270579,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "29",
-        "word_num": 7,
-        "word": "placed",
-        "occurrence": 1
-      },
-      {
-        "id": 1270580,
-        "book_id": "jhn",
-        "chapter": "19",
-        "verse": "29",
-        "word_num": 8,
-        "word": "there",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was placed there",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἔκειτο = was placed there",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500944",
-    "book_id": "jhn",
-    "chapter": "20",
-    "verse": "5",
-    "alignment_num": "5",
-    "orig_lang_words": ",1483085,",
-    "target_lang_words": ",1271040,1271041,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483085,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "5",
-        "word_num": 3,
-        "word": "κείμενα",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,PPM,ANP,"
-      }
-    ],
-    "origWordsTxt": "κείμενα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1271040,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "5",
-        "word_num": 8,
-        "word": "lying",
-        "occurrence": 1
-      },
-      {
-        "id": 1271041,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "5",
-        "word_num": 9,
-        "word": "there",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "lying there",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κείμενα = lying there",
-    "frequency": 0.09523809523809523,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500964",
-    "book_id": "jhn",
-    "chapter": "20",
-    "verse": "6",
-    "alignment_num": "15",
-    "orig_lang_words": ",1483107,",
-    "target_lang_words": ",1271065,1271066,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483107,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "6",
-        "word_num": 16,
-        "word": "κείμενα",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,PPM,ANP,"
-      }
-    ],
-    "origWordsTxt": "κείμενα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1271065,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "6",
-        "word_num": 17,
-        "word": "lying",
-        "occurrence": 1
-      },
-      {
-        "id": 1271066,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "6",
-        "word_num": 18,
-        "word": "there",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "lying there",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κείμενα = lying there",
-    "frequency": 0.09523809523809523,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -560,104 +156,8 @@
     "targetWordsTxt": "It was",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κείμενον = It was",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501054",
-    "book_id": "jhn",
-    "chapter": "20",
-    "verse": "12",
-    "alignment_num": "19",
-    "orig_lang_words": ",1483195,",
-    "target_lang_words": ",1271177,1271178,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483195,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "12",
-        "word_num": 17,
-        "word": "ἔκειτο",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,IIM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἔκειτο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1271177,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "12",
-        "word_num": 22,
-        "word": "had",
-        "occurrence": 1
-      },
-      {
-        "id": 1271178,
-        "book_id": "jhn",
-        "chapter": "20",
-        "verse": "12",
-        "word_num": 23,
-        "word": "lain",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "had lain",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἔκειτο = had lain",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501615",
-    "book_id": "jhn",
-    "chapter": "21",
-    "verse": "9",
-    "alignment_num": "8",
-    "orig_lang_words": ",1483801,",
-    "target_lang_words": ",1271931,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483801,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "9",
-        "word_num": 8,
-        "word": "κειμένην",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,PPM,AFS,"
-      }
-    ],
-    "origWordsTxt": "κειμένην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1271931,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "9",
-        "word_num": 13,
-        "word": "kindled",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "kindled",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κειμένην = kindled",
-    "frequency": 0.047619047619047616,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -758,7 +258,107 @@
     "targetWordsTxt": "the one that has been laid",
     "alignmentTargetWords": 6,
     "alignmentTxt": "τὸν κείμενον = the one that has been laid",
-    "frequency": 0.047619047619047616,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470065",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "34",
+    "alignment_num": "12",
+    "orig_lang_words": ",1450803,",
+    "target_lang_words": ",1228959,1228960,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1450803,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "34",
+        "word_num": 13,
+        "word": "κεῖται",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "κεῖται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1228959,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "34",
+        "word_num": 13,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1228960,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "34",
+        "word_num": 14,
+        "word": "appointed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is appointed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κεῖται = is appointed",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "470538",
+    "book_id": "luk",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "4",
+    "orig_lang_words": ",1451289,",
+    "target_lang_words": ",1229598,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1451289,
+        "book_id": "luk",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 10,
+        "word": "κεῖται",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "κεῖται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1229598,
+        "book_id": "luk",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 4,
+        "word": "is",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κεῖται = is",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -802,7 +402,629 @@
     "targetWordsTxt": "lies",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κεῖται = lies",
-    "frequency": 0.09523809523809523,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547262",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "4",
+    "orig_lang_words": ",1531305,",
+    "target_lang_words": ",1337025,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531305,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 6,
+        "word": "κεῖται",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "κεῖται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337025,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 5,
+        "word": "is",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κεῖται = is",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561792",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "19",
+    "alignment_num": "9",
+    "orig_lang_words": ",1546571,",
+    "target_lang_words": ",1358567,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546571,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "19",
+        "word_num": 13,
+        "word": "κεῖται",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "κεῖται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358567,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "19",
+        "word_num": 14,
+        "word": "lies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "lies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κεῖται = lies",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570915",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "16",
+    "alignment_num": "2",
+    "orig_lang_words": ",1556663,",
+    "target_lang_words": ",1371120,1371121,1371122,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556663,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "16",
+        "word_num": 4,
+        "word": "κεῖται",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "κεῖται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1371120,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "16",
+        "word_num": 2,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1371121,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "16",
+        "word_num": 3,
+        "word": "laid",
+        "occurrence": 1
+      },
+      {
+        "id": 1371122,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "16",
+        "word_num": 4,
+        "word": "out",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was laid out",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "κεῖται = was laid out",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "478490",
+    "book_id": "luk",
+    "chapter": "12",
+    "verse": "19",
+    "alignment_num": "9",
+    "orig_lang_words": ",1459370,",
+    "target_lang_words": ",1240297,1240298,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1459370,
+        "book_id": "luk",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 9,
+        "word": "κείμενα",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,PPM,ANP,"
+      }
+    ],
+    "origWordsTxt": "κείμενα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1240297,
+        "book_id": "luk",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 12,
+        "word": "stored",
+        "occurrence": 1
+      },
+      {
+        "id": 1240298,
+        "book_id": "luk",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 13,
+        "word": "up",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "stored up",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κείμενα = stored up",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500944",
+    "book_id": "jhn",
+    "chapter": "20",
+    "verse": "5",
+    "alignment_num": "5",
+    "orig_lang_words": ",1483085,",
+    "target_lang_words": ",1271040,1271041,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483085,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "5",
+        "word_num": 3,
+        "word": "κείμενα",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,PPM,ANP,"
+      }
+    ],
+    "origWordsTxt": "κείμενα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1271040,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "5",
+        "word_num": 8,
+        "word": "lying",
+        "occurrence": 1
+      },
+      {
+        "id": 1271041,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "5",
+        "word_num": 9,
+        "word": "there",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "lying there",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κείμενα = lying there",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500964",
+    "book_id": "jhn",
+    "chapter": "20",
+    "verse": "6",
+    "alignment_num": "15",
+    "orig_lang_words": ",1483107,",
+    "target_lang_words": ",1271065,1271066,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483107,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 16,
+        "word": "κείμενα",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,PPM,ANP,"
+      }
+    ],
+    "origWordsTxt": "κείμενα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1271065,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 17,
+        "word": "lying",
+        "occurrence": 1
+      },
+      {
+        "id": 1271066,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "6",
+        "word_num": 18,
+        "word": "there",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "lying there",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κείμενα = lying there",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "486695",
+    "book_id": "luk",
+    "chapter": "23",
+    "verse": "53",
+    "alignment_num": "16",
+    "orig_lang_words": ",1467673,",
+    "target_lang_words": ",1251597,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1467673,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "53",
+        "word_num": 16,
+        "word": "κείμενος",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "κείμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1251597,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "53",
+        "word_num": 30,
+        "word": "laid",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "laid",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κείμενος = laid",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488371",
+    "book_id": "jhn",
+    "chapter": "2",
+    "verse": "6",
+    "alignment_num": "9",
+    "orig_lang_words": ",1469437,",
+    "target_lang_words": ",1253817,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469437,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 11,
+        "word": "κείμεναι",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,PPM,NFP,"
+      }
+    ],
+    "origWordsTxt": "κείμεναι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1253817,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 13,
+        "word": "standing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "standing",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κείμεναι = standing",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500613",
+    "book_id": "jhn",
+    "chapter": "19",
+    "verse": "29",
+    "alignment_num": "3",
+    "orig_lang_words": ",1482733,",
+    "target_lang_words": ",1270578,1270579,1270580,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1482733,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "29",
+        "word_num": 1,
+        "word": "ἔκειτο",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,IIM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἔκειτο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1270578,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "29",
+        "word_num": 6,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1270579,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "29",
+        "word_num": 7,
+        "word": "placed",
+        "occurrence": 1
+      },
+      {
+        "id": 1270580,
+        "book_id": "jhn",
+        "chapter": "19",
+        "verse": "29",
+        "word_num": 8,
+        "word": "there",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was placed there",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἔκειτο = was placed there",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501054",
+    "book_id": "jhn",
+    "chapter": "20",
+    "verse": "12",
+    "alignment_num": "19",
+    "orig_lang_words": ",1483195,",
+    "target_lang_words": ",1271177,1271178,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483195,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "12",
+        "word_num": 17,
+        "word": "ἔκειτο",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,IIM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἔκειτο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1271177,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "12",
+        "word_num": 22,
+        "word": "had",
+        "occurrence": 1
+      },
+      {
+        "id": 1271178,
+        "book_id": "jhn",
+        "chapter": "20",
+        "verse": "12",
+        "word_num": 23,
+        "word": "lain",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "had lain",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔκειτο = had lain",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564195",
+    "book_id": "rev",
+    "chapter": "4",
+    "verse": "2",
+    "alignment_num": "7",
+    "orig_lang_words": ",1549188,",
+    "target_lang_words": ",1362057,1362058,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549188,
+        "book_id": "rev",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 7,
+        "word": "ἔκειτο",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,IIM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἔκειτο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1362057,
+        "book_id": "rev",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 11,
+        "word": "was",
+        "occurrence": 2
+      },
+      {
+        "id": 1362058,
+        "book_id": "rev",
+        "chapter": "4",
+        "verse": "2",
+        "word_num": 12,
+        "word": "placed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was placed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἔκειτο = was placed",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501615",
+    "book_id": "jhn",
+    "chapter": "21",
+    "verse": "9",
+    "alignment_num": "8",
+    "orig_lang_words": ",1483801,",
+    "target_lang_words": ",1271931,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483801,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "9",
+        "word_num": 8,
+        "word": "κειμένην",
+        "occurrence": 1,
+        "strong": "G27490",
+        "lemma": "κεῖμαι",
+        "morph": "Gr,V,PPM,AFS,"
+      }
+    ],
+    "origWordsTxt": "κειμένην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1271931,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "9",
+        "word_num": 13,
+        "word": "kindled",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "kindled",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κειμένην = kindled",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -873,7 +1095,8 @@
     "targetWordsTxt": "I am put here",
     "alignmentTargetWords": 4,
     "alignmentTxt": "κεῖμαι = I am put here",
-    "frequency": 0.047619047619047616,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -944,210 +1167,8 @@
     "targetWordsTxt": "we have been appointed",
     "alignmentTargetWords": 4,
     "alignmentTxt": "κείμεθα = we have been appointed",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547262",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "4",
-    "orig_lang_words": ",1531305,",
-    "target_lang_words": ",1337025,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531305,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 6,
-        "word": "κεῖται",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,IPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "κεῖται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337025,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 5,
-        "word": "is",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κεῖται = is",
-    "frequency": 0.09523809523809523,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561792",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "19",
-    "alignment_num": "9",
-    "orig_lang_words": ",1546571,",
-    "target_lang_words": ",1358567,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546571,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "19",
-        "word_num": 13,
-        "word": "κεῖται",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,IPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "κεῖται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358567,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "19",
-        "word_num": 14,
-        "word": "lies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "lies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κεῖται = lies",
-    "frequency": 0.09523809523809523,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564195",
-    "book_id": "rev",
-    "chapter": "4",
-    "verse": "2",
-    "alignment_num": "7",
-    "orig_lang_words": ",1549188,",
-    "target_lang_words": ",1362057,1362058,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1549188,
-        "book_id": "rev",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 7,
-        "word": "ἔκειτο",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,IIM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἔκειτο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1362057,
-        "book_id": "rev",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 11,
-        "word": "was",
-        "occurrence": 2
-      },
-      {
-        "id": 1362058,
-        "book_id": "rev",
-        "chapter": "4",
-        "verse": "2",
-        "word_num": 12,
-        "word": "placed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was placed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἔκειτο = was placed",
-    "frequency": 0.047619047619047616,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "570915",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "16",
-    "alignment_num": "2",
-    "orig_lang_words": ",1556663,",
-    "target_lang_words": ",1371120,1371121,1371122,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556663,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "16",
-        "word_num": 4,
-        "word": "κεῖται",
-        "occurrence": 1,
-        "strong": "G27490",
-        "lemma": "κεῖμαι",
-        "morph": "Gr,V,IPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "κεῖται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1371120,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "16",
-        "word_num": 2,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1371121,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "16",
-        "word_num": 3,
-        "word": "laid",
-        "occurrence": 1
-      },
-      {
-        "id": 1371122,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "16",
-        "word_num": 4,
-        "word": "out",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was laid out",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "κεῖται = was laid out",
-    "frequency": 0.047619047619047616,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

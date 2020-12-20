@@ -48,7 +48,8 @@
     "targetWordsTxt": "the lowly",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ταπεινούς = the lowly",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -113,163 +114,8 @@
     "targetWordsTxt": "lowly people",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῖς ταπεινοῖς = lowly people",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535058",
-    "book_id": "2co",
-    "chapter": "7",
-    "verse": "6",
-    "alignment_num": "4",
-    "orig_lang_words": ",1518648,",
-    "target_lang_words": ",1319469,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518648,
-        "book_id": "2co",
-        "chapter": "7",
-        "verse": "6",
-        "word_num": 4,
-        "word": "ταπεινοὺς",
-        "occurrence": 1,
-        "strong": "G50110",
-        "lemma": "ταπεινός",
-        "morph": "Gr,NS,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "ταπεινοὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1319469,
-        "book_id": "2co",
-        "chapter": "7",
-        "verse": "6",
-        "word_num": 7,
-        "word": "discouraged",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "discouraged",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ταπεινοὺς = discouraged",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535956",
-    "book_id": "2co",
-    "chapter": "10",
-    "verse": "1",
-    "alignment_num": "12",
-    "orig_lang_words": ",1519596,1519597,",
-    "target_lang_words": ",1320765,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1519596,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "1",
-        "word_num": 16,
-        "word": "μὲν",
-        "occurrence": 1,
-        "strong": "G33030",
-        "lemma": "μέν",
-        "morph": "Gr,D,,,,,,,,,"
-      },
-      {
-        "id": 1519597,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "1",
-        "word_num": 17,
-        "word": "ταπεινὸς",
-        "occurrence": 1,
-        "strong": "G50110",
-        "lemma": "ταπεινός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "μὲν ταπεινὸς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1320765,
-        "book_id": "2co",
-        "chapter": "10",
-        "verse": "1",
-        "word_num": 14,
-        "word": "I",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "I",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μὲν ταπεινὸς = I",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555793",
-    "book_id": "jas",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "3",
-    "orig_lang_words": ",1540064,1540065,",
-    "target_lang_words": ",1349587,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1540064,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 4,
-        "word": "ὁ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1540065,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 5,
-        "word": "ταπεινὸς",
-        "occurrence": 1,
-        "strong": "G50110",
-        "lemma": "ταπεινός",
-        "morph": "Gr,AR,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ ταπεινὸς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349587,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 3,
-        "word": "poor",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "poor",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ ταπεινὸς = poor",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -331,7 +177,8 @@
     "targetWordsTxt": "to the humble",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ταπεινοῖς = to the humble",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -393,7 +240,167 @@
     "targetWordsTxt": "to the humble",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ταπεινοῖς = to the humble",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535058",
+    "book_id": "2co",
+    "chapter": "7",
+    "verse": "6",
+    "alignment_num": "4",
+    "orig_lang_words": ",1518648,",
+    "target_lang_words": ",1319469,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518648,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "6",
+        "word_num": 4,
+        "word": "ταπεινοὺς",
+        "occurrence": 1,
+        "strong": "G50110",
+        "lemma": "ταπεινός",
+        "morph": "Gr,NS,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ταπεινοὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319469,
+        "book_id": "2co",
+        "chapter": "7",
+        "verse": "6",
+        "word_num": 7,
+        "word": "discouraged",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "discouraged",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ταπεινοὺς = discouraged",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535956",
+    "book_id": "2co",
+    "chapter": "10",
+    "verse": "1",
+    "alignment_num": "12",
+    "orig_lang_words": ",1519596,1519597,",
+    "target_lang_words": ",1320765,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1519596,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 16,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,D,,,,,,,,,"
+      },
+      {
+        "id": 1519597,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 17,
+        "word": "ταπεινὸς",
+        "occurrence": 1,
+        "strong": "G50110",
+        "lemma": "ταπεινός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "μὲν ταπεινὸς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320765,
+        "book_id": "2co",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 14,
+        "word": "I",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "I",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μὲν ταπεινὸς = I",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555793",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "3",
+    "orig_lang_words": ",1540064,1540065,",
+    "target_lang_words": ",1349587,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1540064,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 4,
+        "word": "ὁ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1540065,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 5,
+        "word": "ταπεινὸς",
+        "occurrence": 1,
+        "strong": "G50110",
+        "lemma": "ταπεινός",
+        "morph": "Gr,AR,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ ταπεινὸς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349587,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 3,
+        "word": "poor",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "poor",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ ταπεινὸς = poor",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -48,7 +48,8 @@
     "targetWordsTxt": "low condition",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ταπείνωσιν = low condition",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -104,63 +105,8 @@
     "targetWordsTxt": "humiliation",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῇ ταπεινώσει = humiliation",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543141",
-    "book_id": "php",
-    "chapter": "3",
-    "verse": "21",
-    "alignment_num": "3",
-    "orig_lang_words": ",1526932,1526933,",
-    "target_lang_words": ",1331142,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1526932,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 4,
-        "word": "τῆς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GFS,"
-      },
-      {
-        "id": 1526933,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 5,
-        "word": "ταπεινώσεως",
-        "occurrence": 1,
-        "strong": "G50140",
-        "lemma": "ταπείνωσις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "τῆς ταπεινώσεως",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1331142,
-        "book_id": "php",
-        "chapter": "3",
-        "verse": "21",
-        "word_num": 4,
-        "word": "lowly",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "lowly",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῆς ταπεινώσεως = lowly",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -225,7 +171,65 @@
     "targetWordsTxt": "low position",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῇ ταπεινώσει = low position",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543141",
+    "book_id": "php",
+    "chapter": "3",
+    "verse": "21",
+    "alignment_num": "3",
+    "orig_lang_words": ",1526932,1526933,",
+    "target_lang_words": ",1331142,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1526932,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 4,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1526933,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 5,
+        "word": "ταπεινώσεως",
+        "occurrence": 1,
+        "strong": "G50140",
+        "lemma": "ταπείνωσις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς ταπεινώσεως",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1331142,
+        "book_id": "php",
+        "chapter": "3",
+        "verse": "21",
+        "word_num": 4,
+        "word": "lowly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "lowly",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῆς ταπεινώσεως = lowly",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

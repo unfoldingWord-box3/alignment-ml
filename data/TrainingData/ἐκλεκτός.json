@@ -39,51 +39,8 @@
     "targetWordsTxt": "elect",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐκλεκτοὺς = elect",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "466334",
-    "book_id": "mrk",
-    "chapter": "13",
-    "verse": "22",
-    "alignment_num": "15",
-    "orig_lang_words": ",1446673,",
-    "target_lang_words": ",1223378,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1446673,
-        "book_id": "mrk",
-        "chapter": "13",
-        "verse": "22",
-        "word_num": 16,
-        "word": "ἐκλεκτούς",
-        "occurrence": 1,
-        "strong": "G15880",
-        "lemma": "ἐκλεκτός",
-        "morph": "Gr,NS,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "ἐκλεκτούς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1223378,
-        "book_id": "mrk",
-        "chapter": "13",
-        "verse": "22",
-        "word_num": 21,
-        "word": "elect",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "elect",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐκλεκτούς = elect",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -139,7 +96,98 @@
     "targetWordsTxt": "elect",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοὺς ἐκλεκτοὺς = elect",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "466334",
+    "book_id": "mrk",
+    "chapter": "13",
+    "verse": "22",
+    "alignment_num": "15",
+    "orig_lang_words": ",1446673,",
+    "target_lang_words": ",1223378,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1446673,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "22",
+        "word_num": 16,
+        "word": "ἐκλεκτούς",
+        "occurrence": 1,
+        "strong": "G15880",
+        "lemma": "ἐκλεκτός",
+        "morph": "Gr,NS,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἐκλεκτούς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1223378,
+        "book_id": "mrk",
+        "chapter": "13",
+        "verse": "22",
+        "word_num": 21,
+        "word": "elect",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "elect",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐκλεκτούς = elect",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549197",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "10",
+    "alignment_num": "6",
+    "orig_lang_words": ",1533211,",
+    "target_lang_words": ",1339754,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533211,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 6,
+        "word": "ἐκλεκτούς",
+        "occurrence": 1,
+        "strong": "G15880",
+        "lemma": "ἐκλεκτός",
+        "morph": "Gr,NS,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἐκλεκτούς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339754,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 9,
+        "word": "chosen",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chosen",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐκλεκτούς = chosen",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -183,60 +231,8 @@
     "targetWordsTxt": "elect",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐκλεκτῶν = elect",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "486436",
-    "book_id": "luk",
-    "chapter": "23",
-    "verse": "35",
-    "alignment_num": "23",
-    "orig_lang_words": ",1467415,",
-    "target_lang_words": ",1251265,1251266,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1467415,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "35",
-        "word_num": 23,
-        "word": "ἐκλεκτός",
-        "occurrence": 1,
-        "strong": "G15880",
-        "lemma": "ἐκλεκτός",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἐκλεκτός",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1251265,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "35",
-        "word_num": 29,
-        "word": "chosen",
-        "occurrence": 1
-      },
-      {
-        "id": 1251266,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "35",
-        "word_num": 30,
-        "word": "one",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chosen one",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐκλεκτός = chosen one",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -289,116 +285,8 @@
     "targetWordsTxt": "chosen ones",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐκλεκτῶν = chosen ones",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526194",
-    "book_id": "rom",
-    "chapter": "16",
-    "verse": "13",
-    "alignment_num": "2",
-    "orig_lang_words": ",1509492,1509493,",
-    "target_lang_words": ",1306541,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1509492,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "13",
-        "word_num": 2,
-        "word": "τὸν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AMS,"
-      },
-      {
-        "id": 1509493,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "13",
-        "word_num": 3,
-        "word": "ἐκλεκτὸν",
-        "occurrence": 1,
-        "strong": "G15880",
-        "lemma": "ἐκλεκτός",
-        "morph": "Gr,AR,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "τὸν ἐκλεκτὸν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1306541,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "13",
-        "word_num": 2,
-        "word": "chosen",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chosen",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸν ἐκλεκτὸν = chosen",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544495",
-    "book_id": "col",
-    "chapter": "3",
-    "verse": "12",
-    "alignment_num": "3",
-    "orig_lang_words": ",1528392,",
-    "target_lang_words": ",1333159,1333160,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528392,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "12",
-        "word_num": 3,
-        "word": "ἐκλεκτοὶ",
-        "occurrence": 1,
-        "strong": "G15880",
-        "lemma": "ἐκλεκτός",
-        "morph": "Gr,NS,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἐκλεκτοὶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1333159,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "12",
-        "word_num": 4,
-        "word": "chosen",
-        "occurrence": 1
-      },
-      {
-        "id": 1333160,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "12",
-        "word_num": 5,
-        "word": "ones",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chosen ones",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐκλεκτοὶ = chosen ones",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -442,51 +330,8 @@
     "targetWordsTxt": "chosen",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐκλεκτῶν = chosen",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549197",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "10",
-    "alignment_num": "6",
-    "orig_lang_words": ",1533211,",
-    "target_lang_words": ",1339754,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533211,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 6,
-        "word": "ἐκλεκτούς",
-        "occurrence": 1,
-        "strong": "G15880",
-        "lemma": "ἐκλεκτός",
-        "morph": "Gr,NS,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "ἐκλεκτούς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339754,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 9,
-        "word": "chosen",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chosen",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐκλεκτούς = chosen",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -557,69 +402,119 @@
     "targetWordsTxt": "of the chosen people",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐκλεκτῶν = of the chosen people",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "557332",
-    "book_id": "1pe",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "6",
-    "orig_lang_words": ",1541704,",
-    "target_lang_words": ",1351821,1351822,1351823,",
+    "id": "486436",
+    "book_id": "luk",
+    "chapter": "23",
+    "verse": "35",
+    "alignment_num": "23",
+    "orig_lang_words": ",1467415,",
+    "target_lang_words": ",1251265,1251266,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1541704,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 4,
-        "word": "ἐκλεκτοῖς",
+        "id": 1467415,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "35",
+        "word_num": 23,
+        "word": "ἐκλεκτός",
         "occurrence": 1,
         "strong": "G15880",
         "lemma": "ἐκλεκτός",
-        "morph": "Gr,AA,,,,DMP,"
+        "morph": "Gr,NS,,,,NMS,"
       }
     ],
-    "origWordsTxt": "ἐκλεκτοῖς",
+    "origWordsTxt": "ἐκλεκτός",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1351821,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 12,
-        "word": "the",
-        "occurrence": 3
-      },
-      {
-        "id": 1351822,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 13,
+        "id": 1251265,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "35",
+        "word_num": 29,
         "word": "chosen",
         "occurrence": 1
       },
       {
-        "id": 1351823,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 14,
-        "word": "ones",
+        "id": 1251266,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "35",
+        "word_num": 30,
+        "word": "one",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "the chosen ones",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐκλεκτοῖς = the chosen ones",
-    "frequency": 0.05555555555555555,
+    "targetWordsTxt": "chosen one",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐκλεκτός = chosen one",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526194",
+    "book_id": "rom",
+    "chapter": "16",
+    "verse": "13",
+    "alignment_num": "2",
+    "orig_lang_words": ",1509492,1509493,",
+    "target_lang_words": ",1306541,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1509492,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "13",
+        "word_num": 2,
+        "word": "τὸν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMS,"
+      },
+      {
+        "id": 1509493,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "13",
+        "word_num": 3,
+        "word": "ἐκλεκτὸν",
+        "occurrence": 1,
+        "strong": "G15880",
+        "lemma": "ἐκλεκτός",
+        "morph": "Gr,AR,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "τὸν ἐκλεκτὸν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1306541,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "13",
+        "word_num": 2,
+        "word": "chosen",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chosen",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸν ἐκλεκτὸν = chosen",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -690,7 +585,8 @@
     "targetWordsTxt": "that has been chosen",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐκλεκτὸν = that has been chosen",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -734,7 +630,170 @@
     "targetWordsTxt": "chosen",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐκλεκτὸν = chosen",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544495",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "12",
+    "alignment_num": "3",
+    "orig_lang_words": ",1528392,",
+    "target_lang_words": ",1333159,1333160,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528392,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 3,
+        "word": "ἐκλεκτοὶ",
+        "occurrence": 1,
+        "strong": "G15880",
+        "lemma": "ἐκλεκτός",
+        "morph": "Gr,NS,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἐκλεκτοὶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1333159,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 4,
+        "word": "chosen",
+        "occurrence": 1
+      },
+      {
+        "id": 1333160,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "12",
+        "word_num": 5,
+        "word": "ones",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chosen ones",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐκλεκτοὶ = chosen ones",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569143",
+    "book_id": "rev",
+    "chapter": "17",
+    "verse": "14",
+    "alignment_num": "23",
+    "orig_lang_words": ",1554657,",
+    "target_lang_words": ",1368726,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554657,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 23,
+        "word": "ἐκλεκτοὶ",
+        "occurrence": 1,
+        "strong": "G15880",
+        "lemma": "ἐκλεκτός",
+        "morph": "Gr,NS,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἐκλεκτοὶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368726,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 30,
+        "word": "chosen",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chosen",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐκλεκτοὶ = chosen",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557332",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "6",
+    "orig_lang_words": ",1541704,",
+    "target_lang_words": ",1351821,1351822,1351823,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541704,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 4,
+        "word": "ἐκλεκτοῖς",
+        "occurrence": 1,
+        "strong": "G15880",
+        "lemma": "ἐκλεκτός",
+        "morph": "Gr,AA,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "ἐκλεκτοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1351821,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 12,
+        "word": "the",
+        "occurrence": 3
+      },
+      {
+        "id": 1351822,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 13,
+        "word": "chosen",
+        "occurrence": 1
+      },
+      {
+        "id": 1351823,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 14,
+        "word": "ones",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the chosen ones",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐκλεκτοῖς = the chosen ones",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -778,7 +837,8 @@
     "targetWordsTxt": "chosen",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐκλεκτόν = chosen",
-    "frequency": 0.05555555555555555,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -840,7 +900,8 @@
     "targetWordsTxt": "to the chosen",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐκλεκτῇ = to the chosen",
-    "frequency": 0.05555555555555555,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -896,51 +957,8 @@
     "targetWordsTxt": "chosen",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ἐκλεκτῆς = chosen",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569143",
-    "book_id": "rev",
-    "chapter": "17",
-    "verse": "14",
-    "alignment_num": "23",
-    "orig_lang_words": ",1554657,",
-    "target_lang_words": ",1368726,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554657,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 23,
-        "word": "ἐκλεκτοὶ",
-        "occurrence": 1,
-        "strong": "G15880",
-        "lemma": "ἐκλεκτός",
-        "morph": "Gr,NS,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἐκλεκτοὶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1368726,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 30,
-        "word": "chosen",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chosen",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐκλεκτοὶ = chosen",
-    "frequency": 0.05555555555555555,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

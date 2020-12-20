@@ -39,107 +39,8 @@
     "targetWordsTxt": "descent",
     "alignmentTargetWords": 1,
     "alignmentTxt": "γένει = descent",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "463584",
-    "book_id": "mrk",
-    "chapter": "9",
-    "verse": "29",
-    "alignment_num": "3",
-    "orig_lang_words": ",1443656,1443657,",
-    "target_lang_words": ",1219400,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1443656,
-        "book_id": "mrk",
-        "chapter": "9",
-        "verse": "29",
-        "word_num": 4,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNS,"
-      },
-      {
-        "id": 1443657,
-        "book_id": "mrk",
-        "chapter": "9",
-        "verse": "29",
-        "word_num": 5,
-        "word": "γένος",
-        "occurrence": 1,
-        "strong": "G10850",
-        "lemma": "γένος",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τὸ γένος",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1219400,
-        "book_id": "mrk",
-        "chapter": "9",
-        "verse": "29",
-        "word_num": 5,
-        "word": "kind",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "kind",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ γένος = kind",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503797",
-    "book_id": "act",
-    "chapter": "4",
-    "verse": "6",
-    "alignment_num": "14",
-    "orig_lang_words": ",1486094,",
-    "target_lang_words": ",1274869,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1486094,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "6",
-        "word_num": 14,
-        "word": "γένους",
-        "occurrence": 1,
-        "strong": "G10850",
-        "lemma": "γένος",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "γένους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274869,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "6",
-        "word_num": 16,
-        "word": "the",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "the",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "γένους = the",
-    "frequency": 0.05263157894736842,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -183,257 +84,8 @@
     "targetWordsTxt": "birth",
     "alignmentTargetWords": 1,
     "alignmentTxt": "γένει = birth",
-    "frequency": 0.10526315789473684,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505658",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "13",
-    "alignment_num": "10",
-    "orig_lang_words": ",1488002,",
-    "target_lang_words": ",1277335,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1488002,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "13",
-        "word_num": 15,
-        "word": "γένος",
-        "occurrence": 1,
-        "strong": "G10850",
-        "lemma": "γένος",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "γένος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1277335,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "13",
-        "word_num": 13,
-        "word": "family",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "family",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "γένος = family",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505741",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "19",
-    "alignment_num": "3",
-    "orig_lang_words": ",1488086,1488087,",
-    "target_lang_words": ",1277438,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1488086,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 2,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1488087,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 3,
-        "word": "γένος",
-        "occurrence": 1,
-        "strong": "G10850",
-        "lemma": "γένος",
-        "morph": "Gr,N,,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ γένος",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1277438,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 5,
-        "word": "people",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "people",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ γένος = people",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510234",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "26",
-    "alignment_num": "3",
-    "orig_lang_words": ",1492690,",
-    "target_lang_words": ",1283498,1283499,1283500,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492690,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "26",
-        "word_num": 3,
-        "word": "γένους",
-        "occurrence": 1,
-        "strong": "G10850",
-        "lemma": "γένος",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "γένους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1283498,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "26",
-        "word_num": 3,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1283499,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "26",
-        "word_num": 4,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1283500,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "26",
-        "word_num": 5,
-        "word": "family",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of the family",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "γένους = of the family",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513053",
-    "book_id": "act",
-    "chapter": "17",
-    "verse": "28",
-    "alignment_num": "20",
-    "orig_lang_words": ",1495599,",
-    "target_lang_words": ",1287339,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1495599,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "28",
-        "word_num": 19,
-        "word": "γένος",
-        "occurrence": 1,
-        "strong": "G10850",
-        "lemma": "γένος",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "γένος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1287339,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "28",
-        "word_num": 24,
-        "word": "offspring",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "offspring",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "γένος = offspring",
-    "frequency": 0.10526315789473684,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513056",
-    "book_id": "act",
-    "chapter": "17",
-    "verse": "29",
-    "alignment_num": "2",
-    "orig_lang_words": ",1495601,",
-    "target_lang_words": ",1287342,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1495601,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "29",
-        "word_num": 0,
-        "word": "γένος",
-        "occurrence": 1,
-        "strong": "G10850",
-        "lemma": "γένος",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "γένος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1287342,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "29",
-        "word_num": 2,
-        "word": "offspring",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "offspring",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "γένος = offspring",
-    "frequency": 0.10526315789473684,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -498,7 +150,8 @@
     "targetWordsTxt": "a native",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῷ γένει = a native",
-    "frequency": 0.05263157894736842,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -542,166 +195,512 @@
     "targetWordsTxt": "birth",
     "alignmentTargetWords": 1,
     "alignmentTxt": "γένει = birth",
-    "frequency": 0.10526315789473684,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "530783",
-    "book_id": "1co",
-    "chapter": "12",
-    "verse": "10",
-    "alignment_num": "10",
-    "orig_lang_words": ",1514256,",
-    "target_lang_words": ",1313322,1313323,",
-    "origSpan": 0,
+    "id": "537595",
+    "book_id": "gal",
+    "chapter": "1",
+    "verse": "14",
+    "alignment_num": "7",
+    "orig_lang_words": ",1521256,1521257,",
+    "target_lang_words": ",1323240,",
+    "origSpan": 1,
     "origWords": [
       {
-        "id": 1514256,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "10",
+        "id": 1521256,
+        "book_id": "gal",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 9,
+        "word": "τῷ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1521257,
+        "book_id": "gal",
+        "chapter": "1",
+        "verse": "14",
         "word_num": 10,
-        "word": "γένη",
+        "word": "γένει",
         "occurrence": 1,
         "strong": "G10850",
         "lemma": "γένος",
-        "morph": "Gr,N,,,,,NNP,"
+        "morph": "Gr,N,,,,,DNS,"
       }
     ],
-    "origWordsTxt": "γένη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "origWordsTxt": "τῷ γένει",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1313322,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "10",
-        "word_num": 19,
-        "word": "various",
-        "occurrence": 1
-      },
-      {
-        "id": 1313323,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "10",
-        "word_num": 20,
-        "word": "kinds",
-        "occurrence": 1
+        "id": 1323240,
+        "book_id": "gal",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 15,
+        "word": "of",
+        "occurrence": 2
       }
     ],
-    "targetWordsTxt": "various kinds",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "γένη = various kinds",
-    "frequency": 0.05263157894736842,
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῷ γένει = of",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "531084",
-    "book_id": "1co",
-    "chapter": "12",
-    "verse": "28",
-    "alignment_num": "22",
-    "orig_lang_words": ",1514558,",
-    "target_lang_words": ",1313719,1313720,1313721,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1514558,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 22,
-        "word": "γένη",
-        "occurrence": 1,
-        "strong": "G10850",
-        "lemma": "γένος",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "γένη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1313719,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 23,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1313720,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 24,
-        "word": "various",
-        "occurrence": 1
-      },
-      {
-        "id": 1313721,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 25,
-        "word": "kinds",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and various kinds",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "γένη = and various kinds",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531463",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "10",
+    "id": "463584",
+    "book_id": "mrk",
+    "chapter": "9",
+    "verse": "29",
     "alignment_num": "3",
-    "orig_lang_words": ",1514950,",
-    "target_lang_words": ",1314299,",
-    "origSpan": 0,
+    "orig_lang_words": ",1443656,1443657,",
+    "target_lang_words": ",1219400,",
+    "origSpan": 1,
     "origWords": [
       {
-        "id": 1514950,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "10",
-        "word_num": 3,
-        "word": "γένη",
+        "id": 1443656,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "29",
+        "word_num": 4,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1443657,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "29",
+        "word_num": 5,
+        "word": "γένος",
         "occurrence": 1,
         "strong": "G10850",
         "lemma": "γένος",
-        "morph": "Gr,N,,,,,NNP,"
+        "morph": "Gr,N,,,,,NNS,"
       }
     ],
-    "origWordsTxt": "γένη",
+    "origWordsTxt": "τὸ γένος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1219400,
+        "book_id": "mrk",
+        "chapter": "9",
+        "verse": "29",
+        "word_num": 5,
+        "word": "kind",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "kind",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ γένος = kind",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505658",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "13",
+    "alignment_num": "10",
+    "orig_lang_words": ",1488002,",
+    "target_lang_words": ",1277335,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488002,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "13",
+        "word_num": 15,
+        "word": "γένος",
+        "occurrence": 1,
+        "strong": "G10850",
+        "lemma": "γένος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "γένος",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1314299,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "10",
-        "word_num": 5,
-        "word": "kinds",
+        "id": 1277335,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "13",
+        "word_num": 13,
+        "word": "family",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "kinds",
+    "targetWordsTxt": "family",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "γένη = kinds",
-    "frequency": 0.05263157894736842,
+    "alignmentTxt": "γένος = family",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505741",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "19",
+    "alignment_num": "3",
+    "orig_lang_words": ",1488086,1488087,",
+    "target_lang_words": ",1277438,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1488086,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 2,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1488087,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 3,
+        "word": "γένος",
+        "occurrence": 1,
+        "strong": "G10850",
+        "lemma": "γένος",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ γένος",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1277438,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 5,
+        "word": "people",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "people",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ γένος = people",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513053",
+    "book_id": "act",
+    "chapter": "17",
+    "verse": "28",
+    "alignment_num": "20",
+    "orig_lang_words": ",1495599,",
+    "target_lang_words": ",1287339,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495599,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "28",
+        "word_num": 19,
+        "word": "γένος",
+        "occurrence": 1,
+        "strong": "G10850",
+        "lemma": "γένος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "γένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1287339,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "28",
+        "word_num": 24,
+        "word": "offspring",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "offspring",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γένος = offspring",
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513056",
+    "book_id": "act",
+    "chapter": "17",
+    "verse": "29",
+    "alignment_num": "2",
+    "orig_lang_words": ",1495601,",
+    "target_lang_words": ",1287342,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495601,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "29",
+        "word_num": 0,
+        "word": "γένος",
+        "occurrence": 1,
+        "strong": "G10850",
+        "lemma": "γένος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "γένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1287342,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "29",
+        "word_num": 2,
+        "word": "offspring",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "offspring",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γένος = offspring",
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557852",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1542227,",
+    "target_lang_words": ",1352634,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542227,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 2,
+        "word": "γένος",
+        "occurrence": 1,
+        "strong": "G10850",
+        "lemma": "γένος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "γένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352634,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 3,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γένος = a",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571428",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "16",
+    "alignment_num": "17",
+    "orig_lang_words": ",1557246,",
+    "target_lang_words": ",1371858,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1557246,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "16",
+        "word_num": 18,
+        "word": "γένος",
+        "occurrence": 1,
+        "strong": "G10850",
+        "lemma": "γένος",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "γένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371858,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "16",
+        "word_num": 22,
+        "word": "descendant",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "descendant",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γένος = descendant",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "503797",
+    "book_id": "act",
+    "chapter": "4",
+    "verse": "6",
+    "alignment_num": "14",
+    "orig_lang_words": ",1486094,",
+    "target_lang_words": ",1274869,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1486094,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 14,
+        "word": "γένους",
+        "occurrence": 1,
+        "strong": "G10850",
+        "lemma": "γένος",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "γένους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274869,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 16,
+        "word": "the",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "the",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "γένους = the",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510234",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "26",
+    "alignment_num": "3",
+    "orig_lang_words": ",1492690,",
+    "target_lang_words": ",1283498,1283499,1283500,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492690,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "26",
+        "word_num": 3,
+        "word": "γένους",
+        "occurrence": 1,
+        "strong": "G10850",
+        "lemma": "γένος",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "γένους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1283498,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "26",
+        "word_num": 3,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1283499,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "26",
+        "word_num": 4,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1283500,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "26",
+        "word_num": 5,
+        "word": "family",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of the family",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "γένους = of the family",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -763,63 +762,8 @@
     "targetWordsTxt": "my own countrymen",
     "alignmentTargetWords": 3,
     "alignmentTxt": "γένους = my own countrymen",
-    "frequency": 0.05263157894736842,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537595",
-    "book_id": "gal",
-    "chapter": "1",
-    "verse": "14",
-    "alignment_num": "7",
-    "orig_lang_words": ",1521256,1521257,",
-    "target_lang_words": ",1323240,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1521256,
-        "book_id": "gal",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 9,
-        "word": "τῷ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1521257,
-        "book_id": "gal",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 10,
-        "word": "γένει",
-        "occurrence": 1,
-        "strong": "G10850",
-        "lemma": "γένος",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ γένει",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1323240,
-        "book_id": "gal",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 15,
-        "word": "of",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ γένει = of",
-    "frequency": 0.05263157894736842,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -872,95 +816,170 @@
     "targetWordsTxt": "the people",
     "alignmentTargetWords": 2,
     "alignmentTxt": "γένους = the people",
-    "frequency": 0.05263157894736842,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "557852",
-    "book_id": "1pe",
-    "chapter": "2",
-    "verse": "9",
-    "alignment_num": "2",
-    "orig_lang_words": ",1542227,",
-    "target_lang_words": ",1352634,",
+    "id": "530783",
+    "book_id": "1co",
+    "chapter": "12",
+    "verse": "10",
+    "alignment_num": "10",
+    "orig_lang_words": ",1514256,",
+    "target_lang_words": ",1313322,1313323,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1542227,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 2,
-        "word": "γένος",
+        "id": 1514256,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "10",
+        "word_num": 10,
+        "word": "γένη",
         "occurrence": 1,
         "strong": "G10850",
         "lemma": "γένος",
-        "morph": "Gr,N,,,,,NNS,"
+        "morph": "Gr,N,,,,,NNP,"
       }
     ],
-    "origWordsTxt": "γένος",
+    "origWordsTxt": "γένη",
     "alignmentOrigWords": 1,
-    "targetSpan": 0,
+    "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1352634,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 3,
-        "word": "a",
+        "id": 1313322,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "10",
+        "word_num": 19,
+        "word": "various",
+        "occurrence": 1
+      },
+      {
+        "id": 1313323,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "10",
+        "word_num": 20,
+        "word": "kinds",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "γένος = a",
-    "frequency": 0.05263157894736842,
+    "targetWordsTxt": "various kinds",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "γένη = various kinds",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "571428",
-    "book_id": "rev",
-    "chapter": "22",
-    "verse": "16",
-    "alignment_num": "17",
-    "orig_lang_words": ",1557246,",
-    "target_lang_words": ",1371858,",
+    "id": "531084",
+    "book_id": "1co",
+    "chapter": "12",
+    "verse": "28",
+    "alignment_num": "22",
+    "orig_lang_words": ",1514558,",
+    "target_lang_words": ",1313719,1313720,1313721,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1557246,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "16",
-        "word_num": 18,
-        "word": "γένος",
-        "occurrence": 1,
-        "strong": "G10850",
-        "lemma": "γένος",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "γένος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371858,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "16",
+        "id": 1514558,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "28",
         "word_num": 22,
-        "word": "descendant",
+        "word": "γένη",
+        "occurrence": 1,
+        "strong": "G10850",
+        "lemma": "γένος",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "γένη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1313719,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 23,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1313720,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 24,
+        "word": "various",
+        "occurrence": 1
+      },
+      {
+        "id": 1313721,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 25,
+        "word": "kinds",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "descendant",
+    "targetWordsTxt": "and various kinds",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "γένη = and various kinds",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531463",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "10",
+    "alignment_num": "3",
+    "orig_lang_words": ",1514950,",
+    "target_lang_words": ",1314299,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1514950,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 3,
+        "word": "γένη",
+        "occurrence": 1,
+        "strong": "G10850",
+        "lemma": "γένος",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "γένη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1314299,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 5,
+        "word": "kinds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "kinds",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "γένος = descendant",
-    "frequency": 0.05263157894736842,
+    "alignmentTxt": "γένη = kinds",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

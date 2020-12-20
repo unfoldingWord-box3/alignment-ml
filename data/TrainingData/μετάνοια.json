@@ -48,7 +48,8 @@
     "targetWordsTxt": "of repentance",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετανοίας = of repentance",
-    "frequency": 0.3,
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,8 @@
     "targetWordsTxt": "of repentance",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετανοίας = of repentance",
-    "frequency": 0.3,
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,51 +147,8 @@
     "targetWordsTxt": "repentance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετανοίας = repentance",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "472302",
-    "book_id": "luk",
-    "chapter": "5",
-    "verse": "32",
-    "alignment_num": "8",
-    "orig_lang_words": ",1453080,",
-    "target_lang_words": ",1231936,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1453080,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "32",
-        "word_num": 7,
-        "word": "μετάνοιαν",
-        "occurrence": 1,
-        "strong": "G33410",
-        "lemma": "μετάνοια",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μετάνοιαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1231936,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "32",
-        "word_num": 11,
-        "word": "repentance",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "repentance",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετάνοιαν = repentance",
-    "frequency": 0.45,
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,7 +201,314 @@
     "targetWordsTxt": "of repentance",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετανοίας = of repentance",
-    "frequency": 0.3,
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510196",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "24",
+    "alignment_num": "6",
+    "orig_lang_words": ",1492654,",
+    "target_lang_words": ",1283449,1283450,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492654,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "24",
+        "word_num": 8,
+        "word": "μετανοίας",
+        "occurrence": 1,
+        "strong": "G33410",
+        "lemma": "μετάνοια",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "μετανοίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1283449,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "24",
+        "word_num": 8,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1283450,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "24",
+        "word_num": 9,
+        "word": "repentance",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of repentance",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μετανοίας = of repentance",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513710",
+    "book_id": "act",
+    "chapter": "19",
+    "verse": "4",
+    "alignment_num": "6",
+    "orig_lang_words": ",1496275,",
+    "target_lang_words": ",1288206,1288207,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1496275,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "4",
+        "word_num": 6,
+        "word": "μετανοίας",
+        "occurrence": 1,
+        "strong": "G33410",
+        "lemma": "μετάνοια",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "μετανοίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1288206,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "4",
+        "word_num": 7,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1288207,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "4",
+        "word_num": 8,
+        "word": "repentance",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of repentance",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μετανοίας = of repentance",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518369",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "20",
+    "alignment_num": "29",
+    "orig_lang_words": ",1501052,",
+    "target_lang_words": ",1294658,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501052,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "20",
+        "word_num": 26,
+        "word": "μετανοίας",
+        "occurrence": 1,
+        "strong": "G33410",
+        "lemma": "μετάνοια",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "μετανοίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1294658,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "20",
+        "word_num": 36,
+        "word": "repentance",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "repentance",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετανοίας = repentance",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552282",
+    "book_id": "heb",
+    "chapter": "6",
+    "verse": "1",
+    "alignment_num": "16",
+    "orig_lang_words": ",1536402,",
+    "target_lang_words": ",1344255,1344256,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536402,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "1",
+        "word_num": 16,
+        "word": "μετανοίας",
+        "occurrence": 1,
+        "strong": "G33410",
+        "lemma": "μετάνοια",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "μετανοίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1344255,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "1",
+        "word_num": 24,
+        "word": "of",
+        "occurrence": 3
+      },
+      {
+        "id": 1344256,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "1",
+        "word_num": 25,
+        "word": "repentance",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of repentance",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μετανοίας = of repentance",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555159",
+    "book_id": "heb",
+    "chapter": "12",
+    "verse": "17",
+    "alignment_num": "14",
+    "orig_lang_words": ",1539397,",
+    "target_lang_words": ",1348620,1348621,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539397,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 10,
+        "word": "μετανοίας",
+        "occurrence": 1,
+        "strong": "G33410",
+        "lemma": "μετάνοια",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "μετανοίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1348620,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 21,
+        "word": "for",
+        "occurrence": 1
+      },
+      {
+        "id": 1348621,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 22,
+        "word": "repentance",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "for repentance",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μετανοίας = for repentance",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "472302",
+    "book_id": "luk",
+    "chapter": "5",
+    "verse": "32",
+    "alignment_num": "8",
+    "orig_lang_words": ",1453080,",
+    "target_lang_words": ",1231936,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1453080,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "32",
+        "word_num": 7,
+        "word": "μετάνοιαν",
+        "occurrence": 1,
+        "strong": "G33410",
+        "lemma": "μετάνοια",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μετάνοιαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1231936,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "32",
+        "word_num": 11,
+        "word": "repentance",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "repentance",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετάνοιαν = repentance",
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -286,7 +552,8 @@
     "targetWordsTxt": "repentance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετάνοιαν = repentance",
-    "frequency": 0.45,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -330,7 +597,8 @@
     "targetWordsTxt": "repentance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετάνοιαν = repentance",
-    "frequency": 0.45,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -386,113 +654,8 @@
     "targetWordsTxt": "repentance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν μετάνοιαν = repentance",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510196",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "24",
-    "alignment_num": "6",
-    "orig_lang_words": ",1492654,",
-    "target_lang_words": ",1283449,1283450,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492654,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "24",
-        "word_num": 8,
-        "word": "μετανοίας",
-        "occurrence": 1,
-        "strong": "G33410",
-        "lemma": "μετάνοια",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "μετανοίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1283449,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "24",
-        "word_num": 8,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1283450,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "24",
-        "word_num": 9,
-        "word": "repentance",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of repentance",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μετανοίας = of repentance",
-    "frequency": 0.3,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513710",
-    "book_id": "act",
-    "chapter": "19",
-    "verse": "4",
-    "alignment_num": "6",
-    "orig_lang_words": ",1496275,",
-    "target_lang_words": ",1288206,1288207,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1496275,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "4",
-        "word_num": 6,
-        "word": "μετανοίας",
-        "occurrence": 1,
-        "strong": "G33410",
-        "lemma": "μετάνοια",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "μετανοίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1288206,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "4",
-        "word_num": 7,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1288207,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "4",
-        "word_num": 8,
-        "word": "repentance",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of repentance",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μετανοίας = of repentance",
-    "frequency": 0.3,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -536,95 +699,8 @@
     "targetWordsTxt": "repentance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετάνοιαν = repentance",
-    "frequency": 0.45,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "518369",
-    "book_id": "act",
-    "chapter": "26",
-    "verse": "20",
-    "alignment_num": "29",
-    "orig_lang_words": ",1501052,",
-    "target_lang_words": ",1294658,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1501052,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "20",
-        "word_num": 26,
-        "word": "μετανοίας",
-        "occurrence": 1,
-        "strong": "G33410",
-        "lemma": "μετάνοια",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "μετανοίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1294658,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "20",
-        "word_num": 36,
-        "word": "repentance",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "repentance",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετανοίας = repentance",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520471",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "4",
-    "alignment_num": "19",
-    "orig_lang_words": ",1503250,",
-    "target_lang_words": ",1297676,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503250,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "4",
-        "word_num": 20,
-        "word": "μετάνοιάν",
-        "occurrence": 1,
-        "strong": "G33410",
-        "lemma": "μετάνοια",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μετάνοιάν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1297676,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "4",
-        "word_num": 34,
-        "word": "repentance",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "repentance",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετάνοιάν = repentance",
-    "frequency": 0.05,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -668,7 +744,8 @@
     "targetWordsTxt": "repentance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετάνοιαν = repentance",
-    "frequency": 0.45,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -712,7 +789,8 @@
     "targetWordsTxt": "repentance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετάνοιαν = repentance",
-    "frequency": 0.45,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -756,60 +834,8 @@
     "targetWordsTxt": "repentance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετάνοιαν = repentance",
-    "frequency": 0.45,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552282",
-    "book_id": "heb",
-    "chapter": "6",
-    "verse": "1",
-    "alignment_num": "16",
-    "orig_lang_words": ",1536402,",
-    "target_lang_words": ",1344255,1344256,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536402,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "1",
-        "word_num": 16,
-        "word": "μετανοίας",
-        "occurrence": 1,
-        "strong": "G33410",
-        "lemma": "μετάνοια",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "μετανοίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1344255,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "1",
-        "word_num": 24,
-        "word": "of",
-        "occurrence": 3
-      },
-      {
-        "id": 1344256,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "1",
-        "word_num": 25,
-        "word": "repentance",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of repentance",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μετανοίας = of repentance",
-    "frequency": 0.3,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -853,60 +879,8 @@
     "targetWordsTxt": "repentance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετάνοιαν = repentance",
-    "frequency": 0.45,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555159",
-    "book_id": "heb",
-    "chapter": "12",
-    "verse": "17",
-    "alignment_num": "14",
-    "orig_lang_words": ",1539397,",
-    "target_lang_words": ",1348620,1348621,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539397,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 10,
-        "word": "μετανοίας",
-        "occurrence": 1,
-        "strong": "G33410",
-        "lemma": "μετάνοια",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "μετανοίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1348620,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 21,
-        "word": "for",
-        "occurrence": 1
-      },
-      {
-        "id": 1348621,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 22,
-        "word": "repentance",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "for repentance",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μετανοίας = for repentance",
-    "frequency": 0.05,
+    "frequency": 0.9,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -950,7 +924,53 @@
     "targetWordsTxt": "repentance",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετάνοιαν = repentance",
-    "frequency": 0.45,
+    "frequency": 0.9,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520471",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "4",
+    "alignment_num": "19",
+    "orig_lang_words": ",1503250,",
+    "target_lang_words": ",1297676,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503250,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 20,
+        "word": "μετάνοιάν",
+        "occurrence": 1,
+        "strong": "G33410",
+        "lemma": "μετάνοια",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μετάνοιάν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297676,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 34,
+        "word": "repentance",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "repentance",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετάνοιάν = repentance",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

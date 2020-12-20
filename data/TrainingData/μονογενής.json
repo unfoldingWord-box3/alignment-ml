@@ -48,7 +48,8 @@
     "targetWordsTxt": "the only",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μονογενὴς = the only",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,122 +93,8 @@
     "targetWordsTxt": "only",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μονογενὴς = only",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "476035",
-    "book_id": "luk",
-    "chapter": "9",
-    "verse": "38",
-    "alignment_num": "18",
-    "orig_lang_words": ",1456834,",
-    "target_lang_words": ",1236995,1236996,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1456834,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "38",
-        "word_num": 17,
-        "word": "μονογενής",
-        "occurrence": 1,
-        "strong": "G34390",
-        "lemma": "μονογενής",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "μονογενής",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1236995,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "38",
-        "word_num": 23,
-        "word": "only",
-        "occurrence": 1
-      },
-      {
-        "id": 1236996,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "38",
-        "word_num": 24,
-        "word": "child",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "only child",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μονογενής = only child",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "487705",
-    "book_id": "jhn",
-    "chapter": "1",
-    "verse": "14",
-    "alignment_num": "12",
-    "orig_lang_words": ",1468710,",
-    "target_lang_words": ",1252926,1252927,1252928,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1468710,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 16,
-        "word": "μονογενοῦς",
-        "occurrence": 1,
-        "strong": "G34390",
-        "lemma": "μονογενής",
-        "morph": "Gr,NS,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "μονογενοῦς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1252926,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 16,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1252927,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 17,
-        "word": "only",
-        "occurrence": 1
-      },
-      {
-        "id": 1252928,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 18,
-        "word": "begotten",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the only begotten",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "μονογενοῦς = the only begotten",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -269,7 +156,179 @@
     "targetWordsTxt": "The only begotten",
     "alignmentTargetWords": 3,
     "alignmentTxt": "μονογενὴς = The only begotten",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "476035",
+    "book_id": "luk",
+    "chapter": "9",
+    "verse": "38",
+    "alignment_num": "18",
+    "orig_lang_words": ",1456834,",
+    "target_lang_words": ",1236995,1236996,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1456834,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "38",
+        "word_num": 17,
+        "word": "μονογενής",
+        "occurrence": 1,
+        "strong": "G34390",
+        "lemma": "μονογενής",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "μονογενής",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1236995,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "38",
+        "word_num": 23,
+        "word": "only",
+        "occurrence": 1
+      },
+      {
+        "id": 1236996,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "38",
+        "word_num": 24,
+        "word": "child",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "only child",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μονογενής = only child",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "487705",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "14",
+    "alignment_num": "12",
+    "orig_lang_words": ",1468710,",
+    "target_lang_words": ",1252926,1252927,1252928,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1468710,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 16,
+        "word": "μονογενοῦς",
+        "occurrence": 1,
+        "strong": "G34390",
+        "lemma": "μονογενής",
+        "morph": "Gr,NS,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "μονογενοῦς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1252926,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 16,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1252927,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 17,
+        "word": "only",
+        "occurrence": 1
+      },
+      {
+        "id": 1252928,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 18,
+        "word": "begotten",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the only begotten",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "μονογενοῦς = the only begotten",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488991",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "18",
+    "alignment_num": "22",
+    "orig_lang_words": ",1470109,",
+    "target_lang_words": ",1254634,1254635,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1470109,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 19,
+        "word": "μονογενοῦς",
+        "occurrence": 1,
+        "strong": "G34390",
+        "lemma": "μονογενής",
+        "morph": "Gr,NS,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "μονογενοῦς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1254634,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 27,
+        "word": "only",
+        "occurrence": 1
+      },
+      {
+        "id": 1254635,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 28,
+        "word": "begotten",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "only begotten",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μονογενοῦς = only begotten",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -334,60 +393,8 @@
     "targetWordsTxt": "only begotten",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸν μονογενῆ = only begotten",
-    "frequency": 0.2222222222222222,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488991",
-    "book_id": "jhn",
-    "chapter": "3",
-    "verse": "18",
-    "alignment_num": "22",
-    "orig_lang_words": ",1470109,",
-    "target_lang_words": ",1254634,1254635,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1470109,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 19,
-        "word": "μονογενοῦς",
-        "occurrence": 1,
-        "strong": "G34390",
-        "lemma": "μονογενής",
-        "morph": "Gr,NS,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "μονογενοῦς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1254634,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 27,
-        "word": "only",
-        "occurrence": 1
-      },
-      {
-        "id": 1254635,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 28,
-        "word": "begotten",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "only begotten",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "μονογενοῦς = only begotten",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -449,7 +456,8 @@
     "targetWordsTxt": "only begotten son",
     "alignmentTargetWords": 3,
     "alignmentTxt": "μονογενῆ = only begotten son",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -514,7 +522,8 @@
     "targetWordsTxt": "only begotten",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸν μονογενῆ = only begotten",
-    "frequency": 0.2222222222222222,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

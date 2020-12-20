@@ -48,7 +48,53 @@
     "targetWordsTxt": "a service",
     "alignmentTargetWords": 2,
     "alignmentTxt": "λατρείαν = a service",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524682",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "1",
+    "alignment_num": "20",
+    "orig_lang_words": ",1507835,",
+    "target_lang_words": ",1304210,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507835,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "1",
+        "word_num": 21,
+        "word": "λατρείαν",
+        "occurrence": 1,
+        "strong": "G29990",
+        "lemma": "λατρεία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "λατρείαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304210,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "1",
+        "word_num": 25,
+        "word": "service",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "service",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "λατρείαν = service",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -110,51 +156,8 @@
     "targetWordsTxt": "worship of God",
     "alignmentTargetWords": 3,
     "alignmentTxt": "λατρεία = worship of God",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524682",
-    "book_id": "rom",
-    "chapter": "12",
-    "verse": "1",
-    "alignment_num": "20",
-    "orig_lang_words": ",1507835,",
-    "target_lang_words": ",1304210,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1507835,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "1",
-        "word_num": 21,
-        "word": "λατρείαν",
-        "occurrence": 1,
-        "strong": "G29990",
-        "lemma": "λατρεία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "λατρείαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1304210,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "1",
-        "word_num": 25,
-        "word": "service",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "service",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "λατρείαν = service",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -207,7 +210,8 @@
     "targetWordsTxt": "for worship",
     "alignmentTargetWords": 2,
     "alignmentTxt": "λατρείας = for worship",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -251,7 +255,8 @@
     "targetWordsTxt": "services",
     "alignmentTargetWords": 1,
     "alignmentTxt": "λατρείας = services",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -48,7 +48,8 @@
     "targetWordsTxt": "a shepherd",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ποιμένα = a shepherd",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,53 @@
     "targetWordsTxt": "shepherd",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ποιμένα = shepherd",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558103",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "25",
+    "alignment_num": "10",
+    "orig_lang_words": ",1542491,",
+    "target_lang_words": ",1353024,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542491,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 10,
+        "word": "ποιμένα",
+        "occurrence": 1,
+        "strong": "G41660",
+        "lemma": "ποιμήν",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ποιμένα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1353024,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 16,
+        "word": "shepherd",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "shepherd",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ποιμένα = shepherd",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +183,8 @@
     "targetWordsTxt": "shepherds",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ποιμένες = shepherds",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -180,51 +228,8 @@
     "targetWordsTxt": "shepherds",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ποιμένες = shepherds",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "469823",
-    "book_id": "luk",
-    "chapter": "2",
-    "verse": "18",
-    "alignment_num": "12",
-    "orig_lang_words": ",1450545,",
-    "target_lang_words": ",1228646,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1450545,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "18",
-        "word_num": 10,
-        "word": "ποιμένων",
-        "occurrence": 1,
-        "strong": "G41660",
-        "lemma": "ποιμήν",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "ποιμένων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1228646,
-        "book_id": "luk",
-        "chapter": "2",
-        "verse": "18",
-        "word_num": 18,
-        "word": "shepherds",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "shepherds",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ποιμένων = shepherds",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -268,7 +273,53 @@
     "targetWordsTxt": "shepherds",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ποιμένες = shepherds",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "469823",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "18",
+    "alignment_num": "12",
+    "orig_lang_words": ",1450545,",
+    "target_lang_words": ",1228646,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1450545,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 10,
+        "word": "ποιμένων",
+        "occurrence": 1,
+        "strong": "G41660",
+        "lemma": "ποιμήν",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ποιμένων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1228646,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 18,
+        "word": "shepherds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "shepherds",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ποιμένων = shepherds",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -321,95 +372,8 @@
     "targetWordsTxt": "the shepherd",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ποιμήν = the shepherd",
-    "frequency": 0.13333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494513",
-    "book_id": "jhn",
-    "chapter": "10",
-    "verse": "11",
-    "alignment_num": "4",
-    "orig_lang_words": ",1476220,",
-    "target_lang_words": ",1262201,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1476220,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 3,
-        "word": "ποιμὴν",
-        "occurrence": 1,
-        "strong": "G41660",
-        "lemma": "ποιμήν",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ποιμὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1262201,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 4,
-        "word": "shepherd",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "shepherd",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ποιμὴν = shepherd",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494516",
-    "book_id": "jhn",
-    "chapter": "10",
-    "verse": "11",
-    "alignment_num": "7",
-    "orig_lang_words": ",1476224,",
-    "target_lang_words": ",1262204,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1476224,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 7,
-        "word": "ποιμὴν",
-        "occurrence": 2,
-        "strong": "G41660",
-        "lemma": "ποιμήν",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ποιμὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1262204,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "11",
-        "word_num": 7,
-        "word": "shepherd",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "shepherd",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ποιμὴν = shepherd",
-    "frequency": 0.2,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -462,51 +426,8 @@
     "targetWordsTxt": "the shepherd",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ποιμήν = the shepherd",
-    "frequency": 0.13333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494567",
-    "book_id": "jhn",
-    "chapter": "10",
-    "verse": "14",
-    "alignment_num": "4",
-    "orig_lang_words": ",1476276,",
-    "target_lang_words": ",1262268,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1476276,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "14",
-        "word_num": 3,
-        "word": "ποιμὴν",
-        "occurrence": 1,
-        "strong": "G41660",
-        "lemma": "ποιμήν",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ποιμὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1262268,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "14",
-        "word_num": 4,
-        "word": "shepherd",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "shepherd",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ποιμὴν = shepherd",
-    "frequency": 0.2,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -550,7 +471,143 @@
     "targetWordsTxt": "shepherd",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ποιμήν = shepherd",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494513",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "11",
+    "alignment_num": "4",
+    "orig_lang_words": ",1476220,",
+    "target_lang_words": ",1262201,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476220,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 3,
+        "word": "ποιμὴν",
+        "occurrence": 1,
+        "strong": "G41660",
+        "lemma": "ποιμήν",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ποιμὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262201,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 4,
+        "word": "shepherd",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "shepherd",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ποιμὴν = shepherd",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494516",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "11",
+    "alignment_num": "7",
+    "orig_lang_words": ",1476224,",
+    "target_lang_words": ",1262204,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476224,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 7,
+        "word": "ποιμὴν",
+        "occurrence": 2,
+        "strong": "G41660",
+        "lemma": "ποιμήν",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ποιμὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262204,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "11",
+        "word_num": 7,
+        "word": "shepherd",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "shepherd",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ποιμὴν = shepherd",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494567",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "14",
+    "alignment_num": "4",
+    "orig_lang_words": ",1476276,",
+    "target_lang_words": ",1262268,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476276,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "14",
+        "word_num": 3,
+        "word": "ποιμὴν",
+        "occurrence": 1,
+        "strong": "G41660",
+        "lemma": "ποιμήν",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ποιμὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1262268,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "14",
+        "word_num": 4,
+        "word": "shepherd",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "shepherd",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ποιμὴν = shepherd",
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -594,7 +651,8 @@
     "targetWordsTxt": "pastors",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ποιμένας = pastors",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -638,51 +696,8 @@
     "targetWordsTxt": "shepherd",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Ποιμένα = shepherd",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558103",
-    "book_id": "1pe",
-    "chapter": "2",
-    "verse": "25",
-    "alignment_num": "10",
-    "orig_lang_words": ",1542491,",
-    "target_lang_words": ",1353024,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542491,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 10,
-        "word": "ποιμένα",
-        "occurrence": 1,
-        "strong": "G41660",
-        "lemma": "ποιμήν",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "ποιμένα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1353024,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 16,
-        "word": "shepherd",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "shepherd",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ποιμένα = shepherd",
-    "frequency": 0.13333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

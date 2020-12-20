@@ -75,7 +75,8 @@
     "targetWordsTxt": "the inhabitants there would make",
     "alignmentTargetWords": 5,
     "alignmentTxt": "δουλώσουσιν = the inhabitants there would make",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -164,7 +165,8 @@
     "targetWordsTxt": "and you have been made slaves",
     "alignmentTargetWords": 6,
     "alignmentTxt": "ἐδουλώθητε = and you have been made slaves",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -217,7 +219,8 @@
     "targetWordsTxt": "are enslaved",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δουλωθέντες = are enslaved",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -261,157 +264,8 @@
     "targetWordsTxt": "is",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεδούλωται = is",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529560",
-    "book_id": "1co",
-    "chapter": "9",
-    "verse": "19",
-    "alignment_num": "5",
-    "orig_lang_words": ",1513000,",
-    "target_lang_words": ",1311456,1311457,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513000,
-        "book_id": "1co",
-        "chapter": "9",
-        "verse": "19",
-        "word_num": 7,
-        "word": "ἐδούλωσα",
-        "occurrence": 1,
-        "strong": "G14020",
-        "lemma": "δουλόω",
-        "morph": "Gr,V,IAA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδούλωσα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1311456,
-        "book_id": "1co",
-        "chapter": "9",
-        "verse": "19",
-        "word_num": 7,
-        "word": "I",
-        "occurrence": 2
-      },
-      {
-        "id": 1311457,
-        "book_id": "1co",
-        "chapter": "9",
-        "verse": "19",
-        "word_num": 8,
-        "word": "made",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I made",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδούλωσα = I made",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538562",
-    "book_id": "gal",
-    "chapter": "4",
-    "verse": "3",
-    "alignment_num": "7",
-    "orig_lang_words": ",1522278,",
-    "target_lang_words": ",1324764,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522278,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "3",
-        "word_num": 12,
-        "word": "δεδουλωμένοι",
-        "occurrence": 1,
-        "strong": "G14020",
-        "lemma": "δουλόω",
-        "morph": "Gr,V,PEP,NMP,"
-      }
-    ],
-    "origWordsTxt": "δεδουλωμένοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1324764,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "3",
-        "word_num": 8,
-        "word": "enslaved",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "enslaved",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δεδουλωμένοι = enslaved",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550265",
-    "book_id": "tit",
-    "chapter": "2",
-    "verse": "3",
-    "alignment_num": "8",
-    "orig_lang_words": ",1534300,",
-    "target_lang_words": ",1341255,1341256,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534300,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "3",
-        "word_num": 10,
-        "word": "δεδουλωμένας",
-        "occurrence": 1,
-        "strong": "G14020",
-        "lemma": "δουλόω",
-        "morph": "Gr,V,PEP,AFP,"
-      }
-    ],
-    "origWordsTxt": "δεδουλωμένας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1341255,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "3",
-        "word_num": 12,
-        "word": "being",
-        "occurrence": 1
-      },
-      {
-        "id": 1341256,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "3",
-        "word_num": 13,
-        "word": "slaves",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "being slaves",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δεδουλωμένας = being slaves",
-    "frequency": 0.125,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -500,7 +354,161 @@
     "targetWordsTxt": "he has been made a slave",
     "alignmentTargetWords": 6,
     "alignmentTxt": "δεδούλωται = he has been made a slave",
-    "frequency": 0.125,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "529560",
+    "book_id": "1co",
+    "chapter": "9",
+    "verse": "19",
+    "alignment_num": "5",
+    "orig_lang_words": ",1513000,",
+    "target_lang_words": ",1311456,1311457,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513000,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "19",
+        "word_num": 7,
+        "word": "ἐδούλωσα",
+        "occurrence": 1,
+        "strong": "G14020",
+        "lemma": "δουλόω",
+        "morph": "Gr,V,IAA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδούλωσα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1311456,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "19",
+        "word_num": 7,
+        "word": "I",
+        "occurrence": 2
+      },
+      {
+        "id": 1311457,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "19",
+        "word_num": 8,
+        "word": "made",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I made",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδούλωσα = I made",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538562",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "3",
+    "alignment_num": "7",
+    "orig_lang_words": ",1522278,",
+    "target_lang_words": ",1324764,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522278,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 12,
+        "word": "δεδουλωμένοι",
+        "occurrence": 1,
+        "strong": "G14020",
+        "lemma": "δουλόω",
+        "morph": "Gr,V,PEP,NMP,"
+      }
+    ],
+    "origWordsTxt": "δεδουλωμένοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1324764,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 8,
+        "word": "enslaved",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "enslaved",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεδουλωμένοι = enslaved",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550265",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "3",
+    "alignment_num": "8",
+    "orig_lang_words": ",1534300,",
+    "target_lang_words": ",1341255,1341256,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534300,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "3",
+        "word_num": 10,
+        "word": "δεδουλωμένας",
+        "occurrence": 1,
+        "strong": "G14020",
+        "lemma": "δουλόω",
+        "morph": "Gr,V,PEP,AFP,"
+      }
+    ],
+    "origWordsTxt": "δεδουλωμένας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1341255,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "3",
+        "word_num": 12,
+        "word": "being",
+        "occurrence": 1
+      },
+      {
+        "id": 1341256,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "3",
+        "word_num": 13,
+        "word": "slaves",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "being slaves",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δεδουλωμένας = being slaves",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

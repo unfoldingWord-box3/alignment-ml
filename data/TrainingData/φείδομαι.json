@@ -39,7 +39,8 @@
     "targetWordsTxt": "sparing",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φειδόμενοι = sparing",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "who",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐφείσατο = who",
-    "frequency": 0.1,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,7 +129,98 @@
     "targetWordsTxt": "spare",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐφείσατο = spare",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559289",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "4",
+    "alignment_num": "3",
+    "orig_lang_words": ",1543826,",
+    "target_lang_words": ",1355002,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543826,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 7,
+        "word": "ἐφείσατο",
+        "occurrence": 1,
+        "strong": "G53390",
+        "lemma": "φείδομαι",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐφείσατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355002,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 4,
+        "word": "spare",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "spare",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐφείσατο = spare",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559301",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "5",
+    "alignment_num": "1",
+    "orig_lang_words": ",1543839,",
+    "target_lang_words": ",1355029,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543839,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 4,
+        "word": "ἐφείσατο",
+        "occurrence": 1,
+        "strong": "G53390",
+        "lemma": "φείδομαι",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐφείσατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355029,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 1,
+        "word": "he",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐφείσατο = he",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,7 +282,8 @@
     "targetWordsTxt": "will he spare",
     "alignmentTargetWords": 3,
     "alignmentTxt": "φείσεται = will he spare",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -251,60 +345,8 @@
     "targetWordsTxt": "want to spare",
     "alignmentTargetWords": 3,
     "alignmentTxt": "φείδομαι = want to spare",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533482",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "23",
-    "alignment_num": "9",
-    "orig_lang_words": ",1517031,",
-    "target_lang_words": ",1317208,1317209,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1517031,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "23",
-        "word_num": 11,
-        "word": "φειδόμενος",
-        "occurrence": 1,
-        "strong": "G53390",
-        "lemma": "φείδομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "φειδόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1317208,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "23",
-        "word_num": 13,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1317209,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "23",
-        "word_num": 14,
-        "word": "spare",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to spare",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "φειδόμενος = to spare",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -375,7 +417,62 @@
     "targetWordsTxt": "I refrain from this",
     "alignmentTargetWords": 4,
     "alignmentTxt": "φείδομαι = I refrain from this",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533482",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "23",
+    "alignment_num": "9",
+    "orig_lang_words": ",1517031,",
+    "target_lang_words": ",1317208,1317209,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1517031,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 11,
+        "word": "φειδόμενος",
+        "occurrence": 1,
+        "strong": "G53390",
+        "lemma": "φείδομαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "φειδόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1317208,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 13,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1317209,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 14,
+        "word": "spare",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to spare",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "φειδόμενος = to spare",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -428,95 +525,8 @@
     "targetWordsTxt": "I will",
     "alignmentTargetWords": 2,
     "alignmentTxt": "φείσομαι = I will",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559289",
-    "book_id": "2pe",
-    "chapter": "2",
-    "verse": "4",
-    "alignment_num": "3",
-    "orig_lang_words": ",1543826,",
-    "target_lang_words": ",1355002,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543826,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "4",
-        "word_num": 7,
-        "word": "ἐφείσατο",
-        "occurrence": 1,
-        "strong": "G53390",
-        "lemma": "φείδομαι",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐφείσατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355002,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "4",
-        "word_num": 4,
-        "word": "spare",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "spare",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐφείσατο = spare",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559301",
-    "book_id": "2pe",
-    "chapter": "2",
-    "verse": "5",
-    "alignment_num": "1",
-    "orig_lang_words": ",1543839,",
-    "target_lang_words": ",1355029,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543839,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 4,
-        "word": "ἐφείσατο",
-        "occurrence": 1,
-        "strong": "G53390",
-        "lemma": "φείδομαι",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐφείσατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355029,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 1,
-        "word": "he",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐφείσατο = he",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

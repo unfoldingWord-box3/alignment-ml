@@ -39,7 +39,8 @@
     "targetWordsTxt": "statutes",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δικαιώμασιν = statutes",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,51 +93,8 @@
     "targetWordsTxt": "righteous decree",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δικαίωμα = righteous decree",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520751",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "26",
-    "alignment_num": "6",
-    "orig_lang_words": ",1503554,",
-    "target_lang_words": ",1298138,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503554,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "26",
-        "word_num": 5,
-        "word": "δικαιώματα",
-        "occurrence": 1,
-        "strong": "G13450",
-        "lemma": "δικαίωμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "δικαιώματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298138,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "26",
-        "word_num": 7,
-        "word": "requirements",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "requirements",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δικαιώματα = requirements",
-    "frequency": 0.1,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -180,7 +138,242 @@
     "targetWordsTxt": "justification",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δικαίωμα = justification",
-    "frequency": 0.1,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522757",
+    "book_id": "rom",
+    "chapter": "8",
+    "verse": "4",
+    "alignment_num": "2",
+    "orig_lang_words": ",1505776,",
+    "target_lang_words": ",1301232,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505776,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "4",
+        "word_num": 2,
+        "word": "δικαίωμα",
+        "occurrence": 1,
+        "strong": "G13450",
+        "lemma": "δικαίωμα",
+        "morph": "Gr,N,,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "δικαίωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1301232,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "4",
+        "word_num": 7,
+        "word": "requirements",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "requirements",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δικαίωμα = requirements",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520751",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "26",
+    "alignment_num": "6",
+    "orig_lang_words": ",1503554,",
+    "target_lang_words": ",1298138,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503554,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 5,
+        "word": "δικαιώματα",
+        "occurrence": 1,
+        "strong": "G13450",
+        "lemma": "δικαίωμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "δικαιώματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298138,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 7,
+        "word": "requirements",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "requirements",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δικαιώματα = requirements",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553260",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1537421,",
+    "target_lang_words": ",1345702,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537421,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 5,
+        "word": "δικαιώματα",
+        "occurrence": 1,
+        "strong": "G13450",
+        "lemma": "δικαίωμα",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "δικαιώματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345702,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 6,
+        "word": "regulations",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "regulations",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δικαιώματα = regulations",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553417",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "10",
+    "alignment_num": "8",
+    "orig_lang_words": ",1537589,",
+    "target_lang_words": ",1345926,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537589,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "10",
+        "word_num": 8,
+        "word": "δικαιώματα",
+        "occurrence": 1,
+        "strong": "G13450",
+        "lemma": "δικαίωμα",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "δικαιώματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345926,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "10",
+        "word_num": 12,
+        "word": "regulations",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "regulations",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δικαιώματα = regulations",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569911",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "8",
+    "alignment_num": "11",
+    "orig_lang_words": ",1555546,",
+    "target_lang_words": ",1369768,1369769,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555546,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "8",
+        "word_num": 12,
+        "word": "δικαιώματα",
+        "occurrence": 1,
+        "strong": "G13450",
+        "lemma": "δικαίωμα",
+        "morph": "Gr,N,,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "δικαιώματα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1369768,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "8",
+        "word_num": 17,
+        "word": "righteous",
+        "occurrence": 1
+      },
+      {
+        "id": 1369769,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "8",
+        "word_num": 18,
+        "word": "acts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "righteous acts",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δικαιώματα = righteous acts",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,139 +435,8 @@
     "targetWordsTxt": "act of righteousness",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δικαιώματος = act of righteousness",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522757",
-    "book_id": "rom",
-    "chapter": "8",
-    "verse": "4",
-    "alignment_num": "2",
-    "orig_lang_words": ",1505776,",
-    "target_lang_words": ",1301232,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505776,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "4",
-        "word_num": 2,
-        "word": "δικαίωμα",
-        "occurrence": 1,
-        "strong": "G13450",
-        "lemma": "δικαίωμα",
-        "morph": "Gr,N,,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "δικαίωμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1301232,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "4",
-        "word_num": 7,
-        "word": "requirements",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "requirements",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δικαίωμα = requirements",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553260",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "1",
-    "alignment_num": "5",
-    "orig_lang_words": ",1537421,",
-    "target_lang_words": ",1345702,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537421,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "1",
-        "word_num": 5,
-        "word": "δικαιώματα",
-        "occurrence": 1,
-        "strong": "G13450",
-        "lemma": "δικαίωμα",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "δικαιώματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1345702,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "1",
-        "word_num": 6,
-        "word": "regulations",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "regulations",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δικαιώματα = regulations",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553417",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "10",
-    "alignment_num": "8",
-    "orig_lang_words": ",1537589,",
-    "target_lang_words": ",1345926,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537589,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "10",
-        "word_num": 8,
-        "word": "δικαιώματα",
-        "occurrence": 1,
-        "strong": "G13450",
-        "lemma": "δικαίωμα",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "δικαιώματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1345926,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "10",
-        "word_num": 12,
-        "word": "regulations",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "regulations",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δικαιώματα = regulations",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -439,60 +501,8 @@
     "targetWordsTxt": "righteous deeds",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὰ δικαιώματά = righteous deeds",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569911",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "8",
-    "alignment_num": "11",
-    "orig_lang_words": ",1555546,",
-    "target_lang_words": ",1369768,1369769,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555546,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "8",
-        "word_num": 12,
-        "word": "δικαιώματα",
-        "occurrence": 1,
-        "strong": "G13450",
-        "lemma": "δικαίωμα",
-        "morph": "Gr,N,,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "δικαιώματα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1369768,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "8",
-        "word_num": 17,
-        "word": "righteous",
-        "occurrence": 1
-      },
-      {
-        "id": 1369769,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "8",
-        "word_num": 18,
-        "word": "acts",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "righteous acts",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δικαιώματα = righteous acts",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

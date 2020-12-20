@@ -48,7 +48,8 @@
     "targetWordsTxt": "the consolation",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παράκλησιν = the consolation",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -104,7 +105,233 @@
     "targetWordsTxt": "comfort",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν παράκλησιν = comfort",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531351",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "3",
+    "alignment_num": "7",
+    "orig_lang_words": ",1514827,",
+    "target_lang_words": ",1314114,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1514827,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "3",
+        "word_num": 7,
+        "word": "παράκλησιν",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "παράκλησιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1314114,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "3",
+        "word_num": 12,
+        "word": "encouragement",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "encouragement",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παράκλησιν = encouragement",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535547",
+    "book_id": "2co",
+    "chapter": "8",
+    "verse": "17",
+    "alignment_num": "5",
+    "orig_lang_words": ",1519163,",
+    "target_lang_words": ",1320197,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519163,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "17",
+        "word_num": 3,
+        "word": "παράκλησιν",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "παράκλησιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320197,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "17",
+        "word_num": 6,
+        "word": "appeal",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "appeal",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παράκλησιν = appeal",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546858",
+    "book_id": "2th",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "15",
+    "orig_lang_words": ",1530899,",
+    "target_lang_words": ",1336454,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530899,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 18,
+        "word": "παράκλησιν",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "παράκλησιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336454,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 18,
+        "word": "comfort",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "comfort",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παράκλησιν = comfort",
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550741",
+    "book_id": "phm",
+    "chapter": "1",
+    "verse": "7",
+    "alignment_num": "5",
+    "orig_lang_words": ",1534772,",
+    "target_lang_words": ",1341921,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534772,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 5,
+        "word": "παράκλησιν",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "παράκλησιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341921,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 7,
+        "word": "comfort",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "comfort",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παράκλησιν = comfort",
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552521",
+    "book_id": "heb",
+    "chapter": "6",
+    "verse": "18",
+    "alignment_num": "14",
+    "orig_lang_words": ",1536647,",
+    "target_lang_words": ",1344623,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536647,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 12,
+        "word": "παράκλησιν",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "παράκλησιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344623,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 26,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παράκλησιν = a",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -157,51 +384,8 @@
     "targetWordsTxt": "of Encouragement",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παρακλήσεως = of Encouragement",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "507727",
-    "book_id": "act",
-    "chapter": "9",
-    "verse": "31",
-    "alignment_num": "22",
-    "orig_lang_words": ",1490126,",
-    "target_lang_words": ",1280104,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490126,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "31",
-        "word_num": 23,
-        "word": "παρακλήσει",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "παρακλήσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1280104,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "31",
-        "word_num": 25,
-        "word": "in",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "in",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παρακλήσει = in",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -254,107 +438,8 @@
     "targetWordsTxt": "of encouragement",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παρακλήσεως = of encouragement",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511666",
-    "book_id": "act",
-    "chapter": "15",
-    "verse": "31",
-    "alignment_num": "4",
-    "orig_lang_words": ",1494164,",
-    "target_lang_words": ",1285453,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494164,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 5,
-        "word": "παρακλήσει",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "παρακλήσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1285453,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 10,
-        "word": "encouragement",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "encouragement",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παρακλήσει = encouragement",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524791",
-    "book_id": "rom",
-    "chapter": "12",
-    "verse": "8",
-    "alignment_num": "3",
-    "orig_lang_words": ",1507958,1507959,",
-    "target_lang_words": ",1304369,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1507958,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "8",
-        "word_num": 4,
-        "word": "τῇ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DFS,"
-      },
-      {
-        "id": 1507959,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "8",
-        "word_num": 5,
-        "word": "παρακλήσει",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "τῇ παρακλήσει",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1304369,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "8",
-        "word_num": 3,
-        "word": "encouragement",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "encouragement",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῇ παρακλήσει = encouragement",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -410,7 +495,8 @@
     "targetWordsTxt": "encouragement",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς παρακλήσεως = encouragement",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -475,51 +561,8 @@
     "targetWordsTxt": "of encouragement",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς παρακλήσεως = of encouragement",
-    "frequency": 0.06896551724137931,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531351",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "3",
-    "alignment_num": "7",
-    "orig_lang_words": ",1514827,",
-    "target_lang_words": ",1314114,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1514827,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "3",
-        "word_num": 7,
-        "word": "παράκλησιν",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "παράκλησιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1314114,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "3",
-        "word_num": 12,
-        "word": "encouragement",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "encouragement",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παράκλησιν = encouragement",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -563,7 +606,8 @@
     "targetWordsTxt": "comfort",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παρακλήσεως = comfort",
-    "frequency": 0.10344827586206896,
+    "frequency": 0.25,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -607,63 +651,8 @@
     "targetWordsTxt": "comfort",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παρακλήσεως = comfort",
-    "frequency": 0.10344827586206896,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533127",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "5",
-    "alignment_num": "11",
-    "orig_lang_words": ",1516665,1516666,",
-    "target_lang_words": ",1316725,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1516665,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 15,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1516666,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 16,
-        "word": "παράκλησις",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ παράκλησις",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1316725,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 13,
-        "word": "comfort",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "comfort",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ παράκλησις = comfort",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.25,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -740,7 +729,8 @@
     "targetWordsTxt": "your comfort",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς ὑμῶν παρακλήσεως = your comfort",
-    "frequency": 0.06896551724137931,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -817,7 +807,8 @@
     "targetWordsTxt": "your comfort",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς ὑμῶν παρακλήσεως = your comfort",
-    "frequency": 0.06896551724137931,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -861,7 +852,311 @@
     "targetWordsTxt": "comfort",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παρακλήσεως = comfort",
-    "frequency": 0.10344827586206896,
+    "frequency": 0.25,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535329",
+    "book_id": "2co",
+    "chapter": "8",
+    "verse": "4",
+    "alignment_num": "2",
+    "orig_lang_words": ",1518935,",
+    "target_lang_words": ",1319867,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518935,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "4",
+        "word_num": 2,
+        "word": "παρακλήσεως",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "παρακλήσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319867,
+        "book_id": "2co",
+        "chapter": "8",
+        "verse": "4",
+        "word_num": 2,
+        "word": "urging",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "urging",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παρακλήσεως = urging",
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554953",
+    "book_id": "heb",
+    "chapter": "12",
+    "verse": "5",
+    "alignment_num": "3",
+    "orig_lang_words": ",1539188,",
+    "target_lang_words": ",1348334,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539188,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "5",
+        "word_num": 3,
+        "word": "παρακλήσεως",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "παρακλήσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1348334,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "5",
+        "word_num": 5,
+        "word": "encouragement",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "encouragement",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παρακλήσεως = encouragement",
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555659",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "22",
+    "alignment_num": "7",
+    "orig_lang_words": ",1539918,1539919,",
+    "target_lang_words": ",1349387,1349388,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1539918,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "22",
+        "word_num": 7,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1539919,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "22",
+        "word_num": 8,
+        "word": "παρακλήσεως",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς παρακλήσεως",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1349387,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "22",
+        "word_num": 10,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1349388,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "22",
+        "word_num": 11,
+        "word": "encouragement",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of encouragement",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τῆς παρακλήσεως = of encouragement",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "507727",
+    "book_id": "act",
+    "chapter": "9",
+    "verse": "31",
+    "alignment_num": "22",
+    "orig_lang_words": ",1490126,",
+    "target_lang_words": ",1280104,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490126,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "31",
+        "word_num": 23,
+        "word": "παρακλήσει",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "παρακλήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1280104,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "31",
+        "word_num": 25,
+        "word": "in",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "in",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παρακλήσει = in",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511666",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "31",
+    "alignment_num": "4",
+    "orig_lang_words": ",1494164,",
+    "target_lang_words": ",1285453,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494164,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 5,
+        "word": "παρακλήσει",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "παρακλήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1285453,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 10,
+        "word": "encouragement",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "encouragement",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παρακλήσει = encouragement",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524791",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "8",
+    "alignment_num": "3",
+    "orig_lang_words": ",1507958,1507959,",
+    "target_lang_words": ",1304369,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1507958,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "8",
+        "word_num": 4,
+        "word": "τῇ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFS,"
+      },
+      {
+        "id": 1507959,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "8",
+        "word_num": 5,
+        "word": "παρακλήσει",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "τῇ παρακλήσει",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304369,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "8",
+        "word_num": 3,
+        "word": "encouragement",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "encouragement",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῇ παρακλήσει = encouragement",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -926,7 +1221,8 @@
     "targetWordsTxt": "with encouragement",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῇ παρακλήσει = with encouragement",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -970,7 +1266,8 @@
     "targetWordsTxt": "comfort",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παρακλήσει = comfort",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1026,95 +1323,110 @@
     "targetWordsTxt": "comfort",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῇ παρακλήσει = comfort",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "535329",
-    "book_id": "2co",
-    "chapter": "8",
-    "verse": "4",
-    "alignment_num": "2",
-    "orig_lang_words": ",1518935,",
-    "target_lang_words": ",1319867,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518935,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "4",
-        "word_num": 2,
-        "word": "παρακλήσεως",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "παρακλήσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1319867,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "4",
-        "word_num": 2,
-        "word": "urging",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "urging",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παρακλήσεως = urging",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535547",
-    "book_id": "2co",
-    "chapter": "8",
-    "verse": "17",
+    "id": "548037",
+    "book_id": "1ti",
+    "chapter": "4",
+    "verse": "13",
     "alignment_num": "5",
-    "orig_lang_words": ",1519163,",
-    "target_lang_words": ",1320197,",
+    "orig_lang_words": ",1532064,",
+    "target_lang_words": ",1338110,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1519163,
-        "book_id": "2co",
-        "chapter": "8",
-        "verse": "17",
-        "word_num": 3,
-        "word": "παράκλησιν",
+        "id": 1532064,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "13",
+        "word_num": 6,
+        "word": "παρακλήσει",
         "occurrence": 1,
         "strong": "G38740",
         "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,AFS,"
+        "morph": "Gr,N,,,,,DFS,"
       }
     ],
-    "origWordsTxt": "παράκλησιν",
+    "origWordsTxt": "παρακλήσει",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1320197,
+        "id": 1338110,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "13",
+        "word_num": 7,
+        "word": "to",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "to",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παρακλήσει = to",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533127",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "11",
+    "orig_lang_words": ",1516665,1516666,",
+    "target_lang_words": ",1316725,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1516665,
         "book_id": "2co",
-        "chapter": "8",
-        "verse": "17",
-        "word_num": 6,
-        "word": "appeal",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 15,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1516666,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 16,
+        "word": "παράκλησις",
+        "occurrence": 1,
+        "strong": "G38740",
+        "lemma": "παράκλησις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ παράκλησις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1316725,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 13,
+        "word": "comfort",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "appeal",
+    "targetWordsTxt": "comfort",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "παράκλησιν = appeal",
-    "frequency": 0.034482758620689655,
+    "alignmentTxt": "ἡ παράκλησις = comfort",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1158,7 +1470,8 @@
     "targetWordsTxt": "encouragement",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παράκλησις = encouragement",
-    "frequency": 0.034482758620689655,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1226,292 +1539,8 @@
     "targetWordsTxt": "For",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἡ γὰρ παράκλησις = For",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546858",
-    "book_id": "2th",
-    "chapter": "2",
-    "verse": "16",
-    "alignment_num": "15",
-    "orig_lang_words": ",1530899,",
-    "target_lang_words": ",1336454,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530899,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 18,
-        "word": "παράκλησιν",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "παράκλησιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1336454,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 18,
-        "word": "comfort",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "comfort",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παράκλησιν = comfort",
-    "frequency": 0.06896551724137931,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548037",
-    "book_id": "1ti",
-    "chapter": "4",
-    "verse": "13",
-    "alignment_num": "5",
-    "orig_lang_words": ",1532064,",
-    "target_lang_words": ",1338110,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532064,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "13",
-        "word_num": 6,
-        "word": "παρακλήσει",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "παρακλήσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338110,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "13",
-        "word_num": 7,
-        "word": "to",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "to",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παρακλήσει = to",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550741",
-    "book_id": "phm",
-    "chapter": "1",
-    "verse": "7",
-    "alignment_num": "5",
-    "orig_lang_words": ",1534772,",
-    "target_lang_words": ",1341921,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534772,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "7",
-        "word_num": 5,
-        "word": "παράκλησιν",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "παράκλησιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341921,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "7",
-        "word_num": 7,
-        "word": "comfort",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "comfort",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παράκλησιν = comfort",
-    "frequency": 0.06896551724137931,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552521",
-    "book_id": "heb",
-    "chapter": "6",
-    "verse": "18",
-    "alignment_num": "14",
-    "orig_lang_words": ",1536647,",
-    "target_lang_words": ",1344623,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536647,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "18",
-        "word_num": 12,
-        "word": "παράκλησιν",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "παράκλησιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344623,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "18",
-        "word_num": 26,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παράκλησιν = a",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554953",
-    "book_id": "heb",
-    "chapter": "12",
-    "verse": "5",
-    "alignment_num": "3",
-    "orig_lang_words": ",1539188,",
-    "target_lang_words": ",1348334,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539188,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "5",
-        "word_num": 3,
-        "word": "παρακλήσεως",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "παρακλήσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1348334,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "5",
-        "word_num": 5,
-        "word": "encouragement",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "encouragement",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παρακλήσεως = encouragement",
-    "frequency": 0.034482758620689655,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555659",
-    "book_id": "heb",
-    "chapter": "13",
-    "verse": "22",
-    "alignment_num": "7",
-    "orig_lang_words": ",1539918,1539919,",
-    "target_lang_words": ",1349387,1349388,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1539918,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "22",
-        "word_num": 7,
-        "word": "τῆς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GFS,"
-      },
-      {
-        "id": 1539919,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "22",
-        "word_num": 8,
-        "word": "παρακλήσεως",
-        "occurrence": 1,
-        "strong": "G38740",
-        "lemma": "παράκλησις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "τῆς παρακλήσεως",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1349387,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "22",
-        "word_num": 10,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1349388,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "22",
-        "word_num": 11,
-        "word": "encouragement",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of encouragement",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τῆς παρακλήσεως = of encouragement",
-    "frequency": 0.06896551724137931,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

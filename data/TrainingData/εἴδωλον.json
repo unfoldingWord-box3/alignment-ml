@@ -39,7 +39,8 @@
     "targetWordsTxt": "to",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εἰδώλῳ = to",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,155 @@
     "targetWordsTxt": "idols",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εἰδώλων = idols",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534916",
+    "book_id": "2co",
+    "chapter": "6",
+    "verse": "16",
+    "alignment_num": "7",
+    "orig_lang_words": ",1518501,",
+    "target_lang_words": ",1319259,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518501,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "16",
+        "word_num": 6,
+        "word": "εἰδώλων",
+        "occurrence": 1,
+        "strong": "G14970",
+        "lemma": "εἴδωλον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "εἰδώλων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1319259,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "16",
+        "word_num": 9,
+        "word": "idols",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "idols",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εἰδώλων = idols",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545130",
+    "book_id": "1th",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "18",
+    "orig_lang_words": ",1529075,",
+    "target_lang_words": ",1334043,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529075,
+        "book_id": "1th",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 18,
+        "word": "εἰδώλων",
+        "occurrence": 1,
+        "strong": "G14970",
+        "lemma": "εἴδωλον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "εἰδώλων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334043,
+        "book_id": "1th",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 22,
+        "word": "idols",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "idols",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εἰδώλων = idols",
+    "frequency": 0.75,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561830",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "21",
+    "alignment_num": "4",
+    "orig_lang_words": ",1546611,1546612,",
+    "target_lang_words": ",1358626,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546611,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "21",
+        "word_num": 4,
+        "word": "τῶν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GNP,"
+      },
+      {
+        "id": 1546612,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "21",
+        "word_num": 5,
+        "word": "εἰδώλων",
+        "occurrence": 1,
+        "strong": "G14970",
+        "lemma": "εἴδωλον",
+        "morph": "Gr,N,,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "τῶν εἰδώλων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358626,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "21",
+        "word_num": 4,
+        "word": "idols",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "idols",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῶν εἰδώλων = idols",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -139,7 +288,122 @@
     "targetWordsTxt": "idols",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ εἴδωλα = idols",
-    "frequency": 0.2727272727272727,
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "530678",
+    "book_id": "1co",
+    "chapter": "12",
+    "verse": "2",
+    "alignment_num": "8",
+    "orig_lang_words": ",1514144,1514145,",
+    "target_lang_words": ",1313170,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1514144,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "2",
+        "word_num": 6,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1514145,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "2",
+        "word_num": 7,
+        "word": "εἴδωλα",
+        "occurrence": 1,
+        "strong": "G14970",
+        "lemma": "εἴδωλον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ εἴδωλα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1313170,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "2",
+        "word_num": 13,
+        "word": "idols",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "idols",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ εἴδωλα = idols",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566162",
+    "book_id": "rev",
+    "chapter": "9",
+    "verse": "20",
+    "alignment_num": "23",
+    "orig_lang_words": ",1551364,1551365,",
+    "target_lang_words": ",1364748,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1551364,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 26,
+        "word": "τὰ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1551365,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 27,
+        "word": "εἴδωλα",
+        "occurrence": 1,
+        "strong": "G14970",
+        "lemma": "εἴδωλον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ εἴδωλα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1364748,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 28,
+        "word": "idols",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "idols",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ εἴδωλα = idols",
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -192,7 +456,8 @@
     "targetWordsTxt": "an idol",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εἴδωλον = an idol",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -257,7 +522,8 @@
     "targetWordsTxt": "to idols",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῦ εἰδώλου = to idols",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -310,263 +576,8 @@
     "targetWordsTxt": "an idol",
     "alignmentTargetWords": 2,
     "alignmentTxt": "εἴδωλόν = an idol",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "530678",
-    "book_id": "1co",
-    "chapter": "12",
-    "verse": "2",
-    "alignment_num": "8",
-    "orig_lang_words": ",1514144,1514145,",
-    "target_lang_words": ",1313170,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1514144,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "2",
-        "word_num": 6,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1514145,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "2",
-        "word_num": 7,
-        "word": "εἴδωλα",
-        "occurrence": 1,
-        "strong": "G14970",
-        "lemma": "εἴδωλον",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ εἴδωλα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1313170,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "2",
-        "word_num": 13,
-        "word": "idols",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "idols",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ εἴδωλα = idols",
-    "frequency": 0.2727272727272727,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534916",
-    "book_id": "2co",
-    "chapter": "6",
-    "verse": "16",
-    "alignment_num": "7",
-    "orig_lang_words": ",1518501,",
-    "target_lang_words": ",1319259,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518501,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "16",
-        "word_num": 6,
-        "word": "εἰδώλων",
-        "occurrence": 1,
-        "strong": "G14970",
-        "lemma": "εἴδωλον",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "εἰδώλων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1319259,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "16",
-        "word_num": 9,
-        "word": "idols",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "idols",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εἰδώλων = idols",
-    "frequency": 0.2727272727272727,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545130",
-    "book_id": "1th",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "18",
-    "orig_lang_words": ",1529075,",
-    "target_lang_words": ",1334043,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529075,
-        "book_id": "1th",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 18,
-        "word": "εἰδώλων",
-        "occurrence": 1,
-        "strong": "G14970",
-        "lemma": "εἴδωλον",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "εἰδώλων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1334043,
-        "book_id": "1th",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 22,
-        "word": "idols",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "idols",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εἰδώλων = idols",
-    "frequency": 0.2727272727272727,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561830",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "21",
-    "alignment_num": "4",
-    "orig_lang_words": ",1546611,1546612,",
-    "target_lang_words": ",1358626,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1546611,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "21",
-        "word_num": 4,
-        "word": "τῶν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GNP,"
-      },
-      {
-        "id": 1546612,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "21",
-        "word_num": 5,
-        "word": "εἰδώλων",
-        "occurrence": 1,
-        "strong": "G14970",
-        "lemma": "εἴδωλον",
-        "morph": "Gr,N,,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "τῶν εἰδώλων",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358626,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "21",
-        "word_num": 4,
-        "word": "idols",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "idols",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῶν εἰδώλων = idols",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566162",
-    "book_id": "rev",
-    "chapter": "9",
-    "verse": "20",
-    "alignment_num": "23",
-    "orig_lang_words": ",1551364,1551365,",
-    "target_lang_words": ",1364748,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1551364,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "20",
-        "word_num": 26,
-        "word": "τὰ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1551365,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "20",
-        "word_num": 27,
-        "word": "εἴδωλα",
-        "occurrence": 1,
-        "strong": "G14970",
-        "lemma": "εἴδωλον",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ εἴδωλα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1364748,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "20",
-        "word_num": 28,
-        "word": "idols",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "idols",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ εἴδωλα = idols",
-    "frequency": 0.2727272727272727,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

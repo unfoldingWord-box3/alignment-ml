@@ -39,7 +39,98 @@
     "targetWordsTxt": "in",
     "alignmentTargetWords": 1,
     "alignmentTxt": "συνειδήσει = in",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547751",
+    "book_id": "1ti",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "7",
+    "orig_lang_words": ",1531788,",
+    "target_lang_words": ",1337721,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531788,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 7,
+        "word": "συνειδήσει",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "συνειδήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337721,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 7,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "συνειδήσει = a",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548804",
+    "book_id": "2ti",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "8",
+    "orig_lang_words": ",1532823,",
+    "target_lang_words": ",1339215,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532823,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 10,
+        "word": "συνειδήσει",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "συνειδήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1339215,
+        "book_id": "2ti",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 12,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "συνειδήσει = a",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,107 +174,8 @@
     "targetWordsTxt": "conscience",
     "alignmentTargetWords": 1,
     "alignmentTxt": "συνείδησιν = conscience",
-    "frequency": 0.13333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520619",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "15",
-    "alignment_num": "11",
-    "orig_lang_words": ",1503409,",
-    "target_lang_words": ",1297920,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503409,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 14,
-        "word": "συνειδήσεως",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "συνειδήσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1297920,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 17,
-        "word": "conscience",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "conscience",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "συνειδήσεως = conscience",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523340",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "1",
-    "alignment_num": "8",
-    "orig_lang_words": ",1506379,1506380,",
-    "target_lang_words": ",1302121,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1506379,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "1",
-        "word_num": 8,
-        "word": "τῆς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GFS,"
-      },
-      {
-        "id": 1506380,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "1",
-        "word_num": 9,
-        "word": "συνειδήσεώς",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "τῆς συνειδήσεώς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1302121,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "1",
-        "word_num": 12,
-        "word": "conscience",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "conscience",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῆς συνειδήσεώς = conscience",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.25,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -239,119 +231,8 @@
     "targetWordsTxt": "conscience",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν συνείδησιν = conscience",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529153",
-    "book_id": "1co",
-    "chapter": "8",
-    "verse": "7",
-    "alignment_num": "17",
-    "orig_lang_words": ",1512578,1512579,",
-    "target_lang_words": ",1310846,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1512578,
-        "book_id": "1co",
-        "chapter": "8",
-        "verse": "7",
-        "word_num": 18,
-        "word": "ἡ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1512579,
-        "book_id": "1co",
-        "chapter": "8",
-        "verse": "7",
-        "word_num": 19,
-        "word": "συνείδησις",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ συνείδησις",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1310846,
-        "book_id": "1co",
-        "chapter": "8",
-        "verse": "7",
-        "word_num": 34,
-        "word": "conscience",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "conscience",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ συνείδησις = conscience",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529196",
-    "book_id": "1co",
-    "chapter": "8",
-    "verse": "10",
-    "alignment_num": "11",
-    "orig_lang_words": ",1512623,1512624,",
-    "target_lang_words": ",1310911,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1512623,
-        "book_id": "1co",
-        "chapter": "8",
-        "verse": "10",
-        "word_num": 11,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1512624,
-        "book_id": "1co",
-        "chapter": "8",
-        "verse": "10",
-        "word_num": 12,
-        "word": "συνείδησις",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ συνείδησις",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1310911,
-        "book_id": "1co",
-        "chapter": "8",
-        "verse": "10",
-        "word_num": 17,
-        "word": "conscience",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "conscience",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ συνείδησις = conscience",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.1875,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -407,7 +288,8 @@
     "targetWordsTxt": "consciences",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν συνείδησιν = consciences",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -451,7 +333,8 @@
     "targetWordsTxt": "conscience",
     "alignmentTargetWords": 1,
     "alignmentTxt": "συνείδησιν = conscience",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.25,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -495,7 +378,8 @@
     "targetWordsTxt": "conscience",
     "alignmentTargetWords": 1,
     "alignmentTxt": "συνείδησιν = conscience",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.25,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -551,7 +435,8 @@
     "targetWordsTxt": "conscience",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν συνείδησιν = conscience",
-    "frequency": 0.1,
+    "frequency": 0.1875,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -604,107 +489,8 @@
     "targetWordsTxt": "the conscience",
     "alignmentTargetWords": 2,
     "alignmentTxt": "συνείδησιν = the conscience",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "530102",
-    "book_id": "1co",
-    "chapter": "10",
-    "verse": "29",
-    "alignment_num": "18",
-    "orig_lang_words": ",1513548,",
-    "target_lang_words": ",1312306,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513548,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "29",
-        "word_num": 19,
-        "word": "συνειδήσεως",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "συνειδήσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1312306,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "29",
-        "word_num": 24,
-        "word": "conscience",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "conscience",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "συνειδήσεως = conscience",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533262",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "12",
-    "alignment_num": "7",
-    "orig_lang_words": ",1516805,1516806,",
-    "target_lang_words": ",1316910,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1516805,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 8,
-        "word": "τῆς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GFS,"
-      },
-      {
-        "id": 1516806,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 9,
-        "word": "συνειδήσεως",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "τῆς συνειδήσεως",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1316910,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 8,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῆς συνειδήσεως = of",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -748,107 +534,8 @@
     "targetWordsTxt": "conscience",
     "alignmentTargetWords": 1,
     "alignmentTxt": "συνείδησιν = conscience",
-    "frequency": 0.13333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534533",
-    "book_id": "2co",
-    "chapter": "5",
-    "verse": "11",
-    "alignment_num": "18",
-    "orig_lang_words": ",1518119,1518120,",
-    "target_lang_words": ",1318714,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1518119,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 15,
-        "word": "ταῖς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DFP,"
-      },
-      {
-        "id": 1518120,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 16,
-        "word": "συνειδήσεσιν",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,DFP,"
-      }
-    ],
-    "origWordsTxt": "ταῖς συνειδήσεσιν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1318714,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 28,
-        "word": "consciences",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "consciences",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ταῖς συνειδήσεσιν = consciences",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547221",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "5",
-    "alignment_num": "13",
-    "orig_lang_words": ",1531265,",
-    "target_lang_words": ",1336960,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531265,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 11,
-        "word": "συνειδήσεως",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "συνειδήσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1336960,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 13,
-        "word": "a",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "συνειδήσεως = a",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.25,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -892,51 +579,8 @@
     "targetWordsTxt": "a",
     "alignmentTargetWords": 1,
     "alignmentTxt": "συνείδησιν = a",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547751",
-    "book_id": "1ti",
-    "chapter": "3",
-    "verse": "9",
-    "alignment_num": "7",
-    "orig_lang_words": ",1531788,",
-    "target_lang_words": ",1337721,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531788,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 7,
-        "word": "συνειδήσει",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "συνειδήσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337721,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 7,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "συνειδήσει = a",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.1875,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -980,95 +624,8 @@
     "targetWordsTxt": "consciences",
     "alignmentTargetWords": 1,
     "alignmentTxt": "συνείδησιν = consciences",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548804",
-    "book_id": "2ti",
-    "chapter": "1",
-    "verse": "3",
-    "alignment_num": "8",
-    "orig_lang_words": ",1532823,",
-    "target_lang_words": ",1339215,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532823,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 10,
-        "word": "συνειδήσει",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "συνειδήσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1339215,
-        "book_id": "2ti",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 12,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "συνειδήσει = a",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550217",
-    "book_id": "tit",
-    "chapter": "1",
-    "verse": "15",
-    "alignment_num": "17",
-    "orig_lang_words": ",1534252,",
-    "target_lang_words": ",1341192,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534252,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "15",
-        "word_num": 19,
-        "word": "συνείδησις",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "συνείδησις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341192,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "15",
-        "word_num": 26,
-        "word": "consciences",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "consciences",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "συνείδησις = consciences",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1124,7 +681,8 @@
     "targetWordsTxt": "conscience",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κατὰ συνείδησιν = conscience",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1180,7 +738,8 @@
     "targetWordsTxt": "conscience",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν συνείδησιν = conscience",
-    "frequency": 0.1,
+    "frequency": 0.1875,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1233,51 +792,8 @@
     "targetWordsTxt": "any consciousness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "συνείδησιν = any consciousness",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554029",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "22",
-    "alignment_num": "12",
-    "orig_lang_words": ",1538232,",
-    "target_lang_words": ",1346895,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538232,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "22",
-        "word_num": 11,
-        "word": "συνειδήσεως",
-        "occurrence": 1,
-        "strong": "G48930",
-        "lemma": "συνείδησις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "συνειδήσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1346895,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "22",
-        "word_num": 18,
-        "word": "an",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "an",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "συνειδήσεως = an",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1321,7 +837,8 @@
     "targetWordsTxt": "a",
     "alignmentTargetWords": 1,
     "alignmentTxt": "συνείδησιν = a",
-    "frequency": 0.1,
+    "frequency": 0.1875,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1374,7 +891,8 @@
     "targetWordsTxt": "his awareness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "συνείδησιν = his awareness",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1418,7 +936,245 @@
     "targetWordsTxt": "a",
     "alignmentTargetWords": 1,
     "alignmentTxt": "συνείδησιν = a",
-    "frequency": 0.1,
+    "frequency": 0.1875,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520619",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "15",
+    "alignment_num": "11",
+    "orig_lang_words": ",1503409,",
+    "target_lang_words": ",1297920,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503409,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 14,
+        "word": "συνειδήσεως",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "συνειδήσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297920,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 17,
+        "word": "conscience",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "conscience",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "συνειδήσεως = conscience",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "530102",
+    "book_id": "1co",
+    "chapter": "10",
+    "verse": "29",
+    "alignment_num": "18",
+    "orig_lang_words": ",1513548,",
+    "target_lang_words": ",1312306,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513548,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "29",
+        "word_num": 19,
+        "word": "συνειδήσεως",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "συνειδήσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1312306,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "29",
+        "word_num": 24,
+        "word": "conscience",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "conscience",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "συνειδήσεως = conscience",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533262",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "12",
+    "alignment_num": "7",
+    "orig_lang_words": ",1516805,1516806,",
+    "target_lang_words": ",1316910,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1516805,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 8,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1516806,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 9,
+        "word": "συνειδήσεως",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς συνειδήσεως",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1316910,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 8,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῆς συνειδήσεως = of",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547221",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "13",
+    "orig_lang_words": ",1531265,",
+    "target_lang_words": ",1336960,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531265,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 11,
+        "word": "συνειδήσεως",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "συνειδήσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336960,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 13,
+        "word": "a",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "συνειδήσεως = a",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554029",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "22",
+    "alignment_num": "12",
+    "orig_lang_words": ",1538232,",
+    "target_lang_words": ",1346895,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538232,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "22",
+        "word_num": 11,
+        "word": "συνειδήσεως",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "συνειδήσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1346895,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "22",
+        "word_num": 18,
+        "word": "an",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "συνειδήσεως = an",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1471,7 +1227,281 @@
     "targetWordsTxt": "of a",
     "alignmentTargetWords": 2,
     "alignmentTxt": "συνειδήσεως = of a",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523340",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "1",
+    "alignment_num": "8",
+    "orig_lang_words": ",1506379,1506380,",
+    "target_lang_words": ",1302121,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1506379,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 8,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1506380,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 9,
+        "word": "συνειδήσεώς",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς συνειδήσεώς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1302121,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "1",
+        "word_num": 12,
+        "word": "conscience",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "conscience",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῆς συνειδήσεώς = conscience",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "529153",
+    "book_id": "1co",
+    "chapter": "8",
+    "verse": "7",
+    "alignment_num": "17",
+    "orig_lang_words": ",1512578,1512579,",
+    "target_lang_words": ",1310846,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1512578,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 18,
+        "word": "ἡ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1512579,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 19,
+        "word": "συνείδησις",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ συνείδησις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1310846,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 34,
+        "word": "conscience",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "conscience",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ συνείδησις = conscience",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "529196",
+    "book_id": "1co",
+    "chapter": "8",
+    "verse": "10",
+    "alignment_num": "11",
+    "orig_lang_words": ",1512623,1512624,",
+    "target_lang_words": ",1310911,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1512623,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "10",
+        "word_num": 11,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1512624,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "10",
+        "word_num": 12,
+        "word": "συνείδησις",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ συνείδησις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1310911,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "10",
+        "word_num": 17,
+        "word": "conscience",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "conscience",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ συνείδησις = conscience",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550217",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "15",
+    "alignment_num": "17",
+    "orig_lang_words": ",1534252,",
+    "target_lang_words": ",1341192,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534252,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 19,
+        "word": "συνείδησις",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "συνείδησις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341192,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 26,
+        "word": "consciences",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "consciences",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "συνείδησις = consciences",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534533",
+    "book_id": "2co",
+    "chapter": "5",
+    "verse": "11",
+    "alignment_num": "18",
+    "orig_lang_words": ",1518119,1518120,",
+    "target_lang_words": ",1318714,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1518119,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 15,
+        "word": "ταῖς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFP,"
+      },
+      {
+        "id": 1518120,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 16,
+        "word": "συνειδήσεσιν",
+        "occurrence": 1,
+        "strong": "G48930",
+        "lemma": "συνείδησις",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "ταῖς συνειδήσεσιν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1318714,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 28,
+        "word": "consciences",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "consciences",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ταῖς συνειδήσεσιν = consciences",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

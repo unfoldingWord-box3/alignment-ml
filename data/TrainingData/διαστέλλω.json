@@ -39,7 +39,8 @@
     "targetWordsTxt": "he",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διεστείλατο = he",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -104,104 +105,8 @@
     "targetWordsTxt": "Jesus ordered",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καὶ διεστείλατο = Jesus ordered",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "462510",
-    "book_id": "mrk",
-    "chapter": "7",
-    "verse": "36",
-    "alignment_num": "8",
-    "orig_lang_words": ",1442501,",
-    "target_lang_words": ",1217891,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1442501,
-        "book_id": "mrk",
-        "chapter": "7",
-        "verse": "36",
-        "word_num": 9,
-        "word": "διεστέλλετο",
-        "occurrence": 1,
-        "strong": "G12910",
-        "lemma": "διαστέλλω",
-        "morph": "Gr,V,IIM3,,S,"
-      }
-    ],
-    "origWordsTxt": "διεστέλλετο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1217891,
-        "book_id": "mrk",
-        "chapter": "7",
-        "verse": "36",
-        "word_num": 11,
-        "word": "ordered",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "ordered",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διεστέλλετο = ordered",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "462733",
-    "book_id": "mrk",
-    "chapter": "8",
-    "verse": "15",
-    "alignment_num": "1",
-    "orig_lang_words": ",1442732,",
-    "target_lang_words": ",1218219,1218220,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1442732,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 1,
-        "word": "διεστέλλετο",
-        "occurrence": 1,
-        "strong": "G12910",
-        "lemma": "διαστέλλω",
-        "morph": "Gr,V,IIM3,,S,"
-      }
-    ],
-    "origWordsTxt": "διεστέλλετο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1218219,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 1,
-        "word": "Jesus",
-        "occurrence": 1
-      },
-      {
-        "id": 1218220,
-        "book_id": "mrk",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 2,
-        "word": "warned",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Jesus warned",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διεστέλλετο = Jesus warned",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -254,7 +159,107 @@
     "targetWordsTxt": "he commanded",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διεστείλατο = he commanded",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "462510",
+    "book_id": "mrk",
+    "chapter": "7",
+    "verse": "36",
+    "alignment_num": "8",
+    "orig_lang_words": ",1442501,",
+    "target_lang_words": ",1217891,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1442501,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "36",
+        "word_num": 9,
+        "word": "διεστέλλετο",
+        "occurrence": 1,
+        "strong": "G12910",
+        "lemma": "διαστέλλω",
+        "morph": "Gr,V,IIM3,,S,"
+      }
+    ],
+    "origWordsTxt": "διεστέλλετο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1217891,
+        "book_id": "mrk",
+        "chapter": "7",
+        "verse": "36",
+        "word_num": 11,
+        "word": "ordered",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "ordered",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διεστέλλετο = ordered",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "462733",
+    "book_id": "mrk",
+    "chapter": "8",
+    "verse": "15",
+    "alignment_num": "1",
+    "orig_lang_words": ",1442732,",
+    "target_lang_words": ",1218219,1218220,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1442732,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 1,
+        "word": "διεστέλλετο",
+        "occurrence": 1,
+        "strong": "G12910",
+        "lemma": "διαστέλλω",
+        "morph": "Gr,V,IIM3,,S,"
+      }
+    ],
+    "origWordsTxt": "διεστέλλετο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1218219,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 1,
+        "word": "Jesus",
+        "occurrence": 1
+      },
+      {
+        "id": 1218220,
+        "book_id": "mrk",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 2,
+        "word": "warned",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Jesus warned",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διεστέλλετο = Jesus warned",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -298,7 +303,8 @@
     "targetWordsTxt": "were",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διεστειλάμεθα = were",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -372,7 +378,8 @@
     "targetWordsTxt": "what was commanded",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὸ διαστελλόμενον = what was commanded",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

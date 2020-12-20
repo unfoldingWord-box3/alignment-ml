@@ -51,7 +51,8 @@
     "targetWordsTxt": "lambs",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ ἀρνία = lambs",
-    "frequency": 0.03333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -104,51 +105,8 @@
     "targetWordsTxt": "a Lamb",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Ἀρνίον = a Lamb",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564559",
-    "book_id": "rev",
-    "chapter": "5",
-    "verse": "8",
-    "alignment_num": "15",
-    "orig_lang_words": ",1549604,",
-    "target_lang_words": ",1362557,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1549604,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "8",
-        "word_num": 16,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1362557,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "8",
-        "word_num": 19,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -192,51 +150,8 @@
     "targetWordsTxt": "Lamb",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Ἀρνίον = Lamb",
-    "frequency": 0.23333333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564696",
-    "book_id": "rev",
-    "chapter": "5",
-    "verse": "13",
-    "alignment_num": "31",
-    "orig_lang_words": ",1549750,",
-    "target_lang_words": ",1362738,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1549750,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "13",
-        "word_num": 33,
-        "word": "Ἀρνίῳ",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,DNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίῳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1362738,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "13",
-        "word_num": 40,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίῳ = Lamb",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.875,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -280,7 +195,278 @@
     "targetWordsTxt": "Lamb",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Ἀρνίον = Lamb",
-    "frequency": 0.23333333333333334,
+    "frequency": 0.875,
+    "matchCount": 7,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565450",
+    "book_id": "rev",
+    "chapter": "7",
+    "verse": "17",
+    "alignment_num": "2",
+    "orig_lang_words": ",1550569,",
+    "target_lang_words": ",1363782,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550569,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "17",
+        "word_num": 2,
+        "word": "Ἀρνίον",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,NNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1363782,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "17",
+        "word_num": 2,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίον = Lamb",
+    "frequency": 0.875,
+    "matchCount": 7,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567693",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1553084,",
+    "target_lang_words": ",1366815,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553084,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "1",
+        "word_num": 5,
+        "word": "Ἀρνίον",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,NNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366815,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "1",
+        "word_num": 7,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίον = Lamb",
+    "frequency": 0.875,
+    "matchCount": 7,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569127",
+    "book_id": "rev",
+    "chapter": "17",
+    "verse": "14",
+    "alignment_num": "7",
+    "orig_lang_words": ",1554641,",
+    "target_lang_words": ",1368705,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554641,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 7,
+        "word": "Ἀρνίον",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,NNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368705,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 9,
+        "word": "Lamb",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίον = Lamb",
+    "frequency": 0.875,
+    "matchCount": 7,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571048",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "22",
+    "alignment_num": "13",
+    "orig_lang_words": ",1556812,",
+    "target_lang_words": ",1371297,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556812,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "22",
+        "word_num": 18,
+        "word": "Ἀρνίον",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,NNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371297,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "22",
+        "word_num": 15,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίον = Lamb",
+    "frequency": 0.875,
+    "matchCount": 7,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571075",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "23",
+    "alignment_num": "23",
+    "orig_lang_words": ",1556839,",
+    "target_lang_words": ",1371331,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556839,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "23",
+        "word_num": 26,
+        "word": "Ἀρνίον",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,NNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371331,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "23",
+        "word_num": 30,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίον = Lamb",
+    "frequency": 0.875,
+    "matchCount": 7,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564559",
+    "book_id": "rev",
+    "chapter": "5",
+    "verse": "8",
+    "alignment_num": "15",
+    "orig_lang_words": ",1549604,",
+    "target_lang_words": ",1362557,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549604,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "8",
+        "word_num": 16,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1362557,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "8",
+        "word_num": 19,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -345,7 +531,8 @@
     "targetWordsTxt": "Lamb's",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ Ἀρνίου = Lamb's",
-    "frequency": 0.03333333333333333,
+    "frequency": 0.0625,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -389,51 +576,8 @@
     "targetWordsTxt": "Lamb",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565304",
-    "book_id": "rev",
-    "chapter": "7",
-    "verse": "10",
-    "alignment_num": "16",
-    "orig_lang_words": ",1550412,",
-    "target_lang_words": ",1363592,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550412,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "10",
-        "word_num": 17,
-        "word": "Ἀρνίῳ",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,DNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίῳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1363592,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "10",
-        "word_num": 28,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίῳ = Lamb",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.9375,
+    "matchCount": 15,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -477,51 +621,8 @@
     "targetWordsTxt": "Lamb",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565450",
-    "book_id": "rev",
-    "chapter": "7",
-    "verse": "17",
-    "alignment_num": "2",
-    "orig_lang_words": ",1550569,",
-    "target_lang_words": ",1363782,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550569,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "17",
-        "word_num": 2,
-        "word": "Ἀρνίον",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,NNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1363782,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "17",
-        "word_num": 2,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίον = Lamb",
-    "frequency": 0.23333333333333334,
+    "frequency": 0.9375,
+    "matchCount": 15,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -565,7 +666,8 @@
     "targetWordsTxt": "Lamb",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
+    "frequency": 0.9375,
+    "matchCount": 15,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -609,7 +711,638 @@
     "targetWordsTxt": "Lamb",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567936",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "10",
+    "alignment_num": "30",
+    "orig_lang_words": ",1553356,",
+    "target_lang_words": ",1367123,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553356,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 31,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367123,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 40,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568246",
+    "book_id": "rev",
+    "chapter": "15",
+    "verse": "3",
+    "alignment_num": "11",
+    "orig_lang_words": ",1553699,",
+    "target_lang_words": ",1367539,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553699,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "3",
+        "word_num": 13,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367539,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "3",
+        "word_num": 16,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569124",
+    "book_id": "rev",
+    "chapter": "17",
+    "verse": "14",
+    "alignment_num": "4",
+    "orig_lang_words": ",1554637,",
+    "target_lang_words": ",1368702,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554637,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 3,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368702,
+        "book_id": "rev",
+        "chapter": "17",
+        "verse": "14",
+        "word_num": 6,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569892",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "7",
+    "alignment_num": "12",
+    "orig_lang_words": ",1555527,",
+    "target_lang_words": ",1369741,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555527,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "7",
+        "word_num": 13,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369741,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "7",
+        "word_num": 16,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569926",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "9",
+    "alignment_num": "12",
+    "orig_lang_words": ",1555562,",
+    "target_lang_words": ",1369793,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555562,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "9",
+        "word_num": 12,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369793,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "9",
+        "word_num": 20,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570797",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "9",
+    "alignment_num": "29",
+    "orig_lang_words": ",1556536,",
+    "target_lang_words": ",1370967,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556536,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "9",
+        "word_num": 32,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1370967,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "9",
+        "word_num": 42,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570895",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "14",
+    "alignment_num": "16",
+    "orig_lang_words": ",1556637,",
+    "target_lang_words": ",1371095,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556637,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "14",
+        "word_num": 17,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371095,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "14",
+        "word_num": 21,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571134",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "27",
+    "alignment_num": "20",
+    "orig_lang_words": ",1556907,",
+    "target_lang_words": ",1371414,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556907,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "27",
+        "word_num": 24,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371414,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "27",
+        "word_num": 31,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571151",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "1",
+    "alignment_num": "16",
+    "orig_lang_words": ",1556925,",
+    "target_lang_words": ",1371441,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556925,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "1",
+        "word_num": 17,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371441,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "1",
+        "word_num": 26,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "571190",
+    "book_id": "rev",
+    "chapter": "22",
+    "verse": "3",
+    "alignment_num": "12",
+    "orig_lang_words": ",1556971,",
+    "target_lang_words": ",1371499,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556971,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "3",
+        "word_num": 13,
+        "word": "Ἀρνίου",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,GNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1371499,
+        "book_id": "rev",
+        "chapter": "22",
+        "verse": "3",
+        "word_num": 15,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίου = Lamb",
+    "frequency": 0.9375,
+    "matchCount": 15,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564696",
+    "book_id": "rev",
+    "chapter": "5",
+    "verse": "13",
+    "alignment_num": "31",
+    "orig_lang_words": ",1549750,",
+    "target_lang_words": ",1362738,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549750,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "13",
+        "word_num": 33,
+        "word": "Ἀρνίῳ",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,DNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1362738,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "13",
+        "word_num": 40,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίῳ = Lamb",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565304",
+    "book_id": "rev",
+    "chapter": "7",
+    "verse": "10",
+    "alignment_num": "16",
+    "orig_lang_words": ",1550412,",
+    "target_lang_words": ",1363592,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550412,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "10",
+        "word_num": 17,
+        "word": "Ἀρνίῳ",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,DNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1363592,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "10",
+        "word_num": 28,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίῳ = Lamb",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567783",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "4",
+    "alignment_num": "14",
+    "orig_lang_words": ",1553186,",
+    "target_lang_words": ",1366930,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553186,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "4",
+        "word_num": 14,
+        "word": "Ἀρνίῳ",
+        "occurrence": 1,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,DNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366930,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "4",
+        "word_num": 22,
+        "word": "Lamb",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίῳ = Lamb",
+    "frequency": 1.0,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567794",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "4",
+    "alignment_num": "25",
+    "orig_lang_words": ",1553200,",
+    "target_lang_words": ",1366947,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553200,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "4",
+        "word_num": 28,
+        "word": "Ἀρνίῳ",
+        "occurrence": 2,
+        "strong": "G07210",
+        "lemma": "ἀρνίον",
+        "morph": "Gr,N,,,,,DNSD"
+      }
+    ],
+    "origWordsTxt": "Ἀρνίῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366947,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "4",
+        "word_num": 39,
+        "word": "Lamb",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "Lamb",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Ἀρνίῳ = Lamb",
+    "frequency": 1.0,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -662,711 +1395,8 @@
     "targetWordsTxt": "a lamb",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀρνίῳ = a lamb",
-    "frequency": 0.03333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567693",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "1",
-    "alignment_num": "5",
-    "orig_lang_words": ",1553084,",
-    "target_lang_words": ",1366815,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553084,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "1",
-        "word_num": 5,
-        "word": "Ἀρνίον",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,NNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366815,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "1",
-        "word_num": 7,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίον = Lamb",
-    "frequency": 0.23333333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567783",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "4",
-    "alignment_num": "14",
-    "orig_lang_words": ",1553186,",
-    "target_lang_words": ",1366930,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553186,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "4",
-        "word_num": 14,
-        "word": "Ἀρνίῳ",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,DNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίῳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366930,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "4",
-        "word_num": 22,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίῳ = Lamb",
-    "frequency": 0.13333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567794",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "4",
-    "alignment_num": "25",
-    "orig_lang_words": ",1553200,",
-    "target_lang_words": ",1366947,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553200,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "4",
-        "word_num": 28,
-        "word": "Ἀρνίῳ",
-        "occurrence": 2,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,DNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίῳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366947,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "4",
-        "word_num": 39,
-        "word": "Lamb",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίῳ = Lamb",
-    "frequency": 0.13333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567936",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "10",
-    "alignment_num": "30",
-    "orig_lang_words": ",1553356,",
-    "target_lang_words": ",1367123,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553356,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "10",
-        "word_num": 31,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367123,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "10",
-        "word_num": 40,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568246",
-    "book_id": "rev",
-    "chapter": "15",
-    "verse": "3",
-    "alignment_num": "11",
-    "orig_lang_words": ",1553699,",
-    "target_lang_words": ",1367539,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553699,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "3",
-        "word_num": 13,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367539,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "3",
-        "word_num": 16,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569124",
-    "book_id": "rev",
-    "chapter": "17",
-    "verse": "14",
-    "alignment_num": "4",
-    "orig_lang_words": ",1554637,",
-    "target_lang_words": ",1368702,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554637,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 3,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1368702,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 6,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569127",
-    "book_id": "rev",
-    "chapter": "17",
-    "verse": "14",
-    "alignment_num": "7",
-    "orig_lang_words": ",1554641,",
-    "target_lang_words": ",1368705,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554641,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 7,
-        "word": "Ἀρνίον",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,NNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1368705,
-        "book_id": "rev",
-        "chapter": "17",
-        "verse": "14",
-        "word_num": 9,
-        "word": "Lamb",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίον = Lamb",
-    "frequency": 0.23333333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569892",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "7",
-    "alignment_num": "12",
-    "orig_lang_words": ",1555527,",
-    "target_lang_words": ",1369741,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555527,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "7",
-        "word_num": 13,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369741,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "7",
-        "word_num": 16,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569926",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "9",
-    "alignment_num": "12",
-    "orig_lang_words": ",1555562,",
-    "target_lang_words": ",1369793,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555562,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "9",
-        "word_num": 12,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369793,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "9",
-        "word_num": 20,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "570797",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "9",
-    "alignment_num": "29",
-    "orig_lang_words": ",1556536,",
-    "target_lang_words": ",1370967,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556536,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "9",
-        "word_num": 32,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1370967,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "9",
-        "word_num": 42,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "570895",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "14",
-    "alignment_num": "16",
-    "orig_lang_words": ",1556637,",
-    "target_lang_words": ",1371095,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556637,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "14",
-        "word_num": 17,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371095,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "14",
-        "word_num": 21,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571048",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "22",
-    "alignment_num": "13",
-    "orig_lang_words": ",1556812,",
-    "target_lang_words": ",1371297,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556812,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "22",
-        "word_num": 18,
-        "word": "Ἀρνίον",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,NNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371297,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "22",
-        "word_num": 15,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίον = Lamb",
-    "frequency": 0.23333333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571075",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "23",
-    "alignment_num": "23",
-    "orig_lang_words": ",1556839,",
-    "target_lang_words": ",1371331,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556839,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "23",
-        "word_num": 26,
-        "word": "Ἀρνίον",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,NNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371331,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "23",
-        "word_num": 30,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίον = Lamb",
-    "frequency": 0.23333333333333334,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571134",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "27",
-    "alignment_num": "20",
-    "orig_lang_words": ",1556907,",
-    "target_lang_words": ",1371414,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556907,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "27",
-        "word_num": 24,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371414,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "27",
-        "word_num": 31,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571151",
-    "book_id": "rev",
-    "chapter": "22",
-    "verse": "1",
-    "alignment_num": "16",
-    "orig_lang_words": ",1556925,",
-    "target_lang_words": ",1371441,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556925,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "1",
-        "word_num": 17,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371441,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "1",
-        "word_num": 26,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571190",
-    "book_id": "rev",
-    "chapter": "22",
-    "verse": "3",
-    "alignment_num": "12",
-    "orig_lang_words": ",1556971,",
-    "target_lang_words": ",1371499,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556971,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "3",
-        "word_num": 13,
-        "word": "Ἀρνίου",
-        "occurrence": 1,
-        "strong": "G07210",
-        "lemma": "ἀρνίον",
-        "morph": "Gr,N,,,,,GNSD"
-      }
-    ],
-    "origWordsTxt": "Ἀρνίου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371499,
-        "book_id": "rev",
-        "chapter": "22",
-        "verse": "3",
-        "word_num": 15,
-        "word": "Lamb",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Lamb",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Ἀρνίου = Lamb",
-    "frequency": 0.5,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

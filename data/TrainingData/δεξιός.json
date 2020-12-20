@@ -48,7 +48,8 @@
     "targetWordsTxt": "right hand",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεξιῶν = right hand",
-    "frequency": 0.1951219512195122,
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,8 @@
     "targetWordsTxt": "right hand",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεξιῶν = right hand",
-    "frequency": 0.1951219512195122,
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,7 +156,8 @@
     "targetWordsTxt": "right hand",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεξιῶν = right hand",
-    "frequency": 0.1951219512195122,
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -216,7 +219,8 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιῶν = the right hand",
-    "frequency": 0.0975609756097561,
+    "frequency": 0.26666666666666666,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -260,60 +264,8 @@
     "targetWordsTxt": "right",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεξιῶν = right",
-    "frequency": 0.024390243902439025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "468355",
-    "book_id": "mrk",
-    "chapter": "16",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1448845,",
-    "target_lang_words": ",1226315,1226316,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1448845,
-        "book_id": "mrk",
-        "chapter": "16",
-        "verse": "5",
-        "word_num": 10,
-        "word": "δεξιοῖς",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,NS,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "δεξιοῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1226315,
-        "book_id": "mrk",
-        "chapter": "16",
-        "verse": "5",
-        "word_num": 19,
-        "word": "right",
-        "occurrence": 1
-      },
-      {
-        "id": 1226316,
-        "book_id": "mrk",
-        "chapter": "16",
-        "verse": "5",
-        "word_num": 20,
-        "word": "side",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right side",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δεξιοῖς = right side",
-    "frequency": 0.024390243902439025,
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -375,63 +327,8 @@
     "targetWordsTxt": "the right side",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιῶν = the right side",
-    "frequency": 0.024390243902439025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "472558",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "6",
-    "alignment_num": "18",
-    "orig_lang_words": ",1453333,1453334,",
-    "target_lang_words": ",1232258,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1453333,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "6",
-        "word_num": 20,
-        "word": "ἡ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1453334,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "6",
-        "word_num": 21,
-        "word": "δεξιὰ",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,AR,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ δεξιὰ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1232258,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "6",
-        "word_num": 22,
-        "word": "right",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ δεξιὰ = right",
-    "frequency": 0.024390243902439025,
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -484,63 +381,8 @@
     "targetWordsTxt": "right hand",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεξιῶν = right hand",
-    "frequency": 0.1951219512195122,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485576",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "50",
-    "alignment_num": "14",
-    "orig_lang_words": ",1466542,1466543,",
-    "target_lang_words": ",1250138,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1466542,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "50",
-        "word_num": 15,
-        "word": "τὸ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1466543,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "50",
-        "word_num": 16,
-        "word": "δεξιόν",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,AR,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ δεξιόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1250138,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "50",
-        "word_num": 17,
-        "word": "right",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ δεξιόν = right",
-    "frequency": 0.04878048780487805,
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -602,7 +444,8 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιῶν = the right hand",
-    "frequency": 0.0975609756097561,
+    "frequency": 0.26666666666666666,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -655,107 +498,8 @@
     "targetWordsTxt": "his right",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεξιῶν = his right",
-    "frequency": 0.024390243902439025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499522",
-    "book_id": "jhn",
-    "chapter": "18",
-    "verse": "10",
-    "alignment_num": "16",
-    "orig_lang_words": ",1481555,1481556,",
-    "target_lang_words": ",1269085,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1481555,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 18,
-        "word": "τὸ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1481556,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 19,
-        "word": "δεξιόν",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,AR,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ δεξιόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1269085,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 21,
-        "word": "right",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ δεξιόν = right",
-    "frequency": 0.04878048780487805,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501533",
-    "book_id": "jhn",
-    "chapter": "21",
-    "verse": "6",
-    "alignment_num": "9",
-    "orig_lang_words": ",1483715,",
-    "target_lang_words": ",1271818,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1483715,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "6",
-        "word_num": 7,
-        "word": "δεξιὰ",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,AA,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "δεξιὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1271818,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "6",
-        "word_num": 10,
-        "word": "right",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δεξιὰ = right",
-    "frequency": 0.024390243902439025,
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -808,51 +552,8 @@
     "targetWordsTxt": "right hand",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεξιῶν = right hand",
-    "frequency": 0.1951219512195122,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502967",
-    "book_id": "act",
-    "chapter": "2",
-    "verse": "33",
-    "alignment_num": "2",
-    "orig_lang_words": ",1485225,",
-    "target_lang_words": ",1273781,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485225,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "33",
-        "word_num": 1,
-        "word": "δεξιᾷ",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,NS,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "δεξιᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1273781,
-        "book_id": "act",
-        "chapter": "2",
-        "verse": "33",
-        "word_num": 4,
-        "word": "to",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δεξιᾷ = to",
-    "frequency": 0.024390243902439025,
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -905,104 +606,8 @@
     "targetWordsTxt": "right hand",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεξιῶν = right hand",
-    "frequency": 0.1951219512195122,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "503338",
-    "book_id": "act",
-    "chapter": "3",
-    "verse": "7",
-    "alignment_num": "4",
-    "orig_lang_words": ",1485605,",
-    "target_lang_words": ",1274245,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1485605,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 4,
-        "word": "δεξιᾶς",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,AA,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "δεξιᾶς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1274245,
-        "book_id": "act",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 4,
-        "word": "right",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δεξιᾶς = right",
-    "frequency": 0.024390243902439025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504920",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "31",
-    "alignment_num": "5",
-    "orig_lang_words": ",1487240,",
-    "target_lang_words": ",1276338,1276339,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487240,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 8,
-        "word": "δεξιᾷ",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,NS,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "δεξιᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1276338,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 5,
-        "word": "right",
-        "occurrence": 1
-      },
-      {
-        "id": 1276339,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "31",
-        "word_num": 6,
-        "word": "hand",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right hand",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δεξιᾷ = right hand",
-    "frequency": 0.04878048780487805,
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1064,7 +669,8 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιῶν = the right hand",
-    "frequency": 0.0975609756097561,
+    "frequency": 0.26666666666666666,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1126,7 +732,485 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιῶν = the right hand",
-    "frequency": 0.0975609756097561,
+    "frequency": 0.26666666666666666,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534799",
+    "book_id": "2co",
+    "chapter": "6",
+    "verse": "7",
+    "alignment_num": "11",
+    "orig_lang_words": ",1518391,",
+    "target_lang_words": ",1319107,1319108,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518391,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "7",
+        "word_num": 12,
+        "word": "δεξιῶν",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,NS,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "δεξιῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1319107,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "7",
+        "word_num": 17,
+        "word": "right",
+        "occurrence": 1
+      },
+      {
+        "id": 1319108,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "7",
+        "word_num": 18,
+        "word": "hand",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right hand",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δεξιῶν = right hand",
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551181",
+    "book_id": "heb",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "10",
+    "orig_lang_words": ",1535247,",
+    "target_lang_words": ",1342594,1342595,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535247,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 9,
+        "word": "δεξιῶν",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,NS,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "δεξιῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1342594,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 15,
+        "word": "right",
+        "occurrence": 1
+      },
+      {
+        "id": 1342595,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 16,
+        "word": "hand",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right hand",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δεξιῶν = right hand",
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "468355",
+    "book_id": "mrk",
+    "chapter": "16",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1448845,",
+    "target_lang_words": ",1226315,1226316,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1448845,
+        "book_id": "mrk",
+        "chapter": "16",
+        "verse": "5",
+        "word_num": 10,
+        "word": "δεξιοῖς",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,NS,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "δεξιοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1226315,
+        "book_id": "mrk",
+        "chapter": "16",
+        "verse": "5",
+        "word_num": 19,
+        "word": "right",
+        "occurrence": 1
+      },
+      {
+        "id": 1226316,
+        "book_id": "mrk",
+        "chapter": "16",
+        "verse": "5",
+        "word_num": 20,
+        "word": "side",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right side",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δεξιοῖς = right side",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "472558",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "6",
+    "alignment_num": "18",
+    "orig_lang_words": ",1453333,1453334,",
+    "target_lang_words": ",1232258,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1453333,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 20,
+        "word": "ἡ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1453334,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 21,
+        "word": "δεξιὰ",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,AR,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ δεξιὰ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1232258,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 22,
+        "word": "right",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ δεξιὰ = right",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501533",
+    "book_id": "jhn",
+    "chapter": "21",
+    "verse": "6",
+    "alignment_num": "9",
+    "orig_lang_words": ",1483715,",
+    "target_lang_words": ",1271818,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1483715,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "6",
+        "word_num": 7,
+        "word": "δεξιὰ",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,AA,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "δεξιὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1271818,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "6",
+        "word_num": 10,
+        "word": "right",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεξιὰ = right",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485576",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "50",
+    "alignment_num": "14",
+    "orig_lang_words": ",1466542,1466543,",
+    "target_lang_words": ",1250138,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1466542,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "50",
+        "word_num": 15,
+        "word": "τὸ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1466543,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "50",
+        "word_num": 16,
+        "word": "δεξιόν",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,AR,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ δεξιόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1250138,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "50",
+        "word_num": 17,
+        "word": "right",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ δεξιόν = right",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499522",
+    "book_id": "jhn",
+    "chapter": "18",
+    "verse": "10",
+    "alignment_num": "16",
+    "orig_lang_words": ",1481555,1481556,",
+    "target_lang_words": ",1269085,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1481555,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 18,
+        "word": "τὸ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1481556,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 19,
+        "word": "δεξιόν",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,AR,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ δεξιόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1269085,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 21,
+        "word": "right",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ δεξιόν = right",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502967",
+    "book_id": "act",
+    "chapter": "2",
+    "verse": "33",
+    "alignment_num": "2",
+    "orig_lang_words": ",1485225,",
+    "target_lang_words": ",1273781,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1485225,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "33",
+        "word_num": 1,
+        "word": "δεξιᾷ",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,NS,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "δεξιᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1273781,
+        "book_id": "act",
+        "chapter": "2",
+        "verse": "33",
+        "word_num": 4,
+        "word": "to",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεξιᾷ = to",
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504920",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "31",
+    "alignment_num": "5",
+    "orig_lang_words": ",1487240,",
+    "target_lang_words": ",1276338,1276339,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487240,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 8,
+        "word": "δεξιᾷ",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,NS,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "δεξιᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1276338,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 5,
+        "word": "right",
+        "occurrence": 1
+      },
+      {
+        "id": 1276339,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "31",
+        "word_num": 6,
+        "word": "hand",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right hand",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δεξιᾷ = right hand",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1188,122 +1272,8 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιᾷ = the right hand",
-    "frequency": 0.17073170731707318,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534799",
-    "book_id": "2co",
-    "chapter": "6",
-    "verse": "7",
-    "alignment_num": "11",
-    "orig_lang_words": ",1518391,",
-    "target_lang_words": ",1319107,1319108,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518391,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "7",
-        "word_num": 12,
-        "word": "δεξιῶν",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "δεξιῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1319107,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "7",
-        "word_num": 17,
-        "word": "right",
-        "occurrence": 1
-      },
-      {
-        "id": 1319108,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "7",
-        "word_num": 18,
-        "word": "hand",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right hand",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δεξιῶν = right hand",
-    "frequency": 0.1951219512195122,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537875",
-    "book_id": "gal",
-    "chapter": "2",
-    "verse": "9",
-    "alignment_num": "14",
-    "orig_lang_words": ",1521551,",
-    "target_lang_words": ",1323681,1323682,1323683,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1521551,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 16,
-        "word": "δεξιὰς",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,NS,,,,AFP,"
-      }
-    ],
-    "origWordsTxt": "δεξιὰς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1323681,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 21,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1323682,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 22,
-        "word": "right",
-        "occurrence": 1
-      },
-      {
-        "id": 1323683,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 23,
-        "word": "hand",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the right hand",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δεξιὰς = the right hand",
-    "frequency": 0.024390243902439025,
+    "frequency": 0.5833333333333334,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1356,7 +1326,8 @@
     "targetWordsTxt": "right hand",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεξιᾷ = right hand",
-    "frequency": 0.04878048780487805,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1418,7 +1389,8 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιᾷ = the right hand",
-    "frequency": 0.17073170731707318,
+    "frequency": 0.5833333333333334,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1480,60 +1452,8 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιᾷ = the right hand",
-    "frequency": 0.17073170731707318,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551181",
-    "book_id": "heb",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "10",
-    "orig_lang_words": ",1535247,",
-    "target_lang_words": ",1342594,1342595,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535247,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 9,
-        "word": "δεξιῶν",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "δεξιῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1342594,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 15,
-        "word": "right",
-        "occurrence": 1
-      },
-      {
-        "id": 1342595,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 16,
-        "word": "hand",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right hand",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δεξιῶν = right hand",
-    "frequency": 0.1951219512195122,
+    "frequency": 0.5833333333333334,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1595,7 +1515,8 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιᾷ = the right hand",
-    "frequency": 0.17073170731707318,
+    "frequency": 0.5833333333333334,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1657,7 +1578,8 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιᾷ = the right hand",
-    "frequency": 0.17073170731707318,
+    "frequency": 0.5833333333333334,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1719,7 +1641,8 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιᾷ = the right hand",
-    "frequency": 0.17073170731707318,
+    "frequency": 0.5833333333333334,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1781,7 +1704,8 @@
     "targetWordsTxt": "the right hand",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεξιᾷ = the right hand",
-    "frequency": 0.17073170731707318,
+    "frequency": 0.5833333333333334,
+    "matchCount": 7,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1837,137 +1761,8 @@
     "targetWordsTxt": "right",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῇ δεξιᾷ = right",
-    "frequency": 0.024390243902439025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563058",
-    "book_id": "rev",
-    "chapter": "1",
-    "verse": "17",
-    "alignment_num": "11",
-    "orig_lang_words": ",1547917,1547918,",
-    "target_lang_words": ",1360405,1360406,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1547917,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "17",
-        "word_num": 13,
-        "word": "τὴν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFS,"
-      },
-      {
-        "id": 1547918,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "17",
-        "word_num": 14,
-        "word": "δεξιὰν",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,NS,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "τὴν δεξιὰν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1360405,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "17",
-        "word_num": 16,
-        "word": "right",
-        "occurrence": 1
-      },
-      {
-        "id": 1360406,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "17",
-        "word_num": 17,
-        "word": "hand",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right hand",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τὴν δεξιὰν = right hand",
-    "frequency": 0.024390243902439025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563109",
-    "book_id": "rev",
-    "chapter": "1",
-    "verse": "20",
-    "alignment_num": "9",
-    "orig_lang_words": ",1547977,1547978,",
-    "target_lang_words": ",1360478,1360479,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1547977,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 8,
-        "word": "τῆς",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,GFS,"
-      },
-      {
-        "id": 1547978,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 9,
-        "word": "δεξιᾶς",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,NS,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "τῆς δεξιᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1360478,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 14,
-        "word": "right",
-        "occurrence": 1
-      },
-      {
-        "id": 1360479,
-        "book_id": "rev",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 15,
-        "word": "hand",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right hand",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τῆς δεξιᾶς = right hand",
-    "frequency": 0.024390243902439025,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2032,60 +1827,119 @@
     "targetWordsTxt": "right hand",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῇ δεξιᾷ = right hand",
-    "frequency": 0.024390243902439025,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "564407",
-    "book_id": "rev",
-    "chapter": "5",
-    "verse": "1",
+    "id": "503338",
+    "book_id": "act",
+    "chapter": "3",
+    "verse": "7",
     "alignment_num": "4",
-    "orig_lang_words": ",1549445,",
-    "target_lang_words": ",1362345,1362346,",
+    "orig_lang_words": ",1485605,",
+    "target_lang_words": ",1274245,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1549445,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "1",
+        "id": 1485605,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "7",
         "word_num": 4,
-        "word": "δεξιὰν",
+        "word": "δεξιᾶς",
         "occurrence": 1,
         "strong": "G11880",
         "lemma": "δεξιός",
-        "morph": "Gr,NS,,,,AFS,"
+        "morph": "Gr,AA,,,,GFS,"
       }
     ],
-    "origWordsTxt": "δεξιὰν",
+    "origWordsTxt": "δεξιᾶς",
     "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1274245,
+        "book_id": "act",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 4,
+        "word": "right",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δεξιᾶς = right",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563109",
+    "book_id": "rev",
+    "chapter": "1",
+    "verse": "20",
+    "alignment_num": "9",
+    "orig_lang_words": ",1547977,1547978,",
+    "target_lang_words": ",1360478,1360479,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1547977,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 8,
+        "word": "τῆς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,GFS,"
+      },
+      {
+        "id": 1547978,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 9,
+        "word": "δεξιᾶς",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,NS,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "τῆς δεξιᾶς",
+    "alignmentOrigWords": 2,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1362345,
+        "id": 1360478,
         "book_id": "rev",
-        "chapter": "5",
-        "verse": "1",
-        "word_num": 5,
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 14,
         "word": "right",
         "occurrence": 1
       },
       {
-        "id": 1362346,
+        "id": 1360479,
         "book_id": "rev",
-        "chapter": "5",
-        "verse": "1",
-        "word_num": 6,
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 15,
         "word": "hand",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "right hand",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "δεξιὰν = right hand",
-    "frequency": 0.024390243902439025,
+    "alignmentTxt": "τῆς δεξιᾶς = right hand",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2138,119 +1992,8 @@
     "targetWordsTxt": "right hand",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δεξιᾶς = right hand",
-    "frequency": 0.024390243902439025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566231",
-    "book_id": "rev",
-    "chapter": "10",
-    "verse": "2",
-    "alignment_num": "8",
-    "orig_lang_words": ",1551455,1551456,",
-    "target_lang_words": ",1364842,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1551455,
-        "book_id": "rev",
-        "chapter": "10",
-        "verse": "2",
-        "word_num": 13,
-        "word": "τὸν",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AMS,"
-      },
-      {
-        "id": 1551456,
-        "book_id": "rev",
-        "chapter": "10",
-        "verse": "2",
-        "word_num": 14,
-        "word": "δεξιὸν",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,AR,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "τὸν δεξιὸν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1364842,
-        "book_id": "rev",
-        "chapter": "10",
-        "verse": "2",
-        "word_num": 14,
-        "word": "right",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸν δεξιὸν = right",
-    "frequency": 0.024390243902439025,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566299",
-    "book_id": "rev",
-    "chapter": "10",
-    "verse": "5",
-    "alignment_num": "15",
-    "orig_lang_words": ",1551525,1551526,",
-    "target_lang_words": ",1364924,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1551525,
-        "book_id": "rev",
-        "chapter": "10",
-        "verse": "5",
-        "word_num": 17,
-        "word": "τὴν",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFS,"
-      },
-      {
-        "id": 1551526,
-        "book_id": "rev",
-        "chapter": "10",
-        "verse": "5",
-        "word_num": 18,
-        "word": "δεξιὰν",
-        "occurrence": 1,
-        "strong": "G11880",
-        "lemma": "δεξιός",
-        "morph": "Gr,AR,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "τὴν δεξιὰν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1364924,
-        "book_id": "rev",
-        "chapter": "10",
-        "verse": "5",
-        "word_num": 16,
-        "word": "right",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "right",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὴν δεξιὰν = right",
-    "frequency": 0.024390243902439025,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2306,7 +2049,305 @@
     "targetWordsTxt": "right",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς δεξιᾶς = right",
-    "frequency": 0.024390243902439025,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537875",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "14",
+    "orig_lang_words": ",1521551,",
+    "target_lang_words": ",1323681,1323682,1323683,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521551,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 16,
+        "word": "δεξιὰς",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,NS,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "δεξιὰς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1323681,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 21,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1323682,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 22,
+        "word": "right",
+        "occurrence": 1
+      },
+      {
+        "id": 1323683,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 23,
+        "word": "hand",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the right hand",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δεξιὰς = the right hand",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563058",
+    "book_id": "rev",
+    "chapter": "1",
+    "verse": "17",
+    "alignment_num": "11",
+    "orig_lang_words": ",1547917,1547918,",
+    "target_lang_words": ",1360405,1360406,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1547917,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 13,
+        "word": "τὴν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFS,"
+      },
+      {
+        "id": 1547918,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 14,
+        "word": "δεξιὰν",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,NS,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τὴν δεξιὰν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1360405,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 16,
+        "word": "right",
+        "occurrence": 1
+      },
+      {
+        "id": 1360406,
+        "book_id": "rev",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 17,
+        "word": "hand",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right hand",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τὴν δεξιὰν = right hand",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564407",
+    "book_id": "rev",
+    "chapter": "5",
+    "verse": "1",
+    "alignment_num": "4",
+    "orig_lang_words": ",1549445,",
+    "target_lang_words": ",1362345,1362346,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549445,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 4,
+        "word": "δεξιὰν",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,NS,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "δεξιὰν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1362345,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 5,
+        "word": "right",
+        "occurrence": 1
+      },
+      {
+        "id": 1362346,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "1",
+        "word_num": 6,
+        "word": "hand",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right hand",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δεξιὰν = right hand",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566299",
+    "book_id": "rev",
+    "chapter": "10",
+    "verse": "5",
+    "alignment_num": "15",
+    "orig_lang_words": ",1551525,1551526,",
+    "target_lang_words": ",1364924,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1551525,
+        "book_id": "rev",
+        "chapter": "10",
+        "verse": "5",
+        "word_num": 17,
+        "word": "τὴν",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFS,"
+      },
+      {
+        "id": 1551526,
+        "book_id": "rev",
+        "chapter": "10",
+        "verse": "5",
+        "word_num": 18,
+        "word": "δεξιὰν",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,AR,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τὴν δεξιὰν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1364924,
+        "book_id": "rev",
+        "chapter": "10",
+        "verse": "5",
+        "word_num": 16,
+        "word": "right",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὴν δεξιὰν = right",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566231",
+    "book_id": "rev",
+    "chapter": "10",
+    "verse": "2",
+    "alignment_num": "8",
+    "orig_lang_words": ",1551455,1551456,",
+    "target_lang_words": ",1364842,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1551455,
+        "book_id": "rev",
+        "chapter": "10",
+        "verse": "2",
+        "word_num": 13,
+        "word": "τὸν",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMS,"
+      },
+      {
+        "id": 1551456,
+        "book_id": "rev",
+        "chapter": "10",
+        "verse": "2",
+        "word_num": 14,
+        "word": "δεξιὸν",
+        "occurrence": 1,
+        "strong": "G11880",
+        "lemma": "δεξιός",
+        "morph": "Gr,AR,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "τὸν δεξιὸν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1364842,
+        "book_id": "rev",
+        "chapter": "10",
+        "verse": "2",
+        "word_num": 14,
+        "word": "right",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "right",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸν δεξιὸν = right",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

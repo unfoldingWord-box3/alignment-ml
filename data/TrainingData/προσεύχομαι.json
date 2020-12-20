@@ -48,7 +48,224 @@
     "targetWordsTxt": "he prayed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσηύχετο = he prayed",
-    "frequency": 0.013888888888888888,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "467090",
+    "book_id": "mrk",
+    "chapter": "14",
+    "verse": "35",
+    "alignment_num": "9",
+    "orig_lang_words": ",1447488,",
+    "target_lang_words": ",1224466,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1447488,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "35",
+        "word_num": 8,
+        "word": "προσηύχετο",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IIM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσηύχετο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1224466,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "35",
+        "word_num": 11,
+        "word": "prayed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "prayed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσηύχετο = prayed",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482315",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "11",
+    "alignment_num": "3",
+    "orig_lang_words": ",1463248,",
+    "target_lang_words": ",1245576,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463248,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "11",
+        "word_num": 6,
+        "word": "προσηύχετο",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IIM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσηύχετο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1245576,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "11",
+        "word_num": 3,
+        "word": "praying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "praying",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσηύχετο = praying",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485444",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "41",
+    "alignment_num": "12",
+    "orig_lang_words": ",1466410,",
+    "target_lang_words": ",1249958,1249959,1249960,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1466410,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "41",
+        "word_num": 12,
+        "word": "προσηύχετο",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IIM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσηύχετο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1249958,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "41",
+        "word_num": 16,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 1249959,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "41",
+        "word_num": 17,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1249960,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "41",
+        "word_num": 18,
+        "word": "praying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he was praying",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "προσηύχετο = he was praying",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485473",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "44",
+    "alignment_num": "4",
+    "orig_lang_words": ",1466443,",
+    "target_lang_words": ",1249994,1249995,1249996,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1466443,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "44",
+        "word_num": 5,
+        "word": "προσηύχετο",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IIM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσηύχετο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1249994,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "44",
+        "word_num": 4,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1249995,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "44",
+        "word_num": 5,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1249996,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "44",
+        "word_num": 6,
+        "word": "praying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he was praying",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "προσηύχετο = he was praying",
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +318,224 @@
     "targetWordsTxt": "to pray",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσεύξασθαι = to pray",
-    "frequency": 0.06944444444444445,
+    "frequency": 1.0,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "472661",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "12",
+    "alignment_num": "10",
+    "orig_lang_words": ",1453439,",
+    "target_lang_words": ",1232404,1232405,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1453439,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 11,
+        "word": "προσεύξασθαι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,NAM,,,,,"
+      }
+    ],
+    "origWordsTxt": "προσεύξασθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1232404,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 13,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1232405,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 14,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύξασθαι = to pray",
+    "frequency": 1.0,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "475846",
+    "book_id": "luk",
+    "chapter": "9",
+    "verse": "28",
+    "alignment_num": "12",
+    "orig_lang_words": ",1456645,",
+    "target_lang_words": ",1236743,1236744,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1456645,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "28",
+        "word_num": 19,
+        "word": "προσεύξασθαι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,NAM,,,,,"
+      }
+    ],
+    "origWordsTxt": "προσεύξασθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1236743,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "28",
+        "word_num": 16,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1236744,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "28",
+        "word_num": 17,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύξασθαι = to pray",
+    "frequency": 1.0,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482304",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "10",
+    "alignment_num": "6",
+    "orig_lang_words": ",1463234,",
+    "target_lang_words": ",1245561,1245562,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463234,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 6,
+        "word": "προσεύξασθαι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,NAM,,,,,"
+      }
+    ],
+    "origWordsTxt": "προσεύξασθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1245561,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 7,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1245562,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 8,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύξασθαι = to pray",
+    "frequency": 1.0,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508103",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "9",
+    "alignment_num": "20",
+    "orig_lang_words": ",1490500,",
+    "target_lang_words": ",1280609,1280610,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490500,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "9",
+        "word_num": 14,
+        "word": "προσεύξασθαι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,NAM,,,,,"
+      }
+    ],
+    "origWordsTxt": "προσεύξασθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1280609,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "9",
+        "word_num": 27,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1280610,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "9",
+        "word_num": 28,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύξασθαι = to pray",
+    "frequency": 1.0,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,113 +588,8 @@
     "targetWordsTxt": "you pray",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσεύχεσθε = you pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "465115",
-    "book_id": "mrk",
-    "chapter": "11",
-    "verse": "25",
-    "alignment_num": "2",
-    "orig_lang_words": ",1445337,",
-    "target_lang_words": ",1221651,1221652,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1445337,
-        "book_id": "mrk",
-        "chapter": "11",
-        "verse": "25",
-        "word_num": 3,
-        "word": "προσευχόμενοι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1221651,
-        "book_id": "mrk",
-        "chapter": "11",
-        "verse": "25",
-        "word_num": 3,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1221652,
-        "book_id": "mrk",
-        "chapter": "11",
-        "verse": "25",
-        "word_num": 4,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσευχόμενοι = and pray",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "465914",
-    "book_id": "mrk",
-    "chapter": "12",
-    "verse": "40",
-    "alignment_num": "5",
-    "orig_lang_words": ",1446217,",
-    "target_lang_words": ",1222760,1222761,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1446217,
-        "book_id": "mrk",
-        "chapter": "12",
-        "verse": "40",
-        "word_num": 9,
-        "word": "προσευχόμενοι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1222760,
-        "book_id": "mrk",
-        "chapter": "12",
-        "verse": "40",
-        "word_num": 5,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1222761,
-        "book_id": "mrk",
-        "chapter": "12",
-        "verse": "40",
-        "word_num": 6,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσευχόμενοι = they pray",
-    "frequency": 0.013888888888888888,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -316,7 +645,8 @@
     "targetWordsTxt": "Pray",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσεύχεσθε δὲ = Pray",
-    "frequency": 0.013888888888888888,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -360,7 +690,890 @@
     "targetWordsTxt": "pray",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσεύχεσθε = pray",
-    "frequency": 0.06944444444444445,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "467139",
+    "book_id": "mrk",
+    "chapter": "14",
+    "verse": "38",
+    "alignment_num": "2",
+    "orig_lang_words": ",1447539,",
+    "target_lang_words": ",1224530,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1447539,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "38",
+        "word_num": 2,
+        "word": "προσεύχεσθε",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,MPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1224530,
+        "book_id": "mrk",
+        "chapter": "14",
+        "verse": "38",
+        "word_num": 3,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "pray",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεύχεσθε = pray",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "472924",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "28",
+    "alignment_num": "4",
+    "orig_lang_words": ",1453711,",
+    "target_lang_words": ",1232747,1232748,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1453711,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "28",
+        "word_num": 4,
+        "word": "προσεύχεσθε",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,MPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1232747,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "28",
+        "word_num": 5,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1232748,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "28",
+        "word_num": 6,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύχεσθε = and pray",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485426",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "40",
+    "alignment_num": "7",
+    "orig_lang_words": ",1466393,",
+    "target_lang_words": ",1249934,1249935,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1466393,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "40",
+        "word_num": 7,
+        "word": "προσεύχεσθε",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,MPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1249934,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "40",
+        "word_num": 11,
+        "word": "Pray",
+        "occurrence": 1
+      },
+      {
+        "id": 1249935,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "40",
+        "word_num": 12,
+        "word": "that",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Pray that",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύχεσθε = Pray that",
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485508",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "46",
+    "alignment_num": "6",
+    "orig_lang_words": ",1466477,",
+    "target_lang_words": ",1250041,1250042,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1466477,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "46",
+        "word_num": 6,
+        "word": "προσεύχεσθε",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,MPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1250041,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "46",
+        "word_num": 10,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1250042,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "46",
+        "word_num": 11,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύχεσθε = and pray",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546259",
+    "book_id": "1th",
+    "chapter": "5",
+    "verse": "17",
+    "alignment_num": "0",
+    "orig_lang_words": ",1530273,",
+    "target_lang_words": ",1335611,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530273,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 1,
+        "word": "προσεύχεσθε",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,MPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1335611,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 0,
+        "word": "Pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Pray",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεύχεσθε = Pray",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546324",
+    "book_id": "1th",
+    "chapter": "5",
+    "verse": "25",
+    "alignment_num": "1",
+    "orig_lang_words": ",1530341,",
+    "target_lang_words": ",1335698,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530341,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "25",
+        "word_num": 1,
+        "word": "προσεύχεσθε",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,MPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1335698,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "25",
+        "word_num": 1,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "pray",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεύχεσθε = pray",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546877",
+    "book_id": "2th",
+    "chapter": "3",
+    "verse": "1",
+    "alignment_num": "2",
+    "orig_lang_words": ",1530920,",
+    "target_lang_words": ",1336473,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530920,
+        "book_id": "2th",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 2,
+        "word": "προσεύχεσθε",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,MPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336473,
+        "book_id": "2th",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 2,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "pray",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεύχεσθε = pray",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555581",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "18",
+    "alignment_num": "0",
+    "orig_lang_words": ",1539835,",
+    "target_lang_words": ",1349277,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539835,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 0,
+        "word": "προσεύχεσθε",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,MPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349277,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 0,
+        "word": "Pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Pray",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεύχεσθε = Pray",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557246",
+    "book_id": "jas",
+    "chapter": "5",
+    "verse": "16",
+    "alignment_num": "6",
+    "orig_lang_words": ",1541621,",
+    "target_lang_words": ",1351700,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541621,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 6,
+        "word": "προσεύχεσθε",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,MPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1351700,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "16",
+        "word_num": 8,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "pray",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεύχεσθε = pray",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "465115",
+    "book_id": "mrk",
+    "chapter": "11",
+    "verse": "25",
+    "alignment_num": "2",
+    "orig_lang_words": ",1445337,",
+    "target_lang_words": ",1221651,1221652,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1445337,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "25",
+        "word_num": 3,
+        "word": "προσευχόμενοι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1221651,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "25",
+        "word_num": 3,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1221652,
+        "book_id": "mrk",
+        "chapter": "11",
+        "verse": "25",
+        "word_num": 4,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσευχόμενοι = and pray",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "465914",
+    "book_id": "mrk",
+    "chapter": "12",
+    "verse": "40",
+    "alignment_num": "5",
+    "orig_lang_words": ",1446217,",
+    "target_lang_words": ",1222760,1222761,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1446217,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "40",
+        "word_num": 9,
+        "word": "προσευχόμενοι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1222760,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "40",
+        "word_num": 5,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1222761,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "40",
+        "word_num": 6,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσευχόμενοι = they pray",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "509537",
+    "book_id": "act",
+    "chapter": "12",
+    "verse": "12",
+    "alignment_num": "18",
+    "orig_lang_words": ",1491984,",
+    "target_lang_words": ",1282546,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491984,
+        "book_id": "act",
+        "chapter": "12",
+        "verse": "12",
+        "word_num": 19,
+        "word": "προσευχόμενοι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1282546,
+        "book_id": "act",
+        "chapter": "12",
+        "verse": "12",
+        "word_num": 25,
+        "word": "praying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "praying",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσευχόμενοι = praying",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512250",
+    "book_id": "act",
+    "chapter": "16",
+    "verse": "25",
+    "alignment_num": "5",
+    "orig_lang_words": ",1494773,",
+    "target_lang_words": ",1286252,1286253,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494773,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 7,
+        "word": "προσευχόμενοι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1286252,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 5,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 1286253,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 6,
+        "word": "praying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "were praying",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσευχόμενοι = were praying",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541821",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "18",
+    "alignment_num": "5",
+    "orig_lang_words": ",1525566,",
+    "target_lang_words": ",1329192,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525566,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 5,
+        "word": "προσευχόμενοι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329192,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "18",
+        "word_num": 5,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "pray",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσευχόμενοι = pray",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543539",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "3",
+    "alignment_num": "8",
+    "orig_lang_words": ",1527354,",
+    "target_lang_words": ",1331739,1331740,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527354,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 12,
+        "word": "προσευχόμενοι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1331739,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 12,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1331740,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "3",
+        "word_num": 13,
+        "word": "we",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and we",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσευχόμενοι = and we",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543638",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "9",
+    "orig_lang_words": ",1527456,",
+    "target_lang_words": ",1331889,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527456,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 12,
+        "word": "προσευχόμενοι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1331889,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 14,
+        "word": "praying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "praying",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσευχόμενοι = praying",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544713",
+    "book_id": "col",
+    "chapter": "4",
+    "verse": "3",
+    "alignment_num": "0",
+    "orig_lang_words": ",1528630,",
+    "target_lang_words": ",1333468,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528630,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 0,
+        "word": "προσευχόμενοι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333468,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "3",
+        "word_num": 0,
+        "word": "Pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Pray",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσευχόμενοι = Pray",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562641",
+    "book_id": "jud",
+    "chapter": "1",
+    "verse": "20",
+    "alignment_num": "10",
+    "orig_lang_words": ",1547452,",
+    "target_lang_words": ",1359820,1359821,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547452,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 12,
+        "word": "προσευχόμενοι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1359820,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 11,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1359821,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 12,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσευχόμενοι = and pray",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -413,95 +1626,8 @@
     "targetWordsTxt": "I pray",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσεύξωμαι = I pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "467090",
-    "book_id": "mrk",
-    "chapter": "14",
-    "verse": "35",
-    "alignment_num": "9",
-    "orig_lang_words": ",1447488,",
-    "target_lang_words": ",1224466,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1447488,
-        "book_id": "mrk",
-        "chapter": "14",
-        "verse": "35",
-        "word_num": 8,
-        "word": "προσηύχετο",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IIM3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσηύχετο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1224466,
-        "book_id": "mrk",
-        "chapter": "14",
-        "verse": "35",
-        "word_num": 11,
-        "word": "prayed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prayed",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσηύχετο = prayed",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "467139",
-    "book_id": "mrk",
-    "chapter": "14",
-    "verse": "38",
-    "alignment_num": "2",
-    "orig_lang_words": ",1447539,",
-    "target_lang_words": ",1224530,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1447539,
-        "book_id": "mrk",
-        "chapter": "14",
-        "verse": "38",
-        "word_num": 2,
-        "word": "προσεύχεσθε",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,MPM2,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1224530,
-        "book_id": "mrk",
-        "chapter": "14",
-        "verse": "38",
-        "word_num": 3,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "pray",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεύχεσθε = pray",
-    "frequency": 0.06944444444444445,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -554,7 +1680,215 @@
     "targetWordsTxt": "and prayed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσηύξατο = and prayed",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "507893",
+    "book_id": "act",
+    "chapter": "9",
+    "verse": "40",
+    "alignment_num": "7",
+    "orig_lang_words": ",1490294,",
+    "target_lang_words": ",1280329,1280330,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490294,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "40",
+        "word_num": 10,
+        "word": "προσηύξατο",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσηύξατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1280329,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "40",
+        "word_num": 9,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1280330,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "40",
+        "word_num": 10,
+        "word": "prayed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he prayed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσηύξατο = he prayed",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514988",
+    "book_id": "act",
+    "chapter": "20",
+    "verse": "36",
+    "alignment_num": "6",
+    "orig_lang_words": ",1497610,",
+    "target_lang_words": ",1289945,1289946,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1497610,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "36",
+        "word_num": 10,
+        "word": "προσηύξατο",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσηύξατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1289945,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "36",
+        "word_num": 10,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1289946,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "36",
+        "word_num": 11,
+        "word": "prayed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and prayed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσηύξατο = and prayed",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557262",
+    "book_id": "jas",
+    "chapter": "5",
+    "verse": "17",
+    "alignment_num": "6",
+    "orig_lang_words": ",1541638,",
+    "target_lang_words": ",1351731,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541638,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 7,
+        "word": "προσηύξατο",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσηύξατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1351731,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "17",
+        "word_num": 9,
+        "word": "earnestly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "earnestly",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσηύξατο = earnestly",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557281",
+    "book_id": "jas",
+    "chapter": "5",
+    "verse": "18",
+    "alignment_num": "1",
+    "orig_lang_words": ",1541655,",
+    "target_lang_words": ",1351752,1351753,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541655,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 2,
+        "word": "προσηύξατο",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσηύξατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1351752,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 1,
+        "word": "Elijah",
+        "occurrence": 1
+      },
+      {
+        "id": 1351753,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 2,
+        "word": "prayed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Elijah prayed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσηύξατο = Elijah prayed",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -598,7 +1932,98 @@
     "targetWordsTxt": "praying",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσευχόμενον = praying",
-    "frequency": 0.041666666666666664,
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "475648",
+    "book_id": "luk",
+    "chapter": "9",
+    "verse": "18",
+    "alignment_num": "5",
+    "orig_lang_words": ",1456435,",
+    "target_lang_words": ",1236481,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1456435,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "18",
+        "word_num": 6,
+        "word": "προσευχόμενον",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,AMS,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1236481,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "18",
+        "word_num": 8,
+        "word": "praying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "praying",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσευχόμενον = praying",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "477203",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "1",
+    "alignment_num": "5",
+    "orig_lang_words": ",1458062,",
+    "target_lang_words": ",1238533,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458062,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "1",
+        "word_num": 9,
+        "word": "προσευχόμενον",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,AMS,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1238533,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "1",
+        "word_num": 7,
+        "word": "praying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "praying",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσευχόμενον = praying",
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -669,7 +2094,53 @@
     "targetWordsTxt": "while he was praying",
     "alignmentTargetWords": 4,
     "alignmentTxt": "προσευχομένου = while he was praying",
-    "frequency": 0.013888888888888888,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516093",
+    "book_id": "act",
+    "chapter": "22",
+    "verse": "17",
+    "alignment_num": "7",
+    "orig_lang_words": ",1498748,",
+    "target_lang_words": ",1291441,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498748,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "17",
+        "word_num": 7,
+        "word": "προσευχομένου",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,GMS,"
+      }
+    ],
+    "origWordsTxt": "προσευχομένου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1291441,
+        "book_id": "act",
+        "chapter": "22",
+        "verse": "17",
+        "word_num": 10,
+        "word": "while",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "while",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσευχομένου = while",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -713,210 +2184,152 @@
     "targetWordsTxt": "prayed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσευχόμενος = prayed",
-    "frequency": 0.013888888888888888,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "472661",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "12",
-    "alignment_num": "10",
-    "orig_lang_words": ",1453439,",
-    "target_lang_words": ",1232404,1232405,",
+    "id": "508442",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "30",
+    "alignment_num": "11",
+    "orig_lang_words": ",1490848,",
+    "target_lang_words": ",1281084,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1453439,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 11,
-        "word": "προσεύξασθαι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,NAM,,,,,"
-      }
-    ],
-    "origWordsTxt": "προσεύξασθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1232404,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 13,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1232405,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "12",
+        "id": 1490848,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "30",
         "word_num": 14,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύξασθαι = to pray",
-    "frequency": 0.06944444444444445,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "472924",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "28",
-    "alignment_num": "4",
-    "orig_lang_words": ",1453711,",
-    "target_lang_words": ",1232747,1232748,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1453711,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "28",
-        "word_num": 4,
-        "word": "προσεύχεσθε",
+        "word": "προσευχόμενος",
         "occurrence": 1,
         "strong": "G43360",
         "lemma": "προσεύχομαι",
-        "morph": "Gr,V,MPM2,,P,"
+        "morph": "Gr,V,PPM,NMS,"
       }
     ],
-    "origWordsTxt": "προσεύχεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1232747,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "28",
-        "word_num": 5,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1232748,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "28",
-        "word_num": 6,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύχεσθε = and pray",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "475648",
-    "book_id": "luk",
-    "chapter": "9",
-    "verse": "18",
-    "alignment_num": "5",
-    "orig_lang_words": ",1456435,",
-    "target_lang_words": ",1236481,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1456435,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "18",
-        "word_num": 6,
-        "word": "προσευχόμενον",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,AMS,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενον",
+    "origWordsTxt": "προσευχόμενος",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1236481,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "18",
-        "word_num": 8,
+        "id": 1281084,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "30",
+        "word_num": 12,
         "word": "praying",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "praying",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προσευχόμενον = praying",
-    "frequency": 0.041666666666666664,
+    "alignmentTxt": "προσευχόμενος = praying",
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "475846",
-    "book_id": "luk",
-    "chapter": "9",
-    "verse": "28",
-    "alignment_num": "12",
-    "orig_lang_words": ",1456645,",
-    "target_lang_words": ",1236743,1236744,",
+    "id": "508820",
+    "book_id": "act",
+    "chapter": "11",
+    "verse": "5",
+    "alignment_num": "2",
+    "orig_lang_words": ",1491246,",
+    "target_lang_words": ",1281588,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1456645,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "28",
-        "word_num": 19,
-        "word": "προσεύξασθαι",
+        "id": 1491246,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "5",
+        "word_num": 5,
+        "word": "προσευχόμενος",
         "occurrence": 1,
         "strong": "G43360",
         "lemma": "προσεύχομαι",
-        "morph": "Gr,V,NAM,,,,,"
+        "morph": "Gr,V,PPM,NMS,"
       }
     ],
-    "origWordsTxt": "προσεύξασθαι",
+    "origWordsTxt": "προσευχόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1281588,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "5",
+        "word_num": 2,
+        "word": "praying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "praying",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσευχόμενος = praying",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "530195",
+    "book_id": "1co",
+    "chapter": "11",
+    "verse": "4",
+    "alignment_num": "2",
+    "orig_lang_words": ",1513644,",
+    "target_lang_words": ",1312455,1312456,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513644,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 2,
+        "word": "προσευχόμενος",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμενος",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1236743,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "28",
-        "word_num": 16,
-        "word": "to",
+        "id": 1312455,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 2,
+        "word": "who",
         "occurrence": 1
       },
       {
-        "id": 1236744,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "28",
-        "word_num": 17,
-        "word": "pray",
+        "id": 1312456,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 3,
+        "word": "prays",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "to pray",
+    "targetWordsTxt": "who prays",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύξασθαι = to pray",
-    "frequency": 0.06944444444444445,
+    "alignmentTxt": "προσευχόμενος = who prays",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -981,51 +2394,8 @@
     "targetWordsTxt": "was praying",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῷ προσεύχεσθαι = was praying",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "477203",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "1",
-    "alignment_num": "5",
-    "orig_lang_words": ",1458062,",
-    "target_lang_words": ",1238533,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458062,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "1",
-        "word_num": 9,
-        "word": "προσευχόμενον",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,AMS,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1238533,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "1",
-        "word_num": 7,
-        "word": "praying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "praying",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσευχόμενον = praying",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1078,7 +2448,161 @@
     "targetWordsTxt": "to pray",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσεύχεσθαι = to pray",
-    "frequency": 0.041666666666666664,
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482153",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "1",
+    "alignment_num": "9",
+    "orig_lang_words": ",1463079,",
+    "target_lang_words": ",1245370,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463079,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "1",
+        "word_num": 8,
+        "word": "προσεύχεσθαι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,NPM,,,,,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1245370,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "1",
+        "word_num": 12,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "pray",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεύχεσθαι = pray",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "530329",
+    "book_id": "1co",
+    "chapter": "11",
+    "verse": "13",
+    "alignment_num": "6",
+    "orig_lang_words": ",1513787,",
+    "target_lang_words": ",1312651,1312652,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513787,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 10,
+        "word": "προσεύχεσθαι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,NPM,,,,,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1312651,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 9,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1312652,
+        "book_id": "1co",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 10,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύχεσθαι = to pray",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547550",
+    "book_id": "1ti",
+    "chapter": "2",
+    "verse": "8",
+    "alignment_num": "6",
+    "orig_lang_words": ",1531591,",
+    "target_lang_words": ",1337441,1337442,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531591,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 2,
+        "word": "προσεύχεσθαι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,NPM,,,,,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεσθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1337441,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 7,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1337442,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 8,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύχεσθαι = to pray",
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1131,148 +2655,8 @@
     "targetWordsTxt": "you pray",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσεύχησθε = you pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482153",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "1",
-    "alignment_num": "9",
-    "orig_lang_words": ",1463079,",
-    "target_lang_words": ",1245370,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463079,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "1",
-        "word_num": 8,
-        "word": "προσεύχεσθαι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,NPM,,,,,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1245370,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "1",
-        "word_num": 12,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "pray",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεύχεσθαι = pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482304",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "10",
-    "alignment_num": "6",
-    "orig_lang_words": ",1463234,",
-    "target_lang_words": ",1245561,1245562,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463234,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 6,
-        "word": "προσεύξασθαι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,NAM,,,,,"
-      }
-    ],
-    "origWordsTxt": "προσεύξασθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1245561,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 7,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1245562,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 8,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύξασθαι = to pray",
-    "frequency": 0.06944444444444445,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482315",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "11",
-    "alignment_num": "3",
-    "orig_lang_words": ",1463248,",
-    "target_lang_words": ",1245576,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463248,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "11",
-        "word_num": 6,
-        "word": "προσηύχετο",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IIM3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσηύχετο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1245576,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "11",
-        "word_num": 3,
-        "word": "praying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "praying",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσηύχετο = praying",
-    "frequency": 0.013888888888888888,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1325,237 +2709,8 @@
     "targetWordsTxt": "they pray",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσεύχονται = they pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485426",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "40",
-    "alignment_num": "7",
-    "orig_lang_words": ",1466393,",
-    "target_lang_words": ",1249934,1249935,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1466393,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "40",
-        "word_num": 7,
-        "word": "προσεύχεσθε",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,MPM2,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1249934,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "40",
-        "word_num": 11,
-        "word": "Pray",
-        "occurrence": 1
-      },
-      {
-        "id": 1249935,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "40",
-        "word_num": 12,
-        "word": "that",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Pray that",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύχεσθε = Pray that",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485444",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "41",
-    "alignment_num": "12",
-    "orig_lang_words": ",1466410,",
-    "target_lang_words": ",1249958,1249959,1249960,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1466410,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "41",
-        "word_num": 12,
-        "word": "προσηύχετο",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IIM3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσηύχετο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1249958,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "41",
-        "word_num": 16,
-        "word": "he",
-        "occurrence": 2
-      },
-      {
-        "id": 1249959,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "41",
-        "word_num": 17,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1249960,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "41",
-        "word_num": 18,
-        "word": "praying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he was praying",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "προσηύχετο = he was praying",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485473",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "44",
-    "alignment_num": "4",
-    "orig_lang_words": ",1466443,",
-    "target_lang_words": ",1249994,1249995,1249996,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1466443,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "44",
-        "word_num": 5,
-        "word": "προσηύχετο",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IIM3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσηύχετο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1249994,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "44",
-        "word_num": 4,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1249995,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "44",
-        "word_num": 5,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1249996,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "44",
-        "word_num": 6,
-        "word": "praying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he was praying",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "προσηύχετο = he was praying",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485508",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "46",
-    "alignment_num": "6",
-    "orig_lang_words": ",1466477,",
-    "target_lang_words": ",1250041,1250042,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1466477,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "46",
-        "word_num": 6,
-        "word": "προσεύχεσθε",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,MPM2,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1250041,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "46",
-        "word_num": 10,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1250042,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "46",
-        "word_num": 11,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύχεσθε = and pray",
-    "frequency": 0.027777777777777776,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1608,7 +2763,8 @@
     "targetWordsTxt": "having prayed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσευξάμενοι = having prayed",
-    "frequency": 0.013888888888888888,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1661,351 +2817,8 @@
     "targetWordsTxt": "they prayed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσευξάμενοι = they prayed",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506718",
-    "book_id": "act",
-    "chapter": "8",
-    "verse": "15",
-    "alignment_num": "2",
-    "orig_lang_words": ",1489089,",
-    "target_lang_words": ",1278785,1278786,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1489089,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 2,
-        "word": "προσηύξαντο",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IAM3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσηύξαντο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1278785,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 5,
-        "word": "they",
-        "occurrence": 2
-      },
-      {
-        "id": 1278786,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 6,
-        "word": "prayed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they prayed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσηύξαντο = they prayed",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "507364",
-    "book_id": "act",
-    "chapter": "9",
-    "verse": "11",
-    "alignment_num": "23",
-    "orig_lang_words": ",1489758,",
-    "target_lang_words": ",1279614,1279615,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1489758,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "11",
-        "word_num": 23,
-        "word": "προσεύχεται",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1279614,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "11",
-        "word_num": 30,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1279615,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "11",
-        "word_num": 31,
-        "word": "is",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "he is",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύχεται = he is",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "507893",
-    "book_id": "act",
-    "chapter": "9",
-    "verse": "40",
-    "alignment_num": "7",
-    "orig_lang_words": ",1490294,",
-    "target_lang_words": ",1280329,1280330,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490294,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "40",
-        "word_num": 10,
-        "word": "προσηύξατο",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσηύξατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1280329,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "40",
-        "word_num": 9,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1280330,
-        "book_id": "act",
-        "chapter": "9",
-        "verse": "40",
-        "word_num": 10,
-        "word": "prayed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he prayed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσηύξατο = he prayed",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508103",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "9",
-    "alignment_num": "20",
-    "orig_lang_words": ",1490500,",
-    "target_lang_words": ",1280609,1280610,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490500,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "9",
-        "word_num": 14,
-        "word": "προσεύξασθαι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,NAM,,,,,"
-      }
-    ],
-    "origWordsTxt": "προσεύξασθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1280609,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "9",
-        "word_num": 27,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1280610,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "9",
-        "word_num": 28,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύξασθαι = to pray",
-    "frequency": 0.06944444444444445,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508442",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "30",
-    "alignment_num": "11",
-    "orig_lang_words": ",1490848,",
-    "target_lang_words": ",1281084,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490848,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 14,
-        "word": "προσευχόμενος",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1281084,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 12,
-        "word": "praying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "praying",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσευχόμενος = praying",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508820",
-    "book_id": "act",
-    "chapter": "11",
-    "verse": "5",
-    "alignment_num": "2",
-    "orig_lang_words": ",1491246,",
-    "target_lang_words": ",1281588,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491246,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "5",
-        "word_num": 5,
-        "word": "προσευχόμενος",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1281588,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "5",
-        "word_num": 2,
-        "word": "praying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "praying",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσευχόμενος = praying",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "509537",
-    "book_id": "act",
-    "chapter": "12",
-    "verse": "12",
-    "alignment_num": "18",
-    "orig_lang_words": ",1491984,",
-    "target_lang_words": ",1282546,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491984,
-        "book_id": "act",
-        "chapter": "12",
-        "verse": "12",
-        "word_num": 19,
-        "word": "προσευχόμενοι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1282546,
-        "book_id": "act",
-        "chapter": "12",
-        "verse": "12",
-        "word_num": 25,
-        "word": "praying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "praying",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσευχόμενοι = praying",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2049,7 +2862,8 @@
     "targetWordsTxt": "prayed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσευξάμενοι = prayed",
-    "frequency": 0.013888888888888888,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2111,113 +2925,8 @@
     "targetWordsTxt": "and had prayed",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προσευξάμενοι = and had prayed",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "512250",
-    "book_id": "act",
-    "chapter": "16",
-    "verse": "25",
-    "alignment_num": "5",
-    "orig_lang_words": ",1494773,",
-    "target_lang_words": ",1286252,1286253,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494773,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 7,
-        "word": "προσευχόμενοι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1286252,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 5,
-        "word": "were",
-        "occurrence": 1
-      },
-      {
-        "id": 1286253,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 6,
-        "word": "praying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "were praying",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσευχόμενοι = were praying",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "514988",
-    "book_id": "act",
-    "chapter": "20",
-    "verse": "36",
-    "alignment_num": "6",
-    "orig_lang_words": ",1497610,",
-    "target_lang_words": ",1289945,1289946,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1497610,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "36",
-        "word_num": 10,
-        "word": "προσηύξατο",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσηύξατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1289945,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "36",
-        "word_num": 10,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1289946,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "36",
-        "word_num": 11,
-        "word": "prayed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and prayed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσηύξατο = and prayed",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2270,51 +2979,161 @@
     "targetWordsTxt": "and praying",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσευξάμενοι = and praying",
-    "frequency": 0.013888888888888888,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "516093",
+    "id": "506718",
     "book_id": "act",
-    "chapter": "22",
-    "verse": "17",
-    "alignment_num": "7",
-    "orig_lang_words": ",1498748,",
-    "target_lang_words": ",1291441,",
+    "chapter": "8",
+    "verse": "15",
+    "alignment_num": "2",
+    "orig_lang_words": ",1489089,",
+    "target_lang_words": ",1278785,1278786,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1498748,
+        "id": 1489089,
         "book_id": "act",
-        "chapter": "22",
-        "verse": "17",
-        "word_num": 7,
-        "word": "προσευχομένου",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 2,
+        "word": "προσηύξαντο",
         "occurrence": 1,
         "strong": "G43360",
         "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,GMS,"
+        "morph": "Gr,V,IAM3,,P,"
       }
     ],
-    "origWordsTxt": "προσευχομένου",
+    "origWordsTxt": "προσηύξαντο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1278785,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 5,
+        "word": "they",
+        "occurrence": 2
+      },
+      {
+        "id": 1278786,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 6,
+        "word": "prayed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they prayed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσηύξαντο = they prayed",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "507364",
+    "book_id": "act",
+    "chapter": "9",
+    "verse": "11",
+    "alignment_num": "23",
+    "orig_lang_words": ",1489758,",
+    "target_lang_words": ",1279614,1279615,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1489758,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 23,
+        "word": "προσεύχεται",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1279614,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 30,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1279615,
+        "book_id": "act",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 31,
+        "word": "is",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "he is",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύχεται = he is",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531514",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "14",
+    "alignment_num": "5",
+    "orig_lang_words": ",1515004,",
+    "target_lang_words": ",1314394,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515004,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "14",
+        "word_num": 6,
+        "word": "προσεύχεται",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσεύχεται",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1291441,
-        "book_id": "act",
-        "chapter": "22",
-        "verse": "17",
-        "word_num": 10,
-        "word": "while",
+        "id": 1314394,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "14",
+        "word_num": 8,
+        "word": "prays",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "while",
+    "targetWordsTxt": "prays",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προσευχομένου = while",
-    "frequency": 0.013888888888888888,
+    "alignmentTxt": "προσεύχεται = prays",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2367,7 +3186,8 @@
     "targetWordsTxt": "having prayed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσευξάμενος = having prayed",
-    "frequency": 0.013888888888888888,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2420,60 +3240,8 @@
     "targetWordsTxt": "to pray",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσευξώμεθα = to pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "530195",
-    "book_id": "1co",
-    "chapter": "11",
-    "verse": "4",
-    "alignment_num": "2",
-    "orig_lang_words": ",1513644,",
-    "target_lang_words": ",1312455,1312456,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513644,
-        "book_id": "1co",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 2,
-        "word": "προσευχόμενος",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1312455,
-        "book_id": "1co",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 2,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1312456,
-        "book_id": "1co",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 3,
-        "word": "prays",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who prays",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσευχόμενος = who prays",
-    "frequency": 0.013888888888888888,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2526,60 +3294,8 @@
     "targetWordsTxt": "who prays",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσευχομένη = who prays",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "530329",
-    "book_id": "1co",
-    "chapter": "11",
-    "verse": "13",
-    "alignment_num": "6",
-    "orig_lang_words": ",1513787,",
-    "target_lang_words": ",1312651,1312652,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513787,
-        "book_id": "1co",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 10,
-        "word": "προσεύχεσθαι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,NPM,,,,,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1312651,
-        "book_id": "1co",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 9,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1312652,
-        "book_id": "1co",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 10,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύχεσθαι = to pray",
-    "frequency": 0.041666666666666664,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2632,730 +3348,8 @@
     "targetWordsTxt": "should pray",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσευχέσθω = should pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531510",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "14",
-    "alignment_num": "1",
-    "orig_lang_words": ",1514999,",
-    "target_lang_words": ",1314387,1314388,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1514999,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "14",
-        "word_num": 1,
-        "word": "προσεύχωμαι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,SPM1,,S,"
-      }
-    ],
-    "origWordsTxt": "προσεύχωμαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1314387,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "14",
-        "word_num": 1,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1314388,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "14",
-        "word_num": 2,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύχωμαι = I pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531514",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "14",
-    "alignment_num": "5",
-    "orig_lang_words": ",1515004,",
-    "target_lang_words": ",1314394,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515004,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "14",
-        "word_num": 6,
-        "word": "προσεύχεται",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1314394,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "14",
-        "word_num": 8,
-        "word": "prays",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "prays",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεύχεται = prays",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531523",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "15",
-    "alignment_num": "3",
-    "orig_lang_words": ",1515014,",
-    "target_lang_words": ",1314405,1314406,1314407,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515014,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 3,
-        "word": "προσεύξομαι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IFM1,,S,"
-      }
-    ],
-    "origWordsTxt": "προσεύξομαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1314405,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 5,
-        "word": "I",
-        "occurrence": 2
-      },
-      {
-        "id": 1314406,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 6,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1314407,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 7,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I will pray",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "προσεύξομαι = I will pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531527",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "15",
-    "alignment_num": "7",
-    "orig_lang_words": ",1515017,",
-    "target_lang_words": ",1314412,1314413,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515017,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 6,
-        "word": "προσεύξομαι",
-        "occurrence": 2,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IFM1,,S,"
-      }
-    ],
-    "origWordsTxt": "προσεύξομαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1314412,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 12,
-        "word": "I",
-        "occurrence": 3
-      },
-      {
-        "id": 1314413,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 13,
-        "word": "will",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "I will",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύξομαι = I will",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541821",
-    "book_id": "eph",
-    "chapter": "6",
-    "verse": "18",
-    "alignment_num": "5",
-    "orig_lang_words": ",1525566,",
-    "target_lang_words": ",1329192,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525566,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "18",
-        "word_num": 5,
-        "word": "προσευχόμενοι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1329192,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "18",
-        "word_num": 5,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "pray",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσευχόμενοι = pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542062",
-    "book_id": "php",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "2",
-    "orig_lang_words": ",1525818,",
-    "target_lang_words": ",1329518,1329519,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525818,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 2,
-        "word": "προσεύχομαι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IPM1,,S,"
-      }
-    ],
-    "origWordsTxt": "προσεύχομαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1329518,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 3,
-        "word": "my",
-        "occurrence": 1
-      },
-      {
-        "id": 1329519,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 4,
-        "word": "prayer",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "my prayer",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύχομαι = my prayer",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543539",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "3",
-    "alignment_num": "8",
-    "orig_lang_words": ",1527354,",
-    "target_lang_words": ",1331739,1331740,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1527354,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 12,
-        "word": "προσευχόμενοι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1331739,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 12,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1331740,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "3",
-        "word_num": 13,
-        "word": "we",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and we",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσευχόμενοι = and we",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543638",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "9",
-    "orig_lang_words": ",1527456,",
-    "target_lang_words": ",1331889,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1527456,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 12,
-        "word": "προσευχόμενοι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1331889,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 14,
-        "word": "praying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "praying",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσευχόμενοι = praying",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544713",
-    "book_id": "col",
-    "chapter": "4",
-    "verse": "3",
-    "alignment_num": "0",
-    "orig_lang_words": ",1528630,",
-    "target_lang_words": ",1333468,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528630,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "3",
-        "word_num": 0,
-        "word": "προσευχόμενοι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1333468,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "3",
-        "word_num": 0,
-        "word": "Pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Pray",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσευχόμενοι = Pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546259",
-    "book_id": "1th",
-    "chapter": "5",
-    "verse": "17",
-    "alignment_num": "0",
-    "orig_lang_words": ",1530273,",
-    "target_lang_words": ",1335611,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530273,
-        "book_id": "1th",
-        "chapter": "5",
-        "verse": "17",
-        "word_num": 1,
-        "word": "προσεύχεσθε",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,MPM2,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1335611,
-        "book_id": "1th",
-        "chapter": "5",
-        "verse": "17",
-        "word_num": 0,
-        "word": "Pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Pray",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεύχεσθε = Pray",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546324",
-    "book_id": "1th",
-    "chapter": "5",
-    "verse": "25",
-    "alignment_num": "1",
-    "orig_lang_words": ",1530341,",
-    "target_lang_words": ",1335698,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530341,
-        "book_id": "1th",
-        "chapter": "5",
-        "verse": "25",
-        "word_num": 1,
-        "word": "προσεύχεσθε",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,MPM2,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1335698,
-        "book_id": "1th",
-        "chapter": "5",
-        "verse": "25",
-        "word_num": 1,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "pray",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεύχεσθε = pray",
-    "frequency": 0.06944444444444445,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546533",
-    "book_id": "2th",
-    "chapter": "1",
-    "verse": "11",
-    "alignment_num": "2",
-    "orig_lang_words": ",1530559,",
-    "target_lang_words": ",1335988,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530559,
-        "book_id": "2th",
-        "chapter": "1",
-        "verse": "11",
-        "word_num": 3,
-        "word": "προσευχόμεθα",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IPM1,,P,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμεθα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1335988,
-        "book_id": "2th",
-        "chapter": "1",
-        "verse": "11",
-        "word_num": 3,
-        "word": "we",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "we",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσευχόμεθα = we",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546877",
-    "book_id": "2th",
-    "chapter": "3",
-    "verse": "1",
-    "alignment_num": "2",
-    "orig_lang_words": ",1530920,",
-    "target_lang_words": ",1336473,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530920,
-        "book_id": "2th",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 2,
-        "word": "προσεύχεσθε",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,MPM2,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1336473,
-        "book_id": "2th",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 2,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "pray",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεύχεσθε = pray",
-    "frequency": 0.06944444444444445,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547550",
-    "book_id": "1ti",
-    "chapter": "2",
-    "verse": "8",
-    "alignment_num": "6",
-    "orig_lang_words": ",1531591,",
-    "target_lang_words": ",1337441,1337442,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531591,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 2,
-        "word": "προσεύχεσθαι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,NPM,,,,,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1337441,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 7,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1337442,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 8,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεύχεσθαι = to pray",
-    "frequency": 0.041666666666666664,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555581",
-    "book_id": "heb",
-    "chapter": "13",
-    "verse": "18",
-    "alignment_num": "0",
-    "orig_lang_words": ",1539835,",
-    "target_lang_words": ",1349277,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539835,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 0,
-        "word": "προσεύχεσθε",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,MPM2,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349277,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 0,
-        "word": "Pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Pray",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεύχεσθε = Pray",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3417,7 +3411,278 @@
     "targetWordsTxt": "Let him pray",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προσευχέσθω = Let him pray",
-    "frequency": 0.013888888888888888,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531510",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "14",
+    "alignment_num": "1",
+    "orig_lang_words": ",1514999,",
+    "target_lang_words": ",1314387,1314388,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1514999,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "14",
+        "word_num": 1,
+        "word": "προσεύχωμαι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,SPM1,,S,"
+      }
+    ],
+    "origWordsTxt": "προσεύχωμαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1314387,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "14",
+        "word_num": 1,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1314388,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "14",
+        "word_num": 2,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I pray",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύχωμαι = I pray",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531523",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "15",
+    "alignment_num": "3",
+    "orig_lang_words": ",1515014,",
+    "target_lang_words": ",1314405,1314406,1314407,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515014,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 3,
+        "word": "προσεύξομαι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IFM1,,S,"
+      }
+    ],
+    "origWordsTxt": "προσεύξομαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1314405,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 5,
+        "word": "I",
+        "occurrence": 2
+      },
+      {
+        "id": 1314406,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 6,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1314407,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 7,
+        "word": "pray",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I will pray",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "προσεύξομαι = I will pray",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531527",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "15",
+    "alignment_num": "7",
+    "orig_lang_words": ",1515017,",
+    "target_lang_words": ",1314412,1314413,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515017,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 6,
+        "word": "προσεύξομαι",
+        "occurrence": 2,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IFM1,,S,"
+      }
+    ],
+    "origWordsTxt": "προσεύξομαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1314412,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 12,
+        "word": "I",
+        "occurrence": 3
+      },
+      {
+        "id": 1314413,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 13,
+        "word": "will",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "I will",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύξομαι = I will",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542062",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1525818,",
+    "target_lang_words": ",1329518,1329519,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525818,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 2,
+        "word": "προσεύχομαι",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IPM1,,S,"
+      }
+    ],
+    "origWordsTxt": "προσεύχομαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1329518,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 3,
+        "word": "my",
+        "occurrence": 1
+      },
+      {
+        "id": 1329519,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 4,
+        "word": "prayer",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "my prayer",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεύχομαι = my prayer",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546533",
+    "book_id": "2th",
+    "chapter": "1",
+    "verse": "11",
+    "alignment_num": "2",
+    "orig_lang_words": ",1530559,",
+    "target_lang_words": ",1335988,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530559,
+        "book_id": "2th",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 3,
+        "word": "προσευχόμεθα",
+        "occurrence": 1,
+        "strong": "G43360",
+        "lemma": "προσεύχομαι",
+        "morph": "Gr,V,IPM1,,P,"
+      }
+    ],
+    "origWordsTxt": "προσευχόμεθα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1335988,
+        "book_id": "2th",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 3,
+        "word": "we",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσευχόμεθα = we",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3479,201 +3744,8 @@
     "targetWordsTxt": "let them pray",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προσευξάσθωσαν = let them pray",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557246",
-    "book_id": "jas",
-    "chapter": "5",
-    "verse": "16",
-    "alignment_num": "6",
-    "orig_lang_words": ",1541621,",
-    "target_lang_words": ",1351700,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541621,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "16",
-        "word_num": 6,
-        "word": "προσεύχεσθε",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,MPM2,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεύχεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1351700,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "16",
-        "word_num": 8,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "pray",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεύχεσθε = pray",
-    "frequency": 0.06944444444444445,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557262",
-    "book_id": "jas",
-    "chapter": "5",
-    "verse": "17",
-    "alignment_num": "6",
-    "orig_lang_words": ",1541638,",
-    "target_lang_words": ",1351731,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541638,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "17",
-        "word_num": 7,
-        "word": "προσηύξατο",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσηύξατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1351731,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "17",
-        "word_num": 9,
-        "word": "earnestly",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "earnestly",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσηύξατο = earnestly",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557281",
-    "book_id": "jas",
-    "chapter": "5",
-    "verse": "18",
-    "alignment_num": "1",
-    "orig_lang_words": ",1541655,",
-    "target_lang_words": ",1351752,1351753,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541655,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "18",
-        "word_num": 2,
-        "word": "προσηύξατο",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσηύξατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1351752,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "18",
-        "word_num": 1,
-        "word": "Elijah",
-        "occurrence": 1
-      },
-      {
-        "id": 1351753,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "18",
-        "word_num": 2,
-        "word": "prayed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Elijah prayed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσηύξατο = Elijah prayed",
-    "frequency": 0.013888888888888888,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562641",
-    "book_id": "jud",
-    "chapter": "1",
-    "verse": "20",
-    "alignment_num": "10",
-    "orig_lang_words": ",1547452,",
-    "target_lang_words": ",1359820,1359821,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1547452,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 12,
-        "word": "προσευχόμενοι",
-        "occurrence": 1,
-        "strong": "G43360",
-        "lemma": "προσεύχομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "προσευχόμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1359820,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 11,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1359821,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 12,
-        "word": "pray",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and pray",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσευχόμενοι = and pray",
-    "frequency": 0.027777777777777776,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

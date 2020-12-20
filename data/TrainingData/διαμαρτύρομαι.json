@@ -57,7 +57,8 @@
     "targetWordsTxt": "he might warn",
     "alignmentTargetWords": 3,
     "alignmentTxt": "διαμαρτύρηται = he might warn",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -110,7 +111,53 @@
     "targetWordsTxt": "he testified",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διεμαρτύρατο = he testified",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551279",
+    "book_id": "heb",
+    "chapter": "2",
+    "verse": "6",
+    "alignment_num": "2",
+    "orig_lang_words": ",1535347,",
+    "target_lang_words": ",1342746,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535347,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 0,
+        "word": "διεμαρτύρατο",
+        "occurrence": 1,
+        "strong": "G12630",
+        "lemma": "διαμαρτύρομαι",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "διεμαρτύρατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1342746,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "6",
+        "word_num": 2,
+        "word": "has",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διεμαρτύρατο = has",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,7 +201,8 @@
     "targetWordsTxt": "When",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διαμαρτυράμενοι = When",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -216,148 +264,8 @@
     "targetWordsTxt": "to testify fully",
     "alignmentTargetWords": 3,
     "alignmentTxt": "διαμαρτύρασθαι = to testify fully",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513228",
-    "book_id": "act",
-    "chapter": "18",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1495790,",
-    "target_lang_words": ",1287573,1287574,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1495790,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "5",
-        "word_num": 17,
-        "word": "διαμαρτυρόμενος",
-        "occurrence": 1,
-        "strong": "G12630",
-        "lemma": "διαμαρτύρομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "διαμαρτυρόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1287573,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "5",
-        "word_num": 16,
-        "word": "solemnly",
-        "occurrence": 1
-      },
-      {
-        "id": 1287574,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "5",
-        "word_num": 17,
-        "word": "testifying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "solemnly testifying",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διαμαρτυρόμενος = solemnly testifying",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "514719",
-    "book_id": "act",
-    "chapter": "20",
-    "verse": "21",
-    "alignment_num": "0",
-    "orig_lang_words": ",1497332,",
-    "target_lang_words": ",1289595,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1497332,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "21",
-        "word_num": 0,
-        "word": "διαμαρτυρόμενος",
-        "occurrence": 1,
-        "strong": "G12630",
-        "lemma": "διαμαρτύρομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "διαμαρτυρόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1289595,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "21",
-        "word_num": 0,
-        "word": "testifying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testifying",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διαμαρτυρόμενος = testifying",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "514756",
-    "book_id": "act",
-    "chapter": "20",
-    "verse": "23",
-    "alignment_num": "5",
-    "orig_lang_words": ",1497373,",
-    "target_lang_words": ",1289636,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1497373,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "23",
-        "word_num": 8,
-        "word": "διαμαρτύρεταί",
-        "occurrence": 1,
-        "strong": "G12630",
-        "lemma": "διαμαρτύρομαι",
-        "morph": "Gr,V,IPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "διαμαρτύρεταί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1289636,
-        "book_id": "act",
-        "chapter": "20",
-        "verse": "23",
-        "word_num": 5,
-        "word": "testifies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testifies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διαμαρτύρεταί = testifies",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -428,7 +336,260 @@
     "targetWordsTxt": "and to solemnly testify",
     "alignmentTargetWords": 4,
     "alignmentTxt": "διαμαρτύρασθαι = and to solemnly testify",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513228",
+    "book_id": "act",
+    "chapter": "18",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1495790,",
+    "target_lang_words": ",1287573,1287574,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495790,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "5",
+        "word_num": 17,
+        "word": "διαμαρτυρόμενος",
+        "occurrence": 1,
+        "strong": "G12630",
+        "lemma": "διαμαρτύρομαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "διαμαρτυρόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1287573,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "5",
+        "word_num": 16,
+        "word": "solemnly",
+        "occurrence": 1
+      },
+      {
+        "id": 1287574,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "5",
+        "word_num": 17,
+        "word": "testifying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "solemnly testifying",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διαμαρτυρόμενος = solemnly testifying",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514719",
+    "book_id": "act",
+    "chapter": "20",
+    "verse": "21",
+    "alignment_num": "0",
+    "orig_lang_words": ",1497332,",
+    "target_lang_words": ",1289595,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1497332,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "21",
+        "word_num": 0,
+        "word": "διαμαρτυρόμενος",
+        "occurrence": 1,
+        "strong": "G12630",
+        "lemma": "διαμαρτύρομαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "διαμαρτυρόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1289595,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "21",
+        "word_num": 0,
+        "word": "testifying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testifying",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διαμαρτυρόμενος = testifying",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519737",
+    "book_id": "act",
+    "chapter": "28",
+    "verse": "23",
+    "alignment_num": "13",
+    "orig_lang_words": ",1502457,",
+    "target_lang_words": ",1296597,1296598,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502457,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "23",
+        "word_num": 13,
+        "word": "διαμαρτυρόμενος",
+        "occurrence": 1,
+        "strong": "G12630",
+        "lemma": "διαμαρτύρομαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "διαμαρτυρόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1296597,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "23",
+        "word_num": 22,
+        "word": "testifying",
+        "occurrence": 1
+      },
+      {
+        "id": 1296598,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "23",
+        "word_num": 23,
+        "word": "about",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testifying about",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διαμαρτυρόμενος = testifying about",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549243",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "14",
+    "alignment_num": "2",
+    "orig_lang_words": ",1533253,",
+    "target_lang_words": ",1339826,1339827,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533253,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 2,
+        "word": "διαμαρτυρόμενος",
+        "occurrence": 1,
+        "strong": "G12630",
+        "lemma": "διαμαρτύρομαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "διαμαρτυρόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1339826,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 5,
+        "word": "charging",
+        "occurrence": 1
+      },
+      {
+        "id": 1339827,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 6,
+        "word": "them",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "charging them",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διαμαρτυρόμενος = charging them",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514756",
+    "book_id": "act",
+    "chapter": "20",
+    "verse": "23",
+    "alignment_num": "5",
+    "orig_lang_words": ",1497373,",
+    "target_lang_words": ",1289636,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1497373,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "23",
+        "word_num": 8,
+        "word": "διαμαρτύρεταί",
+        "occurrence": 1,
+        "strong": "G12630",
+        "lemma": "διαμαρτύρομαι",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "διαμαρτύρεταί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1289636,
+        "book_id": "act",
+        "chapter": "20",
+        "verse": "23",
+        "word_num": 5,
+        "word": "testifies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "testifies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διαμαρτύρεταί = testifies",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -499,60 +660,8 @@
     "targetWordsTxt": "you have testified to",
     "alignmentTargetWords": 4,
     "alignmentTxt": "διεμαρτύρω = you have testified to",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "519737",
-    "book_id": "act",
-    "chapter": "28",
-    "verse": "23",
-    "alignment_num": "13",
-    "orig_lang_words": ",1502457,",
-    "target_lang_words": ",1296597,1296598,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502457,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "23",
-        "word_num": 13,
-        "word": "διαμαρτυρόμενος",
-        "occurrence": 1,
-        "strong": "G12630",
-        "lemma": "διαμαρτύρομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "διαμαρτυρόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1296597,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "23",
-        "word_num": 22,
-        "word": "testifying",
-        "occurrence": 1
-      },
-      {
-        "id": 1296598,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "23",
-        "word_num": 23,
-        "word": "about",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "testifying about",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διαμαρτυρόμενος = testifying about",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -596,7 +705,8 @@
     "targetWordsTxt": "testified",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διεμαρτυράμεθα = testified",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -667,60 +777,8 @@
     "targetWordsTxt": "I solemnly command you",
     "alignmentTargetWords": 4,
     "alignmentTxt": "διαμαρτύρομαι = I solemnly command you",
-    "frequency": 0.13333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549243",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "14",
-    "alignment_num": "2",
-    "orig_lang_words": ",1533253,",
-    "target_lang_words": ",1339826,1339827,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533253,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 2,
-        "word": "διαμαρτυρόμενος",
-        "occurrence": 1,
-        "strong": "G12630",
-        "lemma": "διαμαρτύρομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "διαμαρτυρόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1339826,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 5,
-        "word": "charging",
-        "occurrence": 1
-      },
-      {
-        "id": 1339827,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 6,
-        "word": "them",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "charging them",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διαμαρτυρόμενος = charging them",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -791,51 +849,8 @@
     "targetWordsTxt": "I solemnly command you",
     "alignmentTargetWords": 4,
     "alignmentTxt": "διαμαρτύρομαι = I solemnly command you",
-    "frequency": 0.13333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551279",
-    "book_id": "heb",
-    "chapter": "2",
-    "verse": "6",
-    "alignment_num": "2",
-    "orig_lang_words": ",1535347,",
-    "target_lang_words": ",1342746,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535347,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 0,
-        "word": "διεμαρτύρατο",
-        "occurrence": 1,
-        "strong": "G12630",
-        "lemma": "διαμαρτύρομαι",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "διεμαρτύρατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1342746,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "6",
-        "word_num": 2,
-        "word": "has",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "has",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διεμαρτύρατο = has",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

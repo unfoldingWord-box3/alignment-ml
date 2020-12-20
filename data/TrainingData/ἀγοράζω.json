@@ -48,7 +48,53 @@
     "targetWordsTxt": "to buy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀγοράσωσιν = to buy",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489392",
+    "book_id": "jhn",
+    "chapter": "4",
+    "verse": "8",
+    "alignment_num": "8",
+    "orig_lang_words": ",1470550,",
+    "target_lang_words": ",1255156,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1470550,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 10,
+        "word": "ἀγοράσωσιν",
+        "occurrence": 1,
+        "strong": "G00590",
+        "lemma": "ἀγοράζω",
+        "morph": "Gr,V,SAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀγοράσωσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1255156,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "8",
+        "word_num": 10,
+        "word": "buy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "buy",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγοράσωσιν = buy",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +147,143 @@
     "targetWordsTxt": "and buy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀγοράσωμεν = and buy",
-    "frequency": 0.08695652173913043,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "475575",
+    "book_id": "luk",
+    "chapter": "9",
+    "verse": "13",
+    "alignment_num": "24",
+    "orig_lang_words": ",1456362,",
+    "target_lang_words": ",1236377,1236378,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1456362,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 25,
+        "word": "ἀγοράσωμεν",
+        "occurrence": 1,
+        "strong": "G00590",
+        "lemma": "ἀγοράζω",
+        "morph": "Gr,V,SAA1,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀγοράσωμεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1236377,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 31,
+        "word": "and",
+        "occurrence": 2
+      },
+      {
+        "id": 1236378,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 32,
+        "word": "buy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and buy",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγοράσωμεν = and buy",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490966",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "5",
+    "alignment_num": "18",
+    "orig_lang_words": ",1472265,",
+    "target_lang_words": ",1257290,1257291,1257292,1257293,1257294,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1472265,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 18,
+        "word": "ἀγοράσωμεν",
+        "occurrence": 1,
+        "strong": "G00590",
+        "lemma": "ἀγοράζω",
+        "morph": "Gr,V,SAA1,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀγοράσωμεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 1257290,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 21,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 1257291,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 22,
+        "word": "we",
+        "occurrence": 1
+      },
+      {
+        "id": 1257292,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 23,
+        "word": "going",
+        "occurrence": 1
+      },
+      {
+        "id": 1257293,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 24,
+        "word": "to",
+        "occurrence": 3
+      },
+      {
+        "id": 1257294,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 25,
+        "word": "buy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "are we going to buy",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "ἀγοράσωμεν = are we going to buy",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -184,7 +366,8 @@
     "targetWordsTxt": "those who were buying",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τοὺς ἀγοράζοντας = those who were buying",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -246,7 +429,8 @@
     "targetWordsTxt": "Joseph had bought",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀγοράσας = Joseph had bought",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -290,60 +474,8 @@
     "targetWordsTxt": "bought",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἠγόρασαν = bought",
-    "frequency": 0.043478260869565216,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "475575",
-    "book_id": "luk",
-    "chapter": "9",
-    "verse": "13",
-    "alignment_num": "24",
-    "orig_lang_words": ",1456362,",
-    "target_lang_words": ",1236377,1236378,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1456362,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 25,
-        "word": "ἀγοράσωμεν",
-        "occurrence": 1,
-        "strong": "G00590",
-        "lemma": "ἀγοράζω",
-        "morph": "Gr,V,SAA1,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀγοράσωμεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1236377,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 31,
-        "word": "and",
-        "occurrence": 2
-      },
-      {
-        "id": 1236378,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 32,
-        "word": "buy",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and buy",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγοράσωμεν = and buy",
-    "frequency": 0.08695652173913043,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -405,7 +537,8 @@
     "targetWordsTxt": "I have bought",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠγόρασα = I have bought",
-    "frequency": 0.08695652173913043,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -467,7 +600,8 @@
     "targetWordsTxt": "I have bought",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠγόρασα = I have bought",
-    "frequency": 0.08695652173913043,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -529,7 +663,8 @@
     "targetWordsTxt": "they were buying",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠγόραζον = they were buying",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -582,131 +717,8 @@
     "targetWordsTxt": "buy one",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀγορασάτω = buy one",
-    "frequency": 0.043478260869565216,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "489392",
-    "book_id": "jhn",
-    "chapter": "4",
-    "verse": "8",
-    "alignment_num": "8",
-    "orig_lang_words": ",1470550,",
-    "target_lang_words": ",1255156,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1470550,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "8",
-        "word_num": 10,
-        "word": "ἀγοράσωσιν",
-        "occurrence": 1,
-        "strong": "G00590",
-        "lemma": "ἀγοράζω",
-        "morph": "Gr,V,SAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀγοράσωσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1255156,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "8",
-        "word_num": 10,
-        "word": "buy",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "buy",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγοράσωσιν = buy",
-    "frequency": 0.043478260869565216,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490966",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "5",
-    "alignment_num": "18",
-    "orig_lang_words": ",1472265,",
-    "target_lang_words": ",1257290,1257291,1257292,1257293,1257294,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1472265,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 18,
-        "word": "ἀγοράσωμεν",
-        "occurrence": 1,
-        "strong": "G00590",
-        "lemma": "ἀγοράζω",
-        "morph": "Gr,V,SAA1,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀγοράσωμεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 4,
-    "targetWords": [
-      {
-        "id": 1257290,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 21,
-        "word": "are",
-        "occurrence": 1
-      },
-      {
-        "id": 1257291,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 22,
-        "word": "we",
-        "occurrence": 1
-      },
-      {
-        "id": 1257292,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 23,
-        "word": "going",
-        "occurrence": 1
-      },
-      {
-        "id": 1257293,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 24,
-        "word": "to",
-        "occurrence": 3
-      },
-      {
-        "id": 1257294,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 25,
-        "word": "buy",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "are we going to buy",
-    "alignmentTargetWords": 5,
-    "alignmentTxt": "ἀγοράσωμεν = are we going to buy",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -750,7 +762,8 @@
     "targetWordsTxt": "Buy",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀγόρασον = Buy",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -812,7 +825,8 @@
     "targetWordsTxt": "you were bought",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠγοράσθητε = you were bought",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -874,7 +888,8 @@
     "targetWordsTxt": "You were bought",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠγοράσθητε = You were bought",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -948,7 +963,8 @@
     "targetWordsTxt": "those who buy",
     "alignmentTargetWords": 3,
     "alignmentTxt": "οἱ ἀγοράζοντες = those who buy",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1001,7 +1017,8 @@
     "targetWordsTxt": "who bought",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀγοράσαντα = who bought",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1054,7 +1071,62 @@
     "targetWordsTxt": "to buy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀγοράσαι = to buy",
-    "frequency": 0.08695652173913043,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567652",
+    "book_id": "rev",
+    "chapter": "13",
+    "verse": "17",
+    "alignment_num": "4",
+    "orig_lang_words": ",1553036,",
+    "target_lang_words": ",1366758,1366759,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553036,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "17",
+        "word_num": 5,
+        "word": "ἀγοράσαι",
+        "occurrence": 1,
+        "strong": "G00590",
+        "lemma": "ἀγοράζω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀγοράσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1366758,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "17",
+        "word_num": 6,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1366759,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "17",
+        "word_num": 7,
+        "word": "buy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to buy",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγοράσαι = to buy",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1116,60 +1188,8 @@
     "targetWordsTxt": "you purchased people",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἠγόρασας = you purchased people",
-    "frequency": 0.043478260869565216,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567652",
-    "book_id": "rev",
-    "chapter": "13",
-    "verse": "17",
-    "alignment_num": "4",
-    "orig_lang_words": ",1553036,",
-    "target_lang_words": ",1366758,1366759,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553036,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "17",
-        "word_num": 5,
-        "word": "ἀγοράσαι",
-        "occurrence": 1,
-        "strong": "G00590",
-        "lemma": "ἀγοράζω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀγοράσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1366758,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "17",
-        "word_num": 6,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1366759,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "17",
-        "word_num": 7,
-        "word": "buy",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to buy",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγοράσαι = to buy",
-    "frequency": 0.08695652173913043,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1252,7 +1272,8 @@
     "targetWordsTxt": "who had been bought",
     "alignmentTargetWords": 4,
     "alignmentTxt": "οἱ ἠγορασμένοι = who had been bought",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1305,7 +1326,8 @@
     "targetWordsTxt": "were redeemed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἠγοράσθησαν = were redeemed",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1349,7 +1371,8 @@
     "targetWordsTxt": "buys",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀγοράζει = buys",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

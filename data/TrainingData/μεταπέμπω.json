@@ -39,7 +39,53 @@
     "targetWordsTxt": "summon",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μετάπεμψαι = summon",
-    "frequency": 0.2222222222222222,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508972",
+    "book_id": "act",
+    "chapter": "11",
+    "verse": "13",
+    "alignment_num": "17",
+    "orig_lang_words": ",1491401,",
+    "target_lang_words": ",1281795,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491401,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 18,
+        "word": "μετάπεμψαι",
+        "occurrence": 1,
+        "strong": "G33430",
+        "lemma": "μεταπέμπω",
+        "morph": "Gr,V,MAM2,,S,"
+      }
+    ],
+    "origWordsTxt": "μετάπεμψαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1281795,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 21,
+        "word": "summon",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "summon",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μετάπεμψαι = summon",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +138,8 @@
     "targetWordsTxt": "to summon",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μεταπέμψασθαί = to summon",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -163,7 +210,8 @@
     "targetWordsTxt": "when I was summoned",
     "alignmentTargetWords": 4,
     "alignmentTxt": "μεταπεμφθείς = when I was summoned",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -216,51 +264,8 @@
     "targetWordsTxt": "you summon",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μετεπέμψασθέ = you summon",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508972",
-    "book_id": "act",
-    "chapter": "11",
-    "verse": "13",
-    "alignment_num": "17",
-    "orig_lang_words": ",1491401,",
-    "target_lang_words": ",1281795,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1491401,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 18,
-        "word": "μετάπεμψαι",
-        "occurrence": 1,
-        "strong": "G33430",
-        "lemma": "μεταπέμπω",
-        "morph": "Gr,V,MAM2,,S,"
-      }
-    ],
-    "origWordsTxt": "μετάπεμψαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1281795,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 21,
-        "word": "summon",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "summon",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μετάπεμψαι = summon",
-    "frequency": 0.2222222222222222,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -313,7 +318,8 @@
     "targetWordsTxt": "sent for",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μεταπεμψάμενος = sent for",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -384,7 +390,8 @@
     "targetWordsTxt": "and he sent for",
     "alignmentTargetWords": 4,
     "alignmentTxt": "μετεπέμψατο = and he sent for",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -428,7 +435,8 @@
     "targetWordsTxt": "he",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μεταπεμπόμενος = he",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -490,7 +498,8 @@
     "targetWordsTxt": "he might summon",
     "alignmentTargetWords": 3,
     "alignmentTxt": "μεταπέμψηται = he might summon",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

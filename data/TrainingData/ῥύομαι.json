@@ -57,7 +57,8 @@
     "targetWordsTxt": "having been delivered",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ῥυσθέντας = having been delivered",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -110,166 +111,8 @@
     "targetWordsTxt": "will deliver",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ῥύσεται = will deliver",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524541",
-    "book_id": "rom",
-    "chapter": "11",
-    "verse": "26",
-    "alignment_num": "10",
-    "orig_lang_words": ",1507682,",
-    "target_lang_words": ",1303992,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1507682,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "26",
-        "word_num": 11,
-        "word": "ῥυόμενος",
-        "occurrence": 1,
-        "strong": "G45060",
-        "lemma": "ῥύομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "ῥυόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1303992,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "26",
-        "word_num": 17,
-        "word": "Deliverer",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Deliverer",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ῥυόμενος = Deliverer",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525990",
-    "book_id": "rom",
-    "chapter": "15",
-    "verse": "31",
-    "alignment_num": "1",
-    "orig_lang_words": ",1509271,",
-    "target_lang_words": ",1306261,1306262,1306263,1306264,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1509271,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 1,
-        "word": "ῥυσθῶ",
-        "occurrence": 1,
-        "strong": "G45060",
-        "lemma": "ῥύομαι",
-        "morph": "Gr,V,SAP1,,S,"
-      }
-    ],
-    "origWordsTxt": "ῥυσθῶ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1306261,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 2,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1306262,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 3,
-        "word": "may",
-        "occurrence": 1
-      },
-      {
-        "id": 1306263,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 4,
-        "word": "be",
-        "occurrence": 1
-      },
-      {
-        "id": 1306264,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 5,
-        "word": "rescued",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I may be rescued",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "ῥυσθῶ = I may be rescued",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533217",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "10",
-    "alignment_num": "1",
-    "orig_lang_words": ",1516766,",
-    "target_lang_words": ",1316843,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516766,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 4,
-        "word": "ἐρρύσατο",
-        "occurrence": 1,
-        "strong": "G45060",
-        "lemma": "ῥύομαι",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρρύσατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1316843,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 1,
-        "word": "rescued",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "rescued",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρρύσατο = rescued",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -340,7 +183,8 @@
     "targetWordsTxt": "he will rescue us",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ῥύσεται = he will rescue us",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -384,7 +228,170 @@
     "targetWordsTxt": "he",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ῥύσεται = he",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524541",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "26",
+    "alignment_num": "10",
+    "orig_lang_words": ",1507682,",
+    "target_lang_words": ",1303992,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507682,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "26",
+        "word_num": 11,
+        "word": "ῥυόμενος",
+        "occurrence": 1,
+        "strong": "G45060",
+        "lemma": "ῥύομαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "ῥυόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1303992,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "26",
+        "word_num": 17,
+        "word": "Deliverer",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Deliverer",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ῥυόμενος = Deliverer",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525990",
+    "book_id": "rom",
+    "chapter": "15",
+    "verse": "31",
+    "alignment_num": "1",
+    "orig_lang_words": ",1509271,",
+    "target_lang_words": ",1306261,1306262,1306263,1306264,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509271,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 1,
+        "word": "ῥυσθῶ",
+        "occurrence": 1,
+        "strong": "G45060",
+        "lemma": "ῥύομαι",
+        "morph": "Gr,V,SAP1,,S,"
+      }
+    ],
+    "origWordsTxt": "ῥυσθῶ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1306261,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 2,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1306262,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 3,
+        "word": "may",
+        "occurrence": 1
+      },
+      {
+        "id": 1306263,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 4,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 1306264,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 5,
+        "word": "rescued",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I may be rescued",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ῥυσθῶ = I may be rescued",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533217",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "1",
+    "orig_lang_words": ",1516766,",
+    "target_lang_words": ",1316843,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516766,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 4,
+        "word": "ἐρρύσατο",
+        "occurrence": 1,
+        "strong": "G45060",
+        "lemma": "ῥύομαι",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρρύσατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1316843,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 1,
+        "word": "rescued",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "rescued",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρρύσατο = rescued",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -437,7 +444,53 @@
     "targetWordsTxt": "has rescued",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐρρύσατο = has rescued",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549588",
+    "book_id": "2ti",
+    "chapter": "3",
+    "verse": "11",
+    "alignment_num": "17",
+    "orig_lang_words": ",1533608,",
+    "target_lang_words": ",1340310,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533608,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 20,
+        "word": "ἐρρύσατο",
+        "occurrence": 1,
+        "strong": "G45060",
+        "lemma": "ῥύομαι",
+        "morph": "Gr,V,IAM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐρρύσατο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340310,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 23,
+        "word": "rescued",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "rescued",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐρρύσατο = rescued",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -502,7 +555,8 @@
     "targetWordsTxt": "who frees",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸν ῥυόμενον = who frees",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -573,51 +627,8 @@
     "targetWordsTxt": "we may be delivered",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ῥυσθῶμεν = we may be delivered",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549588",
-    "book_id": "2ti",
-    "chapter": "3",
-    "verse": "11",
-    "alignment_num": "17",
-    "orig_lang_words": ",1533608,",
-    "target_lang_words": ",1340310,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533608,
-        "book_id": "2ti",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 20,
-        "word": "ἐρρύσατο",
-        "occurrence": 1,
-        "strong": "G45060",
-        "lemma": "ῥύομαι",
-        "morph": "Gr,V,IAM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐρρύσατο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1340310,
-        "book_id": "2ti",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 23,
-        "word": "rescued",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "rescued",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐρρύσατο = rescued",
-    "frequency": 0.13333333333333333,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -679,7 +690,8 @@
     "targetWordsTxt": "I was rescued",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐρύσθην = I was rescued",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -732,7 +744,8 @@
     "targetWordsTxt": "will rescue",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ῥύσεταί = will rescue",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -785,7 +798,8 @@
     "targetWordsTxt": "he rescued",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐρύσατο = he rescued",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -838,7 +852,8 @@
     "targetWordsTxt": "to rescue",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ῥύεσθαι = to rescue",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

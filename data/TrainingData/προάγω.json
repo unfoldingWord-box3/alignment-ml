@@ -66,7 +66,8 @@
     "targetWordsTxt": "go ahead of him",
     "alignmentTargetWords": 4,
     "alignmentTxt": "προάγειν = go ahead of him",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -119,7 +120,92 @@
     "targetWordsTxt": "going ahead",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προάγων = going ahead",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561979",
+    "book_id": "2jn",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "1",
+    "orig_lang_words": ",1546765,1546766,",
+    "target_lang_words": ",1358832,1358833,1358834,1358835,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1546765,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 1,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NMS,"
+      },
+      {
+        "id": 1546766,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 2,
+        "word": "προάγων",
+        "occurrence": 1,
+        "strong": "G42540",
+        "lemma": "προάγω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ προάγων",
+    "alignmentOrigWords": 2,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1358832,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 1,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1358833,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 2,
+        "word": "goes",
+        "occurrence": 1
+      },
+      {
+        "id": 1358834,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 3,
+        "word": "on",
+        "occurrence": 1
+      },
+      {
+        "id": 1358835,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 4,
+        "word": "ahead",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who goes on ahead",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ὁ προάγων = who goes on ahead",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -211,7 +297,71 @@
     "targetWordsTxt": "those who went before him",
     "alignmentTargetWords": 5,
     "alignmentTxt": "οἱ προάγοντες = those who went before him",
-    "frequency": 0.07142857142857142,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482740",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "39",
+    "alignment_num": "2",
+    "orig_lang_words": ",1463685,",
+    "target_lang_words": ",1246177,1246178,1246179,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463685,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "39",
+        "word_num": 2,
+        "word": "προάγοντες",
+        "occurrence": 1,
+        "strong": "G42540",
+        "lemma": "προάγω",
+        "morph": "Gr,V,PPA,NMP,"
+      }
+    ],
+    "origWordsTxt": "προάγοντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1246177,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "39",
+        "word_num": 4,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 1246178,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "39",
+        "word_num": 5,
+        "word": "walking",
+        "occurrence": 1
+      },
+      {
+        "id": 1246179,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "39",
+        "word_num": 6,
+        "word": "ahead",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "were walking ahead",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "προάγοντες = were walking ahead",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -282,7 +432,8 @@
     "targetWordsTxt": "I will go ahead",
     "alignmentTargetWords": 4,
     "alignmentTxt": "προάξω = I will go ahead",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -365,69 +516,8 @@
     "targetWordsTxt": "He is going ahead",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ὅτι προάγει = He is going ahead",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482740",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "39",
-    "alignment_num": "2",
-    "orig_lang_words": ",1463685,",
-    "target_lang_words": ",1246177,1246178,1246179,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463685,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "39",
-        "word_num": 2,
-        "word": "προάγοντες",
-        "occurrence": 1,
-        "strong": "G42540",
-        "lemma": "προάγω",
-        "morph": "Gr,V,PPA,NMP,"
-      }
-    ],
-    "origWordsTxt": "προάγοντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1246177,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "39",
-        "word_num": 4,
-        "word": "were",
-        "occurrence": 1
-      },
-      {
-        "id": 1246178,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "39",
-        "word_num": 5,
-        "word": "walking",
-        "occurrence": 1
-      },
-      {
-        "id": 1246179,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "39",
-        "word_num": 6,
-        "word": "ahead",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "were walking ahead",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "προάγοντες = were walking ahead",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -480,51 +570,8 @@
     "targetWordsTxt": "to bring",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προαγαγεῖν = to bring",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "512331",
-    "book_id": "act",
-    "chapter": "16",
-    "verse": "30",
-    "alignment_num": "1",
-    "orig_lang_words": ",1494853,",
-    "target_lang_words": ",1286366,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494853,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "30",
-        "word_num": 1,
-        "word": "προαγαγὼν",
-        "occurrence": 1,
-        "strong": "G42540",
-        "lemma": "προάγω",
-        "morph": "Gr,V,PAA,NMS,"
-      }
-    ],
-    "origWordsTxt": "προαγαγὼν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1286366,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "30",
-        "word_num": 1,
-        "word": "brought",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "brought",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προαγαγὼν = brought",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -577,7 +624,53 @@
     "targetWordsTxt": "to bring",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προαγαγεῖν = to bring",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512331",
+    "book_id": "act",
+    "chapter": "16",
+    "verse": "30",
+    "alignment_num": "1",
+    "orig_lang_words": ",1494853,",
+    "target_lang_words": ",1286366,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494853,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "30",
+        "word_num": 1,
+        "word": "προαγαγὼν",
+        "occurrence": 1,
+        "strong": "G42540",
+        "lemma": "προάγω",
+        "morph": "Gr,V,PAA,NMS,"
+      }
+    ],
+    "origWordsTxt": "προαγαγὼν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1286366,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "30",
+        "word_num": 1,
+        "word": "brought",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "brought",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προαγαγὼν = brought",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -639,7 +732,8 @@
     "targetWordsTxt": "I have brought",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προήγαγον = I have brought",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -692,7 +786,8 @@
     "targetWordsTxt": "previously made",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προαγούσας = previously made",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -754,7 +849,8 @@
     "targetWordsTxt": "going before them",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προάγουσαι = going before them",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -807,90 +903,8 @@
     "targetWordsTxt": "the former",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προαγούσης = the former",
-    "frequency": 0.07142857142857142,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561979",
-    "book_id": "2jn",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "1",
-    "orig_lang_words": ",1546765,1546766,",
-    "target_lang_words": ",1358832,1358833,1358834,1358835,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1546765,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 1,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,RD,,,,NMS,"
-      },
-      {
-        "id": 1546766,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 2,
-        "word": "προάγων",
-        "occurrence": 1,
-        "strong": "G42540",
-        "lemma": "προάγω",
-        "morph": "Gr,V,PPA,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ προάγων",
-    "alignmentOrigWords": 2,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1358832,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 1,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1358833,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 2,
-        "word": "goes",
-        "occurrence": 1
-      },
-      {
-        "id": 1358834,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 3,
-        "word": "on",
-        "occurrence": 1
-      },
-      {
-        "id": 1358835,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 4,
-        "word": "ahead",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who goes on ahead",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "ὁ προάγων = who goes on ahead",
-    "frequency": 0.07142857142857142,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

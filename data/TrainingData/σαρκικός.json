@@ -60,7 +60,8 @@
     "targetWordsTxt": "material things",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῖς σαρκικοῖς = material things",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -104,7 +105,8 @@
     "targetWordsTxt": "fleshly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σαρκικοί = fleshly",
-    "frequency": 0.2857142857142857,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -148,7 +150,8 @@
     "targetWordsTxt": "fleshly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σαρκικοί = fleshly",
-    "frequency": 0.2857142857142857,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -213,51 +216,8 @@
     "targetWordsTxt": "material things",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὰ σαρκικὰ = material things",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533278",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "12",
-    "alignment_num": "23",
-    "orig_lang_words": ",1516819,",
-    "target_lang_words": ",1316929,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516819,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 22,
-        "word": "σαρκικῇ",
-        "occurrence": 1,
-        "strong": "G45590",
-        "lemma": "σαρκικός",
-        "morph": "Gr,AA,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "σαρκικῇ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1316929,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 27,
-        "word": "fleshly",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "fleshly",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "σαρκικῇ = fleshly",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -301,7 +261,53 @@
     "targetWordsTxt": "fleshly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σαρκικὰ = fleshly",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533278",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "12",
+    "alignment_num": "23",
+    "orig_lang_words": ",1516819,",
+    "target_lang_words": ",1316929,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516819,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 22,
+        "word": "σαρκικῇ",
+        "occurrence": 1,
+        "strong": "G45590",
+        "lemma": "σαρκικός",
+        "morph": "Gr,AA,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "σαρκικῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1316929,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 27,
+        "word": "fleshly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fleshly",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "σαρκικῇ = fleshly",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -345,7 +351,8 @@
     "targetWordsTxt": "fleshly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "σαρκικῶν = fleshly",
-    "frequency": 0.14285714285714285,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

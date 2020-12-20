@@ -39,7 +39,8 @@
     "targetWordsTxt": "servant",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διάκονος = servant",
-    "frequency": 0.14814814814814814,
+    "frequency": 0.36363636363636365,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,95 +84,8 @@
     "targetWordsTxt": "servant",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διάκονος = servant",
-    "frequency": 0.14814814814814814,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488357",
-    "book_id": "jhn",
-    "chapter": "2",
-    "verse": "5",
-    "alignment_num": "4",
-    "orig_lang_words": ",1469419,",
-    "target_lang_words": ",1253796,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1469419,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 5,
-        "word": "διακόνοις",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "διακόνοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1253796,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 5,
-        "word": "servants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "servants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διακόνοις = servants",
-    "frequency": 0.037037037037037035,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488420",
-    "book_id": "jhn",
-    "chapter": "2",
-    "verse": "9",
-    "alignment_num": "18",
-    "orig_lang_words": ",1469485,",
-    "target_lang_words": ",1253885,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1469485,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 16,
-        "word": "διάκονοι",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "διάκονοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1253885,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "9",
-        "word_num": 23,
-        "word": "servants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "servants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διάκονοι = servants",
-    "frequency": 0.14814814814814814,
+    "frequency": 0.36363636363636365,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -227,157 +141,295 @@
     "targetWordsTxt": "servant",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ διάκονος = servant",
-    "frequency": 0.037037037037037035,
+    "frequency": 0.09090909090909091,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "524984",
-    "book_id": "rom",
-    "chapter": "13",
-    "verse": "4",
+    "id": "538035",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "12",
+    "orig_lang_words": ",1521717,",
+    "target_lang_words": ",1323948,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521717,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 13,
+        "word": "διάκονος",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "διάκονος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1323948,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 18,
+        "word": "does",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "does",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διάκονος = does",
+    "frequency": 0.09090909090909091,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540370",
+    "book_id": "eph",
+    "chapter": "3",
+    "verse": "7",
     "alignment_num": "2",
-    "orig_lang_words": ",1508182,",
-    "target_lang_words": ",1304680,1304681,",
+    "orig_lang_words": ",1524115,",
+    "target_lang_words": ",1327358,1327359,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1508182,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "4",
+        "id": 1524115,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "7",
         "word_num": 2,
-        "word": "διάκονός",
+        "word": "διάκονος",
         "occurrence": 1,
         "strong": "G12490",
         "lemma": "διάκονος",
         "morph": "Gr,N,,,,,NMS,"
       }
     ],
-    "origWordsTxt": "διάκονός",
+    "origWordsTxt": "διάκονος",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1304680,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 3,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1304681,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "4",
+        "id": 1327358,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "7",
         "word_num": 4,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1327359,
+        "book_id": "eph",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 5,
         "word": "servant",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "a servant",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "διάκονός = a servant",
-    "frequency": 0.07407407407407407,
+    "alignmentTxt": "διάκονος = a servant",
+    "frequency": 0.2727272727272727,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "525003",
-    "book_id": "rom",
-    "chapter": "13",
-    "verse": "4",
-    "alignment_num": "21",
-    "orig_lang_words": ",1508202,",
-    "target_lang_words": ",1304710,1304711,",
+    "id": "541887",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "21",
+    "alignment_num": "16",
+    "orig_lang_words": ",1525636,",
+    "target_lang_words": ",1329285,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1508202,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 22,
-        "word": "διάκονός",
-        "occurrence": 2,
+        "id": 1525636,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "21",
+        "word_num": 19,
+        "word": "διάκονος",
+        "occurrence": 1,
         "strong": "G12490",
         "lemma": "διάκονος",
         "morph": "Gr,N,,,,,NMS,"
       }
     ],
-    "origWordsTxt": "διάκονός",
+    "origWordsTxt": "διάκονος",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1304710,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 33,
-        "word": "a",
-        "occurrence": 2
-      },
-      {
-        "id": 1304711,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 34,
+        "id": 1329285,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "21",
+        "word_num": 21,
         "word": "servant",
-        "occurrence": 2
+        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "a servant",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διάκονός = a servant",
-    "frequency": 0.07407407407407407,
+    "targetWordsTxt": "servant",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διάκονος = servant",
+    "frequency": 0.36363636363636365,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "525621",
-    "book_id": "rom",
-    "chapter": "15",
-    "verse": "8",
-    "alignment_num": "4",
-    "orig_lang_words": ",1508880,",
-    "target_lang_words": ",1305679,1305680,",
+    "id": "543615",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "7",
+    "alignment_num": "9",
+    "orig_lang_words": ",1527432,",
+    "target_lang_words": ",1331856,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1508880,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "8",
-        "word_num": 3,
-        "word": "διάκονον",
+        "id": 1527432,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 13,
+        "word": "διάκονος",
         "occurrence": 1,
         "strong": "G12490",
         "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,AMS,"
+        "morph": "Gr,N,,,,,NMS,"
       }
     ],
-    "origWordsTxt": "διάκονον",
+    "origWordsTxt": "διάκονος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1331856,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 16,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διάκονος = a",
+    "frequency": 0.18181818181818182,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543890",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "23",
+    "alignment_num": "28",
+    "orig_lang_words": ",1527729,",
+    "target_lang_words": ",1332263,1332264,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527729,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 31,
+        "word": "διάκονος",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "διάκονος",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1305679,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "8",
+        "id": 1332263,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 45,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1332264,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 46,
+        "word": "servant",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a servant",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διάκονος = a servant",
+    "frequency": 0.2727272727272727,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543919",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "25",
+    "alignment_num": "3",
+    "orig_lang_words": ",1527760,",
+    "target_lang_words": ",1332306,1332307,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527760,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "25",
+        "word_num": 3,
+        "word": "διάκονος",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "διάκονος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1332306,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "25",
         "word_num": 8,
         "word": "a",
         "occurrence": 1
       },
       {
-        "id": 1305680,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "8",
+        "id": 1332307,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "25",
         "word_num": 9,
         "word": "servant",
         "occurrence": 1
@@ -385,61 +437,234 @@
     ],
     "targetWordsTxt": "a servant",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "διάκονον = a servant",
-    "frequency": 0.07407407407407407,
+    "alignmentTxt": "διάκονος = a servant",
+    "frequency": 0.2727272727272727,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "526032",
-    "book_id": "rom",
-    "chapter": "16",
-    "verse": "1",
-    "alignment_num": "7",
-    "orig_lang_words": ",1509318,",
-    "target_lang_words": ",1306328,1306329,",
+    "id": "544778",
+    "book_id": "col",
+    "chapter": "4",
+    "verse": "7",
+    "alignment_num": "12",
+    "orig_lang_words": ",1528695,",
+    "target_lang_words": ",1333567,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1509318,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "1",
-        "word_num": 9,
-        "word": "διάκονον",
+        "id": 1528695,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 12,
+        "word": "διάκονος",
         "occurrence": 1,
         "strong": "G12490",
         "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,AFS,"
+        "morph": "Gr,N,,,,,NMS,"
       }
     ],
-    "origWordsTxt": "διάκονον",
+    "origWordsTxt": "διάκονος",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1306328,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "1",
-        "word_num": 10,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1306329,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "1",
-        "word_num": 11,
+        "id": 1333567,
+        "book_id": "col",
+        "chapter": "4",
+        "verse": "7",
+        "word_num": 22,
         "word": "servant",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "a servant",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διάκονον = a servant",
-    "frequency": 0.07407407407407407,
+    "targetWordsTxt": "servant",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διάκονος = servant",
+    "frequency": 0.36363636363636365,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547929",
+    "book_id": "1ti",
+    "chapter": "4",
+    "verse": "6",
+    "alignment_num": "6",
+    "orig_lang_words": ",1531960,",
+    "target_lang_words": ",1337976,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531960,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 6,
+        "word": "διάκονος",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "διάκονος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337976,
+        "book_id": "1ti",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 10,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διάκονος = a",
+    "frequency": 0.18181818181818182,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488357",
+    "book_id": "jhn",
+    "chapter": "2",
+    "verse": "5",
+    "alignment_num": "4",
+    "orig_lang_words": ",1469419,",
+    "target_lang_words": ",1253796,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469419,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 5,
+        "word": "διακόνοις",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "διακόνοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1253796,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 5,
+        "word": "servants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "servants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διακόνοις = servants",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541953",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "1",
+    "alignment_num": "18",
+    "orig_lang_words": ",1525702,",
+    "target_lang_words": ",1329373,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525702,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 19,
+        "word": "διακόνοις",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "διακόνοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329373,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "1",
+        "word_num": 23,
+        "word": "deacons",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "deacons",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διακόνοις = deacons",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488420",
+    "book_id": "jhn",
+    "chapter": "2",
+    "verse": "9",
+    "alignment_num": "18",
+    "orig_lang_words": ",1469485,",
+    "target_lang_words": ",1253885,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469485,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 16,
+        "word": "διάκονοι",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "διάκονοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1253885,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "9",
+        "word_num": 23,
+        "word": "servants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "servants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διάκονοι = servants",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -483,60 +708,8 @@
     "targetWordsTxt": "Servants",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διάκονοι = Servants",
-    "frequency": 0.037037037037037035,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533870",
-    "book_id": "2co",
-    "chapter": "3",
-    "verse": "6",
-    "alignment_num": "5",
-    "orig_lang_words": ",1517426,",
-    "target_lang_words": ",1317759,1317760,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1517426,
-        "book_id": "2co",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 4,
-        "word": "διακόνους",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "διακόνους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1317759,
-        "book_id": "2co",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 5,
-        "word": "as",
-        "occurrence": 1
-      },
-      {
-        "id": 1317760,
-        "book_id": "2co",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 6,
-        "word": "ministers",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "as ministers",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διακόνους = as ministers",
-    "frequency": 0.037037037037037035,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -580,7 +753,8 @@
     "targetWordsTxt": "servants",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διάκονοι = servants",
-    "frequency": 0.14814814814814814,
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -636,7 +810,8 @@
     "targetWordsTxt": "servants",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οἱ διάκονοι = servants",
-    "frequency": 0.037037037037037035,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -680,7 +855,8 @@
     "targetWordsTxt": "servants",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διάκονοι = servants",
-    "frequency": 0.14814814814814814,
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -724,474 +900,8 @@
     "targetWordsTxt": "servants",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διάκονοι = servants",
-    "frequency": 0.14814814814814814,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538035",
-    "book_id": "gal",
-    "chapter": "2",
-    "verse": "17",
-    "alignment_num": "12",
-    "orig_lang_words": ",1521717,",
-    "target_lang_words": ",1323948,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1521717,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 13,
-        "word": "διάκονος",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "διάκονος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1323948,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 18,
-        "word": "does",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "does",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διάκονος = does",
-    "frequency": 0.037037037037037035,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540370",
-    "book_id": "eph",
-    "chapter": "3",
-    "verse": "7",
-    "alignment_num": "2",
-    "orig_lang_words": ",1524115,",
-    "target_lang_words": ",1327358,1327359,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1524115,
-        "book_id": "eph",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 2,
-        "word": "διάκονος",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "διάκονος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1327358,
-        "book_id": "eph",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 4,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1327359,
-        "book_id": "eph",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 5,
-        "word": "servant",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a servant",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διάκονος = a servant",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541887",
-    "book_id": "eph",
-    "chapter": "6",
-    "verse": "21",
-    "alignment_num": "16",
-    "orig_lang_words": ",1525636,",
-    "target_lang_words": ",1329285,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525636,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "21",
-        "word_num": 19,
-        "word": "διάκονος",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "διάκονος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1329285,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "21",
-        "word_num": 21,
-        "word": "servant",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "servant",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διάκονος = servant",
-    "frequency": 0.14814814814814814,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541953",
-    "book_id": "php",
-    "chapter": "1",
-    "verse": "1",
-    "alignment_num": "18",
-    "orig_lang_words": ",1525702,",
-    "target_lang_words": ",1329373,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525702,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 19,
-        "word": "διακόνοις",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "διακόνοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1329373,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "1",
-        "word_num": 23,
-        "word": "deacons",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "deacons",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διακόνοις = deacons",
-    "frequency": 0.037037037037037035,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543615",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "7",
-    "alignment_num": "9",
-    "orig_lang_words": ",1527432,",
-    "target_lang_words": ",1331856,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1527432,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "7",
-        "word_num": 13,
-        "word": "διάκονος",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "διάκονος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1331856,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "7",
-        "word_num": 16,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διάκονος = a",
-    "frequency": 0.07407407407407407,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543890",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "23",
-    "alignment_num": "28",
-    "orig_lang_words": ",1527729,",
-    "target_lang_words": ",1332263,1332264,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1527729,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "23",
-        "word_num": 31,
-        "word": "διάκονος",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "διάκονος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1332263,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "23",
-        "word_num": 45,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1332264,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "23",
-        "word_num": 46,
-        "word": "servant",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a servant",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διάκονος = a servant",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543919",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "25",
-    "alignment_num": "3",
-    "orig_lang_words": ",1527760,",
-    "target_lang_words": ",1332306,1332307,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1527760,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "25",
-        "word_num": 3,
-        "word": "διάκονος",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "διάκονος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1332306,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "25",
-        "word_num": 8,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1332307,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "25",
-        "word_num": 9,
-        "word": "servant",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a servant",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διάκονος = a servant",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544778",
-    "book_id": "col",
-    "chapter": "4",
-    "verse": "7",
-    "alignment_num": "12",
-    "orig_lang_words": ",1528695,",
-    "target_lang_words": ",1333567,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528695,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "7",
-        "word_num": 12,
-        "word": "διάκονος",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "διάκονος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1333567,
-        "book_id": "col",
-        "chapter": "4",
-        "verse": "7",
-        "word_num": 22,
-        "word": "servant",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "servant",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διάκονος = servant",
-    "frequency": 0.14814814814814814,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545540",
-    "book_id": "1th",
-    "chapter": "3",
-    "verse": "2",
-    "alignment_num": "7",
-    "orig_lang_words": ",1529508,",
-    "target_lang_words": ",1334610,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529508,
-        "book_id": "1th",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 7,
-        "word": "διάκονον",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "διάκονον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1334610,
-        "book_id": "1th",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 9,
-        "word": "servant",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "servant",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διάκονον = servant",
-    "frequency": 0.037037037037037035,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547733",
-    "book_id": "1ti",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "0",
-    "orig_lang_words": ",1531770,",
-    "target_lang_words": ",1337700,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531770,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 0,
-        "word": "διακόνους",
-        "occurrence": 1,
-        "strong": "G12490",
-        "lemma": "διάκονος",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "διακόνους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337700,
-        "book_id": "1ti",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 0,
-        "word": "Deacons",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Deacons",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διακόνους = Deacons",
-    "frequency": 0.037037037037037035,
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1235,51 +945,368 @@
     "targetWordsTxt": "Deacons",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διάκονοι = Deacons",
-    "frequency": 0.037037037037037035,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "547929",
-    "book_id": "1ti",
-    "chapter": "4",
-    "verse": "6",
-    "alignment_num": "6",
-    "orig_lang_words": ",1531960,",
-    "target_lang_words": ",1337976,",
+    "id": "524984",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "4",
+    "alignment_num": "2",
+    "orig_lang_words": ",1508182,",
+    "target_lang_words": ",1304680,1304681,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1531960,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "6",
-        "word_num": 6,
-        "word": "διάκονος",
+        "id": 1508182,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 2,
+        "word": "διάκονός",
         "occurrence": 1,
         "strong": "G12490",
         "lemma": "διάκονος",
         "morph": "Gr,N,,,,,NMS,"
       }
     ],
-    "origWordsTxt": "διάκονος",
+    "origWordsTxt": "διάκονός",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1304680,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 3,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1304681,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 4,
+        "word": "servant",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a servant",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διάκονός = a servant",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525003",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "4",
+    "alignment_num": "21",
+    "orig_lang_words": ",1508202,",
+    "target_lang_words": ",1304710,1304711,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508202,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 22,
+        "word": "διάκονός",
+        "occurrence": 2,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "διάκονός",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1304710,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 33,
+        "word": "a",
+        "occurrence": 2
+      },
+      {
+        "id": 1304711,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 34,
+        "word": "servant",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "a servant",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διάκονός = a servant",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525621",
+    "book_id": "rom",
+    "chapter": "15",
+    "verse": "8",
+    "alignment_num": "4",
+    "orig_lang_words": ",1508880,",
+    "target_lang_words": ",1305679,1305680,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508880,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 3,
+        "word": "διάκονον",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "διάκονον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1305679,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 8,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1305680,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 9,
+        "word": "servant",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a servant",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διάκονον = a servant",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526032",
+    "book_id": "rom",
+    "chapter": "16",
+    "verse": "1",
+    "alignment_num": "7",
+    "orig_lang_words": ",1509318,",
+    "target_lang_words": ",1306328,1306329,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509318,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "1",
+        "word_num": 9,
+        "word": "διάκονον",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "διάκονον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1306328,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "1",
+        "word_num": 10,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1306329,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "1",
+        "word_num": 11,
+        "word": "servant",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a servant",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διάκονον = a servant",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545540",
+    "book_id": "1th",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "7",
+    "orig_lang_words": ",1529508,",
+    "target_lang_words": ",1334610,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529508,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 7,
+        "word": "διάκονον",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "διάκονον",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1337976,
-        "book_id": "1ti",
-        "chapter": "4",
-        "verse": "6",
-        "word_num": 10,
-        "word": "a",
+        "id": 1334610,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 9,
+        "word": "servant",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "a",
+    "targetWordsTxt": "servant",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "διάκονος = a",
-    "frequency": 0.07407407407407407,
+    "alignmentTxt": "διάκονον = servant",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533870",
+    "book_id": "2co",
+    "chapter": "3",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1517426,",
+    "target_lang_words": ",1317759,1317760,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1517426,
+        "book_id": "2co",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 4,
+        "word": "διακόνους",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "διακόνους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1317759,
+        "book_id": "2co",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 5,
+        "word": "as",
+        "occurrence": 1
+      },
+      {
+        "id": 1317760,
+        "book_id": "2co",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 6,
+        "word": "ministers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "as ministers",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διακόνους = as ministers",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547733",
+    "book_id": "1ti",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "0",
+    "orig_lang_words": ",1531770,",
+    "target_lang_words": ",1337700,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531770,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 0,
+        "word": "διακόνους",
+        "occurrence": 1,
+        "strong": "G12490",
+        "lemma": "διάκονος",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "διακόνους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337700,
+        "book_id": "1ti",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 0,
+        "word": "Deacons",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Deacons",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διακόνους = Deacons",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

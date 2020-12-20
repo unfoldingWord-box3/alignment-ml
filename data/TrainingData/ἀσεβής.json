@@ -39,7 +39,8 @@
     "targetWordsTxt": "ungodly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀσεβῆ = ungodly",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,113 +93,8 @@
     "targetWordsTxt": "the ungodly",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀσεβῶν = the ungodly",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547270",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "12",
-    "orig_lang_words": ",1531310,",
-    "target_lang_words": ",1337038,1337039,1337040,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531310,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 11,
-        "word": "ἀσεβέσι",
-        "occurrence": 1,
-        "strong": "G07650",
-        "lemma": "ἀσεβής",
-        "morph": "Gr,NS,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "ἀσεβέσι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1337038,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 18,
-        "word": "for",
-        "occurrence": 3
-      },
-      {
-        "id": 1337039,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 19,
-        "word": "ungodly",
-        "occurrence": 1
-      },
-      {
-        "id": 1337040,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 20,
-        "word": "people",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "for ungodly people",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀσεβέσι = for ungodly people",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558689",
-    "book_id": "1pe",
-    "chapter": "4",
-    "verse": "18",
-    "alignment_num": "8",
-    "orig_lang_words": ",1543148,",
-    "target_lang_words": ",1354044,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543148,
-        "book_id": "1pe",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 7,
-        "word": "ἀσεβὴς",
-        "occurrence": 1,
-        "strong": "G07650",
-        "lemma": "ἀσεβής",
-        "morph": "Gr,NS,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀσεβὴς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1354044,
-        "book_id": "1pe",
-        "chapter": "4",
-        "verse": "18",
-        "word_num": 16,
-        "word": "ungodly",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "ungodly",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀσεβὴς = ungodly",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -260,7 +156,161 @@
     "targetWordsTxt": "of the ungodly",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀσεβῶν = of the ungodly",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559703",
+    "book_id": "2pe",
+    "chapter": "3",
+    "verse": "7",
+    "alignment_num": "18",
+    "orig_lang_words": ",1544256,",
+    "target_lang_words": ",1355688,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1544256,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 20,
+        "word": "ἀσεβῶν",
+        "occurrence": 1,
+        "strong": "G07650",
+        "lemma": "ἀσεβής",
+        "morph": "Gr,AA,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀσεβῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355688,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "7",
+        "word_num": 28,
+        "word": "ungodly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "ungodly",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀσεβῶν = ungodly",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547270",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "12",
+    "orig_lang_words": ",1531310,",
+    "target_lang_words": ",1337038,1337039,1337040,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531310,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 11,
+        "word": "ἀσεβέσι",
+        "occurrence": 1,
+        "strong": "G07650",
+        "lemma": "ἀσεβής",
+        "morph": "Gr,NS,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "ἀσεβέσι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1337038,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 18,
+        "word": "for",
+        "occurrence": 3
+      },
+      {
+        "id": 1337039,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 19,
+        "word": "ungodly",
+        "occurrence": 1
+      },
+      {
+        "id": 1337040,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 20,
+        "word": "people",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "for ungodly people",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀσεβέσι = for ungodly people",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558689",
+    "book_id": "1pe",
+    "chapter": "4",
+    "verse": "18",
+    "alignment_num": "8",
+    "orig_lang_words": ",1543148,",
+    "target_lang_words": ",1354044,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543148,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 7,
+        "word": "ἀσεβὴς",
+        "occurrence": 1,
+        "strong": "G07650",
+        "lemma": "ἀσεβής",
+        "morph": "Gr,NS,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀσεβὴς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1354044,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "18",
+        "word_num": 16,
+        "word": "ungodly",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "ungodly",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀσεβὴς = ungodly",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -322,51 +372,8 @@
     "targetWordsTxt": "to the ungodly",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀσεβέσιν = to the ungodly",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559703",
-    "book_id": "2pe",
-    "chapter": "3",
-    "verse": "7",
-    "alignment_num": "18",
-    "orig_lang_words": ",1544256,",
-    "target_lang_words": ",1355688,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1544256,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 20,
-        "word": "ἀσεβῶν",
-        "occurrence": 1,
-        "strong": "G07650",
-        "lemma": "ἀσεβής",
-        "morph": "Gr,AA,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "ἀσεβῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355688,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "7",
-        "word_num": 28,
-        "word": "ungodly",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "ungodly",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀσεβῶν = ungodly",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -419,7 +426,8 @@
     "targetWordsTxt": "ungodly men",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀσεβεῖς = ungodly men",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -463,7 +471,8 @@
     "targetWordsTxt": "ungodly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀσεβεῖς = ungodly",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

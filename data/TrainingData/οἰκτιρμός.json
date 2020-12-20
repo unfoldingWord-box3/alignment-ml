@@ -39,7 +39,8 @@
     "targetWordsTxt": "mercies",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οἰκτιρμῶν = mercies",
-    "frequency": 0.4,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,53 @@
     "targetWordsTxt": "mercies",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οἰκτιρμῶν = mercies",
-    "frequency": 0.4,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554109",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "28",
+    "alignment_num": "6",
+    "orig_lang_words": ",1538310,",
+    "target_lang_words": ",1347022,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538310,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "28",
+        "word_num": 5,
+        "word": "οἰκτιρμῶν",
+        "occurrence": 1,
+        "strong": "G36280",
+        "lemma": "οἰκτιρμός",
+        "morph": "Gr,N,,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "οἰκτιρμῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1347022,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "28",
+        "word_num": 10,
+        "word": "mercy",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "mercy",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οἰκτιρμῶν = mercy",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,7 +174,8 @@
     "targetWordsTxt": "compassions",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οἰκτιρμοί = compassions",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -180,51 +228,8 @@
     "targetWordsTxt": "of mercy",
     "alignmentTargetWords": 2,
     "alignmentTxt": "οἰκτιρμοῦ = of mercy",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554109",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "28",
-    "alignment_num": "6",
-    "orig_lang_words": ",1538310,",
-    "target_lang_words": ",1347022,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538310,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "28",
-        "word_num": 5,
-        "word": "οἰκτιρμῶν",
-        "occurrence": 1,
-        "strong": "G36280",
-        "lemma": "οἰκτιρμός",
-        "morph": "Gr,N,,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "οἰκτιρμῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1347022,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "28",
-        "word_num": 10,
-        "word": "mercy",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "mercy",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "οἰκτιρμῶν = mercy",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

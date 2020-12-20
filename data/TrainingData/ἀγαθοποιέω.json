@@ -57,7 +57,8 @@
     "targetWordsTxt": "to do good",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀγαθοποιῆσαι = to do good",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -119,7 +120,8 @@
     "targetWordsTxt": "to do good",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀγαθοποιῆσαι = to do good",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -181,7 +183,8 @@
     "targetWordsTxt": "you do good",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀγαθοποιῆτε = you do good",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -234,78 +237,8 @@
     "targetWordsTxt": "do good",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀγαθοποιοῦντας = do good",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473031",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "35",
-    "alignment_num": "5",
-    "orig_lang_words": ",1453821,",
-    "target_lang_words": ",1232902,1232903,1232904,1232905,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1453821,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "35",
-        "word_num": 6,
-        "word": "ἀγαθοποιεῖτε",
-        "occurrence": 1,
-        "strong": "G00150",
-        "lemma": "ἀγαθοποιέω",
-        "morph": "Gr,V,MPA2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθοποιεῖτε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1232902,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "35",
-        "word_num": 5,
-        "word": "do",
-        "occurrence": 1
-      },
-      {
-        "id": 1232903,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "35",
-        "word_num": 6,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1232904,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "35",
-        "word_num": 7,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1232905,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "35",
-        "word_num": 8,
-        "word": "them",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "do good to them",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "ἀγαθοποιεῖτε = do good to them",
-    "frequency": 0.1,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -376,7 +309,143 @@
     "targetWordsTxt": "that in doing good",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἀγαθοποιοῦντας = that in doing good",
-    "frequency": 0.1,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558361",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "17",
+    "alignment_num": "6",
+    "orig_lang_words": ",1542766,",
+    "target_lang_words": ",1353443,1353444,1353445,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542766,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 2,
+        "word": "ἀγαθοποιοῦντας",
+        "occurrence": 1,
+        "strong": "G00150",
+        "lemma": "ἀγαθοποιέω",
+        "morph": "Gr,V,PPA,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθοποιοῦντας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1353443,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 10,
+        "word": "for",
+        "occurrence": 1
+      },
+      {
+        "id": 1353444,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 11,
+        "word": "doing",
+        "occurrence": 1
+      },
+      {
+        "id": 1353445,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 12,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "for doing good",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀγαθοποιοῦντας = for doing good",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473031",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "35",
+    "alignment_num": "5",
+    "orig_lang_words": ",1453821,",
+    "target_lang_words": ",1232902,1232903,1232904,1232905,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1453821,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "35",
+        "word_num": 6,
+        "word": "ἀγαθοποιεῖτε",
+        "occurrence": 1,
+        "strong": "G00150",
+        "lemma": "ἀγαθοποιέω",
+        "morph": "Gr,V,MPA2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθοποιεῖτε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1232902,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "35",
+        "word_num": 5,
+        "word": "do",
+        "occurrence": 1
+      },
+      {
+        "id": 1232903,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "35",
+        "word_num": 6,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1232904,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "35",
+        "word_num": 7,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1232905,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "35",
+        "word_num": 8,
+        "word": "them",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "do good to them",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἀγαθοποιεῖτε = do good to them",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -447,7 +516,8 @@
     "targetWordsTxt": "you have done good",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἀγαθοποιοῦντες = you have done good",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -536,69 +606,8 @@
     "targetWordsTxt": "if you do what is good",
     "alignmentTargetWords": 6,
     "alignmentTxt": "ἀγαθοποιοῦσαι = if you do what is good",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558361",
-    "book_id": "1pe",
-    "chapter": "3",
-    "verse": "17",
-    "alignment_num": "6",
-    "orig_lang_words": ",1542766,",
-    "target_lang_words": ",1353443,1353444,1353445,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542766,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 2,
-        "word": "ἀγαθοποιοῦντας",
-        "occurrence": 1,
-        "strong": "G00150",
-        "lemma": "ἀγαθοποιέω",
-        "morph": "Gr,V,PPA,AMP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθοποιοῦντας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1353443,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 10,
-        "word": "for",
-        "occurrence": 1
-      },
-      {
-        "id": 1353444,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 11,
-        "word": "doing",
-        "occurrence": 1
-      },
-      {
-        "id": 1353445,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 12,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "for doing good",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀγαθοποιοῦντας = for doing good",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -660,7 +669,8 @@
     "targetWordsTxt": "who does good",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀγαθοποιῶν = who does good",
-    "frequency": 0.1,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

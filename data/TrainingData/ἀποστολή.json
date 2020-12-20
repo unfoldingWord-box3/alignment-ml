@@ -39,51 +39,8 @@
     "targetWordsTxt": "apostleship",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποστολῆς = apostleship",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "519954",
-    "book_id": "rom",
-    "chapter": "1",
-    "verse": "5",
-    "alignment_num": "5",
-    "orig_lang_words": ",1502681,",
-    "target_lang_words": ",1296895,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502681,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 5,
-        "word": "ἀποστολὴν",
-        "occurrence": 1,
-        "strong": "G06510",
-        "lemma": "ἀποστολή",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἀποστολὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1296895,
-        "book_id": "rom",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 7,
-        "word": "apostleship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "apostleship",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποστολὴν = apostleship",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -139,7 +96,53 @@
     "targetWordsTxt": "apostleship",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ἀποστολῆς = apostleship",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519954",
+    "book_id": "rom",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "5",
+    "orig_lang_words": ",1502681,",
+    "target_lang_words": ",1296895,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502681,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 5,
+        "word": "ἀποστολὴν",
+        "occurrence": 1,
+        "strong": "G06510",
+        "lemma": "ἀποστολή",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀποστολὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1296895,
+        "book_id": "rom",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 7,
+        "word": "apostleship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "apostleship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποστολὴν = apostleship",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -192,7 +195,8 @@
     "targetWordsTxt": "the apostleship",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποστολὴν = the apostleship",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

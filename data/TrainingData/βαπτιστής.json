@@ -39,7 +39,8 @@
     "targetWordsTxt": "Baptist",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Βαπτιστοῦ = Baptist",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,95 +84,8 @@
     "targetWordsTxt": "Baptist",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Βαπτιστήν = Baptist",
-    "frequency": 0.4,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473706",
-    "book_id": "luk",
-    "chapter": "7",
-    "verse": "20",
-    "alignment_num": "9",
-    "orig_lang_words": ",1454496,",
-    "target_lang_words": ",1233836,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454496,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "20",
-        "word_num": 9,
-        "word": "Βαπτιστὴς",
-        "occurrence": 1,
-        "strong": "G09100",
-        "lemma": "βαπτιστής",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "Βαπτιστὴς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1233836,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "20",
-        "word_num": 12,
-        "word": "Baptist",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Baptist",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Βαπτιστὴς = Baptist",
-    "frequency": 0.4,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473933",
-    "book_id": "luk",
-    "chapter": "7",
-    "verse": "33",
-    "alignment_num": "3",
-    "orig_lang_words": ",1454723,",
-    "target_lang_words": ",1234182,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454723,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "33",
-        "word_num": 4,
-        "word": "Βαπτιστὴς",
-        "occurrence": 1,
-        "strong": "G09100",
-        "lemma": "βαπτιστής",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "Βαπτιστὴς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1234182,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "33",
-        "word_num": 3,
-        "word": "Baptist",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Baptist",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Βαπτιστὴς = Baptist",
-    "frequency": 0.4,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -215,7 +129,98 @@
     "targetWordsTxt": "Baptist",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Βαπτιστήν = Baptist",
-    "frequency": 0.4,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473706",
+    "book_id": "luk",
+    "chapter": "7",
+    "verse": "20",
+    "alignment_num": "9",
+    "orig_lang_words": ",1454496,",
+    "target_lang_words": ",1233836,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1454496,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "20",
+        "word_num": 9,
+        "word": "Βαπτιστὴς",
+        "occurrence": 1,
+        "strong": "G09100",
+        "lemma": "βαπτιστής",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "Βαπτιστὴς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1233836,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "20",
+        "word_num": 12,
+        "word": "Baptist",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Baptist",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Βαπτιστὴς = Baptist",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473933",
+    "book_id": "luk",
+    "chapter": "7",
+    "verse": "33",
+    "alignment_num": "3",
+    "orig_lang_words": ",1454723,",
+    "target_lang_words": ",1234182,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1454723,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "33",
+        "word_num": 4,
+        "word": "Βαπτιστὴς",
+        "occurrence": 1,
+        "strong": "G09100",
+        "lemma": "βαπτιστής",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "Βαπτιστὴς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1234182,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "33",
+        "word_num": 3,
+        "word": "Baptist",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Baptist",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Βαπτιστὴς = Baptist",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

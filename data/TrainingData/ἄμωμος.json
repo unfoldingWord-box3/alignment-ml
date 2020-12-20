@@ -39,104 +39,8 @@
     "targetWordsTxt": "blameless",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀμώμους = blameless",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541457",
-    "book_id": "eph",
-    "chapter": "5",
-    "verse": "27",
-    "alignment_num": "22",
-    "orig_lang_words": ",1525189,",
-    "target_lang_words": ",1328738,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525189,
-        "book_id": "eph",
-        "chapter": "5",
-        "verse": "27",
-        "word_num": 21,
-        "word": "ἄμωμος",
-        "occurrence": 1,
-        "strong": "G02990",
-        "lemma": "ἄμωμος",
-        "morph": "Gr,NS,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἄμωμος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1328738,
-        "book_id": "eph",
-        "chapter": "5",
-        "verse": "27",
-        "word_num": 29,
-        "word": "blameless",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blameless",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἄμωμος = blameless",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542598",
-    "book_id": "php",
-    "chapter": "2",
-    "verse": "15",
-    "alignment_num": "7",
-    "orig_lang_words": ",1526385,",
-    "target_lang_words": ",1330309,1330310,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1526385,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 7,
-        "word": "ἄμωμα",
-        "occurrence": 1,
-        "strong": "G02990",
-        "lemma": "ἄμωμος",
-        "morph": "Gr,NS,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "ἄμωμα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1330309,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 11,
-        "word": "without",
-        "occurrence": 1
-      },
-      {
-        "id": 1330310,
-        "book_id": "php",
-        "chapter": "2",
-        "verse": "15",
-        "word_num": 12,
-        "word": "blemish",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "without blemish",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἄμωμα = without blemish",
-    "frequency": 0.125,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -180,113 +84,8 @@
     "targetWordsTxt": "blameless",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀμώμους = blameless",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553494",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "14",
-    "alignment_num": "13",
-    "orig_lang_words": ",1537666,",
-    "target_lang_words": ",1346050,1346051,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537666,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 12,
-        "word": "ἄμωμον",
-        "occurrence": 1,
-        "strong": "G02990",
-        "lemma": "ἄμωμος",
-        "morph": "Gr,NS,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "ἄμωμον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1346050,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 15,
-        "word": "without",
-        "occurrence": 1
-      },
-      {
-        "id": 1346051,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "14",
-        "word_num": 16,
-        "word": "blemish",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "without blemish",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἄμωμον = without blemish",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557630",
-    "book_id": "1pe",
-    "chapter": "1",
-    "verse": "19",
-    "alignment_num": "6",
-    "orig_lang_words": ",1541997,",
-    "target_lang_words": ",1352304,1352305,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541997,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 5,
-        "word": "ἀμώμου",
-        "occurrence": 1,
-        "strong": "G02990",
-        "lemma": "ἄμωμος",
-        "morph": "Gr,AA,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "ἀμώμου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1352304,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 16,
-        "word": "without",
-        "occurrence": 1
-      },
-      {
-        "id": 1352305,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 17,
-        "word": "blemish",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "without blemish",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀμώμου = without blemish",
-    "frequency": 0.125,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -339,7 +138,215 @@
     "targetWordsTxt": "without blemish",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀμώμους = without blemish",
-    "frequency": 0.125,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541457",
+    "book_id": "eph",
+    "chapter": "5",
+    "verse": "27",
+    "alignment_num": "22",
+    "orig_lang_words": ",1525189,",
+    "target_lang_words": ",1328738,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525189,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "27",
+        "word_num": 21,
+        "word": "ἄμωμος",
+        "occurrence": 1,
+        "strong": "G02990",
+        "lemma": "ἄμωμος",
+        "morph": "Gr,NS,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἄμωμος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1328738,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "27",
+        "word_num": 29,
+        "word": "blameless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blameless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἄμωμος = blameless",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542598",
+    "book_id": "php",
+    "chapter": "2",
+    "verse": "15",
+    "alignment_num": "7",
+    "orig_lang_words": ",1526385,",
+    "target_lang_words": ",1330309,1330310,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1526385,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 7,
+        "word": "ἄμωμα",
+        "occurrence": 1,
+        "strong": "G02990",
+        "lemma": "ἄμωμος",
+        "morph": "Gr,NS,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "ἄμωμα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1330309,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 11,
+        "word": "without",
+        "occurrence": 1
+      },
+      {
+        "id": 1330310,
+        "book_id": "php",
+        "chapter": "2",
+        "verse": "15",
+        "word_num": 12,
+        "word": "blemish",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "without blemish",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἄμωμα = without blemish",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553494",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "14",
+    "alignment_num": "13",
+    "orig_lang_words": ",1537666,",
+    "target_lang_words": ",1346050,1346051,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537666,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 12,
+        "word": "ἄμωμον",
+        "occurrence": 1,
+        "strong": "G02990",
+        "lemma": "ἄμωμος",
+        "morph": "Gr,NS,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ἄμωμον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1346050,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 15,
+        "word": "without",
+        "occurrence": 1
+      },
+      {
+        "id": 1346051,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "14",
+        "word_num": 16,
+        "word": "blemish",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "without blemish",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἄμωμον = without blemish",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557630",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "19",
+    "alignment_num": "6",
+    "orig_lang_words": ",1541997,",
+    "target_lang_words": ",1352304,1352305,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541997,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 5,
+        "word": "ἀμώμου",
+        "occurrence": 1,
+        "strong": "G02990",
+        "lemma": "ἄμωμος",
+        "morph": "Gr,AA,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ἀμώμου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1352304,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 16,
+        "word": "without",
+        "occurrence": 1
+      },
+      {
+        "id": 1352305,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 17,
+        "word": "blemish",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "without blemish",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀμώμου = without blemish",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -383,7 +390,8 @@
     "targetWordsTxt": "blameless",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἄμωμοί = blameless",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

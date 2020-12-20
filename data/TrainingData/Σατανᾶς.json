@@ -51,207 +51,8 @@
     "targetWordsTxt": "Satan",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ Σατανᾶ = Satan",
-    "frequency": 0.09375,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "459555",
-    "book_id": "mrk",
-    "chapter": "3",
-    "verse": "23",
-    "alignment_num": "10",
-    "orig_lang_words": ",1439352,",
-    "target_lang_words": ",1213815,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1439352,
-        "book_id": "mrk",
-        "chapter": "3",
-        "verse": "23",
-        "word_num": 9,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "Σατανᾶς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1213815,
-        "book_id": "mrk",
-        "chapter": "3",
-        "verse": "23",
-        "word_num": 14,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σατανᾶς = Satan",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "459557",
-    "book_id": "mrk",
-    "chapter": "3",
-    "verse": "23",
-    "alignment_num": "12",
-    "orig_lang_words": ",1439353,",
-    "target_lang_words": ",1213818,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1439353,
-        "book_id": "mrk",
-        "chapter": "3",
-        "verse": "23",
-        "word_num": 10,
-        "word": "Σατανᾶν",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "Σατανᾶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1213818,
-        "book_id": "mrk",
-        "chapter": "3",
-        "verse": "23",
-        "word_num": 17,
-        "word": "Satan",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σατανᾶν = Satan",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "459580",
-    "book_id": "mrk",
-    "chapter": "3",
-    "verse": "26",
-    "alignment_num": "2",
-    "orig_lang_words": ",1439381,1439382,",
-    "target_lang_words": ",1213847,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1439381,
-        "book_id": "mrk",
-        "chapter": "3",
-        "verse": "26",
-        "word_num": 2,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1439382,
-        "book_id": "mrk",
-        "chapter": "3",
-        "verse": "26",
-        "word_num": 3,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1213847,
-        "book_id": "mrk",
-        "chapter": "3",
-        "verse": "26",
-        "word_num": 2,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "459943",
-    "book_id": "mrk",
-    "chapter": "4",
-    "verse": "15",
-    "alignment_num": "13",
-    "orig_lang_words": ",1439783,1439784,",
-    "target_lang_words": ",1214337,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1439783,
-        "book_id": "mrk",
-        "chapter": "4",
-        "verse": "15",
-        "word_num": 16,
-        "word": "ὁ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1439784,
-        "book_id": "mrk",
-        "chapter": "4",
-        "verse": "15",
-        "word_num": 17,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1214337,
-        "book_id": "mrk",
-        "chapter": "4",
-        "verse": "15",
-        "word_num": 17,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
+    "frequency": 0.2727272727272727,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,387 +96,8 @@
     "targetWordsTxt": "Satan",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Σατανᾶ = Satan",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "476739",
-    "book_id": "luk",
-    "chapter": "10",
-    "verse": "18",
-    "alignment_num": "3",
-    "orig_lang_words": ",1457572,1457573,",
-    "target_lang_words": ",1237913,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1457572,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 4,
-        "word": "τὸν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AMS,"
-      },
-      {
-        "id": 1457573,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 5,
-        "word": "Σατανᾶν",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "τὸν Σατανᾶν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1237913,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "18",
-        "word_num": 7,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸν Σατανᾶν = Satan",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "477488",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "18",
-    "alignment_num": "2",
-    "orig_lang_words": ",1458350,1458351,",
-    "target_lang_words": ",1238944,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1458350,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "18",
-        "word_num": 3,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1458351,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "18",
-        "word_num": 4,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1238944,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "18",
-        "word_num": 2,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "479460",
-    "book_id": "luk",
-    "chapter": "13",
-    "verse": "16",
-    "alignment_num": "7",
-    "orig_lang_words": ",1460362,1460363,",
-    "target_lang_words": ",1241643,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1460362,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "16",
-        "word_num": 7,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1460363,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "16",
-        "word_num": 8,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1241643,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "16",
-        "word_num": 10,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "484857",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "3",
-    "alignment_num": "1",
-    "orig_lang_words": ",1465814,",
-    "target_lang_words": ",1249131,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1465814,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "3",
-        "word_num": 2,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "Σατανᾶς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1249131,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "3",
-        "word_num": 1,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σατανᾶς = Satan",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485266",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "31",
-    "alignment_num": "3",
-    "orig_lang_words": ",1466231,1466232,",
-    "target_lang_words": ",1249714,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1466231,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "31",
-        "word_num": 3,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1466232,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "31",
-        "word_num": 4,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1249714,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "31",
-        "word_num": 3,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "497122",
-    "book_id": "jhn",
-    "chapter": "13",
-    "verse": "27",
-    "alignment_num": "5",
-    "orig_lang_words": ",1479038,1479039,",
-    "target_lang_words": ",1265743,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1479038,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "27",
-        "word_num": 8,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1479039,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "27",
-        "word_num": 9,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1265743,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "27",
-        "word_num": 5,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504411",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "3",
-    "alignment_num": "6",
-    "orig_lang_words": ",1486722,1486723,",
-    "target_lang_words": ",1275670,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1486722,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "3",
-        "word_num": 8,
-        "word": "ὁ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1486723,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "3",
-        "word_num": 9,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1275670,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "3",
-        "word_num": 6,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
+    "frequency": 0.18181818181818182,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -719,184 +141,8 @@
     "targetWordsTxt": "Satan",
     "alignmentTargetWords": 1,
     "alignmentTxt": "Σατανᾶ = Satan",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526309",
-    "book_id": "rom",
-    "chapter": "16",
-    "verse": "20",
-    "alignment_num": "6",
-    "orig_lang_words": ",1509618,1509619,",
-    "target_lang_words": ",1306687,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1509618,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "20",
-        "word_num": 6,
-        "word": "τὸν",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AMS,"
-      },
-      {
-        "id": 1509619,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "20",
-        "word_num": 7,
-        "word": "Σατανᾶν",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "τὸν Σατανᾶν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1306687,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "20",
-        "word_num": 7,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸν Σατανᾶν = Satan",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "527901",
-    "book_id": "1co",
-    "chapter": "5",
-    "verse": "5",
-    "alignment_num": "3",
-    "orig_lang_words": ",1511293,1511294,",
-    "target_lang_words": ",1308977,1308978,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1511293,
-        "book_id": "1co",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 3,
-        "word": "τῷ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DMS,"
-      },
-      {
-        "id": 1511294,
-        "book_id": "1co",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 4,
-        "word": "Σατανᾷ",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "τῷ Σατανᾷ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1308977,
-        "book_id": "1co",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 4,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1308978,
-        "book_id": "1co",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 5,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to Satan",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τῷ Σατανᾷ = to Satan",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "528443",
-    "book_id": "1co",
-    "chapter": "7",
-    "verse": "5",
-    "alignment_num": "16",
-    "orig_lang_words": ",1511857,1511858,",
-    "target_lang_words": ",1309780,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1511857,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "5",
-        "word_num": 24,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1511858,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "5",
-        "word_num": 25,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1309780,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "5",
-        "word_num": 27,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
+    "frequency": 0.18181818181818182,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -952,63 +198,8 @@
     "targetWordsTxt": "Satan",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ Σατανᾶ = Satan",
-    "frequency": 0.09375,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536465",
-    "book_id": "2co",
-    "chapter": "11",
-    "verse": "14",
-    "alignment_num": "5",
-    "orig_lang_words": ",1520110,1520111,",
-    "target_lang_words": ",1321537,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1520110,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "14",
-        "word_num": 5,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1520111,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "14",
-        "word_num": 6,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1321537,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "14",
-        "word_num": 5,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
+    "frequency": 0.2727272727272727,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1061,63 +252,8 @@
     "targetWordsTxt": "from Satan",
     "alignmentTargetWords": 2,
     "alignmentTxt": "Σατανᾶ = from Satan",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545494",
-    "book_id": "1th",
-    "chapter": "2",
-    "verse": "18",
-    "alignment_num": "10",
-    "orig_lang_words": ",1529460,1529461,",
-    "target_lang_words": ",1334546,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1529460,
-        "book_id": "1th",
-        "chapter": "2",
-        "verse": "18",
-        "word_num": 15,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1529461,
-        "book_id": "1th",
-        "chapter": "2",
-        "verse": "18",
-        "word_num": 16,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1334546,
-        "book_id": "1th",
-        "chapter": "2",
-        "verse": "18",
-        "word_num": 14,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
+    "frequency": 0.09090909090909091,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1182,51 +318,8 @@
     "targetWordsTxt": "of Satan",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῦ Σατανᾶ = of Satan",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547449",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "20",
-    "alignment_num": "8",
-    "orig_lang_words": ",1531493,",
-    "target_lang_words": ",1337293,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531493,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 8,
-        "word": "Σατανᾷ",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "Σατανᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337293,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 10,
-        "word": "Satan",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "Σατανᾷ = Satan",
-    "frequency": 0.03125,
+    "frequency": 0.36363636363636365,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1282,7 +375,8 @@
     "targetWordsTxt": "Satan",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ Σατανᾶ = Satan",
-    "frequency": 0.09375,
+    "frequency": 0.2727272727272727,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1347,7 +441,8 @@
     "targetWordsTxt": "of Satan",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῦ Σατανᾶ = of Satan",
-    "frequency": 0.125,
+    "frequency": 0.36363636363636365,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1412,63 +507,8 @@
     "targetWordsTxt": "Satan's",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ Σατανᾶ = Satan's",
-    "frequency": 0.03125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563400",
-    "book_id": "rev",
-    "chapter": "2",
-    "verse": "13",
-    "alignment_num": "33",
-    "orig_lang_words": ",1548300,1548301,",
-    "target_lang_words": ",1360906,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1548300,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 35,
-        "word": "ὁ",
-        "occurrence": 4,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1548301,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 36,
-        "word": "Σατανᾶς",
-        "occurrence": 1,
-        "strong": "G45660",
-        "lemma": "Σατανᾶς",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ Σατανᾶς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1360906,
-        "book_id": "rev",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 44,
-        "word": "Satan",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "Satan",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
+    "frequency": 0.09090909090909091,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1533,7 +573,8 @@
     "targetWordsTxt": "of Satan",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῦ Σατανᾶ = of Satan",
-    "frequency": 0.125,
+    "frequency": 0.36363636363636365,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1598,7 +639,725 @@
     "targetWordsTxt": "of Satan",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῦ Σατανᾶ = of Satan",
+    "frequency": 0.36363636363636365,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "459555",
+    "book_id": "mrk",
+    "chapter": "3",
+    "verse": "23",
+    "alignment_num": "10",
+    "orig_lang_words": ",1439352,",
+    "target_lang_words": ",1213815,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1439352,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "23",
+        "word_num": 9,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "Σατανᾶς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1213815,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "23",
+        "word_num": 14,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σατανᾶς = Satan",
     "frequency": 0.125,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "459580",
+    "book_id": "mrk",
+    "chapter": "3",
+    "verse": "26",
+    "alignment_num": "2",
+    "orig_lang_words": ",1439381,1439382,",
+    "target_lang_words": ",1213847,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1439381,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "26",
+        "word_num": 2,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1439382,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "26",
+        "word_num": 3,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1213847,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "26",
+        "word_num": 2,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "459943",
+    "book_id": "mrk",
+    "chapter": "4",
+    "verse": "15",
+    "alignment_num": "13",
+    "orig_lang_words": ",1439783,1439784,",
+    "target_lang_words": ",1214337,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1439783,
+        "book_id": "mrk",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 16,
+        "word": "ὁ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1439784,
+        "book_id": "mrk",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 17,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1214337,
+        "book_id": "mrk",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 17,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "477488",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "18",
+    "alignment_num": "2",
+    "orig_lang_words": ",1458350,1458351,",
+    "target_lang_words": ",1238944,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1458350,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "18",
+        "word_num": 3,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1458351,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "18",
+        "word_num": 4,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1238944,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "18",
+        "word_num": 2,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "479460",
+    "book_id": "luk",
+    "chapter": "13",
+    "verse": "16",
+    "alignment_num": "7",
+    "orig_lang_words": ",1460362,1460363,",
+    "target_lang_words": ",1241643,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1460362,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "16",
+        "word_num": 7,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1460363,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "16",
+        "word_num": 8,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1241643,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "16",
+        "word_num": 10,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "484857",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "3",
+    "alignment_num": "1",
+    "orig_lang_words": ",1465814,",
+    "target_lang_words": ",1249131,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1465814,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "3",
+        "word_num": 2,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "Σατανᾶς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1249131,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "3",
+        "word_num": 1,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σατανᾶς = Satan",
+    "frequency": 0.125,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485266",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "31",
+    "alignment_num": "3",
+    "orig_lang_words": ",1466231,1466232,",
+    "target_lang_words": ",1249714,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1466231,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "31",
+        "word_num": 3,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1466232,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "31",
+        "word_num": 4,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1249714,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "31",
+        "word_num": 3,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497122",
+    "book_id": "jhn",
+    "chapter": "13",
+    "verse": "27",
+    "alignment_num": "5",
+    "orig_lang_words": ",1479038,1479039,",
+    "target_lang_words": ",1265743,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1479038,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "27",
+        "word_num": 8,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1479039,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "27",
+        "word_num": 9,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1265743,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "27",
+        "word_num": 5,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504411",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "3",
+    "alignment_num": "6",
+    "orig_lang_words": ",1486722,1486723,",
+    "target_lang_words": ",1275670,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1486722,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "3",
+        "word_num": 8,
+        "word": "ὁ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1486723,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "3",
+        "word_num": 9,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1275670,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "3",
+        "word_num": 6,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528443",
+    "book_id": "1co",
+    "chapter": "7",
+    "verse": "5",
+    "alignment_num": "16",
+    "orig_lang_words": ",1511857,1511858,",
+    "target_lang_words": ",1309780,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1511857,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "5",
+        "word_num": 24,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1511858,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "5",
+        "word_num": 25,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1309780,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "5",
+        "word_num": 27,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536465",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "14",
+    "alignment_num": "5",
+    "orig_lang_words": ",1520110,1520111,",
+    "target_lang_words": ",1321537,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1520110,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "14",
+        "word_num": 5,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1520111,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "14",
+        "word_num": 6,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1321537,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "14",
+        "word_num": 5,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545494",
+    "book_id": "1th",
+    "chapter": "2",
+    "verse": "18",
+    "alignment_num": "10",
+    "orig_lang_words": ",1529460,1529461,",
+    "target_lang_words": ",1334546,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1529460,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 15,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1529461,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 16,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334546,
+        "book_id": "1th",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 14,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563400",
+    "book_id": "rev",
+    "chapter": "2",
+    "verse": "13",
+    "alignment_num": "33",
+    "orig_lang_words": ",1548300,1548301,",
+    "target_lang_words": ",1360906,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1548300,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 35,
+        "word": "ὁ",
+        "occurrence": 4,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1548301,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 36,
+        "word": "Σατανᾶς",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὁ Σατανᾶς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1360906,
+        "book_id": "rev",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 44,
+        "word": "Satan",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁ Σατανᾶς = Satan",
+    "frequency": 0.875,
+    "matchCount": 14,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1654,7 +1413,8 @@
     "targetWordsTxt": "Satan",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
+    "frequency": 0.875,
+    "matchCount": 14,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1710,7 +1470,8 @@
     "targetWordsTxt": "Satan",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
+    "frequency": 0.875,
+    "matchCount": 14,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1766,7 +1527,278 @@
     "targetWordsTxt": "Satan",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Σατανᾶς = Satan",
-    "frequency": 0.4375,
+    "frequency": 0.875,
+    "matchCount": 14,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "459557",
+    "book_id": "mrk",
+    "chapter": "3",
+    "verse": "23",
+    "alignment_num": "12",
+    "orig_lang_words": ",1439353,",
+    "target_lang_words": ",1213818,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1439353,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "23",
+        "word_num": 10,
+        "word": "Σατανᾶν",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "Σατανᾶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1213818,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "23",
+        "word_num": 17,
+        "word": "Satan",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σατανᾶν = Satan",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "476739",
+    "book_id": "luk",
+    "chapter": "10",
+    "verse": "18",
+    "alignment_num": "3",
+    "orig_lang_words": ",1457572,1457573,",
+    "target_lang_words": ",1237913,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1457572,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 4,
+        "word": "τὸν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMS,"
+      },
+      {
+        "id": 1457573,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 5,
+        "word": "Σατανᾶν",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "τὸν Σατανᾶν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1237913,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "18",
+        "word_num": 7,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸν Σατανᾶν = Satan",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526309",
+    "book_id": "rom",
+    "chapter": "16",
+    "verse": "20",
+    "alignment_num": "6",
+    "orig_lang_words": ",1509618,1509619,",
+    "target_lang_words": ",1306687,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1509618,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "20",
+        "word_num": 6,
+        "word": "τὸν",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AMS,"
+      },
+      {
+        "id": 1509619,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "20",
+        "word_num": 7,
+        "word": "Σατανᾶν",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "τὸν Σατανᾶν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1306687,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "20",
+        "word_num": 7,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸν Σατανᾶν = Satan",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527901",
+    "book_id": "1co",
+    "chapter": "5",
+    "verse": "5",
+    "alignment_num": "3",
+    "orig_lang_words": ",1511293,1511294,",
+    "target_lang_words": ",1308977,1308978,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1511293,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 3,
+        "word": "τῷ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DMS,"
+      },
+      {
+        "id": 1511294,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 4,
+        "word": "Σατανᾷ",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "τῷ Σατανᾷ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1308977,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 4,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1308978,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 5,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to Satan",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τῷ Σατανᾷ = to Satan",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547449",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "20",
+    "alignment_num": "8",
+    "orig_lang_words": ",1531493,",
+    "target_lang_words": ",1337293,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531493,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 8,
+        "word": "Σατανᾷ",
+        "occurrence": 1,
+        "strong": "G45660",
+        "lemma": "Σατανᾶς",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "Σατανᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337293,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 10,
+        "word": "Satan",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Satan",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "Σατανᾷ = Satan",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -39,7 +39,8 @@
     "targetWordsTxt": "inherit",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κληρονομήσω = inherit",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,8 @@
     "targetWordsTxt": "to inherit",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κληρονομήσω = to inherit",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +147,8 @@
     "targetWordsTxt": "to inherit",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κληρονομήσω = to inherit",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,7 +192,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κληρονομήσουσιν = will",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,139 +246,8 @@
     "targetWordsTxt": "will inherit",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κληρονομήσουσιν = will inherit",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532587",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "50",
-    "alignment_num": "9",
-    "orig_lang_words": ",1516103,",
-    "target_lang_words": ",1315969,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516103,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "50",
-        "word_num": 10,
-        "word": "κληρονομῆσαι",
-        "occurrence": 1,
-        "strong": "G28160",
-        "lemma": "κληρονομέω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "κληρονομῆσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1315969,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "50",
-        "word_num": 10,
-        "word": "inherit",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "inherit",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κληρονομῆσαι = inherit",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532593",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "50",
-    "alignment_num": "15",
-    "orig_lang_words": ",1516111,",
-    "target_lang_words": ",1315978,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516111,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "50",
-        "word_num": 18,
-        "word": "κληρονομεῖ",
-        "occurrence": 1,
-        "strong": "G28160",
-        "lemma": "κληρονομέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "κληρονομεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1315978,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "50",
-        "word_num": 19,
-        "word": "inherit",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "inherit",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κληρονομεῖ = inherit",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "538942",
-    "book_id": "gal",
-    "chapter": "4",
-    "verse": "30",
-    "alignment_num": "17",
-    "orig_lang_words": ",1522665,",
-    "target_lang_words": ",1325378,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522665,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "30",
-        "word_num": 15,
-        "word": "κληρονομήσει",
-        "occurrence": 1,
-        "strong": "G28160",
-        "lemma": "κληρονομέω",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "κληρονομήσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1325378,
-        "book_id": "gal",
-        "chapter": "4",
-        "verse": "30",
-        "word_num": 21,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κληρονομήσει = will",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -418,7 +291,251 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κληρονομήσουσιν = will",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532587",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "50",
+    "alignment_num": "9",
+    "orig_lang_words": ",1516103,",
+    "target_lang_words": ",1315969,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516103,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "50",
+        "word_num": 10,
+        "word": "κληρονομῆσαι",
+        "occurrence": 1,
+        "strong": "G28160",
+        "lemma": "κληρονομέω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "κληρονομῆσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1315969,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "50",
+        "word_num": 10,
+        "word": "inherit",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "inherit",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κληρονομῆσαι = inherit",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555151",
+    "book_id": "heb",
+    "chapter": "12",
+    "verse": "17",
+    "alignment_num": "6",
+    "orig_lang_words": ",1539393,",
+    "target_lang_words": ",1348608,1348609,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539393,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 6,
+        "word": "κληρονομῆσαι",
+        "occurrence": 1,
+        "strong": "G28160",
+        "lemma": "κληρονομέω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "κληρονομῆσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1348608,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 9,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1348609,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "17",
+        "word_num": 10,
+        "word": "inherit",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to inherit",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κληρονομῆσαι = to inherit",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532593",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "50",
+    "alignment_num": "15",
+    "orig_lang_words": ",1516111,",
+    "target_lang_words": ",1315978,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516111,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "50",
+        "word_num": 18,
+        "word": "κληρονομεῖ",
+        "occurrence": 1,
+        "strong": "G28160",
+        "lemma": "κληρονομέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "κληρονομεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1315978,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "50",
+        "word_num": 19,
+        "word": "inherit",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "inherit",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κληρονομεῖ = inherit",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538942",
+    "book_id": "gal",
+    "chapter": "4",
+    "verse": "30",
+    "alignment_num": "17",
+    "orig_lang_words": ",1522665,",
+    "target_lang_words": ",1325378,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522665,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "30",
+        "word_num": 15,
+        "word": "κληρονομήσει",
+        "occurrence": 1,
+        "strong": "G28160",
+        "lemma": "κληρονομέω",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "κληρονομήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325378,
+        "book_id": "gal",
+        "chapter": "4",
+        "verse": "30",
+        "word_num": 21,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κληρονομήσει = will",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570731",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "7",
+    "alignment_num": "1",
+    "orig_lang_words": ",1556457,",
+    "target_lang_words": ",1370873,1370874,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1556457,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "7",
+        "word_num": 2,
+        "word": "κληρονομήσει",
+        "occurrence": 1,
+        "strong": "G28160",
+        "lemma": "κληρονομέω",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "κληρονομήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1370873,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "7",
+        "word_num": 4,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1370874,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "7",
+        "word_num": 5,
+        "word": "inherit",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will inherit",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κληρονομήσει = will inherit",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -480,7 +597,8 @@
     "targetWordsTxt": "he has inherited",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κεκληρονόμηκεν = he has inherited",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -524,7 +642,8 @@
     "targetWordsTxt": "inherit",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κληρονομεῖν = inherit",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -568,60 +687,8 @@
     "targetWordsTxt": "who",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κληρονομούντων = who",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555151",
-    "book_id": "heb",
-    "chapter": "12",
-    "verse": "17",
-    "alignment_num": "6",
-    "orig_lang_words": ",1539393,",
-    "target_lang_words": ",1348608,1348609,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539393,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 6,
-        "word": "κληρονομῆσαι",
-        "occurrence": 1,
-        "strong": "G28160",
-        "lemma": "κληρονομέω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "κληρονομῆσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1348608,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 9,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1348609,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "17",
-        "word_num": 10,
-        "word": "inherit",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to inherit",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κληρονομῆσαι = to inherit",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -683,60 +750,8 @@
     "targetWordsTxt": "you might inherit",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κληρονομήσητε = you might inherit",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "570731",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "7",
-    "alignment_num": "1",
-    "orig_lang_words": ",1556457,",
-    "target_lang_words": ",1370873,1370874,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556457,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "7",
-        "word_num": 2,
-        "word": "κληρονομήσει",
-        "occurrence": 1,
-        "strong": "G28160",
-        "lemma": "κληρονομέω",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "κληρονομήσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1370873,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "7",
-        "word_num": 4,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1370874,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "7",
-        "word_num": 5,
-        "word": "inherit",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will inherit",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κληρονομήσει = will inherit",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

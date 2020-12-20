@@ -48,7 +48,8 @@
     "targetWordsTxt": "was put",
     "alignmentTargetWords": 2,
     "alignmentTxt": "περίκειται = was put",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,71 @@
     "targetWordsTxt": "were put",
     "alignmentTargetWords": 2,
     "alignmentTxt": "περίκειται = were put",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552079",
+    "book_id": "heb",
+    "chapter": "5",
+    "verse": "2",
+    "alignment_num": "9",
+    "orig_lang_words": ",1536185,",
+    "target_lang_words": ",1343953,1343954,1343955,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536185,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "2",
+        "word_num": 9,
+        "word": "περίκειται",
+        "occurrence": 1,
+        "strong": "G40290",
+        "lemma": "περίκειμαι",
+        "morph": "Gr,V,IPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "περίκειται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1343953,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "2",
+        "word_num": 17,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1343954,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "2",
+        "word_num": 18,
+        "word": "subject",
+        "occurrence": 1
+      },
+      {
+        "id": 1343955,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "2",
+        "word_num": 19,
+        "word": "to",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is subject to",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "περίκειται = is subject to",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -172,69 +237,8 @@
     "targetWordsTxt": "I am bound with",
     "alignmentTargetWords": 4,
     "alignmentTxt": "περίκειμαι = I am bound with",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552079",
-    "book_id": "heb",
-    "chapter": "5",
-    "verse": "2",
-    "alignment_num": "9",
-    "orig_lang_words": ",1536185,",
-    "target_lang_words": ",1343953,1343954,1343955,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536185,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "2",
-        "word_num": 9,
-        "word": "περίκειται",
-        "occurrence": 1,
-        "strong": "G40290",
-        "lemma": "περίκειμαι",
-        "morph": "Gr,V,IPP3,,S,"
-      }
-    ],
-    "origWordsTxt": "περίκειται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1343953,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "2",
-        "word_num": 17,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1343954,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "2",
-        "word_num": 18,
-        "word": "subject",
-        "occurrence": 1
-      },
-      {
-        "id": 1343955,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "2",
-        "word_num": 19,
-        "word": "to",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is subject to",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "περίκειται = is subject to",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -278,7 +282,8 @@
     "targetWordsTxt": "surrounding",
     "alignmentTargetWords": 1,
     "alignmentTxt": "περικείμενον = surrounding",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

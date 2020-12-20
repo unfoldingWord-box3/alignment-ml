@@ -48,7 +48,8 @@
     "targetWordsTxt": "to circumcise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "περιτεμεῖν = to circumcise",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -113,7 +114,8 @@
     "targetWordsTxt": "to circumcize",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῦ περιτεμεῖν = to circumcize",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -166,7 +168,8 @@
     "targetWordsTxt": "you circumcise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "περιτέμνετε = you circumcise",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -210,7 +213,62 @@
     "targetWordsTxt": "circumcised",
     "alignmentTargetWords": 1,
     "alignmentTxt": "περιέτεμεν = circumcised",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511858",
+    "book_id": "act",
+    "chapter": "16",
+    "verse": "3",
+    "alignment_num": "8",
+    "orig_lang_words": ",1494357,",
+    "target_lang_words": ",1285702,1285703,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494357,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "3",
+        "word_num": 9,
+        "word": "περιέτεμεν",
+        "occurrence": 1,
+        "strong": "G40590",
+        "lemma": "περιτέμνω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "περιέτεμεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1285702,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "3",
+        "word_num": 11,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1285703,
+        "book_id": "act",
+        "chapter": "16",
+        "verse": "3",
+        "word_num": 12,
+        "word": "circumcised",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and circumcised",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "περιέτεμεν = and circumcised",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -272,7 +330,8 @@
     "targetWordsTxt": "you are circumcised",
     "alignmentTargetWords": 3,
     "alignmentTxt": "περιτμηθῆτε = you are circumcised",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -325,60 +384,8 @@
     "targetWordsTxt": "to circumcise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "περιτέμνειν = to circumcise",
-    "frequency": 0.11764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511858",
-    "book_id": "act",
-    "chapter": "16",
-    "verse": "3",
-    "alignment_num": "8",
-    "orig_lang_words": ",1494357,",
-    "target_lang_words": ",1285702,1285703,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494357,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "3",
-        "word_num": 9,
-        "word": "περιέτεμεν",
-        "occurrence": 1,
-        "strong": "G40590",
-        "lemma": "περιτέμνω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "περιέτεμεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1285702,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "3",
-        "word_num": 11,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1285703,
-        "book_id": "act",
-        "chapter": "16",
-        "verse": "3",
-        "word_num": 12,
-        "word": "circumcised",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and circumcised",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "περιέτεμεν = and circumcised",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -431,7 +438,8 @@
     "targetWordsTxt": "to circumcise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "περιτέμνειν = to circumcise",
-    "frequency": 0.11764705882352941,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -502,7 +510,8 @@
     "targetWordsTxt": "when he was circumcised",
     "alignmentTargetWords": 4,
     "alignmentTxt": "περιτετμημένος = when he was circumcised",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -555,7 +564,8 @@
     "targetWordsTxt": "Let him",
     "alignmentTargetWords": 2,
     "alignmentTxt": "περιτεμνέσθω = Let him",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -617,7 +627,8 @@
     "targetWordsTxt": "to be circumcised",
     "alignmentTargetWords": 3,
     "alignmentTxt": "περιτμηθῆναι = to be circumcised",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -697,7 +708,8 @@
     "targetWordsTxt": "you let yourselves be circumcised",
     "alignmentTargetWords": 5,
     "alignmentTxt": "περιτέμνησθε = you let yourselves be circumcised",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -777,7 +789,8 @@
     "targetWordsTxt": "who lets himself be circumcised",
     "alignmentTargetWords": 5,
     "alignmentTxt": "περιτεμνομένῳ = who lets himself be circumcised",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -839,7 +852,71 @@
     "targetWordsTxt": "to be circumcised",
     "alignmentTargetWords": 3,
     "alignmentTxt": "περιτέμνεσθαι = to be circumcised",
-    "frequency": 0.11764705882352941,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539442",
+    "book_id": "gal",
+    "chapter": "6",
+    "verse": "13",
+    "alignment_num": "9",
+    "orig_lang_words": ",1523179,",
+    "target_lang_words": ",1326148,1326149,1326150,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523179,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 10,
+        "word": "περιτέμνεσθαι",
+        "occurrence": 1,
+        "strong": "G40590",
+        "lemma": "περιτέμνω",
+        "morph": "Gr,V,NPP,,,,,"
+      }
+    ],
+    "origWordsTxt": "περιτέμνεσθαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1326148,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 14,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1326149,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 15,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 1326150,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 16,
+        "word": "circumcised",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "to be circumcised",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "περιτέμνεσθαι = to be circumcised",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -913,69 +990,8 @@
     "targetWordsTxt": "those who circumcised",
     "alignmentTargetWords": 3,
     "alignmentTxt": "οἱ περιτετμημένοι = those who circumcised",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539442",
-    "book_id": "gal",
-    "chapter": "6",
-    "verse": "13",
-    "alignment_num": "9",
-    "orig_lang_words": ",1523179,",
-    "target_lang_words": ",1326148,1326149,1326150,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523179,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 10,
-        "word": "περιτέμνεσθαι",
-        "occurrence": 1,
-        "strong": "G40590",
-        "lemma": "περιτέμνω",
-        "morph": "Gr,V,NPP,,,,,"
-      }
-    ],
-    "origWordsTxt": "περιτέμνεσθαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1326148,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 14,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1326149,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 15,
-        "word": "be",
-        "occurrence": 1
-      },
-      {
-        "id": 1326150,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 16,
-        "word": "circumcised",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "to be circumcised",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "περιτέμνεσθαι = to be circumcised",
-    "frequency": 0.11764705882352941,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1028,7 +1044,8 @@
     "targetWordsTxt": "you were",
     "alignmentTargetWords": 2,
     "alignmentTxt": "περιετμήθητε = you were",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -51,131 +51,8 @@
     "targetWordsTxt": "parable",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν παροιμίαν = parable",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498739",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "25",
-    "alignment_num": "4",
-    "orig_lang_words": ",1480734,",
-    "target_lang_words": ",1268002,1268003,1268004,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480734,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 2,
-        "word": "παροιμίαις",
-        "occurrence": 1,
-        "strong": "G39420",
-        "lemma": "παροιμία",
-        "morph": "Gr,N,,,,,DFP,"
-      }
-    ],
-    "origWordsTxt": "παροιμίαις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1268002,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 8,
-        "word": "figures",
-        "occurrence": 1
-      },
-      {
-        "id": 1268003,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 9,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1268004,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 10,
-        "word": "speech",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "figures of speech",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "παροιμίαις = figures of speech",
-    "frequency": 0.4,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498749",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "25",
-    "alignment_num": "14",
-    "orig_lang_words": ",1480742,",
-    "target_lang_words": ",1268019,1268020,1268021,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480742,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 10,
-        "word": "παροιμίαις",
-        "occurrence": 2,
-        "strong": "G39420",
-        "lemma": "παροιμία",
-        "morph": "Gr,N,,,,,DFP,"
-      }
-    ],
-    "origWordsTxt": "παροιμίαις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1268019,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 25,
-        "word": "figures",
-        "occurrence": 2
-      },
-      {
-        "id": 1268020,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 26,
-        "word": "of",
-        "occurrence": 2
-      },
-      {
-        "id": 1268021,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 27,
-        "word": "speech",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "figures of speech",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "παροιμίαις = figures of speech",
-    "frequency": 0.4,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -246,7 +123,134 @@
     "targetWordsTxt": "in figures of speech",
     "alignmentTargetWords": 4,
     "alignmentTxt": "παροιμίαν = in figures of speech",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498739",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "25",
+    "alignment_num": "4",
+    "orig_lang_words": ",1480734,",
+    "target_lang_words": ",1268002,1268003,1268004,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480734,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 2,
+        "word": "παροιμίαις",
+        "occurrence": 1,
+        "strong": "G39420",
+        "lemma": "παροιμία",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "παροιμίαις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1268002,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 8,
+        "word": "figures",
+        "occurrence": 1
+      },
+      {
+        "id": 1268003,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 9,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1268004,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 10,
+        "word": "speech",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "figures of speech",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "παροιμίαις = figures of speech",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498749",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "25",
+    "alignment_num": "14",
+    "orig_lang_words": ",1480742,",
+    "target_lang_words": ",1268019,1268020,1268021,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480742,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 10,
+        "word": "παροιμίαις",
+        "occurrence": 2,
+        "strong": "G39420",
+        "lemma": "παροιμία",
+        "morph": "Gr,N,,,,,DFP,"
+      }
+    ],
+    "origWordsTxt": "παροιμίαις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1268019,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 25,
+        "word": "figures",
+        "occurrence": 2
+      },
+      {
+        "id": 1268020,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 26,
+        "word": "of",
+        "occurrence": 2
+      },
+      {
+        "id": 1268021,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 27,
+        "word": "speech",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "figures of speech",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "παροιμίαις = figures of speech",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -290,7 +294,8 @@
     "targetWordsTxt": "proverb",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παροιμίας = proverb",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

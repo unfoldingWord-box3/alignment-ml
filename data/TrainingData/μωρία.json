@@ -39,95 +39,8 @@
     "targetWordsTxt": "foolishness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μωρία = foolishness",
-    "frequency": 0.6,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526748",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "21",
-    "alignment_num": "19",
-    "orig_lang_words": ",1510089,",
-    "target_lang_words": ",1307309,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510089,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 21,
-        "word": "μωρίας",
-        "occurrence": 1,
-        "strong": "G34720",
-        "lemma": "μωρία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "μωρίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307309,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 25,
-        "word": "foolishness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "foolishness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μωρίας = foolishness",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526767",
-    "book_id": "1co",
-    "chapter": "1",
-    "verse": "23",
-    "alignment_num": "8",
-    "orig_lang_words": ",1510114,",
-    "target_lang_words": ",1307334,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510114,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "23",
-        "word_num": 10,
-        "word": "μωρίαν",
-        "occurrence": 1,
-        "strong": "G34720",
-        "lemma": "μωρία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "μωρίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1307334,
-        "book_id": "1co",
-        "chapter": "1",
-        "verse": "23",
-        "word_num": 11,
-        "word": "foolishness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "foolishness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μωρίαν = foolishness",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -171,7 +84,8 @@
     "targetWordsTxt": "foolishness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μωρία = foolishness",
-    "frequency": 0.6,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -215,7 +129,98 @@
     "targetWordsTxt": "foolishness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μωρία = foolishness",
-    "frequency": 0.6,
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526748",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "21",
+    "alignment_num": "19",
+    "orig_lang_words": ",1510089,",
+    "target_lang_words": ",1307309,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510089,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 21,
+        "word": "μωρίας",
+        "occurrence": 1,
+        "strong": "G34720",
+        "lemma": "μωρία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "μωρίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307309,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 25,
+        "word": "foolishness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "foolishness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μωρίας = foolishness",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526767",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "23",
+    "alignment_num": "8",
+    "orig_lang_words": ",1510114,",
+    "target_lang_words": ",1307334,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510114,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 10,
+        "word": "μωρίαν",
+        "occurrence": 1,
+        "strong": "G34720",
+        "lemma": "μωρία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "μωρίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1307334,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "23",
+        "word_num": 11,
+        "word": "foolishness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "foolishness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μωρίαν = foolishness",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

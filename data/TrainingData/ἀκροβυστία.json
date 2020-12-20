@@ -51,204 +51,8 @@
     "targetWordsTxt": "uncircumcised",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀκροβυστίαν ἔχοντας = uncircumcised",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520744",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "25",
-    "alignment_num": "15",
-    "orig_lang_words": ",1503547,",
-    "target_lang_words": ",1298130,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503547,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 15,
-        "word": "ἀκροβυστία",
-        "occurrence": 1,
-        "strong": "G02030",
-        "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀκροβυστία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298130,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 19,
-        "word": "uncircumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "uncircumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀκροβυστία = uncircumcision",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520748",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "26",
-    "alignment_num": "3",
-    "orig_lang_words": ",1503552,",
-    "target_lang_words": ",1298134,1298135,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503552,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "26",
-        "word_num": 3,
-        "word": "ἀκροβυστία",
-        "occurrence": 1,
-        "strong": "G02030",
-        "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀκροβυστία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1298134,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "26",
-        "word_num": 3,
-        "word": "uncircumcised",
-        "occurrence": 1
-      },
-      {
-        "id": 1298135,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "26",
-        "word_num": 4,
-        "word": "person",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "uncircumcised person",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀκροβυστία = uncircumcised person",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520757",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "26",
-    "alignment_num": "12",
-    "orig_lang_words": ",1503559,1503560,",
-    "target_lang_words": ",1298145,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1503559,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "26",
-        "word_num": 10,
-        "word": "ἡ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1503560,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "26",
-        "word_num": 11,
-        "word": "ἀκροβυστία",
-        "occurrence": 2,
-        "strong": "G02030",
-        "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ ἀκροβυστία",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298145,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "26",
-        "word_num": 14,
-        "word": "uncircumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "uncircumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ ἀκροβυστία = uncircumcision",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520764",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "27",
-    "alignment_num": "3",
-    "orig_lang_words": ",1503570,",
-    "target_lang_words": ",1298157,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503570,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "27",
-        "word_num": 5,
-        "word": "ἀκροβυστία",
-        "occurrence": 1,
-        "strong": "G02030",
-        "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀκροβυστία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298157,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "27",
-        "word_num": 7,
-        "word": "uncircumcised",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "uncircumcised",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀκροβυστία = uncircumcised",
-    "frequency": 0.1,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -301,7 +105,8 @@
     "targetWordsTxt": "the uncircumcision",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀκροβυστίαν = the uncircumcision",
-    "frequency": 0.05,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -384,7 +189,446 @@
     "targetWordsTxt": "those of the uncircumcision",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τὴν ἀκροβυστίαν = those of the uncircumcision",
-    "frequency": 0.05,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520744",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "25",
+    "alignment_num": "15",
+    "orig_lang_words": ",1503547,",
+    "target_lang_words": ",1298130,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503547,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 15,
+        "word": "ἀκροβυστία",
+        "occurrence": 1,
+        "strong": "G02030",
+        "lemma": "ἀκροβυστία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀκροβυστία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298130,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 19,
+        "word": "uncircumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "uncircumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀκροβυστία = uncircumcision",
+    "frequency": 0.4444444444444444,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520748",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "26",
+    "alignment_num": "3",
+    "orig_lang_words": ",1503552,",
+    "target_lang_words": ",1298134,1298135,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503552,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 3,
+        "word": "ἀκροβυστία",
+        "occurrence": 1,
+        "strong": "G02030",
+        "lemma": "ἀκροβυστία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀκροβυστία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1298134,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 3,
+        "word": "uncircumcised",
+        "occurrence": 1
+      },
+      {
+        "id": 1298135,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 4,
+        "word": "person",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "uncircumcised person",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀκροβυστία = uncircumcised person",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520757",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "26",
+    "alignment_num": "12",
+    "orig_lang_words": ",1503559,1503560,",
+    "target_lang_words": ",1298145,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503559,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 10,
+        "word": "ἡ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1503560,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 11,
+        "word": "ἀκροβυστία",
+        "occurrence": 2,
+        "strong": "G02030",
+        "lemma": "ἀκροβυστία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ ἀκροβυστία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298145,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "26",
+        "word_num": 14,
+        "word": "uncircumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "uncircumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ ἀκροβυστία = uncircumcision",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520764",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "27",
+    "alignment_num": "3",
+    "orig_lang_words": ",1503570,",
+    "target_lang_words": ",1298157,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503570,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 5,
+        "word": "ἀκροβυστία",
+        "occurrence": 1,
+        "strong": "G02030",
+        "lemma": "ἀκροβυστία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀκροβυστία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298157,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 7,
+        "word": "uncircumcised",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "uncircumcised",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀκροβυστία = uncircumcised",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528679",
+    "book_id": "1co",
+    "chapter": "7",
+    "verse": "19",
+    "alignment_num": "4",
+    "orig_lang_words": ",1512090,1512091,",
+    "target_lang_words": ",1310101,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1512090,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 5,
+        "word": "ἡ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1512091,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 6,
+        "word": "ἀκροβυστία",
+        "occurrence": 1,
+        "strong": "G02030",
+        "lemma": "ἀκροβυστία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ ἀκροβυστία",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1310101,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 4,
+        "word": "uncircumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "uncircumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ ἀκροβυστία = uncircumcision",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539023",
+    "book_id": "gal",
+    "chapter": "5",
+    "verse": "6",
+    "alignment_num": "7",
+    "orig_lang_words": ",1522749,",
+    "target_lang_words": ",1325510,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522749,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 9,
+        "word": "ἀκροβυστία",
+        "occurrence": 1,
+        "strong": "G02030",
+        "lemma": "ἀκροβυστία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀκροβυστία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325510,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 7,
+        "word": "uncircumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "uncircumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀκροβυστία = uncircumcision",
+    "frequency": 0.4444444444444444,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539475",
+    "book_id": "gal",
+    "chapter": "6",
+    "verse": "15",
+    "alignment_num": "6",
+    "orig_lang_words": ",1523214,",
+    "target_lang_words": ",1326194,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523214,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "15",
+        "word_num": 6,
+        "word": "ἀκροβυστία",
+        "occurrence": 1,
+        "strong": "G02030",
+        "lemma": "ἀκροβυστία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀκροβυστία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326194,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "15",
+        "word_num": 7,
+        "word": "uncircumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "uncircumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀκροβυστία = uncircumcision",
+    "frequency": 0.4444444444444444,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540092",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "11",
+    "alignment_num": "10",
+    "orig_lang_words": ",1523841,",
+    "target_lang_words": ",1326989,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523841,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 11,
+        "word": "ἀκροβυστία",
+        "occurrence": 1,
+        "strong": "G02030",
+        "lemma": "ἀκροβυστία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀκροβυστία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326989,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 13,
+        "word": "uncircumcised",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "uncircumcised",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀκροβυστία = uncircumcised",
+    "frequency": 0.2222222222222222,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "544481",
+    "book_id": "col",
+    "chapter": "3",
+    "verse": "11",
+    "alignment_num": "8",
+    "orig_lang_words": ",1528378,",
+    "target_lang_words": ",1333142,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1528378,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 8,
+        "word": "ἀκροβυστία",
+        "occurrence": 1,
+        "strong": "G02030",
+        "lemma": "ἀκροβυστία",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀκροβυστία",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1333142,
+        "book_id": "col",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 11,
+        "word": "uncircumcision",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "uncircumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀκροβυστία = uncircumcision",
+    "frequency": 0.4444444444444444,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -428,7 +672,8 @@
     "targetWordsTxt": "uncircumcision",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀκροβυστίᾳ = uncircumcision",
-    "frequency": 0.2,
+    "frequency": 0.6666666666666666,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -472,7 +717,8 @@
     "targetWordsTxt": "uncircumcision",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀκροβυστίᾳ = uncircumcision",
-    "frequency": 0.2,
+    "frequency": 0.6666666666666666,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -528,51 +774,8 @@
     "targetWordsTxt": "uncircumcision",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῇ ἀκροβυστίᾳ = uncircumcision",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521328",
-    "book_id": "rom",
-    "chapter": "4",
-    "verse": "11",
-    "alignment_num": "18",
-    "orig_lang_words": ",1504206,",
-    "target_lang_words": ",1299063,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504206,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 22,
-        "word": "ἀκροβυστίας",
-        "occurrence": 1,
-        "strong": "G02030",
-        "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἀκροβυστίας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1299063,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "11",
-        "word_num": 40,
-        "word": "uncircumcision",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "uncircumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀκροβυστίας = uncircumcision",
-    "frequency": 0.05,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -655,7 +858,8 @@
     "targetWordsTxt": "before he was circumcised",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ἐν ἀκροβυστίᾳ = before he was circumcised",
-    "frequency": 0.05,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -699,63 +903,98 @@
     "targetWordsTxt": "uncircumcision",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀκροβυστίᾳ = uncircumcision",
-    "frequency": 0.2,
+    "frequency": 0.6666666666666666,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "528679",
-    "book_id": "1co",
-    "chapter": "7",
-    "verse": "19",
-    "alignment_num": "4",
-    "orig_lang_words": ",1512090,1512091,",
-    "target_lang_words": ",1310101,",
-    "origSpan": 1,
+    "id": "544193",
+    "book_id": "col",
+    "chapter": "2",
+    "verse": "13",
+    "alignment_num": "9",
+    "orig_lang_words": ",1528066,",
+    "target_lang_words": ",1332707,",
+    "origSpan": 0,
     "origWords": [
       {
-        "id": 1512090,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 5,
-        "word": "ἡ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1512091,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 6,
-        "word": "ἀκροβυστία",
+        "id": 1528066,
+        "book_id": "col",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 9,
+        "word": "ἀκροβυστίᾳ",
         "occurrence": 1,
         "strong": "G02030",
         "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,NFS,"
+        "morph": "Gr,N,,,,,DFS,"
       }
     ],
-    "origWordsTxt": "ἡ ἀκροβυστία",
-    "alignmentOrigWords": 2,
+    "origWordsTxt": "ἀκροβυστίᾳ",
+    "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1310101,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 4,
+        "id": 1332707,
+        "book_id": "col",
+        "chapter": "2",
+        "verse": "13",
+        "word_num": 10,
         "word": "uncircumcision",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "uncircumcision",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ ἀκροβυστία = uncircumcision",
-    "frequency": 0.1,
+    "alignmentTxt": "ἀκροβυστίᾳ = uncircumcision",
+    "frequency": 0.6666666666666666,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521328",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "11",
+    "alignment_num": "18",
+    "orig_lang_words": ",1504206,",
+    "target_lang_words": ",1299063,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504206,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 22,
+        "word": "ἀκροβυστίας",
+        "occurrence": 1,
+        "strong": "G02030",
+        "lemma": "ἀκροβυστία",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀκροβυστίας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299063,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "11",
+        "word_num": 40,
+        "word": "uncircumcision",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "uncircumcision",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀκροβυστίας = uncircumcision",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -847,227 +1086,8 @@
     "targetWordsTxt": "to those who are uncircumcised",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τῆς ἀκροβυστίας = to those who are uncircumcised",
-    "frequency": 0.05,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539023",
-    "book_id": "gal",
-    "chapter": "5",
-    "verse": "6",
-    "alignment_num": "7",
-    "orig_lang_words": ",1522749,",
-    "target_lang_words": ",1325510,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522749,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 9,
-        "word": "ἀκροβυστία",
-        "occurrence": 1,
-        "strong": "G02030",
-        "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀκροβυστία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1325510,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 7,
-        "word": "uncircumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "uncircumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀκροβυστία = uncircumcision",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539475",
-    "book_id": "gal",
-    "chapter": "6",
-    "verse": "15",
-    "alignment_num": "6",
-    "orig_lang_words": ",1523214,",
-    "target_lang_words": ",1326194,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523214,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "15",
-        "word_num": 6,
-        "word": "ἀκροβυστία",
-        "occurrence": 1,
-        "strong": "G02030",
-        "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀκροβυστία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326194,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "15",
-        "word_num": 7,
-        "word": "uncircumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "uncircumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀκροβυστία = uncircumcision",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540092",
-    "book_id": "eph",
-    "chapter": "2",
-    "verse": "11",
-    "alignment_num": "10",
-    "orig_lang_words": ",1523841,",
-    "target_lang_words": ",1326989,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523841,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 11,
-        "word": "ἀκροβυστία",
-        "occurrence": 1,
-        "strong": "G02030",
-        "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀκροβυστία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326989,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 13,
-        "word": "uncircumcised",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "uncircumcised",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀκροβυστία = uncircumcised",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544193",
-    "book_id": "col",
-    "chapter": "2",
-    "verse": "13",
-    "alignment_num": "9",
-    "orig_lang_words": ",1528066,",
-    "target_lang_words": ",1332707,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528066,
-        "book_id": "col",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 9,
-        "word": "ἀκροβυστίᾳ",
-        "occurrence": 1,
-        "strong": "G02030",
-        "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "ἀκροβυστίᾳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1332707,
-        "book_id": "col",
-        "chapter": "2",
-        "verse": "13",
-        "word_num": 10,
-        "word": "uncircumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "uncircumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀκροβυστίᾳ = uncircumcision",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "544481",
-    "book_id": "col",
-    "chapter": "3",
-    "verse": "11",
-    "alignment_num": "8",
-    "orig_lang_words": ",1528378,",
-    "target_lang_words": ",1333142,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1528378,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 8,
-        "word": "ἀκροβυστία",
-        "occurrence": 1,
-        "strong": "G02030",
-        "lemma": "ἀκροβυστία",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀκροβυστία",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1333142,
-        "book_id": "col",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 11,
-        "word": "uncircumcision",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "uncircumcision",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀκροβυστία = uncircumcision",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -48,7 +48,8 @@
     "targetWordsTxt": "He blasphemes",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βλασφημεῖ = He blasphemes",
-    "frequency": 0.03225806451612903,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -110,7 +111,8 @@
     "targetWordsTxt": "they may speak",
     "alignmentTargetWords": 3,
     "alignmentTxt": "βλασφημήσωσιν = they may speak",
-    "frequency": 0.03225806451612903,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -166,7 +168,8 @@
     "targetWordsTxt": "blasphemes",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἂν βλασφημήσῃ = blasphemes",
-    "frequency": 0.03225806451612903,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -210,7 +213,8 @@
     "targetWordsTxt": "insulted",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐβλασφήμουν = insulted",
-    "frequency": 0.03225806451612903,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -263,7 +267,8 @@
     "targetWordsTxt": "who blasphemes",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βλασφημήσαντι = who blasphemes",
-    "frequency": 0.03225806451612903,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -316,125 +321,8 @@
     "targetWordsTxt": "blaspheming him",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βλασφημοῦντες = blaspheming him",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "486478",
-    "book_id": "luk",
-    "chapter": "23",
-    "verse": "39",
-    "alignment_num": "7",
-    "orig_lang_words": ",1467453,",
-    "target_lang_words": ",1251315,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1467453,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "39",
-        "word_num": 5,
-        "word": "ἐβλασφήμει",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐβλασφήμει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1251315,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "39",
-        "word_num": 9,
-        "word": "insulted",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "insulted",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐβλασφήμει = insulted",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494906",
-    "book_id": "jhn",
-    "chapter": "10",
-    "verse": "36",
-    "alignment_num": "12",
-    "orig_lang_words": ",1476641,1476642,",
-    "target_lang_words": ",1262707,1262708,1262709,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1476641,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "36",
-        "word_num": 11,
-        "word": "ὅτι",
-        "occurrence": 1,
-        "strong": "G37540",
-        "lemma": "ὅτι",
-        "morph": "Gr,CS,,,,,,,,"
-      },
-      {
-        "id": 1476642,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "36",
-        "word_num": 12,
-        "word": "βλασφημεῖς",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,IPA2,,S,"
-      }
-    ],
-    "origWordsTxt": "ὅτι βλασφημεῖς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1262707,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "36",
-        "word_num": 15,
-        "word": "You",
-        "occurrence": 1
-      },
-      {
-        "id": 1262708,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "36",
-        "word_num": 16,
-        "word": "are",
-        "occurrence": 1
-      },
-      {
-        "id": 1262709,
-        "book_id": "jhn",
-        "chapter": "10",
-        "verse": "36",
-        "word_num": 17,
-        "word": "blaspheming",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "You are blaspheming",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ὅτι βλασφημεῖς = You are blaspheming",
-    "frequency": 0.03225806451612903,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -496,652 +384,8 @@
     "targetWordsTxt": "and insulted him",
     "alignmentTargetWords": 3,
     "alignmentTxt": "βλασφημοῦντες = and insulted him",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513242",
-    "book_id": "act",
-    "chapter": "18",
-    "verse": "6",
-    "alignment_num": "5",
-    "orig_lang_words": ",1495801,",
-    "target_lang_words": ",1287588,1287589,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1495801,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 4,
-        "word": "βλασφημούντων",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,PPA,GMP,"
-      }
-    ],
-    "origWordsTxt": "βλασφημούντων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1287588,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 5,
-        "word": "insulted",
-        "occurrence": 1
-      },
-      {
-        "id": 1287589,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "6",
-        "word_num": 6,
-        "word": "him",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "insulted him",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "βλασφημούντων = insulted him",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "514314",
-    "book_id": "act",
-    "chapter": "19",
-    "verse": "37",
-    "alignment_num": "8",
-    "orig_lang_words": ",1496907,",
-    "target_lang_words": ",1289012,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1496907,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "37",
-        "word_num": 8,
-        "word": "βλασφημοῦντας",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,PPA,AMP,"
-      }
-    ],
-    "origWordsTxt": "βλασφημοῦντας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1289012,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "37",
-        "word_num": 13,
-        "word": "blasphemers",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blasphemers",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βλασφημοῦντας = blasphemers",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "518175",
-    "book_id": "act",
-    "chapter": "26",
-    "verse": "11",
-    "alignment_num": "8",
-    "orig_lang_words": ",1500859,",
-    "target_lang_words": ",1294391,1294392,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1500859,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "11",
-        "word_num": 9,
-        "word": "βλασφημεῖν",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "βλασφημεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1294391,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "11",
-        "word_num": 10,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1294392,
-        "book_id": "act",
-        "chapter": "26",
-        "verse": "11",
-        "word_num": 11,
-        "word": "blaspheme",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to blaspheme",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "βλασφημεῖν = to blaspheme",
-    "frequency": 0.06451612903225806,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520721",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "24",
-    "alignment_num": "4",
-    "orig_lang_words": ",1503526,",
-    "target_lang_words": ",1298097,1298098,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503526,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 7,
-        "word": "βλασφημεῖται",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,IPP3,,S,"
-      }
-    ],
-    "origWordsTxt": "βλασφημεῖται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1298097,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 5,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1298098,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "24",
-        "word_num": 6,
-        "word": "blasphemed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is blasphemed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "βλασφημεῖται = is blasphemed",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520905",
-    "book_id": "rom",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "2",
-    "orig_lang_words": ",1503740,",
-    "target_lang_words": ",1298395,1298396,1298397,1298398,1298399,1298400,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1503740,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 3,
-        "word": "βλασφημούμεθα",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,IPP1,,P,"
-      }
-    ],
-    "origWordsTxt": "βλασφημούμεθα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 5,
-    "targetWords": [
-      {
-        "id": 1298395,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 4,
-        "word": "we",
-        "occurrence": 1
-      },
-      {
-        "id": 1298396,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 5,
-        "word": "are",
-        "occurrence": 1
-      },
-      {
-        "id": 1298397,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 6,
-        "word": "falsely",
-        "occurrence": 1
-      },
-      {
-        "id": 1298398,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 7,
-        "word": "reported",
-        "occurrence": 1
-      },
-      {
-        "id": 1298399,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 8,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1298400,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 9,
-        "word": "say",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "we are falsely reported to say",
-    "alignmentTargetWords": 6,
-    "alignmentTxt": "βλασφημούμεθα = we are falsely reported to say",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525405",
-    "book_id": "rom",
-    "chapter": "14",
-    "verse": "16",
-    "alignment_num": "2",
-    "orig_lang_words": ",1508643,",
-    "target_lang_words": ",1305349,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508643,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "16",
-        "word_num": 1,
-        "word": "βλασφημείσθω",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,MPP3,,S,"
-      }
-    ],
-    "origWordsTxt": "βλασφημείσθω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1305349,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "16",
-        "word_num": 3,
-        "word": "allow",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "allow",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βλασφημείσθω = allow",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "530108",
-    "book_id": "1co",
-    "chapter": "10",
-    "verse": "30",
-    "alignment_num": "5",
-    "orig_lang_words": ",1513554,",
-    "target_lang_words": ",1312316,1312317,1312318,1312319,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513554,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 5,
-        "word": "βλασφημοῦμαι",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,IPP1,,S,"
-      }
-    ],
-    "origWordsTxt": "βλασφημοῦμαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1312316,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 9,
-        "word": "am",
-        "occurrence": 1
-      },
-      {
-        "id": 1312317,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 10,
-        "word": "I",
-        "occurrence": 2
-      },
-      {
-        "id": 1312318,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 11,
-        "word": "being",
-        "occurrence": 1
-      },
-      {
-        "id": 1312319,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 12,
-        "word": "insulted",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "am I being insulted",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "βλασφημοῦμαι = am I being insulted",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547453",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "20",
-    "alignment_num": "12",
-    "orig_lang_words": ",1531497,",
-    "target_lang_words": ",1337301,1337302,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531497,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 12,
-        "word": "βλασφημεῖν",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "βλασφημεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1337301,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 18,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1337302,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "20",
-        "word_num": 19,
-        "word": "blaspheme",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to blaspheme",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "βλασφημεῖν = to blaspheme",
-    "frequency": 0.06451612903225806,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548445",
-    "book_id": "1ti",
-    "chapter": "6",
-    "verse": "1",
-    "alignment_num": "22",
-    "orig_lang_words": ",1532462,",
-    "target_lang_words": ",1338708,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532462,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "1",
-        "word_num": 21,
-        "word": "βλασφημῆται",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,SPP3,,S,"
-      }
-    ],
-    "origWordsTxt": "βλασφημῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338708,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "1",
-        "word_num": 27,
-        "word": "might",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "might",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βλασφημῆται = might",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550291",
-    "book_id": "tit",
-    "chapter": "2",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1534323,",
-    "target_lang_words": ",1341306,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534323,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 14,
-        "word": "βλασφημῆται",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,SPP3,,S,"
-      }
-    ],
-    "origWordsTxt": "βλασφημῆται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341306,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 18,
-        "word": "may",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "may",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βλασφημῆται = may",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550446",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "2",
-    "alignment_num": "0",
-    "orig_lang_words": ",1534472,",
-    "target_lang_words": ",1341524,1341525,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534472,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 1,
-        "word": "βλασφημεῖν",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "βλασφημεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1341524,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 0,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1341525,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 1,
-        "word": "revile",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to revile",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "βλασφημεῖν = to revile",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556180",
-    "book_id": "jas",
-    "chapter": "2",
-    "verse": "7",
-    "alignment_num": "0",
-    "orig_lang_words": ",1540477,",
-    "target_lang_words": ",1350161,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540477,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "7",
-        "word_num": 2,
-        "word": "βλασφημοῦσιν",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,IPA3,,P,"
-      }
-    ],
-    "origWordsTxt": "βλασφημοῦσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350161,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "7",
-        "word_num": 0,
-        "word": "Do",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Do",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βλασφημοῦσιν = Do",
-    "frequency": 0.03225806451612903,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1230,69 +474,8 @@
     "targetWordsTxt": "so they speak evil about you",
     "alignmentTargetWords": 6,
     "alignmentTxt": "βλασφημοῦντες = so they speak evil about you",
-    "frequency": 0.03225806451612903,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559266",
-    "book_id": "2pe",
-    "chapter": "2",
-    "verse": "2",
-    "alignment_num": "9",
-    "orig_lang_words": ",1543799,",
-    "target_lang_words": ",1354969,1354970,1354971,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543799,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 12,
-        "word": "βλασφημηθήσεται",
-        "occurrence": 1,
-        "strong": "G09870",
-        "lemma": "βλασφημέω",
-        "morph": "Gr,V,IFP3,,S,"
-      }
-    ],
-    "origWordsTxt": "βλασφημηθήσεται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1354969,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 12,
-        "word": "will",
-        "occurrence": 2
-      },
-      {
-        "id": 1354970,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 13,
-        "word": "be",
-        "occurrence": 1
-      },
-      {
-        "id": 1354971,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 14,
-        "word": "blasphemed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will be blasphemed",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "βλασφημηθήσεται = will be blasphemed",
-    "frequency": 0.03225806451612903,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1345,7 +528,8 @@
     "targetWordsTxt": "to blaspheme",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βλασφημοῦντες = to blaspheme",
-    "frequency": 0.03225806451612903,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1398,7 +582,785 @@
     "targetWordsTxt": "they insult",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βλασφημοῦντες = they insult",
-    "frequency": 0.03225806451612903,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "486478",
+    "book_id": "luk",
+    "chapter": "23",
+    "verse": "39",
+    "alignment_num": "7",
+    "orig_lang_words": ",1467453,",
+    "target_lang_words": ",1251315,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1467453,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "39",
+        "word_num": 5,
+        "word": "ἐβλασφήμει",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐβλασφήμει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1251315,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "39",
+        "word_num": 9,
+        "word": "insulted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "insulted",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐβλασφήμει = insulted",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494906",
+    "book_id": "jhn",
+    "chapter": "10",
+    "verse": "36",
+    "alignment_num": "12",
+    "orig_lang_words": ",1476641,1476642,",
+    "target_lang_words": ",1262707,1262708,1262709,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1476641,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "36",
+        "word_num": 11,
+        "word": "ὅτι",
+        "occurrence": 1,
+        "strong": "G37540",
+        "lemma": "ὅτι",
+        "morph": "Gr,CS,,,,,,,,"
+      },
+      {
+        "id": 1476642,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "36",
+        "word_num": 12,
+        "word": "βλασφημεῖς",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,IPA2,,S,"
+      }
+    ],
+    "origWordsTxt": "ὅτι βλασφημεῖς",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1262707,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "36",
+        "word_num": 15,
+        "word": "You",
+        "occurrence": 1
+      },
+      {
+        "id": 1262708,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "36",
+        "word_num": 16,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 1262709,
+        "book_id": "jhn",
+        "chapter": "10",
+        "verse": "36",
+        "word_num": 17,
+        "word": "blaspheming",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "You are blaspheming",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ὅτι βλασφημεῖς = You are blaspheming",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513242",
+    "book_id": "act",
+    "chapter": "18",
+    "verse": "6",
+    "alignment_num": "5",
+    "orig_lang_words": ",1495801,",
+    "target_lang_words": ",1287588,1287589,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495801,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 4,
+        "word": "βλασφημούντων",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,PPA,GMP,"
+      }
+    ],
+    "origWordsTxt": "βλασφημούντων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1287588,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 5,
+        "word": "insulted",
+        "occurrence": 1
+      },
+      {
+        "id": 1287589,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "6",
+        "word_num": 6,
+        "word": "him",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "insulted him",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "βλασφημούντων = insulted him",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514314",
+    "book_id": "act",
+    "chapter": "19",
+    "verse": "37",
+    "alignment_num": "8",
+    "orig_lang_words": ",1496907,",
+    "target_lang_words": ",1289012,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1496907,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "37",
+        "word_num": 8,
+        "word": "βλασφημοῦντας",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,PPA,AMP,"
+      }
+    ],
+    "origWordsTxt": "βλασφημοῦντας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1289012,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "37",
+        "word_num": 13,
+        "word": "blasphemers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blasphemers",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βλασφημοῦντας = blasphemers",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518175",
+    "book_id": "act",
+    "chapter": "26",
+    "verse": "11",
+    "alignment_num": "8",
+    "orig_lang_words": ",1500859,",
+    "target_lang_words": ",1294391,1294392,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500859,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "11",
+        "word_num": 9,
+        "word": "βλασφημεῖν",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "βλασφημεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1294391,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "11",
+        "word_num": 10,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1294392,
+        "book_id": "act",
+        "chapter": "26",
+        "verse": "11",
+        "word_num": 11,
+        "word": "blaspheme",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to blaspheme",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "βλασφημεῖν = to blaspheme",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547453",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "20",
+    "alignment_num": "12",
+    "orig_lang_words": ",1531497,",
+    "target_lang_words": ",1337301,1337302,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531497,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 12,
+        "word": "βλασφημεῖν",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "βλασφημεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1337301,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 18,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1337302,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "20",
+        "word_num": 19,
+        "word": "blaspheme",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to blaspheme",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "βλασφημεῖν = to blaspheme",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550446",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "0",
+    "orig_lang_words": ",1534472,",
+    "target_lang_words": ",1341524,1341525,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534472,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 1,
+        "word": "βλασφημεῖν",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "βλασφημεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1341524,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 0,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1341525,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 1,
+        "word": "revile",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to revile",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "βλασφημεῖν = to revile",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520721",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "24",
+    "alignment_num": "4",
+    "orig_lang_words": ",1503526,",
+    "target_lang_words": ",1298097,1298098,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503526,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 7,
+        "word": "βλασφημεῖται",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,IPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "βλασφημεῖται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1298097,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 5,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1298098,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "24",
+        "word_num": 6,
+        "word": "blasphemed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is blasphemed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "βλασφημεῖται = is blasphemed",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520905",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "2",
+    "orig_lang_words": ",1503740,",
+    "target_lang_words": ",1298395,1298396,1298397,1298398,1298399,1298400,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1503740,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 3,
+        "word": "βλασφημούμεθα",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,IPP1,,P,"
+      }
+    ],
+    "origWordsTxt": "βλασφημούμεθα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 5,
+    "targetWords": [
+      {
+        "id": 1298395,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 4,
+        "word": "we",
+        "occurrence": 1
+      },
+      {
+        "id": 1298396,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 5,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 1298397,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 6,
+        "word": "falsely",
+        "occurrence": 1
+      },
+      {
+        "id": 1298398,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 7,
+        "word": "reported",
+        "occurrence": 1
+      },
+      {
+        "id": 1298399,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 8,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1298400,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 9,
+        "word": "say",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "we are falsely reported to say",
+    "alignmentTargetWords": 6,
+    "alignmentTxt": "βλασφημούμεθα = we are falsely reported to say",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525405",
+    "book_id": "rom",
+    "chapter": "14",
+    "verse": "16",
+    "alignment_num": "2",
+    "orig_lang_words": ",1508643,",
+    "target_lang_words": ",1305349,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508643,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 1,
+        "word": "βλασφημείσθω",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,MPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "βλασφημείσθω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1305349,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 3,
+        "word": "allow",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "allow",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βλασφημείσθω = allow",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "530108",
+    "book_id": "1co",
+    "chapter": "10",
+    "verse": "30",
+    "alignment_num": "5",
+    "orig_lang_words": ",1513554,",
+    "target_lang_words": ",1312316,1312317,1312318,1312319,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513554,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "30",
+        "word_num": 5,
+        "word": "βλασφημοῦμαι",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,IPP1,,S,"
+      }
+    ],
+    "origWordsTxt": "βλασφημοῦμαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1312316,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "30",
+        "word_num": 9,
+        "word": "am",
+        "occurrence": 1
+      },
+      {
+        "id": 1312317,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "30",
+        "word_num": 10,
+        "word": "I",
+        "occurrence": 2
+      },
+      {
+        "id": 1312318,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "30",
+        "word_num": 11,
+        "word": "being",
+        "occurrence": 1
+      },
+      {
+        "id": 1312319,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "30",
+        "word_num": 12,
+        "word": "insulted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "am I being insulted",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "βλασφημοῦμαι = am I being insulted",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548445",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "1",
+    "alignment_num": "22",
+    "orig_lang_words": ",1532462,",
+    "target_lang_words": ",1338708,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532462,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "1",
+        "word_num": 21,
+        "word": "βλασφημῆται",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,SPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "βλασφημῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338708,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "1",
+        "word_num": 27,
+        "word": "might",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "might",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βλασφημῆται = might",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550291",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1534323,",
+    "target_lang_words": ",1341306,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534323,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 14,
+        "word": "βλασφημῆται",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,SPP3,,S,"
+      }
+    ],
+    "origWordsTxt": "βλασφημῆται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341306,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 18,
+        "word": "may",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "may",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βλασφημῆται = may",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556180",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "7",
+    "alignment_num": "0",
+    "orig_lang_words": ",1540477,",
+    "target_lang_words": ",1350161,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540477,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 2,
+        "word": "βλασφημοῦσιν",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,IPA3,,P,"
+      }
+    ],
+    "origWordsTxt": "βλασφημοῦσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350161,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "7",
+        "word_num": 0,
+        "word": "Do",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Do",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βλασφημοῦσιν = Do",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1478,7 +1440,8 @@
     "targetWordsTxt": "they say slanderous things against",
     "alignmentTargetWords": 5,
     "alignmentTxt": "βλασφημοῦσιν = they say slanderous things against",
-    "frequency": 0.03225806451612903,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1522,7 +1485,71 @@
     "targetWordsTxt": "slander",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βλασφημοῦσιν = slander",
-    "frequency": 0.03225806451612903,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559266",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "2",
+    "alignment_num": "9",
+    "orig_lang_words": ",1543799,",
+    "target_lang_words": ",1354969,1354970,1354971,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543799,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 12,
+        "word": "βλασφημηθήσεται",
+        "occurrence": 1,
+        "strong": "G09870",
+        "lemma": "βλασφημέω",
+        "morph": "Gr,V,IFP3,,S,"
+      }
+    ],
+    "origWordsTxt": "βλασφημηθήσεται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1354969,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 12,
+        "word": "will",
+        "occurrence": 2
+      },
+      {
+        "id": 1354970,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 13,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 1354971,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 14,
+        "word": "blasphemed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will be blasphemed",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "βλασφημηθήσεται = will be blasphemed",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1566,7 +1593,8 @@
     "targetWordsTxt": "blaspheming",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βλασφημῆσαι = blaspheming",
-    "frequency": 0.03225806451612903,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1619,7 +1647,8 @@
     "targetWordsTxt": "they blasphemed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐβλασφήμησαν = they blasphemed",
-    "frequency": 0.06451612903225806,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1672,7 +1701,8 @@
     "targetWordsTxt": "they blasphemed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐβλασφήμησαν = they blasphemed",
-    "frequency": 0.06451612903225806,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1728,7 +1758,8 @@
     "targetWordsTxt": "blasphemed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ ἐβλασφήμησαν = blasphemed",
-    "frequency": 0.03225806451612903,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

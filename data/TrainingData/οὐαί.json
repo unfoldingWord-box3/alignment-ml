@@ -39,7 +39,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,7 +129,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -171,51 +174,8 @@
     "targetWordsTxt": "Woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = Woe",
-    "frequency": 0.30303030303030304,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "472883",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "25",
-    "alignment_num": "7",
-    "orig_lang_words": ",1453667,",
-    "target_lang_words": ",1232689,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1453667,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "25",
-        "word_num": 7,
-        "word": "οὐαί",
-        "occurrence": 1,
-        "strong": "G37590",
-        "lemma": "οὐαί",
-        "morph": "Gr,IE,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "οὐαί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1232689,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "25",
-        "word_num": 12,
-        "word": "Woe",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "Woe",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "οὐαί = Woe",
-    "frequency": 0.12121212121212122,
+    "frequency": 0.38461538461538464,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -277,95 +237,8 @@
     "targetWordsTxt": "Woe to you",
     "alignmentTargetWords": 3,
     "alignmentTxt": "οὐαὶ = Woe to you",
-    "frequency": 0.030303030303030304,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "476652",
-    "book_id": "luk",
-    "chapter": "10",
-    "verse": "13",
-    "alignment_num": "0",
-    "orig_lang_words": ",1457482,",
-    "target_lang_words": ",1237788,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1457482,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 0,
-        "word": "οὐαί",
-        "occurrence": 1,
-        "strong": "G37590",
-        "lemma": "οὐαί",
-        "morph": "Gr,IE,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "οὐαί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1237788,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 0,
-        "word": "Woe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Woe",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "οὐαί = Woe",
-    "frequency": 0.12121212121212122,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "476655",
-    "book_id": "luk",
-    "chapter": "10",
-    "verse": "13",
-    "alignment_num": "3",
-    "orig_lang_words": ",1457485,",
-    "target_lang_words": ",1237792,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1457485,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 3,
-        "word": "οὐαί",
-        "occurrence": 2,
-        "strong": "G37590",
-        "lemma": "οὐαί",
-        "morph": "Gr,IE,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "οὐαί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1237792,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "13",
-        "word_num": 4,
-        "word": "Woe",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "Woe",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "οὐαί = Woe",
-    "frequency": 0.12121212121212122,
+    "frequency": 0.038461538461538464,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -409,7 +282,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -453,7 +327,8 @@
     "targetWordsTxt": "Woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = Woe",
-    "frequency": 0.30303030303030304,
+    "frequency": 0.38461538461538464,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -497,51 +372,8 @@
     "targetWordsTxt": "Woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = Woe",
-    "frequency": 0.30303030303030304,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "478006",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "46",
-    "alignment_num": "3",
-    "orig_lang_words": ",1458883,",
-    "target_lang_words": ",1239645,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458883,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "46",
-        "word_num": 7,
-        "word": "οὐαί",
-        "occurrence": 1,
-        "strong": "G37590",
-        "lemma": "οὐαί",
-        "morph": "Gr,IE,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "οὐαί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1239645,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "46",
-        "word_num": 3,
-        "word": "Woe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Woe",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "οὐαί = Woe",
-    "frequency": 0.12121212121212122,
+    "frequency": 0.38461538461538464,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -585,7 +417,8 @@
     "targetWordsTxt": "Woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = Woe",
-    "frequency": 0.30303030303030304,
+    "frequency": 0.38461538461538464,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -629,7 +462,8 @@
     "targetWordsTxt": "Woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = Woe",
-    "frequency": 0.30303030303030304,
+    "frequency": 0.38461538461538464,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -700,7 +534,8 @@
     "targetWordsTxt": "woe to the one",
     "alignmentTargetWords": 4,
     "alignmentTxt": "οὐαὶ = woe to the one",
-    "frequency": 0.030303030303030304,
+    "frequency": 0.038461538461538464,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -744,7 +579,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -788,7 +624,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -832,7 +669,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -876,7 +714,8 @@
     "targetWordsTxt": "Woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = Woe",
-    "frequency": 0.30303030303030304,
+    "frequency": 0.38461538461538464,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -920,7 +759,8 @@
     "targetWordsTxt": "Woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = Woe",
-    "frequency": 0.30303030303030304,
+    "frequency": 0.38461538461538464,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -964,7 +804,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1008,7 +849,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1052,7 +894,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1096,7 +939,8 @@
     "targetWordsTxt": "woes",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woes",
-    "frequency": 0.030303030303030304,
+    "frequency": 0.038461538461538464,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1140,7 +984,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1184,7 +1029,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = woe",
-    "frequency": 0.36363636363636365,
+    "frequency": 0.46153846153846156,
+    "matchCount": 12,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1237,7 +1083,8 @@
     "targetWordsTxt": "But woe",
     "alignmentTargetWords": 2,
     "alignmentTxt": "οὐαὶ = But woe",
-    "frequency": 0.030303030303030304,
+    "frequency": 0.038461538461538464,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1281,51 +1128,8 @@
     "targetWordsTxt": "Woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = Woe",
-    "frequency": 0.30303030303030304,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569438",
-    "book_id": "rev",
-    "chapter": "18",
-    "verse": "10",
-    "alignment_num": "11",
-    "orig_lang_words": ",1554987,",
-    "target_lang_words": ",1369132,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554987,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 11,
-        "word": "οὐαί",
-        "occurrence": 1,
-        "strong": "G37590",
-        "lemma": "οὐαί",
-        "morph": "Gr,IE,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "οὐαί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369132,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 16,
-        "word": "woe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "woe",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "οὐαί = woe",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.38461538461538464,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1369,51 +1173,8 @@
     "targetWordsTxt": "Woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = Woe",
-    "frequency": 0.30303030303030304,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569557",
-    "book_id": "rev",
-    "chapter": "18",
-    "verse": "16",
-    "alignment_num": "2",
-    "orig_lang_words": ",1555137,",
-    "target_lang_words": ",1369285,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555137,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "16",
-        "word_num": 2,
-        "word": "οὐαί",
-        "occurrence": 1,
-        "strong": "G37590",
-        "lemma": "οὐαί",
-        "morph": "Gr,IE,,,,,,,,"
-      }
-    ],
-    "origWordsTxt": "οὐαί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369285,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "16",
-        "word_num": 4,
-        "word": "woe",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "woe",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "οὐαί = woe",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.38461538461538464,
+    "matchCount": 10,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1457,7 +1218,278 @@
     "targetWordsTxt": "Woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαὶ = Woe",
-    "frequency": 0.30303030303030304,
+    "frequency": 0.38461538461538464,
+    "matchCount": 10,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "472883",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "25",
+    "alignment_num": "7",
+    "orig_lang_words": ",1453667,",
+    "target_lang_words": ",1232689,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1453667,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "25",
+        "word_num": 7,
+        "word": "οὐαί",
+        "occurrence": 1,
+        "strong": "G37590",
+        "lemma": "οὐαί",
+        "morph": "Gr,IE,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "οὐαί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1232689,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "25",
+        "word_num": 12,
+        "word": "Woe",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "Woe",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οὐαί = Woe",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "476652",
+    "book_id": "luk",
+    "chapter": "10",
+    "verse": "13",
+    "alignment_num": "0",
+    "orig_lang_words": ",1457482,",
+    "target_lang_words": ",1237788,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1457482,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 0,
+        "word": "οὐαί",
+        "occurrence": 1,
+        "strong": "G37590",
+        "lemma": "οὐαί",
+        "morph": "Gr,IE,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "οὐαί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1237788,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 0,
+        "word": "Woe",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Woe",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οὐαί = Woe",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "476655",
+    "book_id": "luk",
+    "chapter": "10",
+    "verse": "13",
+    "alignment_num": "3",
+    "orig_lang_words": ",1457485,",
+    "target_lang_words": ",1237792,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1457485,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 3,
+        "word": "οὐαί",
+        "occurrence": 2,
+        "strong": "G37590",
+        "lemma": "οὐαί",
+        "morph": "Gr,IE,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "οὐαί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1237792,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "13",
+        "word_num": 4,
+        "word": "Woe",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "Woe",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οὐαί = Woe",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "478006",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "46",
+    "alignment_num": "3",
+    "orig_lang_words": ",1458883,",
+    "target_lang_words": ",1239645,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458883,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "46",
+        "word_num": 7,
+        "word": "οὐαί",
+        "occurrence": 1,
+        "strong": "G37590",
+        "lemma": "οὐαί",
+        "morph": "Gr,IE,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "οὐαί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1239645,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "46",
+        "word_num": 3,
+        "word": "Woe",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Woe",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οὐαί = Woe",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569438",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "10",
+    "alignment_num": "11",
+    "orig_lang_words": ",1554987,",
+    "target_lang_words": ",1369132,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554987,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 11,
+        "word": "οὐαί",
+        "occurrence": 1,
+        "strong": "G37590",
+        "lemma": "οὐαί",
+        "morph": "Gr,IE,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "οὐαί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369132,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 16,
+        "word": "woe",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "woe",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οὐαί = woe",
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569557",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "16",
+    "alignment_num": "2",
+    "orig_lang_words": ",1555137,",
+    "target_lang_words": ",1369285,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555137,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "16",
+        "word_num": 2,
+        "word": "οὐαί",
+        "occurrence": 1,
+        "strong": "G37590",
+        "lemma": "οὐαί",
+        "morph": "Gr,IE,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "οὐαί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369285,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "16",
+        "word_num": 4,
+        "word": "woe",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "woe",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οὐαί = woe",
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1501,7 +1533,8 @@
     "targetWordsTxt": "woe",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐαί = woe",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

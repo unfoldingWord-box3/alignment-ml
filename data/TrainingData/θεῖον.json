@@ -39,7 +39,8 @@
     "targetWordsTxt": "sulfur",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θεῖον = sulfur",
-    "frequency": 0.2857142857142857,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "sulfur",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θεῖον = sulfur",
-    "frequency": 0.2857142857142857,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,95 +129,8 @@
     "targetWordsTxt": "sulfur",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θείου = sulfur",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567928",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "10",
-    "alignment_num": "22",
-    "orig_lang_words": ",1553349,",
-    "target_lang_words": ",1367115,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553349,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "10",
-        "word_num": 24,
-        "word": "θείῳ",
-        "occurrence": 1,
-        "strong": "G23030",
-        "lemma": "θεῖον",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "θείῳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367115,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "10",
-        "word_num": 32,
-        "word": "sulfur",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sulfur",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θείῳ = sulfur",
-    "frequency": 0.42857142857142855,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "570193",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "20",
-    "alignment_num": "36",
-    "orig_lang_words": ",1555869,",
-    "target_lang_words": ",1370157,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555869,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "20",
-        "word_num": 42,
-        "word": "θείῳ",
-        "occurrence": 1,
-        "strong": "G23030",
-        "lemma": "θεῖον",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "θείῳ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1370157,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "20",
-        "word_num": 50,
-        "word": "sulfur",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sulfur",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "θείῳ = sulfur",
-    "frequency": 0.42857142857142855,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -259,7 +174,98 @@
     "targetWordsTxt": "sulfur",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θείου = sulfur",
-    "frequency": 0.2857142857142857,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567928",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "10",
+    "alignment_num": "22",
+    "orig_lang_words": ",1553349,",
+    "target_lang_words": ",1367115,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553349,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 24,
+        "word": "θείῳ",
+        "occurrence": 1,
+        "strong": "G23030",
+        "lemma": "θεῖον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "θείῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367115,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "10",
+        "word_num": 32,
+        "word": "sulfur",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sulfur",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θείῳ = sulfur",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570193",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "20",
+    "alignment_num": "36",
+    "orig_lang_words": ",1555869,",
+    "target_lang_words": ",1370157,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555869,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "20",
+        "word_num": 42,
+        "word": "θείῳ",
+        "occurrence": 1,
+        "strong": "G23030",
+        "lemma": "θεῖον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "θείῳ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1370157,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "20",
+        "word_num": 50,
+        "word": "sulfur",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sulfur",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "θείῳ = sulfur",
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -303,7 +309,8 @@
     "targetWordsTxt": "sulfur",
     "alignmentTargetWords": 1,
     "alignmentTxt": "θείῳ = sulfur",
-    "frequency": 0.42857142857142855,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

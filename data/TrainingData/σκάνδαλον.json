@@ -48,7 +48,65 @@
     "targetWordsTxt": "stumbling blocks",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σκάνδαλα = stumbling blocks",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526250",
+    "book_id": "rom",
+    "chapter": "16",
+    "verse": "17",
+    "alignment_num": "9",
+    "orig_lang_words": ",1509551,1509552,",
+    "target_lang_words": ",1306609,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1509551,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "17",
+        "word_num": 9,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1509552,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "17",
+        "word_num": 10,
+        "word": "σκάνδαλα",
+        "occurrence": 1,
+        "strong": "G46250",
+        "lemma": "σκάνδαλον",
+        "morph": "Gr,N,,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ σκάνδαλα",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1306609,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "17",
+        "word_num": 14,
+        "word": "obstacles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "obstacles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ σκάνδαλα = obstacles",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +159,80 @@
     "targetWordsTxt": "of offense",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σκανδάλου = of offense",
-    "frequency": 0.1,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557841",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "8",
+    "alignment_num": "5",
+    "orig_lang_words": ",1542215,",
+    "target_lang_words": ",1352611,1352612,1352613,1352614,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542215,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 5,
+        "word": "σκανδάλου",
+        "occurrence": 1,
+        "strong": "G46250",
+        "lemma": "σκάνδαλον",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "σκανδάλου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1352611,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 8,
+        "word": "that",
+        "occurrence": 1
+      },
+      {
+        "id": 1352612,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 9,
+        "word": "makes",
+        "occurrence": 1
+      },
+      {
+        "id": 1352613,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 10,
+        "word": "them",
+        "occurrence": 1
+      },
+      {
+        "id": 1352614,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "8",
+        "word_num": 11,
+        "word": "fall",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "that makes them fall",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "σκανδάλου = that makes them fall",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -175,7 +306,8 @@
     "targetWordsTxt": "a stumbling block",
     "alignmentTargetWords": 3,
     "alignmentTxt": "εἰς σκάνδαλον = a stumbling block",
-    "frequency": 0.1,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -228,63 +360,8 @@
     "targetWordsTxt": "a snare",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σκάνδαλον = a snare",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526250",
-    "book_id": "rom",
-    "chapter": "16",
-    "verse": "17",
-    "alignment_num": "9",
-    "orig_lang_words": ",1509551,1509552,",
-    "target_lang_words": ",1306609,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1509551,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "17",
-        "word_num": 9,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1509552,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "17",
-        "word_num": 10,
-        "word": "σκάνδαλα",
-        "occurrence": 1,
-        "strong": "G46250",
-        "lemma": "σκάνδαλον",
-        "morph": "Gr,N,,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ σκάνδαλα",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1306609,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "17",
-        "word_num": 14,
-        "word": "obstacles",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "obstacles",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ σκάνδαλα = obstacles",
-    "frequency": 0.1,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -346,7 +423,8 @@
     "targetWordsTxt": "a stumbling block",
     "alignmentTargetWords": 3,
     "alignmentTxt": "σκάνδαλον = a stumbling block",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -399,78 +477,8 @@
     "targetWordsTxt": "stumbling block",
     "alignmentTargetWords": 2,
     "alignmentTxt": "σκάνδαλον = stumbling block",
-    "frequency": 0.1,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557841",
-    "book_id": "1pe",
-    "chapter": "2",
-    "verse": "8",
-    "alignment_num": "5",
-    "orig_lang_words": ",1542215,",
-    "target_lang_words": ",1352611,1352612,1352613,1352614,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542215,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 5,
-        "word": "σκανδάλου",
-        "occurrence": 1,
-        "strong": "G46250",
-        "lemma": "σκάνδαλον",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "σκανδάλου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1352611,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 8,
-        "word": "that",
-        "occurrence": 1
-      },
-      {
-        "id": 1352612,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 9,
-        "word": "makes",
-        "occurrence": 1
-      },
-      {
-        "id": 1352613,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 10,
-        "word": "them",
-        "occurrence": 1
-      },
-      {
-        "id": 1352614,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "8",
-        "word_num": 11,
-        "word": "fall",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "that makes them fall",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "σκανδάλου = that makes them fall",
-    "frequency": 0.1,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -532,7 +540,8 @@
     "targetWordsTxt": "occasion for stumbling",
     "alignmentTargetWords": 3,
     "alignmentTxt": "σκάνδαλον = occasion for stumbling",
-    "frequency": 0.1,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -594,7 +603,8 @@
     "targetWordsTxt": "a stumbling block",
     "alignmentTargetWords": 3,
     "alignmentTxt": "σκάνδαλον = a stumbling block",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

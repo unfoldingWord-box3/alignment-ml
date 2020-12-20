@@ -39,60 +39,8 @@
     "targetWordsTxt": "called",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσκαλεῖται = called",
-    "frequency": 0.043478260869565216,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "459546",
-    "book_id": "mrk",
-    "chapter": "3",
-    "verse": "23",
-    "alignment_num": "1",
-    "orig_lang_words": ",1439344,",
-    "target_lang_words": ",1213802,1213803,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1439344,
-        "book_id": "mrk",
-        "chapter": "3",
-        "verse": "23",
-        "word_num": 1,
-        "word": "προσκαλεσάμενος",
-        "occurrence": 1,
-        "strong": "G43410",
-        "lemma": "προσκαλέω",
-        "morph": "Gr,V,PAM,NMS,"
-      }
-    ],
-    "origWordsTxt": "προσκαλεσάμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1213802,
-        "book_id": "mrk",
-        "chapter": "3",
-        "verse": "23",
-        "word_num": 1,
-        "word": "Jesus",
-        "occurrence": 1
-      },
-      {
-        "id": 1213803,
-        "book_id": "mrk",
-        "chapter": "3",
-        "verse": "23",
-        "word_num": 2,
-        "word": "called",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Jesus called",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσκαλεσάμενος = Jesus called",
-    "frequency": 0.08695652173913043,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +93,62 @@
     "targetWordsTxt": "he called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκαλεῖται = he called",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "459546",
+    "book_id": "mrk",
+    "chapter": "3",
+    "verse": "23",
+    "alignment_num": "1",
+    "orig_lang_words": ",1439344,",
+    "target_lang_words": ",1213802,1213803,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1439344,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "23",
+        "word_num": 1,
+        "word": "προσκαλεσάμενος",
+        "occurrence": 1,
+        "strong": "G43410",
+        "lemma": "προσκαλέω",
+        "morph": "Gr,V,PAM,NMS,"
+      }
+    ],
+    "origWordsTxt": "προσκαλεσάμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1213802,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "23",
+        "word_num": 1,
+        "word": "Jesus",
+        "occurrence": 1
+      },
+      {
+        "id": 1213803,
+        "book_id": "mrk",
+        "chapter": "3",
+        "verse": "23",
+        "word_num": 2,
+        "word": "called",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Jesus called",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσκαλεσάμενος = Jesus called",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +201,8 @@
     "targetWordsTxt": "he called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκαλεσάμενος = he called",
-    "frequency": 0.21739130434782608,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -251,7 +255,8 @@
     "targetWordsTxt": "Jesus called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκαλεσάμενος = Jesus called",
-    "frequency": 0.08695652173913043,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -304,7 +309,8 @@
     "targetWordsTxt": "he called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκαλεσάμενος = he called",
-    "frequency": 0.21739130434782608,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -348,7 +354,8 @@
     "targetWordsTxt": "called",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσκαλεσάμενος = called",
-    "frequency": 0.08695652173913043,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -413,7 +420,8 @@
     "targetWordsTxt": "He called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καὶ προσκαλεσάμενος = He called",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -466,7 +474,8 @@
     "targetWordsTxt": "he called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκαλεσάμενος = he called",
-    "frequency": 0.21739130434782608,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -510,7 +519,8 @@
     "targetWordsTxt": "summoning",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσκαλεσάμενος = summoning",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -563,7 +573,8 @@
     "targetWordsTxt": "he called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκαλεσάμενος = he called",
-    "frequency": 0.21739130434782608,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -616,7 +627,98 @@
     "targetWordsTxt": "he called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκαλεσάμενος = he called",
-    "frequency": 0.21739130434782608,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "509885",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "7",
+    "alignment_num": "11",
+    "orig_lang_words": ",1492336,",
+    "target_lang_words": ",1283029,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1492336,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "7",
+        "word_num": 10,
+        "word": "προσκαλεσάμενος",
+        "occurrence": 1,
+        "strong": "G43410",
+        "lemma": "προσκαλέω",
+        "morph": "Gr,V,PAM,NMS,"
+      }
+    ],
+    "origWordsTxt": "προσκαλεσάμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1283029,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "7",
+        "word_num": 13,
+        "word": "summoned",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "summoned",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσκαλεσάμενος = summoned",
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516678",
+    "book_id": "act",
+    "chapter": "23",
+    "verse": "17",
+    "alignment_num": "2",
+    "orig_lang_words": ",1499338,",
+    "target_lang_words": ",1292251,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499338,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "17",
+        "word_num": 0,
+        "word": "προσκαλεσάμενος",
+        "occurrence": 1,
+        "strong": "G43410",
+        "lemma": "προσκαλέω",
+        "morph": "Gr,V,PAM,NMS,"
+      }
+    ],
+    "origWordsTxt": "προσκαλεσάμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1292251,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "17",
+        "word_num": 2,
+        "word": "called",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "called",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσκαλεσάμενος = called",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -660,7 +762,8 @@
     "targetWordsTxt": "called",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσεκαλέσατο = called",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -725,7 +828,8 @@
     "targetWordsTxt": "will call",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἂν προσκαλέσηται = will call",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -778,7 +882,8 @@
     "targetWordsTxt": "they called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκαλεσάμενοι = they called",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -840,7 +945,8 @@
     "targetWordsTxt": "called to them",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προσκαλεσάμενοι = called to them",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -902,51 +1008,8 @@
     "targetWordsTxt": "I have called",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προσκέκλημαι = I have called",
-    "frequency": 0.043478260869565216,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "509885",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "7",
-    "alignment_num": "11",
-    "orig_lang_words": ",1492336,",
-    "target_lang_words": ",1283029,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1492336,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "7",
-        "word_num": 10,
-        "word": "προσκαλεσάμενος",
-        "occurrence": 1,
-        "strong": "G43410",
-        "lemma": "προσκαλέω",
-        "morph": "Gr,V,PAM,NMS,"
-      }
-    ],
-    "origWordsTxt": "προσκαλεσάμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1283029,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "7",
-        "word_num": 13,
-        "word": "summoned",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "summoned",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκαλεσάμενος = summoned",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -999,51 +1062,8 @@
     "targetWordsTxt": "had called",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκέκληται = had called",
-    "frequency": 0.043478260869565216,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516678",
-    "book_id": "act",
-    "chapter": "23",
-    "verse": "17",
-    "alignment_num": "2",
-    "orig_lang_words": ",1499338,",
-    "target_lang_words": ",1292251,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499338,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "17",
-        "word_num": 0,
-        "word": "προσκαλεσάμενος",
-        "occurrence": 1,
-        "strong": "G43410",
-        "lemma": "προσκαλέω",
-        "morph": "Gr,V,PAM,NMS,"
-      }
-    ],
-    "origWordsTxt": "προσκαλεσάμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1292251,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "17",
-        "word_num": 2,
-        "word": "called",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "called",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκαλεσάμενος = called",
-    "frequency": 0.08695652173913043,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1087,7 +1107,8 @@
     "targetWordsTxt": "summoned",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσκαλεσάμενός = summoned",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1140,7 +1161,8 @@
     "targetWordsTxt": "he summoned",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκαλεσάμενός = he summoned",
-    "frequency": 0.043478260869565216,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1202,7 +1224,8 @@
     "targetWordsTxt": "Let him call",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προσκαλεσάσθω = Let him call",
-    "frequency": 0.043478260869565216,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -39,7 +39,152 @@
     "targetWordsTxt": "appointed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κατέστησεν = appointed",
-    "frequency": 0.125,
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505609",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "10",
+    "alignment_num": "17",
+    "orig_lang_words": ",1487946,",
+    "target_lang_words": ",1277274,1277275,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487946,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "10",
+        "word_num": 19,
+        "word": "κατέστησεν",
+        "occurrence": 1,
+        "strong": "G25250",
+        "lemma": "καθίστημι",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "κατέστησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1277274,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "10",
+        "word_num": 23,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 1277275,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "10",
+        "word_num": 24,
+        "word": "appointed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he appointed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κατέστησεν = he appointed",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505876",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "27",
+    "alignment_num": "10",
+    "orig_lang_words": ",1488228,",
+    "target_lang_words": ",1277630,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488228,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 10,
+        "word": "κατέστησεν",
+        "occurrence": 1,
+        "strong": "G25250",
+        "lemma": "καθίστημι",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "κατέστησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1277630,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "27",
+        "word_num": 14,
+        "word": "made",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "made",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κατέστησεν = made",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506014",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "35",
+    "alignment_num": "7",
+    "orig_lang_words": ",1488367,",
+    "target_lang_words": ",1277827,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488367,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "35",
+        "word_num": 8,
+        "word": "κατέστησεν",
+        "occurrence": 1,
+        "strong": "G25250",
+        "lemma": "καθίστημι",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "κατέστησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1277827,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "35",
+        "word_num": 8,
+        "word": "appointed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "appointed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κατέστησεν = appointed",
+    "frequency": 0.5,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +237,8 @@
     "targetWordsTxt": "will appoint",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καταστήσει = will appoint",
-    "frequency": 0.0625,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,7 +300,8 @@
     "targetWordsTxt": "he will appoint",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καταστήσει = he will appoint",
-    "frequency": 0.0625,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -216,148 +363,8 @@
     "targetWordsTxt": "we may appoint",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καταστήσομεν = we may appoint",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505609",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "10",
-    "alignment_num": "17",
-    "orig_lang_words": ",1487946,",
-    "target_lang_words": ",1277274,1277275,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487946,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "10",
-        "word_num": 19,
-        "word": "κατέστησεν",
-        "occurrence": 1,
-        "strong": "G25250",
-        "lemma": "καθίστημι",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "κατέστησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1277274,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "10",
-        "word_num": 23,
-        "word": "he",
-        "occurrence": 2
-      },
-      {
-        "id": 1277275,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "10",
-        "word_num": 24,
-        "word": "appointed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he appointed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κατέστησεν = he appointed",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505876",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "27",
-    "alignment_num": "10",
-    "orig_lang_words": ",1488228,",
-    "target_lang_words": ",1277630,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1488228,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "27",
-        "word_num": 10,
-        "word": "κατέστησεν",
-        "occurrence": 1,
-        "strong": "G25250",
-        "lemma": "καθίστημι",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "κατέστησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1277630,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "27",
-        "word_num": 14,
-        "word": "made",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "made",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κατέστησεν = made",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506014",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "35",
-    "alignment_num": "7",
-    "orig_lang_words": ",1488367,",
-    "target_lang_words": ",1277827,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1488367,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "35",
-        "word_num": 8,
-        "word": "κατέστησεν",
-        "occurrence": 1,
-        "strong": "G25250",
-        "lemma": "καθίστημι",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "κατέστησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1277827,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "35",
-        "word_num": 8,
-        "word": "appointed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "appointed",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κατέστησεν = appointed",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -410,7 +417,8 @@
     "targetWordsTxt": "were made",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κατεστάθησαν = were made",
-    "frequency": 0.0625,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -454,7 +462,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κατασταθήσονται = will",
-    "frequency": 0.0625,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -498,7 +507,8 @@
     "targetWordsTxt": "ordain",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καταστήσῃς = ordain",
-    "frequency": 0.0625,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -569,51 +579,8 @@
     "targetWordsTxt": "is appointed to act",
     "alignmentTargetWords": 4,
     "alignmentTxt": "καθίσταται = is appointed to act",
-    "frequency": 0.0625,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552976",
-    "book_id": "heb",
-    "chapter": "7",
-    "verse": "28",
-    "alignment_num": "3",
-    "orig_lang_words": ",1537124,",
-    "target_lang_words": ",1345274,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537124,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "28",
-        "word_num": 4,
-        "word": "καθίστησιν",
-        "occurrence": 1,
-        "strong": "G25250",
-        "lemma": "καθίστημι",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "καθίστησιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1345274,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "28",
-        "word_num": 3,
-        "word": "appoints",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "appoints",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καθίστησιν = appoints",
-    "frequency": 0.0625,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -666,7 +633,8 @@
     "targetWordsTxt": "is appointed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καθίσταται = is appointed",
-    "frequency": 0.0625,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -719,7 +687,8 @@
     "targetWordsTxt": "is set",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καθίσταται = is set",
-    "frequency": 0.0625,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -772,7 +741,53 @@
     "targetWordsTxt": "makes himself",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καθίσταται = makes himself",
-    "frequency": 0.0625,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552976",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "28",
+    "alignment_num": "3",
+    "orig_lang_words": ",1537124,",
+    "target_lang_words": ",1345274,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537124,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "28",
+        "word_num": 4,
+        "word": "καθίστησιν",
+        "occurrence": 1,
+        "strong": "G25250",
+        "lemma": "καθίστημι",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "καθίστησιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345274,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "28",
+        "word_num": 3,
+        "word": "appoints",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "appoints",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καθίστησιν = appoints",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -825,7 +840,8 @@
     "targetWordsTxt": "you will",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καθίστησιν = you will",
-    "frequency": 0.0625,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

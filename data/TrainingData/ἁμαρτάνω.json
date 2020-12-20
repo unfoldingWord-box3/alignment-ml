@@ -57,7 +57,8 @@
     "targetWordsTxt": "I have sinned",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἥμαρτον = I have sinned",
-    "frequency": 0.05128205128205128,
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -119,236 +120,8 @@
     "targetWordsTxt": "I have sinned",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἥμαρτον = I have sinned",
-    "frequency": 0.05128205128205128,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481617",
-    "book_id": "luk",
-    "chapter": "17",
-    "verse": "3",
-    "alignment_num": "5",
-    "orig_lang_words": ",1462541,",
-    "target_lang_words": ",1244607,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462541,
-        "book_id": "luk",
-        "chapter": "17",
-        "verse": "3",
-        "word_num": 3,
-        "word": "ἁμάρτῃ",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἁμάρτῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1244607,
-        "book_id": "luk",
-        "chapter": "17",
-        "verse": "3",
-        "word_num": 7,
-        "word": "sins",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sins",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁμάρτῃ = sins",
-    "frequency": 0.05128205128205128,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481627",
-    "book_id": "luk",
-    "chapter": "17",
-    "verse": "4",
-    "alignment_num": "2",
-    "orig_lang_words": ",1462557,",
-    "target_lang_words": ",1244618,1244619,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462557,
-        "book_id": "luk",
-        "chapter": "17",
-        "verse": "4",
-        "word_num": 5,
-        "word": "ἁμαρτήσῃ",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἁμαρτήσῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1244618,
-        "book_id": "luk",
-        "chapter": "17",
-        "verse": "4",
-        "word_num": 2,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1244619,
-        "book_id": "luk",
-        "chapter": "17",
-        "verse": "4",
-        "word_num": 3,
-        "word": "sins",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he sins",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἁμαρτήσῃ = he sins",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490343",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "14",
-    "alignment_num": "14",
-    "orig_lang_words": ",1471610,",
-    "target_lang_words": ",1256460,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471610,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 16,
-        "word": "ἁμάρτανε",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,MPA2,,S,"
-      }
-    ],
-    "origWordsTxt": "ἁμάρτανε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1256460,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 18,
-        "word": "sin",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sin",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁμάρτανε = sin",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493708",
-    "book_id": "jhn",
-    "chapter": "9",
-    "verse": "2",
-    "alignment_num": "8",
-    "orig_lang_words": ",1475371,",
-    "target_lang_words": ",1261091,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475371,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "2",
-        "word_num": 9,
-        "word": "ἥμαρτεν",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἥμαρτεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1261091,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "2",
-        "word_num": 8,
-        "word": "sinned",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sinned",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἥμαρτεν = sinned",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493719",
-    "book_id": "jhn",
-    "chapter": "9",
-    "verse": "3",
-    "alignment_num": "3",
-    "orig_lang_words": ",1475384,",
-    "target_lang_words": ",1261106,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475384,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "3",
-        "word_num": 4,
-        "word": "ἥμαρτεν",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἥμαρτεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1261106,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "3",
-        "word_num": 3,
-        "word": "did",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "did",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἥμαρτεν = did",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.2857142857142857,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -410,7 +183,8 @@
     "targetWordsTxt": "have I done",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἥμαρτον = have I done",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -463,7 +237,8 @@
     "targetWordsTxt": "have sinned",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἥμαρτον = have sinned",
-    "frequency": 0.07692307692307693,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -516,7 +291,8 @@
     "targetWordsTxt": "have sinned",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἥμαρτον = have sinned",
-    "frequency": 0.07692307692307693,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -569,7 +345,8 @@
     "targetWordsTxt": "have sinned",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἥμαρτον = have sinned",
-    "frequency": 0.07692307692307693,
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -613,7 +390,341 @@
     "targetWordsTxt": "sinned",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἥμαρτον = sinned",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481617",
+    "book_id": "luk",
+    "chapter": "17",
+    "verse": "3",
+    "alignment_num": "5",
+    "orig_lang_words": ",1462541,",
+    "target_lang_words": ",1244607,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462541,
+        "book_id": "luk",
+        "chapter": "17",
+        "verse": "3",
+        "word_num": 3,
+        "word": "ἁμάρτῃ",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἁμάρτῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1244607,
+        "book_id": "luk",
+        "chapter": "17",
+        "verse": "3",
+        "word_num": 7,
+        "word": "sins",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sins",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁμάρτῃ = sins",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560118",
+    "book_id": "1jn",
+    "chapter": "2",
+    "verse": "1",
+    "alignment_num": "12",
+    "orig_lang_words": ",1544694,",
+    "target_lang_words": ",1356295,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1544694,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 11,
+        "word": "ἁμάρτῃ",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἁμάρτῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1356295,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "1",
+        "word_num": 18,
+        "word": "sins",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sins",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁμάρτῃ = sins",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481627",
+    "book_id": "luk",
+    "chapter": "17",
+    "verse": "4",
+    "alignment_num": "2",
+    "orig_lang_words": ",1462557,",
+    "target_lang_words": ",1244618,1244619,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462557,
+        "book_id": "luk",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 5,
+        "word": "ἁμαρτήσῃ",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἁμαρτήσῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1244618,
+        "book_id": "luk",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 2,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1244619,
+        "book_id": "luk",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 3,
+        "word": "sins",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he sins",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἁμαρτήσῃ = he sins",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490343",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "14",
+    "alignment_num": "14",
+    "orig_lang_words": ",1471610,",
+    "target_lang_words": ",1256460,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471610,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 16,
+        "word": "ἁμάρτανε",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,MPA2,,S,"
+      }
+    ],
+    "origWordsTxt": "ἁμάρτανε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256460,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 18,
+        "word": "sin",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sin",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁμάρτανε = sin",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493708",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "2",
+    "alignment_num": "8",
+    "orig_lang_words": ",1475371,",
+    "target_lang_words": ",1261091,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475371,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 9,
+        "word": "ἥμαρτεν",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἥμαρτεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1261091,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "2",
+        "word_num": 8,
+        "word": "sinned",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sinned",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἥμαρτεν = sinned",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493719",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "3",
+    "alignment_num": "3",
+    "orig_lang_words": ",1475384,",
+    "target_lang_words": ",1261106,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475384,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "3",
+        "word_num": 4,
+        "word": "ἥμαρτεν",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἥμαρτεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1261106,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "3",
+        "word_num": 3,
+        "word": "did",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "did",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἥμαρτεν = did",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528796",
+    "book_id": "1co",
+    "chapter": "7",
+    "verse": "28",
+    "alignment_num": "11",
+    "orig_lang_words": ",1512207,",
+    "target_lang_words": ",1310303,1310304,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1512207,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "28",
+        "word_num": 12,
+        "word": "ἥμαρτεν",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἥμαρτεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1310303,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "28",
+        "word_num": 14,
+        "word": "she",
+        "occurrence": 1
+      },
+      {
+        "id": 1310304,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "28",
+        "word_num": 15,
+        "word": "has",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "she has",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἥμαρτεν = she has",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -657,7 +768,8 @@
     "targetWordsTxt": "who",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁμαρτήσαντας = who",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -788,7 +900,8 @@
     "targetWordsTxt": "the outcome of that one man's sin",
     "alignmentTargetWords": 7,
     "alignmentTxt": "δι’ ἑνὸς ἁμαρτήσαντος = the outcome of that one man's sin",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -850,7 +963,8 @@
     "targetWordsTxt": "Shall we sin",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἁμαρτήσωμεν = Shall we sin",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -894,113 +1008,8 @@
     "targetWordsTxt": "sins",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁμαρτάνει = sins",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "528789",
-    "book_id": "1co",
-    "chapter": "7",
-    "verse": "28",
-    "alignment_num": "4",
-    "orig_lang_words": ",1512200,",
-    "target_lang_words": ",1310294,1310295,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1512200,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "28",
-        "word_num": 5,
-        "word": "ἥμαρτες",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,IAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "ἥμαρτες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1310294,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "28",
-        "word_num": 5,
-        "word": "you",
-        "occurrence": 2
-      },
-      {
-        "id": 1310295,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "28",
-        "word_num": 6,
-        "word": "have",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you have",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἥμαρτες = you have",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "528796",
-    "book_id": "1co",
-    "chapter": "7",
-    "verse": "28",
-    "alignment_num": "11",
-    "orig_lang_words": ",1512207,",
-    "target_lang_words": ",1310303,1310304,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1512207,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "28",
-        "word_num": 12,
-        "word": "ἥμαρτεν",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἥμαρτεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1310303,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "28",
-        "word_num": 14,
-        "word": "she",
-        "occurrence": 1
-      },
-      {
-        "id": 1310304,
-        "book_id": "1co",
-        "chapter": "7",
-        "verse": "28",
-        "word_num": 15,
-        "word": "has",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "she has",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἥμαρτεν = she has",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1053,7 +1062,260 @@
     "targetWordsTxt": "He is",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁμαρτάνει = He is",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550591",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "11",
+    "alignment_num": "5",
+    "orig_lang_words": ",1534614,",
+    "target_lang_words": ",1341720,1341721,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534614,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 6,
+        "word": "ἁμαρτάνει",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἁμαρτάνει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1341720,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 12,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1341721,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 13,
+        "word": "sinning",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is sinning",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἁμαρτάνει = is sinning",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560744",
+    "book_id": "1jn",
+    "chapter": "3",
+    "verse": "6",
+    "alignment_num": "2",
+    "orig_lang_words": ",1545366,",
+    "target_lang_words": ",1357154,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545366,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 6,
+        "word": "ἁμαρτάνει",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἁμαρτάνει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1357154,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 5,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁμαρτάνει = will",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560777",
+    "book_id": "1jn",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "9",
+    "orig_lang_words": ",1545403,",
+    "target_lang_words": ",1357205,1357206,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545403,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 13,
+        "word": "ἁμαρτάνει",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἁμαρτάνει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1357205,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 12,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1357206,
+        "book_id": "1jn",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 13,
+        "word": "sinned",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "has sinned",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἁμαρτάνει = has sinned",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561769",
+    "book_id": "1jn",
+    "chapter": "5",
+    "verse": "18",
+    "alignment_num": "7",
+    "orig_lang_words": ",1546543,",
+    "target_lang_words": ",1358534,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546543,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 9,
+        "word": "ἁμαρτάνει",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἁμαρτάνει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358534,
+        "book_id": "1jn",
+        "chapter": "5",
+        "verse": "18",
+        "word_num": 11,
+        "word": "sin",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sin",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁμαρτάνει = sin",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528789",
+    "book_id": "1co",
+    "chapter": "7",
+    "verse": "28",
+    "alignment_num": "4",
+    "orig_lang_words": ",1512200,",
+    "target_lang_words": ",1310294,1310295,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1512200,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "28",
+        "word_num": 5,
+        "word": "ἥμαρτες",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,IAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "ἥμαρτες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1310294,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "28",
+        "word_num": 5,
+        "word": "you",
+        "occurrence": 2
+      },
+      {
+        "id": 1310295,
+        "book_id": "1co",
+        "chapter": "7",
+        "verse": "28",
+        "word_num": 6,
+        "word": "have",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you have",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἥμαρτες = you have",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1115,7 +1377,62 @@
     "targetWordsTxt": "when you sin",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἁμαρτάνοντες = when you sin",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558018",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "20",
+    "alignment_num": "4",
+    "orig_lang_words": ",1542402,",
+    "target_lang_words": ",1352879,1352880,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542402,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 4,
+        "word": "ἁμαρτάνοντες",
+        "occurrence": 1,
+        "strong": "G02640",
+        "lemma": "ἁμαρτάνω",
+        "morph": "Gr,V,PPA,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἁμαρτάνοντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1352879,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 7,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1352880,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 8,
+        "word": "sin",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you sin",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἁμαρτάνοντες = you sin",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1168,7 +1485,8 @@
     "targetWordsTxt": "you sin",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁμαρτάνετε = you sin",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1221,7 +1539,8 @@
     "targetWordsTxt": "keep sinning",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁμαρτάνετε = keep sinning",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1265,7 +1584,8 @@
     "targetWordsTxt": "sin",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁμαρτάνετε = sin",
-    "frequency": 0.02564102564102564,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1309,60 +1629,8 @@
     "targetWordsTxt": "sin",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁμαρτάνοντας = sin",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550591",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "11",
-    "alignment_num": "5",
-    "orig_lang_words": ",1534614,",
-    "target_lang_words": ",1341720,1341721,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534614,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 6,
-        "word": "ἁμαρτάνει",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἁμαρτάνει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1341720,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 12,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1341721,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 13,
-        "word": "sinning",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is sinning",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἁμαρτάνει = is sinning",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1445,7 +1713,8 @@
     "targetWordsTxt": "with those who sinned",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τοῖς ἁμαρτήσασιν = with those who sinned",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1507,60 +1776,8 @@
     "targetWordsTxt": "go on sinning",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἁμαρτανόντων = go on sinning",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558018",
-    "book_id": "1pe",
-    "chapter": "2",
-    "verse": "20",
-    "alignment_num": "4",
-    "orig_lang_words": ",1542402,",
-    "target_lang_words": ",1352879,1352880,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542402,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "20",
-        "word_num": 4,
-        "word": "ἁμαρτάνοντες",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,PPA,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἁμαρτάνοντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1352879,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "20",
-        "word_num": 7,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 1352880,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "20",
-        "word_num": 8,
-        "word": "sin",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you sin",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἁμαρτάνοντες = you sin",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1613,7 +1830,8 @@
     "targetWordsTxt": "who sinned",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁμαρτησάντων = who sinned",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1666,7 +1884,8 @@
     "targetWordsTxt": "we have",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἡμαρτήκαμεν = we have",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1719,95 +1938,8 @@
     "targetWordsTxt": "you will",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁμάρτητε = you will",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "560118",
-    "book_id": "1jn",
-    "chapter": "2",
-    "verse": "1",
-    "alignment_num": "12",
-    "orig_lang_words": ",1544694,",
-    "target_lang_words": ",1356295,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1544694,
-        "book_id": "1jn",
-        "chapter": "2",
-        "verse": "1",
-        "word_num": 11,
-        "word": "ἁμάρτῃ",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἁμάρτῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1356295,
-        "book_id": "1jn",
-        "chapter": "2",
-        "verse": "1",
-        "word_num": 18,
-        "word": "sins",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sins",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁμάρτῃ = sins",
-    "frequency": 0.05128205128205128,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "560744",
-    "book_id": "1jn",
-    "chapter": "3",
-    "verse": "6",
-    "alignment_num": "2",
-    "orig_lang_words": ",1545366,",
-    "target_lang_words": ",1357154,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1545366,
-        "book_id": "1jn",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 6,
-        "word": "ἁμαρτάνει",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἁμαρτάνει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1357154,
-        "book_id": "1jn",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 5,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁμαρτάνει = will",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1890,60 +2022,8 @@
     "targetWordsTxt": "who continues to sin",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ὁ ἁμαρτάνων = who continues to sin",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "560777",
-    "book_id": "1jn",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "9",
-    "orig_lang_words": ",1545403,",
-    "target_lang_words": ",1357205,1357206,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1545403,
-        "book_id": "1jn",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 13,
-        "word": "ἁμαρτάνει",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἁμαρτάνει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1357205,
-        "book_id": "1jn",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 12,
-        "word": "has",
-        "occurrence": 1
-      },
-      {
-        "id": 1357206,
-        "book_id": "1jn",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 13,
-        "word": "sinned",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "has sinned",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἁμαρτάνει = has sinned",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1996,7 +2076,8 @@
     "targetWordsTxt": "to sin",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁμαρτάνειν = to sin",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2040,7 +2121,8 @@
     "targetWordsTxt": "commit",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁμαρτάνοντα = commit",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2141,51 +2223,8 @@
     "targetWordsTxt": "I refer to those whose sin",
     "alignmentTargetWords": 6,
     "alignmentTxt": "τοῖς ἁμαρτάνουσιν = I refer to those whose sin",
-    "frequency": 0.02564102564102564,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561769",
-    "book_id": "1jn",
-    "chapter": "5",
-    "verse": "18",
-    "alignment_num": "7",
-    "orig_lang_words": ",1546543,",
-    "target_lang_words": ",1358534,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546543,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "18",
-        "word_num": 9,
-        "word": "ἁμαρτάνει",
-        "occurrence": 1,
-        "strong": "G02640",
-        "lemma": "ἁμαρτάνω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἁμαρτάνει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358534,
-        "book_id": "1jn",
-        "chapter": "5",
-        "verse": "18",
-        "word_num": 11,
-        "word": "sin",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sin",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁμαρτάνει = sin",
-    "frequency": 0.02564102564102564,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

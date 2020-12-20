@@ -48,7 +48,8 @@
     "targetWordsTxt": "the discipline",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παιδείᾳ = the discipline",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,53 @@
     "targetWordsTxt": "training",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παιδείαν = training",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554984",
+    "book_id": "heb",
+    "chapter": "12",
+    "verse": "7",
+    "alignment_num": "2",
+    "orig_lang_words": ",1539217,",
+    "target_lang_words": ",1348379,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539217,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "7",
+        "word_num": 1,
+        "word": "παιδείαν",
+        "occurrence": 1,
+        "strong": "G38090",
+        "lemma": "παιδεία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "παιδείαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1348379,
+        "book_id": "heb",
+        "chapter": "12",
+        "verse": "7",
+        "word_num": 3,
+        "word": "discipline",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "discipline",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παιδείαν = discipline",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,51 +192,8 @@
     "targetWordsTxt": "of the",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παιδείας = of the",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554984",
-    "book_id": "heb",
-    "chapter": "12",
-    "verse": "7",
-    "alignment_num": "2",
-    "orig_lang_words": ",1539217,",
-    "target_lang_words": ",1348379,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539217,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "7",
-        "word_num": 1,
-        "word": "παιδείαν",
-        "occurrence": 1,
-        "strong": "G38090",
-        "lemma": "παιδεία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "παιδείαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1348379,
-        "book_id": "heb",
-        "chapter": "12",
-        "verse": "7",
-        "word_num": 3,
-        "word": "discipline",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "discipline",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παιδείαν = discipline",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -233,7 +237,8 @@
     "targetWordsTxt": "discipline",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παιδείας = discipline",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -277,7 +282,8 @@
     "targetWordsTxt": "discipline",
     "alignmentTargetWords": 1,
     "alignmentTxt": "παιδεία = discipline",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

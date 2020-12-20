@@ -39,95 +39,8 @@
     "targetWordsTxt": "elegant",
     "alignmentTargetWords": 1,
     "alignmentTxt": "λαμπρὰν = elegant",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508456",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "30",
-    "alignment_num": "25",
-    "orig_lang_words": ",1490861,",
-    "target_lang_words": ",1281100,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490861,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 27,
-        "word": "λαμπρᾷ",
-        "occurrence": 1,
-        "strong": "G29860",
-        "lemma": "λαμπρός",
-        "morph": "Gr,AA,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "λαμπρᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1281100,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "30",
-        "word_num": 28,
-        "word": "bright",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "bright",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "λαμπρᾷ = bright",
-    "frequency": 0.1111111111111111,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556097",
-    "book_id": "jas",
-    "chapter": "2",
-    "verse": "2",
-    "alignment_num": "8",
-    "orig_lang_words": ",1540390,",
-    "target_lang_words": ",1350043,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540390,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 10,
-        "word": "λαμπρᾷ",
-        "occurrence": 1,
-        "strong": "G29860",
-        "lemma": "λαμπρός",
-        "morph": "Gr,AA,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "λαμπρᾷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350043,
-        "book_id": "jas",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 11,
-        "word": "fine",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "fine",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "λαμπρᾷ = fine",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -183,7 +96,98 @@
     "targetWordsTxt": "fine",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν λαμπρὰν = fine",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508456",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "30",
+    "alignment_num": "25",
+    "orig_lang_words": ",1490861,",
+    "target_lang_words": ",1281100,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490861,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "30",
+        "word_num": 27,
+        "word": "λαμπρᾷ",
+        "occurrence": 1,
+        "strong": "G29860",
+        "lemma": "λαμπρός",
+        "morph": "Gr,AA,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "λαμπρᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1281100,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "30",
+        "word_num": 28,
+        "word": "bright",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "bright",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "λαμπρᾷ = bright",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556097",
+    "book_id": "jas",
+    "chapter": "2",
+    "verse": "2",
+    "alignment_num": "8",
+    "orig_lang_words": ",1540390,",
+    "target_lang_words": ",1350043,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540390,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 10,
+        "word": "λαμπρᾷ",
+        "occurrence": 1,
+        "strong": "G29860",
+        "lemma": "λαμπρός",
+        "morph": "Gr,AA,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "λαμπρᾷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350043,
+        "book_id": "jas",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 11,
+        "word": "fine",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "fine",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "λαμπρᾷ = fine",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -227,51 +231,8 @@
     "targetWordsTxt": "bright",
     "alignmentTargetWords": 1,
     "alignmentTxt": "λαμπρὸν = bright",
-    "frequency": 0.2222222222222222,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569527",
-    "book_id": "rev",
-    "chapter": "18",
-    "verse": "14",
-    "alignment_num": "14",
-    "orig_lang_words": ",1555106,",
-    "target_lang_words": ",1369239,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555106,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "14",
-        "word_num": 17,
-        "word": "λαμπρὰ",
-        "occurrence": 1,
-        "strong": "G29860",
-        "lemma": "λαμπρός",
-        "morph": "Gr,NS,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "λαμπρὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369239,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "14",
-        "word_num": 17,
-        "word": "splendor",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "splendor",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "λαμπρὰ = splendor",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -315,7 +276,8 @@
     "targetWordsTxt": "bright",
     "alignmentTargetWords": 1,
     "alignmentTxt": "λαμπρὸν = bright",
-    "frequency": 0.2222222222222222,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -359,7 +321,53 @@
     "targetWordsTxt": "clear",
     "alignmentTargetWords": 1,
     "alignmentTxt": "λαμπρὸν = clear",
-    "frequency": 0.1111111111111111,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569527",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "14",
+    "alignment_num": "14",
+    "orig_lang_words": ",1555106,",
+    "target_lang_words": ",1369239,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555106,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "14",
+        "word_num": 17,
+        "word": "λαμπρὰ",
+        "occurrence": 1,
+        "strong": "G29860",
+        "lemma": "λαμπρός",
+        "morph": "Gr,NS,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "λαμπρὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369239,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "14",
+        "word_num": 17,
+        "word": "splendor",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "splendor",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "λαμπρὰ = splendor",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -415,7 +423,8 @@
     "targetWordsTxt": "bright",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ λαμπρός = bright",
-    "frequency": 0.1111111111111111,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

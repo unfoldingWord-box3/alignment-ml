@@ -39,7 +39,8 @@
     "targetWordsTxt": "blasphemous",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βλάσφημα = blasphemous",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,51 +93,8 @@
     "targetWordsTxt": "a blasphemer",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βλάσφημον = a blasphemer",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549465",
-    "book_id": "2ti",
-    "chapter": "3",
-    "verse": "2",
-    "alignment_num": "7",
-    "orig_lang_words": ",1533476,",
-    "target_lang_words": ",1340128,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533476,
-        "book_id": "2ti",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 8,
-        "word": "βλάσφημοι",
-        "occurrence": 1,
-        "strong": "G09890",
-        "lemma": "βλάσφημος",
-        "morph": "Gr,NS,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "βλάσφημοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1340128,
-        "book_id": "2ti",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 12,
-        "word": "blasphemers",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "blasphemers",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βλάσφημοι = blasphemers",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -180,7 +138,53 @@
     "targetWordsTxt": "insulting",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βλάσφημον = insulting",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549465",
+    "book_id": "2ti",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "7",
+    "orig_lang_words": ",1533476,",
+    "target_lang_words": ",1340128,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533476,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 8,
+        "word": "βλάσφημοι",
+        "occurrence": 1,
+        "strong": "G09890",
+        "lemma": "βλάσφημος",
+        "morph": "Gr,NS,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "βλάσφημοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340128,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 12,
+        "word": "blasphemers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "blasphemers",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βλάσφημοι = blasphemers",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

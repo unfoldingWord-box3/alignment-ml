@@ -51,51 +51,8 @@
     "targetWordsTxt": "breaking",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς παραβάσεως = breaking",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521394",
-    "book_id": "rom",
-    "chapter": "4",
-    "verse": "15",
-    "alignment_num": "11",
-    "orig_lang_words": ",1504280,",
-    "target_lang_words": ",1299173,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504280,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "15",
-        "word_num": 11,
-        "word": "παράβασις",
-        "occurrence": 1,
-        "strong": "G38470",
-        "lemma": "παράβασις",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "παράβασις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1299173,
-        "book_id": "rom",
-        "chapter": "4",
-        "verse": "15",
-        "word_num": 15,
-        "word": "trespass",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "trespass",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παράβασις = trespass",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -151,7 +108,98 @@
     "targetWordsTxt": "disobedience",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς παραβάσεως = disobedience",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521394",
+    "book_id": "rom",
+    "chapter": "4",
+    "verse": "15",
+    "alignment_num": "11",
+    "orig_lang_words": ",1504280,",
+    "target_lang_words": ",1299173,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504280,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 11,
+        "word": "παράβασις",
+        "occurrence": 1,
+        "strong": "G38470",
+        "lemma": "παράβασις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "παράβασις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299173,
+        "book_id": "rom",
+        "chapter": "4",
+        "verse": "15",
+        "word_num": 15,
+        "word": "trespass",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "trespass",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παράβασις = trespass",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551226",
+    "book_id": "heb",
+    "chapter": "2",
+    "verse": "2",
+    "alignment_num": "11",
+    "orig_lang_words": ",1535293,",
+    "target_lang_words": ",1342663,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1535293,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 11,
+        "word": "παράβασις",
+        "occurrence": 1,
+        "strong": "G38470",
+        "lemma": "παράβασις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "παράβασις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1342663,
+        "book_id": "heb",
+        "chapter": "2",
+        "verse": "2",
+        "word_num": 17,
+        "word": "trespass",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "trespass",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "παράβασις = trespass",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -207,107 +255,8 @@
     "targetWordsTxt": "trespasses",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῶν παραβάσεων = trespasses",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547623",
-    "book_id": "1ti",
-    "chapter": "2",
-    "verse": "14",
-    "alignment_num": "8",
-    "orig_lang_words": ",1531667,1531668,",
-    "target_lang_words": ",1337538,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1531667,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 8,
-        "word": "ἐν",
-        "occurrence": 1,
-        "strong": "G17220",
-        "lemma": "ἐν",
-        "morph": "Gr,P,,,,,D,,,"
-      },
-      {
-        "id": 1531668,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 9,
-        "word": "παραβάσει",
-        "occurrence": 1,
-        "strong": "G38470",
-        "lemma": "παράβασις",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "ἐν παραβάσει",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337538,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "14",
-        "word_num": 9,
-        "word": "and",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐν παραβάσει = and",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551226",
-    "book_id": "heb",
-    "chapter": "2",
-    "verse": "2",
-    "alignment_num": "11",
-    "orig_lang_words": ",1535293,",
-    "target_lang_words": ",1342663,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1535293,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 11,
-        "word": "παράβασις",
-        "occurrence": 1,
-        "strong": "G38470",
-        "lemma": "παράβασις",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "παράβασις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1342663,
-        "book_id": "heb",
-        "chapter": "2",
-        "verse": "2",
-        "word_num": 17,
-        "word": "trespass",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "trespass",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "παράβασις = trespass",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -369,7 +318,65 @@
     "targetWordsTxt": "from their transgressions",
     "alignmentTargetWords": 3,
     "alignmentTxt": "παραβάσεων = from their transgressions",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547623",
+    "book_id": "1ti",
+    "chapter": "2",
+    "verse": "14",
+    "alignment_num": "8",
+    "orig_lang_words": ",1531667,1531668,",
+    "target_lang_words": ",1337538,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1531667,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 8,
+        "word": "ἐν",
+        "occurrence": 1,
+        "strong": "G17220",
+        "lemma": "ἐν",
+        "morph": "Gr,P,,,,,D,,,"
+      },
+      {
+        "id": 1531668,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 9,
+        "word": "παραβάσει",
+        "occurrence": 1,
+        "strong": "G38470",
+        "lemma": "παράβασις",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "ἐν παραβάσει",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337538,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "14",
+        "word_num": 9,
+        "word": "and",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐν παραβάσει = and",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

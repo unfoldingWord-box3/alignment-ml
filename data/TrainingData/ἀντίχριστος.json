@@ -48,51 +48,8 @@
     "targetWordsTxt": "the antichrist",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀντίχριστος = the antichrist",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "560439",
-    "book_id": "1jn",
-    "chapter": "2",
-    "verse": "18",
-    "alignment_num": "12",
-    "orig_lang_words": ",1545037,",
-    "target_lang_words": ",1356733,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1545037,
-        "book_id": "1jn",
-        "chapter": "2",
-        "verse": "18",
-        "word_num": 12,
-        "word": "ἀντίχριστοι",
-        "occurrence": 1,
-        "strong": "G05000",
-        "lemma": "ἀντίχριστος",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἀντίχριστοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1356733,
-        "book_id": "1jn",
-        "chapter": "2",
-        "verse": "18",
-        "word_num": 19,
-        "word": "antichrists",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "antichrists",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀντίχριστοι = antichrists",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +93,98 @@
     "targetWordsTxt": "antichrist",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀντίχριστος = antichrist",
-    "frequency": 0.4,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "561964",
+    "book_id": "2jn",
+    "chapter": "1",
+    "verse": "7",
+    "alignment_num": "21",
+    "orig_lang_words": ",1546752,",
+    "target_lang_words": ",1358805,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546752,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 21,
+        "word": "ἀντίχριστος",
+        "occurrence": 1,
+        "strong": "G05000",
+        "lemma": "ἀντίχριστος",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀντίχριστος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358805,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "7",
+        "word_num": 27,
+        "word": "antichrist",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "antichrist",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀντίχριστος = antichrist",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "560439",
+    "book_id": "1jn",
+    "chapter": "2",
+    "verse": "18",
+    "alignment_num": "12",
+    "orig_lang_words": ",1545037,",
+    "target_lang_words": ",1356733,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1545037,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 12,
+        "word": "ἀντίχριστοι",
+        "occurrence": 1,
+        "strong": "G05000",
+        "lemma": "ἀντίχριστος",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "ἀντίχριστοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1356733,
+        "book_id": "1jn",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 19,
+        "word": "antichrists",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "antichrists",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀντίχριστοι = antichrists",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -210,51 +258,8 @@
     "targetWordsTxt": "of the antichrist",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τοῦ ἀντιχρίστου = of the antichrist",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "561964",
-    "book_id": "2jn",
-    "chapter": "1",
-    "verse": "7",
-    "alignment_num": "21",
-    "orig_lang_words": ",1546752,",
-    "target_lang_words": ",1358805,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546752,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "7",
-        "word_num": 21,
-        "word": "ἀντίχριστος",
-        "occurrence": 1,
-        "strong": "G05000",
-        "lemma": "ἀντίχριστος",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀντίχριστος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358805,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "7",
-        "word_num": 27,
-        "word": "antichrist",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "antichrist",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀντίχριστος = antichrist",
-    "frequency": 0.4,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -48,7 +48,8 @@
     "targetWordsTxt": "they glorified",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοξάζειν = they glorified",
-    "frequency": 0.017857142857142856,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,62 @@
     "targetWordsTxt": "glorifying",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δοξάζοντες = glorifying",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535902",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "13",
+    "alignment_num": "6",
+    "orig_lang_words": ",1519534,",
+    "target_lang_words": ",1320700,1320701,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519534,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 6,
+        "word": "δοξάζοντες",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,PPA,NMP,"
+      }
+    ],
+    "origWordsTxt": "δοξάζοντες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1320700,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 7,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1320701,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "13",
+        "word_num": 8,
+        "word": "glorify",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they glorify",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δοξάζοντες = they glorify",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +201,8 @@
     "targetWordsTxt": "being praised",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοξαζόμενος = being praised",
-    "frequency": 0.017857142857142856,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,175 +246,8 @@
     "targetWordsTxt": "glorifying",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δοξάζων = glorifying",
-    "frequency": 0.05357142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "472202",
-    "book_id": "luk",
-    "chapter": "5",
-    "verse": "26",
-    "alignment_num": "5",
-    "orig_lang_words": ",1452976,",
-    "target_lang_words": ",1231795,1231796,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1452976,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "26",
-        "word_num": 5,
-        "word": "ἐδόξαζον",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξαζον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1231795,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "26",
-        "word_num": 8,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1231796,
-        "book_id": "luk",
-        "chapter": "5",
-        "verse": "26",
-        "word_num": 9,
-        "word": "glorified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they glorified",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδόξαζον = they glorified",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473642",
-    "book_id": "luk",
-    "chapter": "7",
-    "verse": "16",
-    "alignment_num": "5",
-    "orig_lang_words": ",1454424,",
-    "target_lang_words": ",1233752,1233753,1233754,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454424,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "16",
-        "word_num": 5,
-        "word": "ἐδόξαζον",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξαζον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1233752,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "16",
-        "word_num": 7,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1233753,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "16",
-        "word_num": 8,
-        "word": "were",
-        "occurrence": 1
-      },
-      {
-        "id": 1233754,
-        "book_id": "luk",
-        "chapter": "7",
-        "verse": "16",
-        "word_num": 9,
-        "word": "praising",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they were praising",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐδόξαζον = they were praising",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "479394",
-    "book_id": "luk",
-    "chapter": "13",
-    "verse": "13",
-    "alignment_num": "9",
-    "orig_lang_words": ",1460293,",
-    "target_lang_words": ",1241557,1241558,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1460293,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "13",
-        "word_num": 9,
-        "word": "ἐδόξαζεν",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξαζεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1241557,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "13",
-        "word_num": 14,
-        "word": "she",
-        "occurrence": 2
-      },
-      {
-        "id": 1241558,
-        "book_id": "luk",
-        "chapter": "13",
-        "verse": "13",
-        "word_num": 15,
-        "word": "glorified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "she glorified",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδόξαζεν = she glorified",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -401,7 +291,8 @@
     "targetWordsTxt": "glorifying",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δοξάζων = glorifying",
-    "frequency": 0.05357142857142857,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -445,157 +336,8 @@
     "targetWordsTxt": "glorifying",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δοξάζων = glorifying",
-    "frequency": 0.05357142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "486597",
-    "book_id": "luk",
-    "chapter": "23",
-    "verse": "47",
-    "alignment_num": "7",
-    "orig_lang_words": ",1467572,",
-    "target_lang_words": ",1251461,1251462,1251463,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1467572,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "47",
-        "word_num": 6,
-        "word": "ἐδόξαζεν",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξαζεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1251461,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "47",
-        "word_num": 7,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1251462,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "47",
-        "word_num": 8,
-        "word": "began",
-        "occurrence": 1
-      },
-      {
-        "id": 1251463,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "47",
-        "word_num": 9,
-        "word": "glorifing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he began glorifing",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐδόξαζεν = he began glorifing",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492677",
-    "book_id": "jhn",
-    "chapter": "7",
-    "verse": "39",
-    "alignment_num": "18",
-    "orig_lang_words": ",1474102,",
-    "target_lang_words": ",1259551,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1474102,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "39",
-        "word_num": 20,
-        "word": "ἐδοξάσθη",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδοξάσθη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1259551,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "39",
-        "word_num": 27,
-        "word": "was",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐδοξάσθη = was",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493599",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "54",
-    "alignment_num": "4",
-    "orig_lang_words": ",1475253,",
-    "target_lang_words": ",1260949,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475253,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "54",
-        "word_num": 4,
-        "word": "δοξάσω",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,SAA1,,S,"
-      }
-    ],
-    "origWordsTxt": "δοξάσω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1260949,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "54",
-        "word_num": 4,
-        "word": "glorify",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "glorify",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοξάσω = glorify",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -660,69 +402,494 @@
     "targetWordsTxt": "who glorifies",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δοξάζων = who glorifies",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "495063",
-    "book_id": "jhn",
-    "chapter": "11",
-    "verse": "4",
-    "alignment_num": "20",
-    "orig_lang_words": ",1476808,",
-    "target_lang_words": ",1262922,1262923,1262924,",
+    "id": "472202",
+    "book_id": "luk",
+    "chapter": "5",
+    "verse": "26",
+    "alignment_num": "5",
+    "orig_lang_words": ",1452976,",
+    "target_lang_words": ",1231795,1231796,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1476808,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 19,
-        "word": "δοξασθῇ",
+        "id": 1452976,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "26",
+        "word_num": 5,
+        "word": "ἐδόξαζον",
         "occurrence": 1,
         "strong": "G13920",
         "lemma": "δοξάζω",
-        "morph": "Gr,V,SAP3,,S,"
+        "morph": "Gr,V,IIA3,,P,"
       }
     ],
-    "origWordsTxt": "δοξασθῇ",
+    "origWordsTxt": "ἐδόξαζον",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1262922,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 27,
-        "word": "may",
+        "id": 1231795,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "26",
+        "word_num": 8,
+        "word": "they",
         "occurrence": 1
       },
       {
-        "id": 1262923,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 28,
-        "word": "be",
-        "occurrence": 1
-      },
-      {
-        "id": 1262924,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 29,
+        "id": 1231796,
+        "book_id": "luk",
+        "chapter": "5",
+        "verse": "26",
+        "word_num": 9,
         "word": "glorified",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "may be glorified",
+    "targetWordsTxt": "they glorified",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδόξαζον = they glorified",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473642",
+    "book_id": "luk",
+    "chapter": "7",
+    "verse": "16",
+    "alignment_num": "5",
+    "orig_lang_words": ",1454424,",
+    "target_lang_words": ",1233752,1233753,1233754,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1454424,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "16",
+        "word_num": 5,
+        "word": "ἐδόξαζον",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξαζον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1233752,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "16",
+        "word_num": 7,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1233753,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "16",
+        "word_num": 8,
+        "word": "were",
+        "occurrence": 1
+      },
+      {
+        "id": 1233754,
+        "book_id": "luk",
+        "chapter": "7",
+        "verse": "16",
+        "word_num": 9,
+        "word": "praising",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they were praising",
     "alignmentTargetWords": 3,
-    "alignmentTxt": "δοξασθῇ = may be glorified",
-    "frequency": 0.017857142857142856,
+    "alignmentTxt": "ἐδόξαζον = they were praising",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504058",
+    "book_id": "act",
+    "chapter": "4",
+    "verse": "21",
+    "alignment_num": "14",
+    "orig_lang_words": ",1486362,",
+    "target_lang_words": ",1275226,1275227,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1486362,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "21",
+        "word_num": 16,
+        "word": "ἐδόξαζον",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξαζον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1275226,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "21",
+        "word_num": 22,
+        "word": "they",
+        "occurrence": 3
+      },
+      {
+        "id": 1275227,
+        "book_id": "act",
+        "chapter": "4",
+        "verse": "21",
+        "word_num": 23,
+        "word": "were",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they were",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδόξαζον = they were",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "510612",
+    "book_id": "act",
+    "chapter": "13",
+    "verse": "48",
+    "alignment_num": "6",
+    "orig_lang_words": ",1493068,",
+    "target_lang_words": ",1284025,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1493068,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "48",
+        "word_num": 6,
+        "word": "ἐδόξαζον",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξαζον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1284025,
+        "book_id": "act",
+        "chapter": "13",
+        "verse": "48",
+        "word_num": 9,
+        "word": "praised",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "praised",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐδόξαζον = praised",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "515346",
+    "book_id": "act",
+    "chapter": "21",
+    "verse": "20",
+    "alignment_num": "3",
+    "orig_lang_words": ",1497990,",
+    "target_lang_words": ",1290440,1290441,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1497990,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "20",
+        "word_num": 3,
+        "word": "ἐδόξαζον",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξαζον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1290440,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "20",
+        "word_num": 4,
+        "word": "they",
+        "occurrence": 2
+      },
+      {
+        "id": 1290441,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "20",
+        "word_num": 5,
+        "word": "praised",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they praised",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδόξαζον = they praised",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "537731",
+    "book_id": "gal",
+    "chapter": "1",
+    "verse": "24",
+    "alignment_num": "1",
+    "orig_lang_words": ",1521396,",
+    "target_lang_words": ",1323430,1323431,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521396,
+        "book_id": "gal",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 1,
+        "word": "ἐδόξαζον",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IIA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξαζον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1323430,
+        "book_id": "gal",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 1,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1323431,
+        "book_id": "gal",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 2,
+        "word": "glorified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they glorified",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδόξαζον = they glorified",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "479394",
+    "book_id": "luk",
+    "chapter": "13",
+    "verse": "13",
+    "alignment_num": "9",
+    "orig_lang_words": ",1460293,",
+    "target_lang_words": ",1241557,1241558,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1460293,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "13",
+        "word_num": 9,
+        "word": "ἐδόξαζεν",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξαζεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1241557,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "13",
+        "word_num": 14,
+        "word": "she",
+        "occurrence": 2
+      },
+      {
+        "id": 1241558,
+        "book_id": "luk",
+        "chapter": "13",
+        "verse": "13",
+        "word_num": 15,
+        "word": "glorified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "she glorified",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδόξαζεν = she glorified",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "486597",
+    "book_id": "luk",
+    "chapter": "23",
+    "verse": "47",
+    "alignment_num": "7",
+    "orig_lang_words": ",1467572,",
+    "target_lang_words": ",1251461,1251462,1251463,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1467572,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "47",
+        "word_num": 6,
+        "word": "ἐδόξαζεν",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξαζεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1251461,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "47",
+        "word_num": 7,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1251462,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "47",
+        "word_num": 8,
+        "word": "began",
+        "occurrence": 1
+      },
+      {
+        "id": 1251463,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "47",
+        "word_num": 9,
+        "word": "glorifing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he began glorifing",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐδόξαζεν = he began glorifing",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492677",
+    "book_id": "jhn",
+    "chapter": "7",
+    "verse": "39",
+    "alignment_num": "18",
+    "orig_lang_words": ",1474102,",
+    "target_lang_words": ",1259551,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1474102,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "39",
+        "word_num": 20,
+        "word": "ἐδοξάσθη",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδοξάσθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1259551,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "39",
+        "word_num": 27,
+        "word": "was",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐδοξάσθη = was",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -775,184 +942,215 @@
     "targetWordsTxt": "was glorified",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐδοξάσθη = was glorified",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "496234",
+    "id": "497186",
     "book_id": "jhn",
-    "chapter": "12",
-    "verse": "23",
-    "alignment_num": "11",
-    "orig_lang_words": ",1478071,",
-    "target_lang_words": ",1264514,1264515,1264516,",
+    "chapter": "13",
+    "verse": "31",
+    "alignment_num": "9",
+    "orig_lang_words": ",1479101,",
+    "target_lang_words": ",1265832,1265833,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1478071,
+        "id": 1479101,
         "book_id": "jhn",
-        "chapter": "12",
-        "verse": "23",
-        "word_num": 10,
-        "word": "δοξασθῇ",
+        "chapter": "13",
+        "verse": "31",
+        "word_num": 6,
+        "word": "ἐδοξάσθη",
         "occurrence": 1,
         "strong": "G13920",
         "lemma": "δοξάζω",
-        "morph": "Gr,V,SAP3,,S,"
+        "morph": "Gr,V,IAP3,,S,"
       }
     ],
-    "origWordsTxt": "δοξασθῇ",
+    "origWordsTxt": "ἐδοξάσθη",
     "alignmentOrigWords": 1,
-    "targetSpan": 2,
+    "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1264514,
+        "id": 1265832,
         "book_id": "jhn",
-        "chapter": "12",
-        "verse": "23",
-        "word_num": 15,
-        "word": "to",
+        "chapter": "13",
+        "verse": "31",
+        "word_num": 12,
+        "word": "is",
         "occurrence": 1
       },
       {
-        "id": 1264515,
+        "id": 1265833,
         "book_id": "jhn",
-        "chapter": "12",
-        "verse": "23",
-        "word_num": 16,
-        "word": "be",
-        "occurrence": 1
-      },
-      {
-        "id": 1264516,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "23",
-        "word_num": 17,
+        "chapter": "13",
+        "verse": "31",
+        "word_num": 13,
         "word": "glorified",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "to be glorified",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δοξασθῇ = to be glorified",
-    "frequency": 0.017857142857142856,
+    "targetWordsTxt": "is glorified",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδοξάσθη = is glorified",
+    "frequency": 0.6,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "496317",
+    "id": "497189",
     "book_id": "jhn",
-    "chapter": "12",
-    "verse": "28",
-    "alignment_num": "1",
-    "orig_lang_words": ",1478171,",
-    "target_lang_words": ",1264623,",
+    "chapter": "13",
+    "verse": "31",
+    "alignment_num": "12",
+    "orig_lang_words": ",1479109,",
+    "target_lang_words": ",1265836,1265837,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1478171,
+        "id": 1479109,
         "book_id": "jhn",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 1,
-        "word": "δόξασόν",
+        "chapter": "13",
+        "verse": "31",
+        "word_num": 14,
+        "word": "ἐδοξάσθη",
+        "occurrence": 2,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδοξάσθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1265836,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "31",
+        "word_num": 16,
+        "word": "is",
+        "occurrence": 2
+      },
+      {
+        "id": 1265837,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "31",
+        "word_num": 17,
+        "word": "glorified",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "is glorified",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδοξάσθη = is glorified",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497984",
+    "book_id": "jhn",
+    "chapter": "15",
+    "verse": "8",
+    "alignment_num": "2",
+    "orig_lang_words": ",1479952,",
+    "target_lang_words": ",1266936,1266937,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1479952,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 2,
+        "word": "ἐδοξάσθη",
         "occurrence": 1,
         "strong": "G13920",
         "lemma": "δοξάζω",
-        "morph": "Gr,V,MAA2,,S,"
+        "morph": "Gr,V,IAP3,,S,"
       }
     ],
-    "origWordsTxt": "δόξασόν",
+    "origWordsTxt": "ἐδοξάσθη",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1266936,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 2,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1266937,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 3,
+        "word": "glorified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is glorified",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐδοξάσθη = is glorified",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493599",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "54",
+    "alignment_num": "4",
+    "orig_lang_words": ",1475253,",
+    "target_lang_words": ",1260949,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475253,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "54",
+        "word_num": 4,
+        "word": "δοξάσω",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,SAA1,,S,"
+      }
+    ],
+    "origWordsTxt": "δοξάσω",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1264623,
+        "id": 1260949,
         "book_id": "jhn",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 1,
+        "chapter": "8",
+        "verse": "54",
+        "word_num": 4,
         "word": "glorify",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "glorify",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "δόξασόν = glorify",
-    "frequency": 0.05357142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "496326",
-    "book_id": "jhn",
-    "chapter": "12",
-    "verse": "28",
-    "alignment_num": "10",
-    "orig_lang_words": ",1478182,",
-    "target_lang_words": ",1264634,1264635,1264636,1264637,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1478182,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 12,
-        "word": "ἐδόξασα",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IAA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξασα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1264634,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 12,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1264635,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 13,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1264636,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 14,
-        "word": "glorified",
-        "occurrence": 1
-      },
-      {
-        "id": 1264637,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "28",
-        "word_num": 15,
-        "word": "it",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I have glorified it",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "ἐδόξασα = I have glorified it",
-    "frequency": 0.017857142857142856,
+    "alignmentTxt": "δοξάσω = glorify",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1023,228 +1221,134 @@
     "targetWordsTxt": "I will glorify it",
     "alignmentTargetWords": 4,
     "alignmentTxt": "δοξάσω = I will glorify it",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "497186",
+    "id": "495063",
     "book_id": "jhn",
-    "chapter": "13",
-    "verse": "31",
-    "alignment_num": "9",
-    "orig_lang_words": ",1479101,",
-    "target_lang_words": ",1265832,1265833,",
+    "chapter": "11",
+    "verse": "4",
+    "alignment_num": "20",
+    "orig_lang_words": ",1476808,",
+    "target_lang_words": ",1262922,1262923,1262924,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1479101,
+        "id": 1476808,
         "book_id": "jhn",
-        "chapter": "13",
-        "verse": "31",
-        "word_num": 6,
-        "word": "ἐδοξάσθη",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 19,
+        "word": "δοξασθῇ",
         "occurrence": 1,
         "strong": "G13920",
         "lemma": "δοξάζω",
-        "morph": "Gr,V,IAP3,,S,"
+        "morph": "Gr,V,SAP3,,S,"
       }
     ],
-    "origWordsTxt": "ἐδοξάσθη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1265832,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "31",
-        "word_num": 12,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1265833,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "31",
-        "word_num": 13,
-        "word": "glorified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is glorified",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδοξάσθη = is glorified",
-    "frequency": 0.05357142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "497189",
-    "book_id": "jhn",
-    "chapter": "13",
-    "verse": "31",
-    "alignment_num": "12",
-    "orig_lang_words": ",1479109,",
-    "target_lang_words": ",1265836,1265837,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1479109,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "31",
-        "word_num": 14,
-        "word": "ἐδοξάσθη",
-        "occurrence": 2,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδοξάσθη",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1265836,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "31",
-        "word_num": 16,
-        "word": "is",
-        "occurrence": 2
-      },
-      {
-        "id": 1265837,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "31",
-        "word_num": 17,
-        "word": "glorified",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "is glorified",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδοξάσθη = is glorified",
-    "frequency": 0.05357142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "497193",
-    "book_id": "jhn",
-    "chapter": "13",
-    "verse": "32",
-    "alignment_num": "1",
-    "orig_lang_words": ",1479115,",
-    "target_lang_words": ",1265841,1265842,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1479115,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "32",
-        "word_num": 3,
-        "word": "δοξάσει",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοξάσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1265841,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "32",
-        "word_num": 1,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1265842,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "32",
-        "word_num": 2,
-        "word": "glorify",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will glorify",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δοξάσει = will glorify",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "497198",
-    "book_id": "jhn",
-    "chapter": "13",
-    "verse": "32",
-    "alignment_num": "6",
-    "orig_lang_words": ",1479121,",
-    "target_lang_words": ",1265847,1265848,1265849,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1479121,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "32",
-        "word_num": 9,
-        "word": "δοξάσει",
-        "occurrence": 2,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοξάσει",
+    "origWordsTxt": "δοξασθῇ",
     "alignmentOrigWords": 1,
     "targetSpan": 2,
     "targetWords": [
       {
-        "id": 1265847,
+        "id": 1262922,
         "book_id": "jhn",
-        "chapter": "13",
-        "verse": "32",
-        "word_num": 7,
-        "word": "he",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 27,
+        "word": "may",
         "occurrence": 1
       },
       {
-        "id": 1265848,
+        "id": 1262923,
         "book_id": "jhn",
-        "chapter": "13",
-        "verse": "32",
-        "word_num": 8,
-        "word": "will",
-        "occurrence": 2
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 28,
+        "word": "be",
+        "occurrence": 1
       },
       {
-        "id": 1265849,
+        "id": 1262924,
         "book_id": "jhn",
-        "chapter": "13",
-        "verse": "32",
-        "word_num": 9,
-        "word": "glorify",
-        "occurrence": 2
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 29,
+        "word": "glorified",
+        "occurrence": 1
       }
     ],
-    "targetWordsTxt": "he will glorify",
+    "targetWordsTxt": "may be glorified",
     "alignmentTargetWords": 3,
-    "alignmentTxt": "δοξάσει = he will glorify",
-    "frequency": 0.017857142857142856,
+    "alignmentTxt": "δοξασθῇ = may be glorified",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "496234",
+    "book_id": "jhn",
+    "chapter": "12",
+    "verse": "23",
+    "alignment_num": "11",
+    "orig_lang_words": ",1478071,",
+    "target_lang_words": ",1264514,1264515,1264516,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1478071,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "23",
+        "word_num": 10,
+        "word": "δοξασθῇ",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,SAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοξασθῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1264514,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "23",
+        "word_num": 15,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1264515,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "23",
+        "word_num": 16,
+        "word": "be",
+        "occurrence": 1
+      },
+      {
+        "id": 1264516,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "23",
+        "word_num": 17,
+        "word": "glorified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to be glorified",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δοξασθῇ = to be glorified",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1306,60 +1410,377 @@
     "targetWordsTxt": "will be glorified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δοξασθῇ = will be glorified",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "497984",
+    "id": "496317",
     "book_id": "jhn",
-    "chapter": "15",
-    "verse": "8",
-    "alignment_num": "2",
-    "orig_lang_words": ",1479952,",
-    "target_lang_words": ",1266936,1266937,",
+    "chapter": "12",
+    "verse": "28",
+    "alignment_num": "1",
+    "orig_lang_words": ",1478171,",
+    "target_lang_words": ",1264623,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1479952,
+        "id": 1478171,
         "book_id": "jhn",
-        "chapter": "15",
-        "verse": "8",
-        "word_num": 2,
-        "word": "ἐδοξάσθη",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 1,
+        "word": "δόξασόν",
         "occurrence": 1,
         "strong": "G13920",
         "lemma": "δοξάζω",
-        "morph": "Gr,V,IAP3,,S,"
+        "morph": "Gr,V,MAA2,,S,"
       }
     ],
-    "origWordsTxt": "ἐδοξάσθη",
+    "origWordsTxt": "δόξασόν",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1266936,
+        "id": 1264623,
         "book_id": "jhn",
-        "chapter": "15",
-        "verse": "8",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 1,
+        "word": "glorify",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "glorify",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δόξασόν = glorify",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498908",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "1",
+    "alignment_num": "16",
+    "orig_lang_words": ",1480905,",
+    "target_lang_words": ",1268244,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480905,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "1",
+        "word_num": 16,
+        "word": "δόξασόν",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,MAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "δόξασόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1268244,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "1",
+        "word_num": 20,
+        "word": "glorify",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "glorify",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δόξασόν = glorify",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498962",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "5",
+    "alignment_num": "2",
+    "orig_lang_words": ",1480963,",
+    "target_lang_words": ",1268317,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480963,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "5",
         "word_num": 2,
-        "word": "is",
+        "word": "δόξασόν",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,MAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "δόξασόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1268317,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "5",
+        "word_num": 2,
+        "word": "glorify",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "glorify",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δόξασόν = glorify",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "496326",
+    "book_id": "jhn",
+    "chapter": "12",
+    "verse": "28",
+    "alignment_num": "10",
+    "orig_lang_words": ",1478182,",
+    "target_lang_words": ",1264634,1264635,1264636,1264637,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1478182,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 12,
+        "word": "ἐδόξασα",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IAA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξασα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1264634,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 12,
+        "word": "I",
         "occurrence": 1
       },
       {
-        "id": 1266937,
+        "id": 1264635,
         "book_id": "jhn",
-        "chapter": "15",
-        "verse": "8",
-        "word_num": 3,
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 13,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1264636,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 14,
+        "word": "glorified",
+        "occurrence": 1
+      },
+      {
+        "id": 1264637,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "28",
+        "word_num": 15,
+        "word": "it",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I have glorified it",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἐδόξασα = I have glorified it",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498948",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "4",
+    "alignment_num": "1",
+    "orig_lang_words": ",1480949,",
+    "target_lang_words": ",1268298,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480949,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 2,
+        "word": "ἐδόξασα",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IAA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξασα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1268298,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "4",
+        "word_num": 1,
         "word": "glorified",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "is glorified",
+    "targetWordsTxt": "glorified",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐδόξασα = glorified",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497193",
+    "book_id": "jhn",
+    "chapter": "13",
+    "verse": "32",
+    "alignment_num": "1",
+    "orig_lang_words": ",1479115,",
+    "target_lang_words": ",1265841,1265842,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1479115,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "32",
+        "word_num": 3,
+        "word": "δοξάσει",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοξάσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1265841,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "32",
+        "word_num": 1,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1265842,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "32",
+        "word_num": 2,
+        "word": "glorify",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will glorify",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδοξάσθη = is glorified",
-    "frequency": 0.05357142857142857,
+    "alignmentTxt": "δοξάσει = will glorify",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "497198",
+    "book_id": "jhn",
+    "chapter": "13",
+    "verse": "32",
+    "alignment_num": "6",
+    "orig_lang_words": ",1479121,",
+    "target_lang_words": ",1265847,1265848,1265849,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1479121,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "32",
+        "word_num": 9,
+        "word": "δοξάσει",
+        "occurrence": 2,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοξάσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1265847,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "32",
+        "word_num": 7,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1265848,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "32",
+        "word_num": 8,
+        "word": "will",
+        "occurrence": 2
+      },
+      {
+        "id": 1265849,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "32",
+        "word_num": 9,
+        "word": "glorify",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "he will glorify",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δοξάσει = he will glorify",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1412,254 +1833,8 @@
     "targetWordsTxt": "will glorify",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοξάσει = will glorify",
-    "frequency": 0.03571428571428571,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498908",
-    "book_id": "jhn",
-    "chapter": "17",
-    "verse": "1",
-    "alignment_num": "16",
-    "orig_lang_words": ",1480905,",
-    "target_lang_words": ",1268244,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480905,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "1",
-        "word_num": 16,
-        "word": "δόξασόν",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,MAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "δόξασόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1268244,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "1",
-        "word_num": 20,
-        "word": "glorify",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "glorify",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δόξασόν = glorify",
-    "frequency": 0.05357142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498914",
-    "book_id": "jhn",
-    "chapter": "17",
-    "verse": "1",
-    "alignment_num": "22",
-    "orig_lang_words": ",1480912,",
-    "target_lang_words": ",1268251,1268252,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480912,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "1",
-        "word_num": 23,
-        "word": "δοξάσῃ",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοξάσῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1268251,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "1",
-        "word_num": 27,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1268252,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "1",
-        "word_num": 28,
-        "word": "glorify",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "will glorify",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δοξάσῃ = will glorify",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498948",
-    "book_id": "jhn",
-    "chapter": "17",
-    "verse": "4",
-    "alignment_num": "1",
-    "orig_lang_words": ",1480949,",
-    "target_lang_words": ",1268298,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480949,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "4",
-        "word_num": 2,
-        "word": "ἐδόξασα",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IAA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξασα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1268298,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "4",
-        "word_num": 1,
-        "word": "glorified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "glorified",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐδόξασα = glorified",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498962",
-    "book_id": "jhn",
-    "chapter": "17",
-    "verse": "5",
-    "alignment_num": "2",
-    "orig_lang_words": ",1480963,",
-    "target_lang_words": ",1268317,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480963,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "5",
-        "word_num": 2,
-        "word": "δόξασόν",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,MAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "δόξασόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1268317,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "5",
-        "word_num": 2,
-        "word": "glorify",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "glorify",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δόξασόν = glorify",
-    "frequency": 0.05357142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499057",
-    "book_id": "jhn",
-    "chapter": "17",
-    "verse": "10",
-    "alignment_num": "9",
-    "orig_lang_words": ",1481064,",
-    "target_lang_words": ",1268440,1268441,1268442,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481064,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "10",
-        "word_num": 11,
-        "word": "δεδόξασμαι",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IEP1,,S,"
-      }
-    ],
-    "origWordsTxt": "δεδόξασμαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1268440,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "10",
-        "word_num": 11,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1268441,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "10",
-        "word_num": 12,
-        "word": "am",
-        "occurrence": 1
-      },
-      {
-        "id": 1268442,
-        "book_id": "jhn",
-        "chapter": "17",
-        "verse": "10",
-        "word_num": 13,
-        "word": "glorified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I am glorified",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δεδόξασμαι = I am glorified",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1721,7 +1896,170 @@
     "targetWordsTxt": "Peter would glorify",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δοξάσει = Peter would glorify",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568273",
+    "book_id": "rev",
+    "chapter": "15",
+    "verse": "4",
+    "alignment_num": "6",
+    "orig_lang_words": ",1553728,",
+    "target_lang_words": ",1367568,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553728,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "4",
+        "word_num": 6,
+        "word": "δοξάσει",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοξάσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367568,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "4",
+        "word_num": 7,
+        "word": "glorify",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "glorify",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "δοξάσει = glorify",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498914",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "1",
+    "alignment_num": "22",
+    "orig_lang_words": ",1480912,",
+    "target_lang_words": ",1268251,1268252,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480912,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "1",
+        "word_num": 23,
+        "word": "δοξάσῃ",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "δοξάσῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1268251,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "1",
+        "word_num": 27,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1268252,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "1",
+        "word_num": 28,
+        "word": "glorify",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "will glorify",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δοξάσῃ = will glorify",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499057",
+    "book_id": "jhn",
+    "chapter": "17",
+    "verse": "10",
+    "alignment_num": "9",
+    "orig_lang_words": ",1481064,",
+    "target_lang_words": ",1268440,1268441,1268442,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481064,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "10",
+        "word_num": 11,
+        "word": "δεδόξασμαι",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IEP1,,S,"
+      }
+    ],
+    "origWordsTxt": "δεδόξασμαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1268440,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "10",
+        "word_num": 11,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1268441,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "10",
+        "word_num": 12,
+        "word": "am",
+        "occurrence": 1
+      },
+      {
+        "id": 1268442,
+        "book_id": "jhn",
+        "chapter": "17",
+        "verse": "10",
+        "word_num": 13,
+        "word": "glorified",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I am glorified",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δεδόξασμαι = I am glorified",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1774,60 +2112,152 @@
     "targetWordsTxt": "has glorified",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐδόξασεν = has glorified",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "504058",
-    "book_id": "act",
-    "chapter": "4",
-    "verse": "21",
-    "alignment_num": "14",
-    "orig_lang_words": ",1486362,",
-    "target_lang_words": ",1275226,1275227,",
+    "id": "523189",
+    "book_id": "rom",
+    "chapter": "8",
+    "verse": "30",
+    "alignment_num": "18",
+    "orig_lang_words": ",1506222,",
+    "target_lang_words": ",1301898,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1486362,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "21",
-        "word_num": 16,
-        "word": "ἐδόξαζον",
+        "id": 1506222,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "30",
+        "word_num": 17,
+        "word": "ἐδόξασεν",
         "occurrence": 1,
         "strong": "G13920",
         "lemma": "δοξάζω",
-        "morph": "Gr,V,IIA3,,P,"
+        "morph": "Gr,V,IAA3,,S,"
       }
     ],
-    "origWordsTxt": "ἐδόξαζον",
+    "origWordsTxt": "ἐδόξασεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1301898,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "30",
+        "word_num": 24,
+        "word": "he",
+        "occurrence": 6
+      }
+    ],
+    "targetWordsTxt": "he",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐδόξασεν = he",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552112",
+    "book_id": "heb",
+    "chapter": "5",
+    "verse": "5",
+    "alignment_num": "4",
+    "orig_lang_words": ",1536223,",
+    "target_lang_words": ",1344008,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536223,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 6,
+        "word": "ἐδόξασεν",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξασεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344008,
+        "book_id": "heb",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 8,
+        "word": "honor",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "honor",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐδόξασεν = honor",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569359",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "7",
+    "alignment_num": "1",
+    "orig_lang_words": ",1554899,",
+    "target_lang_words": ",1369019,1369020,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554899,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "7",
+        "word_num": 1,
+        "word": "ἐδόξασεν",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐδόξασεν",
     "alignmentOrigWords": 1,
     "targetSpan": 1,
     "targetWords": [
       {
-        "id": 1275226,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "21",
-        "word_num": 22,
-        "word": "they",
-        "occurrence": 3
+        "id": 1369019,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "7",
+        "word_num": 1,
+        "word": "she",
+        "occurrence": 1
       },
       {
-        "id": 1275227,
-        "book_id": "act",
-        "chapter": "4",
-        "verse": "21",
-        "word_num": 23,
-        "word": "were",
+        "id": 1369020,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "7",
+        "word_num": 2,
+        "word": "glorified",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "they were",
+    "targetWordsTxt": "she glorified",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδόξαζον = they were",
-    "frequency": 0.017857142857142856,
+    "alignmentTxt": "ἐδόξασεν = she glorified",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1880,104 +2310,8 @@
     "targetWordsTxt": "they praised",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐδόξασαν = they praised",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "510612",
-    "book_id": "act",
-    "chapter": "13",
-    "verse": "48",
-    "alignment_num": "6",
-    "orig_lang_words": ",1493068,",
-    "target_lang_words": ",1284025,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1493068,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "48",
-        "word_num": 6,
-        "word": "ἐδόξαζον",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξαζον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1284025,
-        "book_id": "act",
-        "chapter": "13",
-        "verse": "48",
-        "word_num": 9,
-        "word": "praised",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "praised",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐδόξαζον = praised",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "515346",
-    "book_id": "act",
-    "chapter": "21",
-    "verse": "20",
-    "alignment_num": "3",
-    "orig_lang_words": ",1497990,",
-    "target_lang_words": ",1290440,1290441,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1497990,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "20",
-        "word_num": 3,
-        "word": "ἐδόξαζον",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξαζον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1290440,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "20",
-        "word_num": 4,
-        "word": "they",
-        "occurrence": 2
-      },
-      {
-        "id": 1290441,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "20",
-        "word_num": 5,
-        "word": "praised",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they praised",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδόξαζον = they praised",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2021,51 +2355,8 @@
     "targetWordsTxt": "they",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐδόξασαν = they",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523189",
-    "book_id": "rom",
-    "chapter": "8",
-    "verse": "30",
-    "alignment_num": "18",
-    "orig_lang_words": ",1506222,",
-    "target_lang_words": ",1301898,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1506222,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "30",
-        "word_num": 17,
-        "word": "ἐδόξασεν",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξασεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1301898,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "30",
-        "word_num": 24,
-        "word": "he",
-        "occurrence": 6
-      }
-    ],
-    "targetWordsTxt": "he",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐδόξασεν = he",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2127,7 +2418,8 @@
     "targetWordsTxt": "I take pride",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δοξάζω = I take pride",
-    "frequency": 0.017857142857142856,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2189,7 +2481,8 @@
     "targetWordsTxt": "you may praise",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δοξάζητε = you may praise",
-    "frequency": 0.017857142857142856,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2242,7 +2535,8 @@
     "targetWordsTxt": "to glorify",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοξάσαι = to glorify",
-    "frequency": 0.017857142857142856,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2286,7 +2580,8 @@
     "targetWordsTxt": "glorify",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δοξάσατε = glorify",
-    "frequency": 0.017857142857142856,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2339,7 +2634,8 @@
     "targetWordsTxt": "is honored",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοξάζεται = is honored",
-    "frequency": 0.017857142857142856,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2383,7 +2679,8 @@
     "targetWordsTxt": "is",
     "alignmentTargetWords": 1,
     "alignmentTxt": "δεδόξασται = is",
-    "frequency": 0.017857142857142856,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2445,113 +2742,8 @@
     "targetWordsTxt": "once was glorious",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δεδοξασμένον = once was glorious",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535902",
-    "book_id": "2co",
-    "chapter": "9",
-    "verse": "13",
-    "alignment_num": "6",
-    "orig_lang_words": ",1519534,",
-    "target_lang_words": ",1320700,1320701,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519534,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 6,
-        "word": "δοξάζοντες",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,PPA,NMP,"
-      }
-    ],
-    "origWordsTxt": "δοξάζοντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1320700,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 7,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1320701,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "13",
-        "word_num": 8,
-        "word": "glorify",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they glorify",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δοξάζοντες = they glorify",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "537731",
-    "book_id": "gal",
-    "chapter": "1",
-    "verse": "24",
-    "alignment_num": "1",
-    "orig_lang_words": ",1521396,",
-    "target_lang_words": ",1323430,1323431,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1521396,
-        "book_id": "gal",
-        "chapter": "1",
-        "verse": "24",
-        "word_num": 1,
-        "word": "ἐδόξαζον",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IIA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξαζον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1323430,
-        "book_id": "gal",
-        "chapter": "1",
-        "verse": "24",
-        "word_num": 1,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1323431,
-        "book_id": "gal",
-        "chapter": "1",
-        "verse": "24",
-        "word_num": 2,
-        "word": "glorified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they glorified",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδόξαζον = they glorified",
-    "frequency": 0.03571428571428571,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2604,166 +2796,8 @@
     "targetWordsTxt": "be glorified",
     "alignmentTargetWords": 2,
     "alignmentTxt": "δοξάζηται = be glorified",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552112",
-    "book_id": "heb",
-    "chapter": "5",
-    "verse": "5",
-    "alignment_num": "4",
-    "orig_lang_words": ",1536223,",
-    "target_lang_words": ",1344008,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536223,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 6,
-        "word": "ἐδόξασεν",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξασεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344008,
-        "book_id": "heb",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 8,
-        "word": "honor",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "honor",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐδόξασεν = honor",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557468",
-    "book_id": "1pe",
-    "chapter": "1",
-    "verse": "8",
-    "alignment_num": "17",
-    "orig_lang_words": ",1541836,",
-    "target_lang_words": ",1352044,1352045,1352046,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541836,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 15,
-        "word": "δεδοξασμένῃ",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,PEP,DFS,"
-      }
-    ],
-    "origWordsTxt": "δεδοξασμένῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1352044,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 28,
-        "word": "filled",
-        "occurrence": 1
-      },
-      {
-        "id": 1352045,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 29,
-        "word": "with",
-        "occurrence": 2
-      },
-      {
-        "id": 1352046,
-        "book_id": "1pe",
-        "chapter": "1",
-        "verse": "8",
-        "word_num": 30,
-        "word": "glory",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "filled with glory",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "δεδοξασμένῃ = filled with glory",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557923",
-    "book_id": "1pe",
-    "chapter": "2",
-    "verse": "12",
-    "alignment_num": "17",
-    "orig_lang_words": ",1542299,",
-    "target_lang_words": ",1352741,1352742,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542299,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "12",
-        "word_num": 20,
-        "word": "δοξάσωσιν",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,SAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "δοξάσωσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1352741,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "12",
-        "word_num": 26,
-        "word": "and",
-        "occurrence": 1
-      },
-      {
-        "id": 1352742,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "12",
-        "word_num": 27,
-        "word": "praise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and praise",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "δοξάσωσιν = and praise",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2825,7 +2859,125 @@
     "targetWordsTxt": "would be glorified",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δοξάζηται = would be glorified",
-    "frequency": 0.017857142857142856,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557468",
+    "book_id": "1pe",
+    "chapter": "1",
+    "verse": "8",
+    "alignment_num": "17",
+    "orig_lang_words": ",1541836,",
+    "target_lang_words": ",1352044,1352045,1352046,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541836,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 15,
+        "word": "δεδοξασμένῃ",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,PEP,DFS,"
+      }
+    ],
+    "origWordsTxt": "δεδοξασμένῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1352044,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 28,
+        "word": "filled",
+        "occurrence": 1
+      },
+      {
+        "id": 1352045,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 29,
+        "word": "with",
+        "occurrence": 2
+      },
+      {
+        "id": 1352046,
+        "book_id": "1pe",
+        "chapter": "1",
+        "verse": "8",
+        "word_num": 30,
+        "word": "glory",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "filled with glory",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "δεδοξασμένῃ = filled with glory",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557923",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "12",
+    "alignment_num": "17",
+    "orig_lang_words": ",1542299,",
+    "target_lang_words": ",1352741,1352742,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542299,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 20,
+        "word": "δοξάσωσιν",
+        "occurrence": 1,
+        "strong": "G13920",
+        "lemma": "δοξάζω",
+        "morph": "Gr,V,SAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "δοξάσωσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1352741,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 26,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 1352742,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "12",
+        "word_num": 27,
+        "word": "praise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and praise",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "δοξάσωσιν = and praise",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2887,104 +3039,8 @@
     "targetWordsTxt": "let him glorify",
     "alignmentTargetWords": 3,
     "alignmentTxt": "δοξαζέτω = let him glorify",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568273",
-    "book_id": "rev",
-    "chapter": "15",
-    "verse": "4",
-    "alignment_num": "6",
-    "orig_lang_words": ",1553728,",
-    "target_lang_words": ",1367568,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553728,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "4",
-        "word_num": 6,
-        "word": "δοξάσει",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "δοξάσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367568,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "4",
-        "word_num": 7,
-        "word": "glorify",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "glorify",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "δοξάσει = glorify",
-    "frequency": 0.017857142857142856,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569359",
-    "book_id": "rev",
-    "chapter": "18",
-    "verse": "7",
-    "alignment_num": "1",
-    "orig_lang_words": ",1554899,",
-    "target_lang_words": ",1369019,1369020,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554899,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "7",
-        "word_num": 1,
-        "word": "ἐδόξασεν",
-        "occurrence": 1,
-        "strong": "G13920",
-        "lemma": "δοξάζω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐδόξασεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1369019,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "7",
-        "word_num": 1,
-        "word": "she",
-        "occurrence": 1
-      },
-      {
-        "id": 1369020,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "7",
-        "word_num": 2,
-        "word": "glorified",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "she glorified",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐδόξασεν = she glorified",
-    "frequency": 0.017857142857142856,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

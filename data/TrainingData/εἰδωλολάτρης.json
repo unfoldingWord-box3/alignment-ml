@@ -39,201 +39,8 @@
     "targetWordsTxt": "idolaters",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εἰδωλολάτραις = idolaters",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "528007",
-    "book_id": "1co",
-    "chapter": "5",
-    "verse": "11",
-    "alignment_num": "14",
-    "orig_lang_words": ",1511402,",
-    "target_lang_words": ",1309139,1309140,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1511402,
-        "book_id": "1co",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 15,
-        "word": "εἰδωλολάτρης",
-        "occurrence": 1,
-        "strong": "G14960",
-        "lemma": "εἰδωλολάτρης",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "εἰδωλολάτρης",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1309139,
-        "book_id": "1co",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 25,
-        "word": "an",
-        "occurrence": 1
-      },
-      {
-        "id": 1309140,
-        "book_id": "1co",
-        "chapter": "5",
-        "verse": "11",
-        "word_num": 26,
-        "word": "idolater",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "an idolater",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "εἰδωλολάτρης = an idolater",
-    "frequency": 0.2857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "528174",
-    "book_id": "1co",
-    "chapter": "6",
-    "verse": "9",
-    "alignment_num": "18",
-    "orig_lang_words": ",1511566,",
-    "target_lang_words": ",1309387,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1511566,
-        "book_id": "1co",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 14,
-        "word": "εἰδωλολάτραι",
-        "occurrence": 1,
-        "strong": "G14960",
-        "lemma": "εἰδωλολάτρης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "εἰδωλολάτραι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1309387,
-        "book_id": "1co",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 24,
-        "word": "idolaters",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "idolaters",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εἰδωλολάτραι = idolaters",
-    "frequency": 0.42857142857142855,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529785",
-    "book_id": "1co",
-    "chapter": "10",
-    "verse": "7",
-    "alignment_num": "2",
-    "orig_lang_words": ",1513223,",
-    "target_lang_words": ",1311805,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1513223,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "7",
-        "word_num": 1,
-        "word": "εἰδωλολάτραι",
-        "occurrence": 1,
-        "strong": "G14960",
-        "lemma": "εἰδωλολάτρης",
-        "morph": "Gr,N,,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "εἰδωλολάτραι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1311805,
-        "book_id": "1co",
-        "chapter": "10",
-        "verse": "7",
-        "word_num": 3,
-        "word": "idolaters",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "idolaters",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "εἰδωλολάτραι = idolaters",
-    "frequency": 0.42857142857142855,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541163",
-    "book_id": "eph",
-    "chapter": "5",
-    "verse": "5",
-    "alignment_num": "13",
-    "orig_lang_words": ",1524904,",
-    "target_lang_words": ",1328379,1328380,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1524904,
-        "book_id": "eph",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 13,
-        "word": "εἰδωλολάτρης",
-        "occurrence": 1,
-        "strong": "G14960",
-        "lemma": "εἰδωλολάτρης",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "εἰδωλολάτρης",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1328379,
-        "book_id": "eph",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 16,
-        "word": "an",
-        "occurrence": 1
-      },
-      {
-        "id": 1328380,
-        "book_id": "eph",
-        "chapter": "5",
-        "verse": "5",
-        "word_num": 17,
-        "word": "idolater",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "an idolater",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "εἰδωλολάτρης = an idolater",
-    "frequency": 0.2857142857142857,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -289,7 +96,206 @@
     "targetWordsTxt": "idolaters",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ εἰδωλολάτραις = idolaters",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528007",
+    "book_id": "1co",
+    "chapter": "5",
+    "verse": "11",
+    "alignment_num": "14",
+    "orig_lang_words": ",1511402,",
+    "target_lang_words": ",1309139,1309140,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511402,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 15,
+        "word": "εἰδωλολάτρης",
+        "occurrence": 1,
+        "strong": "G14960",
+        "lemma": "εἰδωλολάτρης",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "εἰδωλολάτρης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1309139,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 25,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 1309140,
+        "book_id": "1co",
+        "chapter": "5",
+        "verse": "11",
+        "word_num": 26,
+        "word": "idolater",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an idolater",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εἰδωλολάτρης = an idolater",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541163",
+    "book_id": "eph",
+    "chapter": "5",
+    "verse": "5",
+    "alignment_num": "13",
+    "orig_lang_words": ",1524904,",
+    "target_lang_words": ",1328379,1328380,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524904,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 13,
+        "word": "εἰδωλολάτρης",
+        "occurrence": 1,
+        "strong": "G14960",
+        "lemma": "εἰδωλολάτρης",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "εἰδωλολάτρης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1328379,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 16,
+        "word": "an",
+        "occurrence": 1
+      },
+      {
+        "id": 1328380,
+        "book_id": "eph",
+        "chapter": "5",
+        "verse": "5",
+        "word_num": 17,
+        "word": "idolater",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "an idolater",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "εἰδωλολάτρης = an idolater",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528174",
+    "book_id": "1co",
+    "chapter": "6",
+    "verse": "9",
+    "alignment_num": "18",
+    "orig_lang_words": ",1511566,",
+    "target_lang_words": ",1309387,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511566,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 14,
+        "word": "εἰδωλολάτραι",
+        "occurrence": 1,
+        "strong": "G14960",
+        "lemma": "εἰδωλολάτρης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "εἰδωλολάτραι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1309387,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 24,
+        "word": "idolaters",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "idolaters",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εἰδωλολάτραι = idolaters",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "529785",
+    "book_id": "1co",
+    "chapter": "10",
+    "verse": "7",
+    "alignment_num": "2",
+    "orig_lang_words": ",1513223,",
+    "target_lang_words": ",1311805,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1513223,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "7",
+        "word_num": 1,
+        "word": "εἰδωλολάτραι",
+        "occurrence": 1,
+        "strong": "G14960",
+        "lemma": "εἰδωλολάτρης",
+        "morph": "Gr,N,,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "εἰδωλολάτραι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1311805,
+        "book_id": "1co",
+        "chapter": "10",
+        "verse": "7",
+        "word_num": 3,
+        "word": "idolaters",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "idolaters",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "εἰδωλολάτραι = idolaters",
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -333,7 +339,8 @@
     "targetWordsTxt": "idolaters",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εἰδωλολάτραι = idolaters",
-    "frequency": 0.42857142857142855,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

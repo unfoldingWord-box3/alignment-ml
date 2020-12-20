@@ -51,7 +51,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν ναὸν = temple",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.3,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -95,51 +96,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ναὸν = temple",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "468128",
-    "book_id": "mrk",
-    "chapter": "15",
-    "verse": "38",
-    "alignment_num": "4",
-    "orig_lang_words": ",1448604,",
-    "target_lang_words": ",1225975,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1448604,
-        "book_id": "mrk",
-        "chapter": "15",
-        "verse": "38",
-        "word_num": 4,
-        "word": "ναοῦ",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "ναοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1225975,
-        "book_id": "mrk",
-        "chapter": "15",
-        "verse": "38",
-        "word_num": 5,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοῦ = temple",
-    "frequency": 0.2222222222222222,
+    "frequency": 0.6,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -183,139 +141,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ναὸν = temple",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "468765",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "21",
-    "alignment_num": "14",
-    "orig_lang_words": ",1449433,",
-    "target_lang_words": ",1227157,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1449433,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 15,
-        "word": "ναῷ",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "ναῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1227157,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 16,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναῷ = temple",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "468780",
-    "book_id": "luk",
-    "chapter": "1",
-    "verse": "22",
-    "alignment_num": "14",
-    "orig_lang_words": ",1449447,",
-    "target_lang_words": ",1227182,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1449447,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "22",
-        "word_num": 13,
-        "word": "ναῷ",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "ναῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1227182,
-        "book_id": "luk",
-        "chapter": "1",
-        "verse": "22",
-        "word_num": 24,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναῷ = temple",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "486567",
-    "book_id": "luk",
-    "chapter": "23",
-    "verse": "45",
-    "alignment_num": "6",
-    "orig_lang_words": ",1467545,",
-    "target_lang_words": ",1251422,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1467545,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "45",
-        "word_num": 8,
-        "word": "ναοῦ",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "ναοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1251422,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "45",
-        "word_num": 7,
-        "word": "of",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοῦ = of",
-    "frequency": 0.027777777777777776,
+    "frequency": 0.6,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -371,239 +198,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν ναὸν = temple",
-    "frequency": 0.08333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488601",
-    "book_id": "jhn",
-    "chapter": "2",
-    "verse": "20",
-    "alignment_num": "5",
-    "orig_lang_words": ",1469689,1469690,",
-    "target_lang_words": ",1254119,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1469689,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "20",
-        "word_num": 9,
-        "word": "ὁ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NMS,"
-      },
-      {
-        "id": 1469690,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "20",
-        "word_num": 10,
-        "word": "ναὸς",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὁ ναὸς",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1254119,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "20",
-        "word_num": 6,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁ ναὸς = temple",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488619",
-    "book_id": "jhn",
-    "chapter": "2",
-    "verse": "21",
-    "alignment_num": "5",
-    "orig_lang_words": ",1469704,",
-    "target_lang_words": ",1254141,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1469704,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 5,
-        "word": "ναοῦ",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "ναοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1254141,
-        "book_id": "jhn",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 6,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοῦ = temple",
-    "frequency": 0.2222222222222222,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "512977",
-    "book_id": "act",
-    "chapter": "17",
-    "verse": "24",
-    "alignment_num": "20",
-    "orig_lang_words": ",1495521,",
-    "target_lang_words": ",1287230,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1495521,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "24",
-        "word_num": 20,
-        "word": "ναοῖς",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "ναοῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1287230,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "24",
-        "word_num": 24,
-        "word": "temples",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temples",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοῖς = temples",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "514061",
-    "book_id": "act",
-    "chapter": "19",
-    "verse": "24",
-    "alignment_num": "7",
-    "orig_lang_words": ",1496645,",
-    "target_lang_words": ",1288648,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1496645,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "24",
-        "word_num": 6,
-        "word": "ναοὺς",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "ναοὺς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1288648,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "24",
-        "word_num": 9,
-        "word": "statues",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "statues",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοὺς = statues",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "527372",
-    "book_id": "1co",
-    "chapter": "3",
-    "verse": "16",
-    "alignment_num": "7",
-    "orig_lang_words": ",1510753,",
-    "target_lang_words": ",1308196,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1510753,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 3,
-        "word": "ναὸς",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ναὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1308196,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 9,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναὸς = temple",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.3,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -659,104 +255,728 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν ναὸν = temple",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.3,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "527390",
-    "book_id": "1co",
-    "chapter": "3",
-    "verse": "17",
-    "alignment_num": "10",
-    "orig_lang_words": ",1510777,",
-    "target_lang_words": ",1308218,",
+    "id": "540262",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "21",
+    "alignment_num": "7",
+    "orig_lang_words": ",1524012,",
+    "target_lang_words": ",1327208,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1510777,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 13,
-        "word": "ναὸς",
+        "id": 1524012,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 7,
+        "word": "ναὸν",
         "occurrence": 1,
         "strong": "G34850",
         "lemma": "ναός",
-        "morph": "Gr,N,,,,,NMS,"
+        "morph": "Gr,N,,,,,AMS,"
       }
     ],
-    "origWordsTxt": "ναὸς",
+    "origWordsTxt": "ναὸν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1308218,
-        "book_id": "1co",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 13,
+        "id": 1327208,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 10,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναὸν = a",
+    "frequency": 0.1,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546666",
+    "book_id": "2th",
+    "chapter": "2",
+    "verse": "4",
+    "alignment_num": "14",
+    "orig_lang_words": ",1530690,",
+    "target_lang_words": ",1336176,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530690,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 14,
+        "word": "ναὸν",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ναὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336176,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 25,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναὸν = temple",
+    "frequency": 0.6,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566464",
+    "book_id": "rev",
+    "chapter": "11",
+    "verse": "1",
+    "alignment_num": "11",
+    "orig_lang_words": ",1551712,",
+    "target_lang_words": ",1365157,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551712,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "1",
+        "word_num": 11,
+        "word": "ναὸν",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ναὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365157,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "1",
+        "word_num": 21,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναὸν = temple",
+    "frequency": 0.6,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568367",
+    "book_id": "rev",
+    "chapter": "15",
+    "verse": "8",
+    "alignment_num": "18",
+    "orig_lang_words": ",1553834,",
+    "target_lang_words": ",1367684,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553834,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 21,
+        "word": "ναὸν",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ναὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367684,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "8",
+        "word_num": 22,
         "word": "temple",
         "occurrence": 2
       }
     ],
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ναὸς = temple",
-    "frequency": 0.16666666666666666,
+    "alignmentTxt": "ναὸν = temple",
+    "frequency": 0.6,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "528344",
-    "book_id": "1co",
-    "chapter": "6",
-    "verse": "19",
-    "alignment_num": "9",
-    "orig_lang_words": ",1511746,",
-    "target_lang_words": ",1309634,1309635,",
+    "id": "571038",
+    "book_id": "rev",
+    "chapter": "21",
+    "verse": "22",
+    "alignment_num": "3",
+    "orig_lang_words": ",1556795,",
+    "target_lang_words": ",1371286,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1511746,
-        "book_id": "1co",
-        "chapter": "6",
-        "verse": "19",
-        "word_num": 7,
-        "word": "ναὸς",
+        "id": 1556795,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "22",
+        "word_num": 1,
+        "word": "ναὸν",
         "occurrence": 1,
         "strong": "G34850",
         "lemma": "ναός",
-        "morph": "Gr,N,,,,,NMS,"
+        "morph": "Gr,N,,,,,AMS,"
       }
     ],
-    "origWordsTxt": "ναὸς",
+    "origWordsTxt": "ναὸν",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1309634,
-        "book_id": "1co",
-        "chapter": "6",
-        "verse": "19",
-        "word_num": 9,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1309635,
-        "book_id": "1co",
-        "chapter": "6",
-        "verse": "19",
-        "word_num": 10,
+        "id": 1371286,
+        "book_id": "rev",
+        "chapter": "21",
+        "verse": "22",
+        "word_num": 4,
         "word": "temple",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "a temple",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ναὸς = a temple",
-    "frequency": 0.027777777777777776,
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναὸν = temple",
+    "frequency": 0.6,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "468128",
+    "book_id": "mrk",
+    "chapter": "15",
+    "verse": "38",
+    "alignment_num": "4",
+    "orig_lang_words": ",1448604,",
+    "target_lang_words": ",1225975,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1448604,
+        "book_id": "mrk",
+        "chapter": "15",
+        "verse": "38",
+        "word_num": 4,
+        "word": "ναοῦ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ναοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1225975,
+        "book_id": "mrk",
+        "chapter": "15",
+        "verse": "38",
+        "word_num": 5,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοῦ = temple",
+    "frequency": 0.8888888888888888,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "486567",
+    "book_id": "luk",
+    "chapter": "23",
+    "verse": "45",
+    "alignment_num": "6",
+    "orig_lang_words": ",1467545,",
+    "target_lang_words": ",1251422,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1467545,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "45",
+        "word_num": 8,
+        "word": "ναοῦ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ναοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1251422,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "45",
+        "word_num": 7,
+        "word": "of",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοῦ = of",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488619",
+    "book_id": "jhn",
+    "chapter": "2",
+    "verse": "21",
+    "alignment_num": "5",
+    "orig_lang_words": ",1469704,",
+    "target_lang_words": ",1254141,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469704,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 5,
+        "word": "ναοῦ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ναοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254141,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 6,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοῦ = temple",
+    "frequency": 0.8888888888888888,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566481",
+    "book_id": "rev",
+    "chapter": "11",
+    "verse": "2",
+    "alignment_num": "8",
+    "orig_lang_words": ",1551729,",
+    "target_lang_words": ",1365178,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551729,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "2",
+        "word_num": 6,
+        "word": "ναοῦ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ναοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365178,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "2",
+        "word_num": 9,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοῦ = temple",
+    "frequency": 0.8888888888888888,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568045",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "15",
+    "alignment_num": "6",
+    "orig_lang_words": ",1553475,",
+    "target_lang_words": ",1367261,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553475,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 6,
+        "word": "ναοῦ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ναοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367261,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 7,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοῦ = temple",
+    "frequency": 0.8888888888888888,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568092",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "17",
+    "alignment_num": "6",
+    "orig_lang_words": ",1553525,",
+    "target_lang_words": ",1367324,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553525,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "17",
+        "word_num": 6,
+        "word": "ναοῦ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ναοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367324,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "17",
+        "word_num": 7,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοῦ = temple",
+    "frequency": 0.8888888888888888,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568308",
+    "book_id": "rev",
+    "chapter": "15",
+    "verse": "6",
+    "alignment_num": "3",
+    "orig_lang_words": ",1553776,",
+    "target_lang_words": ",1367613,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553776,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "6",
+        "word_num": 12,
+        "word": "ναοῦ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ναοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367613,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "6",
+        "word_num": 3,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοῦ = temple",
+    "frequency": 0.8888888888888888,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568383",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "1",
+    "alignment_num": "7",
+    "orig_lang_words": ",1553849,",
+    "target_lang_words": ",1367703,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553849,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "1",
+        "word_num": 6,
+        "word": "ναοῦ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ναοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367703,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "1",
+        "word_num": 8,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοῦ = temple",
+    "frequency": 0.8888888888888888,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568714",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "17",
+    "alignment_num": "16",
+    "orig_lang_words": ",1554209,",
+    "target_lang_words": ",1368154,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1554209,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "17",
+        "word_num": 16,
+        "word": "ναοῦ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ναοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1368154,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "17",
+        "word_num": 19,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοῦ = temple",
+    "frequency": 0.8888888888888888,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "468765",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "21",
+    "alignment_num": "14",
+    "orig_lang_words": ",1449433,",
+    "target_lang_words": ",1227157,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449433,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 15,
+        "word": "ναῷ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ναῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1227157,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 16,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναῷ = temple",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "468780",
+    "book_id": "luk",
+    "chapter": "1",
+    "verse": "22",
+    "alignment_num": "14",
+    "orig_lang_words": ",1449447,",
+    "target_lang_words": ",1227182,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1449447,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 13,
+        "word": "ναῷ",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ναῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1227182,
+        "book_id": "luk",
+        "chapter": "1",
+        "verse": "22",
+        "word_num": 24,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναῷ = temple",
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -809,148 +1029,8 @@
     "targetWordsTxt": "the temple",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ναῷ = the temple",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534921",
-    "book_id": "2co",
-    "chapter": "6",
-    "verse": "16",
-    "alignment_num": "12",
-    "orig_lang_words": ",1518504,",
-    "target_lang_words": ",1319264,1319265,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518504,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "16",
-        "word_num": 9,
-        "word": "ναὸς",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ναὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1319264,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "16",
-        "word_num": 14,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1319265,
-        "book_id": "2co",
-        "chapter": "6",
-        "verse": "16",
-        "word_num": 15,
-        "word": "temple",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "the temple",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ναὸς = the temple",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540262",
-    "book_id": "eph",
-    "chapter": "2",
-    "verse": "21",
-    "alignment_num": "7",
-    "orig_lang_words": ",1524012,",
-    "target_lang_words": ",1327208,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1524012,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 7,
-        "word": "ναὸν",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "ναὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1327208,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 10,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναὸν = a",
-    "frequency": 0.027777777777777776,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546666",
-    "book_id": "2th",
-    "chapter": "2",
-    "verse": "4",
-    "alignment_num": "14",
-    "orig_lang_words": ",1530690,",
-    "target_lang_words": ",1336176,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530690,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "4",
-        "word_num": 14,
-        "word": "ναὸν",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "ναὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1336176,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "4",
-        "word_num": 25,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναὸν = temple",
     "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -994,7 +1074,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ναῷ = temple",
-    "frequency": 0.08333333333333333,
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1050,139 +1131,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῷ ναῷ = temple",
-    "frequency": 0.05555555555555555,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566464",
-    "book_id": "rev",
-    "chapter": "11",
-    "verse": "1",
-    "alignment_num": "11",
-    "orig_lang_words": ",1551712,",
-    "target_lang_words": ",1365157,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1551712,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "1",
-        "word_num": 11,
-        "word": "ναὸν",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "ναὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1365157,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "1",
-        "word_num": 21,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναὸν = temple",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566481",
-    "book_id": "rev",
-    "chapter": "11",
-    "verse": "2",
-    "alignment_num": "8",
-    "orig_lang_words": ",1551729,",
-    "target_lang_words": ",1365178,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1551729,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "2",
-        "word_num": 6,
-        "word": "ναοῦ",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "ναοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1365178,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "2",
-        "word_num": 9,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοῦ = temple",
-    "frequency": 0.2222222222222222,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566859",
-    "book_id": "rev",
-    "chapter": "11",
-    "verse": "19",
-    "alignment_num": "2",
-    "orig_lang_words": ",1552167,",
-    "target_lang_words": ",1365689,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1552167,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "19",
-        "word_num": 3,
-        "word": "ναὸς",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ναὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1365689,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "19",
-        "word_num": 2,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναὸς = temple",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1238,95 +1188,308 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῷ ναῷ = temple",
-    "frequency": 0.05555555555555555,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "568045",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "15",
-    "alignment_num": "6",
-    "orig_lang_words": ",1553475,",
-    "target_lang_words": ",1367261,",
-    "origSpan": 0,
+    "id": "488601",
+    "book_id": "jhn",
+    "chapter": "2",
+    "verse": "20",
+    "alignment_num": "5",
+    "orig_lang_words": ",1469689,1469690,",
+    "target_lang_words": ",1254119,",
+    "origSpan": 1,
     "origWords": [
       {
-        "id": 1553475,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 6,
-        "word": "ναοῦ",
+        "id": 1469689,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 9,
+        "word": "ὁ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NMS,"
+      },
+      {
+        "id": 1469690,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 10,
+        "word": "ναὸς",
         "occurrence": 1,
         "strong": "G34850",
         "lemma": "ναός",
-        "morph": "Gr,N,,,,,GMS,"
+        "morph": "Gr,N,,,,,NMS,"
       }
     ],
-    "origWordsTxt": "ναοῦ",
-    "alignmentOrigWords": 1,
+    "origWordsTxt": "ὁ ναὸς",
+    "alignmentOrigWords": 2,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1367261,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 7,
+        "id": 1254119,
+        "book_id": "jhn",
+        "chapter": "2",
+        "verse": "20",
+        "word_num": 6,
         "word": "temple",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοῦ = temple",
-    "frequency": 0.2222222222222222,
+    "alignmentTxt": "ὁ ναὸς = temple",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "568092",
-    "book_id": "rev",
-    "chapter": "14",
+    "id": "527372",
+    "book_id": "1co",
+    "chapter": "3",
+    "verse": "16",
+    "alignment_num": "7",
+    "orig_lang_words": ",1510753,",
+    "target_lang_words": ",1308196,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1510753,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 3,
+        "word": "ναὸς",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ναὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1308196,
+        "book_id": "1co",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 9,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναὸς = temple",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "527390",
+    "book_id": "1co",
+    "chapter": "3",
     "verse": "17",
-    "alignment_num": "6",
-    "orig_lang_words": ",1553525,",
-    "target_lang_words": ",1367324,",
+    "alignment_num": "10",
+    "orig_lang_words": ",1510777,",
+    "target_lang_words": ",1308218,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1553525,
-        "book_id": "rev",
-        "chapter": "14",
+        "id": 1510777,
+        "book_id": "1co",
+        "chapter": "3",
         "verse": "17",
-        "word_num": 6,
-        "word": "ναοῦ",
+        "word_num": 13,
+        "word": "ναὸς",
         "occurrence": 1,
         "strong": "G34850",
         "lemma": "ναός",
-        "morph": "Gr,N,,,,,GMS,"
+        "morph": "Gr,N,,,,,NMS,"
       }
     ],
-    "origWordsTxt": "ναοῦ",
+    "origWordsTxt": "ναὸς",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1367324,
-        "book_id": "rev",
-        "chapter": "14",
+        "id": 1308218,
+        "book_id": "1co",
+        "chapter": "3",
         "verse": "17",
+        "word_num": 13,
+        "word": "temple",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "temple",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναὸς = temple",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "528344",
+    "book_id": "1co",
+    "chapter": "6",
+    "verse": "19",
+    "alignment_num": "9",
+    "orig_lang_words": ",1511746,",
+    "target_lang_words": ",1309634,1309635,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1511746,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "19",
         "word_num": 7,
+        "word": "ναὸς",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ναὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1309634,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "19",
+        "word_num": 9,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1309635,
+        "book_id": "1co",
+        "chapter": "6",
+        "verse": "19",
+        "word_num": 10,
+        "word": "temple",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a temple",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ναὸς = a temple",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534921",
+    "book_id": "2co",
+    "chapter": "6",
+    "verse": "16",
+    "alignment_num": "12",
+    "orig_lang_words": ",1518504,",
+    "target_lang_words": ",1319264,1319265,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518504,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "16",
+        "word_num": 9,
+        "word": "ναὸς",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ναὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1319264,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "16",
+        "word_num": 14,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1319265,
+        "book_id": "2co",
+        "chapter": "6",
+        "verse": "16",
+        "word_num": 15,
+        "word": "temple",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "the temple",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ναὸς = the temple",
+    "frequency": 0.1111111111111111,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566859",
+    "book_id": "rev",
+    "chapter": "11",
+    "verse": "19",
+    "alignment_num": "2",
+    "orig_lang_words": ",1552167,",
+    "target_lang_words": ",1365689,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1552167,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "19",
+        "word_num": 3,
+        "word": "ναὸς",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ναὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365689,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "19",
+        "word_num": 2,
         "word": "temple",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοῦ = temple",
-    "frequency": 0.2222222222222222,
+    "alignmentTxt": "ναὸς = temple",
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1370,51 +1533,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ναὸς = temple",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568308",
-    "book_id": "rev",
-    "chapter": "15",
-    "verse": "6",
-    "alignment_num": "3",
-    "orig_lang_words": ",1553776,",
-    "target_lang_words": ",1367613,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553776,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "6",
-        "word_num": 12,
-        "word": "ναοῦ",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "ναοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367613,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "6",
-        "word_num": 3,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοῦ = temple",
-    "frequency": 0.2222222222222222,
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1458,183 +1578,8 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ναὸς = temple",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568367",
-    "book_id": "rev",
-    "chapter": "15",
-    "verse": "8",
-    "alignment_num": "18",
-    "orig_lang_words": ",1553834,",
-    "target_lang_words": ",1367684,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553834,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "8",
-        "word_num": 21,
-        "word": "ναὸν",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "ναὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367684,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "8",
-        "word_num": 22,
-        "word": "temple",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναὸν = temple",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568383",
-    "book_id": "rev",
-    "chapter": "16",
-    "verse": "1",
-    "alignment_num": "7",
-    "orig_lang_words": ",1553849,",
-    "target_lang_words": ",1367703,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553849,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "1",
-        "word_num": 6,
-        "word": "ναοῦ",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "ναοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367703,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "1",
-        "word_num": 8,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοῦ = temple",
-    "frequency": 0.2222222222222222,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568714",
-    "book_id": "rev",
-    "chapter": "16",
-    "verse": "17",
-    "alignment_num": "16",
-    "orig_lang_words": ",1554209,",
-    "target_lang_words": ",1368154,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1554209,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "17",
-        "word_num": 16,
-        "word": "ναοῦ",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "ναοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1368154,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "17",
-        "word_num": 19,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναοῦ = temple",
-    "frequency": 0.2222222222222222,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "571038",
-    "book_id": "rev",
-    "chapter": "21",
-    "verse": "22",
-    "alignment_num": "3",
-    "orig_lang_words": ",1556795,",
-    "target_lang_words": ",1371286,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1556795,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "22",
-        "word_num": 1,
-        "word": "ναὸν",
-        "occurrence": 1,
-        "strong": "G34850",
-        "lemma": "ναός",
-        "morph": "Gr,N,,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "ναὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1371286,
-        "book_id": "rev",
-        "chapter": "21",
-        "verse": "22",
-        "word_num": 4,
-        "word": "temple",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "temple",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ναὸν = temple",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1678,7 +1623,98 @@
     "targetWordsTxt": "temple",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ναὸς = temple",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.6666666666666666,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512977",
+    "book_id": "act",
+    "chapter": "17",
+    "verse": "24",
+    "alignment_num": "20",
+    "orig_lang_words": ",1495521,",
+    "target_lang_words": ",1287230,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495521,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "24",
+        "word_num": 20,
+        "word": "ναοῖς",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "ναοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1287230,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "24",
+        "word_num": 24,
+        "word": "temples",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "temples",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοῖς = temples",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514061",
+    "book_id": "act",
+    "chapter": "19",
+    "verse": "24",
+    "alignment_num": "7",
+    "orig_lang_words": ",1496645,",
+    "target_lang_words": ",1288648,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1496645,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "24",
+        "word_num": 6,
+        "word": "ναοὺς",
+        "occurrence": 1,
+        "strong": "G34850",
+        "lemma": "ναός",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ναοὺς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1288648,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "24",
+        "word_num": 9,
+        "word": "statues",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "statues",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ναοὺς = statues",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

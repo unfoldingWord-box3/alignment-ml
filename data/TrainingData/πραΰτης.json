@@ -48,7 +48,8 @@
     "targetWordsTxt": "of gentleness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πραΰτητος = of gentleness",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,51 +93,8 @@
     "targetWordsTxt": "meekness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πραΰτητος = meekness",
-    "frequency": 0.18181818181818182,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539237",
-    "book_id": "gal",
-    "chapter": "5",
-    "verse": "23",
-    "alignment_num": "0",
-    "orig_lang_words": ",1522962,",
-    "target_lang_words": ",1325823,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1522962,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "23",
-        "word_num": 0,
-        "word": "πραΰτης",
-        "occurrence": 1,
-        "strong": "G42400",
-        "lemma": "πραΰτης",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "πραΰτης",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1325823,
-        "book_id": "gal",
-        "chapter": "5",
-        "verse": "23",
-        "word_num": 0,
-        "word": "gentleness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "gentleness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πραΰτης = gentleness",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,7 +147,8 @@
     "targetWordsTxt": "of gentleness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πραΰτητος = of gentleness",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -233,7 +192,98 @@
     "targetWordsTxt": "gentleness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πραΰτητος = gentleness",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558339",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "16",
+    "alignment_num": "2",
+    "orig_lang_words": ",1542745,",
+    "target_lang_words": ",1353409,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542745,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 2,
+        "word": "πραΰτητος",
+        "occurrence": 1,
+        "strong": "G42400",
+        "lemma": "πραΰτης",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "πραΰτητος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1353409,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "16",
+        "word_num": 4,
+        "word": "meekness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "meekness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πραΰτητος = meekness",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539237",
+    "book_id": "gal",
+    "chapter": "5",
+    "verse": "23",
+    "alignment_num": "0",
+    "orig_lang_words": ",1522962,",
+    "target_lang_words": ",1325823,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1522962,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "23",
+        "word_num": 0,
+        "word": "πραΰτης",
+        "occurrence": 1,
+        "strong": "G42400",
+        "lemma": "πραΰτης",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "πραΰτης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1325823,
+        "book_id": "gal",
+        "chapter": "5",
+        "verse": "23",
+        "word_num": 0,
+        "word": "gentleness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gentleness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πραΰτης = gentleness",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -277,51 +327,8 @@
     "targetWordsTxt": "gentleness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πραΰτητα = gentleness",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549421",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "25",
-    "alignment_num": "1",
-    "orig_lang_words": ",1533431,",
-    "target_lang_words": ",1340059,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533431,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 1,
-        "word": "πραΰτητι",
-        "occurrence": 1,
-        "strong": "G42400",
-        "lemma": "πραΰτης",
-        "morph": "Gr,N,,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "πραΰτητι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1340059,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "25",
-        "word_num": 1,
-        "word": "meekness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "meekness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πραΰτητι = meekness",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -365,7 +372,53 @@
     "targetWordsTxt": "humility",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πραΰτητα = humility",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549421",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "25",
+    "alignment_num": "1",
+    "orig_lang_words": ",1533431,",
+    "target_lang_words": ",1340059,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533431,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 1,
+        "word": "πραΰτητι",
+        "occurrence": 1,
+        "strong": "G42400",
+        "lemma": "πραΰτης",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "πραΰτητι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340059,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "25",
+        "word_num": 1,
+        "word": "meekness",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "meekness",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "πραΰτητι = meekness",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -409,7 +462,8 @@
     "targetWordsTxt": "humility",
     "alignmentTargetWords": 1,
     "alignmentTxt": "πραΰτητι = humility",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -462,51 +516,8 @@
     "targetWordsTxt": "the humility",
     "alignmentTargetWords": 2,
     "alignmentTxt": "πραΰτητι = the humility",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558339",
-    "book_id": "1pe",
-    "chapter": "3",
-    "verse": "16",
-    "alignment_num": "2",
-    "orig_lang_words": ",1542745,",
-    "target_lang_words": ",1353409,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542745,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 2,
-        "word": "πραΰτητος",
-        "occurrence": 1,
-        "strong": "G42400",
-        "lemma": "πραΰτης",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "πραΰτητος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1353409,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "16",
-        "word_num": 4,
-        "word": "meekness",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "meekness",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "πραΰτητος = meekness",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

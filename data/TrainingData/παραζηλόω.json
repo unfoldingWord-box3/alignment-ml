@@ -48,60 +48,8 @@
     "targetWordsTxt": "will provoke",
     "alignmentTargetWords": 2,
     "alignmentTxt": "παραζηλώσω = will provoke",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524302",
-    "book_id": "rom",
-    "chapter": "11",
-    "verse": "11",
-    "alignment_num": "13",
-    "orig_lang_words": ",1507426,",
-    "target_lang_words": ",1303591,1303592,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1507426,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "11",
-        "word_num": 18,
-        "word": "παραζηλῶσαι",
-        "occurrence": 1,
-        "strong": "G38630",
-        "lemma": "παραζηλόω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "παραζηλῶσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1303591,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "11",
-        "word_num": 26,
-        "word": "to",
-        "occurrence": 3
-      },
-      {
-        "id": 1303592,
-        "book_id": "rom",
-        "chapter": "11",
-        "verse": "11",
-        "word_num": 27,
-        "word": "provoke",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to provoke",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "παραζηλῶσαι = to provoke",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -181,7 +129,62 @@
     "targetWordsTxt": "I will provoke to jealousy",
     "alignmentTargetWords": 5,
     "alignmentTxt": "παραζηλώσω = I will provoke to jealousy",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524302",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "11",
+    "alignment_num": "13",
+    "orig_lang_words": ",1507426,",
+    "target_lang_words": ",1303591,1303592,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507426,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "11",
+        "word_num": 18,
+        "word": "παραζηλῶσαι",
+        "occurrence": 1,
+        "strong": "G38630",
+        "lemma": "παραζηλόω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "παραζηλῶσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1303591,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "11",
+        "word_num": 26,
+        "word": "to",
+        "occurrence": 3
+      },
+      {
+        "id": 1303592,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "11",
+        "word_num": 27,
+        "word": "provoke",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to provoke",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "παραζηλῶσαι = to provoke",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -243,7 +246,8 @@
     "targetWordsTxt": "do we provoke",
     "alignmentTargetWords": 3,
     "alignmentTxt": "παραζηλοῦμεν = do we provoke",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

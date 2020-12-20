@@ -39,263 +39,8 @@
     "targetWordsTxt": "wanting",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βουλόμενος = wanting",
-    "frequency": 0.05714285714285714,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "476852",
-    "book_id": "luk",
-    "chapter": "10",
-    "verse": "22",
-    "alignment_num": "28",
-    "orig_lang_words": ",1457694,",
-    "target_lang_words": ",1238051,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1457694,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "22",
-        "word_num": 30,
-        "word": "βούληται",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,SPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "βούληται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1238051,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "22",
-        "word_num": 34,
-        "word": "chooses",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chooses",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βούληται = chooses",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "485448",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "42",
-    "alignment_num": "3",
-    "orig_lang_words": ",1466414,",
-    "target_lang_words": ",1249964,1249965,1249966,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1466414,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "42",
-        "word_num": 3,
-        "word": "βούλει",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IPM2,,S,"
-      }
-    ],
-    "origWordsTxt": "βούλει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1249964,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "42",
-        "word_num": 3,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 1249965,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "42",
-        "word_num": 4,
-        "word": "are",
-        "occurrence": 1
-      },
-      {
-        "id": 1249966,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "42",
-        "word_num": 5,
-        "word": "willing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you are willing",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "βούλει = you are willing",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "500086",
-    "book_id": "jhn",
-    "chapter": "18",
-    "verse": "39",
-    "alignment_num": "12",
-    "orig_lang_words": ",1482155,",
-    "target_lang_words": ",1269840,1269841,1269842,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1482155,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "39",
-        "word_num": 11,
-        "word": "βούλεσθε",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IPM2,,P,"
-      }
-    ],
-    "origWordsTxt": "βούλεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1269840,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "39",
-        "word_num": 16,
-        "word": "do",
-        "occurrence": 1
-      },
-      {
-        "id": 1269841,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "39",
-        "word_num": 17,
-        "word": "you",
-        "occurrence": 3
-      },
-      {
-        "id": 1269842,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "39",
-        "word_num": 18,
-        "word": "want",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "do you want",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "βούλεσθε = do you want",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504879",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "28",
-    "alignment_num": "16",
-    "orig_lang_words": ",1487197,",
-    "target_lang_words": ",1276292,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487197,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "28",
-        "word_num": 19,
-        "word": "βούλεσθε",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IPM2,,P,"
-      }
-    ],
-    "origWordsTxt": "βούλεσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276292,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "28",
-        "word_num": 21,
-        "word": "desire",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "desire",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βούλεσθε = desire",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "504952",
-    "book_id": "act",
-    "chapter": "5",
-    "verse": "33",
-    "alignment_num": "5",
-    "orig_lang_words": ",1487274,",
-    "target_lang_words": ",1276385,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487274,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "33",
-        "word_num": 5,
-        "word": "ἐβούλοντο",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IIM3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐβούλοντο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1276385,
-        "book_id": "act",
-        "chapter": "5",
-        "verse": "33",
-        "word_num": 8,
-        "word": "wanted",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wanted",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐβούλοντο = wanted",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -357,236 +102,8 @@
     "targetWordsTxt": "he was intending",
     "alignmentTargetWords": 3,
     "alignmentTxt": "βουλόμενος = he was intending",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511751",
-    "book_id": "act",
-    "chapter": "15",
-    "verse": "37",
-    "alignment_num": "1",
-    "orig_lang_words": ",1494249,",
-    "target_lang_words": ",1285559,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494249,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "37",
-        "word_num": 2,
-        "word": "ἐβούλετο",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IIM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐβούλετο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1285559,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "37",
-        "word_num": 1,
-        "word": "wanted",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wanted",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐβούλετο = wanted",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "512891",
-    "book_id": "act",
-    "chapter": "17",
-    "verse": "20",
-    "alignment_num": "8",
-    "orig_lang_words": ",1495436,",
-    "target_lang_words": ",1287116,1287117,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1495436,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "20",
-        "word_num": 8,
-        "word": "βουλόμεθα",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IPM1,,P,"
-      }
-    ],
-    "origWordsTxt": "βουλόμεθα",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1287116,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "20",
-        "word_num": 10,
-        "word": "we",
-        "occurrence": 1
-      },
-      {
-        "id": 1287117,
-        "book_id": "act",
-        "chapter": "17",
-        "verse": "20",
-        "word_num": 11,
-        "word": "want",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "we want",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "βουλόμεθα = we want",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513422",
-    "book_id": "act",
-    "chapter": "18",
-    "verse": "15",
-    "alignment_num": "16",
-    "orig_lang_words": ",1495992,",
-    "target_lang_words": ",1287827,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1495992,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "15",
-        "word_num": 19,
-        "word": "βούλομαι",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IPM1,,S,"
-      }
-    ],
-    "origWordsTxt": "βούλομαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1287827,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "15",
-        "word_num": 19,
-        "word": "wish",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wish",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βούλομαι = wish",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "513611",
-    "book_id": "act",
-    "chapter": "18",
-    "verse": "27",
-    "alignment_num": "0",
-    "orig_lang_words": ",1496177,",
-    "target_lang_words": ",1288082,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1496177,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "27",
-        "word_num": 0,
-        "word": "βουλομένου",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,PPM,GMS,"
-      }
-    ],
-    "origWordsTxt": "βουλομένου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1288082,
-        "book_id": "act",
-        "chapter": "18",
-        "verse": "27",
-        "word_num": 0,
-        "word": "When",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "When",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βουλομένου = When",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "514180",
-    "book_id": "act",
-    "chapter": "19",
-    "verse": "30",
-    "alignment_num": "1",
-    "orig_lang_words": ",1496773,",
-    "target_lang_words": ",1288807,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1496773,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "30",
-        "word_num": 2,
-        "word": "βουλομένου",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,PPM,GMS,"
-      }
-    ],
-    "origWordsTxt": "βουλομένου",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1288807,
-        "book_id": "act",
-        "chapter": "19",
-        "verse": "30",
-        "word_num": 1,
-        "word": "wanted",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wanted",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βουλομένου = wanted",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -639,157 +156,8 @@
     "targetWordsTxt": "he wanted",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βουλόμενος = he wanted",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "516880",
-    "book_id": "act",
-    "chapter": "23",
-    "verse": "28",
-    "alignment_num": "1",
-    "orig_lang_words": ",1499546,",
-    "target_lang_words": ",1292541,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499546,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "28",
-        "word_num": 0,
-        "word": "βουλόμενός",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "βουλόμενός",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1292541,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "28",
-        "word_num": 1,
-        "word": "wanting",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wanting",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βουλόμενός = wanting",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "517824",
-    "book_id": "act",
-    "chapter": "25",
-    "verse": "20",
-    "alignment_num": "9",
-    "orig_lang_words": ",1500507,",
-    "target_lang_words": ",1293900,1293901,1293902,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1500507,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "20",
-        "word_num": 9,
-        "word": "βούλοιτο",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,OPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "βούλοιτο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1293900,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "20",
-        "word_num": 13,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1293901,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "20",
-        "word_num": 14,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1293902,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "20",
-        "word_num": 15,
-        "word": "willing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he was willing",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "βούλοιτο = he was willing",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "517858",
-    "book_id": "act",
-    "chapter": "25",
-    "verse": "22",
-    "alignment_num": "4",
-    "orig_lang_words": ",1500540,",
-    "target_lang_words": ",1293951,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1500540,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "22",
-        "word_num": 5,
-        "word": "ἐβουλόμην",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IIM1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐβουλόμην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1293951,
-        "book_id": "act",
-        "chapter": "25",
-        "verse": "22",
-        "word_num": 5,
-        "word": "I",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐβουλόμην = I",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -833,166 +201,8 @@
     "targetWordsTxt": "wanting",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βουλόμενος = wanting",
-    "frequency": 0.05714285714285714,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "519637",
-    "book_id": "act",
-    "chapter": "28",
-    "verse": "18",
-    "alignment_num": "4",
-    "orig_lang_words": ",1502354,",
-    "target_lang_words": ",1296450,1296451,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1502354,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "18",
-        "word_num": 3,
-        "word": "ἐβούλοντο",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IIM3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐβούλοντο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1296450,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "18",
-        "word_num": 4,
-        "word": "they",
-        "occurrence": 2
-      },
-      {
-        "id": 1296451,
-        "book_id": "act",
-        "chapter": "28",
-        "verse": "18",
-        "word_num": 5,
-        "word": "desired",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they desired",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐβούλοντο = they desired",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "530803",
-    "book_id": "1co",
-    "chapter": "12",
-    "verse": "11",
-    "alignment_num": "14",
-    "orig_lang_words": ",1514276,",
-    "target_lang_words": ",1313352,1313353,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1514276,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "11",
-        "word_num": 14,
-        "word": "βούλεται",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "βούλεται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1313352,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "11",
-        "word_num": 19,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1313353,
-        "book_id": "1co",
-        "chapter": "12",
-        "verse": "11",
-        "word_num": 20,
-        "word": "desires",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he desires",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "βούλεται = he desires",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "533331",
-    "book_id": "2co",
-    "chapter": "1",
-    "verse": "15",
-    "alignment_num": "3",
-    "orig_lang_words": ",1516875,",
-    "target_lang_words": ",1317003,1317004,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1516875,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "15",
-        "word_num": 4,
-        "word": "ἐβουλόμην",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IIM1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐβουλόμην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1317003,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "15",
-        "word_num": 4,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1317004,
-        "book_id": "2co",
-        "chapter": "1",
-        "verse": "15",
-        "word_num": 5,
-        "word": "intended",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I intended",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐβουλόμην = I intended",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1063,7 +273,512 @@
     "targetWordsTxt": "when I was planning",
     "alignmentTargetWords": 4,
     "alignmentTxt": "βουλόμενος = when I was planning",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "552493",
+    "book_id": "heb",
+    "chapter": "6",
+    "verse": "17",
+    "alignment_num": "2",
+    "orig_lang_words": ",1536620,",
+    "target_lang_words": ",1344574,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1536620,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "17",
+        "word_num": 3,
+        "word": "βουλόμενος",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "βουλόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1344574,
+        "book_id": "heb",
+        "chapter": "6",
+        "verse": "17",
+        "word_num": 2,
+        "word": "decided",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "decided",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βουλόμενος = decided",
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "476852",
+    "book_id": "luk",
+    "chapter": "10",
+    "verse": "22",
+    "alignment_num": "28",
+    "orig_lang_words": ",1457694,",
+    "target_lang_words": ",1238051,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1457694,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "22",
+        "word_num": 30,
+        "word": "βούληται",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,SPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "βούληται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1238051,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "22",
+        "word_num": 34,
+        "word": "chooses",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chooses",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βούληται = chooses",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "485448",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "42",
+    "alignment_num": "3",
+    "orig_lang_words": ",1466414,",
+    "target_lang_words": ",1249964,1249965,1249966,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1466414,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "42",
+        "word_num": 3,
+        "word": "βούλει",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IPM2,,S,"
+      }
+    ],
+    "origWordsTxt": "βούλει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1249964,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "42",
+        "word_num": 3,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1249965,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "42",
+        "word_num": 4,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 1249966,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "42",
+        "word_num": 5,
+        "word": "willing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you are willing",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "βούλει = you are willing",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "500086",
+    "book_id": "jhn",
+    "chapter": "18",
+    "verse": "39",
+    "alignment_num": "12",
+    "orig_lang_words": ",1482155,",
+    "target_lang_words": ",1269840,1269841,1269842,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1482155,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "39",
+        "word_num": 11,
+        "word": "βούλεσθε",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "βούλεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1269840,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "39",
+        "word_num": 16,
+        "word": "do",
+        "occurrence": 1
+      },
+      {
+        "id": 1269841,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "39",
+        "word_num": 17,
+        "word": "you",
+        "occurrence": 3
+      },
+      {
+        "id": 1269842,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "39",
+        "word_num": 18,
+        "word": "want",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "do you want",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "βούλεσθε = do you want",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504879",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "28",
+    "alignment_num": "16",
+    "orig_lang_words": ",1487197,",
+    "target_lang_words": ",1276292,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487197,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "28",
+        "word_num": 19,
+        "word": "βούλεσθε",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IPM2,,P,"
+      }
+    ],
+    "origWordsTxt": "βούλεσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276292,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "28",
+        "word_num": 21,
+        "word": "desire",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "desire",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βούλεσθε = desire",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "504952",
+    "book_id": "act",
+    "chapter": "5",
+    "verse": "33",
+    "alignment_num": "5",
+    "orig_lang_words": ",1487274,",
+    "target_lang_words": ",1276385,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487274,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "33",
+        "word_num": 5,
+        "word": "ἐβούλοντο",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IIM3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐβούλοντο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1276385,
+        "book_id": "act",
+        "chapter": "5",
+        "verse": "33",
+        "word_num": 8,
+        "word": "wanted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wanted",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐβούλοντο = wanted",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519637",
+    "book_id": "act",
+    "chapter": "28",
+    "verse": "18",
+    "alignment_num": "4",
+    "orig_lang_words": ",1502354,",
+    "target_lang_words": ",1296450,1296451,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1502354,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "18",
+        "word_num": 3,
+        "word": "ἐβούλοντο",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IIM3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐβούλοντο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1296450,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "18",
+        "word_num": 4,
+        "word": "they",
+        "occurrence": 2
+      },
+      {
+        "id": 1296451,
+        "book_id": "act",
+        "chapter": "28",
+        "verse": "18",
+        "word_num": 5,
+        "word": "desired",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they desired",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐβούλοντο = they desired",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511751",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "37",
+    "alignment_num": "1",
+    "orig_lang_words": ",1494249,",
+    "target_lang_words": ",1285559,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494249,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "37",
+        "word_num": 2,
+        "word": "ἐβούλετο",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IIM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐβούλετο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1285559,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "37",
+        "word_num": 1,
+        "word": "wanted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wanted",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐβούλετο = wanted",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "512891",
+    "book_id": "act",
+    "chapter": "17",
+    "verse": "20",
+    "alignment_num": "8",
+    "orig_lang_words": ",1495436,",
+    "target_lang_words": ",1287116,1287117,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495436,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "20",
+        "word_num": 8,
+        "word": "βουλόμεθα",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IPM1,,P,"
+      }
+    ],
+    "origWordsTxt": "βουλόμεθα",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1287116,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "20",
+        "word_num": 10,
+        "word": "we",
+        "occurrence": 1
+      },
+      {
+        "id": 1287117,
+        "book_id": "act",
+        "chapter": "17",
+        "verse": "20",
+        "word_num": 11,
+        "word": "want",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we want",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "βουλόμεθα = we want",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513422",
+    "book_id": "act",
+    "chapter": "18",
+    "verse": "15",
+    "alignment_num": "16",
+    "orig_lang_words": ",1495992,",
+    "target_lang_words": ",1287827,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1495992,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "15",
+        "word_num": 19,
+        "word": "βούλομαι",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IPM1,,S,"
+      }
+    ],
+    "origWordsTxt": "βούλομαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1287827,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "15",
+        "word_num": 19,
+        "word": "wish",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wish",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βούλομαι = wish",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1116,7 +831,8 @@
     "targetWordsTxt": "I want",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βούλομαι = I want",
-    "frequency": 0.05714285714285714,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1169,7 +885,8 @@
     "targetWordsTxt": "I want",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βούλομαι = I want",
-    "frequency": 0.05714285714285714,
+    "frequency": 0.4,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1213,474 +930,8 @@
     "targetWordsTxt": "I",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βούλομαι = I",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548551",
-    "book_id": "1ti",
-    "chapter": "6",
-    "verse": "9",
-    "alignment_num": "2",
-    "orig_lang_words": ",1532567,",
-    "target_lang_words": ",1338862,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532567,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 2,
-        "word": "βουλόμενοι",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,PPM,NMP,"
-      }
-    ],
-    "origWordsTxt": "βουλόμενοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338862,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 2,
-        "word": "wanting",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wanting",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βουλόμενοι = wanting",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550540",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "4",
-    "orig_lang_words": ",1534566,",
-    "target_lang_words": ",1341648,1341649,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534566,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 6,
-        "word": "βούλομαί",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IPM1,,S,"
-      }
-    ],
-    "origWordsTxt": "βούλομαί",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1341648,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 5,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1341649,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 6,
-        "word": "want",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I want",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "βούλομαί = I want",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550809",
-    "book_id": "phm",
-    "chapter": "1",
-    "verse": "13",
-    "alignment_num": "1",
-    "orig_lang_words": ",1534846,",
-    "target_lang_words": ",1342028,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534846,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 2,
-        "word": "ἐβουλόμην",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IIM1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐβουλόμην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1342028,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "13",
-        "word_num": 1,
-        "word": "wish",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wish",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐβουλόμην = wish",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552493",
-    "book_id": "heb",
-    "chapter": "6",
-    "verse": "17",
-    "alignment_num": "2",
-    "orig_lang_words": ",1536620,",
-    "target_lang_words": ",1344574,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536620,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "17",
-        "word_num": 3,
-        "word": "βουλόμενος",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "βουλόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344574,
-        "book_id": "heb",
-        "chapter": "6",
-        "verse": "17",
-        "word_num": 2,
-        "word": "decided",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "decided",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βουλόμενος = decided",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555921",
-    "book_id": "jas",
-    "chapter": "1",
-    "verse": "18",
-    "alignment_num": "0",
-    "orig_lang_words": ",1540199,",
-    "target_lang_words": ",1349782,1349783,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540199,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 0,
-        "word": "βουληθεὶς",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,PAP,NMS,"
-      }
-    ],
-    "origWordsTxt": "βουληθεὶς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1349782,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 0,
-        "word": "God",
-        "occurrence": 1
-      },
-      {
-        "id": 1349783,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "18",
-        "word_num": 1,
-        "word": "chose",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "God chose",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "βουληθεὶς = God chose",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556533",
-    "book_id": "jas",
-    "chapter": "3",
-    "verse": "4",
-    "alignment_num": "19",
-    "orig_lang_words": ",1540852,",
-    "target_lang_words": ",1350662,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540852,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 20,
-        "word": "βούλεται",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IPM3,,S,"
-      }
-    ],
-    "origWordsTxt": "βούλεται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350662,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "4",
-        "word_num": 26,
-        "word": "desires",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "desires",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βούλεται = desires",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556801",
-    "book_id": "jas",
-    "chapter": "4",
-    "verse": "4",
-    "alignment_num": "13",
-    "orig_lang_words": ",1541144,",
-    "target_lang_words": ",1351037,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541144,
-        "book_id": "jas",
-        "chapter": "4",
-        "verse": "4",
-        "word_num": 15,
-        "word": "βουληθῇ",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,SAP3,,S,"
-      }
-    ],
-    "origWordsTxt": "βουληθῇ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1351037,
-        "book_id": "jas",
-        "chapter": "4",
-        "verse": "4",
-        "word_num": 17,
-        "word": "wants",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wants",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βουληθῇ = wants",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559741",
-    "book_id": "2pe",
-    "chapter": "3",
-    "verse": "9",
-    "alignment_num": "13",
-    "orig_lang_words": ",1544293,",
-    "target_lang_words": ",1355740,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1544293,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 14,
-        "word": "βουλόμενός",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "βουλόμενός",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355740,
-        "book_id": "2pe",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 21,
-        "word": "He",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "He",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βουλόμενός = He",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562030",
-    "book_id": "2jn",
-    "chapter": "1",
-    "verse": "12",
-    "alignment_num": "5",
-    "orig_lang_words": ",1546828,",
-    "target_lang_words": ",1358908,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546828,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 5,
-        "word": "ἐβουλήθην",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,IAP1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐβουλήθην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1358908,
-        "book_id": "2jn",
-        "chapter": "1",
-        "verse": "12",
-        "word_num": 9,
-        "word": "I",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "I",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐβουλήθην = I",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562202",
-    "book_id": "3jn",
-    "chapter": "1",
-    "verse": "10",
-    "alignment_num": "27",
-    "orig_lang_words": ",1546995,",
-    "target_lang_words": ",1359148,1359149,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1546995,
-        "book_id": "3jn",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 26,
-        "word": "βουλομένους",
-        "occurrence": 1,
-        "strong": "G10140",
-        "lemma": "βούλομαι",
-        "morph": "Gr,V,PPM,AMP,"
-      }
-    ],
-    "origWordsTxt": "βουλομένους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1359148,
-        "book_id": "3jn",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 39,
-        "word": "are",
-        "occurrence": 1
-      },
-      {
-        "id": 1359149,
-        "book_id": "3jn",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 40,
-        "word": "willing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "are willing",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "βουλομένους = are willing",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1733,7 +984,791 @@
     "targetWordsTxt": "I wish",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βούλομαι = I wish",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "513611",
+    "book_id": "act",
+    "chapter": "18",
+    "verse": "27",
+    "alignment_num": "0",
+    "orig_lang_words": ",1496177,",
+    "target_lang_words": ",1288082,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1496177,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "27",
+        "word_num": 0,
+        "word": "βουλομένου",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,PPM,GMS,"
+      }
+    ],
+    "origWordsTxt": "βουλομένου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1288082,
+        "book_id": "act",
+        "chapter": "18",
+        "verse": "27",
+        "word_num": 0,
+        "word": "When",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "When",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βουλομένου = When",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "514180",
+    "book_id": "act",
+    "chapter": "19",
+    "verse": "30",
+    "alignment_num": "1",
+    "orig_lang_words": ",1496773,",
+    "target_lang_words": ",1288807,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1496773,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "30",
+        "word_num": 2,
+        "word": "βουλομένου",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,PPM,GMS,"
+      }
+    ],
+    "origWordsTxt": "βουλομένου",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1288807,
+        "book_id": "act",
+        "chapter": "19",
+        "verse": "30",
+        "word_num": 1,
+        "word": "wanted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wanted",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βουλομένου = wanted",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516880",
+    "book_id": "act",
+    "chapter": "23",
+    "verse": "28",
+    "alignment_num": "1",
+    "orig_lang_words": ",1499546,",
+    "target_lang_words": ",1292541,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499546,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "28",
+        "word_num": 0,
+        "word": "βουλόμενός",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "βουλόμενός",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1292541,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "28",
+        "word_num": 1,
+        "word": "wanting",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wanting",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βουλόμενός = wanting",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559741",
+    "book_id": "2pe",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "13",
+    "orig_lang_words": ",1544293,",
+    "target_lang_words": ",1355740,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1544293,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 14,
+        "word": "βουλόμενός",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "βουλόμενός",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355740,
+        "book_id": "2pe",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 21,
+        "word": "He",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "He",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βουλόμενός = He",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "517824",
+    "book_id": "act",
+    "chapter": "25",
+    "verse": "20",
+    "alignment_num": "9",
+    "orig_lang_words": ",1500507,",
+    "target_lang_words": ",1293900,1293901,1293902,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500507,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "20",
+        "word_num": 9,
+        "word": "βούλοιτο",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,OPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "βούλοιτο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1293900,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "20",
+        "word_num": 13,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1293901,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "20",
+        "word_num": 14,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1293902,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "20",
+        "word_num": 15,
+        "word": "willing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he was willing",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "βούλοιτο = he was willing",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "517858",
+    "book_id": "act",
+    "chapter": "25",
+    "verse": "22",
+    "alignment_num": "4",
+    "orig_lang_words": ",1500540,",
+    "target_lang_words": ",1293951,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1500540,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "22",
+        "word_num": 5,
+        "word": "ἐβουλόμην",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IIM1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐβουλόμην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1293951,
+        "book_id": "act",
+        "chapter": "25",
+        "verse": "22",
+        "word_num": 5,
+        "word": "I",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐβουλόμην = I",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "533331",
+    "book_id": "2co",
+    "chapter": "1",
+    "verse": "15",
+    "alignment_num": "3",
+    "orig_lang_words": ",1516875,",
+    "target_lang_words": ",1317003,1317004,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1516875,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 4,
+        "word": "ἐβουλόμην",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IIM1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐβουλόμην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1317003,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 4,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1317004,
+        "book_id": "2co",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 5,
+        "word": "intended",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I intended",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐβουλόμην = I intended",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550809",
+    "book_id": "phm",
+    "chapter": "1",
+    "verse": "13",
+    "alignment_num": "1",
+    "orig_lang_words": ",1534846,",
+    "target_lang_words": ",1342028,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534846,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 2,
+        "word": "ἐβουλόμην",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IIM1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐβουλόμην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1342028,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "13",
+        "word_num": 1,
+        "word": "wish",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wish",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐβουλόμην = wish",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "530803",
+    "book_id": "1co",
+    "chapter": "12",
+    "verse": "11",
+    "alignment_num": "14",
+    "orig_lang_words": ",1514276,",
+    "target_lang_words": ",1313352,1313353,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1514276,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "11",
+        "word_num": 14,
+        "word": "βούλεται",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "βούλεται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1313352,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "11",
+        "word_num": 19,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1313353,
+        "book_id": "1co",
+        "chapter": "12",
+        "verse": "11",
+        "word_num": 20,
+        "word": "desires",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he desires",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "βούλεται = he desires",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556533",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "4",
+    "alignment_num": "19",
+    "orig_lang_words": ",1540852,",
+    "target_lang_words": ",1350662,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540852,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 20,
+        "word": "βούλεται",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IPM3,,S,"
+      }
+    ],
+    "origWordsTxt": "βούλεται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1350662,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "4",
+        "word_num": 26,
+        "word": "desires",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "desires",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βούλεται = desires",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548551",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "9",
+    "alignment_num": "2",
+    "orig_lang_words": ",1532567,",
+    "target_lang_words": ",1338862,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532567,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 2,
+        "word": "βουλόμενοι",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,PPM,NMP,"
+      }
+    ],
+    "origWordsTxt": "βουλόμενοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338862,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 2,
+        "word": "wanting",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wanting",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βουλόμενοι = wanting",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550540",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "4",
+    "orig_lang_words": ",1534566,",
+    "target_lang_words": ",1341648,1341649,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534566,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 6,
+        "word": "βούλομαί",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IPM1,,S,"
+      }
+    ],
+    "origWordsTxt": "βούλομαί",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1341648,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 5,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1341649,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 6,
+        "word": "want",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I want",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "βούλομαί = I want",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555921",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "18",
+    "alignment_num": "0",
+    "orig_lang_words": ",1540199,",
+    "target_lang_words": ",1349782,1349783,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540199,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 0,
+        "word": "βουληθεὶς",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,PAP,NMS,"
+      }
+    ],
+    "origWordsTxt": "βουληθεὶς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1349782,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 0,
+        "word": "God",
+        "occurrence": 1
+      },
+      {
+        "id": 1349783,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 1,
+        "word": "chose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "God chose",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "βουληθεὶς = God chose",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556801",
+    "book_id": "jas",
+    "chapter": "4",
+    "verse": "4",
+    "alignment_num": "13",
+    "orig_lang_words": ",1541144,",
+    "target_lang_words": ",1351037,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541144,
+        "book_id": "jas",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 15,
+        "word": "βουληθῇ",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,SAP3,,S,"
+      }
+    ],
+    "origWordsTxt": "βουληθῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1351037,
+        "book_id": "jas",
+        "chapter": "4",
+        "verse": "4",
+        "word_num": 17,
+        "word": "wants",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wants",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βουληθῇ = wants",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562030",
+    "book_id": "2jn",
+    "chapter": "1",
+    "verse": "12",
+    "alignment_num": "5",
+    "orig_lang_words": ",1546828,",
+    "target_lang_words": ",1358908,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546828,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 5,
+        "word": "ἐβουλήθην",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,IAP1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐβουλήθην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1358908,
+        "book_id": "2jn",
+        "chapter": "1",
+        "verse": "12",
+        "word_num": 9,
+        "word": "I",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "I",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐβουλήθην = I",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562202",
+    "book_id": "3jn",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "27",
+    "orig_lang_words": ",1546995,",
+    "target_lang_words": ",1359148,1359149,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1546995,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 26,
+        "word": "βουλομένους",
+        "occurrence": 1,
+        "strong": "G10140",
+        "lemma": "βούλομαι",
+        "morph": "Gr,V,PPM,AMP,"
+      }
+    ],
+    "origWordsTxt": "βουλομένους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1359148,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 39,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 1359149,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 40,
+        "word": "willing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "are willing",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "βουλομένους = are willing",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

@@ -39,7 +39,8 @@
     "targetWordsTxt": "anointed",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἤλειφον = anointed",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,8 @@
     "targetWordsTxt": "and anoint",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀλείψωσιν = and anoint",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +147,8 @@
     "targetWordsTxt": "anointing them",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἤλειφεν = anointing them",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,7 +192,8 @@
     "targetWordsTxt": "You",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἤλειψας = You",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -242,7 +246,53 @@
     "targetWordsTxt": "has anointed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἤλειψεν = has anointed",
-    "frequency": 0.125,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "495919",
+    "book_id": "jhn",
+    "chapter": "12",
+    "verse": "3",
+    "alignment_num": "8",
+    "orig_lang_words": ",1477732,",
+    "target_lang_words": ",1264087,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1477732,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "3",
+        "word_num": 9,
+        "word": "ἤλειψεν",
+        "occurrence": 1,
+        "strong": "G02180",
+        "lemma": "ἀλείφω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἤλειψεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1264087,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "3",
+        "word_num": 13,
+        "word": "anointed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "anointed",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἤλειψεν = anointed",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -307,51 +357,8 @@
     "targetWordsTxt": "who anointed",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἡ ἀλείψασα = who anointed",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "495919",
-    "book_id": "jhn",
-    "chapter": "12",
-    "verse": "3",
-    "alignment_num": "8",
-    "orig_lang_words": ",1477732,",
-    "target_lang_words": ",1264087,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1477732,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "3",
-        "word_num": 9,
-        "word": "ἤλειψεν",
-        "occurrence": 1,
-        "strong": "G02180",
-        "lemma": "ἀλείφω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἤλειψεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1264087,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "3",
-        "word_num": 13,
-        "word": "anointed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "anointed",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἤλειψεν = anointed",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -413,7 +420,8 @@
     "targetWordsTxt": "Let them anoint",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀλείψαντες = Let them anoint",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

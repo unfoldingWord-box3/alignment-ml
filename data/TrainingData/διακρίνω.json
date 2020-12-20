@@ -39,7 +39,8 @@
     "targetWordsTxt": "doubt",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διακριθῇ = doubt",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,224 @@
     "targetWordsTxt": "hesitate",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διακρινόμενος = hesitate",
-    "frequency": 0.058823529411764705,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525502",
+    "book_id": "rom",
+    "chapter": "14",
+    "verse": "23",
+    "alignment_num": "2",
+    "orig_lang_words": ",1508752,",
+    "target_lang_words": ",1305497,1305498,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508752,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "23",
+        "word_num": 2,
+        "word": "διακρινόμενος",
+        "occurrence": 1,
+        "strong": "G12520",
+        "lemma": "διακρίνω",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "διακρινόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1305497,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "23",
+        "word_num": 2,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1305498,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "23",
+        "word_num": 3,
+        "word": "doubts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who doubts",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διακρινόμενος = who doubts",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555760",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "4",
+    "orig_lang_words": ",1540030,",
+    "target_lang_words": ",1349537,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540030,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 5,
+        "word": "διακρινόμενος",
+        "occurrence": 1,
+        "strong": "G12520",
+        "lemma": "διακρίνω",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "διακρινόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349537,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 6,
+        "word": "doubting",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "doubting",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "διακρινόμενος = doubting",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555764",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "8",
+    "orig_lang_words": ",1540033,",
+    "target_lang_words": ",1349541,1349542,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540033,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 8,
+        "word": "διακρινόμενος",
+        "occurrence": 2,
+        "strong": "G12520",
+        "lemma": "διακρίνω",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "διακρινόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1349541,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 10,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 1349542,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 11,
+        "word": "doubts",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "who doubts",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "διακρινόμενος = who doubts",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562445",
+    "book_id": "jud",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "4",
+    "orig_lang_words": ",1547244,",
+    "target_lang_words": ",1359513,1359514,1359515,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547244,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 8,
+        "word": "διακρινόμενος",
+        "occurrence": 1,
+        "strong": "G12520",
+        "lemma": "διακρίνω",
+        "morph": "Gr,V,PPM,NMS,"
+      }
+    ],
+    "origWordsTxt": "διακρινόμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1359513,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 6,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1359514,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 7,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1359515,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 8,
+        "word": "disputing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he was disputing",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "διακρινόμενος = he was disputing",
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,7 +345,8 @@
     "targetWordsTxt": "argued",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διεκρίνοντο = argued",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -207,7 +426,8 @@
     "targetWordsTxt": "making any distinction regarding them",
     "alignmentTargetWords": 5,
     "alignmentTxt": "διακρίναντα = making any distinction regarding them",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -251,7 +471,8 @@
     "targetWordsTxt": "he",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διέκρινεν = he",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -295,60 +516,8 @@
     "targetWordsTxt": "Abraham",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διεκρίθη = Abraham",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525502",
-    "book_id": "rom",
-    "chapter": "14",
-    "verse": "23",
-    "alignment_num": "2",
-    "orig_lang_words": ",1508752,",
-    "target_lang_words": ",1305497,1305498,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508752,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "23",
-        "word_num": 2,
-        "word": "διακρινόμενος",
-        "occurrence": 1,
-        "strong": "G12520",
-        "lemma": "διακρίνω",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "διακρινόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1305497,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "23",
-        "word_num": 2,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1305498,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "23",
-        "word_num": 3,
-        "word": "doubts",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who doubts",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διακρινόμενος = who doubts",
-    "frequency": 0.11764705882352941,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -392,7 +561,8 @@
     "targetWordsTxt": "makes",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διακρίνει = makes",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -463,7 +633,8 @@
     "targetWordsTxt": "to settle a dispute",
     "alignmentTargetWords": 4,
     "alignmentTxt": "διακρῖναι = to settle a dispute",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -507,7 +678,8 @@
     "targetWordsTxt": "discerning",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διακρίνων = discerning",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -560,7 +732,8 @@
     "targetWordsTxt": "we examine",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διεκρίνομεν = we examine",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -604,104 +777,8 @@
     "targetWordsTxt": "let",
     "alignmentTargetWords": 1,
     "alignmentTxt": "διακρινέτωσαν = let",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555760",
-    "book_id": "jas",
-    "chapter": "1",
-    "verse": "6",
-    "alignment_num": "4",
-    "orig_lang_words": ",1540030,",
-    "target_lang_words": ",1349537,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540030,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 5,
-        "word": "διακρινόμενος",
-        "occurrence": 1,
-        "strong": "G12520",
-        "lemma": "διακρίνω",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "διακρινόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349537,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 6,
-        "word": "doubting",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "doubting",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "διακρινόμενος = doubting",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555764",
-    "book_id": "jas",
-    "chapter": "1",
-    "verse": "6",
-    "alignment_num": "8",
-    "orig_lang_words": ",1540033,",
-    "target_lang_words": ",1349541,1349542,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540033,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 8,
-        "word": "διακρινόμενος",
-        "occurrence": 2,
-        "strong": "G12520",
-        "lemma": "διακρίνω",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "διακρινόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1349541,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 10,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1349542,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 11,
-        "word": "doubts",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who doubts",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "διακρινόμενος = who doubts",
-    "frequency": 0.11764705882352941,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -754,69 +831,8 @@
     "targetWordsTxt": "are you",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διεκρίθητε = are you",
-    "frequency": 0.058823529411764705,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562445",
-    "book_id": "jud",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "4",
-    "orig_lang_words": ",1547244,",
-    "target_lang_words": ",1359513,1359514,1359515,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1547244,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 8,
-        "word": "διακρινόμενος",
-        "occurrence": 1,
-        "strong": "G12520",
-        "lemma": "διακρίνω",
-        "morph": "Gr,V,PPM,NMS,"
-      }
-    ],
-    "origWordsTxt": "διακρινόμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1359513,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 6,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1359514,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 7,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1359515,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 8,
-        "word": "disputing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he was disputing",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "διακρινόμενος = he was disputing",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -869,7 +885,8 @@
     "targetWordsTxt": "who doubt",
     "alignmentTargetWords": 2,
     "alignmentTxt": "διακρινομένους = who doubt",
-    "frequency": 0.058823529411764705,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

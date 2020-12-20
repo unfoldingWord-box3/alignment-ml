@@ -57,7 +57,170 @@
     "targetWordsTxt": "bowed down before",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προσεκύνησεν = bowed down before",
-    "frequency": 0.02127659574468085,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "494294",
+    "book_id": "jhn",
+    "chapter": "9",
+    "verse": "38",
+    "alignment_num": "6",
+    "orig_lang_words": ",1475984,",
+    "target_lang_words": ",1261900,1261901,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475984,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "38",
+        "word_num": 6,
+        "word": "προσεκύνησεν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσεκύνησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1261900,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "38",
+        "word_num": 8,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1261901,
+        "book_id": "jhn",
+        "chapter": "9",
+        "verse": "38",
+        "word_num": 9,
+        "word": "worshiped",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he worshiped",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσεκύνησεν = he worshiped",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "508372",
+    "book_id": "act",
+    "chapter": "10",
+    "verse": "25",
+    "alignment_num": "11",
+    "orig_lang_words": ",1490777,",
+    "target_lang_words": ",1280978,1280979,1280980,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1490777,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "25",
+        "word_num": 15,
+        "word": "προσεκύνησεν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσεκύνησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1280978,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "25",
+        "word_num": 16,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1280979,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "25",
+        "word_num": 17,
+        "word": "worship",
+        "occurrence": 1
+      },
+      {
+        "id": 1280980,
+        "book_id": "act",
+        "chapter": "10",
+        "verse": "25",
+        "word_num": 18,
+        "word": "him",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "to worship him",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "προσεκύνησεν = to worship him",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554590",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "21",
+    "alignment_num": "9",
+    "orig_lang_words": ",1538823,",
+    "target_lang_words": ",1347785,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538823,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "21",
+        "word_num": 9,
+        "word": "προσεκύνησεν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσεκύνησεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1347785,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "21",
+        "word_num": 15,
+        "word": "worshiped",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worshiped",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεκύνησεν = worshiped",
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -128,7 +291,8 @@
     "targetWordsTxt": "as if to honor",
     "alignmentTargetWords": 4,
     "alignmentTxt": "προσεκύνουν = as if to honor",
-    "frequency": 0.02127659574468085,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -199,7 +363,8 @@
     "targetWordsTxt": "will bow in worship",
     "alignmentTargetWords": 4,
     "alignmentTxt": "προσκυνήσῃς = will bow in worship",
-    "frequency": 0.02127659574468085,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -261,7 +426,8 @@
     "targetWordsTxt": "You will worship",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προσκυνήσεις = You will worship",
-    "frequency": 0.02127659574468085,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -305,7 +471,8 @@
     "targetWordsTxt": "worshiped",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσκυνήσαντες = worshiped",
-    "frequency": 0.02127659574468085,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -349,7 +516,323 @@
     "targetWordsTxt": "worshiped",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσεκύνησαν = worshiped",
-    "frequency": 0.10638297872340426,
+    "frequency": 0.625,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564718",
+    "book_id": "rev",
+    "chapter": "5",
+    "verse": "14",
+    "alignment_num": "11",
+    "orig_lang_words": ",1549778,",
+    "target_lang_words": ",1362766,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549778,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 11,
+        "word": "προσεκύνησαν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεκύνησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1362766,
+        "book_id": "rev",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 13,
+        "word": "worshiped",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worshiped",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεκύνησαν = worshiped",
+    "frequency": 0.625,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565329",
+    "book_id": "rev",
+    "chapter": "7",
+    "verse": "11",
+    "alignment_num": "24",
+    "orig_lang_words": ",1550438,",
+    "target_lang_words": ",1363624,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550438,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "11",
+        "word_num": 25,
+        "word": "προσεκύνησαν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεκύνησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1363624,
+        "book_id": "rev",
+        "chapter": "7",
+        "verse": "11",
+        "word_num": 31,
+        "word": "worshiped",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worshiped",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεκύνησαν = worshiped",
+    "frequency": 0.625,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566799",
+    "book_id": "rev",
+    "chapter": "11",
+    "verse": "16",
+    "alignment_num": "17",
+    "orig_lang_words": ",1552094,",
+    "target_lang_words": ",1365604,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1552094,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 20,
+        "word": "προσεκύνησαν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεκύνησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1365604,
+        "book_id": "rev",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 20,
+        "word": "worshiped",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worshiped",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεκύνησαν = worshiped",
+    "frequency": 0.625,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567360",
+    "book_id": "rev",
+    "chapter": "13",
+    "verse": "4",
+    "alignment_num": "0",
+    "orig_lang_words": ",1552723,",
+    "target_lang_words": ",1366365,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1552723,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 1,
+        "word": "προσεκύνησαν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεκύνησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366365,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 0,
+        "word": "They",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "They",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεκύνησαν = They",
+    "frequency": 0.25,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567371",
+    "book_id": "rev",
+    "chapter": "13",
+    "verse": "4",
+    "alignment_num": "11",
+    "orig_lang_words": ",1552733,",
+    "target_lang_words": ",1366379,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1552733,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 11,
+        "word": "προσεκύνησαν",
+        "occurrence": 2,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεκύνησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366379,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 14,
+        "word": "They",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "They",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεκύνησαν = They",
+    "frequency": 0.25,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569825",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "4",
+    "alignment_num": "10",
+    "orig_lang_words": ",1555453,",
+    "target_lang_words": ",1369654,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555453,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "4",
+        "word_num": 12,
+        "word": "προσεκύνησαν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεκύνησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369654,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "4",
+        "word_num": 12,
+        "word": "worshiped",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worshiped",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεκύνησαν = worshiped",
+    "frequency": 0.625,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "570307",
+    "book_id": "rev",
+    "chapter": "20",
+    "verse": "4",
+    "alignment_num": "21",
+    "orig_lang_words": ",1555994,",
+    "target_lang_words": ",1370308,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555994,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "4",
+        "word_num": 29,
+        "word": "προσεκύνησαν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσεκύνησαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1370308,
+        "book_id": "rev",
+        "chapter": "20",
+        "verse": "4",
+        "word_num": 31,
+        "word": "who",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "who",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσεκύνησαν = who",
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -393,7 +876,107 @@
     "targetWordsTxt": "worship",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσκυνεῖν = worship",
-    "frequency": 0.0425531914893617,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "489685",
+    "book_id": "jhn",
+    "chapter": "4",
+    "verse": "24",
+    "alignment_num": "6",
+    "orig_lang_words": ",1470864,",
+    "target_lang_words": ",1255538,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1470864,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "24",
+        "word_num": 12,
+        "word": "προσκυνεῖν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "προσκυνεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1255538,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "24",
+        "word_num": 10,
+        "word": "worship",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "worship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσκυνεῖν = worship",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506216",
+    "book_id": "act",
+    "chapter": "7",
+    "verse": "43",
+    "alignment_num": "16",
+    "orig_lang_words": ",1488567,",
+    "target_lang_words": ",1278093,1278094,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1488567,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "43",
+        "word_num": 17,
+        "word": "προσκυνεῖν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "προσκυνεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1278093,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "43",
+        "word_num": 20,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1278094,
+        "book_id": "act",
+        "chapter": "7",
+        "verse": "43",
+        "word_num": 21,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to worship",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσκυνεῖν = to worship",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -455,7 +1038,8 @@
     "targetWordsTxt": "you will worship",
     "alignmentTargetWords": 3,
     "alignmentTxt": "προσκυνήσετε = you will worship",
-    "frequency": 0.02127659574468085,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -499,7 +1083,8 @@
     "targetWordsTxt": "worship",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσκυνεῖτε = worship",
-    "frequency": 0.02127659574468085,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -543,7 +1128,8 @@
     "targetWordsTxt": "worship",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσκυνοῦμεν = worship",
-    "frequency": 0.02127659574468085,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -596,7 +1182,308 @@
     "targetWordsTxt": "will worship",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκυνήσουσιν = will worship",
-    "frequency": 0.02127659574468085,
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563889",
+    "book_id": "rev",
+    "chapter": "3",
+    "verse": "9",
+    "alignment_num": "21",
+    "orig_lang_words": ",1548848,",
+    "target_lang_words": ",1361628,1361629,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1548848,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 23,
+        "word": "προσκυνήσουσιν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IFA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσκυνήσουσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1361628,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 30,
+        "word": "bow",
+        "occurrence": 1
+      },
+      {
+        "id": 1361629,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "9",
+        "word_num": 31,
+        "word": "down",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "bow down",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσκυνήσουσιν = bow down",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "564365",
+    "book_id": "rev",
+    "chapter": "4",
+    "verse": "10",
+    "alignment_num": "11",
+    "orig_lang_words": ",1549394,",
+    "target_lang_words": ",1362293,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1549394,
+        "book_id": "rev",
+        "chapter": "4",
+        "verse": "10",
+        "word_num": 12,
+        "word": "προσκυνήσουσιν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IFA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσκυνήσουσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1362293,
+        "book_id": "rev",
+        "chapter": "4",
+        "verse": "10",
+        "word_num": 14,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσκυνήσουσιν = worship",
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "566159",
+    "book_id": "rev",
+    "chapter": "9",
+    "verse": "20",
+    "alignment_num": "20",
+    "orig_lang_words": ",1551360,",
+    "target_lang_words": ",1364745,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551360,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 22,
+        "word": "προσκυνήσουσιν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IFA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσκυνήσουσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1364745,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "20",
+        "word_num": 25,
+        "word": "worshiping",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worshiping",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσκυνήσουσιν = worshiping",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567450",
+    "book_id": "rev",
+    "chapter": "13",
+    "verse": "8",
+    "alignment_num": "5",
+    "orig_lang_words": ",1552810,1552811,",
+    "target_lang_words": ",1366481,1366482,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1552810,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 0,
+        "word": "καὶ",
+        "occurrence": 1,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1552811,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 1,
+        "word": "προσκυνήσουσιν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IFA3,,P,"
+      }
+    ],
+    "origWordsTxt": "καὶ προσκυνήσουσιν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1366481,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 6,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1366482,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 7,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will worship",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "καὶ προσκυνήσουσιν = will worship",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567534",
+    "book_id": "rev",
+    "chapter": "13",
+    "verse": "12",
+    "alignment_num": "20",
+    "orig_lang_words": ",1552904,",
+    "target_lang_words": ",1366605,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1552904,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "12",
+        "word_num": 20,
+        "word": "προσκυνήσουσιν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IFA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσκυνήσουσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366605,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "12",
+        "word_num": 24,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσκυνήσουσιν = worship",
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568285",
+    "book_id": "rev",
+    "chapter": "15",
+    "verse": "4",
+    "alignment_num": "18",
+    "orig_lang_words": ",1553741,",
+    "target_lang_words": ",1367582,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553741,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "4",
+        "word_num": 19,
+        "word": "προσκυνήσουσιν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IFA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσκυνήσουσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367582,
+        "book_id": "rev",
+        "chapter": "15",
+        "verse": "4",
+        "word_num": 21,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσκυνήσουσιν = worship",
+    "frequency": 0.42857142857142855,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -670,7 +1557,8 @@
     "targetWordsTxt": "who are worshiping",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τοὺς προσκυνοῦντας = who are worshiping",
-    "frequency": 0.02127659574468085,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -753,751 +1641,8 @@
     "targetWordsTxt": "the people who worship",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τοὺς προσκυνοῦντας = the people who worship",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "489685",
-    "book_id": "jhn",
-    "chapter": "4",
-    "verse": "24",
-    "alignment_num": "6",
-    "orig_lang_words": ",1470864,",
-    "target_lang_words": ",1255538,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1470864,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "24",
-        "word_num": 12,
-        "word": "προσκυνεῖν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "προσκυνεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1255538,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "24",
-        "word_num": 10,
-        "word": "worship",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "worship",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκυνεῖν = worship",
-    "frequency": 0.0425531914893617,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "494294",
-    "book_id": "jhn",
-    "chapter": "9",
-    "verse": "38",
-    "alignment_num": "6",
-    "orig_lang_words": ",1475984,",
-    "target_lang_words": ",1261900,1261901,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475984,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "38",
-        "word_num": 6,
-        "word": "προσεκύνησεν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσεκύνησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1261900,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "38",
-        "word_num": 8,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1261901,
-        "book_id": "jhn",
-        "chapter": "9",
-        "verse": "38",
-        "word_num": 9,
-        "word": "worshiped",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he worshiped",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσεκύνησεν = he worshiped",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "496191",
-    "book_id": "jhn",
-    "chapter": "12",
-    "verse": "20",
-    "alignment_num": "8",
-    "orig_lang_words": ",1478024,",
-    "target_lang_words": ",1264460,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1478024,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "20",
-        "word_num": 8,
-        "word": "προσκυνήσωσιν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,SAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσκυνήσωσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1264460,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "20",
-        "word_num": 11,
-        "word": "worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worship",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκυνήσωσιν = worship",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506216",
-    "book_id": "act",
-    "chapter": "7",
-    "verse": "43",
-    "alignment_num": "16",
-    "orig_lang_words": ",1488567,",
-    "target_lang_words": ",1278093,1278094,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1488567,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "43",
-        "word_num": 17,
-        "word": "προσκυνεῖν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "προσκυνεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1278093,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "43",
-        "word_num": 20,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1278094,
-        "book_id": "act",
-        "chapter": "7",
-        "verse": "43",
-        "word_num": 21,
-        "word": "worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to worship",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσκυνεῖν = to worship",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "506946",
-    "book_id": "act",
-    "chapter": "8",
-    "verse": "27",
-    "alignment_num": "22",
-    "orig_lang_words": ",1489311,",
-    "target_lang_words": ",1279072,1279073,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1489311,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "27",
-        "word_num": 21,
-        "word": "προσκυνήσων",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,PFA,NMS,"
-      }
-    ],
-    "origWordsTxt": "προσκυνήσων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1279072,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "27",
-        "word_num": 34,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1279073,
-        "book_id": "act",
-        "chapter": "8",
-        "verse": "27",
-        "word_num": 35,
-        "word": "worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to worship",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσκυνήσων = to worship",
-    "frequency": 0.0425531914893617,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "508372",
-    "book_id": "act",
-    "chapter": "10",
-    "verse": "25",
-    "alignment_num": "11",
-    "orig_lang_words": ",1490777,",
-    "target_lang_words": ",1280978,1280979,1280980,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1490777,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "25",
-        "word_num": 15,
-        "word": "προσεκύνησεν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσεκύνησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1280978,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "25",
-        "word_num": 16,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1280979,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "25",
-        "word_num": 17,
-        "word": "worship",
-        "occurrence": 1
-      },
-      {
-        "id": 1280980,
-        "book_id": "act",
-        "chapter": "10",
-        "verse": "25",
-        "word_num": 18,
-        "word": "him",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "to worship him",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "προσεκύνησεν = to worship him",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "517174",
-    "book_id": "act",
-    "chapter": "24",
-    "verse": "11",
-    "alignment_num": "13",
-    "orig_lang_words": ",1499846,",
-    "target_lang_words": ",1292964,1292965,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1499846,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "11",
-        "word_num": 13,
-        "word": "προσκυνήσων",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,PFA,NMS,"
-      }
-    ],
-    "origWordsTxt": "προσκυνήσων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1292964,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "11",
-        "word_num": 21,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1292965,
-        "book_id": "act",
-        "chapter": "24",
-        "verse": "11",
-        "word_num": 22,
-        "word": "worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to worship",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσκυνήσων = to worship",
-    "frequency": 0.0425531914893617,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531707",
-    "book_id": "1co",
-    "chapter": "14",
-    "verse": "25",
-    "alignment_num": "12",
-    "orig_lang_words": ",1515198,",
-    "target_lang_words": ",1314673,1314674,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515198,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "25",
-        "word_num": 12,
-        "word": "προσκυνήσει",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IFA3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσκυνήσει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1314673,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "25",
-        "word_num": 16,
-        "word": "and",
-        "occurrence": 2
-      },
-      {
-        "id": 1314674,
-        "book_id": "1co",
-        "chapter": "14",
-        "verse": "25",
-        "word_num": 17,
-        "word": "worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "and worship",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσκυνήσει = and worship",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "551073",
-    "book_id": "heb",
-    "chapter": "1",
-    "verse": "6",
-    "alignment_num": "10",
-    "orig_lang_words": ",1535125,1535126,",
-    "target_lang_words": ",1342442,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1535125,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 10,
-        "word": "καὶ",
-        "occurrence": 1,
-        "strong": "G25320",
-        "lemma": "καί",
-        "morph": "Gr,CC,,,,,,,,"
-      },
-      {
-        "id": 1535126,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 11,
-        "word": "προσκυνησάτωσαν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,MAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "καὶ προσκυνησάτωσαν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1342442,
-        "book_id": "heb",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 12,
-        "word": "Let",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Let",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καὶ προσκυνησάτωσαν = Let",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554590",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "21",
-    "alignment_num": "9",
-    "orig_lang_words": ",1538823,",
-    "target_lang_words": ",1347785,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538823,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "21",
-        "word_num": 9,
-        "word": "προσεκύνησεν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσεκύνησεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1347785,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "21",
-        "word_num": 15,
-        "word": "worshiped",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worshiped",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεκύνησεν = worshiped",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563889",
-    "book_id": "rev",
-    "chapter": "3",
-    "verse": "9",
-    "alignment_num": "21",
-    "orig_lang_words": ",1548848,",
-    "target_lang_words": ",1361628,1361629,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1548848,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 23,
-        "word": "προσκυνήσουσιν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IFA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσκυνήσουσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1361628,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 30,
-        "word": "bow",
-        "occurrence": 1
-      },
-      {
-        "id": 1361629,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "9",
-        "word_num": 31,
-        "word": "down",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "bow down",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσκυνήσουσιν = bow down",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564365",
-    "book_id": "rev",
-    "chapter": "4",
-    "verse": "10",
-    "alignment_num": "11",
-    "orig_lang_words": ",1549394,",
-    "target_lang_words": ",1362293,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1549394,
-        "book_id": "rev",
-        "chapter": "4",
-        "verse": "10",
-        "word_num": 12,
-        "word": "προσκυνήσουσιν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IFA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσκυνήσουσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1362293,
-        "book_id": "rev",
-        "chapter": "4",
-        "verse": "10",
-        "word_num": 14,
-        "word": "worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worship",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκυνήσουσιν = worship",
-    "frequency": 0.06382978723404255,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "564718",
-    "book_id": "rev",
-    "chapter": "5",
-    "verse": "14",
-    "alignment_num": "11",
-    "orig_lang_words": ",1549778,",
-    "target_lang_words": ",1362766,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1549778,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 11,
-        "word": "προσεκύνησαν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεκύνησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1362766,
-        "book_id": "rev",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 13,
-        "word": "worshiped",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worshiped",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεκύνησαν = worshiped",
-    "frequency": 0.10638297872340426,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565329",
-    "book_id": "rev",
-    "chapter": "7",
-    "verse": "11",
-    "alignment_num": "24",
-    "orig_lang_words": ",1550438,",
-    "target_lang_words": ",1363624,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550438,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "11",
-        "word_num": 25,
-        "word": "προσεκύνησαν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεκύνησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1363624,
-        "book_id": "rev",
-        "chapter": "7",
-        "verse": "11",
-        "word_num": 31,
-        "word": "worshiped",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worshiped",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεκύνησαν = worshiped",
-    "frequency": 0.10638297872340426,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566159",
-    "book_id": "rev",
-    "chapter": "9",
-    "verse": "20",
-    "alignment_num": "20",
-    "orig_lang_words": ",1551360,",
-    "target_lang_words": ",1364745,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1551360,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "20",
-        "word_num": 22,
-        "word": "προσκυνήσουσιν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IFA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσκυνήσουσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1364745,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "20",
-        "word_num": 25,
-        "word": "worshiping",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worshiping",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκυνήσουσιν = worshiping",
-    "frequency": 0.02127659574468085,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1571,501 +1716,8 @@
     "targetWordsTxt": "those who worship",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τοὺς προσκυνοῦντας = those who worship",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "566799",
-    "book_id": "rev",
-    "chapter": "11",
-    "verse": "16",
-    "alignment_num": "17",
-    "orig_lang_words": ",1552094,",
-    "target_lang_words": ",1365604,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1552094,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 20,
-        "word": "προσεκύνησαν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεκύνησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1365604,
-        "book_id": "rev",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 20,
-        "word": "worshiped",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worshiped",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεκύνησαν = worshiped",
-    "frequency": 0.10638297872340426,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567360",
-    "book_id": "rev",
-    "chapter": "13",
-    "verse": "4",
-    "alignment_num": "0",
-    "orig_lang_words": ",1552723,",
-    "target_lang_words": ",1366365,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1552723,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 1,
-        "word": "προσεκύνησαν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεκύνησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366365,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 0,
-        "word": "They",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "They",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεκύνησαν = They",
-    "frequency": 0.0425531914893617,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567371",
-    "book_id": "rev",
-    "chapter": "13",
-    "verse": "4",
-    "alignment_num": "11",
-    "orig_lang_words": ",1552733,",
-    "target_lang_words": ",1366379,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1552733,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 11,
-        "word": "προσεκύνησαν",
-        "occurrence": 2,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεκύνησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366379,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 14,
-        "word": "They",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "They",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεκύνησαν = They",
-    "frequency": 0.0425531914893617,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567450",
-    "book_id": "rev",
-    "chapter": "13",
-    "verse": "8",
-    "alignment_num": "5",
-    "orig_lang_words": ",1552810,1552811,",
-    "target_lang_words": ",1366481,1366482,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1552810,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "8",
-        "word_num": 0,
-        "word": "καὶ",
-        "occurrence": 1,
-        "strong": "G25320",
-        "lemma": "καί",
-        "morph": "Gr,CC,,,,,,,,"
-      },
-      {
-        "id": 1552811,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "8",
-        "word_num": 1,
-        "word": "προσκυνήσουσιν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IFA3,,P,"
-      }
-    ],
-    "origWordsTxt": "καὶ προσκυνήσουσιν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1366481,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "8",
-        "word_num": 6,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1366482,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "8",
-        "word_num": 7,
-        "word": "worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will worship",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "καὶ προσκυνήσουσιν = will worship",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567534",
-    "book_id": "rev",
-    "chapter": "13",
-    "verse": "12",
-    "alignment_num": "20",
-    "orig_lang_words": ",1552904,",
-    "target_lang_words": ",1366605,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1552904,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "12",
-        "word_num": 20,
-        "word": "προσκυνήσουσιν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IFA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσκυνήσουσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366605,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "12",
-        "word_num": 24,
-        "word": "worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worship",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκυνήσουσιν = worship",
-    "frequency": 0.06382978723404255,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567610",
-    "book_id": "rev",
-    "chapter": "13",
-    "verse": "15",
-    "alignment_num": "19",
-    "orig_lang_words": ",1552990,",
-    "target_lang_words": ",1366710,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1552990,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "15",
-        "word_num": 21,
-        "word": "προσκυνήσωσιν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,SAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσκυνήσωσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1366710,
-        "book_id": "rev",
-        "chapter": "13",
-        "verse": "15",
-        "word_num": 26,
-        "word": "would",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "would",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκυνήσωσιν = would",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567846",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "7",
-    "alignment_num": "18",
-    "orig_lang_words": ",1553257,1553258,",
-    "target_lang_words": ",1367009,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1553257,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "7",
-        "word_num": 18,
-        "word": "καὶ",
-        "occurrence": 2,
-        "strong": "G25320",
-        "lemma": "καί",
-        "morph": "Gr,CC,,,,,,,,"
-      },
-      {
-        "id": 1553258,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "7",
-        "word_num": 19,
-        "word": "προσκυνήσατε",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,MAA2,,P,"
-      }
-    ],
-    "origWordsTxt": "καὶ προσκυνήσατε",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367009,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "7",
-        "word_num": 21,
-        "word": "Worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Worship",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "καὶ προσκυνήσατε = Worship",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567890",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "9",
-    "alignment_num": "12",
-    "orig_lang_words": ",1553306,",
-    "target_lang_words": ",1367066,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553306,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "9",
-        "word_num": 12,
-        "word": "προσκυνεῖ",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "προσκυνεῖ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367066,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "9",
-        "word_num": 14,
-        "word": "worships",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worships",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκυνεῖ = worships",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567952",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "11",
-    "alignment_num": "15",
-    "orig_lang_words": ",1553374,1553375,",
-    "target_lang_words": ",1367142,1367143,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1553374,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "11",
-        "word_num": 17,
-        "word": "οἱ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,RD,,,,NMP,"
-      },
-      {
-        "id": 1553375,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "11",
-        "word_num": 18,
-        "word": "προσκυνοῦντες",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,PPA,NMP,"
-      }
-    ],
-    "origWordsTxt": "οἱ προσκυνοῦντες",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1367142,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "11",
-        "word_num": 18,
-        "word": "these",
-        "occurrence": 1
-      },
-      {
-        "id": 1367143,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "11",
-        "word_num": 19,
-        "word": "worshipers",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "these worshipers",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "οἱ προσκυνοῦντες = these worshipers",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568285",
-    "book_id": "rev",
-    "chapter": "15",
-    "verse": "4",
-    "alignment_num": "18",
-    "orig_lang_words": ",1553741,",
-    "target_lang_words": ",1367582,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553741,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "4",
-        "word_num": 19,
-        "word": "προσκυνήσουσιν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IFA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσκυνήσουσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367582,
-        "book_id": "rev",
-        "chapter": "15",
-        "verse": "4",
-        "word_num": 21,
-        "word": "worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worship",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκυνήσουσιν = worship",
-    "frequency": 0.06382978723404255,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2139,148 +1791,8 @@
     "targetWordsTxt": "those who worshiped",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τοὺς προσκυνοῦντας = those who worshiped",
-    "frequency": 0.02127659574468085,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569825",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "4",
-    "alignment_num": "10",
-    "orig_lang_words": ",1555453,",
-    "target_lang_words": ",1369654,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555453,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "4",
-        "word_num": 12,
-        "word": "προσεκύνησαν",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "προσεκύνησαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369654,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "4",
-        "word_num": 12,
-        "word": "worshiped",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "worshiped",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεκύνησαν = worshiped",
-    "frequency": 0.10638297872340426,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569941",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "10",
-    "alignment_num": "5",
-    "orig_lang_words": ",1555580,",
-    "target_lang_words": ",1369812,1369813,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555580,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "10",
-        "word_num": 6,
-        "word": "προσκυνῆσαι",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "προσκυνῆσαι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1369812,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "10",
-        "word_num": 7,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1369813,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "10",
-        "word_num": 8,
-        "word": "worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to worship",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "προσκυνῆσαι = to worship",
-    "frequency": 0.0425531914893617,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569957",
-    "book_id": "rev",
-    "chapter": "19",
-    "verse": "10",
-    "alignment_num": "21",
-    "orig_lang_words": ",1555601,",
-    "target_lang_words": ",1369840,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1555601,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "10",
-        "word_num": 27,
-        "word": "προσκύνησον",
-        "occurrence": 1,
-        "strong": "G43520",
-        "lemma": "προσκυνέω",
-        "morph": "Gr,V,MAA2,,S,"
-      }
-    ],
-    "origWordsTxt": "προσκύνησον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369840,
-        "book_id": "rev",
-        "chapter": "19",
-        "verse": "10",
-        "word_num": 35,
-        "word": "Worship",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Worship",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "προσκύνησον = Worship",
-    "frequency": 0.0425531914893617,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2345,51 +1857,539 @@
     "targetWordsTxt": "who worshiped",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοὺς προσκυνοῦντας = who worshiped",
-    "frequency": 0.02127659574468085,
+    "frequency": 0.2,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "570307",
-    "book_id": "rev",
-    "chapter": "20",
-    "verse": "4",
-    "alignment_num": "21",
-    "orig_lang_words": ",1555994,",
-    "target_lang_words": ",1370308,",
+    "id": "496191",
+    "book_id": "jhn",
+    "chapter": "12",
+    "verse": "20",
+    "alignment_num": "8",
+    "orig_lang_words": ",1478024,",
+    "target_lang_words": ",1264460,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1555994,
-        "book_id": "rev",
-        "chapter": "20",
-        "verse": "4",
-        "word_num": 29,
-        "word": "προσεκύνησαν",
+        "id": 1478024,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "20",
+        "word_num": 8,
+        "word": "προσκυνήσωσιν",
         "occurrence": 1,
         "strong": "G43520",
         "lemma": "προσκυνέω",
-        "morph": "Gr,V,IAA3,,P,"
+        "morph": "Gr,V,SAA3,,P,"
       }
     ],
-    "origWordsTxt": "προσεκύνησαν",
+    "origWordsTxt": "προσκυνήσωσιν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1370308,
+        "id": 1264460,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "20",
+        "word_num": 11,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσκυνήσωσιν = worship",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567610",
+    "book_id": "rev",
+    "chapter": "13",
+    "verse": "15",
+    "alignment_num": "19",
+    "orig_lang_words": ",1552990,",
+    "target_lang_words": ",1366710,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1552990,
         "book_id": "rev",
-        "chapter": "20",
-        "verse": "4",
-        "word_num": 31,
-        "word": "who",
+        "chapter": "13",
+        "verse": "15",
+        "word_num": 21,
+        "word": "προσκυνήσωσιν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,SAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "προσκυνήσωσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1366710,
+        "book_id": "rev",
+        "chapter": "13",
+        "verse": "15",
+        "word_num": 26,
+        "word": "would",
         "occurrence": 2
       }
     ],
-    "targetWordsTxt": "who",
+    "targetWordsTxt": "would",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "προσεκύνησαν = who",
-    "frequency": 0.02127659574468085,
+    "alignmentTxt": "προσκυνήσωσιν = would",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "506946",
+    "book_id": "act",
+    "chapter": "8",
+    "verse": "27",
+    "alignment_num": "22",
+    "orig_lang_words": ",1489311,",
+    "target_lang_words": ",1279072,1279073,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1489311,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "27",
+        "word_num": 21,
+        "word": "προσκυνήσων",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,PFA,NMS,"
+      }
+    ],
+    "origWordsTxt": "προσκυνήσων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1279072,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "27",
+        "word_num": 34,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1279073,
+        "book_id": "act",
+        "chapter": "8",
+        "verse": "27",
+        "word_num": 35,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to worship",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσκυνήσων = to worship",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "517174",
+    "book_id": "act",
+    "chapter": "24",
+    "verse": "11",
+    "alignment_num": "13",
+    "orig_lang_words": ",1499846,",
+    "target_lang_words": ",1292964,1292965,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499846,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 13,
+        "word": "προσκυνήσων",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,PFA,NMS,"
+      }
+    ],
+    "origWordsTxt": "προσκυνήσων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1292964,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 21,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1292965,
+        "book_id": "act",
+        "chapter": "24",
+        "verse": "11",
+        "word_num": 22,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to worship",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσκυνήσων = to worship",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531707",
+    "book_id": "1co",
+    "chapter": "14",
+    "verse": "25",
+    "alignment_num": "12",
+    "orig_lang_words": ",1515198,",
+    "target_lang_words": ",1314673,1314674,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515198,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "25",
+        "word_num": 12,
+        "word": "προσκυνήσει",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IFA3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσκυνήσει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1314673,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "25",
+        "word_num": 16,
+        "word": "and",
+        "occurrence": 2
+      },
+      {
+        "id": 1314674,
+        "book_id": "1co",
+        "chapter": "14",
+        "verse": "25",
+        "word_num": 17,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "and worship",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσκυνήσει = and worship",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "551073",
+    "book_id": "heb",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "10",
+    "orig_lang_words": ",1535125,1535126,",
+    "target_lang_words": ",1342442,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1535125,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 10,
+        "word": "καὶ",
+        "occurrence": 1,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1535126,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 11,
+        "word": "προσκυνησάτωσαν",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,MAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "καὶ προσκυνησάτωσαν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1342442,
+        "book_id": "heb",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 12,
+        "word": "Let",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Let",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καὶ προσκυνησάτωσαν = Let",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567846",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "7",
+    "alignment_num": "18",
+    "orig_lang_words": ",1553257,1553258,",
+    "target_lang_words": ",1367009,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1553257,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 18,
+        "word": "καὶ",
+        "occurrence": 2,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 1553258,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 19,
+        "word": "προσκυνήσατε",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,MAA2,,P,"
+      }
+    ],
+    "origWordsTxt": "καὶ προσκυνήσατε",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367009,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 21,
+        "word": "Worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Worship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "καὶ προσκυνήσατε = Worship",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567890",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "9",
+    "alignment_num": "12",
+    "orig_lang_words": ",1553306,",
+    "target_lang_words": ",1367066,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553306,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "9",
+        "word_num": 12,
+        "word": "προσκυνεῖ",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "προσκυνεῖ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367066,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "9",
+        "word_num": 14,
+        "word": "worships",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "worships",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσκυνεῖ = worships",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "567952",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "11",
+    "alignment_num": "15",
+    "orig_lang_words": ",1553374,1553375,",
+    "target_lang_words": ",1367142,1367143,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1553374,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "11",
+        "word_num": 17,
+        "word": "οἱ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NMP,"
+      },
+      {
+        "id": 1553375,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "11",
+        "word_num": 18,
+        "word": "προσκυνοῦντες",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,PPA,NMP,"
+      }
+    ],
+    "origWordsTxt": "οἱ προσκυνοῦντες",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1367142,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "11",
+        "word_num": 18,
+        "word": "these",
+        "occurrence": 1
+      },
+      {
+        "id": 1367143,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "11",
+        "word_num": 19,
+        "word": "worshipers",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "these worshipers",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "οἱ προσκυνοῦντες = these worshipers",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569941",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "10",
+    "alignment_num": "5",
+    "orig_lang_words": ",1555580,",
+    "target_lang_words": ",1369812,1369813,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555580,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "10",
+        "word_num": 6,
+        "word": "προσκυνῆσαι",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "προσκυνῆσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1369812,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "10",
+        "word_num": 7,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1369813,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "10",
+        "word_num": 8,
+        "word": "worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to worship",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "προσκυνῆσαι = to worship",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2442,7 +2442,53 @@
     "targetWordsTxt": "to worship",
     "alignmentTargetWords": 2,
     "alignmentTxt": "προσκυνῆσαι = to worship",
-    "frequency": 0.0425531914893617,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569957",
+    "book_id": "rev",
+    "chapter": "19",
+    "verse": "10",
+    "alignment_num": "21",
+    "orig_lang_words": ",1555601,",
+    "target_lang_words": ",1369840,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1555601,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "10",
+        "word_num": 27,
+        "word": "προσκύνησον",
+        "occurrence": 1,
+        "strong": "G43520",
+        "lemma": "προσκυνέω",
+        "morph": "Gr,V,MAA2,,S,"
+      }
+    ],
+    "origWordsTxt": "προσκύνησον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369840,
+        "book_id": "rev",
+        "chapter": "19",
+        "verse": "10",
+        "word_num": 35,
+        "word": "Worship",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Worship",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "προσκύνησον = Worship",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2486,7 +2532,8 @@
     "targetWordsTxt": "Worship",
     "alignmentTargetWords": 1,
     "alignmentTxt": "προσκύνησον = Worship",
-    "frequency": 0.0425531914893617,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

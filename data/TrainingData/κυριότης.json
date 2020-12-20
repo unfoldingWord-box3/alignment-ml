@@ -39,51 +39,8 @@
     "targetWordsTxt": "dominion",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κυριότητος = dominion",
-    "frequency": 0.25,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543757",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "16",
-    "alignment_num": "20",
-    "orig_lang_words": ",1527581,",
-    "target_lang_words": ",1332068,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1527581,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "16",
-        "word_num": 21,
-        "word": "κυριότητες",
-        "occurrence": 1,
-        "strong": "G29630",
-        "lemma": "κυριότης",
-        "morph": "Gr,N,,,,,NFP,"
-      }
-    ],
-    "origWordsTxt": "κυριότητες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1332068,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "16",
-        "word_num": 25,
-        "word": "dominions",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "dominions",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κυριότητες = dominions",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,7 +84,53 @@
     "targetWordsTxt": "authority",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κυριότητος = authority",
-    "frequency": 0.25,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543757",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "16",
+    "alignment_num": "20",
+    "orig_lang_words": ",1527581,",
+    "target_lang_words": ",1332068,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527581,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 21,
+        "word": "κυριότητες",
+        "occurrence": 1,
+        "strong": "G29630",
+        "lemma": "κυριότης",
+        "morph": "Gr,N,,,,,NFP,"
+      }
+    ],
+    "origWordsTxt": "κυριότητες",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1332068,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 25,
+        "word": "dominions",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "dominions",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κυριότητες = dominions",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -171,7 +174,8 @@
     "targetWordsTxt": "authority",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κυριότητα = authority",
-    "frequency": 0.25,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

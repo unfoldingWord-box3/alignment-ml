@@ -39,7 +39,8 @@
     "targetWordsTxt": "innocent",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγνοὺς = innocent",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,53 @@
     "targetWordsTxt": "pure",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγνὴν = pure",
-    "frequency": 0.125,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558132",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "2",
+    "orig_lang_words": ",1542522,",
+    "target_lang_words": ",1353074,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542522,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 4,
+        "word": "ἁγνὴν",
+        "occurrence": 1,
+        "strong": "G00530",
+        "lemma": "ἁγνός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἁγνὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1353074,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 6,
+        "word": "sincere",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "sincere",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἁγνὴν = sincere",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +183,8 @@
     "targetWordsTxt": "are pure",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἁγνά = are pure",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -180,7 +228,8 @@
     "targetWordsTxt": "pure",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγνὸν = pure",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -224,7 +273,8 @@
     "targetWordsTxt": "pure",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγνάς = pure",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -280,51 +330,8 @@
     "targetWordsTxt": "pure",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μὲν ἁγνή = pure",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558132",
-    "book_id": "1pe",
-    "chapter": "3",
-    "verse": "2",
-    "alignment_num": "2",
-    "orig_lang_words": ",1542522,",
-    "target_lang_words": ",1353074,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542522,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 4,
-        "word": "ἁγνὴν",
-        "occurrence": 1,
-        "strong": "G00530",
-        "lemma": "ἁγνός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἁγνὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1353074,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 6,
-        "word": "sincere",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "sincere",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἁγνὴν = sincere",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -368,7 +375,8 @@
     "targetWordsTxt": "pure",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἁγνός = pure",
-    "frequency": 0.125,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

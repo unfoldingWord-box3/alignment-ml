@@ -48,113 +48,8 @@
     "targetWordsTxt": "he chose",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐξελέξατο = he chose",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "472678",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "13",
-    "alignment_num": "9",
-    "orig_lang_words": ",1453457,",
-    "target_lang_words": ",1232429,1232430,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1453457,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 9,
-        "word": "ἐκλεξάμενος",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,PAM,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἐκλεξάμενος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1232429,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 12,
-        "word": "he",
-        "occurrence": 2
-      },
-      {
-        "id": 1232430,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 13,
-        "word": "chose",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he chose",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐκλεξάμενος = he chose",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "475978",
-    "book_id": "luk",
-    "chapter": "9",
-    "verse": "35",
-    "alignment_num": "12",
-    "orig_lang_words": ",1456778,",
-    "target_lang_words": ",1236921,1236922,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1456778,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "35",
-        "word_num": 13,
-        "word": "ἐκλελεγμένος",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,PEP,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἐκλελεγμένος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1236921,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "35",
-        "word_num": 16,
-        "word": "is",
-        "occurrence": 2
-      },
-      {
-        "id": 1236922,
-        "book_id": "luk",
-        "chapter": "9",
-        "verse": "35",
-        "word_num": 17,
-        "word": "chosen",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is chosen",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐκλελεγμένος = is chosen",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.2,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -207,307 +102,8 @@
     "targetWordsTxt": "has chosen",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐξελέξατο = has chosen",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "479928",
-    "book_id": "luk",
-    "chapter": "14",
-    "verse": "7",
-    "alignment_num": "8",
-    "orig_lang_words": ",1460827,",
-    "target_lang_words": ",1242278,1242279,1242280,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1460827,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "7",
-        "word_num": 10,
-        "word": "ἐξελέγοντο",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,IIM3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐξελέγοντο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1242278,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "7",
-        "word_num": 13,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1242279,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "7",
-        "word_num": 14,
-        "word": "were",
-        "occurrence": 2
-      },
-      {
-        "id": 1242280,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "7",
-        "word_num": 15,
-        "word": "choosing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they were choosing",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐξελέγοντο = they were choosing",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492007",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "70",
-    "alignment_num": "5",
-    "orig_lang_words": ",1473414,",
-    "target_lang_words": ",1258701,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1473414,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "70",
-        "word_num": 9,
-        "word": "ἐξελεξάμην",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,IAM1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐξελεξάμην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258701,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "70",
-        "word_num": 7,
-        "word": "choose",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "choose",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐξελεξάμην = choose",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "496986",
-    "book_id": "jhn",
-    "chapter": "13",
-    "verse": "18",
-    "alignment_num": "9",
-    "orig_lang_words": ",1478884,",
-    "target_lang_words": ",1265545,1265546,1265547,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1478884,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 8,
-        "word": "ἐξελεξάμην",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,IAM1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐξελεξάμην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1265545,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 12,
-        "word": "I",
-        "occurrence": 3
-      },
-      {
-        "id": 1265546,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 13,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1265547,
-        "book_id": "jhn",
-        "chapter": "13",
-        "verse": "18",
-        "word_num": 14,
-        "word": "chosen",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I have chosen",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐξελεξάμην = I have chosen",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498104",
-    "book_id": "jhn",
-    "chapter": "15",
-    "verse": "16",
-    "alignment_num": "2",
-    "orig_lang_words": ",1480085,",
-    "target_lang_words": ",1267098,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480085,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "16",
-        "word_num": 3,
-        "word": "ἐξελέξασθε",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,IAM2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐξελέξασθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1267098,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "16",
-        "word_num": 3,
-        "word": "choose",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "choose",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐξελέξασθε = choose",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498108",
-    "book_id": "jhn",
-    "chapter": "15",
-    "verse": "16",
-    "alignment_num": "6",
-    "orig_lang_words": ",1480088,",
-    "target_lang_words": ",1267102,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480088,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "16",
-        "word_num": 6,
-        "word": "ἐξελεξάμην",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,IAM1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐξελεξάμην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1267102,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "16",
-        "word_num": 7,
-        "word": "chose",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chose",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐξελεξάμην = chose",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498169",
-    "book_id": "jhn",
-    "chapter": "15",
-    "verse": "19",
-    "alignment_num": "19",
-    "orig_lang_words": ",1480154,",
-    "target_lang_words": ",1267191,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480154,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "19",
-        "word_num": 20,
-        "word": "ἐξελεξάμην",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,IAM1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐξελεξάμην",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1267191,
-        "book_id": "jhn",
-        "chapter": "15",
-        "verse": "19",
-        "word_num": 25,
-        "word": "chose",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chose",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐξελεξάμην = chose",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -569,122 +165,8 @@
     "targetWordsTxt": "he had chosen",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐξελέξατο = he had chosen",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "502400",
-    "book_id": "act",
-    "chapter": "1",
-    "verse": "24",
-    "alignment_num": "13",
-    "orig_lang_words": ",1484621,",
-    "target_lang_words": ",1273035,1273036,1273037,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484621,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "24",
-        "word_num": 9,
-        "word": "ἐξελέξω",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,IAM2,,S,"
-      }
-    ],
-    "origWordsTxt": "ἐξελέξω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1273035,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "24",
-        "word_num": 19,
-        "word": "you",
-        "occurrence": 1
-      },
-      {
-        "id": 1273036,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "24",
-        "word_num": 20,
-        "word": "have",
-        "occurrence": 1
-      },
-      {
-        "id": 1273037,
-        "book_id": "act",
-        "chapter": "1",
-        "verse": "24",
-        "word_num": 21,
-        "word": "chosen",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you have chosen",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἐξελέξω = you have chosen",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "505212",
-    "book_id": "act",
-    "chapter": "6",
-    "verse": "5",
-    "alignment_num": "8",
-    "orig_lang_words": ",1487536,",
-    "target_lang_words": ",1276755,1276756,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1487536,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 9,
-        "word": "ἐξελέξαντο",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,IAM3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἐξελέξαντο",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1276755,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 9,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1276756,
-        "book_id": "act",
-        "chapter": "6",
-        "verse": "5",
-        "word_num": 10,
-        "word": "chose",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they chose",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐξελέξαντο = they chose",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -728,7 +210,8 @@
     "targetWordsTxt": "chose",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐξελέξατο = chose",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.4,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -790,104 +273,8 @@
     "targetWordsTxt": "made a choice",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἐξελέξατο = made a choice",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511524",
-    "book_id": "act",
-    "chapter": "15",
-    "verse": "22",
-    "alignment_num": "18",
-    "orig_lang_words": ",1494009,",
-    "target_lang_words": ",1285251,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494009,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "22",
-        "word_num": 11,
-        "word": "ἐκλεξαμένους",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,PAM,AMP,"
-      }
-    ],
-    "origWordsTxt": "ἐκλεξαμένους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1285251,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "22",
-        "word_num": 19,
-        "word": "chosen",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "chosen",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἐκλεξαμένους = chosen",
-    "frequency": 0.045454545454545456,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "511580",
-    "book_id": "act",
-    "chapter": "15",
-    "verse": "25",
-    "alignment_num": "4",
-    "orig_lang_words": ",1494076,",
-    "target_lang_words": ",1285328,1285329,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1494076,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "25",
-        "word_num": 4,
-        "word": "ἐκλεξαμένοις",
-        "occurrence": 1,
-        "strong": "G15860",
-        "lemma": "ἐκλέγω",
-        "morph": "Gr,V,PAM,DMP,"
-      }
-    ],
-    "origWordsTxt": "ἐκλεξαμένοις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1285328,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "25",
-        "word_num": 5,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1285329,
-        "book_id": "act",
-        "chapter": "15",
-        "verse": "25",
-        "word_num": 6,
-        "word": "choose",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to choose",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἐκλεξαμένοις = to choose",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -931,7 +318,8 @@
     "targetWordsTxt": "chose",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐξελέξατο = chose",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.4,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -975,7 +363,8 @@
     "targetWordsTxt": "chose",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐξελέξατο = chose",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.4,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1019,7 +408,8 @@
     "targetWordsTxt": "chose",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐξελέξατο = chose",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.4,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1072,7 +462,8 @@
     "targetWordsTxt": "he chose",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐξελέξατο = he chose",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.2,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1116,7 +507,638 @@
     "targetWordsTxt": "choose",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐξελέξατο = choose",
-    "frequency": 0.045454545454545456,
+    "frequency": 0.1,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "472678",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "13",
+    "alignment_num": "9",
+    "orig_lang_words": ",1453457,",
+    "target_lang_words": ",1232429,1232430,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1453457,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 9,
+        "word": "ἐκλεξάμενος",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,PAM,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἐκλεξάμενος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1232429,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 12,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 1232430,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 13,
+        "word": "chose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he chose",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐκλεξάμενος = he chose",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "475978",
+    "book_id": "luk",
+    "chapter": "9",
+    "verse": "35",
+    "alignment_num": "12",
+    "orig_lang_words": ",1456778,",
+    "target_lang_words": ",1236921,1236922,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1456778,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "35",
+        "word_num": 13,
+        "word": "ἐκλελεγμένος",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,PEP,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἐκλελεγμένος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1236921,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "35",
+        "word_num": 16,
+        "word": "is",
+        "occurrence": 2
+      },
+      {
+        "id": 1236922,
+        "book_id": "luk",
+        "chapter": "9",
+        "verse": "35",
+        "word_num": 17,
+        "word": "chosen",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is chosen",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐκλελεγμένος = is chosen",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "479928",
+    "book_id": "luk",
+    "chapter": "14",
+    "verse": "7",
+    "alignment_num": "8",
+    "orig_lang_words": ",1460827,",
+    "target_lang_words": ",1242278,1242279,1242280,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1460827,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 10,
+        "word": "ἐξελέγοντο",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,IIM3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐξελέγοντο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1242278,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 13,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1242279,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 14,
+        "word": "were",
+        "occurrence": 2
+      },
+      {
+        "id": 1242280,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 15,
+        "word": "choosing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they were choosing",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐξελέγοντο = they were choosing",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492007",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "70",
+    "alignment_num": "5",
+    "orig_lang_words": ",1473414,",
+    "target_lang_words": ",1258701,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473414,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "70",
+        "word_num": 9,
+        "word": "ἐξελεξάμην",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,IAM1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐξελεξάμην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258701,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "70",
+        "word_num": 7,
+        "word": "choose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "choose",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐξελεξάμην = choose",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "496986",
+    "book_id": "jhn",
+    "chapter": "13",
+    "verse": "18",
+    "alignment_num": "9",
+    "orig_lang_words": ",1478884,",
+    "target_lang_words": ",1265545,1265546,1265547,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1478884,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 8,
+        "word": "ἐξελεξάμην",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,IAM1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐξελεξάμην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1265545,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 12,
+        "word": "I",
+        "occurrence": 3
+      },
+      {
+        "id": 1265546,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 13,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1265547,
+        "book_id": "jhn",
+        "chapter": "13",
+        "verse": "18",
+        "word_num": 14,
+        "word": "chosen",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "I have chosen",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐξελεξάμην = I have chosen",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498108",
+    "book_id": "jhn",
+    "chapter": "15",
+    "verse": "16",
+    "alignment_num": "6",
+    "orig_lang_words": ",1480088,",
+    "target_lang_words": ",1267102,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480088,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "16",
+        "word_num": 6,
+        "word": "ἐξελεξάμην",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,IAM1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐξελεξάμην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1267102,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "16",
+        "word_num": 7,
+        "word": "chose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chose",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐξελεξάμην = chose",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498169",
+    "book_id": "jhn",
+    "chapter": "15",
+    "verse": "19",
+    "alignment_num": "19",
+    "orig_lang_words": ",1480154,",
+    "target_lang_words": ",1267191,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480154,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "19",
+        "word_num": 20,
+        "word": "ἐξελεξάμην",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,IAM1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐξελεξάμην",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1267191,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "19",
+        "word_num": 25,
+        "word": "chose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chose",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐξελεξάμην = chose",
+    "frequency": 0.5,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498104",
+    "book_id": "jhn",
+    "chapter": "15",
+    "verse": "16",
+    "alignment_num": "2",
+    "orig_lang_words": ",1480085,",
+    "target_lang_words": ",1267098,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480085,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "16",
+        "word_num": 3,
+        "word": "ἐξελέξασθε",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,IAM2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐξελέξασθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1267098,
+        "book_id": "jhn",
+        "chapter": "15",
+        "verse": "16",
+        "word_num": 3,
+        "word": "choose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "choose",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐξελέξασθε = choose",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "502400",
+    "book_id": "act",
+    "chapter": "1",
+    "verse": "24",
+    "alignment_num": "13",
+    "orig_lang_words": ",1484621,",
+    "target_lang_words": ",1273035,1273036,1273037,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484621,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 9,
+        "word": "ἐξελέξω",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,IAM2,,S,"
+      }
+    ],
+    "origWordsTxt": "ἐξελέξω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1273035,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 19,
+        "word": "you",
+        "occurrence": 1
+      },
+      {
+        "id": 1273036,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 20,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 1273037,
+        "book_id": "act",
+        "chapter": "1",
+        "verse": "24",
+        "word_num": 21,
+        "word": "chosen",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you have chosen",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἐξελέξω = you have chosen",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "505212",
+    "book_id": "act",
+    "chapter": "6",
+    "verse": "5",
+    "alignment_num": "8",
+    "orig_lang_words": ",1487536,",
+    "target_lang_words": ",1276755,1276756,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1487536,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 9,
+        "word": "ἐξελέξαντο",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,IAM3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἐξελέξαντο",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1276755,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 9,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1276756,
+        "book_id": "act",
+        "chapter": "6",
+        "verse": "5",
+        "word_num": 10,
+        "word": "chose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they chose",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐξελέξαντο = they chose",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511524",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "22",
+    "alignment_num": "18",
+    "orig_lang_words": ",1494009,",
+    "target_lang_words": ",1285251,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494009,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "22",
+        "word_num": 11,
+        "word": "ἐκλεξαμένους",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,PAM,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἐκλεξαμένους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1285251,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "22",
+        "word_num": 19,
+        "word": "chosen",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "chosen",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἐκλεξαμένους = chosen",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "511580",
+    "book_id": "act",
+    "chapter": "15",
+    "verse": "25",
+    "alignment_num": "4",
+    "orig_lang_words": ",1494076,",
+    "target_lang_words": ",1285328,1285329,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1494076,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "25",
+        "word_num": 4,
+        "word": "ἐκλεξαμένοις",
+        "occurrence": 1,
+        "strong": "G15860",
+        "lemma": "ἐκλέγω",
+        "morph": "Gr,V,PAM,DMP,"
+      }
+    ],
+    "origWordsTxt": "ἐκλεξαμένοις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1285328,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "25",
+        "word_num": 5,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1285329,
+        "book_id": "act",
+        "chapter": "15",
+        "verse": "25",
+        "word_num": 6,
+        "word": "choose",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to choose",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἐκλεξαμένοις = to choose",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

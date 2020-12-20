@@ -51,95 +51,8 @@
     "targetWordsTxt": "to",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ὁμολογίας = to",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548625",
-    "book_id": "1ti",
-    "chapter": "6",
-    "verse": "12",
-    "alignment_num": "19",
-    "orig_lang_words": ",1532640,",
-    "target_lang_words": ",1338963,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532640,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 17,
-        "word": "ὁμολογίαν",
-        "occurrence": 1,
-        "strong": "G36710",
-        "lemma": "ὁμολογία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ὁμολογίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338963,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "12",
-        "word_num": 25,
-        "word": "confession",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "confession",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁμολογίαν = confession",
-    "frequency": 0.5,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548644",
-    "book_id": "1ti",
-    "chapter": "6",
-    "verse": "13",
-    "alignment_num": "15",
-    "orig_lang_words": ",1532663,",
-    "target_lang_words": ",1338988,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532663,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 19,
-        "word": "ὁμολογίαν",
-        "occurrence": 1,
-        "strong": "G36710",
-        "lemma": "ὁμολογία",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ὁμολογίαν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338988,
-        "book_id": "1ti",
-        "chapter": "6",
-        "verse": "13",
-        "word_num": 21,
-        "word": "confession",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "confession",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ὁμολογίαν = confession",
-    "frequency": 0.5,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -195,7 +108,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ὁμολογίας = of",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -239,7 +153,98 @@
     "targetWordsTxt": "beliefs",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁμολογίας = beliefs",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548625",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "12",
+    "alignment_num": "19",
+    "orig_lang_words": ",1532640,",
+    "target_lang_words": ",1338963,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532640,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 17,
+        "word": "ὁμολογίαν",
+        "occurrence": 1,
+        "strong": "G36710",
+        "lemma": "ὁμολογία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ὁμολογίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338963,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "12",
+        "word_num": 25,
+        "word": "confession",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "confession",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁμολογίαν = confession",
+    "frequency": 1.0,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548644",
+    "book_id": "1ti",
+    "chapter": "6",
+    "verse": "13",
+    "alignment_num": "15",
+    "orig_lang_words": ",1532663,",
+    "target_lang_words": ",1338988,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532663,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 19,
+        "word": "ὁμολογίαν",
+        "occurrence": 1,
+        "strong": "G36710",
+        "lemma": "ὁμολογία",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ὁμολογίαν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338988,
+        "book_id": "1ti",
+        "chapter": "6",
+        "verse": "13",
+        "word_num": 21,
+        "word": "confession",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "confession",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὁμολογίαν = confession",
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -283,7 +288,8 @@
     "targetWordsTxt": "confession",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁμολογίαν = confession",
-    "frequency": 0.5,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

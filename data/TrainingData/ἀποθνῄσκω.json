@@ -48,7 +48,8 @@
     "targetWordsTxt": "is dead",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπέθανεν = is dead",
-    "frequency": 0.018691588785046728,
+    "frequency": 0.06666666666666667,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -92,7 +93,8 @@
     "targetWordsTxt": "is",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέθανεν = is",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -166,95 +168,8 @@
     "targetWordsTxt": "He is dead",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ὅτι ἀπέθανεν = He is dead",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "465545",
-    "book_id": "mrk",
-    "chapter": "12",
-    "verse": "19",
-    "alignment_num": "7",
-    "orig_lang_words": ",1445813,",
-    "target_lang_words": ",1222278,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1445813,
-        "book_id": "mrk",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 8,
-        "word": "ἀποθάνῃ",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθάνῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1222278,
-        "book_id": "mrk",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 10,
-        "word": "dies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "dies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθάνῃ = dies",
-    "frequency": 0.04672897196261682,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "465573",
-    "book_id": "mrk",
-    "chapter": "12",
-    "verse": "20",
-    "alignment_num": "8",
-    "orig_lang_words": ",1445843,",
-    "target_lang_words": ",1222316,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1445843,
-        "book_id": "mrk",
-        "chapter": "12",
-        "verse": "20",
-        "word_num": 9,
-        "word": "ἀποθνῄσκων",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,PPA,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1222316,
-        "book_id": "mrk",
-        "chapter": "12",
-        "verse": "20",
-        "word_num": 11,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκων = died",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -298,7 +213,8 @@
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -342,7 +258,8 @@
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -395,60 +312,8 @@
     "targetWordsTxt": "Jesus had",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπέθανεν = Jesus had",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "475094",
-    "book_id": "luk",
-    "chapter": "8",
-    "verse": "42",
-    "alignment_num": "10",
-    "orig_lang_words": ",1455885,",
-    "target_lang_words": ",1235741,1235742,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1455885,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "42",
-        "word_num": 10,
-        "word": "ἀπέθνῃσκεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IIA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθνῃσκεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1235741,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "42",
-        "word_num": 11,
-        "word": "was",
-        "occurrence": 2
-      },
-      {
-        "id": 1235742,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "42",
-        "word_num": 12,
-        "word": "dying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "was dying",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀπέθνῃσκεν = was dying",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -501,7 +366,8 @@
     "targetWordsTxt": "she has",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπέθανεν = she has",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -563,51 +429,8 @@
     "targetWordsTxt": "she had died",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀπέθανεν = she had died",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481385",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "22",
-    "alignment_num": "4",
-    "orig_lang_words": ",1462301,",
-    "target_lang_words": ",1244284,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1462301,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "22",
-        "word_num": 2,
-        "word": "ἀποθανεῖν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1244284,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "22",
-        "word_num": 8,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθανεῖν = died",
-    "frequency": 0.018691588785046728,
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -651,51 +474,8 @@
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "483992",
-    "book_id": "luk",
-    "chapter": "20",
-    "verse": "28",
-    "alignment_num": "8",
-    "orig_lang_words": ",1464942,",
-    "target_lang_words": ",1247959,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1464942,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "28",
-        "word_num": 8,
-        "word": "ἀποθάνῃ",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθάνῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1247959,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "28",
-        "word_num": 11,
-        "word": "dies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "dies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθάνῃ = dies",
-    "frequency": 0.04672897196261682,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -739,51 +519,8 @@
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "484039",
-    "book_id": "luk",
-    "chapter": "20",
-    "verse": "31",
-    "alignment_num": "14",
-    "orig_lang_words": ",1464990,",
-    "target_lang_words": ",1248012,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1464990,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "31",
-        "word_num": 14,
-        "word": "ἀπέθανον",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1248012,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "31",
-        "word_num": 14,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανον = died",
-    "frequency": 0.08411214953271028,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -827,475 +564,8 @@
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "484092",
-    "book_id": "luk",
-    "chapter": "20",
-    "verse": "36",
-    "alignment_num": "3",
-    "orig_lang_words": ",1465042,",
-    "target_lang_words": ",1248087,1248088,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1465042,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "36",
-        "word_num": 2,
-        "word": "ἀποθανεῖν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1248087,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "36",
-        "word_num": 5,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1248088,
-        "book_id": "luk",
-        "chapter": "20",
-        "verse": "36",
-        "word_num": 6,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθανεῖν = to die",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490046",
-    "book_id": "jhn",
-    "chapter": "4",
-    "verse": "47",
-    "alignment_num": "23",
-    "orig_lang_words": ",1471252,",
-    "target_lang_words": ",1256018,1256019,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471252,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "47",
-        "word_num": 25,
-        "word": "ἀποθνῄσκειν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκειν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1256018,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "47",
-        "word_num": 29,
-        "word": "to",
-        "occurrence": 3
-      },
-      {
-        "id": 1256019,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "47",
-        "word_num": 30,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθνῄσκειν = to die",
-    "frequency": 0.028037383177570093,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490070",
-    "book_id": "jhn",
-    "chapter": "4",
-    "verse": "49",
-    "alignment_num": "10",
-    "orig_lang_words": ",1471276,",
-    "target_lang_words": ",1256046,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471276,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "49",
-        "word_num": 8,
-        "word": "ἀποθανεῖν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1256046,
-        "book_id": "jhn",
-        "chapter": "4",
-        "verse": "49",
-        "word_num": 11,
-        "word": "dies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "dies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθανεῖν = dies",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491680",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "49",
-    "alignment_num": "9",
-    "orig_lang_words": ",1473043,",
-    "target_lang_words": ",1258268,1258269,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1473043,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "49",
-        "word_num": 10,
-        "word": "ἀπέθανον",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1258268,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "49",
-        "word_num": 9,
-        "word": "they",
-        "occurrence": 1
-      },
-      {
-        "id": 1258269,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "49",
-        "word_num": 10,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they died",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀπέθανον = they died",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491695",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "50",
-    "alignment_num": "14",
-    "orig_lang_words": ",1473060,",
-    "target_lang_words": ",1258290,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1473060,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "50",
-        "word_num": 16,
-        "word": "ἀποθάνῃ",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθάνῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258290,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "50",
-        "word_num": 20,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "die",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθάνῃ = die",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "491841",
-    "book_id": "jhn",
-    "chapter": "6",
-    "verse": "58",
-    "alignment_num": "14",
-    "orig_lang_words": ",1473224,",
-    "target_lang_words": ",1258471,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1473224,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "58",
-        "word_num": 14,
-        "word": "ἀπέθανον",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1258471,
-        "book_id": "jhn",
-        "chapter": "6",
-        "verse": "58",
-        "word_num": 16,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανον = died",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493035",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "21",
-    "alignment_num": "10",
-    "orig_lang_words": ",1474643,",
-    "target_lang_words": ",1260214,1260215,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1474643,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 14,
-        "word": "ἀποθανεῖσθε",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IFM2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1260214,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 16,
-        "word": "will",
-        "occurrence": 2
-      },
-      {
-        "id": 1260215,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "21",
-        "word_num": 17,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθανεῖσθε = will die",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493088",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "24",
-    "alignment_num": "4",
-    "orig_lang_words": ",1474697,",
-    "target_lang_words": ",1260279,1260280,1260281,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1474697,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "24",
-        "word_num": 4,
-        "word": "ἀποθανεῖσθε",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IFM2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1260279,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "24",
-        "word_num": 6,
-        "word": "you",
-        "occurrence": 2
-      },
-      {
-        "id": 1260280,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "24",
-        "word_num": 7,
-        "word": "will",
-        "occurrence": 1
-      },
-      {
-        "id": 1260281,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "24",
-        "word_num": 8,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "you will die",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀποθανεῖσθε = you will die",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493097",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "24",
-    "alignment_num": "13",
-    "orig_lang_words": ",1474709,",
-    "target_lang_words": ",1260292,1260293,1260294,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1474709,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "24",
-        "word_num": 16,
-        "word": "ἀποθανεῖσθε",
-        "occurrence": 2,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IFM2,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖσθε",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1260292,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "24",
-        "word_num": 19,
-        "word": "you",
-        "occurrence": 4
-      },
-      {
-        "id": 1260293,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "24",
-        "word_num": 20,
-        "word": "will",
-        "occurrence": 2
-      },
-      {
-        "id": 1260294,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "24",
-        "word_num": 21,
-        "word": "die",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "you will die",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀποθανεῖσθε = you will die",
-    "frequency": 0.018691588785046728,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1339,7 +609,8 @@
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1383,51 +654,8 @@
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "493590",
-    "book_id": "jhn",
-    "chapter": "8",
-    "verse": "53",
-    "alignment_num": "13",
-    "orig_lang_words": ",1475245,",
-    "target_lang_words": ",1260936,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1475245,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "53",
-        "word_num": 13,
-        "word": "ἀπέθανον",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1260936,
-        "book_id": "jhn",
-        "chapter": "8",
-        "verse": "53",
-        "word_num": 15,
-        "word": "died",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανον = died",
-    "frequency": 0.08411214953271028,
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1480,69 +708,8 @@
     "targetWordsTxt": "is dead",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπέθανεν = is dead",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "495228",
-    "book_id": "jhn",
-    "chapter": "11",
-    "verse": "16",
-    "alignment_num": "12",
-    "orig_lang_words": ",1476985,",
-    "target_lang_words": ",1263152,1263153,1263154,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1476985,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 12,
-        "word": "ἀποθάνωμεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,SAA1,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀποθάνωμεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1263152,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 17,
-        "word": "we",
-        "occurrence": 1
-      },
-      {
-        "id": 1263153,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 18,
-        "word": "may",
-        "occurrence": 1
-      },
-      {
-        "id": 1263154,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "16",
-        "word_num": 19,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "we may die",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀποθάνωμεν = we may die",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.06666666666666667,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1598,7 +765,845 @@
     "targetWordsTxt": "would",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἂν ἀπέθανεν = would",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "495469",
+    "book_id": "jhn",
+    "chapter": "11",
+    "verse": "32",
+    "alignment_num": "21",
+    "orig_lang_words": ",1477255,",
+    "target_lang_words": ",1263467,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1477255,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "32",
+        "word_num": 24,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1263467,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "32",
+        "word_num": 31,
+        "word": "would",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "would",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = would",
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521623",
+    "book_id": "rom",
+    "chapter": "5",
+    "verse": "6",
+    "alignment_num": "9",
+    "orig_lang_words": ",1504543,",
+    "target_lang_words": ",1299526,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504543,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 11,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299526,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "6",
+        "word_num": 11,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = died",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521653",
+    "book_id": "rom",
+    "chapter": "5",
+    "verse": "8",
+    "alignment_num": "13",
+    "orig_lang_words": ",1504576,",
+    "target_lang_words": ",1299565,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504576,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "8",
+        "word_num": 17,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299565,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "8",
+        "word_num": 15,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = died",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522051",
+    "book_id": "rom",
+    "chapter": "6",
+    "verse": "10",
+    "alignment_num": "2",
+    "orig_lang_words": ",1505008,",
+    "target_lang_words": ",1300122,1300123,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505008,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 2,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1300122,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 7,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1300123,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 8,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he died",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπέθανεν = he died",
+    "frequency": 0.1,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522052",
+    "book_id": "rom",
+    "chapter": "6",
+    "verse": "10",
+    "alignment_num": "3",
+    "orig_lang_words": ",1505011,",
+    "target_lang_words": ",1300124,1300125,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505011,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 5,
+        "word": "ἀπέθανεν",
+        "occurrence": 2,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1300124,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 9,
+        "word": "he",
+        "occurrence": 2
+      },
+      {
+        "id": 1300125,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 10,
+        "word": "died",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "he died",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπέθανεν = he died",
+    "frequency": 0.1,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525294",
+    "book_id": "rom",
+    "chapter": "14",
+    "verse": "9",
+    "alignment_num": "4",
+    "orig_lang_words": ",1508526,",
+    "target_lang_words": ",1305182,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508526,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "9",
+        "word_num": 4,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1305182,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "9",
+        "word_num": 5,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = died",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525402",
+    "book_id": "rom",
+    "chapter": "14",
+    "verse": "15",
+    "alignment_num": "21",
+    "orig_lang_words": ",1508641,",
+    "target_lang_words": ",1305345,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508641,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 21,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1305345,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "15",
+        "word_num": 26,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = died",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "529212",
+    "book_id": "1co",
+    "chapter": "8",
+    "verse": "11",
+    "alignment_num": "7",
+    "orig_lang_words": ",1512647,",
+    "target_lang_words": ",1310938,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1512647,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "11",
+        "word_num": 13,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1310938,
+        "book_id": "1co",
+        "chapter": "8",
+        "verse": "11",
+        "word_num": 11,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = died",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "531944",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "3",
+    "alignment_num": "11",
+    "orig_lang_words": ",1515438,",
+    "target_lang_words": ",1315032,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515438,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "3",
+        "word_num": 10,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1315032,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "3",
+        "word_num": 15,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = died",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534576",
+    "book_id": "2co",
+    "chapter": "5",
+    "verse": "14",
+    "alignment_num": "10",
+    "orig_lang_words": ",1518166,",
+    "target_lang_words": ",1318788,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518166,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 13,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1318788,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 13,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = died",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534583",
+    "book_id": "2co",
+    "chapter": "5",
+    "verse": "15",
+    "alignment_num": "1",
+    "orig_lang_words": ",1518174,",
+    "target_lang_words": ",1318795,1318796,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518174,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 3,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1318795,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 1,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1318796,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 2,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he died",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπέθανεν = he died",
+    "frequency": 0.1,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538107",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "21",
+    "alignment_num": "13",
+    "orig_lang_words": ",1521786,",
+    "target_lang_words": ",1324055,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521786,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 14,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1324055,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 20,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = died",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545967",
+    "book_id": "1th",
+    "chapter": "4",
+    "verse": "14",
+    "alignment_num": "5",
+    "orig_lang_words": ",1529959,",
+    "target_lang_words": ",1335171,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529959,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 5,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1335171,
+        "book_id": "1th",
+        "chapter": "4",
+        "verse": "14",
+        "word_num": 6,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = died",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558371",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "18",
+    "alignment_num": "7",
+    "orig_lang_words": ",1542782,",
+    "target_lang_words": ",1353461,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542782,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 6,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1353461,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "18",
+        "word_num": 11,
+        "word": "suffered",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "suffered",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = suffered",
+    "frequency": 0.03333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "568448",
+    "book_id": "rev",
+    "chapter": "16",
+    "verse": "3",
+    "alignment_num": "19",
+    "orig_lang_words": ",1553919,",
+    "target_lang_words": ",1367787,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1553919,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "3",
+        "word_num": 19,
+        "word": "ἀπέθανεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1367787,
+        "book_id": "rev",
+        "chapter": "16",
+        "verse": "3",
+        "word_num": 28,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανεν = died",
+    "frequency": 0.5666666666666667,
+    "matchCount": 17,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "465545",
+    "book_id": "mrk",
+    "chapter": "12",
+    "verse": "19",
+    "alignment_num": "7",
+    "orig_lang_words": ",1445813,",
+    "target_lang_words": ",1222278,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1445813,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 8,
+        "word": "ἀποθάνῃ",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθάνῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1222278,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 10,
+        "word": "dies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "dies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθάνῃ = dies",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483992",
+    "book_id": "luk",
+    "chapter": "20",
+    "verse": "28",
+    "alignment_num": "8",
+    "orig_lang_words": ",1464942,",
+    "target_lang_words": ",1247959,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464942,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "28",
+        "word_num": 8,
+        "word": "ἀποθάνῃ",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθάνῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1247959,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "28",
+        "word_num": 11,
+        "word": "dies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "dies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθάνῃ = dies",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491695",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "50",
+    "alignment_num": "14",
+    "orig_lang_words": ",1473060,",
+    "target_lang_words": ",1258290,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473060,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "50",
+        "word_num": 16,
+        "word": "ἀποθάνῃ",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθάνῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258290,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "50",
+        "word_num": 20,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "die",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθάνῃ = die",
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1651,7 +1656,8 @@
     "targetWordsTxt": "he dies",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθάνῃ = he dies",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1695,51 +1701,8 @@
     "targetWordsTxt": "will",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποθάνῃ = will",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "495469",
-    "book_id": "jhn",
-    "chapter": "11",
-    "verse": "32",
-    "alignment_num": "21",
-    "orig_lang_words": ",1477255,",
-    "target_lang_words": ",1263467,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1477255,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "32",
-        "word_num": 24,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1263467,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "32",
-        "word_num": 31,
-        "word": "would",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "would",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = would",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1792,7 +1755,8 @@
     "targetWordsTxt": "to die",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθάνῃ = to die",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1836,60 +1800,8 @@
     "targetWordsTxt": "dies",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποθάνῃ = dies",
-    "frequency": 0.04672897196261682,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "495763",
-    "book_id": "jhn",
-    "chapter": "11",
-    "verse": "51",
-    "alignment_num": "15",
-    "orig_lang_words": ",1477566,",
-    "target_lang_words": ",1263873,1263874,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1477566,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "51",
-        "word_num": 16,
-        "word": "ἀποθνῄσκειν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκειν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1263873,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "51",
-        "word_num": 19,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1263874,
-        "book_id": "jhn",
-        "chapter": "11",
-        "verse": "51",
-        "word_num": 20,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθνῄσκειν = to die",
-    "frequency": 0.028037383177570093,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1942,7 +1854,8 @@
     "targetWordsTxt": "and dies",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθάνῃ = and dies",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1995,51 +1908,467 @@
     "targetWordsTxt": "it dies",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθάνῃ = it dies",
-    "frequency": 0.018691588785046728,
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "496390",
-    "book_id": "jhn",
-    "chapter": "12",
-    "verse": "33",
-    "alignment_num": "7",
-    "orig_lang_words": ",1478246,",
-    "target_lang_words": ",1264723,",
+    "id": "522294",
+    "book_id": "rom",
+    "chapter": "7",
+    "verse": "2",
+    "alignment_num": "13",
+    "orig_lang_words": ",1505277,",
+    "target_lang_words": ",1300528,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1478246,
-        "book_id": "jhn",
-        "chapter": "12",
-        "verse": "33",
-        "word_num": 7,
-        "word": "ἀποθνῄσκειν",
+        "id": 1505277,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "2",
+        "word_num": 11,
+        "word": "ἀποθάνῃ",
         "occurrence": 1,
         "strong": "G05990",
         "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NPA,,,,,"
+        "morph": "Gr,V,SAA3,,S,"
       }
     ],
-    "origWordsTxt": "ἀποθνῄσκειν",
+    "origWordsTxt": "ἀποθάνῃ",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1264723,
-        "book_id": "jhn",
+        "id": 1300528,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "2",
+        "word_num": 18,
+        "word": "dies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "dies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθάνῃ = dies",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522315",
+    "book_id": "rom",
+    "chapter": "7",
+    "verse": "3",
+    "alignment_num": "15",
+    "orig_lang_words": ",1505299,",
+    "target_lang_words": ",1300560,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505299,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 13,
+        "word": "ἀποθάνῃ",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθάνῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1300560,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "3",
+        "word_num": 23,
+        "word": "dies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "dies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθάνῃ = dies",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "532385",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "36",
+    "alignment_num": "7",
+    "orig_lang_words": ",1515899,",
+    "target_lang_words": ",1315680,1315681,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1515899,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "36",
+        "word_num": 8,
+        "word": "ἀποθάνῃ",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,SAA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθάνῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1315680,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "36",
+        "word_num": 13,
+        "word": "it",
+        "occurrence": 1
+      },
+      {
+        "id": 1315681,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "36",
+        "word_num": 14,
+        "word": "dies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "it dies",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποθάνῃ = it dies",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "465573",
+    "book_id": "mrk",
+    "chapter": "12",
+    "verse": "20",
+    "alignment_num": "8",
+    "orig_lang_words": ",1445843,",
+    "target_lang_words": ",1222316,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1445843,
+        "book_id": "mrk",
         "chapter": "12",
-        "verse": "33",
+        "verse": "20",
+        "word_num": 9,
+        "word": "ἀποθνῄσκων",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1222316,
+        "book_id": "mrk",
+        "chapter": "12",
+        "verse": "20",
+        "word_num": 11,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθνῄσκων = died",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554583",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "21",
+    "alignment_num": "2",
+    "orig_lang_words": ",1538816,",
+    "target_lang_words": ",1347773,1347774,1347775,1347776,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538816,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "21",
+        "word_num": 2,
+        "word": "ἀποθνῄσκων",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκων",
+    "alignmentOrigWords": 1,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 1347773,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "21",
+        "word_num": 3,
+        "word": "when",
+        "occurrence": 1
+      },
+      {
+        "id": 1347774,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "21",
+        "word_num": 4,
+        "word": "he",
+        "occurrence": 1
+      },
+      {
+        "id": 1347775,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "21",
+        "word_num": 5,
+        "word": "was",
+        "occurrence": 1
+      },
+      {
+        "id": 1347776,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "21",
+        "word_num": 6,
+        "word": "dying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "when he was dying",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἀποθνῄσκων = when he was dying",
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "475094",
+    "book_id": "luk",
+    "chapter": "8",
+    "verse": "42",
+    "alignment_num": "10",
+    "orig_lang_words": ",1455885,",
+    "target_lang_words": ",1235741,1235742,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1455885,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "42",
+        "word_num": 10,
+        "word": "ἀπέθνῃσκεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IIA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθνῃσκεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1235741,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "42",
+        "word_num": 11,
+        "word": "was",
+        "occurrence": 2
+      },
+      {
+        "id": 1235742,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "42",
         "word_num": 12,
+        "word": "dying",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "was dying",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπέθνῃσκεν = was dying",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481385",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "22",
+    "alignment_num": "4",
+    "orig_lang_words": ",1462301,",
+    "target_lang_words": ",1244284,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1462301,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "22",
+        "word_num": 2,
+        "word": "ἀποθανεῖν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθανεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1244284,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "22",
+        "word_num": 8,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθανεῖν = died",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "484092",
+    "book_id": "luk",
+    "chapter": "20",
+    "verse": "36",
+    "alignment_num": "3",
+    "orig_lang_words": ",1465042,",
+    "target_lang_words": ",1248087,1248088,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1465042,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "36",
+        "word_num": 2,
+        "word": "ἀποθανεῖν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθανεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1248087,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "36",
+        "word_num": 5,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1248088,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "36",
+        "word_num": 6,
         "word": "die",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "die",
+    "targetWordsTxt": "to die",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποθανεῖν = to die",
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490070",
+    "book_id": "jhn",
+    "chapter": "4",
+    "verse": "49",
+    "alignment_num": "10",
+    "orig_lang_words": ",1471276,",
+    "target_lang_words": ",1256046,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471276,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "49",
+        "word_num": 8,
+        "word": "ἀποθανεῖν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθανεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256046,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "49",
+        "word_num": 11,
+        "word": "dies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "dies",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκειν = die",
-    "frequency": 0.018691588785046728,
+    "alignmentTxt": "ἀποθανεῖν = dies",
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2083,51 +2412,8 @@
     "targetWordsTxt": "die",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποθανεῖν = die",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "499927",
-    "book_id": "jhn",
-    "chapter": "18",
-    "verse": "32",
-    "alignment_num": "11",
-    "orig_lang_words": ",1481982,",
-    "target_lang_words": ",1269635,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1481982,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "32",
-        "word_num": 12,
-        "word": "ἀποθνῄσκειν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκειν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1269635,
-        "book_id": "jhn",
-        "chapter": "18",
-        "verse": "32",
-        "word_num": 25,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "die",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκειν = die",
-    "frequency": 0.018691588785046728,
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2180,95 +2466,8 @@
     "targetWordsTxt": "to die",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθανεῖν = to die",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501888",
-    "book_id": "jhn",
-    "chapter": "21",
-    "verse": "23",
-    "alignment_num": "10",
-    "orig_lang_words": ",1484092,",
-    "target_lang_words": ",1272329,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484092,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "23",
-        "word_num": 13,
-        "word": "ἀποθνῄσκει",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1272329,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "23",
-        "word_num": 10,
-        "word": "would",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "would",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκει = would",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "501897",
-    "book_id": "jhn",
-    "chapter": "21",
-    "verse": "23",
-    "alignment_num": "19",
-    "orig_lang_words": ",1484101,",
-    "target_lang_words": ",1272343,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1484101,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "23",
-        "word_num": 22,
-        "word": "ἀποθνῄσκει",
-        "occurrence": 2,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1272343,
-        "book_id": "jhn",
-        "chapter": "21",
-        "verse": "23",
-        "word_num": 24,
-        "word": "would",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "would",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκει = would",
-    "frequency": 0.018691588785046728,
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2312,7 +2511,8 @@
     "targetWordsTxt": "death",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποθανεῖν = death",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.06666666666666667,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2356,7 +2556,8 @@
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποθανεῖν = died",
-    "frequency": 0.018691588785046728,
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2409,7 +2610,8 @@
     "targetWordsTxt": "to die",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθανεῖν = to die",
-    "frequency": 0.07476635514018691,
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2474,95 +2676,8 @@
     "targetWordsTxt": "to die",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸ ἀποθανεῖν = to die",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521623",
-    "book_id": "rom",
-    "chapter": "5",
-    "verse": "6",
-    "alignment_num": "9",
-    "orig_lang_words": ",1504543,",
-    "target_lang_words": ",1299526,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504543,
-        "book_id": "rom",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 11,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1299526,
-        "book_id": "rom",
-        "chapter": "5",
-        "verse": "6",
-        "word_num": 11,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "521628",
-    "book_id": "rom",
-    "chapter": "5",
-    "verse": "7",
-    "alignment_num": "2",
-    "orig_lang_words": ",1504549,",
-    "target_lang_words": ",1299532,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504549,
-        "book_id": "rom",
-        "chapter": "5",
-        "verse": "7",
-        "word_num": 5,
-        "word": "ἀποθανεῖται",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IFM3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖται",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1299532,
-        "book_id": "rom",
-        "chapter": "5",
-        "verse": "7",
-        "word_num": 2,
-        "word": "will",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "will",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθανεῖται = will",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2615,51 +2730,479 @@
     "targetWordsTxt": "to die",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθανεῖν = to die",
-    "frequency": 0.07476635514018691,
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "521653",
-    "book_id": "rom",
-    "chapter": "5",
-    "verse": "8",
-    "alignment_num": "13",
-    "orig_lang_words": ",1504576,",
-    "target_lang_words": ",1299565,",
+    "id": "529496",
+    "book_id": "1co",
+    "chapter": "9",
+    "verse": "15",
+    "alignment_num": "20",
+    "orig_lang_words": ",1512934,",
+    "target_lang_words": ",1311354,1311355,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1504576,
-        "book_id": "rom",
-        "chapter": "5",
-        "verse": "8",
-        "word_num": 17,
-        "word": "ἀπέθανεν",
+        "id": 1512934,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "15",
+        "word_num": 19,
+        "word": "ἀποθανεῖν",
         "occurrence": 1,
         "strong": "G05990",
         "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
+        "morph": "Gr,V,NAA,,,,,"
       }
     ],
-    "origWordsTxt": "ἀπέθανεν",
+    "origWordsTxt": "ἀποθανεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1311354,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "15",
+        "word_num": 31,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1311355,
+        "book_id": "1co",
+        "chapter": "9",
+        "verse": "15",
+        "word_num": 32,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to die",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποθανεῖν = to die",
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542256",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "21",
+    "alignment_num": "5",
+    "orig_lang_words": ",1526021,1526022,",
+    "target_lang_words": ",1329794,1329795,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1526021,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 6,
+        "word": "τὸ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,NNS,"
+      },
+      {
+        "id": 1526022,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 7,
+        "word": "ἀποθανεῖν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἀποθανεῖν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1329794,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 8,
+        "word": "to",
+        "occurrence": 3
+      },
+      {
+        "id": 1329795,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "21",
+        "word_num": 9,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to die",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τὸ ἀποθανεῖν = to die",
+    "frequency": 0.13333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553722",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "27",
+    "alignment_num": "3",
+    "orig_lang_words": ",1537900,",
+    "target_lang_words": ",1346405,1346406,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537900,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 7,
+        "word": "ἀποθανεῖν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθανεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1346405,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 5,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1346406,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "27",
+        "word_num": 6,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to die",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποθανεῖν = to die",
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "563716",
+    "book_id": "rev",
+    "chapter": "3",
+    "verse": "2",
+    "alignment_num": "7",
+    "orig_lang_words": ",1548664,",
+    "target_lang_words": ",1361389,1361390,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1548664,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 8,
+        "word": "ἀποθανεῖν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθανεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1361389,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 9,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1361390,
+        "book_id": "rev",
+        "chapter": "3",
+        "verse": "2",
+        "word_num": 10,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to die",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποθανεῖν = to die",
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565891",
+    "book_id": "rev",
+    "chapter": "9",
+    "verse": "6",
+    "alignment_num": "12",
+    "orig_lang_words": ",1551054,",
+    "target_lang_words": ",1364394,1364395,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1551054,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 17,
+        "word": "ἀποθανεῖν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθανεῖν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1364394,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 16,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1364395,
+        "book_id": "rev",
+        "chapter": "9",
+        "verse": "6",
+        "word_num": 17,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to die",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποθανεῖν = to die",
+    "frequency": 0.5333333333333333,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "484039",
+    "book_id": "luk",
+    "chapter": "20",
+    "verse": "31",
+    "alignment_num": "14",
+    "orig_lang_words": ",1464990,",
+    "target_lang_words": ",1248012,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464990,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "31",
+        "word_num": 14,
+        "word": "ἀπέθανον",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανον",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1299565,
-        "book_id": "rom",
-        "chapter": "5",
-        "verse": "8",
-        "word_num": 15,
+        "id": 1248012,
+        "book_id": "luk",
+        "chapter": "20",
+        "verse": "31",
+        "word_num": 14,
         "word": "died",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
+    "alignmentTxt": "ἀπέθανον = died",
+    "frequency": 0.8181818181818182,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491680",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "49",
+    "alignment_num": "9",
+    "orig_lang_words": ",1473043,",
+    "target_lang_words": ",1258268,1258269,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473043,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "49",
+        "word_num": 10,
+        "word": "ἀπέθανον",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1258268,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "49",
+        "word_num": 9,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 1258269,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "49",
+        "word_num": 10,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they died",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀπέθανον = they died",
+    "frequency": 0.09090909090909091,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "491841",
+    "book_id": "jhn",
+    "chapter": "6",
+    "verse": "58",
+    "alignment_num": "14",
+    "orig_lang_words": ",1473224,",
+    "target_lang_words": ",1258471,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1473224,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "58",
+        "word_num": 14,
+        "word": "ἀπέθανον",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1258471,
+        "book_id": "jhn",
+        "chapter": "6",
+        "verse": "58",
+        "word_num": 16,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανον = died",
+    "frequency": 0.8181818181818182,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493590",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "53",
+    "alignment_num": "13",
+    "orig_lang_words": ",1475245,",
+    "target_lang_words": ",1260936,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1475245,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "53",
+        "word_num": 13,
+        "word": "ἀπέθανον",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1260936,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "53",
+        "word_num": 15,
+        "word": "died",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανον = died",
+    "frequency": 0.8181818181818182,
+    "matchCount": 9,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2703,7 +3246,1061 @@
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπέθανον = died",
-    "frequency": 0.08411214953271028,
+    "frequency": 0.8181818181818182,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522449",
+    "book_id": "rom",
+    "chapter": "7",
+    "verse": "10",
+    "alignment_num": "2",
+    "orig_lang_words": ",1505448,",
+    "target_lang_words": ",1300772,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505448,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "10",
+        "word_num": 2,
+        "word": "ἀπέθανον",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1300772,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "10",
+        "word_num": 2,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανον = died",
+    "frequency": 0.8181818181818182,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534581",
+    "book_id": "2co",
+    "chapter": "5",
+    "verse": "14",
+    "alignment_num": "15",
+    "orig_lang_words": ",1518170,",
+    "target_lang_words": ",1318793,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518170,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 17,
+        "word": "ἀπέθανον",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1318793,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "14",
+        "word_num": 18,
+        "word": "died",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανον = died",
+    "frequency": 0.8181818181818182,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "538057",
+    "book_id": "gal",
+    "chapter": "2",
+    "verse": "19",
+    "alignment_num": "4",
+    "orig_lang_words": ",1521735,",
+    "target_lang_words": ",1323978,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1521735,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 5,
+        "word": "ἀπέθανον",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1323978,
+        "book_id": "gal",
+        "chapter": "2",
+        "verse": "19",
+        "word_num": 5,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανον = died",
+    "frequency": 0.8181818181818182,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554478",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "13",
+    "alignment_num": "4",
+    "orig_lang_words": ",1538702,",
+    "target_lang_words": ",1347606,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538702,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 2,
+        "word": "ἀπέθανον",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1347606,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 4,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανον = died",
+    "frequency": 0.8181818181818182,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554822",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "37",
+    "alignment_num": "3",
+    "orig_lang_words": ",1539058,",
+    "target_lang_words": ",1348141,1348142,1348143,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539058,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 6,
+        "word": "ἀπέθανον",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1348141,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 14,
+        "word": "they",
+        "occurrence": 3
+      },
+      {
+        "id": 1348142,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 15,
+        "word": "were",
+        "occurrence": 4
+      },
+      {
+        "id": 1348143,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "37",
+        "word_num": 16,
+        "word": "killed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "they were killed",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀπέθανον = they were killed",
+    "frequency": 0.09090909090909091,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "565689",
+    "book_id": "rev",
+    "chapter": "8",
+    "verse": "11",
+    "alignment_num": "14",
+    "orig_lang_words": ",1550837,",
+    "target_lang_words": ",1364108,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1550837,
+        "book_id": "rev",
+        "chapter": "8",
+        "verse": "11",
+        "word_num": 20,
+        "word": "ἀπέθανον",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IAA3,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀπέθανον",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1364108,
+        "book_id": "rev",
+        "chapter": "8",
+        "verse": "11",
+        "word_num": 18,
+        "word": "died",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "died",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀπέθανον = died",
+    "frequency": 0.8181818181818182,
+    "matchCount": 9,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490046",
+    "book_id": "jhn",
+    "chapter": "4",
+    "verse": "47",
+    "alignment_num": "23",
+    "orig_lang_words": ",1471252,",
+    "target_lang_words": ",1256018,1256019,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471252,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "47",
+        "word_num": 25,
+        "word": "ἀποθνῄσκειν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκειν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1256018,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "47",
+        "word_num": 29,
+        "word": "to",
+        "occurrence": 3
+      },
+      {
+        "id": 1256019,
+        "book_id": "jhn",
+        "chapter": "4",
+        "verse": "47",
+        "word_num": 30,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to die",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποθνῄσκειν = to die",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "495763",
+    "book_id": "jhn",
+    "chapter": "11",
+    "verse": "51",
+    "alignment_num": "15",
+    "orig_lang_words": ",1477566,",
+    "target_lang_words": ",1263873,1263874,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1477566,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "51",
+        "word_num": 16,
+        "word": "ἀποθνῄσκειν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκειν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1263873,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "51",
+        "word_num": 19,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1263874,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "51",
+        "word_num": 20,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to die",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποθνῄσκειν = to die",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "496390",
+    "book_id": "jhn",
+    "chapter": "12",
+    "verse": "33",
+    "alignment_num": "7",
+    "orig_lang_words": ",1478246,",
+    "target_lang_words": ",1264723,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1478246,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "33",
+        "word_num": 7,
+        "word": "ἀποθνῄσκειν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκειν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1264723,
+        "book_id": "jhn",
+        "chapter": "12",
+        "verse": "33",
+        "word_num": 12,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "die",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθνῄσκειν = die",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "499927",
+    "book_id": "jhn",
+    "chapter": "18",
+    "verse": "32",
+    "alignment_num": "11",
+    "orig_lang_words": ",1481982,",
+    "target_lang_words": ",1269635,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1481982,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "32",
+        "word_num": 12,
+        "word": "ἀποθνῄσκειν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκειν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1269635,
+        "book_id": "jhn",
+        "chapter": "18",
+        "verse": "32",
+        "word_num": 25,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "die",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθνῄσκειν = die",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522916",
+    "book_id": "rom",
+    "chapter": "8",
+    "verse": "13",
+    "alignment_num": "6",
+    "orig_lang_words": ",1505940,",
+    "target_lang_words": ",1301471,1301472,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505940,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "13",
+        "word_num": 6,
+        "word": "ἀποθνῄσκειν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,NPA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκειν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1301471,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "13",
+        "word_num": 11,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 1301472,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "13",
+        "word_num": 12,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to die",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποθνῄσκειν = to die",
+    "frequency": 0.6,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493035",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "21",
+    "alignment_num": "10",
+    "orig_lang_words": ",1474643,",
+    "target_lang_words": ",1260214,1260215,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1474643,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 14,
+        "word": "ἀποθανεῖσθε",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IFM2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀποθανεῖσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1260214,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 16,
+        "word": "will",
+        "occurrence": 2
+      },
+      {
+        "id": 1260215,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "21",
+        "word_num": 17,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will die",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀποθανεῖσθε = will die",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493088",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "24",
+    "alignment_num": "4",
+    "orig_lang_words": ",1474697,",
+    "target_lang_words": ",1260279,1260280,1260281,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1474697,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "24",
+        "word_num": 4,
+        "word": "ἀποθανεῖσθε",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IFM2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀποθανεῖσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1260279,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "24",
+        "word_num": 6,
+        "word": "you",
+        "occurrence": 2
+      },
+      {
+        "id": 1260280,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "24",
+        "word_num": 7,
+        "word": "will",
+        "occurrence": 1
+      },
+      {
+        "id": 1260281,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "24",
+        "word_num": 8,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "you will die",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀποθανεῖσθε = you will die",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "493097",
+    "book_id": "jhn",
+    "chapter": "8",
+    "verse": "24",
+    "alignment_num": "13",
+    "orig_lang_words": ",1474709,",
+    "target_lang_words": ",1260292,1260293,1260294,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1474709,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "24",
+        "word_num": 16,
+        "word": "ἀποθανεῖσθε",
+        "occurrence": 2,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IFM2,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀποθανεῖσθε",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1260292,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "24",
+        "word_num": 19,
+        "word": "you",
+        "occurrence": 4
+      },
+      {
+        "id": 1260293,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "24",
+        "word_num": 20,
+        "word": "will",
+        "occurrence": 2
+      },
+      {
+        "id": 1260294,
+        "book_id": "jhn",
+        "chapter": "8",
+        "verse": "24",
+        "word_num": 21,
+        "word": "die",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "you will die",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀποθανεῖσθε = you will die",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "495228",
+    "book_id": "jhn",
+    "chapter": "11",
+    "verse": "16",
+    "alignment_num": "12",
+    "orig_lang_words": ",1476985,",
+    "target_lang_words": ",1263152,1263153,1263154,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1476985,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 12,
+        "word": "ἀποθάνωμεν",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,SAA1,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀποθάνωμεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1263152,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 17,
+        "word": "we",
+        "occurrence": 1
+      },
+      {
+        "id": 1263153,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 18,
+        "word": "may",
+        "occurrence": 1
+      },
+      {
+        "id": 1263154,
+        "book_id": "jhn",
+        "chapter": "11",
+        "verse": "16",
+        "word_num": 19,
+        "word": "die",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "we may die",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀποθάνωμεν = we may die",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501888",
+    "book_id": "jhn",
+    "chapter": "21",
+    "verse": "23",
+    "alignment_num": "10",
+    "orig_lang_words": ",1484092,",
+    "target_lang_words": ",1272329,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484092,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "23",
+        "word_num": 13,
+        "word": "ἀποθνῄσκει",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1272329,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "23",
+        "word_num": 10,
+        "word": "would",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "would",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθνῄσκει = would",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "501897",
+    "book_id": "jhn",
+    "chapter": "21",
+    "verse": "23",
+    "alignment_num": "19",
+    "orig_lang_words": ",1484101,",
+    "target_lang_words": ",1272343,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1484101,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "23",
+        "word_num": 22,
+        "word": "ἀποθνῄσκει",
+        "occurrence": 2,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1272343,
+        "book_id": "jhn",
+        "chapter": "21",
+        "verse": "23",
+        "word_num": 24,
+        "word": "would",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "would",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθνῄσκει = would",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522041",
+    "book_id": "rom",
+    "chapter": "6",
+    "verse": "9",
+    "alignment_num": "6",
+    "orig_lang_words": ",1505001,",
+    "target_lang_words": ",1300103,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505001,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 7,
+        "word": "ἀποθνῄσκει",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1300103,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "9",
+        "word_num": 11,
+        "word": "he",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "he",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθνῄσκει = he",
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525269",
+    "book_id": "rom",
+    "chapter": "14",
+    "verse": "7",
+    "alignment_num": "7",
+    "orig_lang_words": ",1508498,",
+    "target_lang_words": ",1305145,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508498,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 8,
+        "word": "ἀποθνῄσκει",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1305145,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "7",
+        "word_num": 9,
+        "word": "dies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "dies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθνῄσκει = dies",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554107",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "28",
+    "alignment_num": "4",
+    "orig_lang_words": ",1538316,",
+    "target_lang_words": ",1347020,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538316,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "28",
+        "word_num": 11,
+        "word": "ἀποθνῄσκει",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IPA3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκει",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1347020,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "28",
+        "word_num": 8,
+        "word": "dies",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "dies",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθνῄσκει = dies",
+    "frequency": 0.4,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "521628",
+    "book_id": "rom",
+    "chapter": "5",
+    "verse": "7",
+    "alignment_num": "2",
+    "orig_lang_words": ",1504549,",
+    "target_lang_words": ",1299532,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1504549,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 5,
+        "word": "ἀποθανεῖται",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IFM3,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθανεῖται",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1299532,
+        "book_id": "rom",
+        "chapter": "5",
+        "verse": "7",
+        "word_num": 2,
+        "word": "will",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "will",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθανεῖται = will",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2747,69 +4344,8 @@
     "targetWordsTxt": "We",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀπεθάνομεν = We",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522020",
-    "book_id": "rom",
-    "chapter": "6",
-    "verse": "7",
-    "alignment_num": "2",
-    "orig_lang_words": ",1504979,",
-    "target_lang_words": ",1300065,1300066,1300067,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1504979,
-        "book_id": "rom",
-        "chapter": "6",
-        "verse": "7",
-        "word_num": 2,
-        "word": "ἀποθανὼν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,PAA,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανὼν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1300065,
-        "book_id": "rom",
-        "chapter": "6",
-        "verse": "7",
-        "word_num": 2,
-        "word": "who",
-        "occurrence": 1
-      },
-      {
-        "id": 1300066,
-        "book_id": "rom",
-        "chapter": "6",
-        "verse": "7",
-        "word_num": 3,
-        "word": "has",
-        "occurrence": 1
-      },
-      {
-        "id": 1300067,
-        "book_id": "rom",
-        "chapter": "6",
-        "verse": "7",
-        "word_num": 4,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "who has died",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀποθανὼν = who has died",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -2871,245 +4407,143 @@
     "targetWordsTxt": "we have died",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀπεθάνομεν = we have died",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "522041",
+    "id": "522020",
     "book_id": "rom",
     "chapter": "6",
-    "verse": "9",
-    "alignment_num": "6",
-    "orig_lang_words": ",1505001,",
-    "target_lang_words": ",1300103,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505001,
-        "book_id": "rom",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 7,
-        "word": "ἀποθνῄσκει",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1300103,
-        "book_id": "rom",
-        "chapter": "6",
-        "verse": "9",
-        "word_num": 11,
-        "word": "he",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "he",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκει = he",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522051",
-    "book_id": "rom",
-    "chapter": "6",
-    "verse": "10",
+    "verse": "7",
     "alignment_num": "2",
-    "orig_lang_words": ",1505008,",
-    "target_lang_words": ",1300122,1300123,",
+    "orig_lang_words": ",1504979,",
+    "target_lang_words": ",1300065,1300066,1300067,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1505008,
+        "id": 1504979,
         "book_id": "rom",
         "chapter": "6",
-        "verse": "10",
+        "verse": "7",
         "word_num": 2,
-        "word": "ἀπέθανεν",
+        "word": "ἀποθανὼν",
         "occurrence": 1,
         "strong": "G05990",
         "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
+        "morph": "Gr,V,PAA,NMS,"
       }
     ],
-    "origWordsTxt": "ἀπέθανεν",
+    "origWordsTxt": "ἀποθανὼν",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 2,
     "targetWords": [
       {
-        "id": 1300122,
+        "id": 1300065,
         "book_id": "rom",
         "chapter": "6",
-        "verse": "10",
-        "word_num": 7,
-        "word": "he",
+        "verse": "7",
+        "word_num": 2,
+        "word": "who",
         "occurrence": 1
       },
       {
-        "id": 1300123,
+        "id": 1300066,
         "book_id": "rom",
         "chapter": "6",
-        "verse": "10",
-        "word_num": 8,
+        "verse": "7",
+        "word_num": 3,
+        "word": "has",
+        "occurrence": 1
+      },
+      {
+        "id": 1300067,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "7",
+        "word_num": 4,
         "word": "died",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "he died",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀπέθανεν = he died",
-    "frequency": 0.028037383177570093,
+    "targetWordsTxt": "who has died",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀποθανὼν = who has died",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "522052",
-    "book_id": "rom",
-    "chapter": "6",
-    "verse": "10",
-    "alignment_num": "3",
-    "orig_lang_words": ",1505011,",
-    "target_lang_words": ",1300124,1300125,",
+    "id": "554325",
+    "book_id": "heb",
+    "chapter": "11",
+    "verse": "4",
+    "alignment_num": "26",
+    "orig_lang_words": ",1538530,",
+    "target_lang_words": ",1347352,1347353,1347354,1347355,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1505011,
-        "book_id": "rom",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 5,
-        "word": "ἀπέθανεν",
-        "occurrence": 2,
+        "id": 1538530,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 24,
+        "word": "ἀποθανὼν",
+        "occurrence": 1,
         "strong": "G05990",
         "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
+        "morph": "Gr,V,PAA,NMS,"
       }
     ],
-    "origWordsTxt": "ἀπέθανεν",
+    "origWordsTxt": "ἀποθανὼν",
     "alignmentOrigWords": 1,
-    "targetSpan": 1,
+    "targetSpan": 3,
     "targetWords": [
       {
-        "id": 1300124,
-        "book_id": "rom",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 9,
-        "word": "he",
-        "occurrence": 2
+        "id": 1347352,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 34,
+        "word": "even",
+        "occurrence": 1
       },
       {
-        "id": 1300125,
-        "book_id": "rom",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 10,
+        "id": 1347353,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 35,
+        "word": "though",
+        "occurrence": 1
+      },
+      {
+        "id": 1347354,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 36,
+        "word": "he",
+        "occurrence": 3
+      },
+      {
+        "id": 1347355,
+        "book_id": "heb",
+        "chapter": "11",
+        "verse": "4",
+        "word_num": 37,
         "word": "died",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "he died",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀπέθανεν = he died",
-    "frequency": 0.028037383177570093,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522294",
-    "book_id": "rom",
-    "chapter": "7",
-    "verse": "2",
-    "alignment_num": "13",
-    "orig_lang_words": ",1505277,",
-    "target_lang_words": ",1300528,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505277,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "2",
-        "word_num": 11,
-        "word": "ἀποθάνῃ",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθάνῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1300528,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "2",
-        "word_num": 18,
-        "word": "dies",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "dies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθάνῃ = dies",
-    "frequency": 0.04672897196261682,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522315",
-    "book_id": "rom",
-    "chapter": "7",
-    "verse": "3",
-    "alignment_num": "15",
-    "orig_lang_words": ",1505299,",
-    "target_lang_words": ",1300560,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505299,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 13,
-        "word": "ἀποθάνῃ",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,SAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθάνῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1300560,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "3",
-        "word_num": 23,
-        "word": "dies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "dies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθάνῃ = dies",
-    "frequency": 0.04672897196261682,
+    "targetWordsTxt": "even though he died",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἀποθανὼν = even though he died",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3171,104 +4605,8 @@
     "targetWordsTxt": "We have died",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀποθανόντες = We have died",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522449",
-    "book_id": "rom",
-    "chapter": "7",
-    "verse": "10",
-    "alignment_num": "2",
-    "orig_lang_words": ",1505448,",
-    "target_lang_words": ",1300772,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505448,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "10",
-        "word_num": 2,
-        "word": "ἀπέθανον",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1300772,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "10",
-        "word_num": 2,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανον = died",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522916",
-    "book_id": "rom",
-    "chapter": "8",
-    "verse": "13",
-    "alignment_num": "6",
-    "orig_lang_words": ",1505940,",
-    "target_lang_words": ",1301471,1301472,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505940,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "13",
-        "word_num": 6,
-        "word": "ἀποθνῄσκειν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NPA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκειν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1301471,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "13",
-        "word_num": 11,
-        "word": "to",
-        "occurrence": 2
-      },
-      {
-        "id": 1301472,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "13",
-        "word_num": 12,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθνῄσκειν = to die",
-    "frequency": 0.028037383177570093,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3360,51 +4698,8 @@
     "targetWordsTxt": "is the one who died",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ὁ ἀποθανών = is the one who died",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525269",
-    "book_id": "rom",
-    "chapter": "14",
-    "verse": "7",
-    "alignment_num": "7",
-    "orig_lang_words": ",1508498,",
-    "target_lang_words": ",1305145,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508498,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "7",
-        "word_num": 8,
-        "word": "ἀποθνῄσκει",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1305145,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "7",
-        "word_num": 9,
-        "word": "dies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "dies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκει = dies",
-    "frequency": 0.018691588785046728,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3457,7 +4752,53 @@
     "targetWordsTxt": "we die",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθνῄσκωμεν = we die",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525286",
+    "book_id": "rom",
+    "chapter": "14",
+    "verse": "8",
+    "alignment_num": "15",
+    "orig_lang_words": ",1508518,",
+    "target_lang_words": ",1305171,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508518,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "8",
+        "word_num": 19,
+        "word": "ἀποθνῄσκωμεν",
+        "occurrence": 2,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,SPA1,,P,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκωμεν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1305171,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "8",
+        "word_num": 23,
+        "word": "die",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "die",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθνῄσκωμεν = die",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3510,377 +4851,8 @@
     "targetWordsTxt": "we die",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθνῄσκομεν = we die",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525286",
-    "book_id": "rom",
-    "chapter": "14",
-    "verse": "8",
-    "alignment_num": "15",
-    "orig_lang_words": ",1508518,",
-    "target_lang_words": ",1305171,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508518,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "8",
-        "word_num": 19,
-        "word": "ἀποθνῄσκωμεν",
-        "occurrence": 2,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,SPA1,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκωμεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1305171,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "8",
-        "word_num": 23,
-        "word": "die",
-        "occurrence": 3
-      }
-    ],
-    "targetWordsTxt": "die",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκωμεν = die",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525294",
-    "book_id": "rom",
-    "chapter": "14",
-    "verse": "9",
-    "alignment_num": "4",
-    "orig_lang_words": ",1508526,",
-    "target_lang_words": ",1305182,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508526,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "9",
-        "word_num": 4,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1305182,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "9",
-        "word_num": 5,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525402",
-    "book_id": "rom",
-    "chapter": "14",
-    "verse": "15",
-    "alignment_num": "21",
-    "orig_lang_words": ",1508641,",
-    "target_lang_words": ",1305345,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508641,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 21,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1305345,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "15",
-        "word_num": 26,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529212",
-    "book_id": "1co",
-    "chapter": "8",
-    "verse": "11",
-    "alignment_num": "7",
-    "orig_lang_words": ",1512647,",
-    "target_lang_words": ",1310938,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1512647,
-        "book_id": "1co",
-        "chapter": "8",
-        "verse": "11",
-        "word_num": 13,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1310938,
-        "book_id": "1co",
-        "chapter": "8",
-        "verse": "11",
-        "word_num": 11,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "529496",
-    "book_id": "1co",
-    "chapter": "9",
-    "verse": "15",
-    "alignment_num": "20",
-    "orig_lang_words": ",1512934,",
-    "target_lang_words": ",1311354,1311355,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1512934,
-        "book_id": "1co",
-        "chapter": "9",
-        "verse": "15",
-        "word_num": 19,
-        "word": "ἀποθανεῖν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1311354,
-        "book_id": "1co",
-        "chapter": "9",
-        "verse": "15",
-        "word_num": 31,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1311355,
-        "book_id": "1co",
-        "chapter": "9",
-        "verse": "15",
-        "word_num": 32,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθανεῖν = to die",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "531944",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "3",
-    "alignment_num": "11",
-    "orig_lang_words": ",1515438,",
-    "target_lang_words": ",1315032,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515438,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "3",
-        "word_num": 10,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1315032,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "3",
-        "word_num": 15,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532186",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "22",
-    "alignment_num": "5",
-    "orig_lang_words": ",1515691,",
-    "target_lang_words": ",1315386,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515691,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "22",
-        "word_num": 6,
-        "word": "ἀποθνῄσκουσιν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IPA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκουσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1315386,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "22",
-        "word_num": 5,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "die",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκουσιν = die",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "532310",
-    "book_id": "1co",
-    "chapter": "15",
-    "verse": "31",
-    "alignment_num": "0",
-    "orig_lang_words": ",1515825,",
-    "target_lang_words": ",1315565,1315566,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1515825,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 2,
-        "word": "ἀποθνῄσκω",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IPA1,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκω",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1315565,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 0,
-        "word": "I",
-        "occurrence": 1
-      },
-      {
-        "id": 1315566,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "31",
-        "word_num": 1,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "I die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθνῄσκω = I die",
-    "frequency": 0.009345794392523364,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3933,201 +4905,107 @@
     "targetWordsTxt": "we die",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθνῄσκομεν = we die",
-    "frequency": 0.018691588785046728,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "532385",
+    "id": "532186",
     "book_id": "1co",
     "chapter": "15",
-    "verse": "36",
-    "alignment_num": "7",
-    "orig_lang_words": ",1515899,",
-    "target_lang_words": ",1315680,1315681,",
+    "verse": "22",
+    "alignment_num": "5",
+    "orig_lang_words": ",1515691,",
+    "target_lang_words": ",1315386,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1515899,
+        "id": 1515691,
         "book_id": "1co",
         "chapter": "15",
-        "verse": "36",
-        "word_num": 8,
-        "word": "ἀποθάνῃ",
+        "verse": "22",
+        "word_num": 6,
+        "word": "ἀποθνῄσκουσιν",
         "occurrence": 1,
         "strong": "G05990",
         "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,SAA3,,S,"
+        "morph": "Gr,V,IPA3,,P,"
       }
     ],
-    "origWordsTxt": "ἀποθάνῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1315680,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "36",
-        "word_num": 13,
-        "word": "it",
-        "occurrence": 1
-      },
-      {
-        "id": 1315681,
-        "book_id": "1co",
-        "chapter": "15",
-        "verse": "36",
-        "word_num": 14,
-        "word": "dies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "it dies",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθάνῃ = it dies",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534576",
-    "book_id": "2co",
-    "chapter": "5",
-    "verse": "14",
-    "alignment_num": "10",
-    "orig_lang_words": ",1518166,",
-    "target_lang_words": ",1318788,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518166,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 13,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
+    "origWordsTxt": "ἀποθνῄσκουσιν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1318788,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 13,
-        "word": "died",
+        "id": 1315386,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "22",
+        "word_num": 5,
+        "word": "die",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "died",
+    "targetWordsTxt": "die",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
+    "alignmentTxt": "ἀποθνῄσκουσιν = die",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "534581",
-    "book_id": "2co",
-    "chapter": "5",
-    "verse": "14",
-    "alignment_num": "15",
-    "orig_lang_words": ",1518170,",
-    "target_lang_words": ",1318793,",
+    "id": "532310",
+    "book_id": "1co",
+    "chapter": "15",
+    "verse": "31",
+    "alignment_num": "0",
+    "orig_lang_words": ",1515825,",
+    "target_lang_words": ",1315565,1315566,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1518170,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 17,
-        "word": "ἀπέθανον",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1318793,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "14",
-        "word_num": 18,
-        "word": "died",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανον = died",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534583",
-    "book_id": "2co",
-    "chapter": "5",
-    "verse": "15",
-    "alignment_num": "1",
-    "orig_lang_words": ",1518174,",
-    "target_lang_words": ",1318795,1318796,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518174,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "15",
-        "word_num": 3,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1318795,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "15",
-        "word_num": 1,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1318796,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "15",
+        "id": 1515825,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "31",
         "word_num": 2,
-        "word": "died",
+        "word": "ἀποθνῄσκω",
+        "occurrence": 1,
+        "strong": "G05990",
+        "lemma": "ἀποθνῄσκω",
+        "morph": "Gr,V,IPA1,,S,"
+      }
+    ],
+    "origWordsTxt": "ἀποθνῄσκω",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1315565,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 0,
+        "word": "I",
+        "occurrence": 1
+      },
+      {
+        "id": 1315566,
+        "book_id": "1co",
+        "chapter": "15",
+        "verse": "31",
+        "word_num": 1,
+        "word": "die",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "he died",
+    "targetWordsTxt": "I die",
     "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀπέθανεν = he died",
-    "frequency": 0.028037383177570093,
+    "alignmentTxt": "ἀποθνῄσκω = I die",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4180,7 +5058,8 @@
     "targetWordsTxt": "who died",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀποθανόντι = who died",
-    "frequency": 0.009345794392523364,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4224,160 +5103,98 @@
     "targetWordsTxt": "dying",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποθνῄσκοντες = dying",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "538057",
-    "book_id": "gal",
-    "chapter": "2",
-    "verse": "19",
-    "alignment_num": "4",
-    "orig_lang_words": ",1521735,",
-    "target_lang_words": ",1323978,",
+    "id": "552689",
+    "book_id": "heb",
+    "chapter": "7",
+    "verse": "8",
+    "alignment_num": "3",
+    "orig_lang_words": ",1536822,",
+    "target_lang_words": ",1344868,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1521735,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "19",
-        "word_num": 5,
-        "word": "ἀπέθανον",
+        "id": 1536822,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 4,
+        "word": "ἀποθνῄσκοντες",
         "occurrence": 1,
         "strong": "G05990",
         "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA1,,S,"
+        "morph": "Gr,V,PPA,NMP,"
       }
     ],
-    "origWordsTxt": "ἀπέθανον",
+    "origWordsTxt": "ἀποθνῄσκοντες",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1323978,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "19",
-        "word_num": 5,
-        "word": "died",
+        "id": 1344868,
+        "book_id": "heb",
+        "chapter": "7",
+        "verse": "8",
+        "word_num": 3,
+        "word": "mortal",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "died",
+    "targetWordsTxt": "mortal",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανον = died",
-    "frequency": 0.08411214953271028,
+    "alignmentTxt": "ἀποθνῄσκοντες = mortal",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "538107",
-    "book_id": "gal",
-    "chapter": "2",
-    "verse": "21",
-    "alignment_num": "13",
-    "orig_lang_words": ",1521786,",
-    "target_lang_words": ",1324055,",
+    "id": "567990",
+    "book_id": "rev",
+    "chapter": "14",
+    "verse": "13",
+    "alignment_num": "11",
+    "orig_lang_words": ",1553421,",
+    "target_lang_words": ",1367193,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1521786,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "21",
+        "id": 1553421,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "13",
         "word_num": 14,
-        "word": "ἀπέθανεν",
+        "word": "ἀποθνῄσκοντες",
         "occurrence": 1,
         "strong": "G05990",
         "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
+        "morph": "Gr,V,PPA,NMP,"
       }
     ],
-    "origWordsTxt": "ἀπέθανεν",
+    "origWordsTxt": "ἀποθνῄσκοντες",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1324055,
-        "book_id": "gal",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 20,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542256",
-    "book_id": "php",
-    "chapter": "1",
-    "verse": "21",
-    "alignment_num": "5",
-    "orig_lang_words": ",1526021,1526022,",
-    "target_lang_words": ",1329794,1329795,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1526021,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 6,
-        "word": "τὸ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,RD,,,,NNS,"
-      },
-      {
-        "id": 1526022,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 7,
-        "word": "ἀποθανεῖν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "τὸ ἀποθανεῖν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1329794,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 8,
-        "word": "to",
-        "occurrence": 3
-      },
-      {
-        "id": 1329795,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "21",
-        "word_num": 9,
+        "id": 1367193,
+        "book_id": "rev",
+        "chapter": "14",
+        "verse": "13",
+        "word_num": 15,
         "word": "die",
         "occurrence": 1
       }
     ],
-    "targetWordsTxt": "to die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τὸ ἀποθανεῖν = to die",
-    "frequency": 0.018691588785046728,
+    "targetWordsTxt": "die",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀποθνῄσκοντες = die",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4430,7 +5247,8 @@
     "targetWordsTxt": "you died",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀπεθάνετε = you died",
-    "frequency": 0.009345794392523364,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4492,51 +5310,8 @@
     "targetWordsTxt": "you have died",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀπεθάνετε = you have died",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545967",
-    "book_id": "1th",
-    "chapter": "4",
-    "verse": "14",
-    "alignment_num": "5",
-    "orig_lang_words": ",1529959,",
-    "target_lang_words": ",1335171,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529959,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 5,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1335171,
-        "book_id": "1th",
-        "chapter": "4",
-        "verse": "14",
-        "word_num": 6,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4628,440 +5403,8 @@
     "targetWordsTxt": "It is he who died",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τοῦ ἀποθανόντος = It is he who died",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "552689",
-    "book_id": "heb",
-    "chapter": "7",
-    "verse": "8",
-    "alignment_num": "3",
-    "orig_lang_words": ",1536822,",
-    "target_lang_words": ",1344868,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1536822,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "8",
-        "word_num": 4,
-        "word": "ἀποθνῄσκοντες",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,PPA,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκοντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1344868,
-        "book_id": "heb",
-        "chapter": "7",
-        "verse": "8",
-        "word_num": 3,
-        "word": "mortal",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "mortal",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκοντες = mortal",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553722",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "27",
-    "alignment_num": "3",
-    "orig_lang_words": ",1537900,",
-    "target_lang_words": ",1346405,1346406,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537900,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "27",
-        "word_num": 7,
-        "word": "ἀποθανεῖν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1346405,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "27",
-        "word_num": 5,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1346406,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "27",
-        "word_num": 6,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθανεῖν = to die",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554107",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "28",
-    "alignment_num": "4",
-    "orig_lang_words": ",1538316,",
-    "target_lang_words": ",1347020,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538316,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "28",
-        "word_num": 11,
-        "word": "ἀποθνῄσκει",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IPA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκει",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1347020,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "28",
-        "word_num": 8,
-        "word": "dies",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "dies",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκει = dies",
-    "frequency": 0.018691588785046728,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554325",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "4",
-    "alignment_num": "26",
-    "orig_lang_words": ",1538530,",
-    "target_lang_words": ",1347352,1347353,1347354,1347355,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538530,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 24,
-        "word": "ἀποθανὼν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,PAA,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανὼν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1347352,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 34,
-        "word": "even",
-        "occurrence": 1
-      },
-      {
-        "id": 1347353,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 35,
-        "word": "though",
-        "occurrence": 1
-      },
-      {
-        "id": 1347354,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 36,
-        "word": "he",
-        "occurrence": 3
-      },
-      {
-        "id": 1347355,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "4",
-        "word_num": 37,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "even though he died",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "ἀποθανὼν = even though he died",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554478",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "13",
-    "alignment_num": "4",
-    "orig_lang_words": ",1538702,",
-    "target_lang_words": ",1347606,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538702,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 2,
-        "word": "ἀπέθανον",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1347606,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 4,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανον = died",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554583",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "21",
-    "alignment_num": "2",
-    "orig_lang_words": ",1538816,",
-    "target_lang_words": ",1347773,1347774,1347775,1347776,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538816,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "21",
-        "word_num": 2,
-        "word": "ἀποθνῄσκων",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,PPA,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκων",
-    "alignmentOrigWords": 1,
-    "targetSpan": 3,
-    "targetWords": [
-      {
-        "id": 1347773,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "21",
-        "word_num": 3,
-        "word": "when",
-        "occurrence": 1
-      },
-      {
-        "id": 1347774,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "21",
-        "word_num": 4,
-        "word": "he",
-        "occurrence": 1
-      },
-      {
-        "id": 1347775,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "21",
-        "word_num": 5,
-        "word": "was",
-        "occurrence": 1
-      },
-      {
-        "id": 1347776,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "21",
-        "word_num": 6,
-        "word": "dying",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "when he was dying",
-    "alignmentTargetWords": 4,
-    "alignmentTxt": "ἀποθνῄσκων = when he was dying",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554822",
-    "book_id": "heb",
-    "chapter": "11",
-    "verse": "37",
-    "alignment_num": "3",
-    "orig_lang_words": ",1539058,",
-    "target_lang_words": ",1348141,1348142,1348143,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539058,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "37",
-        "word_num": 6,
-        "word": "ἀπέθανον",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1348141,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "37",
-        "word_num": 14,
-        "word": "they",
-        "occurrence": 3
-      },
-      {
-        "id": 1348142,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "37",
-        "word_num": 15,
-        "word": "were",
-        "occurrence": 4
-      },
-      {
-        "id": 1348143,
-        "book_id": "heb",
-        "chapter": "11",
-        "verse": "37",
-        "word_num": 16,
-        "word": "killed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "they were killed",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀπέθανον = they were killed",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558371",
-    "book_id": "1pe",
-    "chapter": "3",
-    "verse": "18",
-    "alignment_num": "7",
-    "orig_lang_words": ",1542782,",
-    "target_lang_words": ",1353461,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542782,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 6,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1353461,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "18",
-        "word_num": 11,
-        "word": "suffered",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "suffered",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = suffered",
-    "frequency": 0.009345794392523364,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -5105,60 +5448,8 @@
     "targetWordsTxt": "dead",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀποθανόντα = dead",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "563716",
-    "book_id": "rev",
-    "chapter": "3",
-    "verse": "2",
-    "alignment_num": "7",
-    "orig_lang_words": ",1548664,",
-    "target_lang_words": ",1361389,1361390,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1548664,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 8,
-        "word": "ἀποθανεῖν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1361389,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 9,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1361390,
-        "book_id": "rev",
-        "chapter": "3",
-        "verse": "2",
-        "word_num": 10,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθανεῖν = to die",
-    "frequency": 0.07476635514018691,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -5214,192 +5505,8 @@
     "targetWordsTxt": "died",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ ἀπέθανε = died",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565689",
-    "book_id": "rev",
-    "chapter": "8",
-    "verse": "11",
-    "alignment_num": "14",
-    "orig_lang_words": ",1550837,",
-    "target_lang_words": ",1364108,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1550837,
-        "book_id": "rev",
-        "chapter": "8",
-        "verse": "11",
-        "word_num": 20,
-        "word": "ἀπέθανον",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,P,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανον",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1364108,
-        "book_id": "rev",
-        "chapter": "8",
-        "verse": "11",
-        "word_num": 18,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανον = died",
-    "frequency": 0.08411214953271028,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "565891",
-    "book_id": "rev",
-    "chapter": "9",
-    "verse": "6",
-    "alignment_num": "12",
-    "orig_lang_words": ",1551054,",
-    "target_lang_words": ",1364394,1364395,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1551054,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "6",
-        "word_num": 17,
-        "word": "ἀποθανεῖν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,NAA,,,,,"
-      }
-    ],
-    "origWordsTxt": "ἀποθανεῖν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1364394,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "6",
-        "word_num": 16,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1364395,
-        "book_id": "rev",
-        "chapter": "9",
-        "verse": "6",
-        "word_num": 17,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to die",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀποθανεῖν = to die",
-    "frequency": 0.07476635514018691,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "567990",
-    "book_id": "rev",
-    "chapter": "14",
-    "verse": "13",
-    "alignment_num": "11",
-    "orig_lang_words": ",1553421,",
-    "target_lang_words": ",1367193,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553421,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "13",
-        "word_num": 14,
-        "word": "ἀποθνῄσκοντες",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,PPA,NMP,"
-      }
-    ],
-    "origWordsTxt": "ἀποθνῄσκοντες",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367193,
-        "book_id": "rev",
-        "chapter": "14",
-        "verse": "13",
-        "word_num": 15,
-        "word": "die",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "die",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀποθνῄσκοντες = die",
-    "frequency": 0.009345794392523364,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "568448",
-    "book_id": "rev",
-    "chapter": "16",
-    "verse": "3",
-    "alignment_num": "19",
-    "orig_lang_words": ",1553919,",
-    "target_lang_words": ",1367787,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1553919,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "3",
-        "word_num": 19,
-        "word": "ἀπέθανεν",
-        "occurrence": 1,
-        "strong": "G05990",
-        "lemma": "ἀποθνῄσκω",
-        "morph": "Gr,V,IAA3,,S,"
-      }
-    ],
-    "origWordsTxt": "ἀπέθανεν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1367787,
-        "book_id": "rev",
-        "chapter": "16",
-        "verse": "3",
-        "word_num": 28,
-        "word": "died",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "died",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀπέθανεν = died",
-    "frequency": 0.1588785046728972,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

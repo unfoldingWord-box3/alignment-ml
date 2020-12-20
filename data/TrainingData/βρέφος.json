@@ -39,7 +39,8 @@
     "targetWordsTxt": "baby",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βρέφος = baby",
-    "frequency": 0.375,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "baby",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βρέφος = baby",
-    "frequency": 0.375,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +138,8 @@
     "targetWordsTxt": "a baby",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βρέφος = a baby",
-    "frequency": 0.125,
+    "frequency": 0.25,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -180,7 +183,8 @@
     "targetWordsTxt": "baby",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βρέφος = baby",
-    "frequency": 0.375,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -224,7 +228,8 @@
     "targetWordsTxt": "infants",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βρέφη = infants",
-    "frequency": 0.25,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -277,51 +282,8 @@
     "targetWordsTxt": "newborn infants",
     "alignmentTargetWords": 2,
     "alignmentTxt": "βρέφη = newborn infants",
-    "frequency": 0.125,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549628",
-    "book_id": "2ti",
-    "chapter": "3",
-    "verse": "15",
-    "alignment_num": "3",
-    "orig_lang_words": ",1533649,",
-    "target_lang_words": ",1340373,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533649,
-        "book_id": "2ti",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 3,
-        "word": "βρέφους",
-        "occurrence": 1,
-        "strong": "G10250",
-        "lemma": "βρέφος",
-        "morph": "Gr,N,,,,,GNS,"
-      }
-    ],
-    "origWordsTxt": "βρέφους",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1340373,
-        "book_id": "2ti",
-        "chapter": "3",
-        "verse": "15",
-        "word_num": 3,
-        "word": "childhood",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "childhood",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "βρέφους = childhood",
-    "frequency": 0.125,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -365,7 +327,53 @@
     "targetWordsTxt": "infants",
     "alignmentTargetWords": 1,
     "alignmentTxt": "βρέφη = infants",
-    "frequency": 0.25,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549628",
+    "book_id": "2ti",
+    "chapter": "3",
+    "verse": "15",
+    "alignment_num": "3",
+    "orig_lang_words": ",1533649,",
+    "target_lang_words": ",1340373,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533649,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 3,
+        "word": "βρέφους",
+        "occurrence": 1,
+        "strong": "G10250",
+        "lemma": "βρέφος",
+        "morph": "Gr,N,,,,,GNS,"
+      }
+    ],
+    "origWordsTxt": "βρέφους",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340373,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "15",
+        "word_num": 3,
+        "word": "childhood",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "childhood",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "βρέφους = childhood",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

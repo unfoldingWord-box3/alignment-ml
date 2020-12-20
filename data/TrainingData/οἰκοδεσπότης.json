@@ -66,7 +66,53 @@
     "targetWordsTxt": "owner of that house",
     "alignmentTargetWords": 4,
     "alignmentTxt": "οἰκοδεσπότῃ = owner of that house",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "484957",
+    "book_id": "luk",
+    "chapter": "22",
+    "verse": "11",
+    "alignment_num": "2",
+    "orig_lang_words": ",1465914,",
+    "target_lang_words": ",1249275,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1465914,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 3,
+        "word": "οἰκοδεσπότῃ",
+        "occurrence": 1,
+        "strong": "G36170",
+        "lemma": "οἰκοδεσπότης",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "οἰκοδεσπότῃ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1249275,
+        "book_id": "luk",
+        "chapter": "22",
+        "verse": "11",
+        "word_num": 2,
+        "word": "to",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "οἰκοδεσπότῃ = to",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -137,7 +183,8 @@
     "targetWordsTxt": "master of the house",
     "alignmentTargetWords": 4,
     "alignmentTxt": "οἰκοδεσπότης = master of the house",
-    "frequency": 0.4,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -208,7 +255,8 @@
     "targetWordsTxt": "owner of the house",
     "alignmentTargetWords": 4,
     "alignmentTxt": "οἰκοδεσπότης = owner of the house",
-    "frequency": 0.2,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -279,51 +327,8 @@
     "targetWordsTxt": "master of the house",
     "alignmentTargetWords": 4,
     "alignmentTxt": "οἰκοδεσπότης = master of the house",
-    "frequency": 0.4,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "484957",
-    "book_id": "luk",
-    "chapter": "22",
-    "verse": "11",
-    "alignment_num": "2",
-    "orig_lang_words": ",1465914,",
-    "target_lang_words": ",1249275,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1465914,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 3,
-        "word": "οἰκοδεσπότῃ",
-        "occurrence": 1,
-        "strong": "G36170",
-        "lemma": "οἰκοδεσπότης",
-        "morph": "Gr,N,,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "οἰκοδεσπότῃ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1249275,
-        "book_id": "luk",
-        "chapter": "22",
-        "verse": "11",
-        "word_num": 2,
-        "word": "to",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "οἰκοδεσπότῃ = to",
-    "frequency": 0.2,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

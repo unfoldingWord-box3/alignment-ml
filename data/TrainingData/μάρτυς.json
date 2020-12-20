@@ -57,7 +57,8 @@
     "targetWordsTxt": "by the witnesses",
     "alignmentTargetWords": 3,
     "alignmentTxt": "μάρτυσι = by the witnesses",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -110,7 +111,8 @@
     "targetWordsTxt": "a witness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μάρτυς = a witness",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.25,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -154,7 +156,8 @@
     "targetWordsTxt": "witness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μάρτυς = witness",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.375,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +201,8 @@
     "targetWordsTxt": "witness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μάρτυς = witness",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.375,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -260,51 +264,8 @@
     "targetWordsTxt": "is our witness",
     "alignmentTargetWords": 3,
     "alignmentTxt": "μάρτυς = is our witness",
-    "frequency": 0.09090909090909091,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554114",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "28",
-    "alignment_num": "11",
-    "orig_lang_words": ",1538315,",
-    "target_lang_words": ",1347030,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538315,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "28",
-        "word_num": 10,
-        "word": "μάρτυσιν",
-        "occurrence": 1,
-        "strong": "G31440",
-        "lemma": "μάρτυς",
-        "morph": "Gr,N,,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "μάρτυσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1347030,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "28",
-        "word_num": 18,
-        "word": "witnesses",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "witnesses",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "μάρτυσιν = witnesses",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -357,7 +318,8 @@
     "targetWordsTxt": "a witness",
     "alignmentTargetWords": 2,
     "alignmentTxt": "μάρτυς = a witness",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.25,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -401,7 +363,8 @@
     "targetWordsTxt": "witness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μάρτυς = witness",
-    "frequency": 0.2727272727272727,
+    "frequency": 0.375,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -457,7 +420,8 @@
     "targetWordsTxt": "witness",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ μάρτυς = witness",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -501,7 +465,53 @@
     "targetWordsTxt": "reliable",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μάρτυς = reliable",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554114",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "28",
+    "alignment_num": "11",
+    "orig_lang_words": ",1538315,",
+    "target_lang_words": ",1347030,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538315,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "28",
+        "word_num": 10,
+        "word": "μάρτυσιν",
+        "occurrence": 1,
+        "strong": "G31440",
+        "lemma": "μάρτυς",
+        "morph": "Gr,N,,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "μάρτυσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1347030,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "28",
+        "word_num": 18,
+        "word": "witnesses",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "witnesses",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "μάρτυσιν = witnesses",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -545,7 +555,8 @@
     "targetWordsTxt": "witnesses",
     "alignmentTargetWords": 1,
     "alignmentTxt": "μάρτυσίν = witnesses",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

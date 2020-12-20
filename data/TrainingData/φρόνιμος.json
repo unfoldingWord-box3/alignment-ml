@@ -60,7 +60,8 @@
     "targetWordsTxt": "and wise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ φρόνιμος = and wise",
-    "frequency": 0.16666666666666666,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -104,7 +105,8 @@
     "targetWordsTxt": "wise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φρόνιμοι = wise",
-    "frequency": 0.5,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -148,7 +150,8 @@
     "targetWordsTxt": "wise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "φρόνιμοι = wise",
-    "frequency": 0.5,
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -201,7 +204,53 @@
     "targetWordsTxt": "are wise",
     "alignmentTargetWords": 2,
     "alignmentTxt": "φρόνιμοι = are wise",
-    "frequency": 0.16666666666666666,
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "536537",
+    "book_id": "2co",
+    "chapter": "11",
+    "verse": "19",
+    "alignment_num": "3",
+    "orig_lang_words": ",1520186,",
+    "target_lang_words": ",1321633,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1520186,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "19",
+        "word_num": 5,
+        "word": "φρόνιμοι",
+        "occurrence": 1,
+        "strong": "G54290",
+        "lemma": "φρόνιμος",
+        "morph": "Gr,NP,,,,NMP,"
+      }
+    ],
+    "origWordsTxt": "φρόνιμοι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1321633,
+        "book_id": "2co",
+        "chapter": "11",
+        "verse": "19",
+        "word_num": 3,
+        "word": "wise",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "wise",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "φρόνιμοι = wise",
+    "frequency": 0.75,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -263,51 +312,8 @@
     "targetWordsTxt": "to sensible people",
     "alignmentTargetWords": 3,
     "alignmentTxt": "φρονίμοις = to sensible people",
-    "frequency": 0.16666666666666666,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "536537",
-    "book_id": "2co",
-    "chapter": "11",
-    "verse": "19",
-    "alignment_num": "3",
-    "orig_lang_words": ",1520186,",
-    "target_lang_words": ",1321633,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1520186,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "19",
-        "word_num": 5,
-        "word": "φρόνιμοι",
-        "occurrence": 1,
-        "strong": "G54290",
-        "lemma": "φρόνιμος",
-        "morph": "Gr,NP,,,,NMP,"
-      }
-    ],
-    "origWordsTxt": "φρόνιμοι",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1321633,
-        "book_id": "2co",
-        "chapter": "11",
-        "verse": "19",
-        "word_num": 3,
-        "word": "wise",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "wise",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "φρόνιμοι = wise",
-    "frequency": 0.5,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

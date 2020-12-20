@@ -39,7 +39,8 @@
     "targetWordsTxt": "blamelessly",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἄμεμπτοι = blamelessly",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "blameless",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἄμεμπτοι = blameless",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,7 +129,53 @@
     "targetWordsTxt": "blameless",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἄμεμπτος = blameless",
-    "frequency": 0.2,
+    "frequency": 0.5,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553108",
+    "book_id": "heb",
+    "chapter": "8",
+    "verse": "7",
+    "alignment_num": "5",
+    "orig_lang_words": ",1537261,",
+    "target_lang_words": ",1345484,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537261,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 6,
+        "word": "ἄμεμπτος",
+        "occurrence": 1,
+        "strong": "G02730",
+        "lemma": "ἄμεμπτος",
+        "morph": "Gr,NP,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἄμεμπτος",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1345484,
+        "book_id": "heb",
+        "chapter": "8",
+        "verse": "7",
+        "word_num": 6,
+        "word": "faultless",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "faultless",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἄμεμπτος = faultless",
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -189,51 +237,8 @@
     "targetWordsTxt": "to be blameless",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀμέμπτους = to be blameless",
-    "frequency": 0.2,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553108",
-    "book_id": "heb",
-    "chapter": "8",
-    "verse": "7",
-    "alignment_num": "5",
-    "orig_lang_words": ",1537261,",
-    "target_lang_words": ",1345484,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537261,
-        "book_id": "heb",
-        "chapter": "8",
-        "verse": "7",
-        "word_num": 6,
-        "word": "ἄμεμπτος",
-        "occurrence": 1,
-        "strong": "G02730",
-        "lemma": "ἄμεμπτος",
-        "morph": "Gr,NP,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἄμεμπτος",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1345484,
-        "book_id": "heb",
-        "chapter": "8",
-        "verse": "7",
-        "word_num": 6,
-        "word": "faultless",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "faultless",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἄμεμπτος = faultless",
-    "frequency": 0.2,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

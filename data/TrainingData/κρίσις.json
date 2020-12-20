@@ -39,7 +39,8 @@
     "targetWordsTxt": "judgment",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κρίσει = judgment",
-    "frequency": 0.08571428571428572,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +84,8 @@
     "targetWordsTxt": "judgment",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κρίσει = judgment",
-    "frequency": 0.08571428571428572,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -127,7 +129,8 @@
     "targetWordsTxt": "judgment",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κρίσει = judgment",
-    "frequency": 0.08571428571428572,
+    "frequency": 1.0,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -171,51 +174,8 @@
     "targetWordsTxt": "justice",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κρίσιν = justice",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488999",
-    "book_id": "jhn",
-    "chapter": "3",
-    "verse": "19",
-    "alignment_num": "5",
-    "orig_lang_words": ",1470117,",
-    "target_lang_words": ",1254646,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1470117,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 4,
-        "word": "κρίσις",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσις",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1254646,
-        "book_id": "jhn",
-        "chapter": "3",
-        "verse": "19",
-        "word_num": 7,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "judgment",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κρίσις = judgment",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -271,7 +231,8 @@
     "targetWordsTxt": "judgment",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν κρίσιν = judgment",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -315,7 +276,8 @@
     "targetWordsTxt": "judgment",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κρίσιν = judgment",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -359,116 +321,8 @@
     "targetWordsTxt": "judgment",
     "alignmentTargetWords": 1,
     "alignmentTxt": "κρίσιν = judgment",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490624",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "29",
-    "alignment_num": "15",
-    "orig_lang_words": ",1471907,",
-    "target_lang_words": ",1256840,1256841,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1471907,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "29",
-        "word_num": 16,
-        "word": "κρίσεως",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1256840,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "29",
-        "word_num": 23,
-        "word": "of",
-        "occurrence": 2
-      },
-      {
-        "id": 1256841,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "29",
-        "word_num": 24,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of judgment",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κρίσεως = of judgment",
-    "frequency": 0.11428571428571428,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490636",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "30",
-    "alignment_num": "11",
-    "orig_lang_words": ",1471919,1471920,",
-    "target_lang_words": ",1256855,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1471919,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "30",
-        "word_num": 11,
-        "word": "ἡ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1471920,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "30",
-        "word_num": 12,
-        "word": "κρίσις",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ κρίσις",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1256855,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "30",
-        "word_num": 13,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "judgment",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ κρίσις = judgment",
-    "frequency": 0.08571428571428572,
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -536,7 +390,443 @@
     "targetWordsTxt": "righteously",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν δικαίαν κρίσιν = righteously",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548408",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "24",
+    "alignment_num": "9",
+    "orig_lang_words": ",1532422,",
+    "target_lang_words": ",1338658,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532422,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "24",
+        "word_num": 8,
+        "word": "κρίσιν",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338658,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "24",
+        "word_num": 12,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "judgment",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κρίσιν = judgment",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557192",
+    "book_id": "jas",
+    "chapter": "5",
+    "verse": "12",
+    "alignment_num": "29",
+    "orig_lang_words": ",1541565,",
+    "target_lang_words": ",1351618,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541565,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "12",
+        "word_num": 30,
+        "word": "κρίσιν",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1351618,
+        "book_id": "jas",
+        "chapter": "5",
+        "verse": "12",
+        "word_num": 37,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "judgment",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κρίσιν = judgment",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559299",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "4",
+    "alignment_num": "13",
+    "orig_lang_words": ",1543833,",
+    "target_lang_words": ",1355026,1355027,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543833,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 14,
+        "word": "κρίσιν",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1355026,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 28,
+        "word": "the",
+        "occurrence": 2
+      },
+      {
+        "id": 1355027,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "4",
+        "word_num": 29,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the judgment",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κρίσιν = the judgment",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "559403",
+    "book_id": "2pe",
+    "chapter": "2",
+    "verse": "11",
+    "alignment_num": "10",
+    "orig_lang_words": ",1543936,",
+    "target_lang_words": ",1355201,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1543936,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 14,
+        "word": "κρίσιν",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1355201,
+        "book_id": "2pe",
+        "chapter": "2",
+        "verse": "11",
+        "word_num": 12,
+        "word": "judgments",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "judgments",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κρίσιν = judgments",
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562399",
+    "book_id": "jud",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "20",
+    "orig_lang_words": ",1547189,",
+    "target_lang_words": ",1359435,1359436,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547189,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 14,
+        "word": "κρίσιν",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1359435,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 30,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1359436,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 31,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the judgment",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κρίσιν = the judgment",
+    "frequency": 0.16666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562456",
+    "book_id": "jud",
+    "chapter": "1",
+    "verse": "9",
+    "alignment_num": "15",
+    "orig_lang_words": ",1547252,",
+    "target_lang_words": ",1359533,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547252,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 16,
+        "word": "κρίσιν",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1359533,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "9",
+        "word_num": 26,
+        "word": "a",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κρίσιν = a",
+    "frequency": 0.08333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562556",
+    "book_id": "jud",
+    "chapter": "1",
+    "verse": "15",
+    "alignment_num": "1",
+    "orig_lang_words": ",1547356,",
+    "target_lang_words": ",1359697,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547356,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 1,
+        "word": "κρίσιν",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσιν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1359697,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 5,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "judgment",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κρίσιν = judgment",
+    "frequency": 0.4166666666666667,
+    "matchCount": 5,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488999",
+    "book_id": "jhn",
+    "chapter": "3",
+    "verse": "19",
+    "alignment_num": "5",
+    "orig_lang_words": ",1470117,",
+    "target_lang_words": ",1254646,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1470117,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 4,
+        "word": "κρίσις",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσις",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1254646,
+        "book_id": "jhn",
+        "chapter": "3",
+        "verse": "19",
+        "word_num": 7,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "judgment",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κρίσις = judgment",
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490636",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "30",
+    "alignment_num": "11",
+    "orig_lang_words": ",1471919,1471920,",
+    "target_lang_words": ",1256855,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1471919,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "30",
+        "word_num": 11,
+        "word": "ἡ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1471920,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "30",
+        "word_num": 12,
+        "word": "κρίσις",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ κρίσις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256855,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "30",
+        "word_num": 13,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "judgment",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ κρίσις = judgment",
+    "frequency": 0.375,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -592,7 +882,8 @@
     "targetWordsTxt": "judgment",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἡ κρίσις = judgment",
-    "frequency": 0.08571428571428572,
+    "frequency": 0.375,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -645,95 +936,8 @@
     "targetWordsTxt": "the judgment",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κρίσις = the judgment",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498448",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "8",
-    "alignment_num": "14",
-    "orig_lang_words": ",1480437,",
-    "target_lang_words": ",1267574,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480437,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "8",
-        "word_num": 13,
-        "word": "κρίσεως",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1267574,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "8",
-        "word_num": 19,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "judgment",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κρίσεως = judgment",
-    "frequency": 0.08571428571428572,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "498472",
-    "book_id": "jhn",
-    "chapter": "16",
-    "verse": "11",
-    "alignment_num": "2",
-    "orig_lang_words": ",1480460,",
-    "target_lang_words": ",1267603,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1480460,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 2,
-        "word": "κρίσεως",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1267603,
-        "book_id": "jhn",
-        "chapter": "16",
-        "verse": "11",
-        "word_num": 2,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "judgment",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κρίσεως = judgment",
-    "frequency": 0.08571428571428572,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -789,95 +993,8 @@
     "targetWordsTxt": "justice",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἡ κρίσις = justice",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546437",
-    "book_id": "2th",
-    "chapter": "1",
-    "verse": "5",
-    "alignment_num": "4",
-    "orig_lang_words": ",1530454,",
-    "target_lang_words": ",1335845,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530454,
-        "book_id": "2th",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 3,
-        "word": "κρίσεως",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1335845,
-        "book_id": "2th",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 7,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "judgment",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κρίσεως = judgment",
-    "frequency": 0.08571428571428572,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548408",
-    "book_id": "1ti",
-    "chapter": "5",
-    "verse": "24",
-    "alignment_num": "9",
-    "orig_lang_words": ",1532422,",
-    "target_lang_words": ",1338658,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532422,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "24",
-        "word_num": 8,
-        "word": "κρίσιν",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338658,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "24",
-        "word_num": 12,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "judgment",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κρίσιν = judgment",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -939,60 +1056,8 @@
     "targetWordsTxt": "is the judgment",
     "alignmentTargetWords": 3,
     "alignmentTxt": "κρίσις = is the judgment",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "554095",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "27",
-    "alignment_num": "4",
-    "orig_lang_words": ",1538297,",
-    "target_lang_words": ",1346999,1347000,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1538297,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "27",
-        "word_num": 4,
-        "word": "κρίσεως",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσεως",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1346999,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "27",
-        "word_num": 8,
-        "word": "of",
-        "occurrence": 1
-      },
-      {
-        "id": 1347000,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "27",
-        "word_num": 9,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "of judgment",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κρίσεως = of judgment",
-    "frequency": 0.11428571428571428,
+    "frequency": 0.125,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1078,7 +1143,308 @@
     "targetWordsTxt": "For judgment comes",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἡ γὰρ κρίσις = For judgment comes",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "569450",
+    "book_id": "rev",
+    "chapter": "18",
+    "verse": "10",
+    "alignment_num": "23",
+    "orig_lang_words": ",1555001,1555002,",
+    "target_lang_words": ",1369147,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1555001,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 25,
+        "word": "ἡ",
+        "occurrence": 5,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NFS,"
+      },
+      {
+        "id": 1555002,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 26,
+        "word": "κρίσις",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἡ κρίσις",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1369147,
+        "book_id": "rev",
+        "chapter": "18",
+        "verse": "10",
+        "word_num": 31,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "judgment",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἡ κρίσις = judgment",
+    "frequency": 0.375,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490624",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "29",
+    "alignment_num": "15",
+    "orig_lang_words": ",1471907,",
+    "target_lang_words": ",1256840,1256841,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1471907,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "29",
+        "word_num": 16,
+        "word": "κρίσεως",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1256840,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "29",
+        "word_num": 23,
+        "word": "of",
+        "occurrence": 2
+      },
+      {
+        "id": 1256841,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "29",
+        "word_num": 24,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of judgment",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κρίσεως = of judgment",
+    "frequency": 0.4,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498448",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "8",
+    "alignment_num": "14",
+    "orig_lang_words": ",1480437,",
+    "target_lang_words": ",1267574,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480437,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "8",
+        "word_num": 13,
+        "word": "κρίσεως",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1267574,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "8",
+        "word_num": 19,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "judgment",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κρίσεως = judgment",
+    "frequency": 0.3,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "498472",
+    "book_id": "jhn",
+    "chapter": "16",
+    "verse": "11",
+    "alignment_num": "2",
+    "orig_lang_words": ",1480460,",
+    "target_lang_words": ",1267603,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1480460,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "11",
+        "word_num": 2,
+        "word": "κρίσεως",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1267603,
+        "book_id": "jhn",
+        "chapter": "16",
+        "verse": "11",
+        "word_num": 2,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "judgment",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κρίσεως = judgment",
+    "frequency": 0.3,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546437",
+    "book_id": "2th",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "4",
+    "orig_lang_words": ",1530454,",
+    "target_lang_words": ",1335845,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530454,
+        "book_id": "2th",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 3,
+        "word": "κρίσεως",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1335845,
+        "book_id": "2th",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 7,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "judgment",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "κρίσεως = judgment",
+    "frequency": 0.3,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "554095",
+    "book_id": "heb",
+    "chapter": "10",
+    "verse": "27",
+    "alignment_num": "4",
+    "orig_lang_words": ",1538297,",
+    "target_lang_words": ",1346999,1347000,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1538297,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "27",
+        "word_num": 4,
+        "word": "κρίσεως",
+        "occurrence": 1,
+        "strong": "G29200",
+        "lemma": "κρίσις",
+        "morph": "Gr,N,,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "κρίσεως",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1346999,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "27",
+        "word_num": 8,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 1347000,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "27",
+        "word_num": 9,
+        "word": "judgment",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "of judgment",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "κρίσεως = of judgment",
+    "frequency": 0.4,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1131,104 +1497,8 @@
     "targetWordsTxt": "over judgment",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κρίσεως = over judgment",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557192",
-    "book_id": "jas",
-    "chapter": "5",
-    "verse": "12",
-    "alignment_num": "29",
-    "orig_lang_words": ",1541565,",
-    "target_lang_words": ",1351618,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541565,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "12",
-        "word_num": 30,
-        "word": "κρίσιν",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1351618,
-        "book_id": "jas",
-        "chapter": "5",
-        "verse": "12",
-        "word_num": 37,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "judgment",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κρίσιν = judgment",
-    "frequency": 0.14285714285714285,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559299",
-    "book_id": "2pe",
-    "chapter": "2",
-    "verse": "4",
-    "alignment_num": "13",
-    "orig_lang_words": ",1543833,",
-    "target_lang_words": ",1355026,1355027,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543833,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "4",
-        "word_num": 14,
-        "word": "κρίσιν",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1355026,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "4",
-        "word_num": 28,
-        "word": "the",
-        "occurrence": 2
-      },
-      {
-        "id": 1355027,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "4",
-        "word_num": 29,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the judgment",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κρίσιν = the judgment",
-    "frequency": 0.05714285714285714,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1281,51 +1551,8 @@
     "targetWordsTxt": "of judgment",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κρίσεως = of judgment",
-    "frequency": 0.11428571428571428,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "559403",
-    "book_id": "2pe",
-    "chapter": "2",
-    "verse": "11",
-    "alignment_num": "10",
-    "orig_lang_words": ",1543936,",
-    "target_lang_words": ",1355201,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1543936,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 14,
-        "word": "κρίσιν",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1355201,
-        "book_id": "2pe",
-        "chapter": "2",
-        "verse": "11",
-        "word_num": 12,
-        "word": "judgments",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "judgments",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κρίσιν = judgments",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.4,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1378,7 +1605,8 @@
     "targetWordsTxt": "of judgment",
     "alignmentTargetWords": 2,
     "alignmentTxt": "κρίσεως = of judgment",
-    "frequency": 0.11428571428571428,
+    "frequency": 0.4,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1443,148 +1671,8 @@
     "targetWordsTxt": "of judgment",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῆς κρίσεως = of judgment",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562399",
-    "book_id": "jud",
-    "chapter": "1",
-    "verse": "6",
-    "alignment_num": "20",
-    "orig_lang_words": ",1547189,",
-    "target_lang_words": ",1359435,1359436,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1547189,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 14,
-        "word": "κρίσιν",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1359435,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 30,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1359436,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 31,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the judgment",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "κρίσιν = the judgment",
-    "frequency": 0.05714285714285714,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562456",
-    "book_id": "jud",
-    "chapter": "1",
-    "verse": "9",
-    "alignment_num": "15",
-    "orig_lang_words": ",1547252,",
-    "target_lang_words": ",1359533,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1547252,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 16,
-        "word": "κρίσιν",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1359533,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "9",
-        "word_num": 26,
-        "word": "a",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κρίσιν = a",
-    "frequency": 0.02857142857142857,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "562556",
-    "book_id": "jud",
-    "chapter": "1",
-    "verse": "15",
-    "alignment_num": "1",
-    "orig_lang_words": ",1547356,",
-    "target_lang_words": ",1359697,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1547356,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "15",
-        "word_num": 1,
-        "word": "κρίσιν",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "κρίσιν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1359697,
-        "book_id": "jud",
-        "chapter": "1",
-        "verse": "15",
-        "word_num": 5,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "judgment",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "κρίσιν = judgment",
-    "frequency": 0.14285714285714285,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1640,7 +1728,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς κρίσεως = of",
-    "frequency": 0.02857142857142857,
+    "frequency": 0.1,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1696,63 +1785,8 @@
     "targetWordsTxt": "judgments",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἱ κρίσεις = judgments",
-    "frequency": 0.05714285714285714,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "569450",
-    "book_id": "rev",
-    "chapter": "18",
-    "verse": "10",
-    "alignment_num": "23",
-    "orig_lang_words": ",1555001,1555002,",
-    "target_lang_words": ",1369147,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1555001,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 25,
-        "word": "ἡ",
-        "occurrence": 5,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NFS,"
-      },
-      {
-        "id": 1555002,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 26,
-        "word": "κρίσις",
-        "occurrence": 1,
-        "strong": "G29200",
-        "lemma": "κρίσις",
-        "morph": "Gr,N,,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἡ κρίσις",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1369147,
-        "book_id": "rev",
-        "chapter": "18",
-        "verse": "10",
-        "word_num": 31,
-        "word": "judgment",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "judgment",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἡ κρίσις = judgment",
-    "frequency": 0.08571428571428572,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1808,7 +1842,8 @@
     "targetWordsTxt": "judgments",
     "alignmentTargetWords": 1,
     "alignmentTxt": "αἱ κρίσεις = judgments",
-    "frequency": 0.05714285714285714,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

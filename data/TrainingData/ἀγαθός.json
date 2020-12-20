@@ -39,7 +39,53 @@
     "targetWordsTxt": "Good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀγαθέ = Good",
-    "frequency": 0.023529411764705882,
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482454",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "18",
+    "alignment_num": "7",
+    "orig_lang_words": ",1463390,",
+    "target_lang_words": ",1245761,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463390,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "18",
+        "word_num": 7,
+        "word": "ἀγαθέ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,VMS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθέ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1245761,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "18",
+        "word_num": 7,
+        "word": "Good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "Good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθέ = Good",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -83,7 +129,788 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀγαθόν = good",
-    "frequency": 0.09411764705882353,
+    "frequency": 0.5,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473250",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "45",
+    "alignment_num": "12",
+    "orig_lang_words": ",1454033,",
+    "target_lang_words": ",1233214,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1454033,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "45",
+        "word_num": 11,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1233214,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "45",
+        "word_num": 13,
+        "word": "good",
+        "occurrence": 3
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθόν = good",
+    "frequency": 0.5,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482468",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "19",
+    "alignment_num": "7",
+    "orig_lang_words": ",1463404,",
+    "target_lang_words": ",1245781,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463404,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "19",
+        "word_num": 8,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,AMS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1245781,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "19",
+        "word_num": 10,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθόν = good",
+    "frequency": 0.5,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520545",
+    "book_id": "rom",
+    "chapter": "2",
+    "verse": "10",
+    "alignment_num": "8",
+    "orig_lang_words": ",1503333,1503334,",
+    "target_lang_words": ",1297798,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503333,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 9,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1503334,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 10,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἀγαθόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1297798,
+        "book_id": "rom",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 12,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἀγαθόν = good",
+    "frequency": 0.1875,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522577",
+    "book_id": "rom",
+    "chapter": "7",
+    "verse": "18",
+    "alignment_num": "12",
+    "orig_lang_words": ",1505585,",
+    "target_lang_words": ",1300966,1300967,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505585,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "18",
+        "word_num": 13,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1300966,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "18",
+        "word_num": 13,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1300967,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "18",
+        "word_num": 14,
+        "word": "thing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good thing",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθόν = good thing",
+    "frequency": 0.0625,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522589",
+    "book_id": "rom",
+    "chapter": "7",
+    "verse": "19",
+    "alignment_num": "1",
+    "orig_lang_words": ",1505602,",
+    "target_lang_words": ",1300985,1300986,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505602,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 5,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1300985,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 1,
+        "word": "the",
+        "occurrence": 1
+      },
+      {
+        "id": 1300986,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "19",
+        "word_num": 2,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "the good",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθόν = the good",
+    "frequency": 0.0625,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523146",
+    "book_id": "rom",
+    "chapter": "8",
+    "verse": "28",
+    "alignment_num": "10",
+    "orig_lang_words": ",1506180,",
+    "target_lang_words": ",1301838,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506180,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "28",
+        "word_num": 12,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1301838,
+        "book_id": "rom",
+        "chapter": "8",
+        "verse": "28",
+        "word_num": 15,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθόν = good",
+    "frequency": 0.5,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524988",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "4",
+    "alignment_num": "6",
+    "orig_lang_words": ",1508186,1508187,",
+    "target_lang_words": ",1304687,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1508186,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 6,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1508187,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 7,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἀγαθόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304687,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "4",
+        "word_num": 10,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἀγαθόν = good",
+    "frequency": 0.1875,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525406",
+    "book_id": "rom",
+    "chapter": "14",
+    "verse": "16",
+    "alignment_num": "3",
+    "orig_lang_words": ",1508646,1508647,",
+    "target_lang_words": ",1305350,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1508646,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 4,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1508647,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 5,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἀγαθόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1305350,
+        "book_id": "rom",
+        "chapter": "14",
+        "verse": "16",
+        "word_num": 4,
+        "word": "what",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "what",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἀγαθόν = what",
+    "frequency": 0.0625,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "526297",
+    "book_id": "rom",
+    "chapter": "16",
+    "verse": "19",
+    "alignment_num": "14",
+    "orig_lang_words": ",1509606,",
+    "target_lang_words": ",1306672,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1509606,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "19",
+        "word_num": 18,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1306672,
+        "book_id": "rom",
+        "chapter": "16",
+        "verse": "19",
+        "word_num": 22,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθόν = good",
+    "frequency": 0.5,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "535826",
+    "book_id": "2co",
+    "chapter": "9",
+    "verse": "8",
+    "alignment_num": "19",
+    "orig_lang_words": ",1519456,",
+    "target_lang_words": ",1320606,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1519456,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "8",
+        "word_num": 20,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1320606,
+        "book_id": "2co",
+        "chapter": "9",
+        "verse": "8",
+        "word_num": 26,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθόν = good",
+    "frequency": 0.5,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541011",
+    "book_id": "eph",
+    "chapter": "4",
+    "verse": "28",
+    "alignment_num": "8",
+    "orig_lang_words": ",1524757,1524758,",
+    "target_lang_words": ",1328188,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1524757,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "28",
+        "word_num": 10,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1524758,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "28",
+        "word_num": 11,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἀγαθόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1328188,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "28",
+        "word_num": 12,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἀγαθόν = good",
+    "frequency": 0.1875,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541650",
+    "book_id": "eph",
+    "chapter": "6",
+    "verse": "8",
+    "alignment_num": "6",
+    "orig_lang_words": ",1525391,",
+    "target_lang_words": ",1328979,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525391,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "8",
+        "word_num": 6,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1328979,
+        "book_id": "eph",
+        "chapter": "6",
+        "verse": "8",
+        "word_num": 8,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθόν = good",
+    "frequency": 0.5,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550834",
+    "book_id": "phm",
+    "chapter": "1",
+    "verse": "14",
+    "alignment_num": "11",
+    "orig_lang_words": ",1534873,1534874,",
+    "target_lang_words": ",1342070,1342071,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1534873,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 13,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1534874,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 14,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἀγαθόν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1342070,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 16,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1342071,
+        "book_id": "phm",
+        "chapter": "1",
+        "verse": "14",
+        "word_num": 17,
+        "word": "deed",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good deed",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τὸ ἀγαθόν = good deed",
+    "frequency": 0.0625,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558273",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "11",
+    "alignment_num": "6",
+    "orig_lang_words": ",1542672,",
+    "target_lang_words": ",1353299,1353300,1353301,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542672,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 6,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1353299,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 11,
+        "word": "what",
+        "occurrence": 2
+      },
+      {
+        "id": 1353300,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 12,
+        "word": "is",
+        "occurrence": 2
+      },
+      {
+        "id": 1353301,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "11",
+        "word_num": 13,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "what is good",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ἀγαθόν = what is good",
+    "frequency": 0.0625,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "562216",
+    "book_id": "3jn",
+    "chapter": "1",
+    "verse": "11",
+    "alignment_num": "7",
+    "orig_lang_words": ",1547009,",
+    "target_lang_words": ",1359167,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1547009,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 7,
+        "word": "ἀγαθόν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθόν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1359167,
+        "book_id": "3jn",
+        "chapter": "1",
+        "verse": "11",
+        "word_num": 10,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθόν = good",
+    "frequency": 0.5,
+    "matchCount": 8,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -136,7 +963,251 @@
     "targetWordsTxt": "is good",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀγαθὸς = is good",
-    "frequency": 0.03529411764705882,
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473239",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "45",
+    "alignment_num": "1",
+    "orig_lang_words": ",1454023,",
+    "target_lang_words": ",1233202,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1454023,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "45",
+        "word_num": 1,
+        "word": "ἀγαθὸς",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1233202,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "45",
+        "word_num": 1,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸς = good",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "482470",
+    "book_id": "luk",
+    "chapter": "18",
+    "verse": "19",
+    "alignment_num": "9",
+    "orig_lang_words": ",1463406,",
+    "target_lang_words": ",1245784,1245785,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1463406,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "19",
+        "word_num": 10,
+        "word": "ἀγαθὸς",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1245784,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "19",
+        "word_num": 13,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1245785,
+        "book_id": "luk",
+        "chapter": "18",
+        "verse": "19",
+        "word_num": 14,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "is good",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθὸς = is good",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "486646",
+    "book_id": "luk",
+    "chapter": "23",
+    "verse": "50",
+    "alignment_num": "8",
+    "orig_lang_words": ",1467624,",
+    "target_lang_words": ",1251526,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1467624,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "50",
+        "word_num": 8,
+        "word": "ἀγαθὸς",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1251526,
+        "book_id": "luk",
+        "chapter": "23",
+        "verse": "50",
+        "word_num": 13,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸς = good",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "509173",
+    "book_id": "act",
+    "chapter": "11",
+    "verse": "24",
+    "alignment_num": "3",
+    "orig_lang_words": ",1491608,",
+    "target_lang_words": ",1282049,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1491608,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "24",
+        "word_num": 3,
+        "word": "ἀγαθὸς",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1282049,
+        "book_id": "act",
+        "chapter": "11",
+        "verse": "24",
+        "word_num": 4,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸς = good",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "541032",
+    "book_id": "eph",
+    "chapter": "4",
+    "verse": "29",
+    "alignment_num": "11",
+    "orig_lang_words": ",1524777,",
+    "target_lang_words": ",1328219,1328220,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1524777,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "29",
+        "word_num": 12,
+        "word": "ἀγαθὸς",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1328219,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "29",
+        "word_num": 13,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1328220,
+        "book_id": "eph",
+        "chapter": "4",
+        "verse": "29",
+        "word_num": 14,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is good",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθὸς = is good",
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,913 +1269,8 @@
     "targetWordsTxt": "with good things",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἀγαθῶν = with good things",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473239",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "45",
-    "alignment_num": "1",
-    "orig_lang_words": ",1454023,",
-    "target_lang_words": ",1233202,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454023,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "45",
-        "word_num": 1,
-        "word": "ἀγαθὸς",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1233202,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "45",
-        "word_num": 1,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸς = good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473243",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "45",
-    "alignment_num": "5",
-    "orig_lang_words": ",1454027,",
-    "target_lang_words": ",1233206,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454027,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "45",
-        "word_num": 5,
-        "word": "ἀγαθοῦ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,GMS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθοῦ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1233206,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "45",
-        "word_num": 5,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθοῦ = good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "473250",
-    "book_id": "luk",
-    "chapter": "6",
-    "verse": "45",
-    "alignment_num": "12",
-    "orig_lang_words": ",1454033,",
-    "target_lang_words": ",1233214,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1454033,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "45",
-        "word_num": 11,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1233214,
-        "book_id": "luk",
-        "chapter": "6",
-        "verse": "45",
-        "word_num": 13,
-        "word": "good",
-        "occurrence": 3
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθόν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "474374",
-    "book_id": "luk",
-    "chapter": "8",
-    "verse": "8",
-    "alignment_num": "5",
-    "orig_lang_words": ",1455172,1455173,",
-    "target_lang_words": ",1234774,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1455172,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "8",
-        "word_num": 6,
-        "word": "τὴν",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,AFS,"
-      },
-      {
-        "id": 1455173,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "8",
-        "word_num": 7,
-        "word": "ἀγαθήν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AR,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "τὴν ἀγαθήν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1234774,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "8",
-        "word_num": 6,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὴν ἀγαθήν = good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "474532",
-    "book_id": "luk",
-    "chapter": "8",
-    "verse": "15",
-    "alignment_num": "16",
-    "orig_lang_words": ",1455323,",
-    "target_lang_words": ",1234991,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1455323,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 13,
-        "word": "ἀγαθῇ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,DFS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῇ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1234991,
-        "book_id": "luk",
-        "chapter": "8",
-        "verse": "15",
-        "word_num": 20,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθῇ = good",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "477190",
-    "book_id": "luk",
-    "chapter": "10",
-    "verse": "42",
-    "alignment_num": "8",
-    "orig_lang_words": ",1458045,",
-    "target_lang_words": ",1238516,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458045,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "42",
-        "word_num": 7,
-        "word": "ἀγαθὴν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1238516,
-        "book_id": "luk",
-        "chapter": "10",
-        "verse": "42",
-        "word_num": 11,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὴν = good",
-    "frequency": 0.047058823529411764,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "477409",
-    "book_id": "luk",
-    "chapter": "11",
-    "verse": "13",
-    "alignment_num": "7",
-    "orig_lang_words": ",1458270,",
-    "target_lang_words": ",1238836,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1458270,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 7,
-        "word": "ἀγαθὰ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1238836,
-        "book_id": "luk",
-        "chapter": "11",
-        "verse": "13",
-        "word_num": 10,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὰ = good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "478480",
-    "book_id": "luk",
-    "chapter": "12",
-    "verse": "18",
-    "alignment_num": "18",
-    "orig_lang_words": ",1459358,1459359,",
-    "target_lang_words": ",1240283,1240284,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1459358,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "18",
-        "word_num": 18,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1459359,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "18",
-        "word_num": 19,
-        "word": "ἀγαθά",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ἀγαθά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1240283,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "18",
-        "word_num": 27,
-        "word": "other",
-        "occurrence": 1
-      },
-      {
-        "id": 1240284,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "18",
-        "word_num": 28,
-        "word": "goods",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "other goods",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τὰ ἀγαθά = other goods",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "478489",
-    "book_id": "luk",
-    "chapter": "12",
-    "verse": "19",
-    "alignment_num": "8",
-    "orig_lang_words": ",1459369,",
-    "target_lang_words": ",1240296,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1459369,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 8,
-        "word": "ἀγαθὰ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὰ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1240296,
-        "book_id": "luk",
-        "chapter": "12",
-        "verse": "19",
-        "word_num": 11,
-        "word": "goods",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "goods",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὰ = goods",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "481459",
-    "book_id": "luk",
-    "chapter": "16",
-    "verse": "25",
-    "alignment_num": "11",
-    "orig_lang_words": ",1462379,1462380,",
-    "target_lang_words": ",1244378,1244379,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1462379,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 7,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1462380,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 8,
-        "word": "ἀγαθά",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ἀγαθά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1244378,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 12,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1244379,
-        "book_id": "luk",
-        "chapter": "16",
-        "verse": "25",
-        "word_num": 13,
-        "word": "things",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good things",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τὰ ἀγαθά = good things",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482454",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "18",
-    "alignment_num": "7",
-    "orig_lang_words": ",1463390,",
-    "target_lang_words": ",1245761,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463390,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "18",
-        "word_num": 7,
-        "word": "ἀγαθέ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,VMS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθέ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1245761,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "18",
-        "word_num": 7,
-        "word": "Good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "Good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθέ = Good",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482468",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "19",
-    "alignment_num": "7",
-    "orig_lang_words": ",1463404,",
-    "target_lang_words": ",1245781,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463404,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "19",
-        "word_num": 8,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,AMS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1245781,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "19",
-        "word_num": 10,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθόν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "482470",
-    "book_id": "luk",
-    "chapter": "18",
-    "verse": "19",
-    "alignment_num": "9",
-    "orig_lang_words": ",1463406,",
-    "target_lang_words": ",1245784,1245785,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1463406,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "19",
-        "word_num": 10,
-        "word": "ἀγαθὸς",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1245784,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "19",
-        "word_num": 13,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1245785,
-        "book_id": "luk",
-        "chapter": "18",
-        "verse": "19",
-        "word_num": 14,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "is good",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθὸς = is good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "483056",
-    "book_id": "luk",
-    "chapter": "19",
-    "verse": "17",
-    "alignment_num": "4",
-    "orig_lang_words": ",1464012,",
-    "target_lang_words": ",1246641,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1464012,
-        "book_id": "luk",
-        "chapter": "19",
-        "verse": "17",
-        "word_num": 4,
-        "word": "ἀγαθὲ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,VMS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὲ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1246641,
-        "book_id": "luk",
-        "chapter": "19",
-        "verse": "17",
-        "word_num": 7,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὲ = good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "486646",
-    "book_id": "luk",
-    "chapter": "23",
-    "verse": "50",
-    "alignment_num": "8",
-    "orig_lang_words": ",1467624,",
-    "target_lang_words": ",1251526,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1467624,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "50",
-        "word_num": 8,
-        "word": "ἀγαθὸς",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1251526,
-        "book_id": "luk",
-        "chapter": "23",
-        "verse": "50",
-        "word_num": 13,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸς = good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "488204",
-    "book_id": "jhn",
-    "chapter": "1",
-    "verse": "46",
-    "alignment_num": "6",
-    "orig_lang_words": ",1469248,",
-    "target_lang_words": ",1253591,1253592,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1469248,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "46",
-        "word_num": 8,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1253591,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "46",
-        "word_num": 7,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1253592,
-        "book_id": "jhn",
-        "chapter": "1",
-        "verse": "46",
-        "word_num": 8,
-        "word": "thing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good thing",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθὸν = good thing",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "490613",
-    "book_id": "jhn",
-    "chapter": "5",
-    "verse": "29",
-    "alignment_num": "4",
-    "orig_lang_words": ",1471894,1471895,",
-    "target_lang_words": ",1256825,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1471894,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "29",
-        "word_num": 3,
-        "word": "τὰ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANP,"
-      },
-      {
-        "id": 1471895,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "29",
-        "word_num": 4,
-        "word": "ἀγαθὰ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ἀγαθὰ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1256825,
-        "book_id": "jhn",
-        "chapter": "5",
-        "verse": "29",
-        "word_num": 8,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ἀγαθὰ = good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "492205",
-    "book_id": "jhn",
-    "chapter": "7",
-    "verse": "12",
-    "alignment_num": "11",
-    "orig_lang_words": ",1473628,1473629,",
-    "target_lang_words": ",1258941,1258942,1258943,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1473628,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "12",
-        "word_num": 12,
-        "word": "ὅτι",
-        "occurrence": 1,
-        "strong": "G37540",
-        "lemma": "ὅτι",
-        "morph": "Gr,CS,,,,,,,,"
-      },
-      {
-        "id": 1473629,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "12",
-        "word_num": 13,
-        "word": "ἀγαθός",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ὅτι ἀγαθός",
-    "alignmentOrigWords": 2,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1258941,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "12",
-        "word_num": 13,
-        "word": "a",
-        "occurrence": 1
-      },
-      {
-        "id": 1258942,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "12",
-        "word_num": 14,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1258943,
-        "book_id": "jhn",
-        "chapter": "7",
-        "verse": "12",
-        "word_num": 15,
-        "word": "man",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "a good man",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ὅτι ἀγαθός = a good man",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1148,95 +1314,251 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀγαθῶν = good",
-    "frequency": 0.03529411764705882,
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "509173",
-    "book_id": "act",
-    "chapter": "11",
-    "verse": "24",
-    "alignment_num": "3",
-    "orig_lang_words": ",1491608,",
-    "target_lang_words": ",1282049,",
+    "id": "547587",
+    "book_id": "1ti",
+    "chapter": "2",
+    "verse": "10",
+    "alignment_num": "7",
+    "orig_lang_words": ",1531633,",
+    "target_lang_words": ",1337489,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1491608,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "24",
-        "word_num": 3,
-        "word": "ἀγαθὸς",
+        "id": 1531633,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 8,
+        "word": "ἀγαθῶν",
         "occurrence": 1,
         "strong": "G00180",
         "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,NMS,"
+        "morph": "Gr,AA,,,,GNP,"
       }
     ],
-    "origWordsTxt": "ἀγαθὸς",
+    "origWordsTxt": "ἀγαθῶν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1282049,
-        "book_id": "act",
-        "chapter": "11",
-        "verse": "24",
-        "word_num": 4,
+        "id": 1337489,
+        "book_id": "1ti",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 10,
         "word": "good",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸς = good",
-    "frequency": 0.03529411764705882,
+    "alignmentTxt": "ἀγαθῶν = good",
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "516367",
-    "book_id": "act",
-    "chapter": "23",
+    "id": "553428",
+    "book_id": "heb",
+    "chapter": "9",
+    "verse": "11",
+    "alignment_num": "5",
+    "orig_lang_words": ",1537601,",
+    "target_lang_words": ",1345947,1345948,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1537601,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 6,
+        "word": "ἀγαθῶν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,GNP,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1345947,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 9,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1345948,
+        "book_id": "heb",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 10,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good things",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθῶν = good things",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "553753",
+    "book_id": "heb",
+    "chapter": "10",
     "verse": "1",
-    "alignment_num": "14",
-    "orig_lang_words": ",1499024,",
-    "target_lang_words": ",1291825,",
+    "alignment_num": "6",
+    "orig_lang_words": ",1537933,",
+    "target_lang_words": ",1346458,1346459,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1499024,
-        "book_id": "act",
-        "chapter": "23",
+        "id": 1537933,
+        "book_id": "heb",
+        "chapter": "10",
         "verse": "1",
-        "word_num": 12,
-        "word": "ἀγαθῇ",
+        "word_num": 7,
+        "word": "ἀγαθῶν",
         "occurrence": 1,
         "strong": "G00180",
         "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,DFS,"
+        "morph": "Gr,NS,,,,GNP,"
       }
     ],
-    "origWordsTxt": "ἀγαθῇ",
+    "origWordsTxt": "ἀγαθῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1346458,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 9,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1346459,
+        "book_id": "heb",
+        "chapter": "10",
+        "verse": "1",
+        "word_num": 10,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good things",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθῶν = good things",
+    "frequency": 0.3333333333333333,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "556725",
+    "book_id": "jas",
+    "chapter": "3",
+    "verse": "17",
+    "alignment_num": "14",
+    "orig_lang_words": ",1541064,",
+    "target_lang_words": ",1350927,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1541064,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 16,
+        "word": "ἀγαθῶν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,GMP,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθῶν",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1291825,
-        "book_id": "act",
-        "chapter": "23",
-        "verse": "1",
-        "word_num": 22,
+        "id": 1350927,
+        "book_id": "jas",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 17,
         "word": "good",
         "occurrence": 1
       }
     ],
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθῇ = good",
-    "frequency": 0.023529411764705882,
+    "alignmentTxt": "ἀγαθῶν = good",
+    "frequency": 0.5,
+    "matchCount": 3,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "473243",
+    "book_id": "luk",
+    "chapter": "6",
+    "verse": "45",
+    "alignment_num": "5",
+    "orig_lang_words": ",1454027,",
+    "target_lang_words": ",1233206,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1454027,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "45",
+        "word_num": 5,
+        "word": "ἀγαθοῦ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,GMS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθοῦ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1233206,
+        "book_id": "luk",
+        "chapter": "6",
+        "verse": "45",
+        "word_num": 5,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθοῦ = good",
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1280,119 +1602,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀγαθοῦ = good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520545",
-    "book_id": "rom",
-    "chapter": "2",
-    "verse": "10",
-    "alignment_num": "8",
-    "orig_lang_words": ",1503333,1503334,",
-    "target_lang_words": ",1297798,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1503333,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 9,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1503334,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 10,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ἀγαθόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1297798,
-        "book_id": "rom",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 12,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ ἀγαθόν = good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "520915",
-    "book_id": "rom",
-    "chapter": "3",
-    "verse": "8",
-    "alignment_num": "12",
-    "orig_lang_words": ",1503753,1503754,",
-    "target_lang_words": ",1298414,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1503753,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 16,
-        "word": "τὰ",
-        "occurrence": 2,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNP,"
-      },
-      {
-        "id": 1503754,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 17,
-        "word": "ἀγαθά",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,NNP,"
-      }
-    ],
-    "origWordsTxt": "τὰ ἀγαθά",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1298414,
-        "book_id": "rom",
-        "chapter": "3",
-        "verse": "8",
-        "word_num": 23,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὰ ἀγαθά = good",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1466,104 +1677,8 @@
     "targetWordsTxt": "a good person",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τοῦ ἀγαθοῦ = a good person",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522479",
-    "book_id": "rom",
-    "chapter": "7",
-    "verse": "12",
-    "alignment_num": "11",
-    "orig_lang_words": ",1505486,",
-    "target_lang_words": ",1300818,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505486,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "12",
-        "word_num": 12,
-        "word": "ἀγαθή",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθή",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1300818,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "12",
-        "word_num": 13,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθή = good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522483",
-    "book_id": "rom",
-    "chapter": "7",
-    "verse": "13",
-    "alignment_num": "3",
-    "orig_lang_words": ",1505489,",
-    "target_lang_words": ",1300822,1300823,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505489,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "13",
-        "word_num": 2,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1300822,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "13",
-        "word_num": 3,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1300823,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "13",
-        "word_num": 4,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is good",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθὸν = is good",
-    "frequency": 0.023529411764705882,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -1616,1877 +1731,8 @@
     "targetWordsTxt": "is good",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἀγαθοῦ = is good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522577",
-    "book_id": "rom",
-    "chapter": "7",
-    "verse": "18",
-    "alignment_num": "12",
-    "orig_lang_words": ",1505585,",
-    "target_lang_words": ",1300966,1300967,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505585,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "18",
-        "word_num": 13,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1300966,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "18",
-        "word_num": 13,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1300967,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "18",
-        "word_num": 14,
-        "word": "thing",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good thing",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθόν = good thing",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "522589",
-    "book_id": "rom",
-    "chapter": "7",
-    "verse": "19",
-    "alignment_num": "1",
-    "orig_lang_words": ",1505602,",
-    "target_lang_words": ",1300985,1300986,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1505602,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 5,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1300985,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 1,
-        "word": "the",
-        "occurrence": 1
-      },
-      {
-        "id": 1300986,
-        "book_id": "rom",
-        "chapter": "7",
-        "verse": "19",
-        "word_num": 2,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "the good",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθόν = the good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523146",
-    "book_id": "rom",
-    "chapter": "8",
-    "verse": "28",
-    "alignment_num": "10",
-    "orig_lang_words": ",1506180,",
-    "target_lang_words": ",1301838,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1506180,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "28",
-        "word_num": 12,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1301838,
-        "book_id": "rom",
-        "chapter": "8",
-        "verse": "28",
-        "word_num": 15,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθόν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "523492",
-    "book_id": "rom",
-    "chapter": "9",
-    "verse": "11",
-    "alignment_num": "9",
-    "orig_lang_words": ",1506540,",
-    "target_lang_words": ",1302345,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1506540,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "11",
-        "word_num": 6,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1302345,
-        "book_id": "rom",
-        "chapter": "9",
-        "verse": "11",
-        "word_num": 13,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524032",
-    "book_id": "rom",
-    "chapter": "10",
-    "verse": "15",
-    "alignment_num": "13",
-    "orig_lang_words": ",1507131,",
-    "target_lang_words": ",1303192,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1507131,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "15",
-        "word_num": 15,
-        "word": "ἀγαθά",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθά",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1303192,
-        "book_id": "rom",
-        "chapter": "10",
-        "verse": "15",
-        "word_num": 23,
-        "word": "gospel",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "gospel",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθά = gospel",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524699",
-    "book_id": "rom",
-    "chapter": "12",
-    "verse": "2",
-    "alignment_num": "16",
-    "orig_lang_words": ",1507858,1507859,",
-    "target_lang_words": ",1304236,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1507858,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "2",
-        "word_num": 21,
-        "word": "τὸ",
-        "occurrence": 3,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNS,"
-      },
-      {
-        "id": 1507859,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "2",
-        "word_num": 22,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AR,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ἀγαθὸν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1304236,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "2",
-        "word_num": 25,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ ἀγαθὸν = good",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524809",
-    "book_id": "rom",
-    "chapter": "12",
-    "verse": "9",
-    "alignment_num": "8",
-    "orig_lang_words": ",1507980,",
-    "target_lang_words": ",1304394,1304395,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1507980,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "9",
-        "word_num": 8,
-        "word": "ἀγαθῷ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1304394,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "9",
-        "word_num": 14,
-        "word": "is",
-        "occurrence": 2
-      },
-      {
-        "id": 1304395,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "9",
-        "word_num": 15,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is good",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθῷ = is good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524931",
-    "book_id": "rom",
-    "chapter": "12",
-    "verse": "21",
-    "alignment_num": "8",
-    "orig_lang_words": ",1508114,1508115,",
-    "target_lang_words": ",1304593,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1508114,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 8,
-        "word": "τῷ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1508115,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 9,
-        "word": "ἀγαθῷ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ ἀγαθῷ",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1304593,
-        "book_id": "rom",
-        "chapter": "12",
-        "verse": "21",
-        "word_num": 10,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τῷ ἀγαθῷ = good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524968",
-    "book_id": "rom",
-    "chapter": "13",
-    "verse": "3",
-    "alignment_num": "4",
-    "orig_lang_words": ",1508160,1508161,1508162,",
-    "target_lang_words": ",1304648,1304649,1304650,",
-    "origSpan": 2,
-    "origWords": [
-      {
-        "id": 1508160,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 6,
-        "word": "τῷ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,DNS,"
-      },
-      {
-        "id": 1508161,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 7,
-        "word": "ἀγαθῷ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,DNS,"
-      },
-      {
-        "id": 1508162,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 8,
-        "word": "ἔργῳ",
-        "occurrence": 1,
-        "strong": "G20410",
-        "lemma": "ἔργον",
-        "morph": "Gr,N,,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "τῷ ἀγαθῷ ἔργῳ",
-    "alignmentOrigWords": 3,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1304648,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 6,
-        "word": "to",
-        "occurrence": 1
-      },
-      {
-        "id": 1304649,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 7,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1304650,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 8,
-        "word": "deeds",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "to good deeds",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "τῷ ἀγαθῷ ἔργῳ = to good deeds",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524977",
-    "book_id": "rom",
-    "chapter": "13",
-    "verse": "3",
-    "alignment_num": "13",
-    "orig_lang_words": ",1508172,1508173,",
-    "target_lang_words": ",1304668,1304669,1304670,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1508172,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 18,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1508173,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 19,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ἀγαθὸν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1304668,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 26,
-        "word": "what",
-        "occurrence": 1
-      },
-      {
-        "id": 1304669,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 27,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1304670,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "3",
-        "word_num": 28,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "what is good",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "τὸ ἀγαθὸν = what is good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "524988",
-    "book_id": "rom",
-    "chapter": "13",
-    "verse": "4",
-    "alignment_num": "6",
-    "orig_lang_words": ",1508186,1508187,",
-    "target_lang_words": ",1304687,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1508186,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 6,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1508187,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 7,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ἀγαθόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1304687,
-        "book_id": "rom",
-        "chapter": "13",
-        "verse": "4",
-        "word_num": 10,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ ἀγαθόν = good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525406",
-    "book_id": "rom",
-    "chapter": "14",
-    "verse": "16",
-    "alignment_num": "3",
-    "orig_lang_words": ",1508646,1508647,",
-    "target_lang_words": ",1305350,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1508646,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "16",
-        "word_num": 4,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1508647,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "16",
-        "word_num": 5,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ἀγαθόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1305350,
-        "book_id": "rom",
-        "chapter": "14",
-        "verse": "16",
-        "word_num": 4,
-        "word": "what",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "what",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ ἀγαθόν = what",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "525538",
-    "book_id": "rom",
-    "chapter": "15",
-    "verse": "2",
-    "alignment_num": "8",
-    "orig_lang_words": ",1508789,",
-    "target_lang_words": ",1305548,1305549,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1508789,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "2",
-        "word_num": 7,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1305548,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "2",
-        "word_num": 11,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1305549,
-        "book_id": "rom",
-        "chapter": "15",
-        "verse": "2",
-        "word_num": 12,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is good",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθὸν = is good",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "526297",
-    "book_id": "rom",
-    "chapter": "16",
-    "verse": "19",
-    "alignment_num": "14",
-    "orig_lang_words": ",1509606,",
-    "target_lang_words": ",1306672,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1509606,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "19",
-        "word_num": 18,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1306672,
-        "book_id": "rom",
-        "chapter": "16",
-        "verse": "19",
-        "word_num": 22,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθόν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "534512",
-    "book_id": "2co",
-    "chapter": "5",
-    "verse": "10",
-    "alignment_num": "20",
-    "orig_lang_words": ",1518101,",
-    "target_lang_words": ",1318683,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1518101,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 22,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1318683,
-        "book_id": "2co",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 30,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "535826",
-    "book_id": "2co",
-    "chapter": "9",
-    "verse": "8",
-    "alignment_num": "19",
-    "orig_lang_words": ",1519456,",
-    "target_lang_words": ",1320606,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1519456,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "8",
-        "word_num": 20,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1320606,
-        "book_id": "2co",
-        "chapter": "9",
-        "verse": "8",
-        "word_num": 26,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθόν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539339",
-    "book_id": "gal",
-    "chapter": "6",
-    "verse": "6",
-    "alignment_num": "6",
-    "orig_lang_words": ",1523076,",
-    "target_lang_words": ",1325975,1325976,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523076,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "6",
-        "word_num": 10,
-        "word": "ἀγαθοῖς",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθοῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1325975,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "6",
-        "word_num": 11,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1325976,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "6",
-        "word_num": 12,
-        "word": "things",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good things",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθοῖς = good things",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "539398",
-    "book_id": "gal",
-    "chapter": "6",
-    "verse": "10",
-    "alignment_num": "6",
-    "orig_lang_words": ",1523132,1523133,",
-    "target_lang_words": ",1326072,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1523132,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 6,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1523133,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 7,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ἀγαθὸν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326072,
-        "book_id": "gal",
-        "chapter": "6",
-        "verse": "10",
-        "word_num": 10,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ ἀγαθὸν = good",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "540073",
-    "book_id": "eph",
-    "chapter": "2",
-    "verse": "10",
-    "alignment_num": "9",
-    "orig_lang_words": ",1523821,",
-    "target_lang_words": ",1326963,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1523821,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 10,
-        "word": "ἀγαθοῖς",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,DNP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθοῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1326963,
-        "book_id": "eph",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 10,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθοῖς = good",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541011",
-    "book_id": "eph",
-    "chapter": "4",
-    "verse": "28",
-    "alignment_num": "8",
-    "orig_lang_words": ",1524757,1524758,",
-    "target_lang_words": ",1328188,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1524757,
-        "book_id": "eph",
-        "chapter": "4",
-        "verse": "28",
-        "word_num": 10,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,ANS,"
-      },
-      {
-        "id": 1524758,
-        "book_id": "eph",
-        "chapter": "4",
-        "verse": "28",
-        "word_num": 11,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ἀγαθόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1328188,
-        "book_id": "eph",
-        "chapter": "4",
-        "verse": "28",
-        "word_num": 12,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "τὸ ἀγαθόν = good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541032",
-    "book_id": "eph",
-    "chapter": "4",
-    "verse": "29",
-    "alignment_num": "11",
-    "orig_lang_words": ",1524777,",
-    "target_lang_words": ",1328219,1328220,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1524777,
-        "book_id": "eph",
-        "chapter": "4",
-        "verse": "29",
-        "word_num": 12,
-        "word": "ἀγαθὸς",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NP,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1328219,
-        "book_id": "eph",
-        "chapter": "4",
-        "verse": "29",
-        "word_num": 13,
-        "word": "is",
-        "occurrence": 1
-      },
-      {
-        "id": 1328220,
-        "book_id": "eph",
-        "chapter": "4",
-        "verse": "29",
-        "word_num": 14,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "is good",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθὸς = is good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "541650",
-    "book_id": "eph",
-    "chapter": "6",
-    "verse": "8",
-    "alignment_num": "6",
-    "orig_lang_words": ",1525391,",
-    "target_lang_words": ",1328979,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525391,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "8",
-        "word_num": 6,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1328979,
-        "book_id": "eph",
-        "chapter": "6",
-        "verse": "8",
-        "word_num": 8,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθόν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "542004",
-    "book_id": "php",
-    "chapter": "1",
-    "verse": "6",
-    "alignment_num": "7",
-    "orig_lang_words": ",1525760,",
-    "target_lang_words": ",1329439,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1525760,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 9,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1329439,
-        "book_id": "php",
-        "chapter": "1",
-        "verse": "6",
-        "word_num": 12,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "543665",
-    "book_id": "col",
-    "chapter": "1",
-    "verse": "10",
-    "alignment_num": "10",
-    "orig_lang_words": ",1527482,",
-    "target_lang_words": ",1331940,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1527482,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 10,
-        "word": "ἀγαθῷ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1331940,
-        "book_id": "col",
-        "chapter": "1",
-        "verse": "10",
-        "word_num": 27,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθῷ = good",
-    "frequency": 0.047058823529411764,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "545629",
-    "book_id": "1th",
-    "chapter": "3",
-    "verse": "6",
-    "alignment_num": "21",
-    "orig_lang_words": ",1529603,",
-    "target_lang_words": ",1334732,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1529603,
-        "book_id": "1th",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 22,
-        "word": "ἀγαθὴν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1334732,
-        "book_id": "1th",
-        "chapter": "3",
-        "verse": "6",
-        "word_num": 27,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὴν = good",
-    "frequency": 0.047058823529411764,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546250",
-    "book_id": "1th",
-    "chapter": "5",
-    "verse": "15",
-    "alignment_num": "12",
-    "orig_lang_words": ",1530262,",
-    "target_lang_words": ",1335601,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530262,
-        "book_id": "1th",
-        "chapter": "5",
-        "verse": "15",
-        "word_num": 11,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1335601,
-        "book_id": "1th",
-        "chapter": "5",
-        "verse": "15",
-        "word_num": 16,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546860",
-    "book_id": "2th",
-    "chapter": "2",
-    "verse": "16",
-    "alignment_num": "17",
-    "orig_lang_words": ",1530903,",
-    "target_lang_words": ",1336456,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530903,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 22,
-        "word": "ἀγαθὴν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1336456,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "16",
-        "word_num": 20,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὴν = good",
-    "frequency": 0.047058823529411764,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "546871",
-    "book_id": "2th",
-    "chapter": "2",
-    "verse": "17",
-    "alignment_num": "7",
-    "orig_lang_words": ",1530917,",
-    "target_lang_words": ",1336467,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1530917,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 11,
-        "word": "ἀγαθῷ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,DMS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1336467,
-        "book_id": "2th",
-        "chapter": "2",
-        "verse": "17",
-        "word_num": 7,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθῷ = good",
-    "frequency": 0.047058823529411764,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547222",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "5",
-    "alignment_num": "14",
-    "orig_lang_words": ",1531266,",
-    "target_lang_words": ",1336961,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531266,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 12,
-        "word": "ἀγαθῆς",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,GFS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῆς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1336961,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "5",
-        "word_num": 14,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθῆς = good",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547432",
-    "book_id": "1ti",
-    "chapter": "1",
-    "verse": "19",
-    "alignment_num": "4",
-    "orig_lang_words": ",1531476,",
-    "target_lang_words": ",1337271,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531476,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 3,
-        "word": "ἀγαθὴν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὴν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337271,
-        "book_id": "1ti",
-        "chapter": "1",
-        "verse": "19",
-        "word_num": 4,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὴν = good",
-    "frequency": 0.047058823529411764,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "547587",
-    "book_id": "1ti",
-    "chapter": "2",
-    "verse": "10",
-    "alignment_num": "7",
-    "orig_lang_words": ",1531633,",
-    "target_lang_words": ",1337489,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1531633,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 8,
-        "word": "ἀγαθῶν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1337489,
-        "book_id": "1ti",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 10,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθῶν = good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "548219",
-    "book_id": "1ti",
-    "chapter": "5",
-    "verse": "10",
-    "alignment_num": "18",
-    "orig_lang_words": ",1532238,",
-    "target_lang_words": ",1338388,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1532238,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 18,
-        "word": "ἀγαθῷ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1338388,
-        "book_id": "1ti",
-        "chapter": "5",
-        "verse": "10",
-        "word_num": 40,
-        "word": "good",
-        "occurrence": 2
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθῷ = good",
-    "frequency": 0.047058823529411764,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549375",
-    "book_id": "2ti",
-    "chapter": "2",
-    "verse": "21",
-    "alignment_num": "20",
-    "orig_lang_words": ",1533385,",
-    "target_lang_words": ",1340002,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533385,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 18,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1340002,
-        "book_id": "2ti",
-        "chapter": "2",
-        "verse": "21",
-        "word_num": 28,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "549670",
-    "book_id": "2ti",
-    "chapter": "3",
-    "verse": "17",
-    "alignment_num": "10",
-    "orig_lang_words": ",1533691,",
-    "target_lang_words": ",1340428,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1533691,
-        "book_id": "2ti",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 10,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1340428,
-        "book_id": "2ti",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 12,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550235",
-    "book_id": "tit",
-    "chapter": "1",
-    "verse": "16",
-    "alignment_num": "16",
-    "orig_lang_words": ",1534268,",
-    "target_lang_words": ",1341217,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534268,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "16",
-        "word_num": 15,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341217,
-        "book_id": "tit",
-        "chapter": "1",
-        "verse": "16",
-        "word_num": 21,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸν = good",
-    "frequency": 0.09411764705882353,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550279",
-    "book_id": "tit",
-    "chapter": "2",
-    "verse": "5",
-    "alignment_num": "2",
-    "orig_lang_words": ",1534312,",
-    "target_lang_words": ",1341292,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534312,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 3,
-        "word": "ἀγαθάς",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,AFP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθάς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341292,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "5",
-        "word_num": 4,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθάς = good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550342",
-    "book_id": "tit",
-    "chapter": "2",
-    "verse": "10",
-    "alignment_num": "5",
-    "orig_lang_words": ",1534371,",
-    "target_lang_words": ",1341387,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534371,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 6,
-        "word": "ἀγαθήν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,AFS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθήν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341387,
-        "book_id": "tit",
-        "chapter": "2",
-        "verse": "10",
-        "word_num": 8,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθήν = good",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550444",
-    "book_id": "tit",
-    "chapter": "3",
-    "verse": "1",
-    "alignment_num": "10",
-    "orig_lang_words": ",1534468,",
-    "target_lang_words": ",1341522,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1534468,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 9,
-        "word": "ἀγαθὸν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὸν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1341522,
-        "book_id": "tit",
-        "chapter": "3",
-        "verse": "1",
-        "word_num": 16,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὸν = good",
-    "frequency": 0.09411764705882353,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -3530,460 +1776,8 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀγαθοῦ = good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "550834",
-    "book_id": "phm",
-    "chapter": "1",
-    "verse": "14",
-    "alignment_num": "11",
-    "orig_lang_words": ",1534873,1534874,",
-    "target_lang_words": ",1342070,1342071,",
-    "origSpan": 1,
-    "origWords": [
-      {
-        "id": 1534873,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 13,
-        "word": "τὸ",
-        "occurrence": 1,
-        "strong": "G35880",
-        "lemma": "ὁ",
-        "morph": "Gr,EA,,,,NNS,"
-      },
-      {
-        "id": 1534874,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 14,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,NNS,"
-      }
-    ],
-    "origWordsTxt": "τὸ ἀγαθόν",
-    "alignmentOrigWords": 2,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1342070,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 16,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1342071,
-        "book_id": "phm",
-        "chapter": "1",
-        "verse": "14",
-        "word_num": 17,
-        "word": "deed",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good deed",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "τὸ ἀγαθόν = good deed",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553428",
-    "book_id": "heb",
-    "chapter": "9",
-    "verse": "11",
-    "alignment_num": "5",
-    "orig_lang_words": ",1537601,",
-    "target_lang_words": ",1345947,1345948,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537601,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "11",
-        "word_num": 6,
-        "word": "ἀγαθῶν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1345947,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "11",
-        "word_num": 9,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1345948,
-        "book_id": "heb",
-        "chapter": "9",
-        "verse": "11",
-        "word_num": 10,
-        "word": "things",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good things",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθῶν = good things",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "553753",
-    "book_id": "heb",
-    "chapter": "10",
-    "verse": "1",
-    "alignment_num": "6",
-    "orig_lang_words": ",1537933,",
-    "target_lang_words": ",1346458,1346459,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1537933,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "1",
-        "word_num": 7,
-        "word": "ἀγαθῶν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,GNP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 1,
-    "targetWords": [
-      {
-        "id": 1346458,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "1",
-        "word_num": 9,
-        "word": "good",
-        "occurrence": 1
-      },
-      {
-        "id": 1346459,
-        "book_id": "heb",
-        "chapter": "10",
-        "verse": "1",
-        "word_num": 10,
-        "word": "things",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good things",
-    "alignmentTargetWords": 2,
-    "alignmentTxt": "ἀγαθῶν = good things",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555631",
-    "book_id": "heb",
-    "chapter": "13",
-    "verse": "21",
-    "alignment_num": "4",
-    "orig_lang_words": ",1539885,",
-    "target_lang_words": ",1349350,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1539885,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "21",
-        "word_num": 4,
-        "word": "ἀγαθῷ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,DNS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῷ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349350,
-        "book_id": "heb",
-        "chapter": "13",
-        "verse": "21",
-        "word_num": 4,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθῷ = good",
-    "frequency": 0.047058823529411764,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "555900",
-    "book_id": "jas",
-    "chapter": "1",
-    "verse": "17",
-    "alignment_num": "1",
-    "orig_lang_words": ",1540178,",
-    "target_lang_words": ",1349754,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1540178,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "17",
-        "word_num": 2,
-        "word": "ἀγαθὴ",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,NFS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὴ",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1349754,
-        "book_id": "jas",
-        "chapter": "1",
-        "verse": "17",
-        "word_num": 1,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὴ = good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "556725",
-    "book_id": "jas",
-    "chapter": "3",
-    "verse": "17",
-    "alignment_num": "14",
-    "orig_lang_words": ",1541064,",
-    "target_lang_words": ",1350927,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1541064,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 16,
-        "word": "ἀγαθῶν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,GMP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1350927,
-        "book_id": "jas",
-        "chapter": "3",
-        "verse": "17",
-        "word_num": 17,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθῶν = good",
-    "frequency": 0.03529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "557995",
-    "book_id": "1pe",
-    "chapter": "2",
-    "verse": "18",
-    "alignment_num": "10",
-    "orig_lang_words": ",1542379,",
-    "target_lang_words": ",1352845,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542379,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "18",
-        "word_num": 11,
-        "word": "ἀγαθοῖς",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,DMP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθοῖς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1352845,
-        "book_id": "1pe",
-        "chapter": "2",
-        "verse": "18",
-        "word_num": 15,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθοῖς = good",
-    "frequency": 0.023529411764705882,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558256",
-    "book_id": "1pe",
-    "chapter": "3",
-    "verse": "10",
-    "alignment_num": "7",
-    "orig_lang_words": ",1542654,",
-    "target_lang_words": ",1353274,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542654,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 8,
-        "word": "ἀγαθὰς",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,AA,,,,AFP,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθὰς",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1353274,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "10",
-        "word_num": 10,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "good",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθὰς = good",
-    "frequency": 0.011764705882352941,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "558273",
-    "book_id": "1pe",
-    "chapter": "3",
-    "verse": "11",
-    "alignment_num": "6",
-    "orig_lang_words": ",1542672,",
-    "target_lang_words": ",1353299,1353300,1353301,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1542672,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 6,
-        "word": "ἀγαθόν",
-        "occurrence": 1,
-        "strong": "G00180",
-        "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
-      }
-    ],
-    "origWordsTxt": "ἀγαθόν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 2,
-    "targetWords": [
-      {
-        "id": 1353299,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 11,
-        "word": "what",
-        "occurrence": 2
-      },
-      {
-        "id": 1353300,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 12,
-        "word": "is",
-        "occurrence": 2
-      },
-      {
-        "id": 1353301,
-        "book_id": "1pe",
-        "chapter": "3",
-        "verse": "11",
-        "word_num": 13,
-        "word": "good",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "what is good",
-    "alignmentTargetWords": 3,
-    "alignmentTxt": "ἀγαθόν = what is good",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.5,
+    "matchCount": 3,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4075,7 +1869,110 @@
     "targetWordsTxt": "to do what is good",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τοῦ ἀγαθοῦ = to do what is good",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.16666666666666666,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "474374",
+    "book_id": "luk",
+    "chapter": "8",
+    "verse": "8",
+    "alignment_num": "5",
+    "orig_lang_words": ",1455172,1455173,",
+    "target_lang_words": ",1234774,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1455172,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "8",
+        "word_num": 6,
+        "word": "τὴν",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,AFS,"
+      },
+      {
+        "id": 1455173,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "8",
+        "word_num": 7,
+        "word": "ἀγαθήν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AR,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "τὴν ἀγαθήν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1234774,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "8",
+        "word_num": 6,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὴν ἀγαθήν = good",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550342",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "10",
+    "alignment_num": "5",
+    "orig_lang_words": ",1534371,",
+    "target_lang_words": ",1341387,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534371,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 6,
+        "word": "ἀγαθήν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθήν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341387,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 8,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθήν = good",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4119,7 +2016,278 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀγαθήν = good",
-    "frequency": 0.023529411764705882,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "474532",
+    "book_id": "luk",
+    "chapter": "8",
+    "verse": "15",
+    "alignment_num": "16",
+    "orig_lang_words": ",1455323,",
+    "target_lang_words": ",1234991,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1455323,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 13,
+        "word": "ἀγαθῇ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1234991,
+        "book_id": "luk",
+        "chapter": "8",
+        "verse": "15",
+        "word_num": 20,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθῇ = good",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "516367",
+    "book_id": "act",
+    "chapter": "23",
+    "verse": "1",
+    "alignment_num": "14",
+    "orig_lang_words": ",1499024,",
+    "target_lang_words": ",1291825,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1499024,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "1",
+        "word_num": 12,
+        "word": "ἀγαθῇ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθῇ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1291825,
+        "book_id": "act",
+        "chapter": "23",
+        "verse": "1",
+        "word_num": 22,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθῇ = good",
+    "frequency": 1.0,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "477190",
+    "book_id": "luk",
+    "chapter": "10",
+    "verse": "42",
+    "alignment_num": "8",
+    "orig_lang_words": ",1458045,",
+    "target_lang_words": ",1238516,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458045,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "42",
+        "word_num": 7,
+        "word": "ἀγαθὴν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1238516,
+        "book_id": "luk",
+        "chapter": "10",
+        "verse": "42",
+        "word_num": 11,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὴν = good",
+    "frequency": 0.8,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "545629",
+    "book_id": "1th",
+    "chapter": "3",
+    "verse": "6",
+    "alignment_num": "21",
+    "orig_lang_words": ",1529603,",
+    "target_lang_words": ",1334732,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1529603,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 22,
+        "word": "ἀγαθὴν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1334732,
+        "book_id": "1th",
+        "chapter": "3",
+        "verse": "6",
+        "word_num": 27,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὴν = good",
+    "frequency": 0.8,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546860",
+    "book_id": "2th",
+    "chapter": "2",
+    "verse": "16",
+    "alignment_num": "17",
+    "orig_lang_words": ",1530903,",
+    "target_lang_words": ",1336456,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530903,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 22,
+        "word": "ἀγαθὴν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336456,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "16",
+        "word_num": 20,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὴν = good",
+    "frequency": 0.8,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547432",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "19",
+    "alignment_num": "4",
+    "orig_lang_words": ",1531476,",
+    "target_lang_words": ",1337271,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531476,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 3,
+        "word": "ἀγαθὴν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,AFS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὴν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1337271,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "19",
+        "word_num": 4,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὴν = good",
+    "frequency": 0.8,
+    "matchCount": 4,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4175,7 +2343,1832 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν ἀγαθὴν = good",
-    "frequency": 0.011764705882352941,
+    "frequency": 0.2,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "477409",
+    "book_id": "luk",
+    "chapter": "11",
+    "verse": "13",
+    "alignment_num": "7",
+    "orig_lang_words": ",1458270,",
+    "target_lang_words": ",1238836,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1458270,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 7,
+        "word": "ἀγαθὰ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1238836,
+        "book_id": "luk",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 10,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὰ = good",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "478489",
+    "book_id": "luk",
+    "chapter": "12",
+    "verse": "19",
+    "alignment_num": "8",
+    "orig_lang_words": ",1459369,",
+    "target_lang_words": ",1240296,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1459369,
+        "book_id": "luk",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 8,
+        "word": "ἀγαθὰ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὰ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1240296,
+        "book_id": "luk",
+        "chapter": "12",
+        "verse": "19",
+        "word_num": 11,
+        "word": "goods",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "goods",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὰ = goods",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "490613",
+    "book_id": "jhn",
+    "chapter": "5",
+    "verse": "29",
+    "alignment_num": "4",
+    "orig_lang_words": ",1471894,1471895,",
+    "target_lang_words": ",1256825,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1471894,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "29",
+        "word_num": 3,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1471895,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "29",
+        "word_num": 4,
+        "word": "ἀγαθὰ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἀγαθὰ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1256825,
+        "book_id": "jhn",
+        "chapter": "5",
+        "verse": "29",
+        "word_num": 8,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἀγαθὰ = good",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "478480",
+    "book_id": "luk",
+    "chapter": "12",
+    "verse": "18",
+    "alignment_num": "18",
+    "orig_lang_words": ",1459358,1459359,",
+    "target_lang_words": ",1240283,1240284,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1459358,
+        "book_id": "luk",
+        "chapter": "12",
+        "verse": "18",
+        "word_num": 18,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1459359,
+        "book_id": "luk",
+        "chapter": "12",
+        "verse": "18",
+        "word_num": 19,
+        "word": "ἀγαθά",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἀγαθά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1240283,
+        "book_id": "luk",
+        "chapter": "12",
+        "verse": "18",
+        "word_num": 27,
+        "word": "other",
+        "occurrence": 1
+      },
+      {
+        "id": 1240284,
+        "book_id": "luk",
+        "chapter": "12",
+        "verse": "18",
+        "word_num": 28,
+        "word": "goods",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "other goods",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τὰ ἀγαθά = other goods",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "481459",
+    "book_id": "luk",
+    "chapter": "16",
+    "verse": "25",
+    "alignment_num": "11",
+    "orig_lang_words": ",1462379,1462380,",
+    "target_lang_words": ",1244378,1244379,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1462379,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 7,
+        "word": "τὰ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANP,"
+      },
+      {
+        "id": 1462380,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 8,
+        "word": "ἀγαθά",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἀγαθά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1244378,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 12,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1244379,
+        "book_id": "luk",
+        "chapter": "16",
+        "verse": "25",
+        "word_num": 13,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good things",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τὰ ἀγαθά = good things",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "520915",
+    "book_id": "rom",
+    "chapter": "3",
+    "verse": "8",
+    "alignment_num": "12",
+    "orig_lang_words": ",1503753,1503754,",
+    "target_lang_words": ",1298414,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1503753,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 16,
+        "word": "τὰ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNP,"
+      },
+      {
+        "id": 1503754,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 17,
+        "word": "ἀγαθά",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,NNP,"
+      }
+    ],
+    "origWordsTxt": "τὰ ἀγαθά",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1298414,
+        "book_id": "rom",
+        "chapter": "3",
+        "verse": "8",
+        "word_num": 23,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὰ ἀγαθά = good",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524032",
+    "book_id": "rom",
+    "chapter": "10",
+    "verse": "15",
+    "alignment_num": "13",
+    "orig_lang_words": ",1507131,",
+    "target_lang_words": ",1303192,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507131,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "15",
+        "word_num": 15,
+        "word": "ἀγαθά",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANP,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθά",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1303192,
+        "book_id": "rom",
+        "chapter": "10",
+        "verse": "15",
+        "word_num": 23,
+        "word": "gospel",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "gospel",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθά = gospel",
+    "frequency": 0.25,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "483056",
+    "book_id": "luk",
+    "chapter": "19",
+    "verse": "17",
+    "alignment_num": "4",
+    "orig_lang_words": ",1464012,",
+    "target_lang_words": ",1246641,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1464012,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "17",
+        "word_num": 4,
+        "word": "ἀγαθὲ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,VMS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὲ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1246641,
+        "book_id": "luk",
+        "chapter": "19",
+        "verse": "17",
+        "word_num": 7,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὲ = good",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "488204",
+    "book_id": "jhn",
+    "chapter": "1",
+    "verse": "46",
+    "alignment_num": "6",
+    "orig_lang_words": ",1469248,",
+    "target_lang_words": ",1253591,1253592,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1469248,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "46",
+        "word_num": 8,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1253591,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "46",
+        "word_num": 7,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1253592,
+        "book_id": "jhn",
+        "chapter": "1",
+        "verse": "46",
+        "word_num": 8,
+        "word": "thing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good thing",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθὸν = good thing",
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522483",
+    "book_id": "rom",
+    "chapter": "7",
+    "verse": "13",
+    "alignment_num": "3",
+    "orig_lang_words": ",1505489,",
+    "target_lang_words": ",1300822,1300823,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505489,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "13",
+        "word_num": 2,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1300822,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "13",
+        "word_num": 3,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1300823,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "13",
+        "word_num": 4,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is good",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθὸν = is good",
+    "frequency": 0.14285714285714285,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "523492",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "11",
+    "alignment_num": "9",
+    "orig_lang_words": ",1506540,",
+    "target_lang_words": ",1302345,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1506540,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 6,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1302345,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "11",
+        "word_num": 13,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸν = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524699",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "2",
+    "alignment_num": "16",
+    "orig_lang_words": ",1507858,1507859,",
+    "target_lang_words": ",1304236,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1507858,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "2",
+        "word_num": 21,
+        "word": "τὸ",
+        "occurrence": 3,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,NNS,"
+      },
+      {
+        "id": 1507859,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "2",
+        "word_num": 22,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AR,,,,NNS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἀγαθὸν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304236,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "2",
+        "word_num": 25,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἀγαθὸν = good",
+    "frequency": 0.14285714285714285,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524977",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "3",
+    "alignment_num": "13",
+    "orig_lang_words": ",1508172,1508173,",
+    "target_lang_words": ",1304668,1304669,1304670,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1508172,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 18,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1508173,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 19,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἀγαθὸν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1304668,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 26,
+        "word": "what",
+        "occurrence": 1
+      },
+      {
+        "id": 1304669,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 27,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1304670,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 28,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "what is good",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "τὸ ἀγαθὸν = what is good",
+    "frequency": 0.07142857142857142,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "525538",
+    "book_id": "rom",
+    "chapter": "15",
+    "verse": "2",
+    "alignment_num": "8",
+    "orig_lang_words": ",1508789,",
+    "target_lang_words": ",1305548,1305549,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1508789,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "2",
+        "word_num": 7,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1305548,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "2",
+        "word_num": 11,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 1305549,
+        "book_id": "rom",
+        "chapter": "15",
+        "verse": "2",
+        "word_num": 12,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is good",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθὸν = is good",
+    "frequency": 0.14285714285714285,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "534512",
+    "book_id": "2co",
+    "chapter": "5",
+    "verse": "10",
+    "alignment_num": "20",
+    "orig_lang_words": ",1518101,",
+    "target_lang_words": ",1318683,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1518101,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 22,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1318683,
+        "book_id": "2co",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 30,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸν = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539398",
+    "book_id": "gal",
+    "chapter": "6",
+    "verse": "10",
+    "alignment_num": "6",
+    "orig_lang_words": ",1523132,1523133,",
+    "target_lang_words": ",1326072,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1523132,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 6,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 1523133,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 7,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ ἀγαθὸν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326072,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "10",
+        "word_num": 10,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ ἀγαθὸν = good",
+    "frequency": 0.14285714285714285,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "542004",
+    "book_id": "php",
+    "chapter": "1",
+    "verse": "6",
+    "alignment_num": "7",
+    "orig_lang_words": ",1525760,",
+    "target_lang_words": ",1329439,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1525760,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 9,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1329439,
+        "book_id": "php",
+        "chapter": "1",
+        "verse": "6",
+        "word_num": 12,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸν = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546250",
+    "book_id": "1th",
+    "chapter": "5",
+    "verse": "15",
+    "alignment_num": "12",
+    "orig_lang_words": ",1530262,",
+    "target_lang_words": ",1335601,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530262,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 11,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1335601,
+        "book_id": "1th",
+        "chapter": "5",
+        "verse": "15",
+        "word_num": 16,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸν = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549375",
+    "book_id": "2ti",
+    "chapter": "2",
+    "verse": "21",
+    "alignment_num": "20",
+    "orig_lang_words": ",1533385,",
+    "target_lang_words": ",1340002,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533385,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 18,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340002,
+        "book_id": "2ti",
+        "chapter": "2",
+        "verse": "21",
+        "word_num": 28,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸν = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "549670",
+    "book_id": "2ti",
+    "chapter": "3",
+    "verse": "17",
+    "alignment_num": "10",
+    "orig_lang_words": ",1533691,",
+    "target_lang_words": ",1340428,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1533691,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 10,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1340428,
+        "book_id": "2ti",
+        "chapter": "3",
+        "verse": "17",
+        "word_num": 12,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸν = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550235",
+    "book_id": "tit",
+    "chapter": "1",
+    "verse": "16",
+    "alignment_num": "16",
+    "orig_lang_words": ",1534268,",
+    "target_lang_words": ",1341217,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534268,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 15,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341217,
+        "book_id": "tit",
+        "chapter": "1",
+        "verse": "16",
+        "word_num": 21,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸν = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "550444",
+    "book_id": "tit",
+    "chapter": "3",
+    "verse": "1",
+    "alignment_num": "10",
+    "orig_lang_words": ",1534468,",
+    "target_lang_words": ",1341522,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1534468,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 9,
+        "word": "ἀγαθὸν",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὸν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1341522,
+        "book_id": "tit",
+        "chapter": "3",
+        "verse": "1",
+        "word_num": 16,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὸν = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 8,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "492205",
+    "book_id": "jhn",
+    "chapter": "7",
+    "verse": "12",
+    "alignment_num": "11",
+    "orig_lang_words": ",1473628,1473629,",
+    "target_lang_words": ",1258941,1258942,1258943,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1473628,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "12",
+        "word_num": 12,
+        "word": "ὅτι",
+        "occurrence": 1,
+        "strong": "G37540",
+        "lemma": "ὅτι",
+        "morph": "Gr,CS,,,,,,,,"
+      },
+      {
+        "id": 1473629,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "12",
+        "word_num": 13,
+        "word": "ἀγαθός",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NP,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὅτι ἀγαθός",
+    "alignmentOrigWords": 2,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1258941,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "12",
+        "word_num": 13,
+        "word": "a",
+        "occurrence": 1
+      },
+      {
+        "id": 1258942,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "12",
+        "word_num": 14,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1258943,
+        "book_id": "jhn",
+        "chapter": "7",
+        "verse": "12",
+        "word_num": 15,
+        "word": "man",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "a good man",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "ὅτι ἀγαθός = a good man",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "522479",
+    "book_id": "rom",
+    "chapter": "7",
+    "verse": "12",
+    "alignment_num": "11",
+    "orig_lang_words": ",1505486,",
+    "target_lang_words": ",1300818,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1505486,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "12",
+        "word_num": 12,
+        "word": "ἀγαθή",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθή",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1300818,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "12",
+        "word_num": 13,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθή = good",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524809",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "9",
+    "alignment_num": "8",
+    "orig_lang_words": ",1507980,",
+    "target_lang_words": ",1304394,1304395,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1507980,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "9",
+        "word_num": 8,
+        "word": "ἀγαθῷ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1304394,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "9",
+        "word_num": 14,
+        "word": "is",
+        "occurrence": 2
+      },
+      {
+        "id": 1304395,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "9",
+        "word_num": 15,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "is good",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθῷ = is good",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524931",
+    "book_id": "rom",
+    "chapter": "12",
+    "verse": "21",
+    "alignment_num": "8",
+    "orig_lang_words": ",1508114,1508115,",
+    "target_lang_words": ",1304593,",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 1508114,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 8,
+        "word": "τῷ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1508115,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 9,
+        "word": "ἀγαθῷ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ ἀγαθῷ",
+    "alignmentOrigWords": 2,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1304593,
+        "book_id": "rom",
+        "chapter": "12",
+        "verse": "21",
+        "word_num": 10,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τῷ ἀγαθῷ = good",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "524968",
+    "book_id": "rom",
+    "chapter": "13",
+    "verse": "3",
+    "alignment_num": "4",
+    "orig_lang_words": ",1508160,1508161,1508162,",
+    "target_lang_words": ",1304648,1304649,1304650,",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 1508160,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 6,
+        "word": "τῷ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DNS,"
+      },
+      {
+        "id": 1508161,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 7,
+        "word": "ἀγαθῷ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,DNS,"
+      },
+      {
+        "id": 1508162,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 8,
+        "word": "ἔργῳ",
+        "occurrence": 1,
+        "strong": "G20410",
+        "lemma": "ἔργον",
+        "morph": "Gr,N,,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "τῷ ἀγαθῷ ἔργῳ",
+    "alignmentOrigWords": 3,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 1304648,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 6,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 1304649,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 7,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1304650,
+        "book_id": "rom",
+        "chapter": "13",
+        "verse": "3",
+        "word_num": 8,
+        "word": "deeds",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to good deeds",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "τῷ ἀγαθῷ ἔργῳ = to good deeds",
+    "frequency": 0.14285714285714285,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "543665",
+    "book_id": "col",
+    "chapter": "1",
+    "verse": "10",
+    "alignment_num": "10",
+    "orig_lang_words": ",1527482,",
+    "target_lang_words": ",1331940,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1527482,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 10,
+        "word": "ἀγαθῷ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1331940,
+        "book_id": "col",
+        "chapter": "1",
+        "verse": "10",
+        "word_num": 27,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθῷ = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "546871",
+    "book_id": "2th",
+    "chapter": "2",
+    "verse": "17",
+    "alignment_num": "7",
+    "orig_lang_words": ",1530917,",
+    "target_lang_words": ",1336467,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1530917,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 11,
+        "word": "ἀγαθῷ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336467,
+        "book_id": "2th",
+        "chapter": "2",
+        "verse": "17",
+        "word_num": 7,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθῷ = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "548219",
+    "book_id": "1ti",
+    "chapter": "5",
+    "verse": "10",
+    "alignment_num": "18",
+    "orig_lang_words": ",1532238,",
+    "target_lang_words": ",1338388,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1532238,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 18,
+        "word": "ἀγαθῷ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1338388,
+        "book_id": "1ti",
+        "chapter": "5",
+        "verse": "10",
+        "word_num": 40,
+        "word": "good",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθῷ = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555631",
+    "book_id": "heb",
+    "chapter": "13",
+    "verse": "21",
+    "alignment_num": "4",
+    "orig_lang_words": ",1539885,",
+    "target_lang_words": ",1349350,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1539885,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "21",
+        "word_num": 4,
+        "word": "ἀγαθῷ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,DNS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθῷ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349350,
+        "book_id": "heb",
+        "chapter": "13",
+        "verse": "21",
+        "word_num": 4,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθῷ = good",
+    "frequency": 0.5714285714285714,
+    "matchCount": 4,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "539339",
+    "book_id": "gal",
+    "chapter": "6",
+    "verse": "6",
+    "alignment_num": "6",
+    "orig_lang_words": ",1523076,",
+    "target_lang_words": ",1325975,1325976,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523076,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 10,
+        "word": "ἀγαθοῖς",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 1325975,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 11,
+        "word": "good",
+        "occurrence": 1
+      },
+      {
+        "id": 1325976,
+        "book_id": "gal",
+        "chapter": "6",
+        "verse": "6",
+        "word_num": 12,
+        "word": "things",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good things",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "ἀγαθοῖς = good things",
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "540073",
+    "book_id": "eph",
+    "chapter": "2",
+    "verse": "10",
+    "alignment_num": "9",
+    "orig_lang_words": ",1523821,",
+    "target_lang_words": ",1326963,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1523821,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 10,
+        "word": "ἀγαθοῖς",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,DNP,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1326963,
+        "book_id": "eph",
+        "chapter": "2",
+        "verse": "10",
+        "word_num": 10,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθοῖς = good",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "557995",
+    "book_id": "1pe",
+    "chapter": "2",
+    "verse": "18",
+    "alignment_num": "10",
+    "orig_lang_words": ",1542379,",
+    "target_lang_words": ",1352845,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542379,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 11,
+        "word": "ἀγαθοῖς",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,NS,,,,DMP,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθοῖς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1352845,
+        "book_id": "1pe",
+        "chapter": "2",
+        "verse": "18",
+        "word_num": 15,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθοῖς = good",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "547222",
+    "book_id": "1ti",
+    "chapter": "1",
+    "verse": "5",
+    "alignment_num": "14",
+    "orig_lang_words": ",1531266,",
+    "target_lang_words": ",1336961,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1531266,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 12,
+        "word": "ἀγαθῆς",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,GFS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθῆς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1336961,
+        "book_id": "1ti",
+        "chapter": "1",
+        "verse": "5",
+        "word_num": 14,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθῆς = good",
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -4219,42 +4212,133 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἀγαθῆς = good",
-    "frequency": 0.023529411764705882,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
   {
-    "id": "562216",
-    "book_id": "3jn",
-    "chapter": "1",
-    "verse": "11",
-    "alignment_num": "7",
-    "orig_lang_words": ",1547009,",
-    "target_lang_words": ",1359167,",
+    "id": "550279",
+    "book_id": "tit",
+    "chapter": "2",
+    "verse": "5",
+    "alignment_num": "2",
+    "orig_lang_words": ",1534312,",
+    "target_lang_words": ",1341292,",
     "origSpan": 0,
     "origWords": [
       {
-        "id": 1547009,
-        "book_id": "3jn",
-        "chapter": "1",
-        "verse": "11",
-        "word_num": 7,
-        "word": "ἀγαθόν",
+        "id": 1534312,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 3,
+        "word": "ἀγαθάς",
         "occurrence": 1,
         "strong": "G00180",
         "lemma": "ἀγαθός",
-        "morph": "Gr,NS,,,,ANS,"
+        "morph": "Gr,NS,,,,AFP,"
       }
     ],
-    "origWordsTxt": "ἀγαθόν",
+    "origWordsTxt": "ἀγαθάς",
     "alignmentOrigWords": 1,
     "targetSpan": 0,
     "targetWords": [
       {
-        "id": 1359167,
-        "book_id": "3jn",
+        "id": 1341292,
+        "book_id": "tit",
+        "chapter": "2",
+        "verse": "5",
+        "word_num": 4,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθάς = good",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "555900",
+    "book_id": "jas",
+    "chapter": "1",
+    "verse": "17",
+    "alignment_num": "1",
+    "orig_lang_words": ",1540178,",
+    "target_lang_words": ",1349754,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1540178,
+        "book_id": "jas",
         "chapter": "1",
-        "verse": "11",
+        "verse": "17",
+        "word_num": 2,
+        "word": "ἀγαθὴ",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,NFS,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὴ",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1349754,
+        "book_id": "jas",
+        "chapter": "1",
+        "verse": "17",
+        "word_num": 1,
+        "word": "good",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "good",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἀγαθὴ = good",
+    "frequency": 1.0,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "558256",
+    "book_id": "1pe",
+    "chapter": "3",
+    "verse": "10",
+    "alignment_num": "7",
+    "orig_lang_words": ",1542654,",
+    "target_lang_words": ",1353274,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1542654,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "10",
+        "word_num": 8,
+        "word": "ἀγαθὰς",
+        "occurrence": 1,
+        "strong": "G00180",
+        "lemma": "ἀγαθός",
+        "morph": "Gr,AA,,,,AFP,"
+      }
+    ],
+    "origWordsTxt": "ἀγαθὰς",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1353274,
+        "book_id": "1pe",
+        "chapter": "3",
+        "verse": "10",
         "word_num": 10,
         "word": "good",
         "occurrence": 1
@@ -4262,8 +4346,9 @@
     ],
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
-    "alignmentTxt": "ἀγαθόν = good",
-    "frequency": 0.09411764705882353,
+    "alignmentTxt": "ἀγαθὰς = good",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

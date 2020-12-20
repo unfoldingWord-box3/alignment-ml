@@ -66,7 +66,8 @@
     "targetWordsTxt": "will be made low",
     "alignmentTargetWords": 4,
     "alignmentTxt": "ταπεινωθήσεται = will be made low",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -128,51 +129,8 @@
     "targetWordsTxt": "will be humbled",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ταπεινωθήσεται = will be humbled",
-    "frequency": 0.18181818181818182,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "480012",
-    "book_id": "luk",
-    "chapter": "14",
-    "verse": "11",
-    "alignment_num": "8",
-    "orig_lang_words": ",1460907,",
-    "target_lang_words": ",1242410,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1460907,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "11",
-        "word_num": 8,
-        "word": "ταπεινῶν",
-        "occurrence": 1,
-        "strong": "G50130",
-        "lemma": "ταπεινόω",
-        "morph": "Gr,V,PPA,NMS,"
-      }
-    ],
-    "origWordsTxt": "ταπεινῶν",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1242410,
-        "book_id": "luk",
-        "chapter": "14",
-        "verse": "11",
-        "word_num": 12,
-        "word": "humbles",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "humbles",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ταπεινῶν = humbles",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -234,7 +192,53 @@
     "targetWordsTxt": "will be humbled",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ταπεινωθήσεται = will be humbled",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "480012",
+    "book_id": "luk",
+    "chapter": "14",
+    "verse": "11",
+    "alignment_num": "8",
+    "orig_lang_words": ",1460907,",
+    "target_lang_words": ",1242410,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1460907,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "11",
+        "word_num": 8,
+        "word": "ταπεινῶν",
+        "occurrence": 1,
+        "strong": "G50130",
+        "lemma": "ταπεινόω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ταπεινῶν",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1242410,
+        "book_id": "luk",
+        "chapter": "14",
+        "verse": "11",
+        "word_num": 12,
+        "word": "humbles",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "humbles",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ταπεινῶν = humbles",
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -278,7 +282,8 @@
     "targetWordsTxt": "humbles",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ταπεινῶν = humbles",
-    "frequency": 0.18181818181818182,
+    "frequency": 0.6666666666666666,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -331,7 +336,8 @@
     "targetWordsTxt": "by humbling",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ταπεινῶν = by humbling",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -384,7 +390,8 @@
     "targetWordsTxt": "might humble",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ταπεινώσῃ = might humble",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -437,7 +444,8 @@
     "targetWordsTxt": "he humbled",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐταπείνωσεν = he humbled",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -526,7 +534,8 @@
     "targetWordsTxt": "what it is to be poor",
     "alignmentTargetWords": 6,
     "alignmentTxt": "ταπεινοῦσθαι = what it is to be poor",
-    "frequency": 0.09090909090909091,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -579,7 +588,8 @@
     "targetWordsTxt": "Humble yourselves",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ταπεινώθητε = Humble yourselves",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -632,7 +642,8 @@
     "targetWordsTxt": "humble yourselves",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ταπεινώθητε = humble yourselves",
-    "frequency": 0.09090909090909091,
+    "frequency": 0.5,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }

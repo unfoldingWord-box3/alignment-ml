@@ -57,7 +57,8 @@
     "targetWordsTxt": "of a centurion",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἑκατοντάρχου = of a centurion",
-    "frequency": 0.06666666666666667,
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -101,7 +102,8 @@
     "targetWordsTxt": "centurion",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἑκατοντάρχης = centurion",
-    "frequency": 0.4,
+    "frequency": 0.75,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -145,7 +147,8 @@
     "targetWordsTxt": "centurion",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἑκατοντάρχης = centurion",
-    "frequency": 0.4,
+    "frequency": 0.75,
+    "matchCount": 6,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -198,7 +201,8 @@
     "targetWordsTxt": "a centurion",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἑκατοντάρχης = a centurion",
-    "frequency": 0.13333333333333333,
+    "frequency": 0.25,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -251,51 +255,8 @@
     "targetWordsTxt": "a centurion",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἑκατοντάρχης = a centurion",
-    "frequency": 0.13333333333333333,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "515614",
-    "book_id": "act",
-    "chapter": "21",
-    "verse": "32",
-    "alignment_num": "5",
-    "orig_lang_words": ",1498265,",
-    "target_lang_words": ",1290796,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1498265,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "32",
-        "word_num": 5,
-        "word": "ἑκατοντάρχας",
-        "occurrence": 1,
-        "strong": "G15430",
-        "lemma": "ἑκατοντάρχης",
-        "morph": "Gr,N,,,,,AMP,"
-      }
-    ],
-    "origWordsTxt": "ἑκατοντάρχας",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1290796,
-        "book_id": "act",
-        "chapter": "21",
-        "verse": "32",
-        "word_num": 6,
-        "word": "centurions",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "centurions",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἑκατοντάρχας = centurions",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.25,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -339,7 +300,188 @@
     "targetWordsTxt": "centurion",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἑκατοντάρχης = centurion",
-    "frequency": 0.4,
+    "frequency": 0.75,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518654",
+    "book_id": "act",
+    "chapter": "27",
+    "verse": "6",
+    "alignment_num": "2",
+    "orig_lang_words": ",1501358,",
+    "target_lang_words": ",1295062,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501358,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "6",
+        "word_num": 3,
+        "word": "ἑκατοντάρχης",
+        "occurrence": 1,
+        "strong": "G15430",
+        "lemma": "ἑκατοντάρχης",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἑκατοντάρχης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1295062,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "6",
+        "word_num": 2,
+        "word": "centurion",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "centurion",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἑκατοντάρχης = centurion",
+    "frequency": 0.75,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "518750",
+    "book_id": "act",
+    "chapter": "27",
+    "verse": "11",
+    "alignment_num": "2",
+    "orig_lang_words": ",1501454,",
+    "target_lang_words": ",1295192,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501454,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "11",
+        "word_num": 2,
+        "word": "ἑκατοντάρχης",
+        "occurrence": 1,
+        "strong": "G15430",
+        "lemma": "ἑκατοντάρχης",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἑκατοντάρχης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1295192,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "11",
+        "word_num": 2,
+        "word": "centurion",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "centurion",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἑκατοντάρχης = centurion",
+    "frequency": 0.75,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "519272",
+    "book_id": "act",
+    "chapter": "27",
+    "verse": "43",
+    "alignment_num": "2",
+    "orig_lang_words": ",1501977,",
+    "target_lang_words": ",1295950,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1501977,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "43",
+        "word_num": 2,
+        "word": "ἑκατοντάρχης",
+        "occurrence": 1,
+        "strong": "G15430",
+        "lemma": "ἑκατοντάρχης",
+        "morph": "Gr,N,,,,,NMS,"
+      }
+    ],
+    "origWordsTxt": "ἑκατοντάρχης",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1295950,
+        "book_id": "act",
+        "chapter": "27",
+        "verse": "43",
+        "word_num": 2,
+        "word": "centurion",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "centurion",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἑκατοντάρχης = centurion",
+    "frequency": 0.75,
+    "matchCount": 6,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0
+  },
+  {
+    "id": "515614",
+    "book_id": "act",
+    "chapter": "21",
+    "verse": "32",
+    "alignment_num": "5",
+    "orig_lang_words": ",1498265,",
+    "target_lang_words": ",1290796,",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 1498265,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "32",
+        "word_num": 5,
+        "word": "ἑκατοντάρχας",
+        "occurrence": 1,
+        "strong": "G15430",
+        "lemma": "ἑκατοντάρχης",
+        "morph": "Gr,N,,,,,AMP,"
+      }
+    ],
+    "origWordsTxt": "ἑκατοντάρχας",
+    "alignmentOrigWords": 1,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 1290796,
+        "book_id": "act",
+        "chapter": "21",
+        "verse": "32",
+        "word_num": 6,
+        "word": "centurions",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "centurions",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ἑκατοντάρχας = centurions",
+    "frequency": 1.0,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -383,7 +525,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἑκατονταρχῶν = of",
-    "frequency": 0.13333333333333333,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -427,7 +570,8 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἑκατονταρχῶν = of",
-    "frequency": 0.13333333333333333,
+    "frequency": 1.0,
+    "matchCount": 2,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -471,7 +615,8 @@
     "targetWordsTxt": "centurion",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἑκατοντάρχῃ = centurion",
-    "frequency": 0.06666666666666667,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -533,95 +678,8 @@
     "targetWordsTxt": "to a centurion",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἑκατοντάρχῃ = to a centurion",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "518654",
-    "book_id": "act",
-    "chapter": "27",
-    "verse": "6",
-    "alignment_num": "2",
-    "orig_lang_words": ",1501358,",
-    "target_lang_words": ",1295062,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1501358,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "6",
-        "word_num": 3,
-        "word": "ἑκατοντάρχης",
-        "occurrence": 1,
-        "strong": "G15430",
-        "lemma": "ἑκατοντάρχης",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἑκατοντάρχης",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1295062,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "6",
-        "word_num": 2,
-        "word": "centurion",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "centurion",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἑκατοντάρχης = centurion",
-    "frequency": 0.4,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "518750",
-    "book_id": "act",
-    "chapter": "27",
-    "verse": "11",
-    "alignment_num": "2",
-    "orig_lang_words": ",1501454,",
-    "target_lang_words": ",1295192,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1501454,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "11",
-        "word_num": 2,
-        "word": "ἑκατοντάρχης",
-        "occurrence": 1,
-        "strong": "G15430",
-        "lemma": "ἑκατοντάρχης",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἑκατοντάρχης",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1295192,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "11",
-        "word_num": 2,
-        "word": "centurion",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "centurion",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἑκατοντάρχης = centurion",
-    "frequency": 0.4,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   },
@@ -665,51 +723,8 @@
     "targetWordsTxt": "to",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἑκατοντάρχῃ = to",
-    "frequency": 0.06666666666666667,
-    "origWordsBetween": 0,
-    "targetWordsBetween": 0
-  },
-  {
-    "id": "519272",
-    "book_id": "act",
-    "chapter": "27",
-    "verse": "43",
-    "alignment_num": "2",
-    "orig_lang_words": ",1501977,",
-    "target_lang_words": ",1295950,",
-    "origSpan": 0,
-    "origWords": [
-      {
-        "id": 1501977,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "43",
-        "word_num": 2,
-        "word": "ἑκατοντάρχης",
-        "occurrence": 1,
-        "strong": "G15430",
-        "lemma": "ἑκατοντάρχης",
-        "morph": "Gr,N,,,,,NMS,"
-      }
-    ],
-    "origWordsTxt": "ἑκατοντάρχης",
-    "alignmentOrigWords": 1,
-    "targetSpan": 0,
-    "targetWords": [
-      {
-        "id": 1295950,
-        "book_id": "act",
-        "chapter": "27",
-        "verse": "43",
-        "word_num": 2,
-        "word": "centurion",
-        "occurrence": 1
-      }
-    ],
-    "targetWordsTxt": "centurion",
-    "alignmentTargetWords": 1,
-    "alignmentTxt": "ἑκατοντάρχης = centurion",
-    "frequency": 0.4,
+    "frequency": 0.3333333333333333,
+    "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0
   }
