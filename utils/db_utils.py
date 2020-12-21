@@ -95,6 +95,8 @@ CREATE TABLE IF NOT EXISTS {alignment_table} (
   chapter TEXT NOT NULL,
   verse TEXT NOT NULL,
   alignment_num INTEGER,
+  orig_lang_keys TEXT NOT NULL,
+  target_lang_keys TEXT NOT NULL,
   orig_lang_words TEXT NOT NULL,
   target_lang_words TEXT NOT NULL
 );
@@ -398,6 +400,7 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
     targetLangWords = bottomWords
 
     targetIndices = ''
+    targetWords = []
     missingWord = False
     for wordTL in targetLangWords:
         word = getWordText(wordTL)
@@ -406,7 +409,9 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
         if len(items) > 0:
             if len(targetIndices) > 0:
                 targetIndices += ','
-            pos = str(items[0]['id'])
+            targetWord = items[0]
+            pos = str(targetWord['id'])
+            targetWords.append(targetWord)
         else:
             pos = '-1'
             missingWord = True
@@ -415,6 +420,7 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
     targetIndices = f",{targetIndices}," # wrap to make searching easier
 
     originalIndices = ''
+    originalWords = []
     for wordOL in origLangWords:
         word = getWordText(wordOL)
         occurrence = wordOL['occurrence']
@@ -422,7 +428,9 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
         if len(items) > 0:
             if len(originalIndices) > 0:
                 originalIndices = originalIndices + ','
-            pos = str(items[0]['id'])
+            originalWord = items[0]
+            pos = str(originalWord['id'])
+            originalWords.append(originalWord)
         else:
             pos = '-1'
             missingWord = True
@@ -439,8 +447,10 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
         'chapter': chapter,
         'verse': verse,
         'alignment_num':alignmentNum,
-        'orig_lang_words':originalIndices,
-        'target_lang_words': targetIndices
+        'orig_lang_keys':originalIndices,
+        'target_lang_keys': targetIndices,
+        'orig_lang_words': json.dumps(originalWords, ensure_ascii = False),
+        'target_lang_words': json.dumps(targetWords, ensure_ascii = False)
     }
     return alignment_
 
@@ -511,17 +521,19 @@ def getAlignmentsForTestament(connection, newTestament, dataFolder, bibleType, n
 
 def findAlignmentForWord(connection, word, searchOriginal):
     match = str(word['id'])
-    return findAlignmentFor(connection, match, searchOriginal)
+    matchStr = f"%,{match},%"
+    return findAlignmentFor(connection, matchStr, searchOriginal)
 
 def findAlignmentFor(connection, matchStr, searchOriginal):
     if searchOriginal:
-        field = 'orig_lang_words'
+        field = 'orig_lang_keys'
     else:
-        field = 'target_lang_words'
+        field = 'target_lang_keys'
 
-    search = f"{field} LIKE '%,{matchStr},%'"
-    # print(f"search: {search}")
-    alignments = fetchRecords(connection, alignment_table, search)
+    return findAlignmentForField(connection, field, matchStr)
+
+def findAlignmentForField(connection, field, matchStr):
+    alignments = findAlignmentsForField(connection, field, matchStr)
     if len(alignments) > 0:
         # print(f"found match: {alignments[0]}")
         return alignments[0]
@@ -529,12 +541,31 @@ def findAlignmentFor(connection, matchStr, searchOriginal):
         # print(f"match not found for: {matchStr}")
         return None
 
+def findAlignmentsForField(connection, field, matchStr):
+    search = f"{field} LIKE '{matchStr}'"
+    # print(f"search: {search}")
+    alignments = fetchRecords(connection, alignment_table, search)
+    return alignments
+
+def findAlignmentsForOriginalWord(connection, word, searchLemma = False):
+    field = 'orig_lang_words'
+
+    if searchLemma:
+        key = 'lemma'
+    else:
+        key = 'word'
+
+    matchStr = f'%"{key}": "{word}"%'
+    # print(f"matchStr = {matchStr}")
+    found = findAlignmentsForField(connection, field, matchStr)
+    return found
+
 def lookupWords(connection, alignment, getOriginalWords):
     if getOriginalWords:
-        alignedWords = alignment['orig_lang_words']
+        alignedWords = alignment['orig_lang_keys']
         table = original_words_table
     else:
-        alignedWords = alignment['target_lang_words']
+        alignedWords = alignment['target_lang_keys']
         table = target_words_table
     words = []
     # print(f"found ID = {foundId}")
@@ -654,6 +685,50 @@ def findAlignmentsForWord(connection, word, searchOriginal = True, searchLemma =
     results = addDataToAlignmentsAndClean(alignments)
     df = pd.DataFrame(results)  # load as dataframe so we can to cool stuff
     return df
+
+# modifies alignment
+def convertAlignmentEntryToTable(alignment):
+    # get original language words
+    origWords = json.loads(alignment['orig_lang_words'])
+    alignment['origSpan'] = getSpan(origWords)
+    alignment['origWords'] = origWords
+    origWordsTxt = combineWordList(origWords)
+    alignment['origWordsTxt'] = origWordsTxt
+    alignment['alignmentOrigWords'] = len(origWords)
+    del alignment['orig_lang_words']
+
+    # get target language words
+    targetWords = json.loads(alignment['target_lang_words'])
+    alignment['targetSpan'] = getSpan(targetWords)
+    alignment['targetWords'] = targetWords
+    targetWordsTxt = combineWordList(targetWords)
+    alignment['targetWordsTxt'] = targetWordsTxt
+    alignment['alignmentTargetWords'] = len(targetWords)
+    del alignment['target_lang_words']
+
+    alignment['alignmentTxt'] = f"{origWordsTxt} = {targetWordsTxt}"
+
+def getAlignmentsForLemmas(connection, lemmasList):
+    lemmaAlignments = {}
+
+    for lemma in lemmasList:
+        print (f"updating '{lemma}'")
+        alignments = findAlignmentsForOriginalWord(connection, lemma, searchLemma = True)
+        for alignment in alignments:
+            convertAlignmentEntryToTable(alignment)
+
+        alignments_ = splitLemmasAndAddData(alignments, lemma)
+        lemmaAlignments[lemma] = alignments_
+
+    return lemmaAlignments
+
+def flattenAlignments(alignments):
+    alignmentsList = []
+    for key in alignments.keys():
+        print(f"Merging {key}")
+        alignmentsList.extend(alignments[key])
+
+    return alignmentsList
 
 # adds frequency data and converts identification fields to str
 def addDataToAlignmentsAndClean(alignments):
@@ -868,7 +943,7 @@ def saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLe
     df.to_csv(path_or_buf=csvPath, index=False, header=True, quoting=csv.QUOTE_NONNUMERIC)
     return df
 
-def refreshSavedAlignmentData(connection, keyTermsPath, minLen=-1):
+def saveAlignmentDataForLemmas(connection, keyTermsPath, minLen=-1):
     data = file.initJsonFile(keyTermsPath)
     print (f"'{keyTermsPath}' has words: {data}")
 
@@ -880,6 +955,18 @@ def refreshSavedAlignmentData(connection, keyTermsPath, minLen=-1):
 
 # reading dataFrame from json:
 def loadAlignmentDataFromFile(lemma):
+    alignment_data_path = f'data/TrainingData/{lemma}.json'
+    try:
+        f = open(alignment_data_path)
+        dataStr = f.read()
+        data = json.loads(dataStr)
+        df = pd.DataFrame(data)
+    except FileNotFoundError:
+        df = None
+        print(f"loadAlignmentDataFromFile - failed to load {lemma} since file not found at {alignment_data_path}")
+    return df
+
+def loadAlignmentData(lemma):
     alignment_data_path = f'data/TrainingData/{lemma}.json'
     try:
         f = open(alignment_data_path)
@@ -973,14 +1060,14 @@ def findLemmasForQuotes(connection, quotesPath, lemmasPath):
         for origWord in data[key]:
             word = findLemma(origWord)
             lemma = word['lemma']
-            morph = word['morph']
             print(f"for {origWord} found {lemma}")
             if lemma in lemmas:
                 lemmas[lemma]['count'] += 1
             else:
                 lemmas[lemma] = {
                     'count': 1,
-                    'morph': morph
+                    'strong': word['strong']
                 }
 
+    print(f"findLemmasForQuotes - found {len(lemmas.keys())} lemmas")
     file.writeJsonFile(lemmasPath, lemmas)

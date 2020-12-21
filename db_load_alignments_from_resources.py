@@ -11,7 +11,7 @@ from datetime import timedelta
 original_words_table = db.original_words_table
 target_words_table = db.target_words_table
 alignment_table = db.alignment_table
-dbPath = './data/alignmentsData.sqlite'
+dbPath = './data/en_ult_alignments.sqlite'
 keyTermsPath = './data/keyTerms.json'
 alignmentTrainingDataPath = './data/TrainingData'
 origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
@@ -69,7 +69,7 @@ print (f"{len(items_align)} items in alignment_table")
 items_orig = db.fetchRecords(connection, original_words_table, '')
 print (f"{len(items_orig)} items in original_words_table")
 
-# see:
+# see from project:
 # 45996 items in target_words_table
 # 31219 items in alignment_table
 # 357007 items in original_words_table
@@ -77,9 +77,13 @@ print (f"{len(items_orig)} items in original_words_table")
 # now see with updated db:
 # 184166 items in target_words_table
 # 130137 items in alignment_table
-# 443108 items in original_words_table
+# 137962 items in original_words_table
 
-# Get NT alignments
+# Get NT alignments - deleting sqlite DB first
+# on M1 MBP 13" rosetta: Elapsed time: 0:23:52
+# on Dell Laptop: Elapsed time: 0:46:33
+
+# Get NT alignments - old
 # Times on 2015 MBP 15": Elapsed time: 1:42:31
 # on M1 MBP 13" rosetta: Elapsed time: 1:24:16
 

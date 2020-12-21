@@ -35,3 +35,4 @@ df.describe() # show key metric data
 - 'alignmentTargetWords'  - count of target language words used in alignment
 - 'alignmentTxt' - origWordsTxt combined with targetWordsTxt (easy visual of
 - 'frequency' - normalized frequency that this specific alignment was made (alignment count/total alignments in table)
+- 'matchCount' - number of times this specific alignment was made (alignment count)

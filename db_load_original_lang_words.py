@@ -11,7 +11,7 @@ origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
 origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
 original_words_table = db.original_words_table
 target_words_table = db.target_words_table
-dbPath = './data/alignmentsData.sqlite'
+dbPath = './data/en_ult_alignments.sqlite'
 
 connection = db.initAlignmentDB(dbPath)
 
