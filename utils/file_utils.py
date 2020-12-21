@@ -38,7 +38,7 @@ def downloadFile(url, outputPath):
 
 
 def writeFile(outputPath, text):
-    f = open(outputPath, "w")
+    f = open(outputPath, "w", encoding='utf-8')
     f.write(text)
 
 def writeJsonFile(outputPath, data):
@@ -61,7 +61,7 @@ def downloadJsonFile(url, outputPath):
         print (f'downloadJsonFile - no data found: {url} ')
 
 def readFile(inputPath):
-    f = open(inputPath, "r")
+    f = open(inputPath, "r", encoding='utf-8')
     # print ('readFile ' + inputPath)
     data = f.read()
     return data
