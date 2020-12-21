@@ -4,6 +4,9 @@
 
 ```
 # example reading dataFrame from json which preserves types:
+import json
+import pandas as pd
+
 f = open('data/TrainingData/θεός.json')
 dataStr = f.read()
 data = json.loads(dataStr)
