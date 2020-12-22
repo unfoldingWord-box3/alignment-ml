@@ -1,5 +1,9 @@
 ## Training data folder
 
+### training data files:
+- kt_en_NT_alignments_all.json - alignments for en tWords keyterms
+- kt_en_NT_alignments_filtered_100.json - alignments for en tWords keyterms filtered by minimum of 100 alignments for word
+
 ### loading alignments data into a dataframe in Python:
 
 ```

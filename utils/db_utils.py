@@ -712,7 +712,7 @@ def getAlignmentsForLemmas(connection, lemmasList):
     lemmaAlignments = {}
 
     for lemma in lemmasList:
-        print (f"updating '{lemma}'")
+        # print (f"updating '{lemma}'")
         alignments = findAlignmentsForOriginalWord(connection, lemma, searchLemma = True)
         for alignment in alignments:
             convertAlignmentEntryToTable(alignment)
@@ -730,7 +730,7 @@ def filterAlignments(alignments, minAlignments=-1):
     rejectedAlignmentsList = []
     for key in alignments.keys():
         alignments_ = alignments[key]
-        print(f"Merging '{key}', size {len(alignments_)}")
+        # print(f"Merging '{key}', size {len(alignments_)}")
         if minAlignments < 0:
             alignmentsList.extend(alignments_)
         else:
@@ -766,7 +766,7 @@ def addDataToAlignmentsAndClean(alignments):
                     words[pos-1] = firstPart + "'" + secondPart
                     words.remove('s')
                     newText = ' '.join(words)
-                    print(f"Replacing '{alignment['targetWordsTxt']}' with '{newText}'")
+                    print(f'Replacing "{alignment["targetWordsTxt"]}" with "{newText}"')
                     alignment['targetWordsTxt'] = newText
                     alignment['alignmentTxt'] = alignment['origWordsTxt'] + " = " + newText
                     alignment['alignmentTargetWords'] -= 1
