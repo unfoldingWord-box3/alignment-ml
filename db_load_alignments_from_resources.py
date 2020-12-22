@@ -53,21 +53,13 @@ print (f"{len(items_align)} items in alignment_table")
 items_orig = db.fetchRecords(connection, original_words_table, '')
 print (f"{len(items_orig)} items in original_words_table")
 
-# see from project:
-# 45996 items in target_words_table
-# 31219 items in alignment_table
-# 357007 items in original_words_table
-
 # now see with updated db:
-# 184166 items in target_words_table
-# 130137 items in alignment_table
+# 183353 items in target_words_table
+# 130177 items in alignment_table
 # 137962 items in original_words_table
 
 # Get NT alignments - deleting sqlite DB first
 # on M1 MBP 13" rosetta: Elapsed time: 0:23:52
 # on Dell Laptop: Elapsed time: 0:46:33
 
-# Get NT alignments - old
-# Times on 2015 MBP 15": Elapsed time: 1:42:31
-# on M1 MBP 13" rosetta: Elapsed time: 1:24:16
 
