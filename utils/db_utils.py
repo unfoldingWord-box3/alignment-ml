@@ -509,14 +509,10 @@ def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLa
     else:
         print(f"No alignments for {bookId} at {bookFolder}")
 
-def getAlignmentsForTestament(connection, newTestament, dataFolder, bibleType, nestedFormat=False):
+def getAlignmentsForTestament(connection, newTestament, dataFolder, origLangPath, bibleType, nestedFormat=False):
     books = bible.getBookList(newTestament)
     for book in books:
         print (f"reading {book}")
-        if newTestament:
-            origLangPath = origLangPathGreek
-        else:
-            origLangPath = origLangPathHebrew
         saveAlignmentsForBook(connection, book, dataFolder, bibleType, origLangPath, nestedFormat)
 
 def findAlignmentForWord(connection, word, searchOriginal):

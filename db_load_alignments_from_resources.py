@@ -1,48 +1,32 @@
 # load all the alignments in resource format (i.e. zaln) into data folder
 
-import json
-import pandas as pd
 import utils.db_utils as db
-import utils.file_utils as file
-import utils.bible_utils as bible
 import time
 from datetime import timedelta
+from pathlib import Path
+
+############################################
+# configure these values for your system
+############################################
+
+targetBibleType = 'en_ult'
+testament = 1
+home = str(Path.home())
+
+origLangPathGreek =  f'{home}/translationCore/resources/el-x-koine/bibles/ugnt/v0.16'
+origLangPathHebrew = f'{home}/translationCore/resources/hbo/bibles/uhb/v2.1.16'
+targetLanguagePath = f'{home}/translationCore/resources/en/bibles/ult/v18'
+
+############################################
 
 original_words_table = db.original_words_table
 target_words_table = db.target_words_table
 alignment_table = db.alignment_table
-dbPath = './data/en_ult_alignments.sqlite'
-keyTermsPath = './data/keyTerms.json'
-alignmentTrainingDataPath = './data/TrainingData'
-origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
-origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
-targetLangPathEn = './data/TargetLangJson/ult/v14'
+dbPath = f'./data/{targetBibleType}_alignments.sqlite'
 
 connection = db.initAlignmentDB(dbPath)
 
-bibleType = 'en_ult'
-testament = 1
-dataFolder = './data/TargetLangJson/en/ult/v14'
-origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
-origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
-targetLangPathEn = './data/TargetLangJson/ult/v14'
-
-searchOriginal = True
-searchTarget = False
-searchLemma = True
-caseInsensitive = True
-
 ########################
-
-# filePath = dataFolder + '/luk/1.json'
-# luke_1 = file.readJsonFile(filePath)
-# luk_1_5_align = luke_1['5']
-
-# target_words, alignments = db.getAlignmentsFromVerse(luk_1_5_align['verseObjects'])
-
-# target_words = db.saveAlignmentsForBook(connection, 'mat', dataFolder, 'ult', origLangPathGreek, nestedFormat=True)
-
-#################
 
 # completely clear old data
 db.resetTable(connection, target_words_table)
@@ -53,7 +37,7 @@ db.resetTable(connection, alignment_table)
 
 # get alignments for NT
 start = time.time()
-db.getAlignmentsForTestament(connection, 1, dataFolder, bibleType, nestedFormat=True)
+db.getAlignmentsForTestament(connection, 1, targetLanguagePath, origLangPathGreek, targetBibleType, nestedFormat=True)
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'Get NT alignments, Elapsed time: {elapsed}')
