@@ -722,13 +722,26 @@ def getAlignmentsForLemmas(connection, lemmasList):
 
     return lemmaAlignments
 
-def flattenAlignments(alignments):
-    alignmentsList = []
-    for key in alignments.keys():
-        print(f"Merging {key}")
-        alignmentsList.extend(alignments[key])
+def filterAlignments(alignments, minAlignments=-1):
+    if type(alignments) == list:
+        alignments = { 'alignments': alignments}
 
-    return alignmentsList
+    alignmentsList = []
+    rejectedAlignmentsList = []
+    for key in alignments.keys():
+        alignments_ = alignments[key]
+        print(f"Merging '{key}', size {len(alignments_)}")
+        if minAlignments < 0:
+            alignmentsList.extend(alignments_)
+        else:
+            for alignment in alignments_:
+                alignmentsCount = alignment['matchCount'] / alignment['frequency']
+                if alignmentsCount >= minAlignments:
+                    alignmentsList.append(alignment)
+                else:
+                    rejectedAlignmentsList.append(alignment)
+
+    return alignmentsList, rejectedAlignmentsList
 
 # adds frequency data and converts identification fields to str
 def addDataToAlignmentsAndClean(alignments):
