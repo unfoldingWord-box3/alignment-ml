@@ -779,14 +779,9 @@ def splitLemmasAndAddData(alignments, lemma):
 
     for alignment in alignments:
         origWords = alignment['origWords']
-        foundLemmaWord = None
-        for word in origWords:
-            if word['lemma'] == lemma:
-                # print(f"found word: {word}")
-                foundLemmaWord = word
-                break
+        word = findOriginalLanguageForLemma(origWords, lemma)
 
-        if foundLemmaWord:
+        if not word is None:
             originalWord = word['word']
             if originalWord in alignmentsList:
                 alignmentsList[originalWord].append(alignment)
@@ -802,6 +797,16 @@ def splitLemmasAndAddData(alignments, lemma):
         newAlignments.extend(newAlignments_)
 
     return newAlignments
+
+
+def findOriginalLanguageForLemma(origWords, lemma):
+    foundLemmaWord = None
+    for word in origWords:
+        if word['lemma'] == lemma:
+            # print(f"found word: {word}")
+            foundLemmaWord = word
+            break
+    return foundLemmaWord
 
 def findOriginalWordsForLemma(connection, lemma, maxRows = None):
     foundWords = findWord(connection, lemma, searchOriginal = True, searchLemma = True, caseInsensitive = True, maxRows = maxRows )
