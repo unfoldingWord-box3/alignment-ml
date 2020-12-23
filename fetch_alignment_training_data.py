@@ -26,7 +26,7 @@ print (f"'{termsPath}' has words: {data}")
 lemmasList = list(data.keys())
 
 start = time.time()
-alignments = db.getAlignmentsForLemmas(connection, lemmasList)
+alignments = db.getAlignmentsForOriginalWords(connection, lemmasList)
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'read alignments for lemmas, Elapsed time: {elapsed}')

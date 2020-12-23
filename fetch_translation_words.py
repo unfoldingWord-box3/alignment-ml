@@ -33,11 +33,12 @@ print(f'Save tWords quotes from NT, Elapsed time: {elapsed}')
 
 ################################
 
+lexiconPath = f'{home}/translationCore/resources/en/lexicons/ugl/v0/content'
 for type_ in tWordsTypeList:
     quotesPath = f'./data/{type_}_en_NT_quotes.json'
     lemmasPath = f'./data/{type_}_en_NT_lemmas.json'
     start = time.time()
-    db.findLemmasForQuotes(connection, quotesPath, lemmasPath)
+    db.findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath)
     delta = (time.time() - start)
     elapsed = str(timedelta(seconds=delta))
     print(f'Found lemmas for tWords "{type_}" in NT, Elapsed time: {elapsed}')

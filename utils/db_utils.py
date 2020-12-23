@@ -3,9 +3,6 @@ import csv
 import json
 import sqlite3
 from sqlite3 import Error
-import matplotlib.pyplot as plt
-from matplotlib.ticker import ScalarFormatter
-import numpy as np
 import utils.file_utils as file
 import utils.bible_utils as bible
 
@@ -704,19 +701,23 @@ def convertAlignmentEntryToTable(alignment):
 
     alignment['alignmentTxt'] = f"{origWordsTxt} = {targetWordsTxt}"
 
-def getAlignmentsForLemmas(connection, lemmasList):
-    lemmaAlignments = {}
+def getAlignmentsForOriginalWords(connection, wordList, searchLemma = True):
+    origWordAlignments = {}
+    # print(f"searchLemma = {searchLemma}")
 
-    for lemma in lemmasList:
-        # print (f"updating '{lemma}'")
-        alignments = findAlignmentsForOriginalWord(connection, lemma, searchLemma = True)
+    for word in wordList:
+        print (f"updating '{word}'")
+        alignments = findAlignmentsForOriginalWord(connection, word, searchLemma)
         for alignment in alignments:
             convertAlignmentEntryToTable(alignment)
 
-        alignments_ = splitLemmasAndAddData(alignments, lemma)
-        lemmaAlignments[lemma] = alignments_
+        if searchLemma:
+            alignments_ = splitLemmasAndAddData(alignments, word)
+        else:
+            alignments_ = addDataToAlignmentsAndClean(alignments)
+        origWordAlignments[word] = alignments_
 
-    return lemmaAlignments
+    return origWordAlignments
 
 def filterAlignments(alignments, minAlignments=-1):
     if type(alignments) == list:
@@ -742,36 +743,37 @@ def filterAlignments(alignments, minAlignments=-1):
 # adds frequency data and converts identification fields to str
 def addDataToAlignmentsAndClean(alignments):
     totalCount = len(alignments)
-    countsMap = pd.DataFrame(alignments)['alignmentTxt'].value_counts()  # get counts for each match type
-    # insert frequency of alignment into table
-    for alignment in alignments:
-        alignmentText = alignment['alignmentTxt']
-        if (alignmentText in countsMap):
-            count = countsMap[alignmentText]
-            ratio = count / totalCount
-            alignment['frequency'] = ratio
-            alignment['matchCount'] = int(count)
-        wordCount = alignment['alignmentTargetWords']
-        if wordCount > 1:
-            words = alignment['targetWordsTxt'].split(' ')
-            if 's' in words: # combine apostrophe
-                pos = words.index('s')
-                if pos > 0:
-                    firstPart = words[pos-1]
-                    secondPart = words[pos]
-                    words[pos-1] = firstPart + "'" + secondPart
-                    words.remove('s')
-                    newText = ' '.join(words)
-                    print(f'Replacing "{alignment["targetWordsTxt"]}" with "{newText}"')
-                    alignment['targetWordsTxt'] = newText
-                    alignment['alignmentTxt'] = alignment['origWordsTxt'] + " = " + newText
-                    alignment['alignmentTargetWords'] -= 1
-                    alignment['targetSpan'] -= 1
+    if totalCount:
+        countsMap = pd.DataFrame(alignments)['alignmentTxt'].value_counts()  # get counts for each match type
+        # insert frequency of alignment into table
+        for alignment in alignments:
+            alignmentText = alignment['alignmentTxt']
+            if (alignmentText in countsMap):
+                count = countsMap[alignmentText]
+                ratio = count / totalCount
+                alignment['frequency'] = ratio
+                alignment['matchCount'] = int(count)
+            wordCount = alignment['alignmentTargetWords']
+            if wordCount > 1:
+                words = alignment['targetWordsTxt'].split(' ')
+                if 's' in words: # combine apostrophe
+                    pos = words.index('s')
+                    if pos > 0:
+                        firstPart = words[pos-1]
+                        secondPart = words[pos]
+                        words[pos-1] = firstPart + "'" + secondPart
+                        words.remove('s')
+                        newText = ' '.join(words)
+                        print(f'Replacing "{alignment["targetWordsTxt"]}" with "{newText}"')
+                        alignment['targetWordsTxt'] = newText
+                        alignment['alignmentTxt'] = alignment['origWordsTxt'] + " = " + newText
+                        alignment['alignmentTargetWords'] -= 1
+                        alignment['targetSpan'] -= 1
 
-        for key in ['id', 'alignment_num']:
-            alignment[key] = str(alignment[key]) # converts identification fields to str so that we don't mistakenly try to use for analysis
-        alignment['origWordsBetween'] = alignment['origSpan'] - (alignment['alignmentOrigWords'] - 1)
-        alignment['targetWordsBetween'] = alignment['targetSpan'] - (alignment['alignmentTargetWords'] - 1)
+            for key in ['id', 'alignment_num']:
+                alignment[key] = str(alignment[key]) # converts identification fields to str so that we don't mistakenly try to use for analysis
+            alignment['origWordsBetween'] = alignment['origSpan'] - (alignment['alignmentOrigWords'] - 1)
+            alignment['targetWordsBetween'] = alignment['targetSpan'] - (alignment['alignmentTargetWords'] - 1)
     return alignments
 
 def splitLemmasAndAddData(alignments, lemma):
@@ -787,17 +789,17 @@ def splitLemmasAndAddData(alignments, lemma):
                 alignmentsList[originalWord].append(alignment)
             else:
                 alignmentsList[originalWord] = [ alignment ]
-        else:
-            print(f"Lemma '{lemma}' missing in alignment: {alignment}")
+        # else:
+            # print(f"splitLemmasAndAddData - Lemma '{lemma}' missing in alignment: {alignment}")
 
     newAlignments = []
     for originalWord in alignmentsList.keys():
+        # print(f"splitLemmasAndAddData - found original word '{originalWord}' for lemma")
         alignments = alignmentsList[originalWord]
         newAlignments_ = addDataToAlignmentsAndClean(alignments)
         newAlignments.extend(newAlignments_)
 
     return newAlignments
-
 
 def findOriginalLanguageForLemma(origWords, lemma):
     foundLemmaWord = None
@@ -992,42 +994,7 @@ def loadAlignmentData(lemma):
         print(f"loadAlignmentDataFromFile - failed to load {lemma} since file not found at {alignment_data_path}")
     return df
 
-# doing plots
-def plotFieldFrequency(frequency, fieldName, xAxisLabel, yAxisLabel = None,max=-1, xNumbers=True, xShowTicks=True, title=None):
-    fig = plt.figure()
-    if title is None: # use default title
-        title = f"Frequency of {xAxisLabel} ('{fieldName}')"
-    fig.suptitle(title, fontsize=16)
-    if yAxisLabel is None:
-        yAxisLabel = "Log of Count"
-    ax = fig.add_axes([0,0,1,0.9],
-                      yscale="log",
-                      xlabel=xAxisLabel,
-                      ylabel=yAxisLabel)
-    x = list(frequency.index)
-    if not xNumbers: # text labels
-        labels = x
-        x_range = np.arange(len(x))
-        ax.set_xticks(x_range)
-        ax.set_xticklabels(labels)
-        x = x_range
-    y = list(frequency.values)
-    ax.bar(x,y)
-    formatter = ScalarFormatter()
-    formatter.set_scientific(False)
-    ax.yaxis.set_major_formatter(formatter)
-    if xNumbers:
-        if max > -1:
-            xticks = np.arange(0, max, 1)
-            if max > 10:
-                xticks = np.arange(0, max, 2)
-            ax.set_xticks(xticks)
-    if not xShowTicks:
-        plt.setp(ax.get_xticklabels(), visible=False)
-        ax.tick_params(axis='x', which='both', length=0)
-    plt.show()
-
-def describeAlignments(alignments, silent = False):
+def describeAlignments(alignments, ignore = ['frequency'], silent = False):
     results = {}
     descr = alignments.describe()
     results_desc = dict(descr)
@@ -1046,7 +1013,10 @@ def describeAlignments(alignments, silent = False):
     results_field = {}
     results['fields'] = results_field
 
-    fields.remove('frequency') # not useful for analysis
+    if ignore:
+        for item in ignore:
+            fields.remove(item)
+
     for field in fields:
         alignmentOrigWords_frequency = alignments[field].value_counts()
         if not silent:
@@ -1055,33 +1025,56 @@ def describeAlignments(alignments, silent = False):
 
     return results
 
-def findLemmasForQuotes(connection, quotesPath, lemmasPath):
+def lookupLexicon(lexiconPath, strongs):
+    preChar = strongs[0]
+    if preChar == 'G':
+        num = strongs[1:5]
+        index = int(num)
+        filePath = f"{lexiconPath}/{index}.json"
+        try:
+            data = file.readJsonFile(filePath)
+            return data
+        except:
+            print(f"lookupLexicon - could not read {filePath}")
+    else:
+        # TODO: Hebrew, Aramaic
+        print(f"lookupLexicon - not supported {strongs}")
+    return None
+
+def findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath = None):
     data = file.readJsonFile(quotesPath)
 
     origWords = {}
+
     def findLemma(origWord):
         if origWord in origWords:
-            return origWords[origWord]
+            return None, 0 # if we already checked, skip
 
-        words = findWord(connection, origWord, searchOriginal = True, searchLemma = False, caseInsensitive = True, maxRows = 1 )
+        words = findWord(connection, origWord, searchOriginal = True, searchLemma = False, caseInsensitive = True )
         word = words[0]
+        count = len(words)
         origWords[origWord] = word
-        return word
+        return word, count
 
     lemmas = {}
     keys = list(data.keys())
     for key in keys:
         for origWord in data[key]:
-            word = findLemma(origWord)
-            lemma = word['lemma']
-            print(f"for {origWord} found {lemma}")
-            if lemma in lemmas:
-                lemmas[lemma]['count'] += 1
-            else:
-                lemmas[lemma] = {
-                    'count': 1,
-                    'strong': word['strong']
-                }
+            word, count = findLemma(origWord)
+            if word:
+                lemma = word['lemma']
+                print(f"for {origWord} found {lemma}")
+                if lemma in lemmas:
+                    lemmas[lemma]['count'] += count
+                else:
+                    strong = word['strong']
+                    lemmas[lemma] = {
+                        'count': count,
+                        'strong': strong
+                    }
+                    lex = lookupLexicon(lexiconPath, strong)
+                    if lex:
+                        lemmas[lemma]['lexicon'] = lex
 
     print(f"findLemmasForQuotes - found {len(lemmas.keys())} lemmas")
     file.writeJsonFile(lemmasPath, lemmas)

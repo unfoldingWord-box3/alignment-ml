@@ -20,3 +20,7 @@ Tested using Python 3.9 for New Testament only.
 **Get ML training data:**
 
 For example of how to get an alignment table for key terms see: fetch_alignment_training_data.py
+
+**Visualizing alignment data:**
+
+- plots of single values: plot_alignments.ipynb
