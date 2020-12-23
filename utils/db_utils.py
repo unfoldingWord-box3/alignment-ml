@@ -706,7 +706,7 @@ def getAlignmentsForOriginalWords(connection, wordList, searchLemma = True):
     # print(f"searchLemma = {searchLemma}")
 
     for word in wordList:
-        print (f"updating '{word}'")
+        # print (f"updating '{word}'")
         alignments = findAlignmentsForOriginalWord(connection, word, searchLemma)
         for alignment in alignments:
             convertAlignmentEntryToTable(alignment)
@@ -764,7 +764,7 @@ def addDataToAlignmentsAndClean(alignments):
                         words[pos-1] = firstPart + "'" + secondPart
                         words.remove('s')
                         newText = ' '.join(words)
-                        print(f'Replacing "{alignment["targetWordsTxt"]}" with "{newText}"')
+                        # print(f'Replacing "{alignment["targetWordsTxt"]}" with "{newText}"')
                         alignment['targetWordsTxt'] = newText
                         alignment['alignmentTxt'] = alignment['origWordsTxt'] + " = " + newText
                         alignment['alignmentTargetWords'] -= 1
@@ -1078,3 +1078,77 @@ def findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath = None):
 
     print(f"findLemmasForQuotes - found {len(lemmas.keys())} lemmas")
     file.writeJsonFile(lemmasPath, lemmas)
+
+def getFrequenciesOfFieldInAlignments(alignmentsForWord, field, sortIndex = False):
+    frequenciesOfAlignments = {}
+    # for each word add line to plot
+    for origWord in alignmentsForWord.keys():
+        wordAlignments_ = pd.DataFrame(alignmentsForWord[origWord])
+        frequency_ = wordAlignments_[field].value_counts()
+        if sortIndex:
+            frequency_ = frequency_.sort_index()
+        frequenciesOfAlignments[origWord] = frequency_
+
+    return frequenciesOfAlignments
+
+def getDataFrameForOriginalWords(connection, words, searchLemma = True, minAlignments = 100):
+    alignments_ = getAlignmentsForOriginalWords(connection, words, searchLemma)
+    alignmentsList, rejectedAlignmentsList = filterAlignments(alignments_, minAlignments)
+    alignments = pd.DataFrame(alignmentsList)
+    return alignments
+
+def getFilteredAlignmentsForWord(alignmentsForWord, minAlignments = 100, remove = []):
+    filteredAlignmentsForWord = {}
+    for origWord in alignmentsForWord.keys():
+        # print(f"{origWord}")
+        if origWord not in remove:
+            alignments = alignmentsForWord[origWord]
+            alignmentsCount = len(alignments)
+            if alignmentsCount >= minAlignments:
+                filteredAlignmentsForWord[origWord] = alignments
+
+    return filteredAlignmentsForWord
+
+def getFilteredLemmas(termsPath, minAlignments = 100, remove = []):
+    data = file.initJsonFile(termsPath)
+    lemmasList = list(data.keys())
+    print (f"'{termsPath}' has count: {len(lemmasList)}")
+    filteredLemmas = {}
+    for lemma in lemmasList:
+        item = data[lemma]
+        if item['count'] >= minAlignments:
+            filteredLemmas[lemma] = item
+
+    for item in remove:
+        if item in filteredLemmas:
+            del filteredLemmas[item]
+    print (f"filtered count: {len(filteredLemmas)}")
+
+    return lemmasList
+
+def zeroFillFrequencies(field_frequencies):
+    filledFrequencies = {}
+    for originalWord in field_frequencies.keys():
+        field_frequency = field_frequencies[originalWord]
+        X = []
+        Y = []
+
+        def appendXY(x,y):
+            X.append(x)
+            Y.append(y)
+
+        lastX = 0
+        for key in field_frequency.keys():
+            x = key
+            y = field_frequency[key]
+            while x > lastX: # do zero fill
+                appendXY(lastX, 0)
+                lastX += 1
+            appendXY(x, y)
+            lastX += 1
+        appendXY(lastX, 0)
+        filledFrequencies[originalWord] = {
+            'X': X,
+            'Y': Y
+        }
+    return filledFrequencies
