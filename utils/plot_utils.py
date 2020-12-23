@@ -36,3 +36,54 @@ def plotFieldFrequency(frequency, fieldName, xAxisLabel, yAxisLabel = None, max=
         plt.setp(ax.get_xticklabels(), visible=False)
         ax.tick_params(axis='x', which='both', length=0)
     plt.show()
+
+def plotFrequencies(frequenciesOfAlignments, title='', ylabel='', showXValues=False, xlimit=None):
+    plt.figure()
+    for origWord in frequenciesOfAlignments.keys():
+        frequency_ = frequenciesOfAlignments[origWord]
+        frequencyValues_ = list(frequency_.values)
+        total = 0
+        for value in frequencyValues_:
+            total += value
+        # print(f"for {origWord} total is {total}")
+        if showXValues:
+            x = list(frequency_.index)
+        else:
+            x = range(len(frequencyValues_))
+        y = frequencyValues_ / total * 100 # scale to percent
+        plt.plot(x,y)
+
+    if xlimit:
+        plt.xlim(xlimit)
+    plt.ylabel(ylabel)
+    plt.ylim([0,50])
+    plt.suptitle(title, fontsize=16)
+
+    plt.show()
+
+def plotXYdataDict(dataDict, title='', ylabel='', xlabel='', showXValues=False, xlimit=None):
+    plt.figure()
+    for origWord in dataDict.keys():
+        data = dataDict[origWord]
+        total = 0
+        Y = data['Y']
+        normalizedY = []
+        for value in Y: # get total
+            total += value
+        # print(f"total = {total}")
+        for value in Y: # get percent
+            normalizedY.append(value / total * 100) # scale to percent
+        plt.plot(data['X'], normalizedY)
+        if len(data) > 6:
+            print(f"for {origWord} original data: {dataDict[origWord]}")
+            print(f"normalized data: {data}")
+
+    if xlimit:
+        plt.xlim(xlimit)
+    plt.ylabel(ylabel)
+    plt.ylim([0,105])
+    plt.xlabel(xlabel)
+    plt.suptitle(title, fontsize=16)
+
+    plt.show()
+
