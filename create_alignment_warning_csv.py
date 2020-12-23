@@ -1,9 +1,9 @@
-### Plotting alignment data
-
-#%%
+# Creating CSV of alignment warnings
 
 import json
 import csv
+import time
+from datetime import timedelta
 import pandas as pd
 import utils.db_utils as db
 import utils.file_utils as file
@@ -16,16 +16,16 @@ connection = db.initAlignmentDB(dbPath)
 
 #############################
 
+start = time.time()
 minAlignments = 100
 termsPath = './data/kt_en_NT_lemmas.json'
 remove = ['ὁ']
 lemmasList = db.getFilteredLemmas(termsPath, minAlignments, remove)
-#%%
 
 # find all alignments for this lemma
 
 alignmentsForWord = db.getAlignmentsForOriginalWords(connection, lemmasList, searchLemma = True)
-#%%
+
 remove = ['ὁ']
 filteredAlignmentsForWord = db.getFilteredAlignmentsForWord(alignmentsForWord, minAlignments, remove)
 
@@ -70,3 +70,9 @@ df = pd.DataFrame(alignmentsToCheck)
 csvPath = basePath + '.csv'
 warningData = df.drop(columns=["id", "origSpan", "targetSpan"]).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
 warningData.to_csv(path_or_buf=csvPath, index=False, header=True, quoting=csv.QUOTE_NONNUMERIC)
+
+delta = (time.time() - start)
+elapsed = str(timedelta(seconds=delta))
+print(f'generated CSV with {len(alignmentsToCheck)} warnings, Elapsed time: {elapsed}')
+
+# generated CSV with 1520 warnings, Elapsed time: 0:01:06
