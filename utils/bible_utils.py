@@ -1584,14 +1584,14 @@ def getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType, newTestament 
     # print(f"{len(quotesFound.keys())} unique quotes found in NT: {quotesFound}")
     return quotesFound
 
-def saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, tWordsType, targetLang, newTestament=True):
+def saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, tWordsType, bibleType, newTestament=True):
     quotesFound = getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType, newTestament)
     print(f"{len(quotesFound.keys())} unique quotes found in NT: {quotesFound}")
     if newTestament:
         testament = 'NT'
     else:
         testament = 'OT'
-    outputPath = f"{outputFolder}/{tWordsType}_{targetLang}_{testament}_quotes.json"
+    outputPath = f"{outputFolder}/{tWordsType}_{bibleType}_{testament}_quotes.json"
     print(f"saving quotes to: {outputPath}")
     file.writeJsonFile(outputPath, quotesFound)
     return quotesFound

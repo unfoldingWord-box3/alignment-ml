@@ -1152,3 +1152,34 @@ def zeroFillFrequencies(field_frequencies):
             'Y': Y
         }
     return filledFrequencies
+
+def fetchAlignmentDataForLemmasCached(connection, type_, bibleType, minAlignments, remove):
+    alignmentsForWordPath = f'./data/{type_}_{bibleType}_NT_by_orig.json'
+    filteredAlignmentsForWordPath = f'./data/{type_}_{bibleType}_NT_by_orig_{minAlignments}.json'
+    lemmasPath = f'./data/{type_}_{bibleType}_NT_lemmas.json'
+
+    # first try to use saved data
+    filteredAlignmentsForWord = file.initJsonFile(filteredAlignmentsForWordPath)
+    alignmentsForWord = file.initJsonFile(alignmentsForWordPath)
+
+    filteredLen = len(list(filteredAlignmentsForWord.keys()))
+    unfLen = len(list(alignmentsForWord.keys()))
+    if not filteredLen or not unfLen:
+        print("Cache empty")
+        lemmasList = getFilteredLemmas(lemmasPath, minAlignments, remove)
+
+        # find all alignments for this lemma
+        alignmentsForWord = getAlignmentsForOriginalWords(connection, lemmasList, searchLemma = True)
+
+        # filter by number of alignments for word
+        filteredAlignmentsForWord = getFilteredAlignmentsForWord(alignmentsForWord, minAlignments, remove)
+
+        # save data to speed things up
+        file.writeJsonFile(filteredAlignmentsForWordPath, filteredAlignmentsForWord)
+        file.writeJsonFile(alignmentsForWordPath, alignmentsForWord)
+
+    else:
+        print("Using cached Alignments")
+
+    return alignmentsForWord, filteredAlignmentsForWord
+

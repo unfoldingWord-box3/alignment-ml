@@ -10,7 +10,7 @@ Tested using Python 3.9 for New Testament only.
 
 - see: db_load_alignments_from_resources.py
 - configure paths at top of file before running, and sqlite database is created at dbPath.
-- tip: this can take over an hour to run, but seems to run much faster if you delete the .sqlite file before running python program.  A new databose file will be created automatically.
+- tip: this can take over an hour to run, but seems to run much faster if you delete the .sqlite file before running python program.  A new database file will be created automatically.
 
 **Get lemmas used for tWords:**
 
@@ -27,6 +27,6 @@ On Jupyter notebooks have these examples:
 - plots of single alignments: plot_original_word_alignments.ipynb or look at plot_original_word_alignments.pdf
 - plots of multiple alignments: plot_multi_alignments.ipynb or plot_multi_alignments.pdf
   
-Creating a CSV file of the suspect warnings
+**Creating a CSV file of the suspect warnings:**
 
 - see: create_alignment_warning_csv.py

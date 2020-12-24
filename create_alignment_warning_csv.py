@@ -18,7 +18,7 @@ connection = db.initAlignmentDB(dbPath)
 
 start = time.time()
 minAlignments = 100
-termsPath = './data/kt_en_NT_lemmas.json'
+termsPath = f'./data/kt_{bibleType}_NT_lemmas.json'
 remove = ['ὁ']
 lemmasList = db.getFilteredLemmas(termsPath, minAlignments, remove)
 
@@ -62,7 +62,7 @@ for origWord in alignmentsForWord.keys():
             alignment['warnings'] = json.dumps(warnings, ensure_ascii = False)
             alignmentsToCheck.append(alignment)
 
-basePath = './data/kt_en_NT_warnings'
+basePath = f'./data/kt_{bibleType}_NT_warnings'
 jsonPath = basePath + '.json'
 file.writeJsonFile(jsonPath, alignmentsToCheck)
 

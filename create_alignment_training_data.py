@@ -34,7 +34,7 @@ caseInsensitive = True
 
 # this command will update all the current entries in keyTermsPath
 start = time.time()
-termsPath = './data/kt_en_NT_quotes.json'
+termsPath = f'./data/kt_{bibleType}_ult_NT_quotes.json'
 # db.saveAlignmentDataForLemmas(connection, termsPath)
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))

@@ -20,27 +20,27 @@ tWordsGreekPath = f'{home}/translationCore/resources/el-x-koine/translationHelps
 dbPath = f'./data/{bibleType}_alignments.sqlite'
 
 connection = db.initAlignmentDB(dbPath)
+start = time.time()
 
 ################################
 
 outputFolder = './data'
-start = time.time()
 for type_ in tWordsTypeList:
-    bible.saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, type_, targetLang, newTestament)
-delta = (time.time() - start)
-elapsed = str(timedelta(seconds=delta))
-print(f'Save tWords quotes from NT, Elapsed time: {elapsed}')
+    bible.saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, type_, bibleType, newTestament)
 
 ################################
 
 lexiconPath = f'{home}/translationCore/resources/en/lexicons/ugl/v0/content'
 for type_ in tWordsTypeList:
-    quotesPath = f'./data/{type_}_en_NT_quotes.json'
-    lemmasPath = f'./data/{type_}_en_NT_lemmas.json'
-    start = time.time()
+    quotesPath = f'./data/{type_}_{bibleType}_NT_quotes.json'
+    lemmasPath = f'./data/{type_}_{bibleType}_NT_lemmas.json'
     db.findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath)
-    delta = (time.time() - start)
-    elapsed = str(timedelta(seconds=delta))
-    print(f'Found lemmas for tWords "{type_}" in NT, Elapsed time: {elapsed}')
 
+################################
+
+delta = (time.time() - start)
+elapsed = str(timedelta(seconds=delta))
+print(f'Getting tWords quotes from NT, Elapsed time: {elapsed}')
+
+# Getting tWords quotes from NT, Elapsed time: 0:01:27
 
