@@ -30,3 +30,4 @@ On Jupyter notebooks have these examples:
 **Creating a CSV file of the suspect warnings:**
 
 - see: create_alignment_warning_csv.py
+- outputs to: kt_en_ult_NT_warnings.csv

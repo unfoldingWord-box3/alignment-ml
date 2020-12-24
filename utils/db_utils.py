@@ -810,6 +810,15 @@ def findOriginalLanguageForLemma(origWords, lemma):
             break
     return foundLemmaWord
 
+def findOriginalLanguageWord(origWords, word_):
+    foundOriginalWord = None
+    for word in origWords:
+        if (word['word'] == word_) or (word['lemma'] == word_):
+            # print(f"found word: {word}")
+            foundOriginalWord = word
+            break
+    return foundOriginalWord
+
 def findOriginalWordsForLemma(connection, lemma, maxRows = None):
     foundWords = findWord(connection, lemma, searchOriginal = True, searchLemma = True, caseInsensitive = True, maxRows = maxRows )
     fwd = pd.DataFrame(foundWords)
@@ -1105,7 +1114,17 @@ def getFilteredAlignmentsForWord(alignmentsForWord, minAlignments = 100, remove 
             alignments = alignmentsForWord[origWord]
             alignmentsCount = len(alignments)
             if alignmentsCount >= minAlignments:
-                filteredAlignmentsForWord[origWord] = alignments
+                alignment = alignments[0]
+                word = findOriginalLanguageWord(alignment['origWords'], origWord)
+                if (word is not None) and (word['lemma'] not in remove):
+                    filteredAlignmentsForWord[origWord] = alignments
+                else:
+                    word_ = "None" if word is None else word['lemma']
+                    print(f"getFilteredAlignmentsForWord - rejecting {origWord} lemma in remove list {word_}")
+            # else:
+            #     print(f"getFilteredAlignmentsForWord - rejecting {origWord} count {alignmentsCount}")
+        # else:
+        #     print(f"getFilteredAlignmentsForWord - rejecting {origWord} in remove list")
 
     return filteredAlignmentsForWord
 
@@ -1159,27 +1178,29 @@ def fetchAlignmentDataForLemmasCached(connection, type_, bibleType, minAlignment
     lemmasPath = f'./data/{type_}_{bibleType}_NT_lemmas.json'
 
     # first try to use saved data
-    filteredAlignmentsForWord = file.initJsonFile(filteredAlignmentsForWordPath)
     alignmentsForWord = file.initJsonFile(alignmentsForWordPath)
 
-    filteredLen = len(list(filteredAlignmentsForWord.keys()))
     unfLen = len(list(alignmentsForWord.keys()))
-    if not filteredLen or not unfLen:
+    if not unfLen:
         print("Cache empty")
         lemmasList = getFilteredLemmas(lemmasPath, minAlignments, remove)
 
         # find all alignments for this lemma
         alignmentsForWord = getAlignmentsForOriginalWords(connection, lemmasList, searchLemma = True)
 
-        # filter by number of alignments for word
-        filteredAlignmentsForWord = getFilteredAlignmentsForWord(alignmentsForWord, minAlignments, remove)
-
         # save data to speed things up
-        file.writeJsonFile(filteredAlignmentsForWordPath, filteredAlignmentsForWord)
         file.writeJsonFile(alignmentsForWordPath, alignmentsForWord)
 
     else:
         print("Using cached Alignments")
+
+    print(f"Unfiltered Alignments: {len(alignmentsForWord)}")
+
+    # filter by number of alignments for word
+    filteredAlignmentsForWord = getFilteredAlignmentsForWord(alignmentsForWord, minAlignments, remove)
+    file.writeJsonFile(filteredAlignmentsForWordPath, filteredAlignmentsForWord)
+
+    print(f"Filtered Alignments: {len(filteredAlignmentsForWord)}")
 
     return alignmentsForWord, filteredAlignmentsForWord
 

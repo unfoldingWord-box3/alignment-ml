@@ -61,7 +61,7 @@ def plotFrequencies(frequenciesOfAlignments, title='', ylabel='', showXValues=Fa
 
     plt.show()
 
-def plotXYdataDict(dataDict, title='', ylabel='', xlabel='', showXValues=False, xlimit=None):
+def plotXYdataDict(dataDict, title='', ylabel='', xlabel='', showXValues=False, xlimit=None, ylimit=None):
     plt.figure()
     for origWord in dataDict.keys():
         data = dataDict[origWord]
@@ -78,6 +78,8 @@ def plotXYdataDict(dataDict, title='', ylabel='', xlabel='', showXValues=False, 
             print(f"for {origWord} original data: {dataDict[origWord]}")
             print(f"normalized data: {data}")
 
+    if ylimit:
+        plt.ylim(ylimit)
     if xlimit:
         plt.xlim(xlimit)
     plt.ylabel(ylabel)
