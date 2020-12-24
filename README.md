@@ -24,10 +24,9 @@ For example of how to get an alignment table for key terms see: fetch_alignment_
 **Visualizing alignment data:**
 
 On Jupyter notebooks have these examples:
-- plots of single alignments: plot_alignments.ipynb
-- plots of multiple alignments: plot_multi_alignments.ipynb
+- plots of single alignments: plot_original_word_alignments.ipynb or look at plot_original_word_alignments.pdf
+- plots of multiple alignments: plot_multi_alignments.ipynb or plot_multi_alignments.pdf
   
 Creating a CSV file of the suspect warnings
 
 - see: create_alignment_warning_csv.py
-- 
