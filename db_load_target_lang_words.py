@@ -9,7 +9,7 @@ from datetime import timedelta
 
 targetLangPathEn = './data/TargetLangJson/ult/v14'
 target_words_table = db.target_words_table
-dbPath = './data/en_ult_alignments.sqlite'
+dbPath = './data/en_ult_NT_alignments.sqlite'
 
 connection = db.initAlignmentDB(dbPath)
 

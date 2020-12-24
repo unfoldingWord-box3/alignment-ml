@@ -9,10 +9,11 @@ import utils.bible_utils as bible
 import time
 from datetime import timedelta
 
+bibleType = 'en_ult'
 original_words_table = db.original_words_table
 target_words_table = db.target_words_table
 alignment_table = db.alignment_table
-dbPath = './data/en_ult_alignments.sqlite'
+dbPath = f'./data/{bibleType}_NT_alignments.sqlite'
 keyTermsPath = 'data/keyTerms.json'
 origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
 origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
@@ -20,7 +21,6 @@ targetLangPathEn = './data/TargetLangJson/ult/v14'
 
 connection = db.initAlignmentDB(dbPath)
 
-bibleType = 'en_ult'
 testament = 1
 dataFolder = './data/AlignmentsFromProjects'
 bookId = 'tit'

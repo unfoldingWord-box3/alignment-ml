@@ -10,7 +10,7 @@ import utils.file_utils as file
 
 type_ = 'kt'
 bibleType = 'en_ult'
-dbPath = f'./data/{bibleType}_alignments.sqlite'
+dbPath = f'./data/{bibleType}_NT_alignments.sqlite'
 
 connection = db.initAlignmentDB(dbPath)
 

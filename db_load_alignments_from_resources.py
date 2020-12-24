@@ -22,7 +22,7 @@ targetLanguagePath = f'{home}/translationCore/resources/en/bibles/ult/v18'
 original_words_table = db.original_words_table
 target_words_table = db.target_words_table
 alignment_table = db.alignment_table
-dbPath = f'./data/{targetBibleType}_alignments.sqlite'
+dbPath = f'./data/{targetBibleType}_NT_alignments.sqlite'
 
 connection = db.initAlignmentDB(dbPath)
 

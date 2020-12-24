@@ -11,7 +11,7 @@ from datetime import timedelta
 original_words_table = db.original_words_table
 target_words_table = db.target_words_table
 alignment_table = db.alignment_table
-dbPath = './data/en_ult_alignments.sqlite'
+dbPath = './data/en_ult_NT_alignments.sqlite'
 keyTermsPath = './data/keyTerms.json'
 alignmentTrainingDataPath = './data/alignmentTrainingData.json'
 origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'

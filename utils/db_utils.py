@@ -191,8 +191,8 @@ def getAlignmentsFromVerse(verseObjects, wordNum = 0):
             target_words.extend(bottomWords)
             wordNum = child_wordNum
             # print('finished processing children')
-        elif (type_ == ''):
-            print(f"getAlignmentsFromVerse - missing type in: {vo}")
+        # elif (type_ == ''):
+        #     print(f"getAlignmentsFromVerse - missing type in: {vo}")
 
     return target_words, alignments
 
@@ -214,7 +214,7 @@ def getOccurrences(text, words):
 def getKey(dict, key, default=''):
     if key in dict:
         return dict[key]
-    print(f"getKey({dict}, {key} - key not found")
+    # print(f"getKey({dict}, {key} - key not found")
     return default
 
 def getDbOrigLangWordsForVerse(words, bookId, chapter, verse):
@@ -479,7 +479,7 @@ def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType=
             addMultipleItemsToDatabase(connection, target_words_table, db_words)
         else:
             verseAlignments = data[verseAl]['alignments']
-        print(f"reading alignments for {bookId} {chapter}:{verseAl}")
+        # print(f"reading alignments for {bookId} {chapter}:{verseAl}")
         saveAlignmentsForVerse(connection, bookId, chapter, verseAl, verseAlignments)
 
 def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLangPath, nestedFormat=False):
