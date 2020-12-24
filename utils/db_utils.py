@@ -1183,3 +1183,41 @@ def fetchAlignmentDataForLemmasCached(connection, type_, bibleType, minAlignment
 
     return alignmentsForWord, filteredAlignmentsForWord
 
+def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
+                     alignmentTargetWordsThreshold, origWordsBetweenThreshold, targetWordsBetweenThreshold):
+    alignmentsToCheck = []
+
+    for origWord in alignmentsForWord.keys():
+        alignments = alignmentsForWord[origWord]
+        for alignment in alignments:
+            warnings = []
+
+            alignmentOrigWords = alignment['alignmentOrigWords']
+            if alignmentOrigWords >= alignmentOrigWordsThreshold:
+                warnings.append(f"{origWord} - Too many original language words in alignment: {alignmentOrigWords}, threshold {alignmentOrigWordsThreshold}")
+
+            alignmentTargetWords = alignment['alignmentTargetWords']
+            if alignmentTargetWords >= alignmentTargetWordsThreshold:
+                warnings.append(f"{origWord} - Too many target language words in alignment: {alignmentTargetWords}, threshold {alignmentTargetWordsThreshold}")
+
+            origWordsBetween = alignment['origWordsBetween']
+            if origWordsBetween >= origWordsBetweenThreshold:
+                warnings.append(f"{origWord} - Discontiguous original language alignment, extra words: {origWordsBetween}, threshold {origWordsBetweenThreshold}")
+
+            targetWordsBetween = alignment['targetWordsBetween']
+            if targetWordsBetween >= targetWordsBetweenThreshold:
+                warnings.append(f"{origWord} - Discontiguous target language alignment, extra words: {targetWordsBetween}, threshold {targetWordsBetweenThreshold}")
+
+            if len(warnings):
+                alignment['warnings'] = json.dumps(warnings, ensure_ascii = False)
+                alignmentsToCheck.append(alignment)
+
+    basePath = f'./data/{type_}_{bibleType}_NT_warnings'
+    jsonPath = basePath + '.json'
+    file.writeJsonFile(jsonPath, alignmentsToCheck)
+
+    df = pd.DataFrame(alignmentsToCheck)
+    csvPath = basePath + '.csv'
+    warningData = df.drop(columns=["id", "origSpan", "targetSpan"]).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
+    warningData.to_csv(path_or_buf=csvPath, index=False, header=True, quoting=csv.QUOTE_NONNUMERIC)
+    return warningData
