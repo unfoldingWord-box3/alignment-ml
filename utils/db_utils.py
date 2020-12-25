@@ -794,7 +794,17 @@ def getAlignmentsForOriginalWords(connection, wordList, searchLemma = True):
             alignments_ = splitLemmasAndAddData(alignments, word)
         else:
             alignments_ = addDataToAlignmentsAndClean(alignments)
-        origWordAlignments[word] = alignments_
+
+        for alignment in alignments_:
+            origWords = alignment['origWords']
+            origWord = findOriginalLanguageForLemma(origWords, word)
+
+            if not origWord is None:
+                origWordStr = origWord['word']
+                if origWordStr in origWordAlignments:
+                    origWordAlignments[origWordStr].append(alignment)
+                else:
+                    origWordAlignments[origWordStr] = [ alignment ]
 
     return origWordAlignments
 
@@ -889,11 +899,13 @@ def findOriginalLanguageForLemma(origWords, lemma):
             break
     return foundLemmaWord
 
-def findOriginalLanguageWord(origWords, word_):
+def findOriginalLanguageWord(origWords, word_, checkLemmas=True):
     foundOriginalWord = None
     for word in origWords:
-        if (word['word'] == word_) or (word['lemma'] == word_):
-            # print(f"found word: {word}")
+        if (word['word'] == word_):
+            foundOriginalWord = word
+            break
+        if checkLemmas and (word['lemma'] == word_):
             foundOriginalWord = word
             break
     return foundOriginalWord
