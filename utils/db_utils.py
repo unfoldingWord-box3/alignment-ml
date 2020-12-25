@@ -9,6 +9,7 @@ import utils.bible_utils as bible
 original_words_table = 'original_words'
 target_words_table = 'target_words'
 alignment_table = 'alignment_table'
+original_words_index_table = 'original_words_index_table'
 origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
 origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
 targetLangPathEn = './data/TargetLangJson/ult/v14'
@@ -99,6 +100,16 @@ CREATE TABLE IF NOT EXISTS {alignment_table} (
 );
 """
 
+create_original_words_index_table = f"""
+CREATE TABLE IF NOT EXISTS {original_words_index_table} (
+  originalWord TEXT PRIMARY KEY,
+  lemma TEXT NOT NULL,
+  strong TEXT NOT NULL,
+  alignments TEXT NOT NULL,
+  frequency TEXT NOT NULL
+);
+"""
+
 # will create and initialize the database if it does not exist or tables not created
 # will return connection
 def initAlignmentDB(dbPath):
@@ -106,6 +117,7 @@ def initAlignmentDB(dbPath):
     execute_query(connection, create_original_words_table)
     execute_query(connection, create_target_words_table)
     execute_query(connection, create_alignment_table)
+    execute_query(connection, create_original_words_index_table)
     return connection
 
 def resetTable(connection, table):
@@ -263,10 +275,14 @@ def getWordText(word):
         return word[key]
     return ''
 
-def insert_row(connection, table, data):
+def writeRowToDB(connection, table, data, update=False):
     header = getHeader(data)
     row = getDataItems(data)
-    sql = f''' INSERT INTO {table}({header})
+    if update:
+        cmd = 'REPLACE' # actually will also do insert if key not in table
+    else:
+        cmd = 'INSERT'
+    sql = f''' {cmd} INTO {table}({header})
               VALUES({row}) '''
     cur = connection.cursor()
     cur.execute(sql)
@@ -279,8 +295,8 @@ def createCommandToAddToDatabase(table, data):
     dataStr = ''
     length = len(data)
     for i in range(length):
-        db_word = data[i]
-        line_data = getDataItems(db_word)
+        rowData = data[i]
+        line_data = getDataItems(rowData)
         dataStr += '  (' + line_data
         if (i < length - 1):
             dataStr += '),\n'
@@ -449,22 +465,36 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
         'orig_lang_words': json.dumps(originalWords, ensure_ascii = False),
         'target_lang_words': json.dumps(targetWords, ensure_ascii = False)
     }
-    return alignment_
+    return alignment_, originalWords, targetWords
 
-def saveAlignmentsForVerse(connection, bookId, chapter, verse, verseAlignments):
-    alignments = []
+def saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verse, verseAlignments):
+    alignmentsFound = False
     numAlignments = len(verseAlignments)
     for i in range(numAlignments):
         verseAlignment = verseAlignments[i]
-        alignment = findWordsForAlignment(connection, bookId, chapter, verse, verseAlignment, i)
+        alignment, originalWords, targetWords = findWordsForAlignment(connection, bookId, chapter, verse, verseAlignment, i)
         if alignment:
-            alignments.append(alignment)
-    if numAlignments:
-        addMultipleItemsToDatabase(connection, alignment_table, alignments)
-    else:
+            alignmentsFound = True
+            id = writeRowToDB(connection, alignment_table, alignment)
+            for origW in originalWords:
+                wordText = origW['word']
+                if wordText in alignmentsIndex:
+                    alignmentList = alignmentsIndex[wordText]['alignments']
+                    if id not in alignmentList:
+                        alignmentList.append(id)
+                else:
+                    alignmentsIndex[wordText] = {
+                        'originalWord': wordText,
+                        'lemma': origW['lemma'],
+                        'strong': origW['strong'],
+                        'alignments': [ id ],
+                        'frequency': ''
+                    }
+            # addMultipleItemsToDatabase(connection, alignment_table, alignments)
+    if not alignmentsFound:
         print(f"saveAlignmentsForVerse - no alignments found in {bookId} {chapter}:{verse}")
 
-def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType='', nestedFormat=False):
+def saveAlignmentsForChapter(connection, alignmentsIndex, bookId, chapter, dataFolder, bibleType='', nestedFormat=False):
     if nestedFormat:
         data = bible.loadChapterAlignmentsFromResource(dataFolder, bookId, chapter)
     else:
@@ -480,9 +510,9 @@ def saveAlignmentsForChapter(connection, bookId, chapter, dataFolder, bibleType=
         else:
             verseAlignments = data[verseAl]['alignments']
         # print(f"reading alignments for {bookId} {chapter}:{verseAl}")
-        saveAlignmentsForVerse(connection, bookId, chapter, verseAl, verseAlignments)
+        saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verseAl, verseAlignments)
 
-def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLangPath, nestedFormat=False):
+def saveAlignmentsForBook(connection, alignmentsIndex, bookId, aligmentsFolder, bibleType, origLangPath, nestedFormat=False):
     deleteWordsForBook(connection, alignment_table, bookId)
     deleteWordsForBook(connection, target_words_table, bookId)
     deleteWordsForBook(connection, original_words_table, bookId)
@@ -502,15 +532,41 @@ def saveAlignmentsForBook(connection, bookId, aligmentsFolder, bibleType, origLa
         chapters = bible.getChaptersForBook(bookId)
         for chapterAL in chapters:
             print(f"reading alignments for {bookId} - {chapterAL}")
-            saveAlignmentsForChapter(connection, bookId, chapterAL, aligmentsFolder, bibleType, nestedFormat)
+            saveAlignmentsForChapter(connection, alignmentsIndex, bookId, chapterAL, aligmentsFolder, bibleType, nestedFormat)
+
     else:
         print(f"No alignments for {bookId} at {bookFolder}")
 
 def getAlignmentsForTestament(connection, newTestament, dataFolder, origLangPath, bibleType, nestedFormat=False):
     books = bible.getBookList(newTestament)
+    alignmentsIndex = {}
     for book in books:
         print (f"reading {book}")
-        saveAlignmentsForBook(connection, book, dataFolder, bibleType, origLangPath, nestedFormat)
+        saveAlignmentsForBook(connection, alignmentsIndex, book, dataFolder, bibleType, origLangPath, nestedFormat)
+
+    for word in alignmentsIndex:
+        row = alignmentsIndex[word]
+        row['alignments'] = json.dumps(row['alignments'])
+        id = writeRowToDB(connection, original_words_index_table, row, update=True)
+
+def findAlignmentsFromIndexDbForOrigWord(connection, word, searchLemma, maxRows=None):
+    if searchLemma:
+        filter = f"(lemma = '{word}')"
+    else:
+        filter = f"(originalWord = '{word}')"
+
+    # print(f"findAlignmentForWord - filter = {filter}")
+    alignments = []
+    alignmentsIndex = fetchRecords(connection, original_words_index_table, filter, maxRows)
+    if alignmentsIndex and len(alignmentsIndex):
+        for index in alignmentsIndex:
+            alignmentIds = json.loads(index['alignments'])
+            for id in alignmentIds:
+                filter = f"(id = '{id}')"
+                found = fetchRecords(connection, alignment_table, filter, maxRows=1)
+                if len(found):
+                    alignments.append(found[0])
+    return alignments
 
 def findAlignmentForWord(connection, word, searchOriginal):
     match = str(word['id'])
@@ -610,6 +666,30 @@ def getAlignmentForWord(connection, origWord, searchOriginal):
 
     return alignment
 
+def getAlignmentsForWord(connection, origWord, searchOriginal):
+    alignments = findAlignmentsForWord(connection, origWord, searchOriginal)
+
+    for alignment in alignments:
+        # get original language words
+        origWords = lookupWords(connection, alignment, 1)
+        alignment['origSpan'] = getSpan(origWords)
+        alignment['origWords'] = origWords
+        origWordsTxt = combineWordList(origWords)
+        alignment['origWordsTxt'] = origWordsTxt
+        alignment['alignmentOrigWords'] = len(origWords)
+
+        # get target language words
+        targetWords = lookupWords(connection, alignment, 0)
+        alignment['targetSpan'] = getSpan(targetWords)
+        alignment['targetWords'] = targetWords
+        targetWordsTxt = combineWordList(targetWords)
+        alignment['targetWordsTxt'] = targetWordsTxt
+        alignment['alignmentTargetWords'] = len(targetWords)
+
+        alignment['alignmentTxt'] = f"{origWordsTxt} = {targetWordsTxt}"
+
+    return alignments
+
 def findWordById(connection, id, table):
     search = f"id = {str(id)}"
     items = fetchRecords(connection, table, search)
@@ -674,7 +754,6 @@ def findAlignmentsForWord(connection, word, searchOriginal = True, searchLemma =
     if totalCount == 0:
         return None
 
-    # TODO blm: switch frequency counts from lemma
     results = addDataToAlignmentsAndClean(alignments)
     df = pd.DataFrame(results)  # load as dataframe so we can to cool stuff
     return df

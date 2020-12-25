@@ -72,6 +72,15 @@ def readJsonFile(inputPath):
     data = json.loads(dataStr)
     return data
 
+def moveFile(srcPath, destPath, ifExists=False, overWrite=False):
+    if overWrite and os.path.isfile(destPath):
+        print(f"moveFile - removing {destPath}")
+    if ifExists and not os.path.isfile(srcPath):
+        print(f"moveFile - file not found {srcPath}")
+        return
+
+    os.rename(srcPath, destPath)
+
 def makeFolder(outputFolder):
     if not os.path.isdir(outputFolder):
         print ('makeFolder - creating folder ' + outputFolder)

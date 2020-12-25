@@ -80,10 +80,12 @@ def plotXYdataDict(dataDict, title='', ylabel='', xlabel='', showXValues=False, 
 
     if ylimit:
         plt.ylim(ylimit)
+    else:
+        plt.ylim([0,105])
+
     if xlimit:
         plt.xlim(xlimit)
     plt.ylabel(ylabel)
-    plt.ylim([0,105])
     plt.xlabel(xlabel)
     plt.suptitle(title, fontsize=16)
 
