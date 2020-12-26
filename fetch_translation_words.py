@@ -33,7 +33,7 @@ for type_ in tWordsTypeList:
 lexiconPath = f'{home}/translationCore/resources/en/lexicons/ugl/v0/content'
 for type_ in tWordsTypeList:
     quotesPath = f'./data/{type_}_{bibleType}_NT_quotes.json'
-    lemmasPath = f'./data/{type_}_{bibleType}_NT_lemmas.json'
+    lemmasPath = f'./data/{type_}_{bibleType}_NT_lemmas'
     db.findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath)
 
 ################################

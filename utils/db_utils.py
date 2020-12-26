@@ -783,11 +783,16 @@ def convertAlignmentEntryToTable(alignment):
 def getAlignmentsForOriginalWords(connection, wordList, searchLemma = True):
     origWordAlignments = {}
     # print(f"searchLemma = {searchLemma}")
+    if searchLemma:
+        training_type = 'training_lemma'
+    else:
+        training_type = 'training_orig_word'
 
     for word in wordList:
         # print (f"updating '{word}'")
         alignments = findAlignmentsForOriginalWord(connection, word, searchLemma)
         for alignment in alignments:
+            alignment[training_type] = word
             convertAlignmentEntryToTable(alignment)
 
         if searchLemma:
@@ -874,6 +879,7 @@ def splitLemmasAndAddData(alignments, lemma):
 
         if not word is None:
             originalWord = word['word']
+            alignment['training_orig_word'] = originalWord
             if originalWord in alignmentsList:
                 alignmentsList[originalWord].append(alignment)
             else:
@@ -1054,10 +1060,30 @@ def saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLe
     alignmentTrainingDataPath = baseFolder + '/' + key + '.json'
     file.writeJsonFile(alignmentTrainingDataPath, alignments)
 
-    df = pd.DataFrame(alignments)
     csvPath = baseFolder + '/' + key + '.csv'
-    df.to_csv(path_or_buf=csvPath, index=False, header=True, quoting=csv.QUOTE_NONNUMERIC)
+    df = saveListToCSV(csvPath, alignments)
     return df
+
+def saveDictOfListsToCSV(csvPath, listDict, keyName = 'id'):
+    outputList = []
+    for key in listDict:
+        # row = { **listDict[key] }
+        row = {}
+        row[keyName] = key
+        row.update(**listDict[key])
+        outputList.append(row)
+
+    df = pd.DataFrame(outputList)
+    saveDataFrameToCSV(csvPath, df)
+    return df
+
+def saveListToCSV(csvPath, list_):
+    df = pd.DataFrame(list_)
+    saveDataFrameToCSV(csvPath, df)
+    return df
+
+def saveDataFrameToCSV(csvPath, df):
+    df.to_csv(path_or_buf=csvPath, index=False, header=True, quoting=csv.QUOTE_NONNUMERIC)
 
 def saveAlignmentDataForLemmas(connection, keyTermsPath, minLen=-1):
     data = file.initJsonFile(keyTermsPath)
@@ -1141,7 +1167,7 @@ def lookupLexicon(lexiconPath, strongs):
         print(f"lookupLexicon - not supported {strongs}")
     return None
 
-def findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath = None):
+def findLemmasForQuotes(connection, quotesPath, outputBase, lexiconPath = None):
     data = file.readJsonFile(quotesPath)
 
     origWords = {}
@@ -1177,7 +1203,8 @@ def findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath = None):
                         lemmas[lemma]['lexicon'] = lex
 
     print(f"findLemmasForQuotes - found {len(lemmas.keys())} lemmas")
-    file.writeJsonFile(lemmasPath, lemmas)
+    file.writeJsonFile(outputBase + ".json", lemmas)
+    saveDictOfListsToCSV(outputBase + ".csv", lemmas, keyName = 'lemma')
 
 def getFrequenciesOfFieldInAlignments(alignmentsForWord, field, sortIndex = False):
     frequenciesOfAlignments = {}
@@ -1331,5 +1358,5 @@ def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThre
     df = pd.DataFrame(alignmentsToCheck)
     csvPath = basePath + '.csv'
     warningData = df.drop(columns=["id", "origSpan", "targetSpan"]).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
-    warningData.to_csv(path_or_buf=csvPath, index=False, header=True, quoting=csv.QUOTE_NONNUMERIC)
+    saveDataFrameToCSV(csvPath, warningData)
     return warningData
