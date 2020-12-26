@@ -11,6 +11,7 @@ from datetime import timedelta
 
 targetLang = 'en'
 bibleType = 'en_ult'
+minAlignments = 40
 tWordsTypeList = ['kt', 'names', 'other'] # categories of tWords
 dbPath = f'./data/{bibleType}_NT_alignments.sqlite'
 
@@ -19,7 +20,7 @@ connection = db.initAlignmentDB(dbPath)
 ################################
 
 
-def saveAlignmentDataForLemmas(type_):
+def saveAlignmentDataForLemmas(type_, minAlignments = 100):
     print(f"Saving Alignments for {type_}")
 
     # read alignment data for all the lemmas
@@ -43,7 +44,6 @@ def saveAlignmentDataForLemmas(type_):
     ################################
     # flatten the lemmas into a filtered alignment list
 
-    minAlignments = 100
     alignmentsList, rejectedAlignmentsList = db.filterAlignments(alignments, minAlignments)
     termsPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_filtered_{minAlignments}'
     print(f"filtered {minAlignments} training list size is {len(alignmentsList)}")
@@ -53,7 +53,7 @@ def saveAlignmentDataForLemmas(type_):
 
 start = time.time()
 for type_ in tWordsTypeList:
-    saveAlignmentDataForLemmas(type_)
+    saveAlignmentDataForLemmas(type_, minAlignments)
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'fetch alignments for tW lemmas, Elapsed time: {elapsed}')

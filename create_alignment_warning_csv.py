@@ -10,16 +10,13 @@ import utils.file_utils as file
 
 type_ = 'kt'
 bibleType = 'en_ult'
-dbPath = f'./data/{bibleType}_NT_alignments.sqlite'
-
-connection = db.initAlignmentDB(dbPath)
 
 #############################
 
 start = time.time()
 minAlignments = 100
 remove = ['ὁ']
-alignmentsForWord, filteredAlignmentsForWord = db.fetchAlignmentDataForLemmasCached(connection, type_, bibleType, minAlignments, remove)
+alignmentsForWord, filteredAlignmentsForWord = db.fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove)
 
 #############################
 

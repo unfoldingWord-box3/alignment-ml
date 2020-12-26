@@ -1064,13 +1064,27 @@ def saveAlignmentDataForWordsSub(connection, key, wordList, baseFolder, searchLe
     df = saveListToCSV(csvPath, alignments)
     return df
 
-def saveDictOfListsToCSV(csvPath, listDict, keyName = 'id'):
+def saveDictOfListsToCSV(csvPath, dictOfList, keyName ='id'):
     outputList = []
-    for key in listDict:
+    for key in dictOfList:
         # row = { **listDict[key] }
+        list_ = dictOfList[key]
+        for item in list_:
+            row = {}
+            row[keyName] = key
+            row.update(**item)
+            outputList.append(row)
+
+    df = pd.DataFrame(outputList)
+    saveDataFrameToCSV(csvPath, df)
+    return df
+
+def saveDictOfDictToCSV(csvPath, dict_, keyName ='id'):
+    outputList = []
+    for key in dict_:
         row = {}
         row[keyName] = key
-        row.update(**listDict[key])
+        row.update(**dict_[key])
         outputList.append(row)
 
     df = pd.DataFrame(outputList)
@@ -1189,10 +1203,10 @@ def findLemmasForQuotes(connection, quotesPath, outputBase, lexiconPath = None):
             word, count = findLemma(origWord)
             if word:
                 lemma = word['lemma']
-                print(f"for {origWord} found {lemma}")
                 if lemma in lemmas:
                     lemmas[lemma]['count'] += count
                 else:
+                    print(f"for {origWord} found '{lemma}'")
                     strong = word['strong']
                     lemmas[lemma] = {
                         'count': count,
@@ -1204,7 +1218,7 @@ def findLemmasForQuotes(connection, quotesPath, outputBase, lexiconPath = None):
 
     print(f"findLemmasForQuotes - found {len(lemmas.keys())} lemmas")
     file.writeJsonFile(outputBase + ".json", lemmas)
-    saveDictOfListsToCSV(outputBase + ".csv", lemmas, keyName = 'lemma')
+    saveDictOfDictToCSV(outputBase + ".csv", lemmas, keyName = 'lemma')
 
 def getFrequenciesOfFieldInAlignments(alignmentsForWord, field, sortIndex = False):
     frequenciesOfAlignments = {}
@@ -1233,16 +1247,15 @@ def getFilteredAlignmentsForWord(alignmentsForWord, minAlignments = 100, remove 
             alignmentsCount = len(alignments)
             if alignmentsCount >= minAlignments:
                 alignment = alignments[0]
-                word = findOriginalLanguageWord(alignment['origWords'], origWord)
-                if (word is not None) and (word['lemma'] not in remove):
+                lemma = alignment['training_lemma']
+                if (lemma is not None) and (lemma not in remove):
                     filteredAlignmentsForWord[origWord] = alignments
                 else:
-                    word_ = "None" if word is None else word['lemma']
-                    print(f"getFilteredAlignmentsForWord - rejecting {origWord} lemma in remove list {word_}")
+                    print(f"getFilteredAlignmentsForWord - rejecting {lemma} alignments")
             # else:
             #     print(f"getFilteredAlignmentsForWord - rejecting {origWord} count {alignmentsCount}")
-        # else:
-        #     print(f"getFilteredAlignmentsForWord - rejecting {origWord} in remove list")
+        else:
+            print(f"getFilteredAlignmentsForWord - rejecting {origWord} in remove list")
 
     return filteredAlignmentsForWord
 
@@ -1290,33 +1303,49 @@ def zeroFillFrequencies(field_frequencies):
         }
     return filledFrequencies
 
-def fetchAlignmentDataForLemmasCached(connection, type_, bibleType, minAlignments, remove):
-    alignmentsForWordPath = f'./data/{type_}_{bibleType}_NT_by_orig.json'
-    filteredAlignmentsForWordPath = f'./data/{type_}_{bibleType}_NT_by_orig_{minAlignments}.json'
-    lemmasPath = f'./data/{type_}_{bibleType}_NT_lemmas.json'
+def fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove):
+    alignmentsForWordPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_by_orig.json'
+    filteredAlignmentsForWordPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_by_orig_{minAlignments}.json'
+    tWordsAlignmentsPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_all.json'
 
     # first try to use saved data
     alignmentsForWord = file.initJsonFile(alignmentsForWordPath)
 
     unfLen = len(list(alignmentsForWord.keys()))
     if not unfLen:
-        print("Cache empty")
-        lemmasList = getFilteredLemmas(lemmasPath, minAlignments, remove)
-
-        # find all alignments for this lemma
-        alignmentsForWord = getAlignmentsForOriginalWords(connection, lemmasList, searchLemma = True)
+        print("alignments cache empty, creating")
+        alignments = file.readJsonFile(tWordsAlignmentsPath)
+        alignmentsForWord = {}
+        for alignment in alignments:
+            orig_word = alignment['training_orig_word']
+            if orig_word:
+                if orig_word in alignmentsForWord:
+                    alignmentsForWord[orig_word].append(alignment)
+                else:
+                    alignmentsForWord[orig_word] = [ alignment ]
+            else:
+                print(f"missing 'training_orig_word' in alignment: {alignment}")
 
         # save data to speed things up
         file.writeJsonFile(alignmentsForWordPath, alignmentsForWord)
+        csvPath = alignmentsForWordPath.replace(".json", ".csv")
+        saveDictOfListsToCSV(csvPath, alignmentsForWord, 'originalWord')
 
     else:
         print("Using cached Alignments")
 
     print(f"Unfiltered Alignments: {len(alignmentsForWord)}")
 
-    # filter by number of alignments for word
-    filteredAlignmentsForWord = getFilteredAlignmentsForWord(alignmentsForWord, minAlignments, remove)
-    file.writeJsonFile(filteredAlignmentsForWordPath, filteredAlignmentsForWord)
+    if (not unfLen) or (not file.doesFileExist(filteredAlignmentsForWordPath)):
+        print("recreating Filtered Alignments")
+        # filter by number of alignments for word
+        filteredAlignmentsForWord = getFilteredAlignmentsForWord(alignmentsForWord, minAlignments, remove)
+        file.writeJsonFile(filteredAlignmentsForWordPath, filteredAlignmentsForWord)
+        csvPath = filteredAlignmentsForWordPath.replace(".json", ".csv")
+        saveDictOfListsToCSV(csvPath, filteredAlignmentsForWord, 'originalWord')
+    else:
+        print("Using cached Filtered Alignments")
+        filteredAlignmentsForWord = file.readJsonFile(filteredAlignmentsForWordPath)
 
     print(f"Filtered Alignments: {len(filteredAlignmentsForWord)}")
 
