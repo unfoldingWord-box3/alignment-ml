@@ -1,5 +1,278 @@
 [
   {
+    "id": "28586",
+    "book_id": "luk",
+    "chapter": "2",
+    "verse": "27",
+    "alignment_num": "18",
+    "orig_lang_keys": ",31318,31319,31320,",
+    "target_lang_keys": ",41023,41024,",
+    "training_lemma": "ποιέω",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 31318,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 17,
+        "word": "τοῦ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,GNS,"
+      },
+      {
+        "id": 31319,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 18,
+        "word": "ποιῆσαι",
+        "occurrence": 1,
+        "strong": "G41600",
+        "lemma": "ποιέω",
+        "morph": "Gr,V,NAA,,,,,"
+      },
+      {
+        "id": 31320,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 19,
+        "word": "αὐτοὺς",
+        "occurrence": 1,
+        "strong": "G08460",
+        "lemma": "αὐτός",
+        "morph": "Gr,RP,,,3AMP,"
+      }
+    ],
+    "origWordsTxt": "τοῦ ποιῆσαι αὐτοὺς",
+    "alignmentOrigWords": 3,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 41023,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 20,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 41024,
+        "book_id": "luk",
+        "chapter": "2",
+        "verse": "27",
+        "word_num": 21,
+        "word": "do",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to do",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "τοῦ ποιῆσαι αὐτοὺς = to do",
+    "training_orig_word": "ποιῆσαι",
+    "frequency": 0.02040816326530612,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"ποιῆσαι - Too many original language words in alignment: 3, threshold 3\"]"
+  },
+  {
+    "id": "121203",
+    "book_id": "jud",
+    "chapter": "1",
+    "verse": "15",
+    "alignment_num": "0",
+    "orig_lang_keys": ",127956,",
+    "target_lang_keys": ",171045,171046,171047,171048,171049,",
+    "training_lemma": "ποιέω",
+    "origSpan": 0,
+    "origWords": [
+      {
+        "id": 127956,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 0,
+        "word": "ποιῆσαι",
+        "occurrence": 1,
+        "strong": "G41600",
+        "lemma": "ποιέω",
+        "morph": "Gr,V,NAA,,,,,"
+      }
+    ],
+    "origWordsTxt": "ποιῆσαι",
+    "alignmentOrigWords": 1,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 171045,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 0,
+        "word": "He",
+        "occurrence": 1
+      },
+      {
+        "id": 171046,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 1,
+        "word": "is",
+        "occurrence": 1
+      },
+      {
+        "id": 171047,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 2,
+        "word": "coming",
+        "occurrence": 1
+      },
+      {
+        "id": 171048,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 3,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 171049,
+        "book_id": "jud",
+        "chapter": "1",
+        "verse": "15",
+        "word_num": 4,
+        "word": "execute",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "He is coming to execute",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "ποιῆσαι = He is coming to execute",
+    "training_orig_word": "ποιῆσαι",
+    "frequency": 0.02040816326530612,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"ποιῆσαι - Too many target language words in alignment: 5, threshold 5\"]"
+  },
+  {
+    "id": "3253",
+    "book_id": "mat",
+    "chapter": "7",
+    "verse": "29",
+    "alignment_num": "2",
+    "orig_lang_keys": ",3635,3636,3637,",
+    "target_lang_keys": ",4638,4639,4640,4641,4642,",
+    "training_lemma": "ἐξουσία",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 3635,
+        "book_id": "mat",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 4,
+        "word": "ὡς",
+        "occurrence": 1,
+        "strong": "G56130",
+        "lemma": "ὡς",
+        "morph": "Gr,CS,,,,,,,,"
+      },
+      {
+        "id": 3636,
+        "book_id": "mat",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 5,
+        "word": "ἐξουσίαν",
+        "occurrence": 1,
+        "strong": "G18490",
+        "lemma": "ἐξουσία",
+        "morph": "Gr,N,,,,,AFS,"
+      },
+      {
+        "id": 3637,
+        "book_id": "mat",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 6,
+        "word": "ἔχων",
+        "occurrence": 1,
+        "strong": "G21920",
+        "lemma": "ἔχω",
+        "morph": "Gr,V,PPA,NMS,"
+      }
+    ],
+    "origWordsTxt": "ὡς ἐξουσίαν ἔχων",
+    "alignmentOrigWords": 3,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 4638,
+        "book_id": "mat",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 4,
+        "word": "as",
+        "occurrence": 1
+      },
+      {
+        "id": 4639,
+        "book_id": "mat",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 5,
+        "word": "one",
+        "occurrence": 1
+      },
+      {
+        "id": 4640,
+        "book_id": "mat",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 6,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 4641,
+        "book_id": "mat",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 7,
+        "word": "had",
+        "occurrence": 1
+      },
+      {
+        "id": 4642,
+        "book_id": "mat",
+        "chapter": "7",
+        "verse": "29",
+        "word_num": 8,
+        "word": "authority",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "as one who had authority",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "ὡς ἐξουσίαν ἔχων = as one who had authority",
+    "training_orig_word": "ἐξουσίαν",
+    "frequency": 0.017543859649122806,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"ἐξουσίαν - Too many original language words in alignment: 3, threshold 3\", \"ἐξουσίαν - Too many target language words in alignment: 5, threshold 5\"]"
+  },
+  {
     "id": "98305",
     "book_id": "eph",
     "chapter": "1",
@@ -7,6 +280,7 @@
     "alignment_num": "4",
     "orig_lang_keys": ",104102,104105,",
     "target_lang_keys": ",138431,",
+    "training_lemma": "πίστις",
     "origSpan": 3,
     "origWords": [
       {
@@ -51,6 +325,7 @@
     "targetWordsTxt": "faith",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὴν πίστιν = faith",
+    "training_orig_word": "πίστιν",
     "frequency": 0.26785714285714285,
     "matchCount": 15,
     "origWordsBetween": 2,
@@ -65,6 +340,7 @@
     "alignment_num": "22",
     "orig_lang_keys": ",108539,108542,",
     "target_lang_keys": ",144185,",
+    "training_lemma": "πίστις",
     "origSpan": 3,
     "origWords": [
       {
@@ -109,6 +385,7 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς πίστεως = of",
+    "training_orig_word": "πίστεως",
     "frequency": 0.02857142857142857,
     "matchCount": 3,
     "origWordsBetween": 2,
@@ -123,6 +400,7 @@
     "alignment_num": "24",
     "orig_lang_keys": ",108539,108542,",
     "target_lang_keys": ",144187,",
+    "training_lemma": "πίστις",
     "origSpan": 3,
     "origWords": [
       {
@@ -167,6 +445,7 @@
     "targetWordsTxt": "faith",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς πίστεως = faith",
+    "training_orig_word": "πίστεως",
     "frequency": 0.1619047619047619,
     "matchCount": 17,
     "origWordsBetween": 2,
@@ -181,6 +460,7 @@
     "alignment_num": "8",
     "orig_lang_keys": ",119073,",
     "target_lang_keys": ",158609,158610,158611,158612,158613,",
+    "training_lemma": "πίστις",
     "origSpan": 0,
     "origWords": [
       {
@@ -249,6 +529,7 @@
     "targetWordsTxt": "of those who have faith",
     "alignmentTargetWords": 5,
     "alignmentTxt": "πίστεως = of those who have faith",
+    "training_orig_word": "πίστεως",
     "frequency": 0.009523809523809525,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -263,6 +544,7 @@
     "alignment_num": "13",
     "orig_lang_keys": ",68860,",
     "target_lang_keys": ",89746,89747,89748,89749,89750,",
+    "training_lemma": "γεννάω",
     "origSpan": 0,
     "origWords": [
       {
@@ -331,6 +613,7 @@
     "targetWordsTxt": "he became the father of",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ἐγέννησεν = he became the father of",
+    "training_orig_word": "ἐγέννησεν",
     "frequency": 0.023809523809523808,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -345,6 +628,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",125436,125437,",
     "target_lang_keys": ",167819,167820,167821,167822,167823,",
+    "training_lemma": "λέγω",
     "origSpan": 1,
     "origWords": [
       {
@@ -425,6 +709,7 @@
     "targetWordsTxt": "The one who says that",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ὁ λέγων = The one who says that",
+    "training_orig_word": "λέγων",
     "frequency": 0.005555555555555556,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -439,6 +724,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",127413,127414,127415,127416,127417,",
     "target_lang_keys": ",170241,170242,170243,170244,170245,170246,",
+    "training_lemma": "λέγω",
     "origSpan": 4,
     "origWords": [
       {
@@ -564,6 +850,7 @@
     "targetWordsTxt": "For the one who greets him",
     "alignmentTargetWords": 6,
     "alignmentTxt": "ὁ λέγων γὰρ αὐτῷ χαίρειν = For the one who greets him",
+    "training_orig_word": "λέγων",
     "frequency": 0.005555555555555556,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -578,6 +865,7 @@
     "alignment_num": "8",
     "orig_lang_keys": ",115539,115540,115541,115542,",
     "target_lang_keys": ",153530,153531,153532,",
+    "training_lemma": "λέγω",
     "origSpan": 3,
     "origWords": [
       {
@@ -664,6 +952,7 @@
     "targetWordsTxt": "not to mention",
     "alignmentTargetWords": 3,
     "alignmentTxt": "ἵνα μὴ λέγω σοι = not to mention",
+    "training_orig_word": "λέγω",
     "frequency": 0.0044444444444444444,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -678,6 +967,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",8323,8324,8325,",
     "target_lang_keys": ",10749,10750,",
+    "training_lemma": "λέγω",
     "origSpan": 2,
     "origWords": [
       {
@@ -743,6 +1033,7 @@
     "targetWordsTxt": "They said",
     "alignmentTargetWords": 2,
     "alignmentTxt": "οἱ δὲ λέγουσιν = They said",
+    "training_orig_word": "λέγουσιν",
     "frequency": 0.01694915254237288,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -757,6 +1048,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",129106,129107,129108,",
     "target_lang_keys": ",172537,",
+    "training_lemma": "τέκνον",
     "origSpan": 2,
     "origWords": [
       {
@@ -813,6 +1105,7 @@
     "targetWordsTxt": "children",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ τὰ τέκνα = children",
+    "training_orig_word": "τέκνα",
     "frequency": 0.015151515151515152,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -827,6 +1120,7 @@
     "alignment_num": "3",
     "orig_lang_keys": ",106757,106758,106759,",
     "target_lang_keys": ",141826,141827,141828,141829,",
+    "training_lemma": "χριστός",
     "origSpan": 2,
     "origWords": [
       {
@@ -910,6 +1204,7 @@
     "targetWordsTxt": "on behalf of Christ",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τὸ ὑπὲρ Χριστοῦ = on behalf of Christ",
+    "training_orig_word": "Χριστοῦ",
     "frequency": 0.00392156862745098,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -924,6 +1219,7 @@
     "alignment_num": "3",
     "orig_lang_keys": ",119497,119498,",
     "target_lang_keys": ",159247,159248,159249,159250,159251,",
+    "training_lemma": "χριστός",
     "origSpan": 1,
     "origWords": [
       {
@@ -1004,6 +1300,7 @@
     "targetWordsTxt": "for the sake of Christ",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τοῦ Χριστοῦ = for the sake of Christ",
+    "training_orig_word": "Χριστοῦ",
     "frequency": 0.00392156862745098,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1018,6 +1315,7 @@
     "alignment_num": "3",
     "orig_lang_keys": ",123655,123656,123657,123658,",
     "target_lang_keys": ",165267,165268,165269,165270,",
+    "training_lemma": "χριστός",
     "origSpan": 3,
     "origWords": [
       {
@@ -1113,6 +1411,7 @@
     "targetWordsTxt": "the sufferings of Christ",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τοῖς τοῦ Χριστοῦ παθήμασιν = the sufferings of Christ",
+    "training_orig_word": "Χριστοῦ",
     "frequency": 0.00392156862745098,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1127,6 +1426,7 @@
     "alignment_num": "8",
     "orig_lang_keys": ",123780,123781,123782,123783,",
     "target_lang_keys": ",165439,165440,165441,165442,165443,",
+    "training_lemma": "χριστός",
     "origSpan": 3,
     "origWords": [
       {
@@ -1231,6 +1531,7 @@
     "targetWordsTxt": "of the sufferings of Christ",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τῶν τοῦ Χριστοῦ παθημάτων = of the sufferings of Christ",
+    "training_orig_word": "Χριστοῦ",
     "frequency": 0.00392156862745098,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1245,6 +1546,7 @@
     "alignment_num": "9",
     "orig_lang_keys": ",6584,6585,6586,6587,6588,",
     "target_lang_keys": ",8521,8522,8523,8524,8525,8526,",
+    "training_lemma": "πνεῦμα",
     "origSpan": 4,
     "origWords": [
       {
@@ -1370,6 +1672,7 @@
     "targetWordsTxt": "but the blasphemy against the Spirit",
     "alignmentTargetWords": 6,
     "alignmentTxt": "ἡ δὲ τοῦ Πνεύματος βλασφημία = but the blasphemy against the Spirit",
+    "training_orig_word": "Πνεύματος",
     "frequency": 0.008849557522123894,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1384,6 +1687,7 @@
     "alignment_num": "11",
     "orig_lang_keys": ",6102,6103,6104,",
     "target_lang_keys": ",7883,",
+    "training_lemma": "μαθητής",
     "origSpan": 2,
     "origWords": [
       {
@@ -1440,6 +1744,7 @@
     "targetWordsTxt": "disciples",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οἱ δὲ μαθηταὶ = disciples",
+    "training_orig_word": "μαθηταὶ",
     "frequency": 0.010752688172043012,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1454,6 +1759,7 @@
     "alignment_num": "26",
     "orig_lang_keys": ",8372,8373,8374,",
     "target_lang_keys": ",10807,10808,10809,10810,10811,",
+    "training_lemma": "μαθητής",
     "origSpan": 2,
     "origWords": [
       {
@@ -1546,6 +1852,7 @@
     "targetWordsTxt": "and the disciples gave them",
     "alignmentTargetWords": 5,
     "alignmentTxt": "οἱ δὲ μαθηταὶ = and the disciples gave them",
+    "training_orig_word": "μαθηταὶ",
     "frequency": 0.010752688172043012,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1560,6 +1867,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",8468,8469,8470,",
     "target_lang_keys": ",10935,10936,",
+    "training_lemma": "μαθητής",
     "origSpan": 2,
     "origWords": [
       {
@@ -1625,6 +1933,7 @@
     "targetWordsTxt": "the disciples",
     "alignmentTargetWords": 2,
     "alignmentTxt": "οἱ δὲ μαθηταὶ = the disciples",
+    "training_orig_word": "μαθηταὶ",
     "frequency": 0.010752688172043012,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1639,6 +1948,7 @@
     "alignment_num": "14",
     "orig_lang_keys": ",9194,9195,9196,",
     "target_lang_keys": ",11878,11879,11880,11881,",
+    "training_lemma": "μαθητής",
     "origSpan": 2,
     "origWords": [
       {
@@ -1722,6 +2032,7 @@
     "targetWordsTxt": "The disciples gave them",
     "alignmentTargetWords": 4,
     "alignmentTxt": "οἱ δὲ μαθηταὶ = The disciples gave them",
+    "training_orig_word": "μαθηταὶ",
     "frequency": 0.010752688172043012,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1736,6 +2047,7 @@
     "alignment_num": "3",
     "orig_lang_keys": ",18236,18237,18238,",
     "target_lang_keys": ",23742,",
+    "training_lemma": "μαθητής",
     "origSpan": 2,
     "origWords": [
       {
@@ -1792,6 +2104,7 @@
     "targetWordsTxt": "disciples",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὅτι οἱ μαθηταὶ = disciples",
+    "training_orig_word": "μαθηταὶ",
     "frequency": 0.010752688172043012,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1806,6 +2119,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",51141,51142,51143,",
     "target_lang_keys": ",67201,",
+    "training_lemma": "μαθητής",
     "origSpan": 2,
     "origWords": [
       {
@@ -1862,6 +2176,7 @@
     "targetWordsTxt": "For",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οἱ γὰρ μαθηταὶ = For",
+    "training_orig_word": "μαθηταὶ",
     "frequency": 0.010752688172043012,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1876,6 +2191,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",51141,51142,51143,",
     "target_lang_keys": ",67203,",
+    "training_lemma": "μαθητής",
     "origSpan": 2,
     "origWords": [
       {
@@ -1932,6 +2248,7 @@
     "targetWordsTxt": "disciples",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οἱ γὰρ μαθηταὶ = disciples",
+    "training_orig_word": "μαθηταὶ",
     "frequency": 0.010752688172043012,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -1946,6 +2263,7 @@
     "alignment_num": "6",
     "orig_lang_keys": ",5603,5604,5605,",
     "target_lang_keys": ",7200,7201,",
+    "training_lemma": "μαθητής",
     "origSpan": 2,
     "origWords": [
       {
@@ -2011,6 +2329,7 @@
     "targetWordsTxt": "twelve disciples",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῖς δώδεκα μαθηταῖς = twelve disciples",
+    "training_orig_word": "μαθηταῖς",
     "frequency": 0.017543859649122806,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -2025,6 +2344,7 @@
     "alignment_num": "10",
     "orig_lang_keys": ",123912,123913,123914,123915,",
     "target_lang_keys": ",165655,165656,165657,",
+    "training_lemma": "αἰώνιος",
     "origSpan": 3,
     "origWords": [
       {
@@ -2111,6 +2431,7 @@
     "targetWordsTxt": "his eternal glory",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὴν αἰώνιον αὐτοῦ δόξαν = his eternal glory",
+    "training_orig_word": "αἰώνιον",
     "frequency": 0.022222222222222223,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -2125,6 +2446,7 @@
     "alignment_num": "9",
     "orig_lang_keys": ",84328,84329,84330,",
     "target_lang_keys": ",110438,",
+    "training_lemma": "δόξα",
     "origSpan": 2,
     "origWords": [
       {
@@ -2181,6 +2503,7 @@
     "targetWordsTxt": "praise",
     "alignmentTargetWords": 1,
     "alignmentTxt": "εἰς τὴν δόξαν = praise",
+    "training_orig_word": "δόξαν",
     "frequency": 0.017241379310344827,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -2195,6 +2518,7 @@
     "alignment_num": "13",
     "orig_lang_keys": ",86617,86618,86619,",
     "target_lang_keys": ",113662,113663,113664,113665,113666,",
+    "training_lemma": "δόξα",
     "origSpan": 2,
     "origWords": [
       {
@@ -2287,6 +2611,7 @@
     "targetWordsTxt": "glory that will be revealed",
     "alignmentTargetWords": 5,
     "alignmentTxt": "μέλλουσαν δόξαν ἀποκαλυφθῆναι = glory that will be revealed",
+    "training_orig_word": "δόξαν",
     "frequency": 0.017241379310344827,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -2301,6 +2626,7 @@
     "alignment_num": "10",
     "orig_lang_keys": ",123912,123913,123914,123915,",
     "target_lang_keys": ",165655,165656,165657,",
+    "training_lemma": "δόξα",
     "origSpan": 3,
     "origWords": [
       {
@@ -2387,6 +2713,7 @@
     "targetWordsTxt": "his eternal glory",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὴν αἰώνιον αὐτοῦ δόξαν = his eternal glory",
+    "training_orig_word": "δόξαν",
     "frequency": 0.017241379310344827,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -2401,6 +2728,7 @@
     "alignment_num": "13",
     "orig_lang_keys": ",123786,123787,123788,123789,",
     "target_lang_keys": ",165451,165452,165453,165454,165455,165456,165457,",
+    "training_lemma": "δόξα",
     "origSpan": 3,
     "origWords": [
       {
@@ -2523,6 +2851,7 @@
     "targetWordsTxt": "in the glory that will be revealed",
     "alignmentTargetWords": 7,
     "alignmentTxt": "τῆς μελλούσης ἀποκαλύπτεσθαι δόξης = in the glory that will be revealed",
+    "training_orig_word": "δόξης",
     "frequency": 0.018518518518518517,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -2537,6 +2866,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",107845,107847,",
     "target_lang_keys": ",143355,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -2581,6 +2911,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Θεός = God",
+    "training_orig_word": "Θεός",
     "frequency": 0.7971014492753623,
     "matchCount": 55,
     "origWordsBetween": 1,
@@ -2595,6 +2926,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",8676,8677,8678,",
     "target_lang_keys": ",11197,11198,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -2660,6 +2992,7 @@
     "targetWordsTxt": "For God",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ γὰρ Θεὸς = For God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.008368200836820083,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -2674,6 +3007,7 @@
     "alignment_num": "11",
     "orig_lang_keys": ",42788,42790,",
     "target_lang_keys": ",56215,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -2718,6 +3052,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Θεὸς = God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.7071129707112971,
     "matchCount": 169,
     "origWordsBetween": 1,
@@ -2732,6 +3067,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",43767,43769,",
     "target_lang_keys": ",57549,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -2776,6 +3112,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Θεὸς = God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.7071129707112971,
     "matchCount": 169,
     "origWordsBetween": 1,
@@ -2790,6 +3127,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",59713,59714,59715,",
     "target_lang_keys": ",77895,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -2846,6 +3184,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ ὁ Θεὸς = God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.0041841004184100415,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -2860,6 +3199,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",66426,66428,",
     "target_lang_keys": ",86613,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -2904,6 +3244,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Θεὸς = God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.7071129707112971,
     "matchCount": 169,
     "origWordsBetween": 1,
@@ -2918,6 +3259,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",73354,73356,",
     "target_lang_keys": ",95648,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -2962,6 +3304,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Θεὸς = God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.7071129707112971,
     "matchCount": 169,
     "origWordsBetween": 1,
@@ -2976,6 +3319,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",74384,74386,",
     "target_lang_keys": ",97015,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3020,6 +3364,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Θεὸς = God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.7071129707112971,
     "matchCount": 169,
     "origWordsBetween": 1,
@@ -3034,6 +3379,7 @@
     "alignment_num": "7",
     "orig_lang_keys": ",92236,92237,92238,",
     "target_lang_keys": ",121541,121542,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3099,6 +3445,7 @@
     "targetWordsTxt": "but God",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Θεὸς = but God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.0041841004184100415,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -3113,6 +3460,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",92258,92259,92260,",
     "target_lang_keys": ",121568,121569,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3178,6 +3526,7 @@
     "targetWordsTxt": "Now God",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Θεὸς = Now God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.0041841004184100415,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -3192,6 +3541,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",96520,96521,96522,",
     "target_lang_keys": ",127763,127764,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3257,6 +3607,7 @@
     "targetWordsTxt": "But God",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Θεὸς = But God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.0041841004184100415,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -3271,6 +3622,7 @@
     "alignment_num": "6",
     "orig_lang_keys": ",102708,102710,",
     "target_lang_keys": ",136499,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3315,6 +3667,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Θεὸς = God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.7071129707112971,
     "matchCount": 169,
     "origWordsBetween": 1,
@@ -3329,6 +3682,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",104333,104335,",
     "target_lang_keys": ",138707,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3373,6 +3727,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Θεὸς = God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.7071129707112971,
     "matchCount": 169,
     "origWordsBetween": 1,
@@ -3387,6 +3742,7 @@
     "alignment_num": "7",
     "orig_lang_keys": ",120740,120741,120742,",
     "target_lang_keys": ",161048,161049,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3452,6 +3808,7 @@
     "targetWordsTxt": "because God",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ γὰρ Θεὸς = because God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.0041841004184100415,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -3466,6 +3823,7 @@
     "alignment_num": "11",
     "orig_lang_keys": ",125175,125176,125177,",
     "target_lang_keys": ",167501,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3522,6 +3880,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὅτι ὁ Θεὸς = God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.0041841004184100415,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -3536,6 +3895,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",135308,135309,135310,",
     "target_lang_keys": ",180139,180140,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3601,6 +3961,7 @@
     "targetWordsTxt": "For God",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ γὰρ Θεὸς = For God",
+    "training_orig_word": "Θεὸς",
     "frequency": 0.008368200836820083,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -3615,6 +3976,7 @@
     "alignment_num": "11",
     "orig_lang_keys": ",13209,13210,13211,",
     "target_lang_keys": ",17122,17123,17124,17125,17126,17127,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3716,6 +4078,7 @@
     "targetWordsTxt": "the things that are God's",
     "alignmentTargetWords": 5,
     "alignmentTxt": "τὰ τοῦ Θεοῦ = the things that are God's",
+    "training_orig_word": "Θεοῦ",
     "frequency": 0.0014044943820224719,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -3730,6 +4093,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",87527,87528,87529,",
     "target_lang_keys": ",114973,114974,114975,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3804,6 +4168,7 @@
     "targetWordsTxt": "of God's",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὴν τοῦ Θεοῦ = of God's",
+    "training_orig_word": "Θεοῦ",
     "frequency": 0.0014044943820224719,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -3818,6 +4183,7 @@
     "alignment_num": "6",
     "orig_lang_keys": ",89340,89341,89342,",
     "target_lang_keys": ",117539,117540,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -3883,6 +4249,7 @@
     "targetWordsTxt": "and God",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ἐνώπιον τοῦ Θεοῦ = and God",
+    "training_orig_word": "Θεοῦ",
     "frequency": 0.0014044943820224719,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -3897,6 +4264,7 @@
     "alignment_num": "5",
     "orig_lang_keys": ",112135,112138,",
     "target_lang_keys": ",148922,",
+    "training_lemma": "θεός",
     "origSpan": 3,
     "origWords": [
       {
@@ -3941,6 +4309,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ Θεοῦ = God",
+    "training_orig_word": "Θεοῦ",
     "frequency": 0.13764044943820225,
     "matchCount": 98,
     "origWordsBetween": 2,
@@ -3955,6 +4324,7 @@
     "alignment_num": "8",
     "orig_lang_keys": ",123803,123804,",
     "target_lang_keys": ",165481,165482,165483,165484,165485,165486,",
+    "training_lemma": "θεός",
     "origSpan": 1,
     "origWords": [
       {
@@ -4044,6 +4414,7 @@
     "targetWordsTxt": "as God would have you serve",
     "alignmentTargetWords": 6,
     "alignmentTxt": "κατὰ Θεόν = as God would have you serve",
+    "training_orig_word": "Θεόν",
     "frequency": 0.0136986301369863,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -4058,6 +4429,7 @@
     "alignment_num": "9",
     "orig_lang_keys": ",99356,99357,99358,",
     "target_lang_keys": ",131680,131681,131682,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -4132,6 +4504,7 @@
     "targetWordsTxt": "as God intended",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τὸ κατὰ Θεὸν = as God intended",
+    "training_orig_word": "Θεὸν",
     "frequency": 0.0136986301369863,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -4146,6 +4519,7 @@
     "alignment_num": "12",
     "orig_lang_keys": ",123552,123553,123554,",
     "target_lang_keys": ",165112,165113,165114,165115,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -4229,6 +4603,7 @@
     "targetWordsTxt": "the way God does",
     "alignmentTargetWords": 4,
     "alignmentTxt": "δὲ κατὰ Θεὸν = the way God does",
+    "training_orig_word": "Θεὸν",
     "frequency": 0.0136986301369863,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -4243,6 +4618,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",96803,96804,96805,",
     "target_lang_keys": ",128166,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -4299,6 +4675,7 @@
     "targetWordsTxt": "But",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῷ δὲ Θεῷ = But",
+    "training_orig_word": "Θεῷ",
     "frequency": 0.011695906432748537,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -4313,6 +4690,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",96803,96804,96805,",
     "target_lang_keys": ",128169,128170,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -4378,6 +4756,7 @@
     "targetWordsTxt": "to God",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῷ δὲ Θεῷ = to God",
+    "training_orig_word": "Θεῷ",
     "frequency": 0.011695906432748537,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -4392,6 +4771,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",97860,97861,97862,",
     "target_lang_keys": ",129605,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -4448,6 +4828,7 @@
     "targetWordsTxt": "But",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῷ δὲ Θεῷ = But",
+    "training_orig_word": "Θεῷ",
     "frequency": 0.011695906432748537,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -4462,6 +4843,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",97860,97861,97862,",
     "target_lang_keys": ",129608,129609,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -4527,6 +4909,7 @@
     "targetWordsTxt": "to God",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τῷ δὲ Θεῷ = to God",
+    "training_orig_word": "Θεῷ",
     "frequency": 0.011695906432748537,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -4541,6 +4924,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",107862,107864,",
     "target_lang_keys": ",143371,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -4585,6 +4969,7 @@
     "targetWordsTxt": "to",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῷ Θεῷ = to",
+    "training_orig_word": "Θεῷ",
     "frequency": 0.017543859649122806,
     "matchCount": 3,
     "origWordsBetween": 1,
@@ -4599,6 +4984,7 @@
     "alignment_num": "3",
     "orig_lang_keys": ",107862,107864,",
     "target_lang_keys": ",143373,",
+    "training_lemma": "θεός",
     "origSpan": 2,
     "origWords": [
       {
@@ -4643,6 +5029,7 @@
     "targetWordsTxt": "God",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῷ Θεῷ = God",
+    "training_orig_word": "Θεῷ",
     "frequency": 0.26900584795321636,
     "matchCount": 46,
     "origWordsBetween": 1,
@@ -4657,6 +5044,7 @@
     "alignment_num": "5",
     "orig_lang_keys": ",103715,103717,",
     "target_lang_keys": ",137912,",
+    "training_lemma": "καλός",
     "origSpan": 2,
     "origWords": [
       {
@@ -4701,6 +5089,7 @@
     "targetWordsTxt": "good",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ καλὸν = good",
+    "training_orig_word": "καλὸν",
     "frequency": 0.022727272727272728,
     "matchCount": 1,
     "origWordsBetween": 1,
@@ -4715,6 +5104,7 @@
     "alignment_num": "6",
     "orig_lang_keys": ",84207,",
     "target_lang_keys": ",110272,110273,110274,110275,110276,",
+    "training_lemma": "καρδία",
     "origSpan": 0,
     "origWords": [
       {
@@ -4783,6 +5173,7 @@
     "targetWordsTxt": "is that of the heart",
     "alignmentTargetWords": 5,
     "alignmentTxt": "καρδίας = is that of the heart",
+    "training_orig_word": "καρδίας",
     "frequency": 0.014925373134328358,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -4797,6 +5188,7 @@
     "alignment_num": "18",
     "orig_lang_keys": ",38880,38882,",
     "target_lang_keys": ",50951,",
+    "training_lemma": "οὐρανός",
     "origSpan": 2,
     "origWords": [
       {
@@ -4841,6 +5233,7 @@
     "targetWordsTxt": "heaven",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ οὐρανοῦ = heaven",
+    "training_orig_word": "οὐρανοῦ",
     "frequency": 0.010101010101010102,
     "matchCount": 1,
     "origWordsBetween": 1,
@@ -4855,6 +5248,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",17090,17091,17092,",
     "target_lang_keys": ",22244,22245,22246,",
+    "training_lemma": "ἀρχιερεύς",
     "origSpan": 2,
     "origWords": [
       {
@@ -4929,6 +5323,7 @@
     "targetWordsTxt": "The chief priests",
     "alignmentTargetWords": 3,
     "alignmentTxt": "οἱ δὲ ἀρχιερεῖς = The chief priests",
+    "training_orig_word": "ἀρχιερεῖς",
     "frequency": 0.02,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -4943,6 +5338,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",276,277,278,",
     "target_lang_keys": ",356,357,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5008,6 +5404,7 @@
     "targetWordsTxt": "of Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῦ δὲ Ἰησοῦ = of Jesus",
+    "training_orig_word": "Ἰησοῦ",
     "frequency": 0.003003003003003003,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -5022,6 +5419,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",437,438,439,",
     "target_lang_keys": ",564,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5078,6 +5476,7 @@
     "targetWordsTxt": "Now",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ δὲ Ἰησοῦ = Now",
+    "training_orig_word": "Ἰησοῦ",
     "frequency": 0.006006006006006006,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -5092,6 +5491,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",437,438,439,",
     "target_lang_keys": ",566,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5148,6 +5548,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ δὲ Ἰησοῦ = Jesus",
+    "training_orig_word": "Ἰησοῦ",
     "frequency": 0.006006006006006006,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -5162,6 +5563,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",15852,15853,15854,",
     "target_lang_keys": ",20615,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5218,6 +5620,7 @@
     "targetWordsTxt": "Now",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ δὲ Ἰησοῦ = Now",
+    "training_orig_word": "Ἰησοῦ",
     "frequency": 0.006006006006006006,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -5232,6 +5635,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",15852,15853,15854,",
     "target_lang_keys": ",20617,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5288,6 +5692,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τοῦ δὲ Ἰησοῦ = Jesus",
+    "training_orig_word": "Ἰησοῦ",
     "frequency": 0.006006006006006006,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -5302,6 +5707,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",4005,4006,4007,",
     "target_lang_keys": ",5131,5132,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5367,6 +5773,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -5381,6 +5788,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",4614,4615,4616,",
     "target_lang_keys": ",5941,5942,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5446,6 +5854,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -5460,6 +5869,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",6316,6317,6318,",
     "target_lang_keys": ",8186,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5516,6 +5926,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -5530,6 +5941,7 @@
     "alignment_num": "3",
     "orig_lang_keys": ",8044,8045,8046,",
     "target_lang_keys": ",10400,10401,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5595,6 +6007,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -5609,6 +6022,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",8310,8311,8312,",
     "target_lang_keys": ",10731,10732,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5674,6 +6088,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -5688,6 +6103,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",9108,9109,9110,",
     "target_lang_keys": ",11755,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5744,6 +6160,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -5758,6 +6175,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",9310,9311,9312,",
     "target_lang_keys": ",12058,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5814,6 +6232,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -5828,6 +6247,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",11181,11182,11183,",
     "target_lang_keys": ",14408,14409,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5893,6 +6313,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -5907,6 +6328,7 @@
     "alignment_num": "3",
     "orig_lang_keys": ",11251,11252,11253,",
     "target_lang_keys": ",14503,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -5963,6 +6385,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -5977,6 +6400,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",11325,11326,11327,",
     "target_lang_keys": ",14598,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6033,6 +6457,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -6047,6 +6472,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",11406,11407,11408,",
     "target_lang_keys": ",14711,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6103,6 +6529,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -6117,6 +6544,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",11876,11877,11878,",
     "target_lang_keys": ",15362,15363,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6182,6 +6610,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -6196,6 +6625,7 @@
     "alignment_num": "6",
     "orig_lang_keys": ",12300,12301,12302,",
     "target_lang_keys": ",15921,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6252,6 +6682,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -6266,6 +6697,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",16572,16573,16574,",
     "target_lang_keys": ",21555,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6322,6 +6754,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -6336,6 +6769,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",16799,16800,16801,",
     "target_lang_keys": ",21858,21859,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6401,6 +6835,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -6415,6 +6850,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",17167,17168,17169,",
     "target_lang_keys": ",22351,22352,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6480,6 +6916,7 @@
     "targetWordsTxt": "Now Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Now Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.002197802197802198,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -6494,6 +6931,7 @@
     "alignment_num": "17",
     "orig_lang_keys": ",17186,17187,17188,",
     "target_lang_keys": ",22370,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6550,6 +6988,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -6564,6 +7003,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",17749,17750,17751,",
     "target_lang_keys": ",23130,23131,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6629,6 +7069,7 @@
     "targetWordsTxt": "Then Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Then Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.013186813186813187,
     "matchCount": 6,
     "origWordsBetween": 0,
@@ -6643,6 +7084,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",21396,21397,21398,",
     "target_lang_keys": ",27868,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6699,6 +7141,7 @@
     "targetWordsTxt": "But",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.002197802197802198,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -6713,6 +7156,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",21396,21397,21398,",
     "target_lang_keys": ",27870,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6769,6 +7213,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -6783,6 +7228,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",24224,24225,24226,",
     "target_lang_keys": ",31526,31527,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6848,6 +7294,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -6862,6 +7309,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",24421,24422,24423,",
     "target_lang_keys": ",31789,31790,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6927,6 +7375,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -6941,6 +7390,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",24877,24878,24879,",
     "target_lang_keys": ",32395,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -6997,6 +7447,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -7011,6 +7462,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",24924,24925,24926,",
     "target_lang_keys": ",32454,32455,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7076,6 +7528,7 @@
     "targetWordsTxt": "Then Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Then Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.013186813186813187,
     "matchCount": 6,
     "origWordsBetween": 0,
@@ -7090,6 +7543,7 @@
     "alignment_num": "6",
     "orig_lang_keys": ",24995,24996,24997,",
     "target_lang_keys": ",32546,32547,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7155,6 +7609,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -7169,6 +7624,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",25255,25256,25257,",
     "target_lang_keys": ",32889,32890,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7234,6 +7690,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -7248,6 +7705,7 @@
     "alignment_num": "4",
     "orig_lang_keys": ",25283,25284,25285,",
     "target_lang_keys": ",32933,32934,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7313,6 +7771,7 @@
     "targetWordsTxt": "So Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = So Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.004395604395604396,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -7327,6 +7786,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",25499,25500,25501,",
     "target_lang_keys": ",33241,33242,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7392,6 +7852,7 @@
     "targetWordsTxt": "Then Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Then Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.013186813186813187,
     "matchCount": 6,
     "origWordsBetween": 0,
@@ -7406,6 +7867,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",26016,26017,26018,",
     "target_lang_keys": ",33905,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7462,6 +7924,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -7476,6 +7939,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",26373,26374,26375,",
     "target_lang_keys": ",34396,34397,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7541,6 +8005,7 @@
     "targetWordsTxt": "Then Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Then Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.013186813186813187,
     "matchCount": 6,
     "origWordsBetween": 0,
@@ -7555,6 +8020,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",26692,26693,26694,",
     "target_lang_keys": ",34786,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7611,6 +8077,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ ὁ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.004395604395604396,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -7625,6 +8092,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",26917,26918,26919,",
     "target_lang_keys": ",35064,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7681,6 +8149,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ ὁ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.004395604395604396,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -7695,6 +8164,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",26974,26975,26976,",
     "target_lang_keys": ",35132,35133,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7760,6 +8230,7 @@
     "targetWordsTxt": "So Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = So Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.004395604395604396,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -7774,6 +8245,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",27599,27600,27601,",
     "target_lang_keys": ",35977,35978,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7839,6 +8311,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -7853,6 +8326,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",28502,28503,28504,",
     "target_lang_keys": ",37176,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7909,6 +8383,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.02857142857142857,
     "matchCount": 13,
     "origWordsBetween": 0,
@@ -7923,6 +8398,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",28762,28763,28764,",
     "target_lang_keys": ",37518,37519,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -7988,6 +8464,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -8002,6 +8479,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",29194,29195,29196,",
     "target_lang_keys": ",38124,38125,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8067,6 +8545,7 @@
     "targetWordsTxt": "Then Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Then Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.013186813186813187,
     "matchCount": 6,
     "origWordsBetween": 0,
@@ -8081,6 +8560,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",34818,34820,",
     "target_lang_keys": ",45611,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8125,6 +8605,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.5912087912087912,
     "matchCount": 269,
     "origWordsBetween": 1,
@@ -8139,6 +8620,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",36553,36555,",
     "target_lang_keys": ",47977,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8183,6 +8665,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.5912087912087912,
     "matchCount": 269,
     "origWordsBetween": 1,
@@ -8197,6 +8680,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",36624,36626,",
     "target_lang_keys": ",48069,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8241,6 +8725,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.5912087912087912,
     "matchCount": 269,
     "origWordsBetween": 1,
@@ -8255,6 +8740,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",37593,37595,",
     "target_lang_keys": ",49325,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8299,6 +8785,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.5912087912087912,
     "matchCount": 269,
     "origWordsBetween": 1,
@@ -8313,6 +8800,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",43942,43944,",
     "target_lang_keys": ",57769,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8357,6 +8845,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.5912087912087912,
     "matchCount": 269,
     "origWordsBetween": 1,
@@ -8371,6 +8860,7 @@
     "alignment_num": "5",
     "orig_lang_keys": ",51111,51112,51113,",
     "target_lang_keys": ",67163,67164,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8436,6 +8926,7 @@
     "targetWordsTxt": "Since Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ οὖν Ἰησοῦς = Since Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.002197802197802198,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -8450,6 +8941,7 @@
     "alignment_num": "7",
     "orig_lang_keys": ",52186,52187,52188,",
     "target_lang_keys": ",68483,68484,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8515,6 +9007,7 @@
     "targetWordsTxt": "because Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ γὰρ Ἰησοῦς = because Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.002197802197802198,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -8529,6 +9022,7 @@
     "alignment_num": "4",
     "orig_lang_keys": ",57975,57976,57977,",
     "target_lang_keys": ",75685,75686,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8594,6 +9088,7 @@
     "targetWordsTxt": "Then Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = Then Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.013186813186813187,
     "matchCount": 6,
     "origWordsBetween": 0,
@@ -8608,6 +9103,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",58198,58199,58200,",
     "target_lang_keys": ",75969,75970,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8673,6 +9169,7 @@
     "targetWordsTxt": "Therefore Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ οὖν Ἰησοῦς = Therefore Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.002197802197802198,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -8687,6 +9184,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",58286,58287,58288,",
     "target_lang_keys": ",76083,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8743,6 +9241,7 @@
     "targetWordsTxt": "Therefore",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ οὖν Ἰησοῦς = Therefore",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.002197802197802198,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -8757,6 +9256,7 @@
     "alignment_num": "6",
     "orig_lang_keys": ",58286,58287,58288,",
     "target_lang_keys": ",76089,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8813,6 +9313,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ὁ οὖν Ἰησοῦς = Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.002197802197802198,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -8827,6 +9328,7 @@
     "alignment_num": "0",
     "orig_lang_keys": ",58662,58663,58664,",
     "target_lang_keys": ",76554,76555,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8892,6 +9394,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -8906,6 +9409,7 @@
     "alignment_num": "14",
     "orig_lang_keys": ",62928,62929,62930,",
     "target_lang_keys": ",82110,82111,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -8971,6 +9475,7 @@
     "targetWordsTxt": "But Jesus",
     "alignmentTargetWords": 2,
     "alignmentTxt": "ὁ δὲ Ἰησοῦς = But Jesus",
+    "training_orig_word": "Ἰησοῦς",
     "frequency": 0.03296703296703297,
     "matchCount": 15,
     "origWordsBetween": 0,
@@ -8985,6 +9490,7 @@
     "alignment_num": "12",
     "orig_lang_keys": ",17313,17314,17315,",
     "target_lang_keys": ",22549,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -9041,6 +9547,7 @@
     "targetWordsTxt": "but",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν δὲ Ἰησοῦν = but",
+    "training_orig_word": "Ἰησοῦν",
     "frequency": 0.015503875968992248,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -9055,6 +9562,7 @@
     "alignment_num": "14",
     "orig_lang_keys": ",17313,17314,17315,",
     "target_lang_keys": ",22551,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -9111,6 +9619,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν δὲ Ἰησοῦν = Jesus",
+    "training_orig_word": "Ἰησοῦν",
     "frequency": 0.015503875968992248,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -9125,6 +9634,7 @@
     "alignment_num": "4",
     "orig_lang_keys": ",17411,17412,17413,",
     "target_lang_keys": ",22676,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -9181,6 +9691,7 @@
     "targetWordsTxt": "but",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν δὲ Ἰησοῦν = but",
+    "training_orig_word": "Ἰησοῦν",
     "frequency": 0.015503875968992248,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -9195,6 +9706,7 @@
     "alignment_num": "6",
     "orig_lang_keys": ",17411,17412,17413,",
     "target_lang_keys": ",22679,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -9251,6 +9763,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν δὲ Ἰησοῦν = Jesus",
+    "training_orig_word": "Ἰησοῦν",
     "frequency": 0.015503875968992248,
     "matchCount": 2,
     "origWordsBetween": 0,
@@ -9265,6 +9778,7 @@
     "alignment_num": "14",
     "orig_lang_keys": ",47845,47847,",
     "target_lang_keys": ",63086,",
+    "training_lemma": "Ἰησοῦς",
     "origSpan": 2,
     "origWords": [
       {
@@ -9309,6 +9823,7 @@
     "targetWordsTxt": "Jesus",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν Ἰησοῦν = Jesus",
+    "training_orig_word": "Ἰησοῦν",
     "frequency": 0.4573643410852713,
     "matchCount": 59,
     "origWordsBetween": 1,
@@ -9323,6 +9838,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",67107,67109,",
     "target_lang_keys": ",87482,",
+    "training_lemma": "κύριος",
     "origSpan": 2,
     "origWords": [
       {
@@ -9367,6 +9883,7 @@
     "targetWordsTxt": "Lord",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὰ Κύριε = Lord",
+    "training_orig_word": "Κύριε",
     "frequency": 0.010101010101010102,
     "matchCount": 1,
     "origWordsBetween": 1,
@@ -9381,6 +9898,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",84859,84860,84861,",
     "target_lang_keys": ",111197,111198,111199,111200,111201,111202,",
+    "training_lemma": "νόμος",
     "origSpan": 2,
     "origWords": [
       {
@@ -9482,6 +10000,7 @@
     "targetWordsTxt": "those who live by the law",
     "alignmentTargetWords": 6,
     "alignmentTxt": "οἱ ἐκ νόμου = those who live by the law",
+    "training_orig_word": "νόμου",
     "frequency": 0.0136986301369863,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -9496,6 +10015,7 @@
     "alignment_num": "17",
     "orig_lang_keys": ",84900,84901,84902,",
     "target_lang_keys": ",111262,111263,111264,111265,111266,",
+    "training_lemma": "νόμος",
     "origSpan": 2,
     "origWords": [
       {
@@ -9588,6 +10108,7 @@
     "targetWordsTxt": "who are under the law",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ἐκ τοῦ νόμου = who are under the law",
+    "training_orig_word": "νόμου",
     "frequency": 0.0136986301369863,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -9602,6 +10123,7 @@
     "alignment_num": "5",
     "orig_lang_keys": ",86055,86056,86057,",
     "target_lang_keys": ",112834,112835,112836,112837,112838,",
+    "training_lemma": "ζωή",
     "origSpan": 2,
     "origWords": [
       {
@@ -9694,6 +10216,7 @@
     "targetWordsTxt": "that was to bring life",
     "alignmentTargetWords": 5,
     "alignmentTxt": "ἡ εἰς ζωὴν = that was to bring life",
+    "training_orig_word": "ζωὴν",
     "frequency": 0.01818181818181818,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -9708,6 +10231,7 @@
     "alignment_num": "9",
     "orig_lang_keys": ",113231,113233,",
     "target_lang_keys": ",150411,",
+    "training_lemma": "ζωή",
     "origSpan": 2,
     "origWords": [
       {
@@ -9752,6 +10276,7 @@
     "targetWordsTxt": "life",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ζωῆς = life",
+    "training_orig_word": "ζωῆς",
     "frequency": 0.07692307692307693,
     "matchCount": 4,
     "origWordsBetween": 1,
@@ -9766,6 +10291,7 @@
     "alignment_num": "11",
     "orig_lang_keys": ",113357,113359,",
     "target_lang_keys": ",150572,",
+    "training_lemma": "ζωή",
     "origSpan": 2,
     "origWords": [
       {
@@ -9810,6 +10336,7 @@
     "targetWordsTxt": "life",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῆς ζωῆς = life",
+    "training_orig_word": "ζωῆς",
     "frequency": 0.07692307692307693,
     "matchCount": 4,
     "origWordsBetween": 1,
@@ -9824,6 +10351,7 @@
     "alignment_num": "8",
     "orig_lang_keys": ",10690,10691,10692,",
     "target_lang_keys": ",13755,13756,",
+    "training_lemma": "ὄνομα",
     "origSpan": 2,
     "origWords": [
       {
@@ -9889,6 +10417,7 @@
     "targetWordsTxt": "my name",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὸ ἐμὸν ὄνομα = my name",
+    "training_orig_word": "ὄνομα",
     "frequency": 0.011904761904761904,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -9903,6 +10432,7 @@
     "alignment_num": "11",
     "orig_lang_keys": ",3488,3489,3490,",
     "target_lang_keys": ",4476,4477,4478,",
+    "training_lemma": "ὄνομα",
     "origSpan": 2,
     "origWords": [
       {
@@ -9977,6 +10507,7 @@
     "targetWordsTxt": "in your name",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τῷ σῷ ὀνόματι = in your name",
+    "training_orig_word": "ὀνόματι",
     "frequency": 0.039473684210526314,
     "matchCount": 3,
     "origWordsBetween": 0,
@@ -9991,6 +10522,7 @@
     "alignment_num": "13",
     "orig_lang_keys": ",3493,3494,3495,",
     "target_lang_keys": ",4480,4481,4482,",
+    "training_lemma": "ὄνομα",
     "origSpan": 2,
     "origWords": [
       {
@@ -10065,6 +10597,7 @@
     "targetWordsTxt": "in your name",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τῷ σῷ ὀνόματι = in your name",
+    "training_orig_word": "ὀνόματι",
     "frequency": 0.039473684210526314,
     "matchCount": 3,
     "origWordsBetween": 0,
@@ -10079,6 +10612,7 @@
     "alignment_num": "17",
     "orig_lang_keys": ",3499,3500,3501,",
     "target_lang_keys": ",4487,4488,4489,",
+    "training_lemma": "ὄνομα",
     "origSpan": 2,
     "origWords": [
       {
@@ -10153,6 +10687,7 @@
     "targetWordsTxt": "in your name",
     "alignmentTargetWords": 3,
     "alignmentTxt": "τῷ σῷ ὀνόματι = in your name",
+    "training_orig_word": "ὀνόματι",
     "frequency": 0.039473684210526314,
     "matchCount": 3,
     "origWordsBetween": 0,
@@ -10167,6 +10702,7 @@
     "alignment_num": "10",
     "orig_lang_keys": ",123712,123713,123714,",
     "target_lang_keys": ",165345,",
+    "training_lemma": "ὄνομα",
     "origSpan": 2,
     "origWords": [
       {
@@ -10223,6 +10759,7 @@
     "targetWordsTxt": "with",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐν τῷ ὀνόματι = with",
+    "training_orig_word": "ὀνόματι",
     "frequency": 0.013157894736842105,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -10237,6 +10774,7 @@
     "alignment_num": "12",
     "orig_lang_keys": ",123712,123713,123714,",
     "target_lang_keys": ",165347,",
+    "training_lemma": "ὄνομα",
     "origSpan": 2,
     "origWords": [
       {
@@ -10293,6 +10831,7 @@
     "targetWordsTxt": "name",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐν τῷ ὀνόματι = name",
+    "training_orig_word": "ὀνόματι",
     "frequency": 0.013157894736842105,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -10307,6 +10846,7 @@
     "alignment_num": "4",
     "orig_lang_keys": ",24259,24260,24261,",
     "target_lang_keys": ",31567,",
+    "training_lemma": "δύναμαι",
     "origSpan": 2,
     "origWords": [
       {
@@ -10363,6 +10903,7 @@
     "targetWordsTxt": "cannot",
     "alignmentTargetWords": 1,
     "alignmentTxt": "ἐν οὐδενὶ δύναται = cannot",
+    "training_orig_word": "δύναται",
     "frequency": 0.012345679012345678,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -10377,6 +10918,7 @@
     "alignment_num": "13",
     "orig_lang_keys": ",91100,91101,91102,",
     "target_lang_keys": ",119885,119886,",
+    "training_lemma": "δύναμαι",
     "origSpan": 2,
     "origWords": [
       {
@@ -10442,6 +10984,7 @@
     "targetWordsTxt": "He cannot",
     "alignmentTargetWords": 2,
     "alignmentTxt": "καὶ οὐ δύναται = He cannot",
+    "training_orig_word": "δύναται",
     "frequency": 0.012345679012345678,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -10456,6 +10999,7 @@
     "alignment_num": "2",
     "orig_lang_keys": ",95027,95028,95029,",
     "target_lang_keys": ",125605,",
+    "training_lemma": "δύναμαι",
     "origSpan": 2,
     "origWords": [
       {
@@ -10512,6 +11056,7 @@
     "targetWordsTxt": "cannot",
     "alignmentTargetWords": 1,
     "alignmentTxt": "οὐ δύναται δὲ = cannot",
+    "training_orig_word": "δύναται",
     "frequency": 0.012345679012345678,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -10526,6 +11071,7 @@
     "alignment_num": "13",
     "orig_lang_keys": ",126033,126034,126035,",
     "target_lang_keys": ",168600,168601,168602,",
+    "training_lemma": "δύναμαι",
     "origSpan": 2,
     "origWords": [
       {
@@ -10600,6 +11146,7 @@
     "targetWordsTxt": "He cannot continue",
     "alignmentTargetWords": 3,
     "alignmentTxt": "καὶ οὐ δύναται = He cannot continue",
+    "training_orig_word": "δύναται",
     "frequency": 0.012345679012345678,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -10614,6 +11161,7 @@
     "alignment_num": "14",
     "orig_lang_keys": ",66483,66488,",
     "target_lang_keys": ",86696,",
+    "training_lemma": "προφήτης",
     "origSpan": 5,
     "origWords": [
       {
@@ -10658,6 +11206,7 @@
     "targetWordsTxt": "of",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῶν προφητῶν = of",
+    "training_orig_word": "προφητῶν",
     "frequency": 0.023809523809523808,
     "matchCount": 1,
     "origWordsBetween": 4,
@@ -10672,6 +11221,7 @@
     "alignment_num": "17",
     "orig_lang_keys": ",66483,66488,",
     "target_lang_keys": ",86699,",
+    "training_lemma": "προφήτης",
     "origSpan": 5,
     "origWords": [
       {
@@ -10716,6 +11266,7 @@
     "targetWordsTxt": "prophets",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τῶν προφητῶν = prophets",
+    "training_orig_word": "προφητῶν",
     "frequency": 0.047619047619047616,
     "matchCount": 2,
     "origWordsBetween": 4,
@@ -10730,6 +11281,7 @@
     "alignment_num": "8",
     "orig_lang_keys": ",992,993,994,",
     "target_lang_keys": ",1273,1274,",
+    "training_lemma": "ἁμαρτία",
     "origSpan": 2,
     "origWords": [
       {
@@ -10795,6 +11347,7 @@
     "targetWordsTxt": "their sins",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὰς ἁμαρτίας αὐτῶν = their sins",
+    "training_orig_word": "ἁμαρτίας",
     "frequency": 0.017241379310344827,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -10809,6 +11362,7 @@
     "alignment_num": "3",
     "orig_lang_keys": ",4877,4878,4879,",
     "target_lang_keys": ",6284,6285,",
+    "training_lemma": "δώδεκα",
     "origSpan": 2,
     "origWords": [
       {
@@ -10874,6 +11428,7 @@
     "targetWordsTxt": "twelve disciples",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοὺς δώδεκα μαθητὰς = twelve disciples",
+    "training_orig_word": "δώδεκα",
     "frequency": 0.012987012987012988,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -10888,6 +11443,7 @@
     "alignment_num": "6",
     "orig_lang_keys": ",5603,5604,5605,",
     "target_lang_keys": ",7200,7201,",
+    "training_lemma": "δώδεκα",
     "origSpan": 2,
     "origWords": [
       {
@@ -10953,11 +11509,960 @@
     "targetWordsTxt": "twelve disciples",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τοῖς δώδεκα μαθηταῖς = twelve disciples",
+    "training_orig_word": "δώδεκα",
     "frequency": 0.012987012987012988,
     "matchCount": 1,
     "origWordsBetween": 0,
     "targetWordsBetween": 0,
     "warnings": "[\"δώδεκα - Too many original language words in alignment: 3, threshold 3\"]"
+  },
+  {
+    "id": "6440",
+    "book_id": "mat",
+    "chapter": "13",
+    "verse": "8",
+    "alignment_num": "9",
+    "orig_lang_keys": ",7115,7116,",
+    "target_lang_keys": ",9177,9178,9179,9180,9181,",
+    "training_lemma": "μέν",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 7115,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 12,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,DO,,,,,,,,"
+      },
+      {
+        "id": 7116,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 13,
+        "word": "ἑκατὸν",
+        "occurrence": 1,
+        "strong": "G15400",
+        "lemma": "ἑκατόν",
+        "morph": "Gr,NS,,,,ANPI"
+      }
+    ],
+    "origWordsTxt": "μὲν ἑκατὸν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 9177,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 11,
+        "word": "one",
+        "occurrence": 1
+      },
+      {
+        "id": 9178,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 12,
+        "word": "hundred",
+        "occurrence": 1
+      },
+      {
+        "id": 9179,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 13,
+        "word": "times",
+        "occurrence": 1
+      },
+      {
+        "id": 9180,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 14,
+        "word": "as",
+        "occurrence": 1
+      },
+      {
+        "id": 9181,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "8",
+        "word_num": 15,
+        "word": "much",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "one hundred times as much",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "μὲν ἑκατὸν = one hundred times as much",
+    "training_orig_word": "μὲν",
+    "frequency": 0.0078125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"μὲν - Too many target language words in alignment: 5, threshold 5\"]"
+  },
+  {
+    "id": "6703",
+    "book_id": "mat",
+    "chapter": "13",
+    "verse": "23",
+    "alignment_num": "20",
+    "orig_lang_keys": ",7403,7404,",
+    "target_lang_keys": ",9584,9585,9586,9587,9588,9589,9590,9591,",
+    "training_lemma": "μέν",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 7403,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 21,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,DO,,,,,,,,"
+      },
+      {
+        "id": 7404,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 22,
+        "word": "ἑκατὸν",
+        "occurrence": 1,
+        "strong": "G15400",
+        "lemma": "ἑκατόν",
+        "morph": "Gr,NS,,,,ANPI"
+      }
+    ],
+    "origWordsTxt": "μὲν ἑκατὸν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 7,
+    "targetWords": [
+      {
+        "id": 9584,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 25,
+        "word": "one",
+        "occurrence": 1
+      },
+      {
+        "id": 9585,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 26,
+        "word": "hundred",
+        "occurrence": 1
+      },
+      {
+        "id": 9586,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 27,
+        "word": "times",
+        "occurrence": 1
+      },
+      {
+        "id": 9587,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 28,
+        "word": "as",
+        "occurrence": 1
+      },
+      {
+        "id": 9588,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 29,
+        "word": "much",
+        "occurrence": 1
+      },
+      {
+        "id": 9589,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 30,
+        "word": "as",
+        "occurrence": 2
+      },
+      {
+        "id": 9590,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 31,
+        "word": "was",
+        "occurrence": 2
+      },
+      {
+        "id": 9591,
+        "book_id": "mat",
+        "chapter": "13",
+        "verse": "23",
+        "word_num": 32,
+        "word": "planted",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "one hundred times as much as was planted",
+    "alignmentTargetWords": 8,
+    "alignmentTxt": "μὲν ἑκατὸν = one hundred times as much as was planted",
+    "training_orig_word": "μὲν",
+    "frequency": 0.0078125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"μὲν - Too many target language words in alignment: 8, threshold 5\"]"
+  },
+  {
+    "id": "10695",
+    "book_id": "mat",
+    "chapter": "20",
+    "verse": "23",
+    "alignment_num": "3",
+    "orig_lang_keys": ",11842,11843,11844,",
+    "target_lang_keys": ",15312,",
+    "training_lemma": "μέν",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 11842,
+        "book_id": "mat",
+        "chapter": "20",
+        "verse": "23",
+        "word_num": 2,
+        "word": "τὸ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,ANS,"
+      },
+      {
+        "id": 11843,
+        "book_id": "mat",
+        "chapter": "20",
+        "verse": "23",
+        "word_num": 3,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,DO,,,,,,,,"
+      },
+      {
+        "id": 11844,
+        "book_id": "mat",
+        "chapter": "20",
+        "verse": "23",
+        "word_num": 4,
+        "word": "ποτήριόν",
+        "occurrence": 1,
+        "strong": "G42210",
+        "lemma": "ποτήριον",
+        "morph": "Gr,N,,,,,ANS,"
+      }
+    ],
+    "origWordsTxt": "τὸ μὲν ποτήριόν",
+    "alignmentOrigWords": 3,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 15312,
+        "book_id": "mat",
+        "chapter": "20",
+        "verse": "23",
+        "word_num": 5,
+        "word": "cup",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "cup",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "τὸ μὲν ποτήριόν = cup",
+    "training_orig_word": "μὲν",
+    "frequency": 0.0078125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"μὲν - Too many original language words in alignment: 3, threshold 3\"]"
+  },
+  {
+    "id": "13778",
+    "book_id": "mat",
+    "chapter": "25",
+    "verse": "15",
+    "alignment_num": "0",
+    "orig_lang_keys": ",15214,15215,15216,",
+    "target_lang_keys": ",19712,19713,19714,19715,",
+    "training_lemma": "μέν",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 15214,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "15",
+        "word_num": 0,
+        "word": "καὶ",
+        "occurrence": 1,
+        "strong": "G25320",
+        "lemma": "καί",
+        "morph": "Gr,CC,,,,,,,,"
+      },
+      {
+        "id": 15215,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "15",
+        "word_num": 1,
+        "word": "ᾧ",
+        "occurrence": 1,
+        "strong": "G37390",
+        "lemma": "ὅς",
+        "morph": "Gr,RI,,,,DMS,"
+      },
+      {
+        "id": 15216,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "15",
+        "word_num": 2,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,DO,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "καὶ ᾧ μὲν",
+    "alignmentOrigWords": 3,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 19712,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "15",
+        "word_num": 0,
+        "word": "To",
+        "occurrence": 1
+      },
+      {
+        "id": 19713,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "15",
+        "word_num": 1,
+        "word": "one",
+        "occurrence": 1
+      },
+      {
+        "id": 19714,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "15",
+        "word_num": 2,
+        "word": "of",
+        "occurrence": 1
+      },
+      {
+        "id": 19715,
+        "book_id": "mat",
+        "chapter": "25",
+        "verse": "15",
+        "word_num": 3,
+        "word": "them",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "To one of them",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "καὶ ᾧ μὲν = To one of them",
+    "training_orig_word": "μὲν",
+    "frequency": 0.0078125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"μὲν - Too many original language words in alignment: 3, threshold 3\"]"
+  },
+  {
+    "id": "80548",
+    "book_id": "rom",
+    "chapter": "6",
+    "verse": "11",
+    "alignment_num": "7",
+    "orig_lang_keys": ",85627,85628,85629,",
+    "target_lang_keys": ",112212,112213,",
+    "training_lemma": "μέν",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 85627,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "11",
+        "word_num": 7,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,DO,,,,,,,,"
+      },
+      {
+        "id": 85628,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "11",
+        "word_num": 8,
+        "word": "τῇ",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DFS,"
+      },
+      {
+        "id": 85629,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "11",
+        "word_num": 9,
+        "word": "ἁμαρτίᾳ",
+        "occurrence": 1,
+        "strong": "G02660",
+        "lemma": "ἁμαρτία",
+        "morph": "Gr,N,,,,,DFS,"
+      }
+    ],
+    "origWordsTxt": "μὲν τῇ ἁμαρτίᾳ",
+    "alignmentOrigWords": 3,
+    "targetSpan": 1,
+    "targetWords": [
+      {
+        "id": 112212,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "11",
+        "word_num": 12,
+        "word": "to",
+        "occurrence": 2
+      },
+      {
+        "id": 112213,
+        "book_id": "rom",
+        "chapter": "6",
+        "verse": "11",
+        "word_num": 13,
+        "word": "sin",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to sin",
+    "alignmentTargetWords": 2,
+    "alignmentTxt": "μὲν τῇ ἁμαρτίᾳ = to sin",
+    "training_orig_word": "μὲν",
+    "frequency": 0.0078125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"μὲν - Too many original language words in alignment: 3, threshold 3\"]"
+  },
+  {
+    "id": "81176",
+    "book_id": "rom",
+    "chapter": "7",
+    "verse": "25",
+    "alignment_num": "14",
+    "orig_lang_keys": ",86306,86307,86308,",
+    "target_lang_keys": ",113195,113196,113197,",
+    "training_lemma": "μέν",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 86306,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "25",
+        "word_num": 13,
+        "word": "τῷ",
+        "occurrence": 2,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,EA,,,,DMS,"
+      },
+      {
+        "id": 86307,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "25",
+        "word_num": 14,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,DO,,,,,,,,"
+      },
+      {
+        "id": 86308,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "25",
+        "word_num": 15,
+        "word": "νοῒ",
+        "occurrence": 1,
+        "strong": "G35630",
+        "lemma": "νοῦς",
+        "morph": "Gr,N,,,,,DMS,"
+      }
+    ],
+    "origWordsTxt": "τῷ μὲν νοῒ",
+    "alignmentOrigWords": 3,
+    "targetSpan": 2,
+    "targetWords": [
+      {
+        "id": 113195,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "25",
+        "word_num": 19,
+        "word": "with",
+        "occurrence": 1
+      },
+      {
+        "id": 113196,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "25",
+        "word_num": 20,
+        "word": "my",
+        "occurrence": 1
+      },
+      {
+        "id": 113197,
+        "book_id": "rom",
+        "chapter": "7",
+        "verse": "25",
+        "word_num": 21,
+        "word": "mind",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "with my mind",
+    "alignmentTargetWords": 3,
+    "alignmentTxt": "τῷ μὲν νοῒ = with my mind",
+    "training_orig_word": "μὲν",
+    "frequency": 0.0078125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"μὲν - Too many original language words in alignment: 3, threshold 3\"]"
+  },
+  {
+    "id": "82105",
+    "book_id": "rom",
+    "chapter": "9",
+    "verse": "21",
+    "alignment_num": "14",
+    "orig_lang_keys": ",87295,87296,87297,",
+    "target_lang_keys": ",114636,",
+    "training_lemma": "μέν",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 87295,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 13,
+        "word": "ὃ",
+        "occurrence": 1,
+        "strong": "G37390",
+        "lemma": "ὅς",
+        "morph": "Gr,RI,,,,ANS,"
+      },
+      {
+        "id": 87296,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 14,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,DO,,,,,,,,"
+      },
+      {
+        "id": 87297,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 15,
+        "word": "εἰς",
+        "occurrence": 1,
+        "strong": "G15190",
+        "lemma": "εἰς",
+        "morph": "Gr,P,,,,,A,,,"
+      }
+    ],
+    "origWordsTxt": "ὃ μὲν εἰς",
+    "alignmentOrigWords": 3,
+    "targetSpan": 0,
+    "targetWords": [
+      {
+        "id": 114636,
+        "book_id": "rom",
+        "chapter": "9",
+        "verse": "21",
+        "word_num": 18,
+        "word": "for",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "for",
+    "alignmentTargetWords": 1,
+    "alignmentTxt": "ὃ μὲν εἰς = for",
+    "training_orig_word": "μὲν",
+    "frequency": 0.0078125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"μὲν - Too many original language words in alignment: 3, threshold 3\"]"
+  },
+  {
+    "id": "82806",
+    "book_id": "rom",
+    "chapter": "11",
+    "verse": "13",
+    "alignment_num": "4",
+    "orig_lang_keys": ",88052,88053,88054,88055,",
+    "target_lang_keys": ",115690,115691,115692,115693,",
+    "training_lemma": "μέν",
+    "origSpan": 3,
+    "origWords": [
+      {
+        "id": 88052,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 5,
+        "word": "ἐφ’",
+        "occurrence": 1,
+        "strong": "G19090",
+        "lemma": "ἐπί",
+        "morph": "Gr,P,,,,,A,,,"
+      },
+      {
+        "id": 88053,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 6,
+        "word": "ὅσον",
+        "occurrence": 1,
+        "strong": "G37450",
+        "lemma": "ὅσος",
+        "morph": "Gr,RR,,,,ANS,"
+      },
+      {
+        "id": 88054,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 7,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,T,,,,,,,,,"
+      },
+      {
+        "id": 88055,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 8,
+        "word": "οὖν",
+        "occurrence": 1,
+        "strong": "G37670",
+        "lemma": "οὖν",
+        "morph": "Gr,CC,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "ἐφ’ ὅσον μὲν οὖν",
+    "alignmentOrigWords": 4,
+    "targetSpan": 3,
+    "targetWords": [
+      {
+        "id": 115690,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 8,
+        "word": "and",
+        "occurrence": 1
+      },
+      {
+        "id": 115691,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 9,
+        "word": "as",
+        "occurrence": 1
+      },
+      {
+        "id": 115692,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 10,
+        "word": "long",
+        "occurrence": 1
+      },
+      {
+        "id": 115693,
+        "book_id": "rom",
+        "chapter": "11",
+        "verse": "13",
+        "word_num": 11,
+        "word": "as",
+        "occurrence": 2
+      }
+    ],
+    "targetWordsTxt": "and as long as",
+    "alignmentTargetWords": 4,
+    "alignmentTxt": "ἐφ’ ὅσον μὲν οὖν = and as long as",
+    "training_orig_word": "μὲν",
+    "frequency": 0.0078125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"μὲν - Too many original language words in alignment: 4, threshold 3\"]"
+  },
+  {
+    "id": "85172",
+    "book_id": "1co",
+    "chapter": "1",
+    "verse": "18",
+    "alignment_num": "7",
+    "orig_lang_keys": ",90627,90628,90629,",
+    "target_lang_keys": ",119277,119278,119279,119280,119281,",
+    "training_lemma": "μέν",
+    "origSpan": 2,
+    "origWords": [
+      {
+        "id": 90627,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 6,
+        "word": "τοῖς",
+        "occurrence": 1,
+        "strong": "G35880",
+        "lemma": "ὁ",
+        "morph": "Gr,RD,,,,DMP,"
+      },
+      {
+        "id": 90628,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 7,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,DO,,,,,,,,"
+      },
+      {
+        "id": 90629,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 8,
+        "word": "ἀπολλυμένοις",
+        "occurrence": 1,
+        "strong": "G06220",
+        "lemma": "ἀπόλλυμι",
+        "morph": "Gr,V,PPM,DMP,"
+      }
+    ],
+    "origWordsTxt": "τοῖς μὲν ἀπολλυμένοις",
+    "alignmentOrigWords": 3,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 119277,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 8,
+        "word": "to",
+        "occurrence": 1
+      },
+      {
+        "id": 119278,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 9,
+        "word": "those",
+        "occurrence": 1
+      },
+      {
+        "id": 119279,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 10,
+        "word": "who",
+        "occurrence": 1
+      },
+      {
+        "id": 119280,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 11,
+        "word": "are",
+        "occurrence": 1
+      },
+      {
+        "id": 119281,
+        "book_id": "1co",
+        "chapter": "1",
+        "verse": "18",
+        "word_num": 12,
+        "word": "perishing",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "to those who are perishing",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "τοῖς μὲν ἀπολλυμένοις = to those who are perishing",
+    "training_orig_word": "μὲν",
+    "frequency": 0.0078125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"μὲν - Too many original language words in alignment: 3, threshold 3\", \"μὲν - Too many target language words in alignment: 5, threshold 5\"]"
+  },
+  {
+    "id": "117171",
+    "book_id": "1pe",
+    "chapter": "4",
+    "verse": "6",
+    "alignment_num": "6",
+    "orig_lang_keys": ",123546,123547,",
+    "target_lang_keys": ",165096,165097,165098,165099,165100,",
+    "training_lemma": "μέν",
+    "origSpan": 1,
+    "origWords": [
+      {
+        "id": 123546,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 7,
+        "word": "κριθῶσι",
+        "occurrence": 1,
+        "strong": "G29190",
+        "lemma": "κρίνω",
+        "morph": "Gr,V,SAP3,,P,"
+      },
+      {
+        "id": 123547,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 8,
+        "word": "μὲν",
+        "occurrence": 1,
+        "strong": "G33030",
+        "lemma": "μέν",
+        "morph": "Gr,DO,,,,,,,,"
+      }
+    ],
+    "origWordsTxt": "κριθῶσι μὲν",
+    "alignmentOrigWords": 2,
+    "targetSpan": 4,
+    "targetWords": [
+      {
+        "id": 165096,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 13,
+        "word": "although",
+        "occurrence": 1
+      },
+      {
+        "id": 165097,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 14,
+        "word": "they",
+        "occurrence": 1
+      },
+      {
+        "id": 165098,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 15,
+        "word": "have",
+        "occurrence": 1
+      },
+      {
+        "id": 165099,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 16,
+        "word": "been",
+        "occurrence": 1
+      },
+      {
+        "id": 165100,
+        "book_id": "1pe",
+        "chapter": "4",
+        "verse": "6",
+        "word_num": 17,
+        "word": "judged",
+        "occurrence": 1
+      }
+    ],
+    "targetWordsTxt": "although they have been judged",
+    "alignmentTargetWords": 5,
+    "alignmentTxt": "κριθῶσι μὲν = although they have been judged",
+    "training_orig_word": "μὲν",
+    "frequency": 0.0078125,
+    "matchCount": 1,
+    "origWordsBetween": 0,
+    "targetWordsBetween": 0,
+    "warnings": "[\"μὲν - Too many target language words in alignment: 5, threshold 5\"]"
   },
   {
     "id": "85408",
@@ -10967,6 +12472,7 @@
     "alignment_num": "1",
     "orig_lang_keys": ",90888,90889,90890,",
     "target_lang_keys": ",119618,",
+    "training_lemma": "λόγος",
     "origSpan": 2,
     "origWords": [
       {
@@ -11023,6 +12529,7 @@
     "targetWordsTxt": "message",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ ὁ λόγος = message",
+    "training_orig_word": "λόγος",
     "frequency": 0.014084507042253521,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -11037,6 +12544,7 @@
     "alignment_num": "15",
     "orig_lang_keys": ",89671,",
     "target_lang_keys": ",118000,118001,118002,118003,118004,118005,",
+    "training_lemma": "λόγος",
     "origSpan": 0,
     "origWords": [
       {
@@ -11114,6 +12622,7 @@
     "targetWordsTxt": "These are things done by word",
     "alignmentTargetWords": 6,
     "alignmentTxt": "λόγῳ = These are things done by word",
+    "training_orig_word": "λόγῳ",
     "frequency": 0.02040816326530612,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -11128,6 +12637,7 @@
     "alignment_num": "10",
     "orig_lang_keys": ",124844,124845,124846,",
     "target_lang_keys": ",167024,167025,167026,167027,",
+    "training_lemma": "λόγος",
     "origSpan": 2,
     "origWords": [
       {
@@ -11211,6 +12721,7 @@
     "targetWordsTxt": "by that same command",
     "alignmentTargetWords": 4,
     "alignmentTxt": "τῷ αὐτῷ λόγῳ = by that same command",
+    "training_orig_word": "λόγῳ",
     "frequency": 0.02040816326530612,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -11225,6 +12736,7 @@
     "alignment_num": "4",
     "orig_lang_keys": ",52657,52658,52659,",
     "target_lang_keys": ",69083,",
+    "training_lemma": "λόγος",
     "origSpan": 2,
     "origWords": [
       {
@@ -11281,6 +12793,7 @@
     "targetWordsTxt": "word",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ τὸν λόγον = word",
+    "training_orig_word": "λόγον",
     "frequency": 0.007462686567164179,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -11295,6 +12808,7 @@
     "alignment_num": "10",
     "orig_lang_keys": ",1857,1858,1859,",
     "target_lang_keys": ",2390,2391,",
+    "training_lemma": "ἔργον",
     "origSpan": 2,
     "origWords": [
       {
@@ -11360,6 +12874,7 @@
     "targetWordsTxt": "good deeds",
     "alignmentTargetWords": 2,
     "alignmentTxt": "τὰ καλὰ ἔργα = good deeds",
+    "training_orig_word": "ἔργα",
     "frequency": 0.01694915254237288,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -11374,6 +12889,7 @@
     "alignment_num": "14",
     "orig_lang_keys": ",129039,129040,129041,",
     "target_lang_keys": ",172452,",
+    "training_lemma": "ἔργον",
     "origSpan": 2,
     "origWords": [
       {
@@ -11430,6 +12946,7 @@
     "targetWordsTxt": "works",
     "alignmentTargetWords": 1,
     "alignmentTxt": "καὶ τὰ ἔργα = works",
+    "training_orig_word": "ἔργα",
     "frequency": 0.01694915254237288,
     "matchCount": 1,
     "origWordsBetween": 0,
@@ -11444,6 +12961,7 @@
     "alignment_num": "5",
     "orig_lang_keys": ",103642,103644,",
     "target_lang_keys": ",137812,",
+    "training_lemma": "ἔργον",
     "origSpan": 2,
     "origWords": [
       {
@@ -11488,6 +13006,7 @@
     "targetWordsTxt": "work",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸ ἔργον = work",
+    "training_orig_word": "ἔργον",
     "frequency": 0.1951219512195122,
     "matchCount": 8,
     "origWordsBetween": 1,
@@ -11502,6 +13021,7 @@
     "alignment_num": "12",
     "orig_lang_keys": ",112748,112750,",
     "target_lang_keys": ",149755,",
+    "training_lemma": "οἶκος",
     "origSpan": 2,
     "origWords": [
       {
@@ -11546,6 +13066,7 @@
     "targetWordsTxt": "household",
     "alignmentTargetWords": 1,
     "alignmentTxt": "τὸν οἶκον = household",
+    "training_orig_word": "οἶκον",
     "frequency": 0.0425531914893617,
     "matchCount": 2,
     "origWordsBetween": 1,

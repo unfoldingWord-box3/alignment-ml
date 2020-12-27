@@ -105,8 +105,18 @@ CREATE TABLE IF NOT EXISTS {original_words_index_table} (
   originalWord TEXT PRIMARY KEY,
   lemma TEXT NOT NULL,
   strong TEXT NOT NULL,
+  alignments_keys TEXT NOT NULL,
   alignments TEXT NOT NULL,
-  frequency TEXT NOT NULL
+  alignmentsTotal INTEGER,
+  frequency TEXT,
+  origWordsText TEXT,
+  origWordsCount TEXT,
+  origWordsBetween TEXT,
+  targetWordsText TEXT,
+  targetWordsCount TEXT,
+  targetWordsBetween TEXT,
+  alignmentText TEXT,
+  alignmentTextFrequency TEXT
 );
 """
 
@@ -482,13 +492,19 @@ def saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verse, 
                     alignmentList = alignmentsIndex[wordText]['alignments']
                     if id not in alignmentList:
                         alignmentList.append(id)
+                        alignmentsIndex[wordText]['alignmentsFull'].append(alignment)
+                        alignmentsIndex[wordText]['originalWords'].append(originalWords)
+                        alignmentsIndex[wordText]['targetWords'].append(targetWords)
                 else:
                     alignmentsIndex[wordText] = {
                         'originalWord': wordText,
                         'lemma': origW['lemma'],
                         'strong': origW['strong'],
                         'alignments': [ id ],
-                        'frequency': ''
+                        'alignmentsFull': [ alignment ],
+                        'frequency': '',
+                        'originalWords': [originalWords],
+                        'targetWords': [targetWords]
                     }
             # addMultipleItemsToDatabase(connection, alignment_table, alignments)
     if not alignmentsFound:
@@ -544,9 +560,66 @@ def getAlignmentsForTestament(connection, newTestament, dataFolder, origLangPath
         print (f"reading {book}")
         saveAlignmentsForBook(connection, alignmentsIndex, book, dataFolder, bibleType, origLangPath, nestedFormat)
 
+    print(f"Saving Alignments by original Word index:")
     for word in alignmentsIndex:
         row = alignmentsIndex[word]
-        row['alignments'] = json.dumps(row['alignments'])
+        alignments_ = row['alignments']
+        alignmentsFull = row['alignmentsFull']
+        frequency = {}
+        origWordsTxt_ = []
+        origWordsCount_ = []
+        targetWordsTxt_ = []
+        targetWordsCount_ = []
+        alignmentTxt_ = []
+        origWordsBetween_ = []
+        targetWordsBetween_ = []
+        originalWords = row['originalWords']
+        targetWords = row['targetWords']
+        alignmentsCount = len(alignmentsFull)
+        for i in range(alignmentsCount):
+            original_words = originalWords[i]
+            origWordsTxt, origWordsCount = combineWordList2(original_words)
+            origWordsTxt_.append(origWordsTxt)
+            origWordsCount_.append(origWordsCount)
+            origSpan = getSpan(original_words)
+            origWordsBetween = origSpan - (origWordsCount - 1)
+            origWordsBetween_.append(origWordsBetween)
+            target_words = targetWords[i]
+            targetWordsTxt, targetWordsCount = combineWordList2(target_words)
+            targetWordsTxt_.append(targetWordsTxt)
+            targetWordsCount_.append(targetWordsCount)
+            targetSpan = getSpan(target_words)
+            targetWordsBetween = targetSpan - (targetWordsCount - 1)
+            targetWordsBetween_.append(targetWordsBetween)
+            alignmentTxt = f"{origWordsTxt} = {targetWordsTxt}"
+            alignmentTxt_.append(alignmentTxt)
+            if alignmentTxt in frequency:
+                frequency[alignmentTxt] += 1
+            else:
+                frequency[alignmentTxt] = 1
+
+        alignmentTxtFrequency_ = []
+        for i in range(alignmentsCount):
+            alignmentTxt = alignmentTxt_[i]
+            count = frequency[alignmentTxt]
+            alignmentTxtFrequency_.append(count / alignmentsCount)
+
+        row['frequency'] = json.dumps(frequency, ensure_ascii = False)
+        row['alignmentsTotal'] = alignmentsCount
+        row['origWordsText'] = json.dumps(origWordsTxt_, ensure_ascii = False)
+        row['origWordsCount'] = json.dumps(origWordsCount_)
+        row['targetWordsText'] = json.dumps(targetWordsTxt_, ensure_ascii = False)
+        row['targetWordsCount'] = json.dumps(targetWordsCount_)
+        row['alignmentText'] = json.dumps(alignmentTxt_, ensure_ascii = False)
+        row['alignmentTextFrequency'] = json.dumps(alignmentTxtFrequency_)
+        row['alignments'] = json.dumps(alignmentsFull, ensure_ascii = False)
+        row['origWordsBetween'] = json.dumps(origWordsBetween_)
+        row['targetWordsBetween'] = json.dumps(targetWordsBetween_)
+
+        del row['originalWords']
+        del row['targetWords']
+        del row['alignmentsFull']
+        row['alignments_keys'] = json.dumps(alignments_, ensure_ascii = False)
         id = writeRowToDB(connection, original_words_index_table, row, update=True)
 
 def findAlignmentsFromIndexDbForOrigWord(connection, word, searchLemma, maxRows=None):
@@ -631,6 +704,16 @@ def combineWordList(words):
     for word in words:
         words_.append(word['word'])
     return ' '.join(words_)
+
+def combineWordList2(words):
+    words_ = []
+    for word in words:
+        if word == 's':
+            index = len(words) -1
+            words_[index] += "'s"
+        else:
+            words_.append(word['word'])
+    return ' '.join(words_), len(words_)
 
 def getSpan(origWords):
     span = 0

@@ -67,7 +67,7 @@ print (f"{len(items_align)} items in alignment_table")
 # 137962 items in original_words_table
 
 # Get NT alignments - deleting sqlite DB first
-# on M1 MBP 13" rosetta: Elapsed time: 0:23:52
+# Get NT alignments, Elapsed time: 0:22:41
 # on Dell Laptop: Elapsed time: 0:46:33
 
 
