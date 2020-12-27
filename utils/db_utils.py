@@ -43,6 +43,16 @@ def execute_read_query(connection, query):
     except Error as e:
         print(f"execute_read_query - The error '{e}' occurred, query: {query}")
 
+def execute_query_single(connection, query):
+    cursor = connection.cursor()
+    result = None
+    try:
+        cursor.execute(query)
+        result = cursor.fetchone()
+        return result
+    except Error as e:
+        print(f"execute_read_query - The error '{e}' occurred, query: {query}")
+
 def execute_read_query_dict(connection, query):
     connection.row_factory = sqlite3.Row
     cursor = connection.cursor()
@@ -70,7 +80,8 @@ CREATE TABLE IF NOT EXISTS {original_words_table} (
   occurrence INTEGER,
   strong TEXT,
   lemma TEXT,
-  morph TEXT
+  morph TEXT,
+  alignment_id INTEGER
 );
 """
 
@@ -82,13 +93,14 @@ CREATE TABLE IF NOT EXISTS {target_words_table} (
   verse TEXT NOT NULL,
   word_num INTEGER,
   word TEXT NOT NULL,
-  occurrence INTEGER
+  occurrence INTEGER,
+  alignment_id INTEGER
 );
 """
 
 create_alignment_table = f"""
 CREATE TABLE IF NOT EXISTS {alignment_table} (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  id INTEGER PRIMARY KEY,
   book_id TEXT NOT NULL,
   chapter TEXT NOT NULL,
   verse TEXT NOT NULL,
@@ -106,9 +118,8 @@ CREATE TABLE IF NOT EXISTS {original_words_index_table} (
   lemma TEXT NOT NULL,
   strong TEXT NOT NULL,
   alignments_keys TEXT NOT NULL,
-  alignments TEXT NOT NULL,
   alignmentsTotal INTEGER,
-  frequency TEXT,
+  frequencies TEXT,
   origWordsText TEXT,
   origWordsCount TEXT,
   origWordsBetween TEXT,
@@ -144,6 +155,26 @@ def resetTable(connection, table):
         execute_query(connection, create_original_words_table)
     else:
         print(f"resetTable - unknown table: {table}")
+
+def getRowCount(connection, table):
+    command = f'SELECT COUNT(*) FROM {table};'
+    response = execute_query_single(connection, command)
+    count = response[0]
+    return count
+
+def writeRowToDB(connection, table, data, update=False):
+    header = getHeader(data)
+    row = getDataItems(data)
+    if update:
+        cmd = 'REPLACE' # actually will also do insert if key not in table
+    else:
+        cmd = 'INSERT'
+    sql = f''' {cmd} INTO {table}({header})
+              VALUES({row}) '''
+    cur = connection.cursor()
+    cur.execute(sql)
+    connection.commit()
+    return cur.lastrowid
 
 def getWordsFromVerse(verseObjects):
     words = []
@@ -285,20 +316,6 @@ def getWordText(word):
         return word[key]
     return ''
 
-def writeRowToDB(connection, table, data, update=False):
-    header = getHeader(data)
-    row = getDataItems(data)
-    if update:
-        cmd = 'REPLACE' # actually will also do insert if key not in table
-    else:
-        cmd = 'INSERT'
-    sql = f''' {cmd} INTO {table}({header})
-              VALUES({row}) '''
-    cur = connection.cursor()
-    cur.execute(sql)
-    connection.commit()
-    return cur.lastrowid
-
 def createCommandToAddToDatabase(table, data):
     header = getHeader(data[0])
 
@@ -416,7 +433,7 @@ def loadAllWordsFromTestamentIntoDB(connection, origLangPath, newTestament, tabl
         print (f"loadAllWordsFromTestamentIntoDB - reading {book}")
         loadAllWordsFromBookIntoDB(connection, origLangPath, book, table)
 
-def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignmentNum):
+def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignmentNum, alignmentId):
     topwords = alignment['topWords']
     bottomWords = alignment['bottomWords']
     origLangWords = topwords
@@ -466,6 +483,7 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
         return None
 
     alignment_ = {
+        'id': alignmentId,
         'book_id': bookId,
         'chapter': chapter,
         'verse': verse,
@@ -480,9 +498,11 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
 def saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verse, verseAlignments):
     alignmentsFound = False
     numAlignments = len(verseAlignments)
+    start = getRowCount(connection, alignment_table) + 1
+
     for i in range(numAlignments):
         verseAlignment = verseAlignments[i]
-        alignment, originalWords, targetWords = findWordsForAlignment(connection, bookId, chapter, verse, verseAlignment, i)
+        alignment, originalWords, targetWords = findWordsForAlignment(connection, bookId, chapter, verse, verseAlignment, i, start + i)
         if alignment:
             alignmentsFound = True
             id = writeRowToDB(connection, alignment_table, alignment)
@@ -502,7 +522,6 @@ def saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verse, 
                         'strong': origW['strong'],
                         'alignments': [ id ],
                         'alignmentsFull': [ alignment ],
-                        'frequency': '',
                         'originalWords': [originalWords],
                         'targetWords': [targetWords]
                     }
@@ -565,7 +584,7 @@ def getAlignmentsForTestament(connection, newTestament, dataFolder, origLangPath
         row = alignmentsIndex[word]
         alignments_ = row['alignments']
         alignmentsFull = row['alignmentsFull']
-        frequency = {}
+        frequencies = {}
         origWordsTxt_ = []
         origWordsCount_ = []
         targetWordsTxt_ = []
@@ -593,32 +612,33 @@ def getAlignmentsForTestament(connection, newTestament, dataFolder, origLangPath
             targetWordsBetween_.append(targetWordsBetween)
             alignmentTxt = f"{origWordsTxt} = {targetWordsTxt}"
             alignmentTxt_.append(alignmentTxt)
-            if alignmentTxt in frequency:
-                frequency[alignmentTxt] += 1
+            if alignmentTxt in frequencies:
+                frequencies[alignmentTxt] += 1
             else:
-                frequency[alignmentTxt] = 1
+                frequencies[alignmentTxt] = 1
 
         alignmentTxtFrequency_ = []
         for i in range(alignmentsCount):
             alignmentTxt = alignmentTxt_[i]
-            count = frequency[alignmentTxt]
+            count = frequencies[alignmentTxt]
             alignmentTxtFrequency_.append(count / alignmentsCount)
 
-        row['frequency'] = json.dumps(frequency, ensure_ascii = False)
+        row['frequencies'] = json.dumps(frequencies, ensure_ascii = False)
         row['alignmentsTotal'] = alignmentsCount
         row['origWordsText'] = json.dumps(origWordsTxt_, ensure_ascii = False)
         row['origWordsCount'] = json.dumps(origWordsCount_)
         row['targetWordsText'] = json.dumps(targetWordsTxt_, ensure_ascii = False)
         row['targetWordsCount'] = json.dumps(targetWordsCount_)
         row['alignmentText'] = json.dumps(alignmentTxt_, ensure_ascii = False)
-        row['alignmentTextFrequency'] = json.dumps(alignmentTxtFrequency_)
-        row['alignments'] = json.dumps(alignmentsFull, ensure_ascii = False)
+        alignTextFreqStr = list(map(lambda x: "{:.3f}".format(x), alignmentTxtFrequency_))
+        row['alignmentTextFrequency'] = '[' + ','.join(alignTextFreqStr) + ']'
         row['origWordsBetween'] = json.dumps(origWordsBetween_)
         row['targetWordsBetween'] = json.dumps(targetWordsBetween_)
 
         del row['originalWords']
         del row['targetWords']
         del row['alignmentsFull']
+        del row['alignments']
         row['alignments_keys'] = json.dumps(alignments_, ensure_ascii = False)
         id = writeRowToDB(connection, original_words_index_table, row, update=True)
 
