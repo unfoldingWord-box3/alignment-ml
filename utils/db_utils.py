@@ -1,4 +1,5 @@
 import pandas as pd
+import time
 import csv
 import json
 import sqlite3
@@ -337,6 +338,10 @@ CREATE TABLE IF NOT EXISTS {original_words_index_table} (
   originalWord TEXT PRIMARY KEY,
   lemma TEXT NOT NULL,
   strong TEXT NOT NULL,
+  book_id TEXT NOT NULL,
+  chapter TEXT NOT NULL,
+  verse TEXT NOT NULL,
+  alignment_num TEXT NOT NULL,
   alignments_keys TEXT NOT NULL,
   alignmentsTotal INTEGER,
   frequencies TEXT,
@@ -355,11 +360,26 @@ CREATE TABLE IF NOT EXISTS {original_words_index_table} (
 # will return connection
 def initAlignmentDB(dbPath):
     connection = create_connection(dbPath)
+    owIndexPath = getOrigLangIndexSqlPath(dbPath)
+    connection_owi = create_connection(owIndexPath)
     execute_query(connection, create_original_words_table)
     execute_query(connection, create_target_words_table)
     execute_query(connection, create_alignment_table)
-    execute_query(connection, create_original_words_index_table)
-    return connection
+    execute_query(connection_owi, create_original_words_index_table)
+    connections = {
+        'default': connection,
+        'original_words_index_table': connection_owi
+    }
+    return connections
+
+def getConnectionForTable(connections, table):
+    if table in connections:
+        return connections[table]
+
+    return connections['default']
+
+def getOrigLangIndexSqlPath(dbPath):
+    return dbPath.replace('.sqlite', '.ow_index.sqlite')
 
 def getWordsFromVerse(verseObjects):
     words = []
@@ -641,9 +661,14 @@ def saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verse, 
                     alignmentList = alignmentsIndex[wordText]['alignments']
                     if id not in alignmentList:
                         alignmentList.append(id)
-                        alignmentsIndex[wordText]['alignmentsFull'].append(alignment)
-                        alignmentsIndex[wordText]['originalWords'].append(originalWords)
-                        alignmentsIndex[wordText]['targetWords'].append(targetWords)
+                        alignmentsIndexForOrigWord = alignmentsIndex[wordText]
+                        alignmentsIndexForOrigWord['alignmentsFull'].append(alignment)
+                        alignmentsIndexForOrigWord['originalWords'].append(originalWords)
+                        alignmentsIndexForOrigWord['targetWords'].append(targetWords)
+                        alignmentsIndexForOrigWord['book_id'].append(alignment['book_id'])
+                        alignmentsIndexForOrigWord['chapter'].append(alignment['chapter'])
+                        alignmentsIndexForOrigWord['verse'].append(alignment['verse'])
+                        alignmentsIndexForOrigWord['alignment_num'].append(str(alignment['alignment_num']))
                 else:
                     alignmentsIndex[wordText] = {
                         'originalWord': wordText,
@@ -652,7 +677,11 @@ def saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verse, 
                         'alignments': [ id ],
                         'alignmentsFull': [ alignment ],
                         'originalWords': [originalWords],
-                        'targetWords': [targetWords]
+                        'targetWords': [targetWords],
+                        'book_id': [alignment['book_id']],
+                        'chapter': [alignment['chapter']],
+                        'verse': [alignment['verse']],
+                        'alignment_num': [str(alignment['alignment_num'])]
                     }
             # addMultipleItemsToDatabase(connection, alignment_table, alignments)
     if not alignmentsFound:
@@ -676,7 +705,8 @@ def saveAlignmentsForChapter(connection, alignmentsIndex, bookId, chapter, dataF
         # print(f"reading alignments for {bookId} {chapter}:{verseAl}")
         saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verseAl, verseAlignments)
 
-def saveAlignmentsForBook(connection, alignmentsIndex, bookId, aligmentsFolder, bibleType, origLangPath, nestedFormat=False):
+def saveAlignmentsForBook(connections, alignmentsIndex, bookId, aligmentsFolder, bibleType, origLangPath, nestedFormat=False):
+    connection = getConnectionForTable(connections, 'default')
     deleteWordsForBook(connection, alignment_table, bookId)
     deleteWordsForBook(connection, target_words_table, bookId)
     deleteWordsForBook(connection, original_words_table, bookId)
@@ -701,14 +731,15 @@ def saveAlignmentsForBook(connection, alignmentsIndex, bookId, aligmentsFolder, 
     else:
         print(f"No alignments for {bookId} at {bookFolder}")
 
-def getAlignmentsForTestament(connection, newTestament, dataFolder, origLangPath, bibleType, nestedFormat=False):
+def getAlignmentsForTestament(connections, newTestament, dataFolder, origLangPath, bibleType, nestedFormat=False):
     books = bible.getBookList(newTestament)
     alignmentsIndex = {}
     for book in books:
         print (f"reading {book}")
-        saveAlignmentsForBook(connection, alignmentsIndex, book, dataFolder, bibleType, origLangPath, nestedFormat)
+        saveAlignmentsForBook(connections, alignmentsIndex, book, dataFolder, bibleType, origLangPath, nestedFormat)
 
     print(f"Saving Alignments by original Word index:")
+    connection_owi = getConnectionForTable(connections, original_words_index_table)
     for word in alignmentsIndex:
         row = alignmentsIndex[word]
         alignments_ = row['alignments']
@@ -763,13 +794,17 @@ def getAlignmentsForTestament(connection, newTestament, dataFolder, origLangPath
         row['alignmentTextFrequency'] = '[' + ','.join(alignTextFreqStr) + ']'
         row['origWordsBetween'] = json.dumps(origWordsBetween_)
         row['targetWordsBetween'] = json.dumps(targetWordsBetween_)
+        row['book_id'] = json.dumps(row['book_id'])
+        row['chapter'] = json.dumps(row['chapter'])
+        row['verse'] = json.dumps(row['verse'])
+        row['alignment_num'] = json.dumps(row['alignment_num'])
 
         del row['originalWords']
         del row['targetWords']
         del row['alignmentsFull']
         del row['alignments']
         row['alignments_keys'] = json.dumps(alignments_, ensure_ascii = False)
-        id = writeRowToDB(connection, original_words_index_table, row, update=True)
+        writeRowToDB(connection_owi, original_words_index_table, row, update=True)
 
 def combineWordList(words):
     words_ = []
@@ -940,6 +975,10 @@ def filterAlignments(alignments, minAlignments=-1):
             targetWordsBetween = json.loads(alignment['targetWordsBetween'])
             alignmentText = json.loads(alignment['alignmentText'])
             alignmentTextFrequency = json.loads(alignment['alignmentTextFrequency'])
+            book_id = json.loads(alignment['book_id'])
+            chapter = json.loads(alignment['chapter'])
+            verse = json.loads(alignment['verse'])
+            alignment_num = json.loads(alignment['alignment_num'])
 
             for i in range(alignmentsCount):
                 alignment_ = { **alignment }
@@ -955,6 +994,10 @@ def filterAlignments(alignments, minAlignments=-1):
                 alignment_['targetWordsBetween'] = targetWordsBetween[i]
                 alignment_['alignmentText'] = alignmentText[i]
                 alignment_['alignmentTextFrequency'] = alignmentTextFrequency[i]
+                alignment_['book_id'] = book_id[i]
+                alignment_['chapter'] = chapter[i]
+                alignment_['verse'] = verse[i]
+                alignment_['alignment_num'] = alignment_num[i]
 
                 if alignmentsCount >= minAlignments:
                     alignmentsList.append(alignment_)
@@ -1376,7 +1419,7 @@ def getFilteredAlignmentsForWord(alignmentsForWord, minAlignments = 100, remove 
             alignmentsCount = len(alignments)
             if alignmentsCount >= minAlignments:
                 alignment = alignments[0]
-                lemma = alignment['training_lemma']
+                lemma = alignment['lemma']
                 if (lemma is not None) and (lemma not in remove):
                     filteredAlignmentsForWord[origWord] = alignments
                 else:
@@ -1437,41 +1480,68 @@ def fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove):
     filteredAlignmentsForWordPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_by_orig_{minAlignments}.json'
     tWordsAlignmentsPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_all.json'
 
+    recreateAlignmentsList = False
+
     # first try to use saved data
     alignmentsForWord = file.initJsonFile(alignmentsForWordPath)
-
     unfLen = len(list(alignmentsForWord.keys()))
     if not unfLen:
-        print("alignments cache empty, creating")
+        print("alignments cache empty")
+        recreateAlignmentsList = True
+    else:
+        tWordsAlignmentsTime = file.getModifiedTime(tWordsAlignmentsPath)
+        cachedAlignmentsTime = file.getModifiedTime(alignmentsForWordPath)
+        if (tWordsAlignmentsTime >= cachedAlignmentsTime):
+            print(f"tWords time '{time.ctime(tWordsAlignmentsTime)}' newer than cached file time '{time.ctime(cachedAlignmentsTime)}'")
+            recreateAlignmentsList = True
+
+    if recreateAlignmentsList:
+        print("alignments ... creating")
         alignments = file.readJsonFile(tWordsAlignmentsPath)
         alignmentsForWord = {}
         for alignment in alignments:
-            orig_word = alignment['training_orig_word']
+            orig_word = alignment['originalWord']
             if orig_word:
                 if orig_word in alignmentsForWord:
                     alignmentsForWord[orig_word].append(alignment)
                 else:
                     alignmentsForWord[orig_word] = [ alignment ]
             else:
-                print(f"missing 'training_orig_word' in alignment: {alignment}")
+                print(f"missing 'originalWord'' in alignment: {alignment}")
 
         # save data to speed things up
         file.writeJsonFile(alignmentsForWordPath, alignmentsForWord)
+        print(f"alignments by original list count is {len(alignmentsForWord)}")
+        print(f"Size of alignments by original {alignmentsForWordPath} is {file.getFileSize(alignmentsForWordPath)/1000/1000:.3f} MB")
         csvPath = alignmentsForWordPath.replace(".json", ".csv")
         saveDictOfListsToCSV(csvPath, alignmentsForWord, 'originalWord')
+        print(f"Size of alignments by original {csvPath} is {file.getFileSize(csvPath)/1000/1000:.3f} MB")
 
     else:
         print("Using cached Alignments")
 
     print(f"Unfiltered Alignments: {len(alignmentsForWord)}")
 
-    if (not unfLen) or (not file.doesFileExist(filteredAlignmentsForWordPath)):
+    if not recreateAlignmentsList:
+        if not file.doesFileExist(filteredAlignmentsForWordPath):
+            recreateAlignmentsList = True
+        else:
+            tWordsAlignmentsTime = file.getModifiedTime(tWordsAlignmentsPath)
+            cachedAlignmentsTime = file.getModifiedTime(filteredAlignmentsForWordPath)
+            if (tWordsAlignmentsTime >= cachedAlignmentsTime):
+                print(f"tWords time '{time.ctime(tWordsAlignmentsTime)}' newer than cached file time '{time.ctime(cachedAlignmentsTime)}'")
+                recreateAlignmentsList = True
+
+    if recreateAlignmentsList:
         print("recreating Filtered Alignments")
         # filter by number of alignments for word
         filteredAlignmentsForWord = getFilteredAlignmentsForWord(alignmentsForWord, minAlignments, remove)
         file.writeJsonFile(filteredAlignmentsForWordPath, filteredAlignmentsForWord)
+        print(f"filtered alignments by original list count is {len(filteredAlignmentsForWord)}")
+        print(f"Size of filtered alignments by original {filteredAlignmentsForWordPath} is {file.getFileSize(filteredAlignmentsForWordPath)/1000/1000:.3f} MB")
         csvPath = filteredAlignmentsForWordPath.replace(".json", ".csv")
         saveDictOfListsToCSV(csvPath, filteredAlignmentsForWord, 'originalWord')
+        print(f"Size of filtered alignments by original {csvPath} is {file.getFileSize(csvPath)/1000/1000:.3f} MB")
     else:
         print("Using cached Filtered Alignments")
         filteredAlignmentsForWord = file.readJsonFile(filteredAlignmentsForWordPath)
@@ -1481,32 +1551,50 @@ def fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove):
     return alignmentsForWord, filteredAlignmentsForWord
 
 def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
-                     alignmentTargetWordsThreshold, origWordsBetweenThreshold, targetWordsBetweenThreshold):
+                     alignmentTargetWordsThreshold, origWordsBetweenThreshold,
+                     targetWordsBetweenThreshold, alignmentFrequencyMinThreshold):
     alignmentsToCheck = []
 
     for origWord in alignmentsForWord.keys():
         alignments = alignmentsForWord[origWord]
+        alignmentsCount = len(alignments)
         for alignment in alignments:
-            warnings = []
+            warnings = {
+                'frequencyWarning': '',
+                'originalWordsCountWarning': '',
+                'targetWordsCountWarning': '',
+                'originalWordsBetweenWarning': '',
+                'targetWordsBetweenWarning': ''
+            }
 
-            alignmentOrigWords = alignment['alignmentOrigWords']
+            alignmentTextFrequency = alignment['alignmentTextFrequency']
+            if alignmentTextFrequency <= alignmentFrequencyMinThreshold:
+                warnings['frequencyWarning'] += (f"For {origWord} - Specific alignment \"{alignment['alignmentText']}\" used infrequently: {alignmentTextFrequency * 100:.1f}% out of {alignmentsCount} total alignments, threshold {alignmentFrequencyMinThreshold * 100:.0f}%")
+
+            alignmentOrigWords = alignment['origWordsCount']
             if alignmentOrigWords >= alignmentOrigWordsThreshold:
-                warnings.append(f"{origWord} - Too many original language words in alignment: {alignmentOrigWords}, threshold {alignmentOrigWordsThreshold}")
+                warnings['originalWordsCountWarning'] += (f"For {origWord} - Too many original language words in alignment: {alignmentOrigWords}, threshold {alignmentOrigWordsThreshold}")
 
-            alignmentTargetWords = alignment['alignmentTargetWords']
+            alignmentTargetWords = alignment['targetWordsCount']
             if alignmentTargetWords >= alignmentTargetWordsThreshold:
-                warnings.append(f"{origWord} - Too many target language words in alignment: {alignmentTargetWords}, threshold {alignmentTargetWordsThreshold}")
+                warnings['targetWordsCountWarning'] += (f"For {origWord} - Too many target language words in alignment: {alignmentTargetWords}, threshold {alignmentTargetWordsThreshold}")
 
             origWordsBetween = alignment['origWordsBetween']
             if origWordsBetween >= origWordsBetweenThreshold:
-                warnings.append(f"{origWord} - Discontiguous original language alignment, extra words: {origWordsBetween}, threshold {origWordsBetweenThreshold}")
+                warnings['originalWordsBetweenWarning'] += (f"For {origWord} - Discontiguous original language alignment, extra words: {origWordsBetween}, threshold {origWordsBetweenThreshold}")
 
             targetWordsBetween = alignment['targetWordsBetween']
             if targetWordsBetween >= targetWordsBetweenThreshold:
-                warnings.append(f"{origWord} - Discontiguous target language alignment, extra words: {targetWordsBetween}, threshold {targetWordsBetweenThreshold}")
+                warnings['targetWordsBetweenWarning'] += (f"For {origWord} - Discontiguous target language alignment, extra words: {targetWordsBetween}, threshold {targetWordsBetweenThreshold}")
 
-            if len(warnings):
-                alignment['warnings'] = json.dumps(warnings, ensure_ascii = False)
+            hasWarnings = False
+            for key in warnings.keys():
+                if warnings[key]:
+                    hasWarnings = True
+                    break
+
+            if hasWarnings:
+                alignment.update(**warnings)
                 alignmentsToCheck.append(alignment)
 
     basePath = f'./data/{type_}_{bibleType}_NT_warnings'
@@ -1515,6 +1603,6 @@ def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThre
 
     df = pd.DataFrame(alignmentsToCheck)
     csvPath = basePath + '.csv'
-    warningData = df.drop(columns=["id", "origSpan", "targetSpan"]).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
+    warningData = df.drop(columns=['alignments_key']).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
     saveDataFrameToCSV(csvPath, warningData)
     return warningData

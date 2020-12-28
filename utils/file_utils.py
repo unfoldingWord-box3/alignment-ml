@@ -67,9 +67,8 @@ def readFile(inputPath):
     data = f.read()
     return data
 
-def getFileModifiedTime(filePath):
+def getModifiedTime(filePath):
     modifiedTime = os.path.getmtime(filePath)
-    print("last modified: %s" % time.ctime(modifiedTime))
     return modifiedTime
 
 def getFileSize(filePath):

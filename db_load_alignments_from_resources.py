@@ -35,27 +35,37 @@ dbPath = f'./data/{targetBibleType}_NT_alignments.sqlite'
 # move old sqlite
 file.moveFile(f"{dbPath}.save", f"{dbPath}.save2", ifExists=True, overWrite=True)
 file.moveFile(dbPath, f"{dbPath}.save", ifExists=True, overWrite=True)
+dbPathOwIdx = db.getOrigLangIndexSqlPath(dbPath)
+file.moveFile(f"{dbPathOwIdx}.save", f"{dbPathOwIdx}.save2", ifExists=True, overWrite=True)
+file.moveFile(dbPathOwIdx, f"{dbPathOwIdx}.save", ifExists=True, overWrite=True)
 
-connection = db.initAlignmentDB(dbPath)
+connections = db.initAlignmentDB(dbPath)
+connection = db.getConnectionForTable(connections, 'default')
+connection_owi = db.getConnectionForTable(connections, db.original_words_index_table)
+
 
 ########################
 
 # get alignments for NT
 start = time.time()
-db.getAlignmentsForTestament(connection, 1, targetLanguagePath, origLangPathGreek, targetBibleType, nestedFormat=True)
+db.getAlignmentsForTestament(connections, 1, targetLanguagePath, origLangPathGreek, targetBibleType, nestedFormat=True)
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'Get NT alignments, Elapsed time: {elapsed}')
+print(f"Size of alignments database {dbPath} is {file.getFileSize(dbPath)/1000/1000:.3f} MB")
+print(f"Size of original words index database {dbPathOwIdx} is {file.getFileSize(dbPathOwIdx)/1000/1000:.3f} MB")
 
 ########################
 
+connection = db.getConnectionForTable(connections, 'default')
 items_target = db.fetchRecords(connection, target_words_table, '')
 print (f"{len(items_target)} items in target_words_table")
 
 items_orig = db.fetchRecords(connection, original_words_table, '')
 print (f"{len(items_orig)} items in original_words_table")
 
-items_orig_idx = db.fetchRecords(connection, original_words_index_table, '')
+connection_owi = db.getConnectionForTable(connections, original_words_index_table)
+items_orig_idx = db.fetchRecords(connection_owi, original_words_index_table, '')
 print (f"{len(items_orig_idx)} items in original_words_index_table")
 
 items_align = db.fetchRecords(connection, alignment_table, '')

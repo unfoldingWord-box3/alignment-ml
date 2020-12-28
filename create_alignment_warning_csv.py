@@ -14,7 +14,7 @@ bibleType = 'en_ult'
 #############################
 
 start = time.time()
-minAlignments = 100
+minAlignments = 40
 remove = ['ὁ']
 alignmentsForWord, filteredAlignmentsForWord = db.fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove)
 
@@ -24,8 +24,10 @@ alignmentOrigWordsThreshold = 3
 alignmentTargetWordsThreshold = 5
 origWordsBetweenThreshold = 1
 targetWordsBetweenThreshold = 1
+alignmentFrequencyMinThreshold = 0.05
 warningData = db.generateWarnings(type_, bibleType, filteredAlignmentsForWord, alignmentOrigWordsThreshold,
-                                  alignmentTargetWordsThreshold, origWordsBetweenThreshold, targetWordsBetweenThreshold)
+                                  alignmentTargetWordsThreshold, origWordsBetweenThreshold,
+                                  targetWordsBetweenThreshold, alignmentFrequencyMinThreshold)
 print(f"Found {len(warningData)} alignments to check")
 
 #############################

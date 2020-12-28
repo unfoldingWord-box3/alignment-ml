@@ -15,7 +15,9 @@ origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
 origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
 targetLangPathEn = './data/TargetLangJson/ult/v14'
 
-connection = db.initAlignmentDB(dbPath)
+connections = db.initAlignmentDB(dbPath)
+connection = db.getConnectionForTable(connections, 'default')
+connection_owi = db.getConnectionForTable(connections, db.original_words_index_table)
 
 bibleType = 'en_ult'
 testament = 1

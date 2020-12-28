@@ -19,7 +19,10 @@ tWordsTypeList = ['kt', 'names', 'other'] # categories of tWords
 tWordsGreekPath = f'{home}/translationCore/resources/el-x-koine/translationHelps/translationWords/v0.16'
 dbPath = f'./data/{bibleType}_NT_alignments.sqlite'
 
-connection = db.initAlignmentDB(dbPath)
+connections = db.initAlignmentDB(dbPath)
+connection = db.getConnectionForTable(connections, 'default')
+connection_owi = db.getConnectionForTable(connections, db.original_words_index_table)
+
 start = time.time()
 
 ################################
