@@ -1,4 +1,5 @@
 import os
+import time
 import requests
 import json
 from pathlib import Path
@@ -65,6 +66,15 @@ def readFile(inputPath):
     # print ('readFile ' + inputPath)
     data = f.read()
     return data
+
+def getFileModifiedTime(filePath):
+    modifiedTime = os.path.getmtime(filePath)
+    print("last modified: %s" % time.ctime(modifiedTime))
+    return modifiedTime
+
+def getFileSize(filePath):
+    size = os.path.getsize(filePath)
+    return size
 
 def readJsonFile(inputPath):
     # print ('readJsonFile ' + inputPath)

@@ -14,6 +14,226 @@ origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
 origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
 targetLangPathEn = './data/TargetLangJson/ult/v14'
 
+#########################
+
+def fetchRecords(connection, table, filter, caseInsensitive = False, maxRows = None):
+    select_items = f"SELECT * FROM {table}"
+    if len(filter):
+        select_items += f"\nWHERE {filter}"
+    if caseInsensitive:
+        select_items += ' COLLATE NOCASE'
+    if not maxRows is None:
+        select_items += f'\n LIMIT {maxRows}'
+    # print(f"getRecords:\n{select_items}")
+    items = execute_read_query_dict(connection, select_items)
+    return items
+
+def fetchWordsForVerse(connection, table, bookId, chapter, verse, maxRows = None):
+    filter = f"(book_id = '{bookId}') AND (chapter = '{chapter}') AND (verse = '{verse}')"
+    items = fetchRecords(connection, table, filter, maxRows)
+    # print(f"getRecords:\n{len(items)}")
+    return items
+
+def fetchForWordInVerse(connection, table, word, occurrence, bookId, chapter, verse, maxRows = None):
+    filter = f"(book_id = '{bookId}') AND (chapter = '{chapter}') AND (verse = '{verse}') AND (word = '{word}') AND (occurrence = '{occurrence}')"
+    items = fetchRecords(connection, table, filter, maxRows)
+    # print(f"getRecords:\n{len(items)}")
+    return items
+
+def findAlignmentsFromIndexDbForOrigWord(connection, word, searchLemma, maxRows=None):
+    if searchLemma:
+        filter = f"(lemma = '{word}')"
+    else:
+        filter = f"(originalWord = '{word}')"
+
+    # print(f"findAlignmentForWord - filter = {filter}")
+    alignmentsIndex = fetchRecords(connection, original_words_index_table, filter, maxRows)
+    return alignmentsIndex
+
+def fetchAlignmentsForIndex(connection, alignmentsIndex):
+    alignments = []
+    if alignmentsIndex and len(alignmentsIndex):
+        for index in alignmentsIndex:
+            alignmentIds = json.loads(index['alignments_keys'])
+            for id in alignmentIds:
+                filter = f"(id = '{id}')"
+                found = fetchRecords(connection, alignment_table, filter, maxRows=1)
+                if len(found):
+                    alignments.append(found[0])
+    return alignments
+
+
+def findAlignmentForWord(connection, word, searchOriginal):
+    match = str(word['id'])
+    matchStr = f"%,{match},%"
+    return findAlignmentFor(connection, matchStr, searchOriginal)
+
+def findAlignmentFor(connection, matchStr, searchOriginal):
+    if searchOriginal:
+        field = 'orig_lang_keys'
+    else:
+        field = 'target_lang_keys'
+
+    return findAlignmentForField(connection, field, matchStr)
+
+def findAlignmentForField(connection, field, matchStr):
+    alignments = findAlignmentsForField(connection, field, matchStr)
+    if len(alignments) > 0:
+        # print(f"found match: {alignments[0]}")
+        return alignments[0]
+    else:
+        # print(f"match not found for: {matchStr}")
+        return None
+
+def findAlignmentsForField(connection, field, matchStr):
+    search = f"{field} LIKE '{matchStr}'"
+    # print(f"search: {search}")
+    alignments = fetchRecords(connection, alignment_table, search)
+    return alignments
+
+def findAlignmentsForOriginalWord(connection, word, searchLemma = False):
+    field = 'orig_lang_words'
+
+    if searchLemma:
+        key = 'lemma'
+    else:
+        key = 'word'
+
+    matchStr = f'%"{key}": "{word}"%'
+    # print(f"matchStr = {matchStr}")
+    found = findAlignmentsForField(connection, field, matchStr)
+    return found
+
+def lookupWords(connection, alignment, getOriginalWords):
+    if getOriginalWords:
+        alignedWords = alignment['orig_lang_keys']
+        table = original_words_table
+    else:
+        alignedWords = alignment['target_lang_keys']
+        table = target_words_table
+    words = []
+    # print(f"found ID = {foundId}")
+    ids = alignedWords.split(",")
+    for id in ids:
+        if id:
+            found = findWordById(connection, id, table)
+            if found:
+                words.append(found)
+    return words
+
+def findWordById(connection, id, table):
+    search = f"id = {str(id)}"
+    items = fetchRecords(connection, table, search)
+    if items:
+        return items[0]
+    print(f"findWordById - {id} not found")
+    return None
+
+def findWord(connection, word, searchOriginal = True, searchLemma = False, caseInsensitive = False, maxRows = None):
+    if searchLemma:
+        search = f"lemma = '{word}'"
+    else:
+        search = f"word = '{word}'"
+
+    if searchOriginal:
+        table = original_words_table
+    else:
+        table = target_words_table
+
+    words = fetchRecords(connection, table, search, caseInsensitive, maxRows)
+    # print (f"{len(words)} items in search: {search}")
+    return words
+
+def findWords(connection, words, searchOriginal = True, searchLemma = False, caseInsensitive = False, maxRows = None):
+    searches = ''
+    for word in words:
+        if searchLemma:
+            search = f"(lemma = '{word}')"
+        else:
+            search = f"(word = '{word}')"
+
+        if len(searches) > 0:
+            searches += ' OR '
+
+        searches += search
+
+    # print(f"findWords - search filter: {searches}")
+
+    if searchOriginal:
+        table = original_words_table
+    else:
+        table = target_words_table
+
+    words = fetchRecords(connection, table, searches, caseInsensitive, maxRows)
+    # print (f"{len(words)} items in search: {search}")
+    return words
+
+def createCommandToAddToDatabase(table, data):
+    header = getHeader(data[0])
+
+    dataStr = ''
+    length = len(data)
+    for i in range(length):
+        rowData = data[i]
+        line_data = getDataItems(rowData)
+        dataStr += '  (' + line_data
+        if (i < length - 1):
+            dataStr += '),\n'
+        else:
+            dataStr += ');\n'
+
+    add_words = f"INSERT INTO\n  {table} ({header})\nVALUES\n{dataStr}"
+    return add_words
+
+def deleteWordsForBook(connection, table, bookId):
+    selection = f"book_id = '{bookId}'"
+    deleteBook = f"DELETE FROM {table}\nWHERE {selection};\n"
+    # print(f"deleteWordsForBook:\n{deleteBook}")
+    execute_query(connection, deleteBook)
+
+def addMultipleItemsToDatabase(connection, table, db_words):
+    if len(db_words):
+        add_words = createCommandToAddToDatabase(table, db_words)
+        # print(f"addMultipleItemsToDatabase:\n{add_words}")
+        execute_query(connection, add_words)
+
+def getRowCount(connection, table):
+    command = f'SELECT COUNT(*) FROM {table};'
+    response = execute_query_single(connection, command)
+    count = response[0]
+    return count
+
+def writeRowToDB(connection, table, data, update=False):
+    header = getHeader(data)
+    row = getDataItems(data)
+    if update:
+        cmd = 'REPLACE' # actually will also do insert if key not in table
+    else:
+        cmd = 'INSERT'
+    sql = f''' {cmd} INTO {table}({header})
+              VALUES({row}) '''
+    cur = connection.cursor()
+    cur.execute(sql)
+    connection.commit()
+    return cur.lastrowid
+
+def resetTable(connection, table):
+    print(f"resetTable - dropping table: {table}")
+    command = f"DROP TABLE {table};"
+    execute_query(connection, create_alignment_table)
+
+    print(f"resetTable - initializing table: {table}")
+    if table == target_words_table:
+        execute_query(connection, create_target_words_table)
+    elif table == alignment_table:
+        execute_query(connection, create_alignment_table)
+    elif table == original_words_table:
+        execute_query(connection, create_original_words_table)
+    else:
+        print(f"resetTable - unknown table: {table}")
+
+#########################
+
 def create_connection(path):
     connection = None
     try:
@@ -140,41 +360,6 @@ def initAlignmentDB(dbPath):
     execute_query(connection, create_alignment_table)
     execute_query(connection, create_original_words_index_table)
     return connection
-
-def resetTable(connection, table):
-    print(f"resetTable - dropping table: {table}")
-    command = f"DROP TABLE {table};"
-    execute_query(connection, create_alignment_table)
-
-    print(f"resetTable - initializing table: {table}")
-    if table == target_words_table:
-        execute_query(connection, create_target_words_table)
-    elif table == alignment_table:
-        execute_query(connection, create_alignment_table)
-    elif table == original_words_table:
-        execute_query(connection, create_original_words_table)
-    else:
-        print(f"resetTable - unknown table: {table}")
-
-def getRowCount(connection, table):
-    command = f'SELECT COUNT(*) FROM {table};'
-    response = execute_query_single(connection, command)
-    count = response[0]
-    return count
-
-def writeRowToDB(connection, table, data, update=False):
-    header = getHeader(data)
-    row = getDataItems(data)
-    if update:
-        cmd = 'REPLACE' # actually will also do insert if key not in table
-    else:
-        cmd = 'INSERT'
-    sql = f''' {cmd} INTO {table}({header})
-              VALUES({row}) '''
-    cur = connection.cursor()
-    cur.execute(sql)
-    connection.commit()
-    return cur.lastrowid
 
 def getWordsFromVerse(verseObjects):
     words = []
@@ -316,24 +501,6 @@ def getWordText(word):
         return word[key]
     return ''
 
-def createCommandToAddToDatabase(table, data):
-    header = getHeader(data[0])
-
-    dataStr = ''
-    length = len(data)
-    for i in range(length):
-        rowData = data[i]
-        line_data = getDataItems(rowData)
-        dataStr += '  (' + line_data
-        if (i < length - 1):
-            dataStr += '),\n'
-        else:
-            dataStr += ');\n'
-
-    add_words = f"INSERT INTO\n  {table} ({header})\nVALUES\n{dataStr}"
-    return add_words
-
-
 def getDataItems(db_word):
     line_data = ''
     for key, value in db_word.items():
@@ -346,7 +513,6 @@ def getDataItems(db_word):
             line_data = f"{line_data}{value}"
     return line_data
 
-
 def getHeader(data):
     header = ''
     for key, value in data.items():
@@ -354,43 +520,6 @@ def getHeader(data):
             header += ', '
         header += key
     return header
-
-
-def addMultipleItemsToDatabase(connection, table, db_words):
-    if len(db_words):
-        add_words = createCommandToAddToDatabase(table, db_words)
-        # print(f"addMultipleItemsToDatabase:\n{add_words}")
-        execute_query(connection, add_words)
-
-def fetchRecords(connection, table, filter, caseInsensitive = False, maxRows = None):
-    select_items = f"SELECT * FROM {table}"
-    if len(filter):
-        select_items += f"\nWHERE {filter}"
-    if caseInsensitive:
-        select_items += ' COLLATE NOCASE'
-    if not maxRows is None:
-        select_items += f'\n LIMIT {maxRows}'
-    # print(f"getRecords:\n{select_items}")
-    items = execute_read_query_dict(connection, select_items)
-    return items
-
-def fetchWordsForVerse(connection, table, bookId, chapter, verse, maxRows = None):
-    filter = f"(book_id = '{bookId}') AND (chapter = '{chapter}') AND (verse = '{verse}')"
-    items = fetchRecords(connection, table, filter, maxRows)
-    # print(f"getRecords:\n{len(items)}")
-    return items
-
-def fetchForWordInVerse(connection, table, word, occurrence, bookId, chapter, verse, maxRows = None):
-    filter = f"(book_id = '{bookId}') AND (chapter = '{chapter}') AND (verse = '{verse}') AND (word = '{word}') AND (occurrence = '{occurrence}')"
-    items = fetchRecords(connection, table, filter, maxRows)
-    # print(f"getRecords:\n{len(items)}")
-    return items
-
-def deleteWordsForBook(connection, table, bookId):
-    selection = f"book_id = '{bookId}'"
-    deleteBook = f"DELETE FROM {table}\nWHERE {selection};\n"
-    # print(f"deleteWordsForBook:\n{deleteBook}")
-    execute_query(connection, deleteBook)
 
 def getVerses(chapter_dict):
     verses = []
@@ -642,83 +771,6 @@ def getAlignmentsForTestament(connection, newTestament, dataFolder, origLangPath
         row['alignments_keys'] = json.dumps(alignments_, ensure_ascii = False)
         id = writeRowToDB(connection, original_words_index_table, row, update=True)
 
-def findAlignmentsFromIndexDbForOrigWord(connection, word, searchLemma, maxRows=None):
-    if searchLemma:
-        filter = f"(lemma = '{word}')"
-    else:
-        filter = f"(originalWord = '{word}')"
-
-    # print(f"findAlignmentForWord - filter = {filter}")
-    alignments = []
-    alignmentsIndex = fetchRecords(connection, original_words_index_table, filter, maxRows)
-    if alignmentsIndex and len(alignmentsIndex):
-        for index in alignmentsIndex:
-            alignmentIds = json.loads(index['alignments'])
-            for id in alignmentIds:
-                filter = f"(id = '{id}')"
-                found = fetchRecords(connection, alignment_table, filter, maxRows=1)
-                if len(found):
-                    alignments.append(found[0])
-    return alignments
-
-def findAlignmentForWord(connection, word, searchOriginal):
-    match = str(word['id'])
-    matchStr = f"%,{match},%"
-    return findAlignmentFor(connection, matchStr, searchOriginal)
-
-def findAlignmentFor(connection, matchStr, searchOriginal):
-    if searchOriginal:
-        field = 'orig_lang_keys'
-    else:
-        field = 'target_lang_keys'
-
-    return findAlignmentForField(connection, field, matchStr)
-
-def findAlignmentForField(connection, field, matchStr):
-    alignments = findAlignmentsForField(connection, field, matchStr)
-    if len(alignments) > 0:
-        # print(f"found match: {alignments[0]}")
-        return alignments[0]
-    else:
-        # print(f"match not found for: {matchStr}")
-        return None
-
-def findAlignmentsForField(connection, field, matchStr):
-    search = f"{field} LIKE '{matchStr}'"
-    # print(f"search: {search}")
-    alignments = fetchRecords(connection, alignment_table, search)
-    return alignments
-
-def findAlignmentsForOriginalWord(connection, word, searchLemma = False):
-    field = 'orig_lang_words'
-
-    if searchLemma:
-        key = 'lemma'
-    else:
-        key = 'word'
-
-    matchStr = f'%"{key}": "{word}"%'
-    # print(f"matchStr = {matchStr}")
-    found = findAlignmentsForField(connection, field, matchStr)
-    return found
-
-def lookupWords(connection, alignment, getOriginalWords):
-    if getOriginalWords:
-        alignedWords = alignment['orig_lang_keys']
-        table = original_words_table
-    else:
-        alignedWords = alignment['target_lang_keys']
-        table = target_words_table
-    words = []
-    # print(f"found ID = {foundId}")
-    ids = alignedWords.split(",")
-    for id in ids:
-        if id:
-            found = findWordById(connection, id, table)
-            if found:
-                words.append(found)
-    return words
-
 def combineWordList(words):
     words_ = []
     for word in words:
@@ -792,53 +844,6 @@ def getAlignmentsForWord(connection, origWord, searchOriginal):
         alignment['alignmentTxt'] = f"{origWordsTxt} = {targetWordsTxt}"
 
     return alignments
-
-def findWordById(connection, id, table):
-    search = f"id = {str(id)}"
-    items = fetchRecords(connection, table, search)
-    if items:
-        return items[0]
-    print(f"findWordById - {id} not found")
-    return None
-
-def findWord(connection, word, searchOriginal = True, searchLemma = False, caseInsensitive = False, maxRows = None):
-    if searchLemma:
-        search = f"lemma = '{word}'"
-    else:
-        search = f"word = '{word}'"
-
-    if searchOriginal:
-        table = original_words_table
-    else:
-        table = target_words_table
-
-    words = fetchRecords(connection, table, search, caseInsensitive, maxRows)
-    # print (f"{len(words)} items in search: {search}")
-    return words
-
-def findWords(connection, words, searchOriginal = True, searchLemma = False, caseInsensitive = False, maxRows = None):
-    searches = ''
-    for word in words:
-        if searchLemma:
-            search = f"(lemma = '{word}')"
-        else:
-            search = f"(word = '{word}')"
-
-        if len(searches) > 0:
-            searches += ' OR '
-
-        searches += search
-
-    # print(f"findWords - search filter: {searches}")
-
-    if searchOriginal:
-        table = original_words_table
-    else:
-        table = target_words_table
-
-    words = fetchRecords(connection, table, searches, caseInsensitive, maxRows)
-    # print (f"{len(words)} items in search: {search}")
-    return words
 
 def getAlignmentsForWords(connection, words, searchOriginal):
     alignments = []
@@ -924,16 +929,37 @@ def filterAlignments(alignments, minAlignments=-1):
     rejectedAlignmentsList = []
     for key in alignments.keys():
         alignments_ = alignments[key]
-        # print(f"Merging '{key}', size {len(alignments_)}")
-        if minAlignments < 0:
-            alignmentsList.extend(alignments_)
-        else:
-            for alignment in alignments_:
-                alignmentsCount = alignment['matchCount'] / alignment['frequency']
+        for alignment in alignments_:
+            alignmentsCount = alignment['alignmentsTotal']
+            alignments_keys = json.loads(alignment['alignments_keys'])
+            origWordsText = json.loads(alignment['origWordsText'])
+            origWordsCount = json.loads(alignment['origWordsCount'])
+            origWordsBetween = json.loads(alignment['origWordsBetween'])
+            targetWordsText = json.loads(alignment['targetWordsText'])
+            targetWordsCount = json.loads(alignment['targetWordsCount'])
+            targetWordsBetween = json.loads(alignment['targetWordsBetween'])
+            alignmentText = json.loads(alignment['alignmentText'])
+            alignmentTextFrequency = json.loads(alignment['alignmentTextFrequency'])
+
+            for i in range(alignmentsCount):
+                alignment_ = { **alignment }
+                del alignment_['alignments_keys']
+                del alignment_['alignmentsTotal']
+                del alignment_['frequencies']
+                alignment_['alignments_key'] = alignments_keys[i]
+                alignment_['origWordsText'] = origWordsText[i]
+                alignment_['origWordsCount'] = origWordsCount[i]
+                alignment_['origWordsBetween'] = origWordsBetween[i]
+                alignment_['targetWordsText'] = targetWordsText[i]
+                alignment_['targetWordsCount'] = targetWordsCount[i]
+                alignment_['targetWordsBetween'] = targetWordsBetween[i]
+                alignment_['alignmentText'] = alignmentText[i]
+                alignment_['alignmentTextFrequency'] = alignmentTextFrequency[i]
+
                 if alignmentsCount >= minAlignments:
-                    alignmentsList.append(alignment)
+                    alignmentsList.append(alignment_)
                 else:
-                    rejectedAlignmentsList.append(alignment)
+                    rejectedAlignmentsList.append(alignment_)
 
     return alignmentsList, rejectedAlignmentsList
 

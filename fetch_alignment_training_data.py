@@ -19,7 +19,6 @@ connection = db.initAlignmentDB(dbPath)
 
 ################################
 
-
 def saveAlignmentDataForLemmas(type_, minAlignments = 100):
     print(f"Saving Alignments for {type_}")
 
@@ -28,28 +27,42 @@ def saveAlignmentDataForLemmas(type_, minAlignments = 100):
     data = file.initJsonFile(termsPath)
     print (f"'{termsPath}' has {len(list(data.keys()))} words")
     lemmasList = list(data.keys())
+    alignments = {}
 
-    alignments = db.getAlignmentsForOriginalWords(connection, lemmasList)
+    for word in lemmasList:
+        alignments_ = db.findAlignmentsFromIndexDbForOrigWord(connection, word, searchLemma=True, maxRows=None)
+        alignments[word] = alignments_
+
+    # alignments = db.getAlignmentsForOriginalWords(connection, lemmasList)
     print(f"alignments size is {len(alignments)}")
-
-    ################################
-    # flatten the lemmas into an alignment list
-
-    alignmentsList, rejectedAlignmentsList = db.filterAlignments(alignments)
-    termsPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_all'
-    print(f"Unfiltered training list size is {len(alignmentsList)}")
-    file.writeJsonFile(termsPath + '.json', alignmentsList)
-    db.saveListToCSV(termsPath + ".csv", alignmentsList)
 
     ################################
     # flatten the lemmas into a filtered alignment list
 
     alignmentsList, rejectedAlignmentsList = db.filterAlignments(alignments, minAlignments)
     termsPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_filtered_{minAlignments}'
-    print(f"filtered {minAlignments} training list size is {len(alignmentsList)}")
-    print(f"rejected size is {len(rejectedAlignmentsList)}")
-    file.writeJsonFile(termsPath + '.json', alignmentsList)
-    db.saveListToCSV(termsPath + ".csv", alignmentsList)
+    print(f"filtered {minAlignments} training list count is {len(alignmentsList)}")
+    print(f"rejected count is {len(rejectedAlignmentsList)}")
+    jsonPath = termsPath + '.json'
+    file.writeJsonFile(jsonPath, alignmentsList)
+    print(f"Size of filtered alignments {jsonPath} is {file.getFileSize(jsonPath)/1024/1024:.3f} MB")
+    csvPath = termsPath + ".csv"
+    db.saveListToCSV(csvPath, alignmentsList)
+    print(f"Size of filtered alignments {csvPath} is {file.getFileSize(csvPath)/1024/1024:.3f} MB")
+
+    ################################
+    # merge to make a complete list
+
+    alignmentsList.extend(rejectedAlignmentsList)
+    termsPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_all'
+    print(f"Unfiltered training list size is {len(alignmentsList)}")
+    jsonPath = termsPath + '.json'
+    file.writeJsonFile(jsonPath, alignmentsList)
+    print(f"Size of filtered alignments {jsonPath} is {file.getFileSize(jsonPath)/1024/1024:.3f} MB")
+    csvPath = termsPath + ".csv"
+    db.saveListToCSV(csvPath, alignmentsList)
+    print(f"Size of filtered alignments {csvPath} is {file.getFileSize(csvPath)/1024/1024:.3f} MB")
+
 
 start = time.time()
 for type_ in tWordsTypeList:
@@ -58,4 +71,4 @@ delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'fetch alignments for tW lemmas, Elapsed time: {elapsed}')
 
-# fetch alignments for lemmas, Elapsed time: 0:01:07
+# fetch alignments for lemmas, Elapsed time: 0:00:22
