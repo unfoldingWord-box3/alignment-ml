@@ -1396,7 +1396,12 @@ def getFrequenciesOfFieldInAlignments(alignmentsForWord, field, sortIndex = Fals
     frequenciesOfAlignments = {}
     # for each word add line to plot
     for origWord in alignmentsForWord.keys():
-        wordAlignments_ = pd.DataFrame(alignmentsForWord[origWord])
+        alignmentsForWord_ = alignmentsForWord[origWord]
+        for alignment in alignmentsForWord_:
+            if field not in alignment:
+                print(f"Field {field} is not in {alignment}")
+                return None
+        wordAlignments_ = pd.DataFrame(alignmentsForWord_)
         frequency_ = wordAlignments_[field].value_counts()
         if sortIndex:
             frequency_ = frequency_.sort_index()
@@ -1463,6 +1468,9 @@ def zeroFillFrequencies(field_frequencies):
         for key in field_frequency.keys():
             x = key
             y = field_frequency[key]
+            if type(x) == str:
+                print(f"not a number")
+                return None
             while x > lastX: # do zero fill
                 appendXY(lastX, 0)
                 lastX += 1
