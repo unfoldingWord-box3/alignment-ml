@@ -3,6 +3,7 @@ import time
 import csv
 import json
 import sqlite3
+import math
 from sqlite3 import Error
 import utils.file_utils as file
 import utils.bible_utils as bible
@@ -338,21 +339,9 @@ CREATE TABLE IF NOT EXISTS {original_words_index_table} (
   originalWord TEXT PRIMARY KEY,
   lemma TEXT NOT NULL,
   strong TEXT NOT NULL,
-  book_id TEXT NOT NULL,
-  chapter TEXT NOT NULL,
-  verse TEXT NOT NULL,
-  alignment_num TEXT NOT NULL,
-  alignments_keys TEXT NOT NULL,
-  alignmentsTotal INTEGER,
   frequencies TEXT,
-  origWordsText TEXT,
-  origWordsCount TEXT,
-  origWordsBetween TEXT,
-  targetWordsText TEXT,
-  targetWordsCount TEXT,
-  targetWordsBetween TEXT,
-  alignmentText TEXT,
-  alignmentTextFrequency TEXT
+  alignments TEXT NOT NULL,
+  alignmentsTotal INTEGER
 );
 """
 
@@ -657,31 +646,26 @@ def saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verse, 
             id = writeRowToDB(connection, alignment_table, alignment)
             for origW in originalWords:
                 wordText = origW['word']
+                alignmentData = {
+                    'alignment_key': id,
+                    'originalWords': originalWords,
+                    'targetWords': targetWords,
+                    'book_id': alignment['book_id'],
+                    'chapter': alignment['chapter'],
+                    'verse': alignment['verse'],
+                    'alignment_num': str(alignment['alignment_num'])
+                }
                 if wordText in alignmentsIndex:
-                    alignmentList = alignmentsIndex[wordText]['alignments']
-                    if id not in alignmentList:
-                        alignmentList.append(id)
-                        alignmentsIndexForOrigWord = alignmentsIndex[wordText]
-                        alignmentsIndexForOrigWord['alignmentsFull'].append(alignment)
-                        alignmentsIndexForOrigWord['originalWords'].append(originalWords)
-                        alignmentsIndexForOrigWord['targetWords'].append(targetWords)
-                        alignmentsIndexForOrigWord['book_id'].append(alignment['book_id'])
-                        alignmentsIndexForOrigWord['chapter'].append(alignment['chapter'])
-                        alignmentsIndexForOrigWord['verse'].append(alignment['verse'])
-                        alignmentsIndexForOrigWord['alignment_num'].append(str(alignment['alignment_num']))
+                    alignmentsIndexForOrigWord = alignmentsIndex[wordText]
+                    alignmentsIndexForOrigWord['alignmentsFull'].append(alignment)
+                    alignmentsIndexForOrigWord['alignments'].append(alignmentData)
                 else:
                     alignmentsIndex[wordText] = {
                         'originalWord': wordText,
                         'lemma': origW['lemma'],
                         'strong': origW['strong'],
-                        'alignments': [ id ],
                         'alignmentsFull': [ alignment ],
-                        'originalWords': [originalWords],
-                        'targetWords': [targetWords],
-                        'book_id': [alignment['book_id']],
-                        'chapter': [alignment['chapter']],
-                        'verse': [alignment['verse']],
-                        'alignment_num': [str(alignment['alignment_num'])]
+                        'alignments': [ alignmentData ]
                     }
             # addMultipleItemsToDatabase(connection, alignment_table, alignments)
     if not alignmentsFound:
@@ -745,65 +729,58 @@ def getAlignmentsForTestament(connections, newTestament, dataFolder, origLangPat
         alignments_ = row['alignments']
         alignmentsFull = row['alignmentsFull']
         frequencies = {}
-        origWordsTxt_ = []
-        origWordsCount_ = []
-        targetWordsTxt_ = []
-        targetWordsCount_ = []
-        alignmentTxt_ = []
-        origWordsBetween_ = []
-        targetWordsBetween_ = []
-        originalWords = row['originalWords']
-        targetWords = row['targetWords']
         alignmentsCount = len(alignmentsFull)
         for i in range(alignmentsCount):
-            original_words = originalWords[i]
+            alignment = alignments_[i]
+            original_words = alignment['originalWords']
+            del alignment['originalWords']
             origWordsTxt, origWordsCount = combineWordList2(original_words)
-            origWordsTxt_.append(origWordsTxt)
-            origWordsCount_.append(origWordsCount)
+            alignment['origWordsText'] = origWordsTxt
+            alignment['origWordsCount'] = origWordsCount
             origSpan = getSpan(original_words)
             origWordsBetween = origSpan - (origWordsCount - 1)
-            origWordsBetween_.append(origWordsBetween)
-            target_words = targetWords[i]
+            alignment['origWordsBetween'] = origWordsBetween
+            target_words = alignment['targetWords']
+            del alignment['targetWords']
             targetWordsTxt, targetWordsCount = combineWordList2(target_words)
-            targetWordsTxt_.append(targetWordsTxt)
-            targetWordsCount_.append(targetWordsCount)
+            alignment['targetWordsText'] = targetWordsTxt
+            alignment['targetWordsCount'] = targetWordsCount
             targetSpan = getSpan(target_words)
             targetWordsBetween = targetSpan - (targetWordsCount - 1)
-            targetWordsBetween_.append(targetWordsBetween)
+            alignment['targetWordsBetween'] = targetWordsBetween
             alignmentTxt = f"{origWordsTxt} = {targetWordsTxt}"
-            alignmentTxt_.append(alignmentTxt)
+            alignment['alignmentText'] = alignmentTxt
             if alignmentTxt in frequencies:
                 frequencies[alignmentTxt] += 1
             else:
                 frequencies[alignmentTxt] = 1
 
-        alignmentTxtFrequency_ = []
+        # alignmentTxtFrequency_ = []
         for i in range(alignmentsCount):
-            alignmentTxt = alignmentTxt_[i]
+            alignment = alignments_[i]
+            alignmentTxt = alignment['alignmentText']
             count = frequencies[alignmentTxt]
-            alignmentTxtFrequency_.append(count / alignmentsCount)
+            alignment['alignmentTxtFrequency'] = (count / alignmentsCount) * 100
+
+            # sanity checking
+            if (len(alignment['origWordsText'].split(' ')) != alignment['origWordsCount']):
+                print(f"wrong word count {alignment['origWordsCount']} in original word list '{alignment['origWordsText']}': {alignment}")
+            if (len(alignment['targetWordsText'].split(' ')) != alignment['targetWordsCount']):
+                print(f"wrong word count {alignment['targetWordsCount']} in target word list '{alignment['targetWordsText']}': {alignment}")
+            origWordsBetween = alignment['origWordsBetween']
+            if (origWordsBetween < 0):
+                print(f"invalid original words between {origWordsBetween} in alignment': {alignment}")
+            targetWordsBetween = alignment['targetWordsBetween']
+            if (targetWordsBetween < 0):
+                print(f"invalid target words between {targetWordsBetween} in alignment': {alignment}")
 
         row['frequencies'] = json.dumps(frequencies, ensure_ascii = False)
         row['alignmentsTotal'] = alignmentsCount
-        row['origWordsText'] = json.dumps(origWordsTxt_, ensure_ascii = False)
-        row['origWordsCount'] = json.dumps(origWordsCount_)
-        row['targetWordsText'] = json.dumps(targetWordsTxt_, ensure_ascii = False)
-        row['targetWordsCount'] = json.dumps(targetWordsCount_)
-        row['alignmentText'] = json.dumps(alignmentTxt_, ensure_ascii = False)
-        alignTextFreqStr = list(map(lambda x: "{:.3f}".format(x), alignmentTxtFrequency_))
-        row['alignmentTextFrequency'] = '[' + ','.join(alignTextFreqStr) + ']'
-        row['origWordsBetween'] = json.dumps(origWordsBetween_)
-        row['targetWordsBetween'] = json.dumps(targetWordsBetween_)
-        row['book_id'] = json.dumps(row['book_id'])
-        row['chapter'] = json.dumps(row['chapter'])
-        row['verse'] = json.dumps(row['verse'])
-        row['alignment_num'] = json.dumps(row['alignment_num'])
+        row['alignments'] = json.dumps(alignments_, ensure_ascii = False)
 
-        del row['originalWords']
-        del row['targetWords']
         del row['alignmentsFull']
-        del row['alignments']
-        row['alignments_keys'] = json.dumps(alignments_, ensure_ascii = False)
+        if (len(alignments_) != alignmentsCount):
+            print(f"### Invalid aligments count! ### - {row}")
         writeRowToDB(connection_owi, original_words_index_table, row, update=True)
 
 def combineWordList(words):
@@ -820,7 +797,9 @@ def combineWordList2(words):
             words_[index] += "'s"
         else:
             words_.append(word['word'])
-    return ' '.join(words_), len(words_)
+    wordCount = len(words_)
+    wordText = ' '.join(words_)
+    return wordText, wordCount
 
 def getSpan(origWords):
     span = 0
@@ -963,41 +942,16 @@ def filterAlignments(alignments, minAlignments=-1):
     alignmentsList = []
     rejectedAlignmentsList = []
     for key in alignments.keys():
-        alignments_ = alignments[key]
-        for alignment in alignments_:
-            alignmentsCount = alignment['alignmentsTotal']
-            alignments_keys = json.loads(alignment['alignments_keys'])
-            origWordsText = json.loads(alignment['origWordsText'])
-            origWordsCount = json.loads(alignment['origWordsCount'])
-            origWordsBetween = json.loads(alignment['origWordsBetween'])
-            targetWordsText = json.loads(alignment['targetWordsText'])
-            targetWordsCount = json.loads(alignment['targetWordsCount'])
-            targetWordsBetween = json.loads(alignment['targetWordsBetween'])
-            alignmentText = json.loads(alignment['alignmentText'])
-            alignmentTextFrequency = json.loads(alignment['alignmentTextFrequency'])
-            book_id = json.loads(alignment['book_id'])
-            chapter = json.loads(alignment['chapter'])
-            verse = json.loads(alignment['verse'])
-            alignment_num = json.loads(alignment['alignment_num'])
+        alignmentsForLemma = alignments[key]
+        for alignmentsForOrigWord in alignmentsForLemma:
+            alignmentsCount = alignmentsForOrigWord['alignmentsTotal']
+            alignments_ = json.loads(alignmentsForOrigWord['alignments'])
 
             for i in range(alignmentsCount):
-                alignment_ = { **alignment }
-                del alignment_['alignments_keys']
-                del alignment_['alignmentsTotal']
-                del alignment_['frequencies']
-                alignment_['alignments_key'] = alignments_keys[i]
-                alignment_['origWordsText'] = origWordsText[i]
-                alignment_['origWordsCount'] = origWordsCount[i]
-                alignment_['origWordsBetween'] = origWordsBetween[i]
-                alignment_['targetWordsText'] = targetWordsText[i]
-                alignment_['targetWordsCount'] = targetWordsCount[i]
-                alignment_['targetWordsBetween'] = targetWordsBetween[i]
-                alignment_['alignmentText'] = alignmentText[i]
-                alignment_['alignmentTextFrequency'] = alignmentTextFrequency[i]
-                alignment_['book_id'] = book_id[i]
-                alignment_['chapter'] = chapter[i]
-                alignment_['verse'] = verse[i]
-                alignment_['alignment_num'] = alignment_num[i]
+                alignment_ = alignments_[i]
+                copyList = ['originalWord', 'lemma', 'strong']
+                for copyItem in copyList:
+                    alignment_[copyItem] = alignmentsForOrigWord[copyItem]
 
                 if alignmentsCount >= minAlignments:
                     alignmentsList.append(alignment_)
@@ -1394,6 +1348,7 @@ def findLemmasForQuotes(connection, quotesPath, outputBase, lexiconPath = None):
 
 def getFrequenciesOfFieldInAlignments(alignmentsForWord, field, sortIndex = False):
     frequenciesOfAlignments = {}
+    stats = {}
     # for each word add line to plot
     for origWord in alignmentsForWord.keys():
         alignmentsForWord_ = alignmentsForWord[origWord]
@@ -1402,12 +1357,35 @@ def getFrequenciesOfFieldInAlignments(alignmentsForWord, field, sortIndex = Fals
                 print(f"Field {field} is not in {alignment}")
                 return None
         wordAlignments_ = pd.DataFrame(alignmentsForWord_)
-        frequency_ = wordAlignments_[field].value_counts()
+        wordAlignmentsForField = wordAlignments_[field]
+        frequency_ = wordAlignmentsForField.value_counts()
         if sortIndex:
             frequency_ = frequency_.sort_index()
         frequenciesOfAlignments[origWord] = frequency_
+        total = 0
+        count = len(frequency_.keys())
+        for key in frequency_.keys():
+            total += frequency_[key]
+        mean = total / count
+        sumOfDiffSquared = 0
+        sumOfDiffNormalized = 0
+        for key in frequency_.keys():
+            diff = (frequency_[key] - mean)
+            sumOfDiffSquared += diff ** 2
+            diffNormalized = diff / total
+            sumOfDiffNormalized += diffNormalized ** 2
+        stdDev = math.sqrt(sumOfDiffSquared/count)
+        stdDevNormalized = math.sqrt(sumOfDiffNormalized/count)
 
-    return frequenciesOfAlignments
+        stats[origWord] = {
+            'mean': mean,
+            'stddev': stdDev,
+            'total': total,
+            'meanNormalized': mean / total,
+            'stddevNormalized': stdDevNormalized
+        }
+
+    return frequenciesOfAlignments, stats
 
 def getDataFrameForOriginalWords(connection, words, searchLemma = True, minAlignments = 100):
     alignments_ = getAlignmentsForOriginalWords(connection, words, searchLemma)
@@ -1560,7 +1538,7 @@ def fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove):
 
 def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
                      alignmentTargetWordsThreshold, origWordsBetweenThreshold,
-                     targetWordsBetweenThreshold, alignmentFrequencyMinThreshold):
+                     targetWordsBetweenThreshold, alignmentFrequencyMinThreshold, tag=''):
     alignmentsToCheck = []
 
     for origWord in alignmentsForWord.keys():
@@ -1575,9 +1553,9 @@ def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThre
                 'targetWordsBetweenWarning': ''
             }
 
-            alignmentTextFrequency = alignment['alignmentTextFrequency']
+            alignmentTextFrequency = alignment['alignmentTxtFrequency']
             if alignmentTextFrequency <= alignmentFrequencyMinThreshold:
-                warnings['frequencyWarning'] += (f"For {origWord} - Specific alignment \"{alignment['alignmentText']}\" used infrequently: {alignmentTextFrequency * 100:.1f}% out of {alignmentsCount} total alignments, threshold {alignmentFrequencyMinThreshold * 100:.0f}%")
+                warnings['frequencyWarning'] += (f"For {origWord} - Specific alignment \"{alignment['alignmentText']}\" used infrequently: {alignmentTextFrequency:.1f}% out of {alignmentsCount} total alignments, threshold {alignmentFrequencyMinThreshold:.0f}%")
 
             alignmentOrigWords = alignment['origWordsCount']
             if alignmentOrigWords >= alignmentOrigWordsThreshold:
@@ -1606,11 +1584,13 @@ def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThre
                 alignmentsToCheck.append(alignment)
 
     basePath = f'./data/{type_}_{bibleType}_NT_warnings'
+    if tag:
+        basePath += '_' + tag
     jsonPath = basePath + '.json'
     file.writeJsonFile(jsonPath, alignmentsToCheck)
 
     df = pd.DataFrame(alignmentsToCheck)
     csvPath = basePath + '.csv'
-    warningData = df.drop(columns=['alignments_key']).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
+    warningData = df.drop(columns=['alignment_key']).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
     saveDataFrameToCSV(csvPath, warningData)
     return warningData
