@@ -25,7 +25,7 @@ def saveAlignmentDataForLemmas(connection_owi, type_, minAlignments = 100):
     print(f"Saving Alignments for {type_}")
 
     # read alignment data for all the lemmas
-    termsPath = f'./data/{type_}_{bibleType}_NT_lemmas.json'
+    termsPath = f'./data/tWords/{type_}_{bibleType}_NT_lemmas.json'
     data = file.initJsonFile(termsPath)
     print (f"'{termsPath}' has {len(list(data.keys()))} words")
     lemmasList = list(data.keys())

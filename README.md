@@ -24,7 +24,7 @@ For example of how to get an alignment table for key terms see: fetch_alignment_
 **Visualizing alignment data:**
 
 On Jupyter notebooks have these examples:
-- plots of multiple alignments: plot_multi_alignments.ipynb or plot_multi_alignments.pdf
+- plots of multiple alignments: plot_multi_alignments.ipynb or plot_multi_alignments_twords.pdf
   
 **Creating a CSV file of the suspect warnings:**
 

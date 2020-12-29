@@ -949,10 +949,9 @@ def filterAlignments(alignments, minAlignments=-1):
 
             for i in range(alignmentsCount):
                 alignment_ = alignments_[i]
-                copyList = ['originalWord', 'lemma', 'strong']
+                copyList = ['originalWord', 'lemma', 'strong', 'alignmentsTotal']
                 for copyItem in copyList:
                     alignment_[copyItem] = alignmentsForOrigWord[copyItem]
-
                 if alignmentsCount >= minAlignments:
                     alignmentsList.append(alignment_)
                 else:
@@ -1377,13 +1376,14 @@ def getFrequenciesOfFieldInAlignments(alignmentsForWord, field, sortIndex = Fals
         stdDev = math.sqrt(sumOfDiffSquared/count)
         stdDevNormalized = math.sqrt(sumOfDiffNormalized/count)
 
-        stats[origWord] = {
+        stats_ = {
             'mean': mean,
             'stddev': stdDev,
             'total': total,
             'meanNormalized': mean / total,
             'stddevNormalized': stdDevNormalized
         }
+        stats[origWord] = stats_
 
     return frequenciesOfAlignments, stats
 
@@ -1594,3 +1594,70 @@ def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThre
     warningData = df.drop(columns=['alignment_key']).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
     saveDataFrameToCSV(csvPath, warningData)
     return warningData
+
+def getStatsForWord(numList):
+    total = 0
+    min = 1000000
+    max = -1000000
+    count = len(numList)
+    for item in numList:
+        total += item
+        if item > max:
+            max = item
+        if item < min:
+            min = item
+
+    mean = total / count
+    sumOfDiffSquared = 0
+    sumOfDiffNormalized = 0
+    for item in numList:
+        diff = (item - mean)
+        sumOfDiffSquared += diff ** 2
+        if total:
+            diffNormalized = diff / total
+            sumOfDiffNormalized += diffNormalized ** 2
+    stdDev = math.sqrt(sumOfDiffSquared/count)
+    stdDevNormalized = math.sqrt(sumOfDiffNormalized/count)
+
+    stats_ = {
+        'min': min,
+        'max': max,
+        'mean': mean,
+        'stddev': stdDev,
+        'total': total,
+        'meanNormalized': mean / total if total > 0 else 0,
+        'stddevNormalized': stdDevNormalized if total > 0 else 0
+    }
+    return stats_
+
+def getStatsForAlignments(alignmentsForWord):
+    summary_ = {}
+    for orginalWord in alignmentsForWord.keys():
+        alignments = alignmentsForWord[orginalWord]
+        count = len(alignments)
+        summary = {
+            'orginalWord': orginalWord,
+            'lemma': alignments[0]['lemma'],
+            'strong': alignments[0]['strong'],
+            'alignmentsForOriginalWord': count
+        }
+        alignmentText = []
+        origWordsCount = []
+        origWordsBetween = []
+        targetWordsCount = []
+        targetWordsBetween = []
+        for alignment in alignments:
+            alignmentText.append(alignment['alignmentText'])
+            origWordsCount.append(alignment['origWordsCount'])
+            origWordsBetween.append(alignment['origWordsBetween'])
+            targetWordsCount.append(alignment['targetWordsCount'])
+            targetWordsBetween.append(alignment['targetWordsBetween'])
+
+        alignmentFrequency = pd.Series(alignmentText).value_counts()
+        summary['alignmentFrequency%'] = dict(alignmentFrequency / count * 100)
+        summary['origWordsCountStats'] = getStatsForWord(origWordsCount)
+        summary['origWordsBetweenStats'] = getStatsForWord(origWordsBetween)
+        summary['targetWordsCountStats'] = getStatsForWord(targetWordsCount)
+        summary['targetWordsBetweenStats'] = getStatsForWord(targetWordsBetween)
+        summary_[orginalWord] = summary
+    return summary_
