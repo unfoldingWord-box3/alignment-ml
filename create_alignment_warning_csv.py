@@ -49,24 +49,19 @@ print(f"Found {len(warningData2)} alignments to check - min threshold {minAlignm
 
 #############################
 
-delta = (time.time() - start)
-elapsed = str(timedelta(seconds=delta))
-print(f'generated CSV with {len(warningData)} warnings, Elapsed time: {elapsed}')
-
-# generated CSV with 1520 warnings, Elapsed time: 0:01:06
-
-
-
-#%%
-
-
-#%%
-
 basePath = f'./data/{type_}_{bibleType}_NT_summary'
 summary = db.getStatsForAlignments(filteredAlignmentsForWord0)
 df = pd.DataFrame(summary)
 csvPath = basePath + '.csv'
 summary_ = db.saveDictOfDictToCSV(csvPath, df)
 print(f"saved summary of {len(summary)} original words to {csvPath}")
-summary_
+
+#############################
+
+delta = (time.time() - start)
+elapsed = str(timedelta(seconds=delta))
+print(f'generated CSV with {len(warningData)} warnings, Elapsed time: {elapsed}')
+
+# generated CSV with 1823 warnings, Elapsed time: 0:00:08
+
 

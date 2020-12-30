@@ -79,5 +79,6 @@ print (f"{len(items_align)} items in alignment_table")
 # Get NT alignments - deleting sqlite DB first
 # Get NT alignments, Elapsed time: 0:22:41
 # on Dell Laptop: Elapsed time: 0:46:33
+# on 2015 13" MBP: Elapsed time: 0:44:34.438381
 
 
