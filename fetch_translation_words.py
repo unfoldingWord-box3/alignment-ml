@@ -2,6 +2,7 @@
 
 import utils.db_utils as db
 import utils.bible_utils as bible
+import utils.file_utils as file
 import time
 from datetime import timedelta
 from pathlib import Path
@@ -26,6 +27,9 @@ connection_owi = db.getConnectionForTable(connections, db.original_words_index_t
 start = time.time()
 
 ################################
+
+file.makeFolder('./data')
+file.makeFolder('./data/tWords')
 
 outputFolder = './data/tWords'
 for type_ in tWordsTypeList:

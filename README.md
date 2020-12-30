@@ -4,11 +4,17 @@ These are programs to generate Machine Learning training data from translationCo
 Future exploration:
 - explore how to tag poor alignments for use in training or testing ML models.
 
-Tested using Python 3.9 for New Testament only.
+Tested using Python 3.9.1 & 3.8.5 for New Testament only.
 
 **Setup:**
 - make sure node is installed.  Verify with: `node --version`
+  - download installer from: `https://nodejs.org/`
 - make sure python 3 is installed.  Verify with: `python3 --version`
+- setup python modules:
+```
+pip3 install pandas
+pip3 install requests
+```    
 - copy resources from catalog:
   - the first time will have to do:
 ```
