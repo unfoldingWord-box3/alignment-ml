@@ -19,6 +19,9 @@
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "rimraf": "2.6.3",
-    "tc-source-content-updater": "0.8.2-alpha.3"
+    "string-punctuation-tokenizer": "^2.1.2",
+    "tc-source-content-updater": "0.8.2-alpha.3",
+    "tsv-groupdata-parser": "^0.9.17",
+    "usfm-js": "^2.1.0"
   }
 }
