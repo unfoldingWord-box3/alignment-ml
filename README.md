@@ -7,7 +7,7 @@ Future exploration:
 Tested using Python 3.9.1 & 3.8.5 for New Testament only.
 
 **Setup:**
-- make sure node is installed.  Verify with: `node --version`
+- make sure node 15.5+ is installed.  Verify with: `node --version`
   - download installer from: `https://nodejs.org/`
 - make sure python 3 is installed.  Verify with: `python3 --version`
 - setup python modules:
@@ -22,7 +22,7 @@ cd node_stuff
 npm i
 cd ..
 ```
-- then need to download specific resources (change version numbers to match latest for resource):
+- then need to download specific resources from door43 catalog (change version numbers to match latest for resource):
 ```
 cd node_stuff
 node ./downloadResource.js https://cdn.door43.org ../resources el-x-koine ugnt 0.16 ugnt
@@ -30,6 +30,7 @@ node ./downloadResource.js https://cdn.door43.org ../resources en ult 18 ult
 node ./downloadResource.js https://cdn.door43.org ../resources en tw 19 bible
 cd ..
 ```
+- or can download directly from repo: `node ./downloadResource.js --fullUrl https://git.door43.org/unfoldingWord/en_ult/archive/master.zip ~/resources en ult 18 bible`
 
 **Create the DB from downloaded resources:**
 

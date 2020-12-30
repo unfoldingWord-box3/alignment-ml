@@ -108,6 +108,7 @@ if (require.main === module) {
     console.info(`  node ./downloadResource.js https://cdn.door43.org ~/resources el-x-koine ugnt 0.16 ugnt`);
     console.info(`  node ./downloadResource.js https://cdn.door43.org ~/resources en ult 18 ult`);
     console.info(`  node ./downloadResource.js https://cdn.door43.org ~/resources en tw 19 bible`);
+    console.info(`  node ./downloadResource.js --fullUrl https://git.door43.org/unfoldingWord/en_ult/archive/master.zip ~/resources en ult 18 bible`);
     return 1;
   }
 
@@ -117,6 +118,7 @@ if (require.main === module) {
   const resourceId = otherParameters[3];
   const version = otherParameters[4];
   const resource_name = otherParameters[5];
+  const fullUrl = findFlag(flags, '--fullUrl');
 
   const importsFolder = destinationFolder + '/imports';
 
@@ -154,7 +156,10 @@ if (require.main === module) {
     return;
   }
 
-  const urlOfResource = `${baseUrlOfResource}/${languageId}/${resourceId}/v${version}/${resource_name}.zip`;
+  let urlOfResource = baseUrlOfResource;
+  if (!fullUrl) {
+    urlOfResource = `${baseUrlOfResource}/${languageId}/${resourceId}/v${version}/${resource_name}.zip`;
+  }
   console.log(`Downloading: from ${urlOfResource}`);
 
   getResource(urlOfResource, destinationFolder, languageId, resourceId, version, subject).then(success => {
