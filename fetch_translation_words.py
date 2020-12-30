@@ -14,9 +14,9 @@ targetLang = 'en'
 bibleType = 'en_ult'
 newTestament = True
 home = str(Path.home())
-tWordsTargetPath = f'{home}/translationCore/resources/{targetLang}/translationHelps/translationWords/v19'
+tWordsTargetPath = f'./resources/{targetLang}/translationHelps/translationWords/v19'
 tWordsTypeList = ['kt', 'names', 'other'] # categories of tWords
-tWordsGreekPath = f'{home}/translationCore/resources/el-x-koine/translationHelps/translationWords/v0.16'
+tWordsGreekPath = f'./resources/el-x-koine/translationHelps/translationWords/v0.16'
 dbPath = f'./data/{bibleType}_NT_alignments.sqlite'
 
 connections = db.initAlignmentDB(dbPath)

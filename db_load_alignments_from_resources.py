@@ -14,9 +14,9 @@ targetBibleType = 'en_ult'
 testament = 1
 home = str(Path.home())
 
-origLangPathGreek =  f'{home}/translationCore/resources/el-x-koine/bibles/ugnt/v0.16'
-origLangPathHebrew = f'{home}/translationCore/resources/hbo/bibles/uhb/v2.1.16'
-targetLanguagePath = f'{home}/translationCore/resources/en/bibles/ult/v18'
+origLangPathGreek =  f'./resources/el-x-koine/bibles/ugnt/v0.16'
+origLangPathHebrew = f'./resources/hbo/bibles/uhb/v2.1.16'
+targetLanguagePath = f'./resources/en/bibles/ult/v18'
 
 ############################################
 

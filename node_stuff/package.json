@@ -1,0 +1,24 @@
+{
+  "name": "download_app",
+  "productName": "translationCore",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {},
+  "homepage": "./",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@babel/core": "7.8.7",
+    "@babel/runtime": "7.8.7",
+    "babel-loader": "8.1.0"
+  },
+  "dependencies": {
+    "babel-polyfill": "6.26.0",
+    "rimraf": "2.6.3",
+    "tc-source-content-updater": "0.8.2-alpha.3"
+  }
+}
