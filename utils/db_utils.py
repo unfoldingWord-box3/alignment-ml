@@ -1595,7 +1595,7 @@ def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThre
     saveDataFrameToCSV(csvPath, warningData)
     return warningData
 
-def getStatsForWord(numList):
+def getStatsForWord(prefix, numList):
     total = 0
     min = 1000000
     max = -1000000
@@ -1620,13 +1620,13 @@ def getStatsForWord(numList):
     stdDevNormalized = math.sqrt(sumOfDiffNormalized/count)
 
     stats_ = {
-        'min': min,
-        'max': max,
-        'mean': mean,
-        'stddev': stdDev,
-        'total': total,
-        'meanNormalized': mean / total if total > 0 else 0,
-        'stddevNormalized': stdDevNormalized if total > 0 else 0
+        f'{prefix}-min': min,
+        f'{prefix}-max': max,
+        f'{prefix}-mean': mean,
+        f'{prefix}-stddev': stdDev,
+        f'{prefix}-total': total,
+        f'{prefix}-meanNormalized': mean / total if total > 0 else 0,
+        f'{prefix}-stddevNormalized': stdDevNormalized if total > 0 else 0
     }
     return stats_
 
@@ -1655,9 +1655,9 @@ def getStatsForAlignments(alignmentsForWord):
 
         alignmentFrequency = pd.Series(alignmentText).value_counts()
         summary['alignmentFrequency%'] = dict(alignmentFrequency / count * 100)
-        summary['origWordsCountStats'] = getStatsForWord(origWordsCount)
-        summary['origWordsBetweenStats'] = getStatsForWord(origWordsBetween)
-        summary['targetWordsCountStats'] = getStatsForWord(targetWordsCount)
-        summary['targetWordsBetweenStats'] = getStatsForWord(targetWordsBetween)
+        summary.update(**getStatsForWord('origWordsCount', origWordsCount))
+        summary.update(**getStatsForWord('origWordsBetween', origWordsBetween))
+        summary.update(**getStatsForWord('targetWordsCount', targetWordsCount))
+        summary.update(**getStatsForWord('targetWordsBetween', targetWordsBetween))
         summary_[orginalWord] = summary
     return summary_
