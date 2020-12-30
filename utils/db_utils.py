@@ -1661,3 +1661,12 @@ def getStatsForAlignments(alignmentsForWord):
         summary.update(**getStatsForWord('targetWordsBetween', targetWordsBetween))
         summary_[orginalWord] = summary
     return summary_
+
+def fetchAlignmentDataForAllTWordsCached(bibleType, types, minAlignments, remove):
+    alignmentsForWord = {}
+    filteredAlignmentsForWord = {}
+    for type_ in types:
+        alignmentsForWord_, filteredAlignmentsForWord_ = fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove)
+        alignmentsForWord.update(**alignmentsForWord_)
+        filteredAlignmentsForWord.update(**filteredAlignmentsForWord_)
+    return alignmentsForWord, filteredAlignmentsForWord
