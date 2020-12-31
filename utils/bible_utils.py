@@ -1506,15 +1506,17 @@ def downloadBookAlignments(userUrl, bibleType, bookId, outputBasePath):
     repoName = file.getRepoName(bibleType, bookId)
     outputFolder = outputBasePath + '/' + repoName
     file.ensureFolderExists(outputFolder)
-    outputPath = outputFolder + '/' + repoName + '.usfm'
-    if not os.path.isfile(outputPath):
+    usfmDestPath = outputFolder + '/' + repoName + '.usfm'
+    jsonOutput = outputBasePath + '/' + bookId
+    if not os.path.isfile(usfmDestPath):
         try:
-            file.downloadFile(url, outputPath)
-            system.convertUsfmToJson(outputPath, outputFolder)
+            file.downloadFile(url, usfmDestPath)
+            file.ensureFolderExists(jsonOutput)
+            system.convertUsfmToJson(usfmDestPath, jsonOutput)
         except:
             print(f'download of {url} failed')
     else:
-        print('file already exists, skipping ' + outputPath)
+        print('file already exists, skipping ' + usfmDestPath)
 
     file.removeEmptyFolder(outputFolder) # don't leave empty folders behind
 

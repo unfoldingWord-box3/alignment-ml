@@ -692,10 +692,10 @@ def saveAlignmentsForBook(connections, alignmentsIndex, bookId, aligmentsFolder,
     deleteWordsForBook(connection, target_words_table, bookId)
     deleteWordsForBook(connection, original_words_table, bookId)
 
-    if nestedFormat:
-        bookFolder = aligmentsFolder + '/' + bookId
-    else:
+    bookFolder = aligmentsFolder + '/' + bookId
+    if not file.doesFolderExist(bookFolder):
         bookFolder = aligmentsFolder + '/' + file.getRepoName(bibleType, bookId)
+
     files = file.listFolder(bookFolder)
     if files: # make sure folder has files
         print("reading original language words")

@@ -90,6 +90,9 @@ def readJsonFile(inputPath):
 def doesFileExist(path_):
     return os.path.isfile(path_)
 
+def doesFolderExist(path_):
+    return os.path.isdir(path_)
+
 def moveFile(srcPath, destPath, ifExists=False, overWrite=False):
     if overWrite and os.path.isfile(destPath):
         print(f"moveFile - removing {destPath}")

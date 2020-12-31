@@ -62,7 +62,7 @@ bible.downloadTestamentAlignments(projectsUrl, targetBibleType, newTestament, pr
 
 # get alignments for NT
 start = time.time()
-db.getAlignmentsForTestament(connections, newTestament, projectsFolder, origLangPath, targetLanguagePath, targetBibleType)
+db.getAlignmentsForTestament(connections, newTestament, projectsFolder, origLangPath, projectsFolder, targetBibleType, nestedFormat=True)
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'Get NT alignments, Elapsed time: {elapsed}')
