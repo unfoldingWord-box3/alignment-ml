@@ -48,7 +48,7 @@ connection_owi = db.getConnectionForTable(connections, db.original_words_index_t
 
 # get alignments for testament
 start = time.time()
-db.getAlignmentsForTestament(connections, 1, targetLanguagePath, origLangPathGreek, targetBibleType, nestedFormat=True)
+db.getAlignmentsForTestament(connections, 1, targetLanguagePath, origLangPathGreek, targetLanguagePath, targetBibleType, nestedFormat=True)
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'Get {testamentStr} alignments, Elapsed time: {elapsed}')

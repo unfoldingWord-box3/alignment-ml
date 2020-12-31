@@ -23,7 +23,13 @@ def getRepoName(bibleType, bookId):
 
 def getBibleUrl(userUrl, bibleType, bookId, chapter):
     fullPath = userUrl + '/' + getRepoName(bibleType, bookId) + '/raw/branch/master/.apps/translationCore/alignmentData/' + bookId + '/' + chapter + '.json'
-    print ('getBibleUrl ' + fullPath)
+    print ('getBibleUrl - ' + fullPath)
+    return fullPath
+
+def getBookUrl(userUrl, bibleType, bookId):
+    repoName = getRepoName(bibleType, bookId)
+    fullPath = userUrl + '/' + repoName + '/raw/branch/master/' + repoName + '.usfm'
+    print ('getBookUrl - ' + fullPath)
     return fullPath
 
 def fetchAlignments(userUrl, bibleType, bookId, chapter):

@@ -1,5 +1,6 @@
 import os
 import utils.file_utils as file
+import utils.system_utils as system
 
 BIBLE_BOOKS = {
     'oldTestament': {
@@ -1500,15 +1501,25 @@ def downloadChapterAlignments(userUrl, bibleType, bookId, chapter, outputBasePat
         print('file already exists, skipping ' + outputPath)
 
 def downloadBookAlignments(userUrl, bibleType, bookId, outputBasePath):
-    chapters = getChaptersForBook(bookId)
-    for chapter in chapters:
-        print('downloadBookAlignments downloading chapter ' + chapter)
-        downloadChapterAlignments(userUrl, bibleType, bookId, chapter, outputBasePath)
-    outputFolder = outputBasePath + '/' + file.getRepoName(bibleType, bookId)
+    # https://git.door43.org/lrsallee/en_ult_act_book/raw/branch/master/en_ult_act_book.usfm
+    url = file.getBookUrl(userUrl, bibleType, bookId)
+    repoName = file.getRepoName(bibleType, bookId)
+    outputFolder = outputBasePath + '/' + repoName
+    file.ensureFolderExists(outputFolder)
+    outputPath = outputFolder + '/' + repoName + '.usfm'
+    if not os.path.isfile(outputPath):
+        try:
+            file.downloadFile(url, outputPath)
+            system.convertUsfmToJson(outputPath, outputFolder)
+        except:
+            print(f'download of {url} failed')
+    else:
+        print('file already exists, skipping ' + outputPath)
+
     file.removeEmptyFolder(outputFolder) # don't leave empty folders behind
 
 def downloadTestamentAlignments(userUrl, bibleType, newTestament, outputBasePath):
-    file.makeFolder(outputBasePath)
+    file.ensureFolderExists(outputBasePath)
     books = getBookList(newTestament)
     for bookId in books:
         print('downloadTestamentAlignments downloading book ' + bookId)

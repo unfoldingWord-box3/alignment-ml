@@ -6,47 +6,52 @@ import utils.file_utils as file
 import utils.bible_utils as bible
 import time
 from datetime import timedelta
+from config import getConfig
+
+############################################
+# get configuration
+cfg = getConfig() # configure values in config.js
+############################################
+
+targetBibleType = cfg['targetBibleType']
+origLangPath =  cfg['origLangPath']
+targetLanguagePath = cfg['targetLanguagePath']
+dbPath = cfg['dbPath']
+newTestament = cfg['newTestament']
+testamentStr = cfg['testamentStr']
+projectsUrl = cfg['projectsUrl']
+projectsFolder = './data/AlignmentsFromProjects'
+
+############################################
 
 original_words_table = db.original_words_table
 target_words_table = db.target_words_table
 alignment_table = db.alignment_table
-dbPath = './data/en_ult_NT_alignments.sqlite'
-origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
-origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
-targetLangPathEn = './data/TargetLangJson/ult/v14'
+original_words_index_table = db.original_words_index_table
+
+########################
+
+# move old sqlite
+file.moveFile(f"{dbPath}.save", f"{dbPath}.save2", ifExists=True, overWrite=True)
+file.moveFile(dbPath, f"{dbPath}.save", ifExists=True, overWrite=True)
+dbPathOwIdx = db.getOrigLangIndexSqlPath(dbPath)
+file.moveFile(f"{dbPathOwIdx}.save", f"{dbPathOwIdx}.save2", ifExists=True, overWrite=True)
+file.moveFile(dbPathOwIdx, f"{dbPathOwIdx}.save", ifExists=True, overWrite=True)
 
 connections = db.initAlignmentDB(dbPath)
 connection = db.getConnectionForTable(connections, 'default')
 connection_owi = db.getConnectionForTable(connections, db.original_words_index_table)
 
-bibleType = 'en_ult'
-testament = 1
-dataFolder = './data/AlignmentsFromProjects'
-bookId = 'tit'
+########################
 
-# chapter = '1'
-# verse = '4'
-# word = 'καὶ'
-# occurrence = 2
-
-# # get reference for word
-# items = db.fetchWordsForVerse(connection, original_words_table, bookId, chapter, verse)
-# print (f"{len(items)} words found in verse")
-#
-# # get reference for word
-# items = db.fetchForWordInVerse(connection, original_words_table, word, occurrence, bookId, chapter, verse)
-# print (f"{len(items)} matching words found")
+# download  testament alignments into data
+bible.downloadTestamentAlignments(projectsUrl, targetBibleType, newTestament, projectsFolder)
 
 #################
 
-db.saveAlignmentsForBook(connection, bookId, dataFolder, bibleType, origLangPathGreek)
+# db.saveAlignmentsForBook(connection, bookId, projectsFolder, bibleType, origLangPathGreek)
 
 #################
-
-# completely clear old data
-db.resetTable(connection, target_words_table)
-db.resetTable(connection, original_words_table)
-db.resetTable(connection, alignment_table)
 
 # # get alignments for OT (not working yet)
 # start = time.time()
@@ -57,7 +62,7 @@ db.resetTable(connection, alignment_table)
 
 # get alignments for NT
 start = time.time()
-db.getAlignmentsForTestament(connection, 1, dataFolder, bibleType)
+db.getAlignmentsForTestament(connections, newTestament, projectsFolder, origLangPath, targetLanguagePath, targetBibleType)
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'Get NT alignments, Elapsed time: {elapsed}')

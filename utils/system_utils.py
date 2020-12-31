@@ -30,6 +30,20 @@ def createNodeDownloadCommand(base_url_of_resource, destination_folder, language
 
 def downloadAndProcessResource(base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name):
     cmd = createNodeDownloadCommand(base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name)
+    runNodeCommand(cmd)
+
+def createNodeUsfmConvertCommand(sourceUsfmPath, outputJsonPath):
+    cmd = ['node','./parseUsfmFile.js']
+    sourceUsfmPath = sourceUsfmPath.replace('./', '../')
+    outputJsonPath = outputJsonPath.replace('./', '../')
+    cmd.extend([sourceUsfmPath, outputJsonPath])
+    return cmd
+
+def convertUsfmToJson(sourceUsfmPath, outputJsonPath):
+    cmd = createNodeUsfmConvertCommand(sourceUsfmPath, outputJsonPath)
+    runNodeCommand(cmd)
+
+def runNodeCommand(cmd):
     cwd = os.getcwd()
     os.chdir("./node_stuff")
     print(f"Downloading and processing {cmd}")

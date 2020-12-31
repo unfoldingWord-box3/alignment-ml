@@ -36,6 +36,7 @@ def getConfig():
     origLangResourceUrl = 'https://cdn.door43.org'
     targetBibleLangResourceUrl = 'https://cdn.door43.org'
     targetTWordsLangResourceUrl = 'https://cdn.door43.org'
+    projectsUrl = 'https://git.door43.org/lrsallee'
 
     resourceBasePath = './resources'
     dataBasePath = f'./data/{targetLang}/{targetBibleId}'
@@ -49,6 +50,7 @@ def getConfig():
     targetLanguagePath = f'{resourceBasePath}/{targetLang}/bibles/{targetBibleId}/v{targetLangBibleVersion}'
     tWordsTargetPath = f'{resourceBasePath}/{targetLang}/translationHelps/translationWords/v{targetLangTWordsVersion}'
     greekLexiconPath = f'{home}/translationCore/resources/{targetLang}/lexicons/ugl/v0/content'
+    origLangPath = origLangPathGreek if newTestament else origLangPathHebrew
 
     baseLangResourceUrl = 'https://cdn.door43.org'
 
@@ -87,7 +89,9 @@ def getConfig():
         'targetLangBibleVersion': targetLangBibleVersion,
         'targetLangTWordsVersion': targetLangTWordsVersion,
         'tWordsId': tWordsId,
-        'tWordsResourceName': tWordsResourceName
+        'tWordsResourceName': tWordsResourceName,
+        'projectsUrl': projectsUrl,
+        'origLangPath': origLangPath
     }
     return cfg
 

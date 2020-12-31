@@ -12,9 +12,6 @@ original_words_table = 'original_words'
 target_words_table = 'target_words'
 alignment_table = 'alignment_table'
 original_words_index_table = 'original_words_index_table'
-origLangPathGreek = './data/OrigLangJson/ugnt/v0.14'
-origLangPathHebrew = './data/OrigLangJson/uhb/v2.1.15'
-targetLangPathEn = './data/TargetLangJson/ult/v14'
 
 #########################
 
@@ -384,8 +381,8 @@ def getWordsFromVerse(verseObjects):
             child_words = getWordsFromVerse(children)
             words.extend(child_words)
             # print('finished processing children')
-        elif (type_ == ''):
-            print(f"getWordsFromVerse - missing type in: {vo}")
+        # elif (type_ == ''):
+        #     print(f"getWordsFromVerse - missing type in: {vo}")
 
     return words
 
@@ -412,8 +409,8 @@ def parseAlignmentFromVerse(verseObject, wordNum = 0):
             bottomWords.extend(child_bottomWords)
             wordNum = child_wordNum
             # print('finished processing children')
-        elif (type_ == ''):
-            print(f"getWordsFromVerse - missing type in: {vo}")
+        # elif (type_ == ''):
+        #     print(f"getWordsFromVerse - missing type in: {vo}")
 
     return topWords, bottomWords, wordNum
 
@@ -689,7 +686,7 @@ def saveAlignmentsForChapter(connection, alignmentsIndex, bookId, chapter, dataF
         # print(f"reading alignments for {bookId} {chapter}:{verseAl}")
         saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verseAl, verseAlignments)
 
-def saveAlignmentsForBook(connections, alignmentsIndex, bookId, aligmentsFolder, bibleType, origLangPath, nestedFormat=False):
+def saveAlignmentsForBook(connections, alignmentsIndex, bookId, aligmentsFolder, bibleType, origLangPath, targetLanguagePath, nestedFormat=False):
     connection = getConnectionForTable(connections, 'default')
     deleteWordsForBook(connection, alignment_table, bookId)
     deleteWordsForBook(connection, target_words_table, bookId)
@@ -705,7 +702,7 @@ def saveAlignmentsForBook(connections, alignmentsIndex, bookId, aligmentsFolder,
         loadAllWordsFromBookIntoDB(connection, origLangPath, bookId, original_words_table)
         if not nestedFormat:
             print("reading target language words")
-            loadAllWordsFromBookIntoDB(connection, targetLangPathEn, bookId, target_words_table)
+            loadAllWordsFromBookIntoDB(connection, targetLanguagePath, bookId, target_words_table)
 
         chapters = bible.getChaptersForBook(bookId)
         for chapterAL in chapters:
@@ -715,12 +712,12 @@ def saveAlignmentsForBook(connections, alignmentsIndex, bookId, aligmentsFolder,
     else:
         print(f"No alignments for {bookId} at {bookFolder}")
 
-def getAlignmentsForTestament(connections, newTestament, dataFolder, origLangPath, bibleType, nestedFormat=False):
+def getAlignmentsForTestament(connections, newTestament, alignmentsFolder, origLangPath, targetLanguagePath, bibleType, nestedFormat=False):
     books = bible.getBookList(newTestament)
     alignmentsIndex = {}
     for book in books:
         print (f"reading {book}")
-        saveAlignmentsForBook(connections, alignmentsIndex, book, dataFolder, bibleType, origLangPath, nestedFormat)
+        saveAlignmentsForBook(connections, alignmentsIndex, book, alignmentsFolder, bibleType, origLangPath, targetLanguagePath, nestedFormat)
 
     print(f"Saving Alignments by original Word index:")
     connection_owi = getConnectionForTable(connections, original_words_index_table)

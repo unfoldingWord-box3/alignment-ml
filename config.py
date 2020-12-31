@@ -5,6 +5,7 @@ import utils.file_utils as file
 import time
 from datetime import timedelta
 from pathlib import Path
+import config_en
 
 home = str(Path.home())
 
@@ -13,83 +14,7 @@ home = str(Path.home())
 ############################################
 
 def getConfig():
-    newTestament = True
-    testamentStr = "NT" if newTestament else "OT"
-    targetLang = "en"
-    targetBibleId = "ult"
-    tWordsId = "tw"
-    tWordsResourceName = 'bible'
-    origLangVersionGreek = '0.16'
-    origLangVersionHebrew = '2.1.16'
-    targetLangBibleVersion = '18'
-    targetLangTWordsVersion = '19'
-    origLangIdGreek = 'el-x-koine'
-    origLangIdHebrew = "hbo"
-    origLangId = origLangIdGreek if newTestament else origLangIdHebrew
-    origLangBibleIdGreek = 'ugnt'
-    origLangBibleIdHebrew = "uhb"
-    origLangBibleId = origLangBibleIdGreek if newTestament else origLangBibleIdHebrew
-    origLangVersion = origLangVersionGreek if newTestament else origLangVersionHebrew
-    targetBibleType = f'{targetLang}_{targetBibleId}'
-    tWordsTypeList = ['kt', 'names', 'other'] # categories of tWords
-
-    origLangResourceUrl = 'https://cdn.door43.org'
-    targetBibleLangResourceUrl = 'https://cdn.door43.org'
-    targetTWordsLangResourceUrl = 'https://cdn.door43.org'
-
-    resourceBasePath = './resources'
-    dataBasePath = f'./data/{targetLang}/{targetBibleId}'
-    tWordsDataFolder = f'./data/{targetLang}/{targetBibleId}/tWords'
-    trainingDataPath = f'./data/{targetLang}/{targetBibleId}/TrainingData'
-    dbPath = f'{dataBasePath}/alignments_{testamentStr}.sqlite'
-
-    origLangPathGreek =  f'{resourceBasePath}/{origLangIdGreek}/bibles/{origLangBibleIdGreek}/v{origLangVersionGreek}'
-    origLangPathHebrew = f'{resourceBasePath}/{origLangIdHebrew}/bibles/{origLangBibleIdHebrew}/v{origLangVersionHebrew}'
-    tWordsGreekPath = f'{resourceBasePath}/{origLangIdGreek}/translationHelps/translationWords/v{origLangVersionGreek}'
-    targetLanguagePath = f'{resourceBasePath}/{targetLang}/bibles/{targetBibleId}/v{targetLangBibleVersion}'
-    tWordsTargetPath = f'{resourceBasePath}/{targetLang}/translationHelps/translationWords/v{targetLangTWordsVersion}'
-    greekLexiconPath = f'{home}/translationCore/resources/{targetLang}/lexicons/ugl/v0/content'
-
-    baseLangResourceUrl = 'https://cdn.door43.org'
-
-    file.ensureFolderExists(resourceBasePath)
-    file.ensureFolderExists(dataBasePath)
-    file.ensureFolderExists(tWordsDataFolder)
-    file.ensureFolderExists(trainingDataPath)
-
-    cfg = {
-        'newTestament': newTestament,
-        'testamentStr': testamentStr,
-        'targetBibleType': targetBibleType,
-        'resourceBasePath': resourceBasePath,
-        'dataBasePath': dataBasePath,
-        'origLangPathGreek': origLangPathGreek,
-        'origLangPathHebrew': origLangPathHebrew,
-        'targetLanguagePath': targetLanguagePath,
-        'dbPath': dbPath,
-        'targetLang': targetLang,
-        'targetBibleId': targetBibleId,
-        'tWordsTargetPath': tWordsTargetPath,
-        'tWordsTypeList': tWordsTypeList,
-        'tWordsGreekPath': tWordsGreekPath,
-        'tWordsDataFolder': tWordsDataFolder,
-        'greekLexiconPath': greekLexiconPath,
-        'trainingDataPath': trainingDataPath,
-        'origLangResourceUrl': origLangResourceUrl,
-        'targetBibleLangResourceUrl': targetBibleLangResourceUrl,
-        'targetTWordsLangResourceUrl': targetTWordsLangResourceUrl,
-        'baseLangResourceUrl': baseLangResourceUrl,
-        'origLangId': origLangId,
-        'origLangBibleId': origLangBibleId,
-        'origLangVersionGreek': origLangVersionGreek,
-        'origLangVersionHebrew': origLangVersionHebrew,
-        'origLangVersion': origLangVersion,
-        'targetLangBibleVersion': targetLangBibleVersion,
-        'targetLangTWordsVersion': targetLangTWordsVersion,
-        'tWordsId': tWordsId,
-        'tWordsResourceName': tWordsResourceName
-    }
-    return cfg
+    return config_en.getConfig() # look in config_hi.js for configuration
 
 def getTwordsPath(type_, bibleType, testamentStr=''):
     cfg = getConfig()
