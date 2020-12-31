@@ -1581,16 +1581,16 @@ def getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType, newTestament 
             else:
                 # print(f"Adding {keyTerm}: {quotes}")
                 quotesFound[keyTerm] = quotes
-    # print(f"{len(quotesFound.keys())} unique quotes found in NT: {quotesFound}")
+    # print(f"{len(quotesFound.keys())} unique quotes found in testament: {quotesFound}")
     return quotesFound
 
 def saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, tWordsType, bibleType, newTestament=True):
     quotesFound = getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType, newTestament)
-    print(f"{len(quotesFound.keys())} unique quotes found in NT: {quotesFound}")
     if newTestament:
         testament = 'NT'
     else:
         testament = 'OT'
+    print(f"{len(quotesFound.keys())} unique quotes found in {testament}: {quotesFound}")
     outputPath = f"{outputFolder}/{tWordsType}_{bibleType}_{testament}_quotes.json"
     print(f"saving quotes to: {outputPath}")
     file.writeJsonFile(outputPath, quotesFound)

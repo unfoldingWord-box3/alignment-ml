@@ -4,16 +4,20 @@ import utils.db_utils as db
 import utils.file_utils as file
 import time
 from datetime import timedelta
+import config
 
 ############################################
-# configure these values for your system
+# get configuration
+cfg = config.getConfig() # configure values in config.js
 ############################################
 
-targetLang = 'en'
-bibleType = 'en_ult'
 minAlignments = 40
-tWordsTypeList = ['kt', 'names', 'other'] # categories of tWords
-dbPath = f'./data/{bibleType}_NT_alignments.sqlite'
+targetLang = cfg['targetLang']
+bibleType = cfg['targetBibleType']
+tWordsTypeList = cfg['tWordsTypeList']
+dbPath = cfg['dbPath']
+trainingDataPath = cfg['trainingDataPath']
+testamentStr = cfg['testamentStr']
 
 connections = db.initAlignmentDB(dbPath)
 connection = db.getConnectionForTable(connections, 'default')
@@ -25,7 +29,8 @@ def saveAlignmentDataForLemmas(connection_owi, type_, minAlignments = 100):
     print(f"Saving Alignments for {type_}")
 
     # read alignment data for all the lemmas
-    termsPath = f'./data/tWords/{type_}_{bibleType}_NT_lemmas.json'
+    quotesPath, lemmasPath = config.getTwordsPath(type_, bibleType)
+    termsPath = lemmasPath
     data = file.initJsonFile(termsPath)
     print (f"'{termsPath}' has {len(list(data.keys()))} words")
     lemmasList = list(data.keys())
@@ -42,7 +47,7 @@ def saveAlignmentDataForLemmas(connection_owi, type_, minAlignments = 100):
     # flatten the lemmas into a filtered alignment list
 
     alignmentsList, rejectedAlignmentsList = db.filterAlignments(alignments, minAlignments)
-    termsPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_filtered_{minAlignments}'
+    termsPath = f'{trainingDataPath}/{type_}_{bibleType}_{testamentStr}_alignments_filtered_{minAlignments}'
     print(f"filtered {minAlignments} training list count is {len(alignmentsList)}")
     print(f"rejected count is {len(rejectedAlignmentsList)}")
     jsonPath = termsPath + '.json'
@@ -56,7 +61,7 @@ def saveAlignmentDataForLemmas(connection_owi, type_, minAlignments = 100):
     # merge to make a complete list
 
     alignmentsList.extend(rejectedAlignmentsList)
-    termsPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_all'
+    termsPath = f'{trainingDataPath}/{type_}_{bibleType}_{testamentStr}_alignments_all'
     print(f"Unfiltered training list count is {len(alignmentsList)}")
     jsonPath = termsPath + '.json'
     file.writeJsonFile(jsonPath, alignmentsList)

@@ -5,20 +5,23 @@ import utils.bible_utils as bible
 import utils.file_utils as file
 import time
 from datetime import timedelta
-from pathlib import Path
+import config
 
 ############################################
-# configure these values for your system
+# get configuration
+cfg = config.getConfig() # configure values in config.js
 ############################################
 
-targetLang = 'en'
-bibleType = 'en_ult'
-newTestament = True
-home = str(Path.home())
-tWordsTargetPath = f'./resources/{targetLang}/translationHelps/translationWords/v19'
-tWordsTypeList = ['kt', 'names', 'other'] # categories of tWords
-tWordsGreekPath = f'./resources/el-x-koine/translationHelps/translationWords/v0.16'
-dbPath = f'./data/{bibleType}_NT_alignments.sqlite'
+targetLang = cfg['targetLang']
+bibleType = cfg['targetBibleType']
+newTestament = cfg['newTestament']
+
+tWordsTargetPath = cfg['tWordsTargetPath']
+tWordsTypeList = cfg['tWordsTypeList']
+tWordsGreekPath = cfg['tWordsGreekPath']
+dbPath = cfg['dbPath']
+tWordsDataFolder = cfg['tWordsDataFolder']
+testamentStr = cfg['testamentStr']
 
 connections = db.initAlignmentDB(dbPath)
 connection = db.getConnectionForTable(connections, 'default')
@@ -28,26 +31,21 @@ start = time.time()
 
 ################################
 
-file.makeFolder('./data')
-file.makeFolder('./data/tWords')
-
-outputFolder = './data/tWords'
 for type_ in tWordsTypeList:
-    bible.saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, type_, bibleType, newTestament)
+    bible.saveTwordsQuotes(tWordsDataFolder, tWordsGreekPath, tWordsTargetPath, type_, bibleType, newTestament)
 
 ################################
 
-lexiconPath = f'{home}/translationCore/resources/en/lexicons/ugl/v0/content'
+lexiconPath = cfg['greekLexiconPath']
 for type_ in tWordsTypeList:
-    quotesPath = f'./data/tWords/{type_}_{bibleType}_NT_quotes.json'
-    lemmasPath = f'./data/tWords/{type_}_{bibleType}_NT_lemmas'
+    quotesPath, lemmasPath = config.getTwordsPath(type_, bibleType)
     db.findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath)
 
 ################################
 
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
-print(f'Getting tWords quotes from NT, Elapsed time: {elapsed}')
+print(f'Getting tWords quotes from {testamentStr}, Elapsed time: {elapsed}')
 
 # Getting tWords quotes from NT, Elapsed time: 0:01:27
 

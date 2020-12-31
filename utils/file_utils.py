@@ -97,6 +97,19 @@ def makeFolder(outputFolder):
     if not os.path.isdir(outputFolder):
         print ('makeFolder - creating folder ' + outputFolder)
         os.mkdir(outputFolder)
+    return True
+
+def ensureFolderExists(outputFolder):
+    if os.path.isdir(outputFolder):
+        return True
+
+    parts = outputFolder.split('/')
+    if len(parts) > 1:
+        parent = '/'.join(parts[0:len(parts)-1])
+        if not os.path.isdir(parent):
+            ensureFolderExists(parent)
+        makeFolder(outputFolder)
+    return True
 
 def removeFolder(outputFolder):
     if os.path.isdir(outputFolder):

@@ -1,0 +1,47 @@
+import sys
+import os
+import platform
+import subprocess
+from config import getConfig
+
+
+def printSystemInfo():
+    print("#### System Info ####")
+    print(f"  sys.version:  {sys.version}")
+    print(f"  sys.version_info:  {sys.version_info}")
+    print(f"  platform.python_version():  {platform.python_version()}")
+    print(f"  platform.architecture():  {platform.architecture()}")
+    print(f"  platform.machine():  {platform.machine()}")
+    print(f"  platform.platform():  {platform.platform()}")
+    print(f"  platform.processor():  {platform.processor()}")
+    print(f"  platform.python_compiler():  {platform.python_compiler()}")
+    print(f"  platform.python_implementation():  {platform.python_implementation()}")
+    print(f"  platform.system():  {platform.system()}\n")
+
+def createNodeDownloadCommand(base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name):
+    # [flags] base_url_of_resource destination_folder languageId, resourceId, version
+    cfg = getConfig()
+    baseLangResourceUrl = cfg['baseLangResourceUrl']
+    cmd = ['node','./downloadResource.js']
+    if base_url_of_resource != baseLangResourceUrl:
+        cmd.append('--fullUrl')
+    cmd.extend([base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name])
+    return cmd
+
+def downloadAndProcessResource(base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name):
+    cmd = createNodeDownloadCommand(base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name)
+    cwd = os.getcwd()
+    os.chdir("./node_stuff")
+    print(f"Downloading and processing {cmd}")
+    process = subprocess.run(cmd,
+                             stderr=subprocess.PIPE,
+                             universal_newlines=True)
+    os.chdir(cwd)
+    returncode = process.returncode
+    if returncode > 0:
+        print("\n\n################\nError\n################")
+        print(process.stderr)
+        exit(returncode)
+
+    print(f"Finished processing {cmd}")
+

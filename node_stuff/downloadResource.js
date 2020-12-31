@@ -103,7 +103,7 @@ if (require.main === module) {
   const { flags, otherParameters } = separateParams();
 
   if (otherParameters.length < 6) {
-    console.error('Syntax: node ./updateResources.js [flags] base_url_of_resource destination_folder languageId, resourceId, version');
+    console.error('Syntax: node ./updateResources.js [flags] base_url_of_resource destination_folder languageId, resourceId, version, resource_name');
     console.info(`Examples:`);
     console.info(`  node ./downloadResource.js https://cdn.door43.org ~/resources el-x-koine ugnt 0.16 ugnt`);
     console.info(`  node ./downloadResource.js https://cdn.door43.org ~/resources en ult 18 ult`);

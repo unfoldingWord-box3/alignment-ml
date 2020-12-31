@@ -1306,7 +1306,7 @@ def lookupLexicon(lexiconPath, strongs):
         print(f"lookupLexicon - not supported {strongs}")
     return None
 
-def findLemmasForQuotes(connection, quotesPath, outputBase, lexiconPath = None):
+def findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath = None):
     data = file.readJsonFile(quotesPath)
 
     origWords = {}
@@ -1342,8 +1342,8 @@ def findLemmasForQuotes(connection, quotesPath, outputBase, lexiconPath = None):
                         lemmas[lemma]['lexicon'] = lex
 
     print(f"findLemmasForQuotes - found {len(lemmas.keys())} lemmas")
-    file.writeJsonFile(outputBase + ".json", lemmas)
-    saveDictOfDictToCSV(outputBase + ".csv", lemmas, keyName = 'lemma')
+    file.writeJsonFile(lemmasPath, lemmas)
+    saveDictOfDictToCSV(lemmasPath.replace(".json", ".csv"), lemmas, keyName ='lemma')
 
 def getFrequenciesOfFieldInAlignments(alignmentsForWord, field, sortIndex = False):
     frequenciesOfAlignments = {}
@@ -1461,10 +1461,10 @@ def zeroFillFrequencies(field_frequencies):
         }
     return filledFrequencies
 
-def fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove):
-    alignmentsForWordPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_by_orig.json'
-    filteredAlignmentsForWordPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_by_orig_{minAlignments}.json'
-    tWordsAlignmentsPath = f'./data/TrainingData/{type_}_{bibleType}_NT_alignments_all.json'
+def fetchAlignmentDataForTWordCached(trainingDataPath, type_, bibleType, minAlignments, remove):
+    alignmentsForWordPath = f'{trainingDataPath}/{type_}_{bibleType}_NT_alignments_by_orig.json'
+    filteredAlignmentsForWordPath = f'{trainingDataPath}/{type_}_{bibleType}_NT_alignments_by_orig_{minAlignments}.json'
+    tWordsAlignmentsPath = f'{trainingDataPath}/{type_}_{bibleType}_NT_alignments_all.json'
 
     recreateAlignmentsList = False
 
@@ -1536,7 +1536,7 @@ def fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove):
 
     return alignmentsForWord, filteredAlignmentsForWord
 
-def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
+def generateWarnings(warningsPath, type_, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
                      alignmentTargetWordsThreshold, origWordsBetweenThreshold,
                      targetWordsBetweenThreshold, alignmentFrequencyMinThreshold, tag=''):
     alignmentsToCheck = []
@@ -1583,14 +1583,13 @@ def generateWarnings(type_, bibleType, alignmentsForWord, alignmentOrigWordsThre
                 alignment.update(**warnings)
                 alignmentsToCheck.append(alignment)
 
-    basePath = f'./data/{type_}_{bibleType}_NT_warnings'
     if tag:
-        basePath += '_' + tag
-    jsonPath = basePath + '.json'
+        tag = '_' + tag
+    jsonPath = warningsPath.replace('.json', tag + '.json')
     file.writeJsonFile(jsonPath, alignmentsToCheck)
 
     df = pd.DataFrame(alignmentsToCheck)
-    csvPath = basePath + '.csv'
+    csvPath = jsonPath.replace('.json','.csv')
     warningData = df.drop(columns=['alignment_key']).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
     saveDataFrameToCSV(csvPath, warningData)
     return warningData
@@ -1667,11 +1666,11 @@ def getStatsForAlignments(alignmentsForWord):
         summary_[orginalWord] = summary
     return summary_
 
-def fetchAlignmentDataForAllTWordsCached(bibleType, types, minAlignments, remove):
+def fetchAlignmentDataForAllTWordsCached(trainingDataPath, bibleType, types, minAlignments, remove):
     alignmentsForWord = {}
     filteredAlignmentsForWord = {}
     for type_ in types:
-        alignmentsForWord_, filteredAlignmentsForWord_ = fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove)
+        alignmentsForWord_, filteredAlignmentsForWord_ = fetchAlignmentDataForTWordCached(trainingDataPath, type_, bibleType, minAlignments, remove)
         alignmentsForWord.update(**alignmentsForWord_)
         filteredAlignmentsForWord.update(**filteredAlignmentsForWord_)
     return alignmentsForWord, filteredAlignmentsForWord

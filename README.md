@@ -6,7 +6,7 @@ Future exploration:
 
 Tested using Python 3.9.1 & 3.8.5 for New Testament only.
 
-**Setup:**
+##Setup:
 - make sure node 15.5+ is installed.  Verify with: `node --version`
   - download installer from: `https://nodejs.org/`
 - make sure python 3 is installed.  Verify with: `python3 --version`
@@ -22,7 +22,7 @@ cd node_stuff
 npm i
 cd ..
 ```
-- then need to download specific resources from door43 catalog (change version numbers to match latest for resource):
+- if you want to manually run scripts (not necessary if you run download_resources_and_process_alignments.py), then need to download specific resources from door43 catalog (change version numbers to match latest for resource):
 ```
 cd node_stuff
 node ./downloadResource.js https://cdn.door43.org ../resources el-x-koine ugnt 0.16 ugnt
@@ -32,6 +32,10 @@ cd ..
 ```
 - or can download directly from repo: `node ./downloadResource.js --fullUrl https://git.door43.org/unfoldingWord/en_ult/archive/master.zip ~/resources en ult 18 bible`
 
+##Automatic Alignments Processing:
+- run: `python3 download_resources_and_process_alignments.py`
+
+##Manual Operations:
 **Create the DB from downloaded resources:**
 
 - see: db_load_alignments_from_resources.py
@@ -39,7 +43,7 @@ cd ..
 - configure paths at top of file before running, and sqlite database is created at dbPath.
 - tip: this can take over an hour to run, but seems to run much faster if you delete the .sqlite file before running python program.  A new database file will be created automatically.
 
-**Get lemmas used for tWords:**
+**Get lemmas and original language words used for tWords:**
 
 - see: fetch_translation_words.py
 - run: `python3 fetch_translation_words.py`

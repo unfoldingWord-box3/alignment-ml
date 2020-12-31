@@ -5,18 +5,21 @@ import utils.file_utils as file
 import time
 from datetime import timedelta
 from pathlib import Path
+from config import getConfig
 
 ############################################
-# configure these values for your system
+# get configuration
+cfg = getConfig() # configure values in config.js
 ############################################
 
-targetBibleType = 'en_ult'
-testament = 1
+targetBibleType = cfg['targetBibleType']
 home = str(Path.home())
 
-origLangPathGreek =  f'./resources/el-x-koine/bibles/ugnt/v0.16'
-origLangPathHebrew = f'./resources/hbo/bibles/uhb/v2.1.16'
-targetLanguagePath = f'./resources/en/bibles/ult/v18'
+origLangPathGreek =  cfg['origLangPathGreek']
+origLangPathHebrew = cfg['origLangPathHebrew']
+targetLanguagePath = cfg['targetLanguagePath']
+dbPath = cfg['dbPath']
+testamentStr = cfg['testamentStr']
 
 ############################################
 
@@ -24,8 +27,6 @@ original_words_table = db.original_words_table
 target_words_table = db.target_words_table
 alignment_table = db.alignment_table
 original_words_index_table = db.original_words_index_table
-dbPath = f'./data/{targetBibleType}_NT_alignments.sqlite'
-
 
 # items = db.fetchRecords(connection, original_words_index_table, '')
 # print (f"{len(items)} items after reading testament")
@@ -43,15 +44,14 @@ connections = db.initAlignmentDB(dbPath)
 connection = db.getConnectionForTable(connections, 'default')
 connection_owi = db.getConnectionForTable(connections, db.original_words_index_table)
 
-
 ########################
 
-# get alignments for NT
+# get alignments for testament
 start = time.time()
 db.getAlignmentsForTestament(connections, 1, targetLanguagePath, origLangPathGreek, targetBibleType, nestedFormat=True)
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
-print(f'Get NT alignments, Elapsed time: {elapsed}')
+print(f'Get {testamentStr} alignments, Elapsed time: {elapsed}')
 print(f"Size of alignments database {dbPath} is {file.getFileSize(dbPath)/1000/1000:.3f} MB")
 print(f"Size of original words index database {dbPathOwIdx} is {file.getFileSize(dbPathOwIdx)/1000/1000:.3f} MB")
 

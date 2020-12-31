@@ -7,16 +7,25 @@ from datetime import timedelta
 import pandas as pd
 import utils.db_utils as db
 import utils.file_utils as file
+import config
+
+############################################
+# get configuration
+cfg = config.getConfig() # configure values in config.js
+############################################
 
 type_ = 'kt'
-bibleType = 'en_ult'
+bibleType = cfg['targetBibleType']
+trainingDataPath = cfg['trainingDataPath']
+dataBasePath = cfg['dataBasePath']
+testamentStr = cfg['testamentStr']
 
 #############################
 
 start = time.time()
 minAlignments = 0
 remove = ['ὁ']
-alignmentsForWord, filteredAlignmentsForWord = db.fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove)
+alignmentsForWord, filteredAlignmentsForWord = db.fetchAlignmentDataForTWordCached(trainingDataPath, type_, bibleType, minAlignments, remove)
 
 #############################
 
@@ -27,7 +36,8 @@ alignmentTargetWordsThreshold = 5
 origWordsBetweenThreshold = 1
 targetWordsBetweenThreshold = 1
 alignmentFrequencyMinThreshold = 5
-warningData = db.generateWarnings(type_, bibleType, filteredAlignmentsForWord, alignmentOrigWordsThreshold,
+warningPath = f'{dataBasePath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
+warningData = db.generateWarnings(warningPath, type_, bibleType, filteredAlignmentsForWord, alignmentOrigWordsThreshold,
                                   alignmentTargetWordsThreshold, origWordsBetweenThreshold,
                                   targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
                                   tag=f'{minAlignments}')
@@ -35,7 +45,7 @@ print(f"Found {len(warningData)} alignments to check - min threshold {minAlignme
 
 #############################
 
-basePath = f'./data/{type_}_{bibleType}_NT_summary'
+basePath = f'{dataBasePath}/{type_}_{bibleType}_{testamentStr}_summary'
 summary = db.getStatsForAlignments(filteredAlignmentsForWord)
 df = pd.DataFrame(summary)
 csvPath = basePath + '.csv'
@@ -45,12 +55,14 @@ print(f"saved summary of {len(summary)} original words to {csvPath}")
 #############################
 
 print(f"Testing all tWords {type_}")
+type_ = 'all'
 minAlignments = 0
 types = ['kt', 'other', 'names']
-alignmentsForWord, filteredAlignmentsForWord0 = db.fetchAlignmentDataForAllTWordsCached(bibleType, types, minAlignments, remove)
+alignmentsForWord, filteredAlignmentsForWord0 = db.fetchAlignmentDataForAllTWordsCached(trainingDataPath, bibleType, types, minAlignments, remove)
 print(f"Original Language Alignments: {len(filteredAlignmentsForWord)}")
 
-warningData2 = db.generateWarnings(type_, bibleType, filteredAlignmentsForWord0, alignmentOrigWordsThreshold,
+warningPath = f'{dataBasePath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
+warningData2 = db.generateWarnings(warningPath, type_, bibleType, filteredAlignmentsForWord0, alignmentOrigWordsThreshold,
                                    alignmentTargetWordsThreshold, origWordsBetweenThreshold,
                                    targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
                                    tag=f'{minAlignments}')
@@ -59,7 +71,7 @@ print(f"Found {len(warningData2)} alignments to check - min threshold {minAlignm
 #############################
 
 type_ = 'all'
-basePath = f'./data/{type_}_{bibleType}_NT_summary'
+basePath = f'{dataBasePath}/{type_}_{bibleType}_{testamentStr}_summary'
 summary = db.getStatsForAlignments(filteredAlignmentsForWord0)
 df = pd.DataFrame(summary)
 csvPath = basePath + '.csv'
