@@ -14,7 +14,7 @@ bibleType = 'en_ult'
 #############################
 
 start = time.time()
-minAlignments = 40
+minAlignments = 0
 remove = ['ὁ']
 alignmentsForWord, filteredAlignmentsForWord = db.fetchAlignmentDataForTWordCached(type_, bibleType, minAlignments, remove)
 
@@ -35,6 +35,15 @@ print(f"Found {len(warningData)} alignments to check - min threshold {minAlignme
 
 #############################
 
+basePath = f'./data/{type_}_{bibleType}_NT_summary'
+summary = db.getStatsForAlignments(filteredAlignmentsForWord)
+df = pd.DataFrame(summary)
+csvPath = basePath + '.csv'
+summary_ = db.saveDictOfDictToCSV(csvPath, df)
+print(f"saved summary of {len(summary)} original words to {csvPath}")
+
+#############################
+
 print(f"Testing all tWords {type_}")
 minAlignments = 0
 types = ['kt', 'other', 'names']
@@ -49,6 +58,7 @@ print(f"Found {len(warningData2)} alignments to check - min threshold {minAlignm
 
 #############################
 
+type_ = 'all'
 basePath = f'./data/{type_}_{bibleType}_NT_summary'
 summary = db.getStatsForAlignments(filteredAlignmentsForWord0)
 df = pd.DataFrame(summary)
