@@ -17,7 +17,7 @@ cfg = config.getConfig() # configure values in config.js
 type_ = 'kt'
 bibleType = cfg['targetBibleType']
 trainingDataPath = cfg['trainingDataPath']
-dataBasePath = cfg['dataBasePath']
+baseDataPath = cfg['baseDataPath']
 testamentStr = cfg['testamentStr']
 
 #############################
@@ -36,7 +36,7 @@ alignmentTargetWordsThreshold = 5
 origWordsBetweenThreshold = 1
 targetWordsBetweenThreshold = 1
 alignmentFrequencyMinThreshold = 5
-warningPath = f'{dataBasePath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
+warningPath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
 warningData = db.generateWarnings(warningPath, type_, bibleType, filteredAlignmentsForWord, alignmentOrigWordsThreshold,
                                   alignmentTargetWordsThreshold, origWordsBetweenThreshold,
                                   targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
@@ -45,7 +45,7 @@ print(f"Found {len(warningData)} alignments to check - min threshold {minAlignme
 
 #############################
 
-basePath = f'{dataBasePath}/{type_}_{bibleType}_{testamentStr}_summary'
+basePath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_summary'
 summary = db.getStatsForAlignments(filteredAlignmentsForWord)
 df = pd.DataFrame(summary)
 csvPath = basePath + '.csv'
@@ -61,7 +61,7 @@ types = ['kt', 'other', 'names']
 alignmentsForWord, filteredAlignmentsForWord0 = db.fetchAlignmentDataForAllTWordsCached(trainingDataPath, bibleType, types, minAlignments, remove)
 print(f"Original Language Alignments: {len(filteredAlignmentsForWord)}")
 
-warningPath = f'{dataBasePath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
+warningPath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
 warningData2 = db.generateWarnings(warningPath, type_, bibleType, filteredAlignmentsForWord0, alignmentOrigWordsThreshold,
                                    alignmentTargetWordsThreshold, origWordsBetweenThreshold,
                                    targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
@@ -71,7 +71,7 @@ print(f"Found {len(warningData2)} alignments to check - min threshold {minAlignm
 #############################
 
 type_ = 'all'
-basePath = f'{dataBasePath}/{type_}_{bibleType}_{testamentStr}_summary'
+basePath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_summary'
 summary = db.getStatsForAlignments(filteredAlignmentsForWord0)
 df = pd.DataFrame(summary)
 csvPath = basePath + '.csv'

@@ -1,4 +1,12 @@
-# shared configuration file
+# shared configuration file\
+# for hi - currently only 2 books aligned:
+
+# Size of alignments database ./data/hi/glt/alignments_NT.sqlite is 0.582 MB
+# Size of original words index database ./data/hi/glt/alignments_NT.ow_index.sqlite is 0.475 MB
+# 1385 items in target_words_table
+# 878 items in original_words_table
+# 514 items in original_words_index_table
+# 875 items in alignment_table
 
 import utils.db_utils as db
 import utils.file_utils as file
@@ -15,14 +23,14 @@ home = str(Path.home())
 def getConfig():
     newTestament = True
     testamentStr = "NT" if newTestament else "OT"
-    targetLang = "en"
-    targetBibleId = "ult"
+    targetLang = "hi"
+    targetBibleId = "glt"
     tWordsId = "tw"
     tWordsResourceName = 'bible'
     origLangVersionGreek = '0.16'
     origLangVersionHebrew = '2.1.16'
-    targetLangBibleVersion = '18'
-    targetLangTWordsVersion = '19'
+    targetLangBibleVersion = '2'
+    targetLangTWordsVersion = '16.2'
     origLangIdGreek = 'el-x-koine'
     origLangIdHebrew = "hbo"
     origLangId = origLangIdGreek if newTestament else origLangIdHebrew
@@ -37,11 +45,11 @@ def getConfig():
     targetBibleLangResourceUrl = 'https://cdn.door43.org'
     targetTWordsLangResourceUrl = 'https://cdn.door43.org'
 
+    baseDataPath = f'./data/{targetLang}/{targetBibleId}'
+    dbPath = f'{baseDataPath}/alignments_{testamentStr}.sqlite'
     resourceBasePath = './resources'
-    dataBasePath = f'./data/{targetLang}/{targetBibleId}'
     tWordsDataFolder = f'./data/{targetLang}/{targetBibleId}/tWords'
     trainingDataPath = f'./data/{targetLang}/{targetBibleId}/TrainingData'
-    dbPath = f'{dataBasePath}/alignments_{testamentStr}.sqlite'
 
     origLangPathGreek =  f'{resourceBasePath}/{origLangIdGreek}/bibles/{origLangBibleIdGreek}/v{origLangVersionGreek}'
     origLangPathHebrew = f'{resourceBasePath}/{origLangIdHebrew}/bibles/{origLangBibleIdHebrew}/v{origLangVersionHebrew}'
@@ -53,7 +61,7 @@ def getConfig():
     baseLangResourceUrl = 'https://cdn.door43.org'
 
     file.ensureFolderExists(resourceBasePath)
-    file.ensureFolderExists(dataBasePath)
+    file.ensureFolderExists(baseDataPath)
     file.ensureFolderExists(tWordsDataFolder)
     file.ensureFolderExists(trainingDataPath)
 
@@ -62,7 +70,7 @@ def getConfig():
         'testamentStr': testamentStr,
         'targetBibleType': targetBibleType,
         'resourceBasePath': resourceBasePath,
-        'dataBasePath': dataBasePath,
+        'baseDataPath': baseDataPath,
         'origLangPathGreek': origLangPathGreek,
         'origLangPathHebrew': origLangPathHebrew,
         'targetLanguagePath': targetLanguagePath,

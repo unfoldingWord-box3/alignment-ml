@@ -29,5 +29,4 @@ system.printSystemInfo()
 print(f"Saving resources to {resourceBasePath}")
 system.downloadAndProcessResource(origLangResourceUrl, resourceBasePath, origLangId, origLangBibleId, origLangVersion, origLangBibleId)
 system.downloadAndProcessResource(targetBibleLangResourceUrl, resourceBasePath, targetLang, targetBibleId, targetLangBibleVersion, targetBibleId)
-# https://cdn.door43.org ../resources en tw 19 bible
 system.downloadAndProcessResource(targetTWordsLangResourceUrl, resourceBasePath, targetLang, tWordsId, targetLangTWordsVersion, tWordsResourceName)
