@@ -1654,7 +1654,12 @@ def getStatsForAlignments(alignmentsForWord):
             targetWordsBetween.append(alignment['targetWordsBetween'])
 
         alignmentFrequency = pd.Series(alignmentText).value_counts()
-        summary['alignmentFrequency%'] = dict(alignmentFrequency / count * 100)
+        alignFreqPc = dict(alignmentFrequency / count * 100)
+        summary['alignmentFrequency%'] = alignFreqPc
+        alignFreq = dict(alignmentFrequency)
+        alignFreq = list(map(lambda key: alignFreq[key], alignFreq.keys()))
+        summary['alignmentFreq'] = alignFreq
+        summary.update(**getStatsForWord('alignmentFreq', alignFreq))
         summary.update(**getStatsForWord('origWordsCount', origWordsCount))
         summary.update(**getStatsForWord('origWordsBetween', origWordsBetween))
         summary.update(**getStatsForWord('targetWordsCount', targetWordsCount))
