@@ -1313,10 +1313,13 @@ def findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath = None):
             return None, 0 # if we already checked, skip
 
         words = findWord(connection, origWord, searchOriginal = True, searchLemma = False, caseInsensitive = True )
-        word = words[0]
-        count = len(words)
-        origWords[origWord] = word
-        return word, count
+        if len(words):
+            word = words[0]
+            count = len(words)
+            origWords[origWord] = word
+            return word, count
+        else:
+            return None, None
 
     lemmas = {}
     keys = list(data.keys())

@@ -19,7 +19,7 @@ const ResourcesDownloadHelpers = require('tc-source-content-updater').resourcesD
  * @param {String} subject
  * @return {Boolean} true if success
  */
-const getResource = async (downloadUrl, destPath, languageId, resourceId, version, subject) => {
+const getResource = async (downloadUrl, destPath, languageId, resourceId, version, subject, ignoreMissingProjects) => {
   let success = false;
   const resource = {
     languageId,
@@ -27,6 +27,7 @@ const getResource = async (downloadUrl, destPath, languageId, resourceId, versio
     downloadUrl,
     version,
     subject,
+    ignoreMissingProjects,
   };
   const downloadErrors = [];
 
@@ -120,9 +121,10 @@ if (require.main === module) {
   const version = otherParameters[4];
   const resource_name = otherParameters[5];
   const fullUrl = findFlag(flags, '--fullUrl');
+  const ignoreMissingProjects = findFlag(flags, '--ignoreMissingProjects');
+  // console.log(`ignoreMissingProjects = ${ignoreMissingProjects}`)
 
   const importsFolder = destinationFolder + '/imports';
-
   let subject = 'Bible';
 
   switch (resourceId) {
@@ -141,7 +143,7 @@ if (require.main === module) {
     default:
       subject = 'Bible';
       break;
-  };
+  }
   console.log(`Using subject ${subject}`);
 
   try {
@@ -163,7 +165,7 @@ if (require.main === module) {
   }
   console.log(`Downloading: from ${urlOfResource}`);
 
-  getResource(urlOfResource, destinationFolder, languageId, resourceId, version, subject).then(success => {
+  getResource(urlOfResource, destinationFolder, languageId, resourceId, version, subject, ignoreMissingProjects).then(success => {
     process.exitCode = success ? 0 : 1; // set exit code, 0 = no error
   }).catch(err => {
     console.log('error', err);

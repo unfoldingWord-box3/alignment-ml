@@ -20,7 +20,7 @@ def printSystemInfo():
 def createNodeDownloadCommand(cfg, base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name):
     # [flags] base_url_of_resource destination_folder languageId, resourceId, version
     baseLangResourceUrl = cfg['baseLangResourceUrl']
-    cmd = ['node','./downloadResource.js']
+    cmd = ['node','./downloadResource.js', '--ignoreMissingProjects']
     if base_url_of_resource != baseLangResourceUrl:
         cmd.append('--fullUrl')
     cmd.extend([base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name])
