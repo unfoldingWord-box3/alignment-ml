@@ -16,6 +16,8 @@ targetLang = cfg['targetLang']
 bibleType = cfg['targetBibleType']
 newTestament = cfg['newTestament']
 
+targetLang = cfg['targetLang']
+targetBibleId = cfg['targetBibleId']
 tWordsTargetPath = cfg['tWordsTargetPath']
 tWordsTypeList = cfg['tWordsTypeList']
 tWordsGreekPath = cfg['tWordsGreekPath']
@@ -37,8 +39,8 @@ if tWordsUseEnUlt:
     enUltPath = './data/en/ult/tWords'
     for type_ in tWordsTypeList:
         for ext in ['lemmas.csv', 'lemmas.json', 'quotes.json']:
-            source = f'{enUltPath}/{type_}_en_ult_NT_{ext}'
-            dest = f'{tWordsDataFolder}/{type_}_ru_rlob_NT_{ext}'
+            source = f'{enUltPath}/{type_}_en_ult_{testamentStr}_{ext}'
+            dest = f'{tWordsDataFolder}/{type_}_{targetLang}_{targetBibleId}_{testamentStr}_{ext}'
             file.copyFile(source, dest, ifExists=False, overWrite=True)
 
 else:
