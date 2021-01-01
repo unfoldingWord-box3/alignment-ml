@@ -5,7 +5,7 @@ import utils.file_utils as file
 import time
 from datetime import timedelta
 from pathlib import Path
-import config_en
+import configs.config_en_unfoldingword as config_en
 
 home = str(Path.home())
 
@@ -14,7 +14,7 @@ home = str(Path.home())
 ############################################
 
 def getConfig():
-    return config_en.getConfig() # look in config_hi.js for configuration
+    return config_en.getConfig() # look in the config referenced in import for specific configuration
 
 def getTwordsPath(type_, bibleType, testamentStr=''):
     cfg = getConfig()

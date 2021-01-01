@@ -2,7 +2,6 @@ import sys
 import os
 import platform
 import subprocess
-from config import getConfig
 
 
 def printSystemInfo():
@@ -18,9 +17,8 @@ def printSystemInfo():
     print(f"  platform.python_implementation():  {platform.python_implementation()}")
     print(f"  platform.system():  {platform.system()}\n")
 
-def createNodeDownloadCommand(base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name):
+def createNodeDownloadCommand(cfg, base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name):
     # [flags] base_url_of_resource destination_folder languageId, resourceId, version
-    cfg = getConfig()
     baseLangResourceUrl = cfg['baseLangResourceUrl']
     cmd = ['node','./downloadResource.js']
     if base_url_of_resource != baseLangResourceUrl:
@@ -28,8 +26,8 @@ def createNodeDownloadCommand(base_url_of_resource, destination_folder, language
     cmd.extend([base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name])
     return cmd
 
-def downloadAndProcessResource(base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name):
-    cmd = createNodeDownloadCommand(base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name)
+def downloadAndProcessResource(cfg, base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name):
+    cmd = createNodeDownloadCommand(cfg, base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name)
     runNodeCommand(cmd)
 
 def createNodeUsfmConvertCommand(sourceUsfmPath, outputJsonPath):

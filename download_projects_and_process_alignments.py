@@ -36,8 +36,8 @@ start = time.time()
 
 # download original language bible and tW
 print(f"Saving resources to {resourceBasePath}")
-system.downloadAndProcessResource(origLangResourceUrl, resourceBasePath, origLangId, origLangBibleId, origLangVersion, origLangBibleId)
-system.downloadAndProcessResource(targetTWordsLangResourceUrl, resourceBasePath, targetLang, tWordsId, targetLangTWordsVersion, tWordsResourceName)
+system.downloadAndProcessResource(cfg, origLangResourceUrl, resourceBasePath, origLangId, origLangBibleId, origLangVersion, origLangBibleId)
+system.downloadAndProcessResource(cfg, targetTWordsLangResourceUrl, resourceBasePath, targetLang, tWordsId, targetLangTWordsVersion, tWordsResourceName)
 
 ############################################
 
