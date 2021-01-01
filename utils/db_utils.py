@@ -615,7 +615,7 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
 
     if missingWord:
         print(f"saveTargetWordsForAlignment - ignoring broken alignment in {bookId}-{chapter}:{verse}")
-        return None
+        return None, None, None
 
     alignment_ = {
         'id': alignmentId,

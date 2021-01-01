@@ -96,6 +96,8 @@ def doesFolderExist(path_):
 def moveFile(srcPath, destPath, ifExists=False, overWrite=False):
     if overWrite and os.path.isfile(destPath):
         print(f"moveFile - removing {destPath}")
+        os.remove(destPath)
+
     if ifExists and not os.path.isfile(srcPath):
         print(f"moveFile - file not found {srcPath}")
         return
