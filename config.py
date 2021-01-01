@@ -5,7 +5,7 @@ import utils.file_utils as file
 import time
 from datetime import timedelta
 from pathlib import Path
-import configs.config_ru as config_ru
+import configs.config_hi as config_hi
 
 home = str(Path.home())
 
@@ -14,7 +14,7 @@ home = str(Path.home())
 ############################################
 
 def getConfig():
-    return config_ru.getConfig() # look in the config referenced in import for specific configuration
+    return config_hi.getConfig() # look in the config referenced in import for specific configuration
 
 def getTwordsPath(type_, bibleType, testamentStr=''):
     cfg = getConfig()

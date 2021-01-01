@@ -40,10 +40,11 @@ def getConfig():
     origLangVersion = origLangVersionGreek if newTestament else origLangVersionHebrew
     targetBibleType = f'{targetLang}_{targetBibleId}'
     tWordsTypeList = ['kt', 'names', 'other'] # categories of tWords
+    tWordsUseEnUlt = True
 
     origLangResourceUrl = 'https://cdn.door43.org'
-    targetBibleLangResourceUrl = 'https://cdn.door43.org'
-    targetTWordsLangResourceUrl = 'https://cdn.door43.org'
+    targetBibleLangResourceUrl = 'https://git.door43.org/STR/hi_glt/archive/master.zip'
+    targetTWordsLangResourceUrl = 'https://git.door43.org/STR/hi_tw/archive/master.zip'
 
     baseDataPath = f'./data/{targetLang}/{targetBibleId}'
     dbPath = f'{baseDataPath}/alignments_{testamentStr}.sqlite'
@@ -95,7 +96,8 @@ def getConfig():
         'targetLangBibleVersion': targetLangBibleVersion,
         'targetLangTWordsVersion': targetLangTWordsVersion,
         'tWordsId': tWordsId,
-        'tWordsResourceName': tWordsResourceName
+        'tWordsResourceName': tWordsResourceName,
+        'tWordsUseEnUlt': tWordsUseEnUlt
     }
     return cfg
 
