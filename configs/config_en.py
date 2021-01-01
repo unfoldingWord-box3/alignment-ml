@@ -39,10 +39,10 @@ def getConfig():
     projectsUrl = 'https://git.door43.org/lrsallee'
 
     resourceBasePath = './resources'
-    dataBasePath = f'./data/{targetLang}/{targetBibleId}'
+    baseDataPath = f'./data/{targetLang}/{targetBibleId}'
     tWordsDataFolder = f'./data/{targetLang}/{targetBibleId}/tWords'
     trainingDataPath = f'./data/{targetLang}/{targetBibleId}/TrainingData'
-    dbPath = f'{dataBasePath}/alignments_{testamentStr}.sqlite'
+    dbPath = f'{baseDataPath}/alignments_{testamentStr}.sqlite'
 
     origLangPathGreek =  f'{resourceBasePath}/{origLangIdGreek}/bibles/{origLangBibleIdGreek}/v{origLangVersionGreek}'
     origLangPathHebrew = f'{resourceBasePath}/{origLangIdHebrew}/bibles/{origLangBibleIdHebrew}/v{origLangVersionHebrew}'
@@ -55,7 +55,7 @@ def getConfig():
     baseLangResourceUrl = 'https://cdn.door43.org'
 
     file.ensureFolderExists(resourceBasePath)
-    file.ensureFolderExists(dataBasePath)
+    file.ensureFolderExists(baseDataPath)
     file.ensureFolderExists(tWordsDataFolder)
     file.ensureFolderExists(trainingDataPath)
 
@@ -64,7 +64,7 @@ def getConfig():
         'testamentStr': testamentStr,
         'targetBibleType': targetBibleType,
         'resourceBasePath': resourceBasePath,
-        'dataBasePath': dataBasePath,
+        'baseDataPath': baseDataPath,
         'origLangPathGreek': origLangPathGreek,
         'origLangPathHebrew': origLangPathHebrew,
         'targetLanguagePath': targetLanguagePath,
