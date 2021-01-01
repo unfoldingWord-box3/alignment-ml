@@ -3,6 +3,7 @@ import time
 import requests
 import json
 from pathlib import Path
+from shutil import copy2
 
 def fetchFile(url):
     print('fetchFile ' + url)
@@ -103,6 +104,18 @@ def moveFile(srcPath, destPath, ifExists=False, overWrite=False):
         return
 
     os.rename(srcPath, destPath)
+
+def copyFile(srcPath, destPath, ifExists=False, overWrite=False):
+    if overWrite and os.path.isfile(destPath):
+        print(f"copyFile - removing {destPath}")
+        os.remove(destPath)
+
+    if ifExists and not os.path.isfile(srcPath):
+        print(f"copyFile - file not found {srcPath}")
+        return
+
+    copy2(srcPath, destPath)
+
 
 def makeFolder(outputFolder):
     if not os.path.isdir(outputFolder):

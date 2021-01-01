@@ -22,6 +22,7 @@ tWordsGreekPath = cfg['tWordsGreekPath']
 dbPath = cfg['dbPath']
 tWordsDataFolder = cfg['tWordsDataFolder']
 testamentStr = cfg['testamentStr']
+tWordsUseEnUlt = cfg['tWordsUseEnUlt'] if 'tWordsUseEnUlt' in cfg else False
 
 connections = db.initAlignmentDB(dbPath)
 connection = db.getConnectionForTable(connections, 'default')
@@ -31,17 +32,30 @@ start = time.time()
 
 ################################
 
-for type_ in tWordsTypeList:
-    bible.saveTwordsQuotes(tWordsDataFolder, tWordsGreekPath, tWordsTargetPath, type_, bibleType, newTestament)
+if tWordsUseEnUlt:
+    print(f"Using tword quotes from en_ult")
+    enUltPath = './data/en/ult/tWords'
+    for type_ in tWordsTypeList:
+        for ext in ['lemmas.csv', 'lemmas.json', 'quotes.json']:
+            source = f'{enUltPath}/{type_}_en_ult_NT_{ext}'
+            dest = f'{tWordsDataFolder}/{type_}_ru_rlob_NT_{ext}'
+            file.copyFile(source, dest, ifExists=False, overWrite=True)
 
-################################
+else:
 
-lexiconPath = cfg['greekLexiconPath']
-for type_ in tWordsTypeList:
-    quotesPath, lemmasPath = config.getTwordsPath(type_, bibleType)
-    db.findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath)
+    ################################
 
-################################
+    for type_ in tWordsTypeList:
+        bible.saveTwordsQuotes(tWordsDataFolder, tWordsGreekPath, tWordsTargetPath, type_, bibleType, newTestament)
+
+    ################################
+
+    lexiconPath = cfg['greekLexiconPath']
+    for type_ in tWordsTypeList:
+        quotesPath, lemmasPath = config.getTwordsPath(type_, bibleType)
+        db.findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath)
+
+    ################################
 
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))

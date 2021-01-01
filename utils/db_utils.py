@@ -630,10 +630,19 @@ def findWordsForAlignment(connection, bookId, chapter, verse, alignment, alignme
     }
     return alignment_, originalWords, targetWords
 
+def getNextAlignmentId(connection, alignment_table):
+    query = f"SELECT * FROM {alignment_table} ORDER BY id DESC LIMIT 1"
+    alignments = execute_query_single(connection, query)
+    if alignments and len(alignments):
+        lastAlignmentId = alignments[0]
+        return lastAlignmentId + 1
+
+    return 1
+
 def saveAlignmentsForVerse(connection, alignmentsIndex, bookId, chapter, verse, verseAlignments):
     alignmentsFound = False
     numAlignments = len(verseAlignments)
-    start = getRowCount(connection, alignment_table) + 1
+    start = getNextAlignmentId(connection, alignment_table)
 
     for i in range(numAlignments):
         verseAlignment = verseAlignments[i]
