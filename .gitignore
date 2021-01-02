@@ -26,7 +26,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-data/
 
 
 # PyInstaller
@@ -129,3 +128,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea/
+/node_stuff/node_modules/
+/resources/
+/data/
+/data/AlignmentsFromProjects/

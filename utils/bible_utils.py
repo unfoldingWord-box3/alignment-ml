@@ -1,5 +1,6 @@
 import os
-import utils.file_utils
+import utils.file_utils as file
+import utils.system_utils as system
 
 BIBLE_BOOKS = {
     'oldTestament': {
@@ -1490,25 +1491,120 @@ def getBookList(newTestament):
     return outputList
 
 def downloadChapterAlignments(userUrl, bibleType, bookId, chapter, outputBasePath):
-    url = utils.file_utils.getBibleUrl(userUrl, bibleType, bookId, chapter)
-    outputFolder = outputBasePath + '/' + utils.file_utils.getRepoName(bibleType, bookId)
-    utils.file_utils.makeFolder(outputFolder)
+    url = file.getBibleUrl(userUrl, bibleType, bookId, chapter)
+    outputFolder = outputBasePath + '/' + file.getRepoName(bibleType, bookId)
+    file.makeFolder(outputFolder)
     outputPath = outputFolder + '/' + chapter + '.json'
     if not os.path.isfile(outputPath):
-        utils.file_utils.downloadFile(url, outputPath)
+        file.downloadJsonFile(url, outputPath)
     else:
         print('file already exists, skipping ' + outputPath)
 
 def downloadBookAlignments(userUrl, bibleType, bookId, outputBasePath):
-    chapters = getChaptersForBook(bookId)
-    for chapter in chapters:
-        print('downloadBookAlignments downloading chapter ' + chapter)
-        downloadChapterAlignments(userUrl, bibleType, bookId, chapter, outputBasePath)
+    # https://git.door43.org/lrsallee/en_ult_act_book/raw/branch/master/en_ult_act_book.usfm
+    url = file.getBookUrl(userUrl, bibleType, bookId)
+    repoName = file.getRepoName(bibleType, bookId)
+    outputFolder = outputBasePath + '/' + repoName
+    file.ensureFolderExists(outputFolder)
+    usfmDestPath = outputFolder + '/' + repoName + '.usfm'
+    jsonOutput = outputBasePath + '/' + bookId
+    if not os.path.isfile(usfmDestPath):
+        try:
+            file.downloadFile(url, usfmDestPath)
+            file.ensureFolderExists(jsonOutput)
+            system.convertUsfmToJson(usfmDestPath, jsonOutput)
+        except:
+            print(f'download of {url} failed')
+    else:
+        print('file already exists, skipping ' + usfmDestPath)
+
+    file.removeEmptyFolder(outputFolder) # don't leave empty folders behind
 
 def downloadTestamentAlignments(userUrl, bibleType, newTestament, outputBasePath):
-    utils.file_utils.makeFolder(outputBasePath)
+    file.ensureFolderExists(outputBasePath)
     books = getBookList(newTestament)
     for bookId in books:
         print('downloadTestamentAlignments downloading book ' + bookId)
         downloadBookAlignments(userUrl, bibleType, bookId, outputBasePath)
 
+def loadChapterAlignments(inputBasePath, bibleType, bookId, chapter):
+    inputFolder = inputBasePath + '/' + file.getRepoName(bibleType, bookId)
+    inputPath = inputFolder + '/' + chapter + '.json'
+    print(f"loadChapterAlignments - {inputPath}")
+    if os.path.isfile(inputPath):
+        data = file.readJsonFile(inputPath)
+    else:
+        print('file missing ' + inputPath)
+        data = ''
+    return data
+
+def loadChapterAlignmentsFromResource(inputBasePath, bookId, chapter):
+    inputPath = f"{inputBasePath}/{bookId}/{chapter}.json"
+    print(f"loadChapterAlignmentsFromResource - {inputPath}")
+    if os.path.isfile(inputPath):
+        data = file.readJsonFile(inputPath)
+    else:
+        print('file missing ' + inputPath)
+        data = ''
+    return data
+
+def getQuotesForBook(tWordsGreekPath, tWordsTargetPath, bookId, tWordsType):
+    tWordsPath = f"{tWordsGreekPath}/{tWordsType}/groups/{bookId}"
+    tWordsTypePath = f"{tWordsTargetPath}/{tWordsType}/index.json"
+    wordsIndex = file.readJsonFile(tWordsTypePath)
+    tWordsListForType = list(map(lambda word: word['id'], wordsIndex))
+    tWordsListForType.sort()
+
+    quotesMap = {}
+    for tWord in tWordsListForType:
+        tWordPath = f"{tWordsPath}/{tWord}.json"
+        if os.path.isfile(tWordPath):
+            wordInstances = file.readJsonFile(tWordPath)
+            # print(f"in {tWordPath} found {len(wordInstances)} items:")
+            foundQuotes = []
+            for item in wordInstances:
+                quote = item['contextId']['quote']
+                if isinstance(quote, str): # we will skip quote arrays since it makes things too complicated
+                    # print(f"Quote = '{quote}'")
+                    if not quote in foundQuotes:
+                        # print(f"found Quote = '{quote}'")
+                        foundQuotes.append(quote)
+            # print(f"for {tWord}, found unique Quotes = '{foundQuotes}' out of {len(wordInstances)}")
+            if len(foundQuotes):
+                quotesMap[tWord] = foundQuotes
+        # else:
+        #     print(f"{tWordPath} was not found")
+    # print(f"Quotes found in {bookId}: {quotesMap}")
+    return quotesMap
+
+def getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType, newTestament = True):
+    quotesFound = {}
+    books = getBookList(newTestament)
+    # books = ['tit', 'eph']
+    for bookId in books:
+        # print(f"searching: {bookId}")
+        quotesFound_ = getQuotesForBook(tWordsGreekPath, tWordsTargetPath, bookId, tWordsType)
+        for keyTerm, quotes in quotesFound_.items():
+            if keyTerm in quotesFound:
+                # print(f"Merging {keyTerm}: {quotes}")
+                currentQuotes = quotesFound[keyTerm]
+                for quote in quotes:
+                    if not quote in currentQuotes:
+                        currentQuotes.append(quote)
+            else:
+                # print(f"Adding {keyTerm}: {quotes}")
+                quotesFound[keyTerm] = quotes
+    # print(f"{len(quotesFound.keys())} unique quotes found in testament: {quotesFound}")
+    return quotesFound
+
+def saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, tWordsType, bibleType, newTestament=True):
+    quotesFound = getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType, newTestament)
+    if newTestament:
+        testament = 'NT'
+    else:
+        testament = 'OT'
+    print(f"{len(quotesFound.keys())} unique quotes found in {testament}: {quotesFound}")
+    outputPath = f"{outputFolder}/{tWordsType}_{bibleType}_{testament}_quotes.json"
+    print(f"saving quotes to: {outputPath}")
+    file.writeJsonFile(outputPath, quotesFound)
+    return quotesFound
