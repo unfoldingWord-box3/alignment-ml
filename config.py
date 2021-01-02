@@ -5,7 +5,13 @@ import utils.file_utils as file
 import time
 from datetime import timedelta
 from pathlib import Path
-import configs.config_hi as config_hi
+
+# uncomment the source you want to use:
+
+import configs.config_ru as config_ # ru from ru_tw
+# import configs.config_en_unfoldingword as config_ # en from unfoldingWord
+# import configs.config_en_catalog as config_ # en from Door43 catalog: cdn.door43.org
+# import configs.config_hi_str as config_ # hi STR
 
 home = str(Path.home())
 
@@ -14,7 +20,7 @@ home = str(Path.home())
 ############################################
 
 def getConfig():
-    return config_hi.getConfig() # look in the config referenced in import for specific configuration
+    return config_.getConfig() # look in the config referenced in import for specific configuration
 
 def getTwordsPath(type_, bibleType, testamentStr=''):
     cfg = getConfig()

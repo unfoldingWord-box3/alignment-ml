@@ -33,6 +33,7 @@ cd ..
 - or can download directly from repo: `node ./downloadResource.js --fullUrl https://git.door43.org/unfoldingWord/en_ult/archive/master.zip ~/resources en ult 18 bible`
 
 ##Automatic Alignments Processing:
+- select download source by changing config.py to point to appropriate config file.
 - run: `python3 download_resources_and_process_alignments.py`
 
 ##Manual Operations:
