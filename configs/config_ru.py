@@ -33,6 +33,7 @@ def getConfig():
     targetBibleType = f'{targetLang}_{targetBibleId}'
     tWordsTypeList = ['kt', 'names', 'other'] # categories of tWords
     tWordsUseEnUlt = True
+    processTWordsAlignments = True
     processAllAlignments = True
 
     origLangResourceUrl = 'https://git.door43.org/unfoldingWord/el-x-koine_ugnt/archive/master.zip'
@@ -95,7 +96,8 @@ def getConfig():
         'projectsUrl': projectsUrl,
         'origLangPath': origLangPath,
         'tWordsUseEnUlt': tWordsUseEnUlt,
-        'processAllAlignments': processAllAlignments
+        'processAllAlignments': processAllAlignments,
+        'processTWordsAlignments': processTWordsAlignments
     }
     return cfg
 

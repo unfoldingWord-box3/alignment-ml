@@ -22,7 +22,8 @@ baseDataPath = cfg['baseDataPath']
 testamentStr = cfg['testamentStr']
 tWordsTypeList = cfg['tWordsTypeList']
 dbPath = cfg['dbPath']
-processAllAlignments = cfg['processAllAlignments'] if 'processAllAlignments' in cfg else False
+processAllAlignments = cfg['processAllAlignments'] if 'processAllAlignments' in cfg else False # default to False
+processTWordsAlignments = cfg['processTWordsAlignments'] if 'processTWordsAlignments' in cfg else True # default to True
 
 #############################
 
@@ -72,9 +73,9 @@ if processAllAlignments:
     origWordsBetweenThreshold = 1
     targetWordsBetweenThreshold = 1
     alignmentFrequencyMinThreshold = 5
-    type_ = 'all_alignments'
-    warningPath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
-    warningData = db.generateWarnings(warningPath, type_, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
+    type = 'all_alignments'
+    warningPath = f'{baseDataPath}/{type}_{bibleType}_{testamentStr}_warnings.json'
+    warningData = db.generateWarnings(warningPath, type, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
                                       alignmentTargetWordsThreshold, origWordsBetweenThreshold,
                                       targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
                                       tag=f'{minAlignments}')
@@ -91,7 +92,7 @@ if processAllAlignments:
 
     #############################
 
-else:
+if processTWordsAlignments:
 
     #############################
 

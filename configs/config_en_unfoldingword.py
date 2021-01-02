@@ -32,6 +32,8 @@ def getConfig():
     origLangVersion = origLangVersionGreek if newTestament else origLangVersionHebrew
     targetBibleType = f'{targetLang}_{targetBibleId}'
     tWordsTypeList = ['kt', 'names', 'other'] # categories of tWords
+    processTWordsAlignments = True
+    processAllAlignments = True
 
     origLangResourceUrl = 'https://git.door43.org/unfoldingWord/el-x-koine_ugnt/archive/master.zip'
     targetBibleLangResourceUrl = 'https://git.door43.org/unfoldingWord/en_ult/archive/master.zip'
@@ -91,7 +93,9 @@ def getConfig():
         'tWordsId': tWordsId,
         'tWordsResourceName': tWordsResourceName,
         'projectsUrl': projectsUrl,
-        'origLangPath': origLangPath
+        'origLangPath': origLangPath,
+        'processAllAlignments': processAllAlignments,
+        'processTWordsAlignments': processTWordsAlignments
     }
     return cfg
 
