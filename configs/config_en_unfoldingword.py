@@ -34,6 +34,11 @@ def getConfig():
     tWordsTypeList = ['kt', 'names', 'other'] # categories of tWords
     processTWordsAlignments = True
     processAllAlignments = True
+    alignmentOrigWordsThreshold = 3
+    alignmentTargetWordsThreshold = 5
+    origWordsBetweenThreshold = 1
+    targetWordsBetweenThreshold = 1
+    alignmentFrequencyMinThreshold = 8 # % of the max frequency of alignments for original word
 
     origLangResourceUrl = 'https://git.door43.org/unfoldingWord/el-x-koine_ugnt/archive/master.zip'
     targetBibleLangResourceUrl = 'https://git.door43.org/unfoldingWord/en_ult/archive/master.zip'
@@ -95,7 +100,12 @@ def getConfig():
         'projectsUrl': projectsUrl,
         'origLangPath': origLangPath,
         'processAllAlignments': processAllAlignments,
-        'processTWordsAlignments': processTWordsAlignments
+        'processTWordsAlignments': processTWordsAlignments,
+        'alignmentOrigWordsThreshold': alignmentOrigWordsThreshold,
+        'alignmentTargetWordsThreshold': alignmentTargetWordsThreshold,
+        'origWordsBetweenThreshold': origWordsBetweenThreshold,
+        'targetWordsBetweenThreshold': targetWordsBetweenThreshold,
+        'alignmentFrequencyMinThreshold': alignmentFrequencyMinThreshold,
     }
     return cfg
 

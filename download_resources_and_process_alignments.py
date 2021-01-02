@@ -10,19 +10,19 @@ start = time.time()
 
 ############################################
 
-print("download resources:")
+print("\n\ndownload resources:")
 import download_resource_files
 
-print("extract alignments:")
+print("\n\nextract alignments:")
 import db_load_alignments_from_resources
 
-print("get original language words for tWords:")
+print("\n\nget original language words for tWords:")
 import fetch_translation_words
 
-print("generate ML training data:")
+print("\n\ngenerate ML training data:")
 import fetch_alignment_training_data
 
-print("generate warnings reports:")
+print("\n\ngenerate warnings reports:")
 import create_alignment_warning_csv
 
 ############################################

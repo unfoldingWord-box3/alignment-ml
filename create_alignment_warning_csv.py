@@ -21,9 +21,14 @@ trainingDataPath = cfg['trainingDataPath']
 baseDataPath = cfg['baseDataPath']
 testamentStr = cfg['testamentStr']
 tWordsTypeList = cfg['tWordsTypeList']
-dbPath = cfg['dbPath']
-processAllAlignments = cfg['processAllAlignments'] if 'processAllAlignments' in cfg else False # default to False
-processTWordsAlignments = cfg['processTWordsAlignments'] if 'processTWordsAlignments' in cfg else True # default to True
+dbPath = cfg.get('dbPath')
+processAllAlignments = cfg.get('processAllAlignments', False)
+processTWordsAlignments = cfg.get('processTWordsAlignments', True)
+alignmentOrigWordsThreshold = cfg.get('alignmentOrigWordsThreshold', 3)
+alignmentTargetWordsThreshold = cfg.get('alignmentTargetWordsThreshold', 5)
+origWordsBetweenThreshold = cfg.get('origWordsBetweenThreshold', 1)
+targetWordsBetweenThreshold = cfg.get('targetWordsBetweenThreshold', 1)
+alignmentFrequencyMinThreshold = cfg.get('alignmentFrequencyMinThreshold', 8) # % of the max frequency of alignments for original word
 
 #############################
 
@@ -68,11 +73,6 @@ if processAllAlignments:
 
     #############################
 
-    alignmentOrigWordsThreshold = 3
-    alignmentTargetWordsThreshold = 5
-    origWordsBetweenThreshold = 1
-    targetWordsBetweenThreshold = 1
-    alignmentFrequencyMinThreshold = 8 # % of the max frequency of alignments for original word
     type = 'all_alignments'
     warningPath = f'{baseDataPath}/{type}_{bibleType}_{testamentStr}_warnings.json'
     warningData = db.generateWarnings(warningPath, type, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
@@ -101,11 +101,6 @@ if processTWordsAlignments:
     alignmentsForWord, filteredAlignmentsForWord = db.fetchAlignmentDataForTWordCached(trainingDataPath, type_, bibleType, minAlignments, remove)
     print(f"\nTesting tWords {type_} with minimum of {minAlignments} alignments")
 
-    alignmentOrigWordsThreshold = 3
-    alignmentTargetWordsThreshold = 5
-    origWordsBetweenThreshold = 1
-    targetWordsBetweenThreshold = 1
-    alignmentFrequencyMinThreshold = 8 # % of the max frequency of alignments for original word
     warningPath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
     warningData = db.generateWarnings(warningPath, type_, bibleType, filteredAlignmentsForWord, alignmentOrigWordsThreshold,
                                       alignmentTargetWordsThreshold, origWordsBetweenThreshold,

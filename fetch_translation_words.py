@@ -24,7 +24,7 @@ tWordsGreekPath = cfg['tWordsGreekPath']
 dbPath = cfg['dbPath']
 tWordsDataFolder = cfg['tWordsDataFolder']
 testamentStr = cfg['testamentStr']
-tWordsUseEnUlt = cfg['tWordsUseEnUlt'] if 'tWordsUseEnUlt' in cfg else False
+tWordsUseEnUlt = cfg.get('tWordsUseEnUlt', False)
 
 connections = db.initAlignmentDB(dbPath)
 connection = db.getConnectionForTable(connections, 'default')
