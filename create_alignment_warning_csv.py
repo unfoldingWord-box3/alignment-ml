@@ -33,7 +33,7 @@ if processAllAlignments:
 
     ############################################
 
-    print(f"Testing all alignments")
+    print(f"\nTesting all alignments")
 
     minAlignments = 0
     remove = []
@@ -72,14 +72,14 @@ if processAllAlignments:
     alignmentTargetWordsThreshold = 5
     origWordsBetweenThreshold = 1
     targetWordsBetweenThreshold = 1
-    alignmentFrequencyMinThreshold = 5
+    alignmentFrequencyMinThreshold = 8 # % of the max frequency of alignments for original word
     type = 'all_alignments'
     warningPath = f'{baseDataPath}/{type}_{bibleType}_{testamentStr}_warnings.json'
     warningData = db.generateWarnings(warningPath, type, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
                                       alignmentTargetWordsThreshold, origWordsBetweenThreshold,
                                       targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
                                       tag=f'{minAlignments}')
-    print(f"Found {len(warningData)} alignments to check - min count threshold {minAlignments}")
+    print(f"Found {len(warningData)} alignments with warnings - min count threshold {minAlignments}")
 
     #############################
 
@@ -99,19 +99,19 @@ if processTWordsAlignments:
     minAlignments = 0
     remove = ['ὁ']
     alignmentsForWord, filteredAlignmentsForWord = db.fetchAlignmentDataForTWordCached(trainingDataPath, type_, bibleType, minAlignments, remove)
-    print(f"Testing tWords {type_} with minimum of {minAlignments} alignments")
+    print(f"\nTesting tWords {type_} with minimum of {minAlignments} alignments")
 
     alignmentOrigWordsThreshold = 3
     alignmentTargetWordsThreshold = 5
     origWordsBetweenThreshold = 1
     targetWordsBetweenThreshold = 1
-    alignmentFrequencyMinThreshold = 5
+    alignmentFrequencyMinThreshold = 8 # % of the max frequency of alignments for original word
     warningPath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
     warningData = db.generateWarnings(warningPath, type_, bibleType, filteredAlignmentsForWord, alignmentOrigWordsThreshold,
                                       alignmentTargetWordsThreshold, origWordsBetweenThreshold,
                                       targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
                                       tag=f'{minAlignments}')
-    print(f"Found {len(warningData)} alignments to check - min count threshold {minAlignments}")
+    print(f"Found {len(warningData)} alignments with warnings - min count threshold {minAlignments}")
 
     #############################
 
@@ -124,7 +124,7 @@ if processTWordsAlignments:
 
     #############################
 
-    print(f"Testing all tWords {type_}")
+    print(f"\nTesting all tWords")
     type_ = 'all_twords'
     minAlignments = 0
     types = ['kt', 'other', 'names']
@@ -136,7 +136,7 @@ if processTWordsAlignments:
                                        alignmentTargetWordsThreshold, origWordsBetweenThreshold,
                                        targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
                                        tag=f'{minAlignments}')
-    print(f"Found {len(warningData2)} alignments to check - min count threshold {minAlignments}")
+    print(f"Found {len(warningData2)} alignments with warnings - min count threshold {minAlignments}")
 
     #############################
 

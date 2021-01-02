@@ -952,9 +952,12 @@ def filterAlignments(alignments, minAlignments=-1):
         for alignmentsForOrigWord in alignmentsForLemma:
             alignmentsCount = alignmentsForOrigWord['alignmentsTotal']
             alignments_ = json.loads(alignmentsForOrigWord['alignments'])
+            alignmentsTextFreqPeak = -1
 
-            for i in range(alignmentsCount):
-                alignment_ = alignments_[i]
+            for alignment_ in alignments_:
+                alignmentTxtFrequency = alignment_['alignmentTxtFrequency']
+                if alignmentTxtFrequency > alignmentsTextFreqPeak:
+                    alignmentsTextFreqPeak = alignmentTxtFrequency
                 copyList = ['originalWord', 'lemma', 'strong', 'alignmentsTotal']
                 for copyItem in copyList:
                     alignment_[copyItem] = alignmentsForOrigWord[copyItem]
@@ -962,6 +965,9 @@ def filterAlignments(alignments, minAlignments=-1):
                     alignmentsList.append(alignment_)
                 else:
                     rejectedAlignmentsList.append(alignment_)
+
+            for alignment_ in alignments_:
+                alignment_['alignmentsTextFreqPeak'] = alignmentsTextFreqPeak
 
     return alignmentsList, rejectedAlignmentsList
 
@@ -1562,9 +1568,11 @@ def generateWarnings(warningsPath, type_, bibleType, alignmentsForWord, alignmen
                 'targetWordsBetweenWarning': ''
             }
 
+            peak = alignment['alignmentsTextFreqPeak'] if 'alignmentsTextFreqPeak' in alignment else 100.0
             alignmentTextFrequency = alignment['alignmentTxtFrequency']
-            if alignmentTextFrequency <= alignmentFrequencyMinThreshold:
-                warnings['frequencyWarning'] += (f"For {origWord} - Specific alignment \"{alignment['alignmentText']}\" used infrequently: {alignmentTextFrequency:.1f}% out of {alignmentsCount} total alignments, threshold {alignmentFrequencyMinThreshold:.0f}%")
+            peakThreshold = peak * alignmentFrequencyMinThreshold / 100.0
+            if alignmentTextFrequency <= peakThreshold:
+                warnings['frequencyWarning'] += (f"For {origWord} - Specific alignment \"{alignment['alignmentText']}\" used infrequently: {alignmentTextFrequency:.1f}% out of {alignmentsCount} total alignments, threshold {peakThreshold:.1f}% ({alignmentFrequencyMinThreshold:.1f}% of peak {peak:.0f}%)")
 
             alignmentOrigWords = alignment['origWordsCount']
             if alignmentOrigWords >= alignmentOrigWordsThreshold:
