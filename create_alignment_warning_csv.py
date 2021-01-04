@@ -81,8 +81,8 @@ if processAllAlignments:
 
     #############################
 
-    warningPath = f'{baseDataPath}/{type}_{bibleType}_{testamentStr}_warnings.json'
-    warningData = db.generateWarnings(warningPath, type, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
+    warningPath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
+    warningData = db.generateWarnings(warningPath, type_, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
                                       alignmentTargetWordsThreshold, origWordsBetweenThreshold,
                                       targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
                                       tag=f'{minAlignments}')
