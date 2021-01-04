@@ -14,7 +14,6 @@ import config
 cfg = config.getConfig() # configure values in config.js
 ############################################
 
-type_ = 'kt'
 targetLang = cfg['targetLang']
 bibleType = cfg['targetBibleType']
 trainingDataPath = cfg['trainingDataPath']
@@ -22,7 +21,7 @@ baseDataPath = cfg['baseDataPath']
 testamentStr = cfg['testamentStr']
 tWordsTypeList = cfg['tWordsTypeList']
 dbPath = cfg.get('dbPath')
-processAllAlignments = cfg.get('processAllAlignments', False)
+processAllAlignments = cfg.get('processAllAlignments', True)
 processTWordsAlignments = cfg.get('processTWordsAlignments', True)
 alignmentOrigWordsThreshold = cfg.get('alignmentOrigWordsThreshold', 3)
 alignmentTargetWordsThreshold = cfg.get('alignmentTargetWordsThreshold', 5)
@@ -34,12 +33,21 @@ alignmentFrequencyMinThreshold = cfg.get('alignmentFrequencyMinThreshold', 8) # 
 
 start = time.time()
 
+def sortDictByKey(dict_):
+    dict_sorted = {}
+    dict_keys = list(dict_.keys())
+    dict_keys.sort()
+    for key in dict_keys:
+        dict_sorted[key] = dict_[key]
+    return dict_sorted
+
 if processAllAlignments:
 
     ############################################
 
     print(f"\nTesting all alignments")
 
+    type_ = 'all_alignments'
     minAlignments = 0
     remove = []
 
@@ -73,7 +81,6 @@ if processAllAlignments:
 
     #############################
 
-    type = 'all_alignments'
     warningPath = f'{baseDataPath}/{type}_{bibleType}_{testamentStr}_warnings.json'
     warningData = db.generateWarnings(warningPath, type, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
                                       alignmentTargetWordsThreshold, origWordsBetweenThreshold,
@@ -85,9 +92,9 @@ if processAllAlignments:
 
     basePath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_summary'
     summary = db.getStatsForAlignments(alignmentsForWord)
-    df = pd.DataFrame(summary)
+    summary_sorted = sortDictByKey(summary)
     csvPath = basePath + '.csv'
-    summary_ = db.saveDictOfDictToCSV(csvPath, df)
+    summary_ = db.saveDictOfDictToCSV(csvPath, summary_sorted)
     print(f"saved summary of {len(summary)} original words to {csvPath}")
 
     #############################
@@ -96,6 +103,7 @@ if processTWordsAlignments:
 
     #############################
 
+    type_ = 'kt'
     minAlignments = 0
     remove = ['ὁ']
     alignmentsForWord, filteredAlignmentsForWord = db.fetchAlignmentDataForTWordCached(trainingDataPath, type_, bibleType, minAlignments, remove)
@@ -135,13 +143,12 @@ if processTWordsAlignments:
 
     #############################
 
-    type_ = 'all'
     basePath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_summary'
     summary = db.getStatsForAlignments(filteredAlignmentsForWord0)
-    df = pd.DataFrame(summary)
+    summary_sorted = sortDictByKey(summary)
     csvPath = basePath + '.csv'
-    summary_ = db.saveDictOfDictToCSV(csvPath, df)
-    print(f"saved summary of {len(summary)} original words to {csvPath}")
+    summary_ = db.saveDictOfDictToCSV(csvPath, summary_sorted)
+    print(f"saved summary of {len(summary_)} original words to {csvPath}")
 
     #############################
 
