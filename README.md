@@ -28,7 +28,7 @@ cd ..
 
 ## Generated data files:
 - differentiated in data folder by target language and target literal bible (e.g. `./data/en/ult`)
-  - `alignments_NT.sqlite` sqlite database containing tables for target language words, original laguage words, and alignments.
+  - `alignments_NT.sqlite` sqlite database containing tables for target language words, original language words, and alignments.
   - `alignments_NT.ow_index.sqlite` sqlite database containing alignments ordered by original language word along with frequency of alignments
   - `all_twords_*_*_NT_warnings_0.csv` spreadsheet with warnings for alignments of tWords based on frequency, number of target words, discontiguous target words, number of original language words, discontiguous original language words in alignment
   - `all_alignments_*_*_NT_warnings_0.csv` spreadsheet with warnings for alignments of all words in NT based on frequency, number of target words, discontiguous target words, number of original language words, discontiguous original language words in alignment

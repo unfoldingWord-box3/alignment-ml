@@ -37,7 +37,7 @@ def plotFieldFrequency(frequency, fieldName, xAxisLabel, yAxisLabel = None, max=
         ax.tick_params(axis='x', which='both', length=0)
     plt.show()
 
-def plotFrequencies(frequenciesOfAlignments, title='', ylabel='', showXValues=False, xlimit=None):
+def plotFrequencies(frequenciesOfAlignments, title='', ylabel='', showXValues=False, xlimit=None, ylimit=None):
     plt.figure()
     outputTable = []
     for origWord in frequenciesOfAlignments.keys():
@@ -64,7 +64,12 @@ def plotFrequencies(frequenciesOfAlignments, title='', ylabel='', showXValues=Fa
     if xlimit:
         plt.xlim(xlimit)
     plt.ylabel(ylabel)
-    plt.ylim([0,50])
+
+    if ylimit:
+        plt.ylim(ylimit)
+    else:
+        plt.ylim([0,50])
+
     plt.suptitle(title, fontsize=16)
 
     plt.show()
