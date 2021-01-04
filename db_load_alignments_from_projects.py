@@ -78,6 +78,9 @@ print (f"{len(items_align)} items in alignment_table")
 items_orig = db.fetchRecords(connection, original_words_table, '')
 print (f"{len(items_orig)} items in original_words_table")
 
+items_orig_idx = db.fetchRecords(connection_owi, original_words_index_table, '')
+print (f"{len(items_orig_idx)} items in original_words_index_table")
+
 # 69050 items in target_words_table
 # 48892 items in alignment_table
 # 52996 items in original_words_table

@@ -26,6 +26,14 @@ cd ..
 - select download source by changing config.py to point to appropriate config file.
 - run: `python3 download_resources_and_process_alignments.py`
 
+## Generated data files:
+- differentiated in data folder by target language and target literal bible (e.g. `./data/en/ult`)
+  - `alignments_NT.sqlite` sqlite database containing tables for target language words, original laguage words, and alignments.
+  - `alignments_NT.ow_index.sqlite` sqlite database containing alignments ordered by original language word along with frequency of alignments
+  - `all_twords_*_*_NT_warnings_0.csv` spreadsheet with warnings for alignments of tWords based on frequency, number of target words, discontiguous target words, number of original language words, discontiguous original language words in alignment
+  - `all_alignments_*_*_NT_warnings_0.csv` spreadsheet with warnings for alignments of all words in NT based on frequency, number of target words, discontiguous target words, number of original language words, discontiguous original language words in alignment
+  - `all_*_*_NT_summary.csv` spreadsheet with summary and statistical analysis for all alignments of original language words in NT
+
 ## Manual Operations:
 **Coping resources from catalog:
 - if you want to manually run scripts (not necessary if you run download_resources_and_process_alignments.py), then need to download specific resources from door43 catalog (change version numbers to match latest for resource):
