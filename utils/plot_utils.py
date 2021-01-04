@@ -39,6 +39,7 @@ def plotFieldFrequency(frequency, fieldName, xAxisLabel, yAxisLabel = None, max=
 
 def plotFrequencies(frequenciesOfAlignments, title='', ylabel='', showXValues=False, xlimit=None):
     plt.figure()
+    outputTable = []
     for origWord in frequenciesOfAlignments.keys():
         frequency_ = frequenciesOfAlignments[origWord]
         frequencyValues_ = list(frequency_.values)
@@ -53,6 +54,13 @@ def plotFrequencies(frequenciesOfAlignments, title='', ylabel='', showXValues=Fa
         y = frequencyValues_ / total * 100 # scale to percent
         plt.plot(x,y)
 
+        data = {}
+        for i in range(len(x)):
+            x_ = str(x[i])
+            y_ = y[i]
+            data[x_] = y_
+        outputTable.append(data)
+
     if xlimit:
         plt.xlim(xlimit)
     plt.ylabel(ylabel)
@@ -60,6 +68,7 @@ def plotFrequencies(frequenciesOfAlignments, title='', ylabel='', showXValues=Fa
     plt.suptitle(title, fontsize=16)
 
     plt.show()
+    return outputTable
 
 def plotXYdataDict(dataDict, title='', ylabel='', xlabel='', showXValues=False, xlimit=None, ylimit=None):
     plt.figure()

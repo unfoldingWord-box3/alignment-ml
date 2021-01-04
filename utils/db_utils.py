@@ -1523,32 +1523,15 @@ def fetchAlignmentDataForTWordCached(trainingDataPath, type_, bibleType, minAlig
 
     print(f"Unfiltered Alignments: {len(alignmentsForWord)}")
 
-    if not recreateAlignmentsList:
-        if not file.doesFileExist(filteredAlignmentsForWordPath):
-            recreateAlignmentsList = True
-        else:
-            tWordsAlignmentsTime = file.getModifiedTime(tWordsAlignmentsPath)
-            cachedAlignmentsTime = file.getModifiedTime(filteredAlignmentsForWordPath)
-            if (tWordsAlignmentsTime >= cachedAlignmentsTime):
-                print(f"tWords time '{time.ctime(tWordsAlignmentsTime)}' newer than cached file time '{time.ctime(cachedAlignmentsTime)}'")
-                recreateAlignmentsList = True
-
-    if recreateAlignmentsList:
-        print("recreating Filtered Alignments")
-        # filter by number of alignments for word
-        filteredAlignmentsForWord = getFilteredAlignmentsForWord(alignmentsForWord, minAlignments, remove)
-        file.writeJsonFile(filteredAlignmentsForWordPath, filteredAlignmentsForWord)
-        print(f"filtered alignments by original list count is {len(filteredAlignmentsForWord)}")
-        print(f"Size of filtered alignments by original {filteredAlignmentsForWordPath} is {file.getFileSize(filteredAlignmentsForWordPath)/1000/1000:.3f} MB")
-        csvPath = filteredAlignmentsForWordPath.replace(".json", ".csv")
-        saveDictOfListsToCSV(csvPath, filteredAlignmentsForWord, 'originalWord')
-        print(f"Size of filtered alignments by original {csvPath} is {file.getFileSize(csvPath)/1000/1000:.3f} MB")
-    else:
-        print("Using cached Filtered Alignments")
-        filteredAlignmentsForWord = file.readJsonFile(filteredAlignmentsForWordPath)
-
+    # filter by number of alignments for word
+    filteredAlignmentsForWord = getFilteredAlignmentsForWord(alignmentsForWord, minAlignments, remove)
+    file.writeJsonFile(filteredAlignmentsForWordPath, filteredAlignmentsForWord)
+    print(f"filtered alignments by original list count is {len(filteredAlignmentsForWord)}")
+    print(f"Size of filtered alignments by original {filteredAlignmentsForWordPath} is {file.getFileSize(filteredAlignmentsForWordPath)/1000/1000:.3f} MB")
+    csvPath = filteredAlignmentsForWordPath.replace(".json", ".csv")
+    saveDictOfListsToCSV(csvPath, filteredAlignmentsForWord, 'originalWord')
+    print(f"Size of filtered alignments by original {csvPath} is {file.getFileSize(csvPath)/1000/1000:.3f} MB")
     print(f"Filtered Alignments: {len(filteredAlignmentsForWord)}")
-
     return alignmentsForWord, filteredAlignmentsForWord
 
 def generateWarnings(warningsPath, type_, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
@@ -1607,7 +1590,11 @@ def generateWarnings(warningsPath, type_, bibleType, alignmentsForWord, alignmen
 
     df = pd.DataFrame(alignmentsToCheck)
     csvPath = jsonPath.replace('.json','.csv')
-    warningData = df.drop(columns=['alignment_key']).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
+    if len(alignmentsToCheck):
+        warningData = df.drop(columns=['alignment_key']).sort_values(by=["book_id", "chapter", "verse", "alignment_num"])
+    else:
+        print(f"No warnings found!")
+        warningData = df
     saveDataFrameToCSV(csvPath, warningData)
     return warningData
 

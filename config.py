@@ -9,8 +9,8 @@ from pathlib import Path
 ############################################
 # uncomment the config source you want to use:
 
-import configs.config_ru as config_ # ru from ru_tw
-# import configs.config_en_unfoldingword as config_ # en from unfoldingWord
+# import configs.config_ru as config_ # ru from ru_tw
+import configs.config_en_unfoldingword as config_ # en from unfoldingWord
 # import configs.config_en_catalog as config_ # en from Door43 catalog: cdn.door43.org
 # import configs.config_hi_str as config_ # hi STR
 

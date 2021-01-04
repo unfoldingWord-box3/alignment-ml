@@ -30,3 +30,7 @@ import create_alignment_warning_csv
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'Parse alignments, total elapsed time: {elapsed}')
+
+# Dell Windows: Parse alignments, total elapsed time: 0:02:13
+# MBP M1 Rosetta (native node): Parse alignments, total elapsed time: 0:00:18
+# MBP M1 Native: Parse alignments, total elapsed time: 0:00:16
