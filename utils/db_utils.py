@@ -1361,8 +1361,9 @@ def findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath = None):
                         lemmas[lemma]['lexicon'] = lex
 
     print(f"\n\nfindLemmasForQuotes - found {len(lemmas.keys())} lemmas")
-    file.writeJsonFile(lemmasPath, lemmas)
-    saveDictOfDictToCSV(lemmasPath.replace(".json", ".csv"), lemmas, keyName ='lemma')
+    lemmas_ = sortDictByKey(lemmas)
+    file.writeJsonFile(lemmasPath, lemmas_)
+    saveDictOfDictToCSV(lemmasPath.replace(".json", ".csv"), lemmas_, keyName ='lemma')
 
 def getFrequenciesOfFieldInAlignments(alignmentsForWord, field, sortIndex = False):
     frequenciesOfAlignments = {}
