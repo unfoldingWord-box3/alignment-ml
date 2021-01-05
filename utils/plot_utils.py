@@ -4,7 +4,7 @@ import numpy as np
 
 # doing plots
 def plotFieldFrequency(frequency, fieldName, xAxisLabel, yAxisLabel = None, max=-1, xNumbers=True, xShowTicks=True, title=None, ylogPlot=False):
-    fig = plt.figure()
+    fig = plt.figure(figsize=(11, 7))
     if title is None: # use default title
         title = f"Frequency of {xAxisLabel} ('{fieldName}')"
     fig.suptitle(title, fontsize=16)
@@ -38,7 +38,7 @@ def plotFieldFrequency(frequency, fieldName, xAxisLabel, yAxisLabel = None, max=
     plt.show()
 
 def plotFrequencies(frequenciesOfAlignments, title='', ylabel='', showXValues=False, xlimit=None, ylimit=None):
-    plt.figure()
+    plt.figure(figsize=(11, 7))
     outputTable = []
     for origWord in frequenciesOfAlignments.keys():
         frequency_ = frequenciesOfAlignments[origWord]
@@ -76,7 +76,7 @@ def plotFrequencies(frequenciesOfAlignments, title='', ylabel='', showXValues=Fa
     return outputTable
 
 def plotXYdataDict(dataDict, title='', ylabel='', xlabel='', showXValues=False, xlimit=None, ylimit=None):
-    plt.figure()
+    plt.figure(figsize=(11, 7))
     for origWord in dataDict.keys():
         data = dataDict[origWord]
         total = 0

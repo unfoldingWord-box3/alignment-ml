@@ -33,14 +33,6 @@ alignmentFrequencyMinThreshold = cfg.get('alignmentFrequencyMinThreshold', 8) # 
 
 start = time.time()
 
-def sortDictByKey(dict_):
-    dict_sorted = {}
-    dict_keys = list(dict_.keys())
-    dict_keys.sort()
-    for key in dict_keys:
-        dict_sorted[key] = dict_[key]
-    return dict_sorted
-
 if processAllAlignments:
 
     ############################################
@@ -92,7 +84,7 @@ if processAllAlignments:
 
     basePath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_summary'
     summary = db.getStatsForAlignments(alignmentsForWord)
-    summary_sorted = sortDictByKey(summary)
+    summary_sorted = db.sortDictByKey(summary)
     csvPath = basePath + '.csv'
     summary_ = db.saveDictOfDictToCSV(csvPath, summary_sorted)
     print(f"saved summary of {len(summary)} original words to {csvPath}")
@@ -145,7 +137,7 @@ if processTWordsAlignments:
 
     basePath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_summary'
     summary = db.getStatsForAlignments(filteredAlignmentsForWord0)
-    summary_sorted = sortDictByKey(summary)
+    summary_sorted = db.sortDictByKey(summary)
     csvPath = basePath + '.csv'
     summary_ = db.saveDictOfDictToCSV(csvPath, summary_sorted)
     print(f"saved summary of {len(summary_)} original words to {csvPath}")

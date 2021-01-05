@@ -1339,24 +1339,28 @@ def findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath = None):
     lemmas = {}
     keys = list(data.keys())
     for key in keys:
-        for origWord in data[key]:
+        print(f"\n{key}", end = '')
+        keyData = data[key]
+        for origWord in keyData:
             word, count = findLemma(origWord)
             if word:
+                origWordCount = keyData[origWord]
                 lemma = word['lemma']
                 if lemma in lemmas:
-                    lemmas[lemma]['count'] += count
+                    lemmas[lemma]['count'] += origWordCount
                 else:
-                    print(f"for {origWord} found '{lemma}'")
+                    # print(f"{key} - for {origWord} found '{lemma}'")
+                    print(".", end = '')
                     strong = word['strong']
                     lemmas[lemma] = {
-                        'count': count,
+                        'count': origWordCount,
                         'strong': strong
                     }
                     lex = lookupLexicon(lexiconPath, strong)
                     if lex:
                         lemmas[lemma]['lexicon'] = lex
 
-    print(f"findLemmasForQuotes - found {len(lemmas.keys())} lemmas")
+    print(f"\n\nfindLemmasForQuotes - found {len(lemmas.keys())} lemmas")
     file.writeJsonFile(lemmasPath, lemmas)
     saveDictOfDictToCSV(lemmasPath.replace(".json", ".csv"), lemmas, keyName ='lemma')
 
@@ -1420,12 +1424,12 @@ def getFilteredAlignmentsForWord(alignmentsForWord, minAlignments = 100, remove 
                 lemma = alignment['lemma']
                 if (lemma is not None) and (lemma not in remove):
                     filteredAlignmentsForWord[origWord] = alignments
-                else:
-                    print(f"getFilteredAlignmentsForWord - rejecting {lemma} alignments")
+                # else:
+                #     print(f"getFilteredAlignmentsForWord - rejecting {lemma} alignments")
             # else:
             #     print(f"getFilteredAlignmentsForWord - rejecting {origWord} count {alignmentsCount}")
-        else:
-            print(f"getFilteredAlignmentsForWord - rejecting {origWord} in remove list")
+        # else:
+        #     print(f"getFilteredAlignmentsForWord - rejecting {origWord} in remove list")
 
     return filteredAlignmentsForWord
 
@@ -1726,3 +1730,11 @@ def saveAlignmentDataForLemmas(connection_owi, type_, cfg, getTwordsPath, minAli
     csvPath = termsPath + ".csv"
     saveListToCSV(csvPath, alignmentsList)
     print(f"Size of filtered alignments {csvPath} is {file.getFileSize(csvPath)/1000/1000:.3f} MB")
+
+def sortDictByKey(dict_):
+    dict_sorted = {}
+    dict_keys = list(dict_.keys())
+    dict_keys.sort()
+    for key in dict_keys:
+        dict_sorted[key] = dict_[key]
+    return dict_sorted

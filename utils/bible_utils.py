@@ -1,6 +1,7 @@
 import os
 import utils.file_utils as file
 import utils.system_utils as system
+import utils.db_utils as db
 
 BIBLE_BOOKS = {
     'oldTestament': {
@@ -1561,16 +1562,18 @@ def getQuotesForBook(tWordsGreekPath, tWordsTargetPath, bookId, tWordsType):
         if os.path.isfile(tWordPath):
             wordInstances = file.readJsonFile(tWordPath)
             # print(f"in {tWordPath} found {len(wordInstances)} items:")
-            foundQuotes = []
+            foundQuotes = {}
             for item in wordInstances:
                 quote = item['contextId']['quote']
                 if isinstance(quote, str): # we will skip quote arrays since it makes things too complicated
                     # print(f"Quote = '{quote}'")
                     if not quote in foundQuotes:
                         # print(f"found Quote = '{quote}'")
-                        foundQuotes.append(quote)
+                        foundQuotes[quote] = 1
+                    else:
+                        foundQuotes[quote] += 1
             # print(f"for {tWord}, found unique Quotes = '{foundQuotes}' out of {len(wordInstances)}")
-            if len(foundQuotes):
+            if len(foundQuotes.keys()):
                 quotesMap[tWord] = foundQuotes
         # else:
         #     print(f"{tWordPath} was not found")
@@ -1590,12 +1593,16 @@ def getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType, newTestament 
                 currentQuotes = quotesFound[keyTerm]
                 for quote in quotes:
                     if not quote in currentQuotes:
-                        currentQuotes.append(quote)
+                        currentQuotes[quote] = quotes[quote]
+                    else:
+                        currentQuotes[quote] += quotes[quote]
             else:
                 # print(f"Adding {keyTerm}: {quotes}")
                 quotesFound[keyTerm] = quotes
+    for keyTerm, quotes in quotesFound.items(): # do sorting
+        quotesFound[keyTerm] = db.sortDictByKey(quotes)
     # print(f"{len(quotesFound.keys())} unique quotes found in testament: {quotesFound}")
-    return quotesFound
+    return db.sortDictByKey(quotesFound)
 
 def saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, tWordsType, bibleType, newTestament=True):
     quotesFound = getTwordsQuotes(tWordsGreekPath, tWordsTargetPath, tWordsType, newTestament)
@@ -1603,7 +1610,7 @@ def saveTwordsQuotes(outputFolder, tWordsGreekPath, tWordsTargetPath, tWordsType
         testament = 'NT'
     else:
         testament = 'OT'
-    print(f"{len(quotesFound.keys())} unique quotes found in {testament}: {quotesFound}")
+    print(f"{len(quotesFound.keys())} unique quotes found for {tWordsType} in {testament}: {quotesFound}")
     outputPath = f"{outputFolder}/{tWordsType}_{bibleType}_{testament}_quotes.json"
     print(f"saving quotes to: {outputPath}")
     file.writeJsonFile(outputPath, quotesFound)
