@@ -37,11 +37,13 @@ start = time.time()
 if tWordsUseEnUlt:
     print(f"Using tword quotes from en_ult")
     enUltPath = './data/en/ult/tWords'
-    for type_ in tWordsTypeList:
+    list_ = tWordsTypeList
+    list_.append('all')
+    for type_ in list_:
         for ext in ['lemmas.csv', 'lemmas.json', 'quotes.json']:
             source = f'{enUltPath}/{type_}_en_ult_{testamentStr}_{ext}'
             dest = f'{tWordsDataFolder}/{type_}_{targetLang}_{targetBibleId}_{testamentStr}_{ext}'
-            file.copyFile(source, dest, ifExists=False, overWrite=True)
+            file.copyFile(source, dest, ifExists=True, overWrite=True)
 
 else:
 
