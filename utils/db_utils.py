@@ -34,16 +34,16 @@ def fetchWordsForVerse(connection, table, bookId, chapter, verse, maxRows = None
     return items
 
 def fetchForWordInVerse(connection, table, word, occurrence, bookId, chapter, verse, maxRows = None):
-    filter = f"(book_id = '{bookId}') AND (chapter = '{chapter}') AND (verse = '{verse}') AND (word = '{word}') AND (occurrence = '{occurrence}')"
+    filter = f"(book_id = \"{bookId}\") AND (chapter = \"{chapter}\") AND (verse = \"{verse}\") AND (word = \"{word}\") AND (occurrence = \"{occurrence}\")"
     items = fetchRecords(connection, table, filter, maxRows)
     # print(f"getRecords:\n{len(items)}")
     return items
 
 def findAlignmentsFromIndexDbForOrigWord(connection, word, searchLemma, maxRows=None):
     if searchLemma:
-        filter = f"(lemma = '{word}')"
+        filter = f"(lemma = \"{word}\")"
     else:
-        filter = f"(originalWord = '{word}')"
+        filter = f"(originalWord = \"{word}\")"
 
     # print(f"findAlignmentForWord - filter = {filter}")
     alignmentsIndex = fetchRecords(connection, original_words_index_table, filter, maxRows)
@@ -55,7 +55,7 @@ def fetchAlignmentsForIndex(connection, alignmentsIndex):
         for index in alignmentsIndex:
             alignmentIds = json.loads(index['alignments_keys'])
             for id in alignmentIds:
-                filter = f"(id = '{id}')"
+                filter = f"(id = \"{id}\")"
                 found = fetchRecords(connection, alignment_table, filter, maxRows=1)
                 if len(found):
                     alignments.append(found[0])
@@ -98,7 +98,7 @@ def findAlignmentsForOriginalWord(connection, word, searchLemma = False):
     else:
         key = 'word'
 
-    matchStr = f'%"{key}": "{word}"%'
+    matchStr = f'%\"{key}\": \"{word}\"%'
     # print(f"matchStr = {matchStr}")
     found = findAlignmentsForField(connection, field, matchStr)
     return found
@@ -130,9 +130,9 @@ def findWordById(connection, id, table):
 
 def findWord(connection, word, searchOriginal = True, searchLemma = False, caseInsensitive = False, maxRows = None):
     if searchLemma:
-        search = f"lemma = '{word}'"
+        search = f"lemma = \"{word}\""
     else:
-        search = f"word = '{word}'"
+        search = f"word = \"{word}\""
 
     if searchOriginal:
         table = original_words_table
@@ -147,9 +147,9 @@ def findWords(connection, words, searchOriginal = True, searchLemma = False, cas
     searches = ''
     for word in words:
         if searchLemma:
-            search = f"(lemma = '{word}')"
+            search = f"(lemma = \"{word}\")"
         else:
-            search = f"(word = '{word}')"
+            search = f"(word = \"{word}\")"
 
         if len(searches) > 0:
             searches += ' OR '
@@ -185,7 +185,7 @@ def createCommandToAddToDatabase(table, data):
     return add_words
 
 def deleteWordsForBook(connection, table, bookId):
-    selection = f"book_id = '{bookId}'"
+    selection = f"book_id = \"{bookId}\""
     deleteBook = f"DELETE FROM {table}\nWHERE {selection};\n"
     # print(f"deleteWordsForBook:\n{deleteBook}")
     execute_query(connection, deleteBook)
@@ -789,6 +789,8 @@ def getAlignmentsForTestament(connections, newTestament, alignmentsFolder, origL
             print(f"### Invalid aligments count! ### - {row}")
         writeRowToDB(connection_owi, original_words_index_table, row, update=True)
 
+    return alignmentsIndex
+
 def combineWordList(words):
     words_ = []
     for word in words:
@@ -950,7 +952,10 @@ def filterAlignments(alignments, minAlignments=-1):
     for key in alignments.keys():
         alignmentsForLemma = alignments[key]
         for alignmentsForOrigWord in alignmentsForLemma:
-            alignmentsCount = alignmentsForOrigWord['alignmentsTotal']
+            countKey = 'matchCount'
+            if countKey not in alignmentsForOrigWord:
+                countKey = 'alignmentsTotal'
+            alignmentsCount = alignmentsForOrigWord[countKey]
             alignments_ = json.loads(alignmentsForOrigWord['alignments'])
             alignmentsTextFreqPeak = -1
 
@@ -1292,7 +1297,8 @@ def describeAlignments(alignments, ignore = ['frequency'], silent = False):
 
     if ignore:
         for item in ignore:
-            fields.remove(item)
+            if item in fields:
+                fields.remove(item)
 
     for field in fields:
         alignmentOrigWords_frequency = alignments[field].value_counts()

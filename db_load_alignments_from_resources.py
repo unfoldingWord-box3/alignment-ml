@@ -20,6 +20,8 @@ origLangPathHebrew = cfg['origLangPathHebrew']
 targetLanguagePath = cfg['targetLanguagePath']
 dbPath = cfg['dbPath']
 testamentStr = cfg['testamentStr']
+baseDataPath = cfg['baseDataPath']
+
 
 ############################################
 
@@ -48,7 +50,10 @@ connection_owi = db.getConnectionForTable(connections, db.original_words_index_t
 
 # get alignments for testament
 start = time.time()
-db.getAlignmentsForTestament(connections, 1, targetLanguagePath, origLangPathGreek, targetLanguagePath, targetBibleType, nestedFormat=True)
+origWordAlignmentsPath = f'{baseDataPath}/originalWordAlignments.json'
+alignmentsIndex = db.getAlignmentsForTestament(connections, 1, targetLanguagePath, origLangPathGreek, targetLanguagePath, targetBibleType, nestedFormat=True)
+file.writeJsonFile(origWordAlignmentsPath, alignmentsIndex)
+print(f"Saved original words alignments to {origWordAlignmentsPath}")
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'Get {testamentStr} alignments, Elapsed time: {elapsed}')

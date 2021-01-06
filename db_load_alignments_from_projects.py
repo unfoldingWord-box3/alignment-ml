@@ -20,6 +20,7 @@ dbPath = cfg['dbPath']
 newTestament = cfg['newTestament']
 testamentStr = cfg['testamentStr']
 projectsUrl = cfg['projectsUrl']
+baseDataPath = cfg['baseDataPath']
 projectsFolder = './data/AlignmentsFromProjects'
 
 ############################################
@@ -62,7 +63,10 @@ bible.downloadTestamentAlignments(projectsUrl, targetBibleType, newTestament, pr
 
 # get alignments for NT
 start = time.time()
-db.getAlignmentsForTestament(connections, newTestament, projectsFolder, origLangPath, projectsFolder, targetBibleType, nestedFormat=True)
+origWordAlignmentsPath = f'{baseDataPath}/originalWordAlignments.json'
+alignmentsIndex = db.getAlignmentsForTestament(connections, newTestament, projectsFolder, origLangPath, projectsFolder, targetBibleType, nestedFormat=True)
+file.writeJsonFile(origWordAlignmentsPath, alignmentsIndex)
+print(f"Saved original words alignments to {origWordAlignmentsPath}")
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))
 print(f'Get NT alignments, Elapsed time: {elapsed}')
