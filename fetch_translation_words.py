@@ -53,11 +53,29 @@ else:
     ################################
 
     lexiconPath = cfg['greekLexiconPath']
+    lemmas = []
     for type_ in tWordsTypeList:
         quotesPath, lemmasPath = config.getTwordsPath(type_, bibleType)
-        db.findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath)
+        lemmas_ = db.findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath)
+        lemmas.append(lemmas_)
 
-    ################################
+    type_ = 'all'
+    quotesPath, lemmasPath = config.getTwordsPath(type_, bibleType)
+    # merge all lemmas into element 0
+    lemmaRoot = lemmas[0]
+    for i in range(1,len(tWordsTypeList)):
+        lemmas_ = lemmas[i]
+        for lemma in lemmas_.keys():
+            if lemma in lemmaRoot:
+                lemmaRoot[lemma]['count'] += lemmas_[lemma]['count']
+            else:
+                lemmaRoot[lemma] = lemmas_[lemma]
+
+    lemmas_ = db.sortDictByKey(lemmaRoot)
+    file.writeJsonFile(lemmasPath, lemmas_)
+    db.saveDictOfDictToCSV(lemmasPath.replace(".json", ".csv"), lemmas_, keyName ='lemma')
+
+################################
 
 delta = (time.time() - start)
 elapsed = str(timedelta(seconds=delta))

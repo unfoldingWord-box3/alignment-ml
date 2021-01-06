@@ -1370,6 +1370,7 @@ def findLemmasForQuotes(connection, quotesPath, lemmasPath, lexiconPath = None):
     lemmas_ = sortDictByKey(lemmas)
     file.writeJsonFile(lemmasPath, lemmas_)
     saveDictOfDictToCSV(lemmasPath.replace(".json", ".csv"), lemmas_, keyName ='lemma')
+    return lemmas_
 
 def getFrequenciesOfFieldInAlignments(alignmentsForWord, field, sortIndex = False):
     frequenciesOfAlignments = {}
@@ -1673,6 +1674,8 @@ def getStatsForAlignments(alignmentsForWord):
         alignFreq = dict(alignmentFrequency)
         alignFreq = list(map(lambda key: alignFreq[key], alignFreq.keys()))
         summary['alignmentFreq'] = alignFreq
+        alignmentFrequencyBins = pd.Series(alignFreq).value_counts()
+        summary['alignmentFrequencyBins'] = sortDictByKey(dict(alignmentFrequencyBins), reverse=True)
         summary.update(**getStatsForWord('alignmentFreq', alignFreq))
         summary.update(**getStatsForWord('origWordsCount', origWordsCount))
         summary.update(**getStatsForWord('origWordsBetween', origWordsBetween))
@@ -1738,10 +1741,10 @@ def saveAlignmentDataForLemmas(connection_owi, type_, cfg, getTwordsPath, minAli
     saveListToCSV(csvPath, alignmentsList)
     print(f"Size of filtered alignments {csvPath} is {file.getFileSize(csvPath)/1000/1000:.3f} MB")
 
-def sortDictByKey(dict_):
+def sortDictByKey(dict_, reverse=False):
     dict_sorted = {}
     dict_keys = list(dict_.keys())
-    dict_keys.sort()
+    dict_keys.sort(reverse=reverse)
     for key in dict_keys:
         dict_sorted[key] = dict_[key]
     return dict_sorted
