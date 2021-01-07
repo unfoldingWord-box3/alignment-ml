@@ -33,6 +33,14 @@ alignmentFrequencyMinThreshold = cfg.get('alignmentFrequencyMinThreshold', 8) # 
 
 start = time.time()
 
+thresholds = {
+    'alignmentOrigWordsThreshold': alignmentOrigWordsThreshold,
+    'alignmentTargetWordsThreshold': alignmentTargetWordsThreshold,
+    'origWordsBetweenThreshold': origWordsBetweenThreshold,
+    'targetWordsBetweenThreshold': targetWordsBetweenThreshold,
+    'alignmentFrequencyMinThreshold': alignmentFrequencyMinThreshold
+}
+
 if processAllAlignments:
 
     ############################################
@@ -73,21 +81,10 @@ if processAllAlignments:
 
     #############################
 
-    warningPath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
-    warningData = db.generateWarnings(warningPath, type_, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
-                                      alignmentTargetWordsThreshold, origWordsBetweenThreshold,
-                                      targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
-                                      tag=f'{minAlignments}')
+    warningData,summary = db.generateWarningsAndSummary(baseDataPath, type_, bibleType, testamentStr, alignmentsForWord,
+                                                        thresholds, tag=f'{minAlignments}')
     print(f"Found {len(warningData)} alignments with warnings - min count threshold {minAlignments}")
 
-    #############################
-
-    basePath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_summary'
-    summary = db.getStatsForAlignments(alignmentsForWord)
-    summary_sorted = db.sortDictByKey(summary)
-    csvPath = basePath + '.csv'
-    summary_ = db.saveDictOfDictToCSV(csvPath, summary_sorted)
-    print(f"saved summary of {len(summary)} original words to {csvPath}")
 
     #############################
 
@@ -101,21 +98,10 @@ if processTWordsAlignments:
     alignmentsForWord, filteredAlignmentsForWord = db.fetchAlignmentDataForTWordCached(trainingDataPath, type_, bibleType, minAlignments, remove)
     print(f"\nTesting tWords {type_} with minimum of {minAlignments} alignments")
 
-    warningPath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
-    warningData = db.generateWarnings(warningPath, type_, bibleType, filteredAlignmentsForWord, alignmentOrigWordsThreshold,
-                                      alignmentTargetWordsThreshold, origWordsBetweenThreshold,
-                                      targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
-                                      tag=f'{minAlignments}')
+    warningData,summary = db.generateWarningsAndSummary(baseDataPath, type_, bibleType, testamentStr, filteredAlignmentsForWord,
+                                                        thresholds, tag=f'{minAlignments}')
     print(f"Found {len(warningData)} alignments with warnings - min count threshold {minAlignments}")
 
-    #############################
-
-    basePath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_summary'
-    summary = db.getStatsForAlignments(filteredAlignmentsForWord)
-    df = pd.DataFrame(summary)
-    csvPath = basePath + '.csv'
-    summary_ = db.saveDictOfDictToCSV(csvPath, df)
-    print(f"saved summary of {len(summary)} original words to {csvPath}")
 
     #############################
 
@@ -126,21 +112,10 @@ if processTWordsAlignments:
     alignmentsForWord, filteredAlignmentsForWord0 = db.fetchAlignmentDataForAllTWordsCached(trainingDataPath, bibleType, types, minAlignments, remove)
     print(f"Original Language Alignments: {len(filteredAlignmentsForWord)}")
 
-    warningPath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
-    warningData2 = db.generateWarnings(warningPath, type_, bibleType, filteredAlignmentsForWord0, alignmentOrigWordsThreshold,
-                                       alignmentTargetWordsThreshold, origWordsBetweenThreshold,
-                                       targetWordsBetweenThreshold, alignmentFrequencyMinThreshold,
-                                       tag=f'{minAlignments}')
+    warningData2,summary2 = db.generateWarningsAndSummary(baseDataPath, type_, bibleType, testamentStr, filteredAlignmentsForWord,
+                                                          thresholds, tag=f'{minAlignments}')
+
     print(f"Found {len(warningData2)} alignments with warnings - min count threshold {minAlignments}")
-
-    #############################
-
-    basePath = f'{baseDataPath}/{type_}_{bibleType}_{testamentStr}_summary'
-    summary = db.getStatsForAlignments(filteredAlignmentsForWord0)
-    summary_sorted = db.sortDictByKey(summary)
-    csvPath = basePath + '.csv'
-    summary_ = db.saveDictOfDictToCSV(csvPath, summary_sorted)
-    print(f"saved summary of {len(summary_)} original words to {csvPath}")
 
     #############################
 

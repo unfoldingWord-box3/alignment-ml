@@ -1224,9 +1224,12 @@ def saveDictOfListsToCSV(csvPath, dictOfList, keyName ='id'):
 def saveDictOfDictToCSV(csvPath, dict_, keyName ='id'):
     outputList = []
     for key in dict_:
-        row = {}
-        row[keyName] = key
-        row.update(**dict_[key])
+        if keyName:
+            row = {}
+            row[keyName] = key
+            row.update(**dict_[key])
+        else:
+            row = dict_[key]
         outputList.append(row)
 
     df = pd.DataFrame(outputList)
@@ -1546,10 +1549,32 @@ def fetchAlignmentDataForTWordCached(trainingDataPath, type_, bibleType, minAlig
     print(f"Filtered Alignments: {len(filteredAlignmentsForWord)}")
     return alignmentsForWord, filteredAlignmentsForWord
 
-def generateWarnings(warningsPath, type_, bibleType, alignmentsForWord, alignmentOrigWordsThreshold,
-                     alignmentTargetWordsThreshold, origWordsBetweenThreshold,
-                     targetWordsBetweenThreshold, alignmentFrequencyMinThreshold, tag=''):
+def get(dict_, key, defaultValue=None):
+    if key in dict_:
+        return dict_[key]
+
+    return defaultValue
+
+def generateWarningsAndSummary(basePath, type_, bibleType, testamentStr, alignmentsForWord,
+                               thresholds, tag=''):
+
+    if tag:
+        tag = '_' + tag
+
+    summaryPath = f'{basePath}/{type_}_{bibleType}_{testamentStr}_summary' + tag
+    summary = getStatsForAlignments(alignmentsForWord)
+    summary_sorted = sortDictByKey(summary)
+    csvPath = summaryPath + '.csv'
+    saveDictOfDictToCSV(csvPath, summary_sorted, keyName=None)
+    print(f"saved summary of {len(summary)} original words to {csvPath}")
+
     alignmentsToCheck = []
+
+    alignmentFrequencyMinThreshold = get(thresholds, 'alignmentFrequencyMinThreshold', 0)
+    alignmentOrigWordsThreshold = get(thresholds, 'alignmentOrigWordsThreshold', 0)
+    alignmentTargetWordsThreshold = get(thresholds, 'alignmentTargetWordsThreshold', 0)
+    origWordsBetweenThreshold = get(thresholds, 'origWordsBetweenThreshold', 0)
+    targetWordsBetweenThreshold = get(thresholds, 'targetWordsBetweenThreshold', 0)
 
     for origWord in alignmentsForWord.keys():
         alignments = alignmentsForWord[origWord]
@@ -1563,27 +1588,37 @@ def generateWarnings(warningsPath, type_, bibleType, alignmentsForWord, alignmen
                 'targetWordsBetweenWarning': ''
             }
 
-            peak = alignment['alignmentsTextFreqPeak'] if 'alignmentsTextFreqPeak' in alignment else 100.0
-            alignmentTextFrequency = alignment['alignmentTxtFrequency']
-            peakThreshold = peak * alignmentFrequencyMinThreshold / 100.0
-            if alignmentTextFrequency <= peakThreshold:
-                warnings['frequencyWarning'] += (f"For {origWord} - Specific alignment \"{alignment['alignmentText']}\" used infrequently: {alignmentTextFrequency:.1f}% out of {alignmentsCount} total alignments, threshold {peakThreshold:.1f}% ({alignmentFrequencyMinThreshold:.1f}% of peak {peak:.0f}%)")
+            if alignmentFrequencyMinThreshold:
+                alignmentFrequencyMinThreshold = thresholds['alignmentFrequencyMinThreshold']
+                peak = alignment['alignmentsTextFreqPeak'] if 'alignmentsTextFreqPeak' in alignment else 100.0
+                alignmentTextFrequency = alignment['alignmentTxtFrequency']
+                peakThreshold = peak * alignmentFrequencyMinThreshold / 100.0
+                if alignmentTextFrequency <= peakThreshold:
+                    warnings['frequencyWarning'] += (f"For {origWord} - Specific alignment \"{alignment['alignmentText']}\" used infrequently: {alignmentTextFrequency:.1f}% out of {alignmentsCount} total alignments, threshold {peakThreshold:.1f}% ({alignmentFrequencyMinThreshold:.1f}% of peak {peak:.0f}%)")
 
-            alignmentOrigWords = alignment['origWordsCount']
-            if alignmentOrigWords >= alignmentOrigWordsThreshold:
-                warnings['originalWordsCountWarning'] += (f"For {origWord} - Too many original language words in alignment: {alignmentOrigWords}, threshold {alignmentOrigWordsThreshold}")
+            if alignmentOrigWordsThreshold:
+                alignmentOrigWordsThreshold = thresholds['alignmentOrigWordsThreshold']
+                alignmentOrigWords = alignment['origWordsCount']
+                if alignmentOrigWords >= alignmentOrigWordsThreshold:
+                    warnings['originalWordsCountWarning'] += (f"For {origWord} - Too many original language words in alignment: {alignmentOrigWords}, threshold {alignmentOrigWordsThreshold}")
 
-            alignmentTargetWords = alignment['targetWordsCount']
-            if alignmentTargetWords >= alignmentTargetWordsThreshold:
-                warnings['targetWordsCountWarning'] += (f"For {origWord} - Too many target language words in alignment: {alignmentTargetWords}, threshold {alignmentTargetWordsThreshold}")
+            if alignmentTargetWordsThreshold:
+                alignmentTargetWordsThreshold = thresholds['alignmentTargetWordsThreshold']
+                alignmentTargetWords = alignment['targetWordsCount']
+                if alignmentTargetWords >= alignmentTargetWordsThreshold:
+                    warnings['targetWordsCountWarning'] += (f"For {origWord} - Too many target language words in alignment: {alignmentTargetWords}, threshold {alignmentTargetWordsThreshold}")
 
-            origWordsBetween = alignment['origWordsBetween']
-            if origWordsBetween >= origWordsBetweenThreshold:
-                warnings['originalWordsBetweenWarning'] += (f"For {origWord} - Discontiguous original language alignment, extra words: {origWordsBetween}, threshold {origWordsBetweenThreshold}")
+            if origWordsBetweenThreshold:
+                origWordsBetweenThreshold = thresholds['origWordsBetweenThreshold']
+                origWordsBetween = alignment['origWordsBetween']
+                if origWordsBetween >= origWordsBetweenThreshold:
+                    warnings['originalWordsBetweenWarning'] += (f"For {origWord} - Discontiguous original language alignment, extra words: {origWordsBetween}, threshold {origWordsBetweenThreshold}")
 
-            targetWordsBetween = alignment['targetWordsBetween']
-            if targetWordsBetween >= targetWordsBetweenThreshold:
-                warnings['targetWordsBetweenWarning'] += (f"For {origWord} - Discontiguous target language alignment, extra words: {targetWordsBetween}, threshold {targetWordsBetweenThreshold}")
+            if targetWordsBetweenThreshold:
+                targetWordsBetweenThreshold = thresholds['targetWordsBetweenThreshold']
+                targetWordsBetween = alignment['targetWordsBetween']
+                if targetWordsBetween >= targetWordsBetweenThreshold:
+                    warnings['targetWordsBetweenWarning'] += (f"For {origWord} - Discontiguous target language alignment, extra words: {targetWordsBetween}, threshold {targetWordsBetweenThreshold}")
 
             hasWarnings = False
             for key in warnings.keys():
@@ -1595,8 +1630,7 @@ def generateWarnings(warningsPath, type_, bibleType, alignmentsForWord, alignmen
                 alignment.update(**warnings)
                 alignmentsToCheck.append(alignment)
 
-    if tag:
-        tag = '_' + tag
+    warningsPath = f'{basePath}/{type_}_{bibleType}_{testamentStr}_warnings.json'
     jsonPath = warningsPath.replace('.json', tag + '.json')
     file.writeJsonFile(jsonPath, alignmentsToCheck)
 
@@ -1608,7 +1642,7 @@ def generateWarnings(warningsPath, type_, bibleType, alignmentsForWord, alignmen
         print(f"No warnings found!")
         warningData = df
     saveDataFrameToCSV(csvPath, warningData)
-    return warningData
+    return warningData, summary_sorted
 
 def getStatsForWord(prefix, numList):
     total = 0
