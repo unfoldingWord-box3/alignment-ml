@@ -6,16 +6,9 @@ import subprocess
 
 def printSystemInfo():
     print("#### System Info ####")
-    print(f"  sys.version:  {sys.version}")
-    print(f"  sys.version_info:  {sys.version_info}")
-    print(f"  platform.python_version():  {platform.python_version()}")
-    print(f"  platform.architecture():  {platform.architecture()}")
-    print(f"  platform.machine():  {platform.machine()}")
-    print(f"  platform.platform():  {platform.platform()}")
-    print(f"  platform.processor():  {platform.processor()}")
-    print(f"  platform.python_compiler():  {platform.python_compiler()}")
-    print(f"  platform.python_implementation():  {platform.python_implementation()}")
-    print(f"  platform.system():  {platform.system()}\n")
+    print(f"  python platform.python_version():  {platform.python_version()}")
+    print(f"  python sys.version:  {sys.version}")
+    print(f"  python platform.platform():  {platform.platform()}\n")
 
 def createNodeDownloadCommand(cfg, base_url_of_resource, destination_folder, languageId, resourceId, version, resource_name):
     # [flags] base_url_of_resource destination_folder languageId, resourceId, version
@@ -56,4 +49,48 @@ def runNodeCommand(cmd):
         exit(returncode)
 
     print(f"Finished processing {cmd}")
+
+def runCommand(cmd, ignoreOutput=False):
+    print(f"Running {cmd}")
+    if ignoreOutput:
+        process = subprocess.run(cmd,
+                                 stderr=subprocess.PIPE,
+                                 text=True,
+                                 universal_newlines=True)
+    else:
+        process = subprocess.run(cmd,
+                                 capture_output=True, text=True,
+                                 universal_newlines=True)
+    returncode = process.returncode
+    if returncode > 0:
+        print("\n\n################\nError\n################")
+        print(process.stderr)
+        exit(returncode)
+
+    print(f"Finished {cmd}")
+    return process.stdout
+
+def pipInstall(package):
+    print(f"Installing package {package}")
+    error = None
+    try:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+    except Exception as e:
+        error = e
+
+    if error:
+        error = None
+        try:
+            print("pip install failed, trying conda")
+            runCommand(["conda", "install", "-y", package], ignoreOutput=True)
+        except Exception as e:
+            error = e
+
+    if error:
+        print("\n\n################\nError\n################")
+        print(error)
+        exit()
+
+    print(f"Installed {package}")
 

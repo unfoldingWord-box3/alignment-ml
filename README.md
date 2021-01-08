@@ -10,13 +10,11 @@ Tested using Python 3.9.1 & 3.8.5 for New Testament only.
 - make sure node 15.5+ is installed.  Verify with: `node --version`
   - download installer from: `https://nodejs.org/`
 - make sure python 3 is installed.  Verify with: `python3 --version`
-- setup python modules:
+- on Mac or Linux, can try running `./start.sh install.py`
+  - if that does not say `Install Success` then do:
 ```
 pip3 install pandas
 pip3 install requests
-```    
-- initialize node module:
-```
 cd node_stuff
 npm i
 cd ..

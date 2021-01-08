@@ -1,13 +1,7 @@
 import time
 from datetime import timedelta
 from config import getConfig
-
-############################################
-# get configuration
-cfg = getConfig() # configure values in config.js
-
 import utils.system_utils as system
-from config import getConfig
 
 ############################################
 # get configuration
